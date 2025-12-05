@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.doolin/doolin-oxml@0.11
+- pkg:maven/net.sf.doolin/doolin-oxml@0.11?classifier=sources
+- pkg:maven/net.sf.doolin/doolin-oxml@1.0.RC1
+- pkg:maven/net.sf.doolin/doolin-oxml@1.0.RC1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.sirocco.cloudmanager/sirocco-cloudmanager-ui-flex-war@0.4.0?classifier=sources
+- pkg:maven/org.ow2.sirocco.cloudmanager/sirocco-cloudmanager-ui-flex-war@0.4.0?type=war

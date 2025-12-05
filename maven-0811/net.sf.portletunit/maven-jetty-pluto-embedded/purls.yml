@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.portletunit/maven-jetty-pluto-embedded@2.0
+- pkg:maven/net.sf.portletunit/maven-jetty-pluto-embedded@2.0?classifier=sources

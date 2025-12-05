@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.qdox@1.5_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.qdox@1.5_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.qdox@1.5_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.qdox@1.5_3?classifier=sources

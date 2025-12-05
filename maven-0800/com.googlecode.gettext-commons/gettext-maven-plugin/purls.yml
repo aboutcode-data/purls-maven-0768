@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.gettext-commons/gettext-maven-plugin@1.2.4
+- pkg:maven/com.googlecode.gettext-commons/gettext-maven-plugin@1.2.4?classifier=sources

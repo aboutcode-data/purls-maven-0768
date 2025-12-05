@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-tools/scala-stm_2.9.3-RC1@0.6
+- pkg:maven/org.scala-tools/scala-stm_2.9.3-RC1@0.6?classifier=sources

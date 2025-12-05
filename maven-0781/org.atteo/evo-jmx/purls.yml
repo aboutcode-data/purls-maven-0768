@@ -1,0 +1,2 @@
+- pkg:maven/org.atteo/evo-jmx@0.6
+- pkg:maven/org.atteo/evo-jmx@0.6?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.11
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.11?classifier=sources
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.13
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.13?classifier=sources
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.14
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.14?classifier=sources
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.15
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.15?classifier=sources
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.16
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.16?classifier=sources
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.17
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.17?classifier=sources
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.18
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.18?classifier=sources
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.19
+- pkg:maven/net.sf.jsptest/jsptest-acceptance-jsp12@0.19?classifier=sources

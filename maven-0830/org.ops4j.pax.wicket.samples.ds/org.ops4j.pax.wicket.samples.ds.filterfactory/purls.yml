@@ -1,0 +1,4 @@
+- pkg:maven/org.ops4j.pax.wicket.samples.ds/org.ops4j.pax.wicket.samples.ds.filterfactory@3.0.0
+- pkg:maven/org.ops4j.pax.wicket.samples.ds/org.ops4j.pax.wicket.samples.ds.filterfactory@3.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.wicket.samples.ds/org.ops4j.pax.wicket.samples.ds.filterfactory@3.0.1
+- pkg:maven/org.ops4j.pax.wicket.samples.ds/org.ops4j.pax.wicket.samples.ds.filterfactory@3.0.1?classifier=sources

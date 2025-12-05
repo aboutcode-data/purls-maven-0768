@@ -1,0 +1,2 @@
+- pkg:maven/net.happyonroad/spring-component-framework@0.0.1
+- pkg:maven/net.happyonroad/spring-component-framework@0.0.1?classifier=sources

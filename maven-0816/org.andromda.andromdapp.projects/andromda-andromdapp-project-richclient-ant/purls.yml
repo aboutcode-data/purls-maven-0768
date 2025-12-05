@@ -1,0 +1,4 @@
+- pkg:maven/org.andromda.andromdapp.projects/andromda-andromdapp-project-richclient-ant@3.2
+- pkg:maven/org.andromda.andromdapp.projects/andromda-andromdapp-project-richclient-ant@3.3
+- pkg:maven/org.andromda.andromdapp.projects/andromda-andromdapp-project-richclient-ant@3.4
+- pkg:maven/org.andromda.andromdapp.projects/andromda-andromdapp-project-richclient-ant@3.4?classifier=sources

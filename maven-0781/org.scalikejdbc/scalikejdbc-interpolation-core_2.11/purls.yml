@@ -1,0 +1,2 @@
+- pkg:maven/org.scalikejdbc/scalikejdbc-interpolation-core_2.11@2.0.0-beta1
+- pkg:maven/org.scalikejdbc/scalikejdbc-interpolation-core_2.11@2.0.0-beta1?classifier=sources

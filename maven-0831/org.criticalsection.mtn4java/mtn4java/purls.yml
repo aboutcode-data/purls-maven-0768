@@ -1,0 +1,4 @@
+- pkg:maven/org.criticalsection.mtn4java/mtn4java@1.0-alpha-01
+- pkg:maven/org.criticalsection.mtn4java/mtn4java@1.0-alpha-01?classifier=sources
+- pkg:maven/org.criticalsection.mtn4java/mtn4java@1.0-alpha-02
+- pkg:maven/org.criticalsection.mtn4java/mtn4java@1.0-alpha-02?classifier=sources

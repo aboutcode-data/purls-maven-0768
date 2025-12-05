@@ -1,0 +1,2 @@
+- pkg:maven/com.franklinchen/java-tau_2.10@1.0.0
+- pkg:maven/com.franklinchen/java-tau_2.10@1.0.0?classifier=sources

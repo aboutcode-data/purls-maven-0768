@@ -1,0 +1,2 @@
+- pkg:maven/net.stickycode.component/sticky-component-spring25@1.2
+- pkg:maven/net.stickycode.component/sticky-component-spring25@1.2?classifier=sources

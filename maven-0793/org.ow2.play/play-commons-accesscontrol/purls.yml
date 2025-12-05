@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.play/play-commons-accesscontrol@1.1
+- pkg:maven/org.ow2.play/play-commons-accesscontrol@1.1?classifier=sources

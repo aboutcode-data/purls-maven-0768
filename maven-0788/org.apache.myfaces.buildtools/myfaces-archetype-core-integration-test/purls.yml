@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.myfaces.buildtools/myfaces-archetype-core-integration-test@1.0.4
+- pkg:maven/org.apache.myfaces.buildtools/myfaces-archetype-core-integration-test@1.0.4?classifier=sources

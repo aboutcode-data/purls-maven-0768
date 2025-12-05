@@ -1,0 +1,8 @@
+- pkg:maven/com.jpattern/jporm-core@6.0.0
+- pkg:maven/com.jpattern/jporm-core@6.0.0-alpha-1
+- pkg:maven/com.jpattern/jporm-core@6.0.0-alpha-1?classifier=sources
+- pkg:maven/com.jpattern/jporm-core@6.0.0?classifier=sources
+- pkg:maven/com.jpattern/jporm-core@6.1.0
+- pkg:maven/com.jpattern/jporm-core@6.1.0?classifier=sources
+- pkg:maven/com.jpattern/jporm-core@6.3.0
+- pkg:maven/com.jpattern/jporm-core@6.3.0?classifier=sources

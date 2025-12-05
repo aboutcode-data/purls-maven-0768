@@ -1,0 +1,5 @@
+- pkg:maven/de.matrixweb.osgi.wrapped/osgi-wrapped-closure-compiler@1.0.v20130411
+- pkg:maven/de.matrixweb.osgi.wrapped/osgi-wrapped-closure-compiler@1.0.v20130722
+- pkg:maven/de.matrixweb.osgi.wrapped/osgi-wrapped-closure-compiler@1.0.v20131014
+- pkg:maven/de.matrixweb.osgi.wrapped/osgi-wrapped-closure-compiler@r1918
+- pkg:maven/de.matrixweb.osgi.wrapped/osgi-wrapped-closure-compiler@r2079

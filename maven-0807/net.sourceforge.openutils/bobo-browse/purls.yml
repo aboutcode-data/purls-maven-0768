@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.openutils/bobo-browse@3.2.0.lucene36
+- pkg:maven/net.sourceforge.openutils/bobo-browse@3.2.0.lucene36?classifier=sources

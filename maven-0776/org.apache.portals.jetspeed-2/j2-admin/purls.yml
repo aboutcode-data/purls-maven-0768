@@ -1,0 +1,10 @@
+- pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.0?type=war
+- pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.1.3?type=war
+- pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.1.4?type=war
+- pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.2.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.2.0?classifier=src&type=zip
+- pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.2.0?type=war
+- pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.2.1?type=war
+- pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.2.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.2.2?type=war

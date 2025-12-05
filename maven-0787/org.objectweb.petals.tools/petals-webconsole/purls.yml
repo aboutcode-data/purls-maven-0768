@@ -1,0 +1,2 @@
+- pkg:maven/org.objectweb.petals.tools/petals-webconsole@1.0?classifier=sources
+- pkg:maven/org.objectweb.petals.tools/petals-webconsole@1.0?type=war

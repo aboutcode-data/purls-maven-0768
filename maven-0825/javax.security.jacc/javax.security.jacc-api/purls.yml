@@ -1,0 +1,4 @@
+- pkg:maven/javax.security.jacc/javax.security.jacc-api@1.4
+- pkg:maven/javax.security.jacc/javax.security.jacc-api@1.4?classifier=sources
+- pkg:maven/javax.security.jacc/javax.security.jacc-api@1.5
+- pkg:maven/javax.security.jacc/javax.security.jacc-api@1.5?classifier=sources

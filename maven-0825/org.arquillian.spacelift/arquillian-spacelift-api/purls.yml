@@ -1,0 +1,2 @@
+- pkg:maven/org.arquillian.spacelift/arquillian-spacelift-api@1.0.0.Alpha1
+- pkg:maven/org.arquillian.spacelift/arquillian-spacelift-api@1.0.0.Alpha1?classifier=sources

@@ -1,0 +1,7 @@
+- pkg:maven/picocontainer/picocontainer-gems@1.1
+- pkg:maven/picocontainer/picocontainer-gems@1.2
+- pkg:maven/picocontainer/picocontainer-gems@1.2-RC-1
+- pkg:maven/picocontainer/picocontainer-gems@1.2-RC-1?classifier=src&type=tar.gz
+- pkg:maven/picocontainer/picocontainer-gems@1.2-RC-1?classifier=src&type=zip
+- pkg:maven/picocontainer/picocontainer-gems@1.2-RC-2
+- pkg:maven/picocontainer/picocontainer-gems@1.2-beta-1

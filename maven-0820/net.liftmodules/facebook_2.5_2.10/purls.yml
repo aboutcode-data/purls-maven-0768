@@ -1,0 +1,2 @@
+- pkg:maven/net.liftmodules/facebook_2.5_2.10@1.2
+- pkg:maven/net.liftmodules/facebook_2.5_2.10@1.2?classifier=sources

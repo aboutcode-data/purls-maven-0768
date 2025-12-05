@@ -1,0 +1,14 @@
+- pkg:maven/com.sun.mail/gimap@1.4.6
+- pkg:maven/com.sun.mail/gimap@1.4.6-rc1
+- pkg:maven/com.sun.mail/gimap@1.4.6-rc1?classifier=sources
+- pkg:maven/com.sun.mail/gimap@1.4.6?classifier=sources
+- pkg:maven/com.sun.mail/gimap@1.4.7
+- pkg:maven/com.sun.mail/gimap@1.4.7?classifier=sources
+- pkg:maven/com.sun.mail/gimap@1.5.0
+- pkg:maven/com.sun.mail/gimap@1.5.0-b01
+- pkg:maven/com.sun.mail/gimap@1.5.0-b01?classifier=sources
+- pkg:maven/com.sun.mail/gimap@1.5.0-b02
+- pkg:maven/com.sun.mail/gimap@1.5.0-b02?classifier=sources
+- pkg:maven/com.sun.mail/gimap@1.5.0?classifier=sources
+- pkg:maven/com.sun.mail/gimap@1.5.1
+- pkg:maven/com.sun.mail/gimap@1.5.1?classifier=sources

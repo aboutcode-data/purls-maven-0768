@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.maven.doxia/doxia-modules@1.1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.doxia/doxia-modules@1.1.2?classifier=source-release&type=zip

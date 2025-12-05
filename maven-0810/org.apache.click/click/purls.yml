@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.click/click@2.0.1-incubating
+- pkg:maven/org.apache.click/click@2.1.0
+- pkg:maven/org.apache.click/click@2.1.0-RC1-incubating
+- pkg:maven/org.apache.click/click@2.2.0
+- pkg:maven/org.apache.click/click@2.2.0-RC1
+- pkg:maven/org.apache.click/click@2.3.0
+- pkg:maven/org.apache.click/click@2.3.0-M1
+- pkg:maven/org.apache.click/click@2.3.0-RC1

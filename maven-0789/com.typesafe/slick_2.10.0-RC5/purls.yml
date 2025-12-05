@@ -1,0 +1,2 @@
+- pkg:maven/com.typesafe/slick_2.10.0-RC5@0.11.2
+- pkg:maven/com.typesafe/slick_2.10.0-RC5@0.11.2?classifier=sources

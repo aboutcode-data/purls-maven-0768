@@ -1,0 +1,6 @@
+- pkg:maven/com.github.datatables4j/datatables4j-export-itext@0.1.1
+- pkg:maven/com.github.datatables4j/datatables4j-export-itext@0.1.1?classifier=sources
+- pkg:maven/com.github.datatables4j/datatables4j-export-itext@0.1.2
+- pkg:maven/com.github.datatables4j/datatables4j-export-itext@0.1.2?classifier=sources
+- pkg:maven/com.github.datatables4j/datatables4j-export-itext@0.1.3
+- pkg:maven/com.github.datatables4j/datatables4j-export-itext@0.1.3?classifier=sources

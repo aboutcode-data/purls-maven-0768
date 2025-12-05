@@ -1,0 +1,2 @@
+- pkg:maven/genjava/gj-gui@0.1
+- pkg:maven/genjava/gj-gui@0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.commonjava.tensor/tensor-db-neo4j@0.1
+- pkg:maven/org.commonjava.tensor/tensor-db-neo4j@0.1?classifier=sources

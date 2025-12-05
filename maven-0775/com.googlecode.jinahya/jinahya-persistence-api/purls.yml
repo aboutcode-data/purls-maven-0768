@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.jinahya/jinahya-persistence-api@1.0-alpha-1
+- pkg:maven/com.googlecode.jinahya/jinahya-persistence-api@1.0-alpha-1?classifier=sources

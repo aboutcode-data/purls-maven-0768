@@ -1,0 +1,11 @@
+- pkg:maven/nanocontainer/nanocontainer-nanowar@1.0
+- pkg:maven/nanocontainer/nanocontainer-nanowar@1.0-20051007.105005
+- pkg:maven/nanocontainer/nanocontainer-nanowar@1.0-20051010.000410
+- pkg:maven/nanocontainer/nanocontainer-nanowar@1.0-RC-1
+- pkg:maven/nanocontainer/nanocontainer-nanowar@1.0-RC-1?classifier=src&type=tar.gz
+- pkg:maven/nanocontainer/nanocontainer-nanowar@1.0-RC-1?classifier=src&type=zip
+- pkg:maven/nanocontainer/nanocontainer-nanowar@1.0-RC-2
+- pkg:maven/nanocontainer/nanocontainer-nanowar@1.0-RC-3
+- pkg:maven/nanocontainer/nanocontainer-nanowar@1.0-beta-1
+- pkg:maven/nanocontainer/nanocontainer-nanowar@1.0-beta-3
+- pkg:maven/nanocontainer/nanocontainer-nanowar@1.0-beta-4

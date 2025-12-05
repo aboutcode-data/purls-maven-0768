@@ -1,0 +1,4 @@
+- pkg:maven/fr.opensagres.xdocreport/fr.opensagres.xdocreport.template.textstyling.wiki@0.9.3
+- pkg:maven/fr.opensagres.xdocreport/fr.opensagres.xdocreport.template.textstyling.wiki@0.9.3?classifier=sources
+- pkg:maven/fr.opensagres.xdocreport/fr.opensagres.xdocreport.template.textstyling.wiki@0.9.4
+- pkg:maven/fr.opensagres.xdocreport/fr.opensagres.xdocreport.template.textstyling.wiki@0.9.4?classifier=sources

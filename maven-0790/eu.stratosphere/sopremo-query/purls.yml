@@ -1,0 +1,2 @@
+- pkg:maven/eu.stratosphere/sopremo-query@0.4
+- pkg:maven/eu.stratosphere/sopremo-query@0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.pressgang.ccms/j2bugzilla-pressgang@1.4
+- pkg:maven/org.jboss.pressgang.ccms/j2bugzilla-pressgang@1.4?classifier=sources

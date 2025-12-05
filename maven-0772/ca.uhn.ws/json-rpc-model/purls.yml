@@ -1,0 +1,2 @@
+- pkg:maven/ca.uhn.ws/json-rpc-model@1.0
+- pkg:maven/ca.uhn.ws/json-rpc-model@1.0?classifier=sources

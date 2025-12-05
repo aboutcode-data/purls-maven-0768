@@ -1,0 +1,2 @@
+- pkg:maven/org.agiso.tempel.templates/eclipse-project-java@0.0.1.RELEASE
+- pkg:maven/org.agiso.tempel.templates/eclipse-project-java@0.0.1.RELEASE?classifier=sources

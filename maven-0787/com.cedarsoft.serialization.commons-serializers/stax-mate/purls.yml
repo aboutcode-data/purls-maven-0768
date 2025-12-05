@@ -1,0 +1,4 @@
+- pkg:maven/com.cedarsoft.serialization.commons-serializers/stax-mate@5.0.0
+- pkg:maven/com.cedarsoft.serialization.commons-serializers/stax-mate@5.0.0?classifier=sources
+- pkg:maven/com.cedarsoft.serialization.commons-serializers/stax-mate@6.0.0
+- pkg:maven/com.cedarsoft.serialization.commons-serializers/stax-mate@6.0.0?classifier=sources

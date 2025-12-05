@@ -1,0 +1,2 @@
+- pkg:maven/org.onebusaway.plugins/maven-hsqldb-plugin@1.0
+- pkg:maven/org.onebusaway.plugins/maven-hsqldb-plugin@1.0?classifier=sources

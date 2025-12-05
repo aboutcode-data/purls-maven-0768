@@ -1,0 +1,4 @@
+- pkg:maven/org.subethamail/subethasmtp-smtp@1.0.3
+- pkg:maven/org.subethamail/subethasmtp-smtp@1.0.3?classifier=sources
+- pkg:maven/org.subethamail/subethasmtp-smtp@1.2
+- pkg:maven/org.subethamail/subethasmtp-smtp@1.2?classifier=sources

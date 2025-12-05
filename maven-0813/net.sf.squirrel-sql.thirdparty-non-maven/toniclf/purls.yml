@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.squirrel-sql.thirdparty-non-maven/toniclf@1.0.5
+- pkg:maven/net.sf.squirrel-sql.thirdparty-non-maven/toniclf@1.0.5?classifier=sources

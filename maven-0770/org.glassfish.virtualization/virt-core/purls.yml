@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.virtualization/virt-core@3.2-b05?classifier=sources
+- pkg:maven/org.glassfish.virtualization/virt-core@3.2-b06?classifier=sources

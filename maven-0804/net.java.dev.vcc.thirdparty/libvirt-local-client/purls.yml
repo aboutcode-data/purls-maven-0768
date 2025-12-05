@@ -1,0 +1,6 @@
+- pkg:maven/net.java.dev.vcc.thirdparty/libvirt-local-client@0.0.1
+- pkg:maven/net.java.dev.vcc.thirdparty/libvirt-local-client@0.0.1?classifier=sources
+- pkg:maven/net.java.dev.vcc.thirdparty/libvirt-local-client@0.0.2
+- pkg:maven/net.java.dev.vcc.thirdparty/libvirt-local-client@0.0.2?classifier=sources
+- pkg:maven/net.java.dev.vcc.thirdparty/libvirt-local-client@0.0.4
+- pkg:maven/net.java.dev.vcc.thirdparty/libvirt-local-client@0.0.4?classifier=sources

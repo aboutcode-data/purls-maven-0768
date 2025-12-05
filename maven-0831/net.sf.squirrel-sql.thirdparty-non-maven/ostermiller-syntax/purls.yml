@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.squirrel-sql.thirdparty-non-maven/ostermiller-syntax@1.1.1
+- pkg:maven/net.sf.squirrel-sql.thirdparty-non-maven/ostermiller-syntax@1.1.1?classifier=sources

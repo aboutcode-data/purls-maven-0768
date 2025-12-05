@@ -1,0 +1,4 @@
+- pkg:maven/net.windwards/options@1.0.3
+- pkg:maven/net.windwards/options@1.0.3?classifier=sources
+- pkg:maven/net.windwards/options@1.1
+- pkg:maven/net.windwards/options@1.1?classifier=sources

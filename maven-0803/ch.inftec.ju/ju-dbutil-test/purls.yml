@@ -1,0 +1,2 @@
+- pkg:maven/ch.inftec.ju/ju-dbutil-test@4.1
+- pkg:maven/ch.inftec.ju/ju-dbutil-test@4.1?classifier=sources

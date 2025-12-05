@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.cxf.fediz.examples/simpleWebapp@1.0.0?classifier=sources
+- pkg:maven/org.apache.cxf.fediz.examples/simpleWebapp@1.0.0?type=war
+- pkg:maven/org.apache.cxf.fediz.examples/simpleWebapp@1.0.3?classifier=sources
+- pkg:maven/org.apache.cxf.fediz.examples/simpleWebapp@1.0.3?type=war
+- pkg:maven/org.apache.cxf.fediz.examples/simpleWebapp@1.1.0?classifier=sources
+- pkg:maven/org.apache.cxf.fediz.examples/simpleWebapp@1.1.0?type=war

@@ -1,0 +1,4 @@
+- pkg:maven/net.antidot/afs-api@1.0
+- pkg:maven/net.antidot/afs-api@1.0?classifier=sources
+- pkg:maven/net.antidot/afs-api@1.1
+- pkg:maven/net.antidot/afs-api@1.1?classifier=sources

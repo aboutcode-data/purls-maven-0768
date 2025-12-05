@@ -1,0 +1,2 @@
+- pkg:maven/org.objectweb.petals/petals-webapp@1.3?classifier=sources
+- pkg:maven/org.objectweb.petals/petals-webapp@1.3?type=war

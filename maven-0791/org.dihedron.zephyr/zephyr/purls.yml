@@ -1,0 +1,2 @@
+- pkg:maven/org.dihedron.zephyr/zephyr@0.0.1
+- pkg:maven/org.dihedron.zephyr/zephyr@0.0.1?classifier=sources

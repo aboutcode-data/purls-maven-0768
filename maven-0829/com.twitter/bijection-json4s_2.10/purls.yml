@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter/bijection-json4s_2.10@0.6.2
+- pkg:maven/com.twitter/bijection-json4s_2.10@0.6.2?classifier=sources

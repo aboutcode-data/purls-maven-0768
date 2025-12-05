@@ -1,0 +1,2 @@
+- pkg:maven/com.ning/metrics.realtime-core@1.1.0
+- pkg:maven/com.ning/metrics.realtime-core@1.1.0?classifier=sources

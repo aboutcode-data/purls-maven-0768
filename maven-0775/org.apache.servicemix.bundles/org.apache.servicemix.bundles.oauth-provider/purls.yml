@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.oauth-provider@20100527_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.oauth-provider@20100527_1?classifier=sources

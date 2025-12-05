@@ -1,0 +1,2 @@
+- pkg:maven/org.gradle.api.plugins/gradle-java2html-plugin@0.3
+- pkg:maven/org.gradle.api.plugins/gradle-java2html-plugin@0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/smartrics.restfixture/smartrics-RestFixture@3.0
+- pkg:maven/smartrics.restfixture/smartrics-RestFixture@3.0?classifier=sources

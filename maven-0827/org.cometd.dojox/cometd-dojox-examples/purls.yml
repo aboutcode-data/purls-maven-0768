@@ -1,0 +1,2 @@
+- pkg:maven/org.cometd.dojox/cometd-dojox-examples@1.0.beta8?classifier=sources
+- pkg:maven/org.cometd.dojox/cometd-dojox-examples@1.0.beta8?type=war

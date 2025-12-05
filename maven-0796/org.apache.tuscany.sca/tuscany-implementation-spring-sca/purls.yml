@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.tuscany.sca/tuscany-implementation-spring-sca@2.0-M3
+- pkg:maven/org.apache.tuscany.sca/tuscany-implementation-spring-sca@2.0-M4
+- pkg:maven/org.apache.tuscany.sca/tuscany-implementation-spring-sca@2.0-M5
+- pkg:maven/org.apache.tuscany.sca/tuscany-implementation-spring-sca@2.0-M5.1
+- pkg:maven/org.apache.tuscany.sca/tuscany-implementation-spring-sca@2.0-M5?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/com.vaadin.external.atmosphere.client/jquery@2.0.3-vaadin1?type=war
+- pkg:maven/com.vaadin.external.atmosphere.client/jquery@2.0.3.vaadin2?type=war
+- pkg:maven/com.vaadin.external.atmosphere.client/jquery@2.0.8.vaadin1?type=war
+- pkg:maven/com.vaadin.external.atmosphere.client/jquery@2.1.5.vaadin1?type=war
+- pkg:maven/com.vaadin.external.atmosphere.client/jquery@2.1.5.vaadin2?type=war

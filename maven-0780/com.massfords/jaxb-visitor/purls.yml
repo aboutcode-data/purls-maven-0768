@@ -1,0 +1,10 @@
+- pkg:maven/com.massfords/jaxb-visitor@1.10
+- pkg:maven/com.massfords/jaxb-visitor@1.10?classifier=sources
+- pkg:maven/com.massfords/jaxb-visitor@1.11
+- pkg:maven/com.massfords/jaxb-visitor@1.11?classifier=sources
+- pkg:maven/com.massfords/jaxb-visitor@1.12
+- pkg:maven/com.massfords/jaxb-visitor@1.12?classifier=sources
+- pkg:maven/com.massfords/jaxb-visitor@1.13
+- pkg:maven/com.massfords/jaxb-visitor@1.13?classifier=sources
+- pkg:maven/com.massfords/jaxb-visitor@1.9
+- pkg:maven/com.massfords/jaxb-visitor@1.9?classifier=sources

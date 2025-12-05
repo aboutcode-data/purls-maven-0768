@@ -1,0 +1,6 @@
+- pkg:maven/org.objectweb.petals/petals-jbi-descriptor@1.0
+- pkg:maven/org.objectweb.petals/petals-jbi-descriptor@1.0?classifier=sources
+- pkg:maven/org.objectweb.petals/petals-jbi-descriptor@1.1
+- pkg:maven/org.objectweb.petals/petals-jbi-descriptor@1.1?classifier=sources
+- pkg:maven/org.objectweb.petals/petals-jbi-descriptor@1.2.0
+- pkg:maven/org.objectweb.petals/petals-jbi-descriptor@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.auckland.common/common-stereotypes@1.5
+- pkg:maven/nz.ac.auckland.common/common-stereotypes@1.5?classifier=sources

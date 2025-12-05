@@ -1,0 +1,2 @@
+- pkg:maven/pl.oakfusion/valter@1.0
+- pkg:maven/pl.oakfusion/valter@1.0?classifier=sources

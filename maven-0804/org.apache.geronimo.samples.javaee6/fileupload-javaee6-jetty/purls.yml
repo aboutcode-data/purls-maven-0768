@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.samples.javaee6/fileupload-javaee6-jetty@3.0-beta-1?classifier=sources
+- pkg:maven/org.apache.geronimo.samples.javaee6/fileupload-javaee6-jetty@3.0.0?classifier=sources

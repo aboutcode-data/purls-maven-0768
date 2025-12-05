@@ -1,0 +1,9 @@
+- pkg:maven/org.livetribe/livetribe-jsr223@2.0.0
+- pkg:maven/org.livetribe/livetribe-jsr223@2.0.1
+- pkg:maven/org.livetribe/livetribe-jsr223@2.0.2
+- pkg:maven/org.livetribe/livetribe-jsr223@2.0.3
+- pkg:maven/org.livetribe/livetribe-jsr223@2.0.4
+- pkg:maven/org.livetribe/livetribe-jsr223@2.0.5
+- pkg:maven/org.livetribe/livetribe-jsr223@2.0.6
+- pkg:maven/org.livetribe/livetribe-jsr223@2.0.7
+- pkg:maven/org.livetribe/livetribe-jsr223@2.0.7?classifier=sources

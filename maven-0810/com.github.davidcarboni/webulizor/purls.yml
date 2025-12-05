@@ -1,0 +1,16 @@
+- pkg:maven/com.github.davidcarboni/webulizor@0.6.3?classifier=sources
+- pkg:maven/com.github.davidcarboni/webulizor@0.6.3?type=war
+- pkg:maven/com.github.davidcarboni/webulizor@0.6.4?classifier=sources
+- pkg:maven/com.github.davidcarboni/webulizor@0.6.4?type=war
+- pkg:maven/com.github.davidcarboni/webulizor@0.6.6?classifier=sources
+- pkg:maven/com.github.davidcarboni/webulizor@0.6.6?type=war
+- pkg:maven/com.github.davidcarboni/webulizor@0.7.1?classifier=sources
+- pkg:maven/com.github.davidcarboni/webulizor@0.7.1?type=war
+- pkg:maven/com.github.davidcarboni/webulizor@0.7.2?classifier=sources
+- pkg:maven/com.github.davidcarboni/webulizor@0.7.2?type=war
+- pkg:maven/com.github.davidcarboni/webulizor@0.7.3?classifier=sources
+- pkg:maven/com.github.davidcarboni/webulizor@0.7.3?type=war
+- pkg:maven/com.github.davidcarboni/webulizor@0.7.4?classifier=sources
+- pkg:maven/com.github.davidcarboni/webulizor@0.7.4?type=war
+- pkg:maven/com.github.davidcarboni/webulizor@0.7.5?classifier=sources
+- pkg:maven/com.github.davidcarboni/webulizor@0.7.5?type=war

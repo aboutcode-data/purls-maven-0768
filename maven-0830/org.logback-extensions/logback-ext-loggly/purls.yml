@@ -1,0 +1,4 @@
+- pkg:maven/org.logback-extensions/logback-ext-loggly@0.1.1
+- pkg:maven/org.logback-extensions/logback-ext-loggly@0.1.1?classifier=sources
+- pkg:maven/org.logback-extensions/logback-ext-loggly@0.1.2
+- pkg:maven/org.logback-extensions/logback-ext-loggly@0.1.2?classifier=sources

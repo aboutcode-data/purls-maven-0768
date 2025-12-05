@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nill14/webstart-maven-plugin@1.0-beta-3
+- pkg:maven/com.github.nill14/webstart-maven-plugin@1.0-beta-3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.kie/kie-maven-example@6.0.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-maven-example@6.0.1.Final?classifier=sources
+- pkg:maven/org.kie/kie-maven-example@6.1.0.Beta1?classifier=sources
+- pkg:maven/org.kie/kie-maven-example@6.1.0.Beta2?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/org.fusesource.insight/insight-maven-web@7.1.0.fuse-047?type=war
+- pkg:maven/org.fusesource.insight/insight-maven-web@7.2.0.redhat-024?classifier=sources
+- pkg:maven/org.fusesource.insight/insight-maven-web@7.2.0.redhat-024?type=war
+- pkg:maven/org.fusesource.insight/insight-maven-web@7.2.0.redhat-060?classifier=sources
+- pkg:maven/org.fusesource.insight/insight-maven-web@7.2.0.redhat-060?type=war

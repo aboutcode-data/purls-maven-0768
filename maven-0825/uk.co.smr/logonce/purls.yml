@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.smr/logonce@0.1.2
+- pkg:maven/uk.co.smr/logonce@0.1.2?classifier=sources

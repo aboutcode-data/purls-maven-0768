@@ -1,0 +1,2 @@
+- pkg:maven/edu.washington.cs.knowitall/opennlp-parse-models@1.5
+- pkg:maven/edu.washington.cs.knowitall/opennlp-parse-models@1.5?classifier=sources

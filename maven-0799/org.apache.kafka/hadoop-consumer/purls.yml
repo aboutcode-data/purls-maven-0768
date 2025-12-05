@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.kafka/hadoop-consumer@0.8.0
+- pkg:maven/org.apache.kafka/hadoop-consumer@0.8.0?classifier=sources

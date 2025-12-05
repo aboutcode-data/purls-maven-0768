@@ -1,0 +1,2 @@
+- pkg:maven/org.komamitsu/android-logger-bridge@0.0.1
+- pkg:maven/org.komamitsu/android-logger-bridge@0.0.1?classifier=sources

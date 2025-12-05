@@ -1,0 +1,2 @@
+- pkg:maven/com.sencha.gxt/gxt-themebuilder@3.1.0-beta
+- pkg:maven/com.sencha.gxt/gxt-themebuilder@3.1.0-beta?classifier=sources

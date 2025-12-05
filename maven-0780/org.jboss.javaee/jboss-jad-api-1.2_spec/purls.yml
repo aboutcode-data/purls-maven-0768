@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.javaee/jboss-jad-api-1.2_spec@5.0.2.GA
+- pkg:maven/org.jboss.javaee/jboss-jad-api-1.2_spec@5.0.2.GA?classifier=sources
+- pkg:maven/org.jboss.javaee/jboss-jad-api-1.2_spec@5.0.2.RC1
+- pkg:maven/org.jboss.javaee/jboss-jad-api-1.2_spec@5.0.2.RC1?classifier=sources

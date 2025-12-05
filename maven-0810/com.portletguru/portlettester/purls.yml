@@ -1,0 +1,2 @@
+- pkg:maven/com.portletguru/portlettester@0.1
+- pkg:maven/com.portletguru/portlettester@0.1?classifier=sources

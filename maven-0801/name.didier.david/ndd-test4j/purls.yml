@@ -1,0 +1,4 @@
+- pkg:maven/name.didier.david/ndd-test4j@0.1.0
+- pkg:maven/name.didier.david/ndd-test4j@0.1.0?classifier=sources
+- pkg:maven/name.didier.david/ndd-test4j@0.2.0
+- pkg:maven/name.didier.david/ndd-test4j@0.2.0?classifier=sources

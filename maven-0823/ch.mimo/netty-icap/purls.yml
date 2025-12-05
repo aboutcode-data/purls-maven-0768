@@ -1,0 +1,10 @@
+- pkg:maven/ch.mimo/netty-icap@1.0.0.GA
+- pkg:maven/ch.mimo/netty-icap@1.0.0.GA?classifier=sources
+- pkg:maven/ch.mimo/netty-icap@1.0.0.RC1
+- pkg:maven/ch.mimo/netty-icap@1.0.0.RC1?classifier=sources
+- pkg:maven/ch.mimo/netty-icap@1.0.0.RC2
+- pkg:maven/ch.mimo/netty-icap@1.0.0.RC2?classifier=sources
+- pkg:maven/ch.mimo/netty-icap@1.0.0.RC3
+- pkg:maven/ch.mimo/netty-icap@1.0.0.RC3?classifier=sources
+- pkg:maven/ch.mimo/netty-icap@1.0.1.GA
+- pkg:maven/ch.mimo/netty-icap@1.0.1.GA?classifier=sources

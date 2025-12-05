@@ -1,0 +1,6 @@
+- pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample2-service@0.5.0
+- pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample2-service@0.5.0?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample2-service@0.6.0
+- pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample2-service@0.6.0?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample2-service@0.7.0
+- pkg:maven/org.ops4j.pax.cdi.samples/pax-cdi-sample2-service@0.7.0?classifier=sources

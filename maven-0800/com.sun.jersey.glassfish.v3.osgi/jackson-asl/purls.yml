@@ -1,0 +1,6 @@
+- pkg:maven/com.sun.jersey.glassfish.v3.osgi/jackson-asl@1.0.3
+- pkg:maven/com.sun.jersey.glassfish.v3.osgi/jackson-asl@1.0.3.1
+- pkg:maven/com.sun.jersey.glassfish.v3.osgi/jackson-asl@1.1.0-ea
+- pkg:maven/com.sun.jersey.glassfish.v3.osgi/jackson-asl@1.1.0-ea?classifier=sources
+- pkg:maven/com.sun.jersey.glassfish.v3.osgi/jackson-asl@1.1.1-ea
+- pkg:maven/com.sun.jersey.glassfish.v3.osgi/jackson-asl@1.1.1-ea?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel/camel-example-servlet-tomcat-blueprintweb@2.13.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-servlet-tomcat-blueprintweb@2.13.0?type=war

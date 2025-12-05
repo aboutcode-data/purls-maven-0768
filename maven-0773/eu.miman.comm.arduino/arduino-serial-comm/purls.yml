@@ -1,0 +1,2 @@
+- pkg:maven/eu.miman.comm.arduino/arduino-serial-comm@1.0.3
+- pkg:maven/eu.miman.comm.arduino/arduino-serial-comm@1.0.3?classifier=sources

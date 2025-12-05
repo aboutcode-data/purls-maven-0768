@@ -1,0 +1,2 @@
+- pkg:maven/fr.opensagres.maven.plugins/gcupload-maven-plugin@1.0.0
+- pkg:maven/fr.opensagres.maven.plugins/gcupload-maven-plugin@1.0.0?classifier=sources

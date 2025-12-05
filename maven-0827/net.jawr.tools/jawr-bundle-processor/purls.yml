@@ -1,0 +1,4 @@
+- pkg:maven/net.jawr.tools/jawr-bundle-processor@1.5
+- pkg:maven/net.jawr.tools/jawr-bundle-processor@1.5.1
+- pkg:maven/net.jawr.tools/jawr-bundle-processor@1.5.1?classifier=sources
+- pkg:maven/net.jawr.tools/jawr-bundle-processor@1.5?classifier=sources

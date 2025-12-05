@@ -1,0 +1,2 @@
+- pkg:maven/de.twentyeleven.skysail/skysail.server.configuration.byPropertiesService@0.1.2
+- pkg:maven/de.twentyeleven.skysail/skysail.server.configuration.byPropertiesService@0.1.2?classifier=sources

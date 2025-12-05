@@ -1,0 +1,2 @@
+- pkg:maven/com.google.sitebricks/stat@0.8.3
+- pkg:maven/com.google.sitebricks/stat@0.8.3?classifier=sources

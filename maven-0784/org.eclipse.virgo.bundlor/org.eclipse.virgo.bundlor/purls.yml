@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.virgo.bundlor/org.eclipse.virgo.bundlor@1.1.2.RELEASE
+- pkg:maven/org.eclipse.virgo.bundlor/org.eclipse.virgo.bundlor@1.1.2.RELEASE?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/tw.edu.ntu.csie/libsvm@3.1
+- pkg:maven/tw.edu.ntu.csie/libsvm@3.17
+- pkg:maven/tw.edu.ntu.csie/libsvm@3.17?classifier=sources
+- pkg:maven/tw.edu.ntu.csie/libsvm@3.1?classifier=sources

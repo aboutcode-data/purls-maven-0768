@@ -1,0 +1,4 @@
+- pkg:maven/de.flapdoodle.wicket6/de.flapdoodle.wicket--examples@6.0.0?classifier=sources
+- pkg:maven/de.flapdoodle.wicket6/de.flapdoodle.wicket--examples@6.0.0?type=war
+- pkg:maven/de.flapdoodle.wicket6/de.flapdoodle.wicket--examples@6.7.0?classifier=sources
+- pkg:maven/de.flapdoodle.wicket6/de.flapdoodle.wicket--examples@6.7.0?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/org.andromda.bootstrap.repositories/andromda-repository-emf-uml22@3.4
+- pkg:maven/org.andromda.bootstrap.repositories/andromda-repository-emf-uml22@3.4?classifier=sources

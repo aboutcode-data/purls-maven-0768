@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.mailprobe/mailprobe-protocols@0.5.2
+- pkg:maven/net.sourceforge.mailprobe/mailprobe-protocols@0.5.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.jplasma/core-lapack@0.1
+- pkg:maven/net.sourceforge.jplasma/core-lapack@0.1?classifier=sources

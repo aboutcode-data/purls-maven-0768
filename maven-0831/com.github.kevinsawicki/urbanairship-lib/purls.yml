@@ -1,0 +1,4 @@
+- pkg:maven/com.github.kevinsawicki/urbanairship-lib@1.1.4
+- pkg:maven/com.github.kevinsawicki/urbanairship-lib@1.1.4?classifier=sources
+- pkg:maven/com.github.kevinsawicki/urbanairship-lib@2.0.2
+- pkg:maven/com.github.kevinsawicki/urbanairship-lib@2.0.2?classifier=sources

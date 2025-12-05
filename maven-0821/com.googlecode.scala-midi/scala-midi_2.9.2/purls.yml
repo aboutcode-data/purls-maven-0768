@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.scala-midi/scala-midi_2.9.2@0.2
+- pkg:maven/com.googlecode.scala-midi/scala-midi_2.9.2@0.2?classifier=sources

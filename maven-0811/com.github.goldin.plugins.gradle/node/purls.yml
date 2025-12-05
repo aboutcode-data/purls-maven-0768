@@ -1,0 +1,16 @@
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.2
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.2.1
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.2.1?classifier=sources
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.2.2
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.2.2?classifier=sources
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.2.4
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.2.4?classifier=sources
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.2.6
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.2.6?classifier=sources
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.2.8
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.2.8?classifier=sources
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.2?classifier=sources
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.3
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.3.1
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.3.1?classifier=sources
+- pkg:maven/com.github.goldin.plugins.gradle/node@0.3?classifier=sources

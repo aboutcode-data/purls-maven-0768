@@ -1,0 +1,9 @@
+- pkg:maven/net.hockeyapp.android/HockeySDK@2.0.0?classifier=sources
+- pkg:maven/net.hockeyapp.android/HockeySDK@2.0.1?classifier=sources
+- pkg:maven/net.hockeyapp.android/HockeySDK@2.0.2?classifier=sources
+- pkg:maven/net.hockeyapp.android/HockeySDK@2.2.1
+- pkg:maven/net.hockeyapp.android/HockeySDK@2.2.1?classifier=sources
+- pkg:maven/net.hockeyapp.android/HockeySDK@3.0.0
+- pkg:maven/net.hockeyapp.android/HockeySDK@3.0.0?classifier=sources
+- pkg:maven/net.hockeyapp.android/HockeySDK@3.0.1
+- pkg:maven/net.hockeyapp.android/HockeySDK@3.0.1?classifier=sources

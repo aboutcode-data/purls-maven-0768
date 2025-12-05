@@ -1,0 +1,7 @@
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.arch@0.8.0
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.arch@1.0.0
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.arch@1.2.0
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.arch@1.4.0
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.arch@1.4.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.arch@1.6.0
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.arch@1.6.0?classifier=sources

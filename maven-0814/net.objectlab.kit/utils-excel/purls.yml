@@ -1,0 +1,2 @@
+- pkg:maven/net.objectlab.kit/utils-excel@1.0
+- pkg:maven/net.objectlab.kit/utils-excel@1.0?classifier=sources

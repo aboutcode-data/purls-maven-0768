@@ -1,0 +1,6 @@
+- pkg:maven/com.larrymite/js-class-loader-mojo@1.2.5
+- pkg:maven/com.larrymite/js-class-loader-mojo@1.2.5?classifier=sources
+- pkg:maven/com.larrymite/js-class-loader-mojo@1.2.6
+- pkg:maven/com.larrymite/js-class-loader-mojo@1.2.6?classifier=sources
+- pkg:maven/com.larrymite/js-class-loader-mojo@1.2.7
+- pkg:maven/com.larrymite/js-class-loader-mojo@1.2.7?classifier=sources

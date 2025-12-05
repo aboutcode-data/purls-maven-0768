@@ -1,0 +1,2 @@
+- pkg:maven/org.picketbox/http-basic@5.0.0-2013Jan04?classifier=sources
+- pkg:maven/org.picketbox/http-basic@5.0.0-2013Jan04?type=war

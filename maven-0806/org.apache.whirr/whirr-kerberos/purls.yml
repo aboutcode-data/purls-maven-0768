@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.whirr/whirr-kerberos@0.8.2
+- pkg:maven/org.apache.whirr/whirr-kerberos@0.8.2?classifier=sources

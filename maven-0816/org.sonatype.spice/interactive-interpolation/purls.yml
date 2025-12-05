@@ -1,0 +1,5 @@
+- pkg:maven/org.sonatype.spice/interactive-interpolation@1.0.0.20100607-1351
+- pkg:maven/org.sonatype.spice/interactive-interpolation@1.0.0.20100607-1351?classifier=sources
+- pkg:maven/org.sonatype.spice/interactive-interpolation@1.0.1.20100812
+- pkg:maven/org.sonatype.spice/interactive-interpolation@1.0.2
+- pkg:maven/org.sonatype.spice/interactive-interpolation@1.0.2?classifier=sources

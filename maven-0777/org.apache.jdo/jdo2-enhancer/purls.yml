@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.jdo/jdo2-enhancer@2.0
+- pkg:maven/org.apache.jdo/jdo2-enhancer@2.0-beta
+- pkg:maven/org.apache.jdo/jdo2-enhancer@2.0-rc1
+- pkg:maven/org.apache.jdo/jdo2-enhancer@2.1
+- pkg:maven/org.apache.jdo/jdo2-enhancer@2.1.1
+- pkg:maven/org.apache.jdo/jdo2-enhancer@2.2

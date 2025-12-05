@@ -1,0 +1,4 @@
+- pkg:maven/ru.frostman.web/webjavin-mongo@0.1.2
+- pkg:maven/ru.frostman.web/webjavin-mongo@0.1.2?classifier=sources
+- pkg:maven/ru.frostman.web/webjavin-mongo@0.2
+- pkg:maven/ru.frostman.web/webjavin-mongo@0.2?classifier=sources

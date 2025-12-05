@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoftopentechnologies/adal@0.6-alpha?classifier=sources
+- pkg:maven/com.microsoftopentechnologies/adal@0.6-alpha?type=aar

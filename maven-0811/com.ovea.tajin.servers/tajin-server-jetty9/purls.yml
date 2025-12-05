@@ -1,0 +1,2 @@
+- pkg:maven/com.ovea.tajin.servers/tajin-server-jetty9@1.0.b12
+- pkg:maven/com.ovea.tajin.servers/tajin-server-jetty9@1.0.b12?classifier=sources

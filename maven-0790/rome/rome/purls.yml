@@ -1,0 +1,10 @@
+- pkg:maven/rome/rome@0.3
+- pkg:maven/rome/rome@0.5
+- pkg:maven/rome/rome@0.8
+- pkg:maven/rome/rome@0.8?classifier=sources
+- pkg:maven/rome/rome@0.9
+- pkg:maven/rome/rome@0.9?classifier=sources
+- pkg:maven/rome/rome@1.0
+- pkg:maven/rome/rome@1.0?classifier=sources
+- pkg:maven/rome/rome@1.0RC2
+- pkg:maven/rome/rome@1.0RC2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sirika.hchelpers/hchelpers-scala@0.9
+- pkg:maven/com.sirika.hchelpers/hchelpers-scala@0.9?classifier=sources

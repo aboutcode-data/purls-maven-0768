@@ -1,0 +1,2 @@
+- pkg:maven/nanocontainer/nanocontainer-sample@nanoweb?type=war
+- pkg:maven/nanocontainer/nanocontainer-sample@webwork?type=war

@@ -1,0 +1,10 @@
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.1.Final
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.1.Final?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.2.Alpha1
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.2.Alpha1?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.2.Beta1
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.2.Beta1?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.2.CR1
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.2.CR1?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.2.Final
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.2.Final?classifier=sources

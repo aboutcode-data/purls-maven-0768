@@ -1,0 +1,2 @@
+- pkg:maven/org.boofcv/visualize@0.16
+- pkg:maven/org.boofcv/visualize@0.16?classifier=sources

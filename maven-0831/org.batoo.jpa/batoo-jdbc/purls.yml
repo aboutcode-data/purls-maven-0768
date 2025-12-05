@@ -1,0 +1,4 @@
+- pkg:maven/org.batoo.jpa/batoo-jdbc@2.0.1.0-RTM
+- pkg:maven/org.batoo.jpa/batoo-jdbc@2.0.1.0-RTM?classifier=sources
+- pkg:maven/org.batoo.jpa/batoo-jdbc@2.0.1.1
+- pkg:maven/org.batoo.jpa/batoo-jdbc@2.0.1.1?classifier=sources

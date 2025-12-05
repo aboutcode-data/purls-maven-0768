@@ -1,0 +1,4 @@
+- pkg:maven/com.pongr/scala-jhead_2.9.1@0.1.4
+- pkg:maven/com.pongr/scala-jhead_2.9.1@0.1.4?classifier=sources
+- pkg:maven/com.pongr/scala-jhead_2.9.1@0.1.5
+- pkg:maven/com.pongr/scala-jhead_2.9.1@0.1.5?classifier=sources

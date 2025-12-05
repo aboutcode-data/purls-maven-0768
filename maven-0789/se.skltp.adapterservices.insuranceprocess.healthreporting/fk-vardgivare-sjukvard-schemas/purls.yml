@@ -1,0 +1,12 @@
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.0.5
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.0.5-RC1
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.0.5-RC1?classifier=sources
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.0.5-RC2
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.0.5-RC2?classifier=sources
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.0.5-RC3
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.0.5-RC3?classifier=sources
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.0.5?classifier=sources
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.0.6-RC1
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.0.6-RC1?classifier=sources
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.0.6-RC2
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.0.6-RC2?classifier=sources

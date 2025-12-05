@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.jaxbvalidation/jaxbvalidation-test-one@1.0.5
+- pkg:maven/org.jvnet.jaxbvalidation/jaxbvalidation-test-one@1.0.5?classifier=sources

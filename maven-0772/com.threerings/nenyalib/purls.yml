@@ -1,0 +1,2 @@
+- pkg:maven/com.threerings/nenyalib@1.4?classifier=sources
+- pkg:maven/com.threerings/nenyalib@1.5?classifier=sources

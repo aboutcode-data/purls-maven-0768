@@ -1,0 +1,4 @@
+- pkg:maven/de.malkusch.localized/localized@0.2.8
+- pkg:maven/de.malkusch.localized/localized@0.2.8?classifier=sources
+- pkg:maven/de.malkusch.localized/localized@0.2.9
+- pkg:maven/de.malkusch.localized/localized@0.2.9?classifier=sources

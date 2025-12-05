@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.sonar.plugins/sonar-plugin-cpd@1.8
+- pkg:maven/org.codehaus.sonar.plugins/sonar-plugin-cpd@1.8?classifier=sources
+- pkg:maven/org.codehaus.sonar.plugins/sonar-plugin-cpd@1.9.2
+- pkg:maven/org.codehaus.sonar.plugins/sonar-plugin-cpd@1.9.2?classifier=sources

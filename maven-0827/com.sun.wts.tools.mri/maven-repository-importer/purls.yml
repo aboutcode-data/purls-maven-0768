@@ -1,0 +1,5 @@
+- pkg:maven/com.sun.wts.tools.mri/maven-repository-importer@1.0
+- pkg:maven/com.sun.wts.tools.mri/maven-repository-importer@1.1
+- pkg:maven/com.sun.wts.tools.mri/maven-repository-importer@1.1?classifier=sources
+- pkg:maven/com.sun.wts.tools.mri/maven-repository-importer@1.2
+- pkg:maven/com.sun.wts.tools.mri/maven-repository-importer@1.2?classifier=sources

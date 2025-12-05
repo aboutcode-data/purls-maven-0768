@@ -1,0 +1,4 @@
+- pkg:maven/br.com.caelum.vraptor/vraptor-test@1.0.0
+- pkg:maven/br.com.caelum.vraptor/vraptor-test@1.0.0?classifier=sources
+- pkg:maven/br.com.caelum.vraptor/vraptor-test@2.0.0
+- pkg:maven/br.com.caelum.vraptor/vraptor-test@2.0.0?classifier=sources

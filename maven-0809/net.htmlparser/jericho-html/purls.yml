@@ -1,0 +1,4 @@
+- pkg:maven/net.htmlparser/jericho-html@1.5-dev1
+- pkg:maven/net.htmlparser/jericho-html@1.5-dev1?classifier=sources
+- pkg:maven/net.htmlparser/jericho-html@2.1
+- pkg:maven/net.htmlparser/jericho-html@2.1?classifier=sources

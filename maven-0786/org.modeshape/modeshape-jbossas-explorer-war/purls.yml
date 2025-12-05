@@ -1,0 +1,6 @@
+- pkg:maven/org.modeshape/modeshape-jbossas-explorer-war@3.6.0.Final?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-explorer-war@3.6.1.Final?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-explorer-war@3.7.0.Final?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-explorer-war@3.7.1.Final?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-explorer-war@3.7.2.Final?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-explorer-war@4.0.0.Alpha1?type=war

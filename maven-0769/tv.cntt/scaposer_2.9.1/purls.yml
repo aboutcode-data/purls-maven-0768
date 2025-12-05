@@ -1,0 +1,2 @@
+- pkg:maven/tv.cntt/scaposer_2.9.1@1.0
+- pkg:maven/tv.cntt/scaposer_2.9.1@1.0?classifier=sources

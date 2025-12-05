@@ -1,0 +1,2 @@
+- pkg:maven/com.mycila.testing/mycila-testing-all@1.0-rc1
+- pkg:maven/com.mycila.testing/mycila-testing-all@1.0-rc1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/se.l4.crayon/crayon-core@0.6
+- pkg:maven/se.l4.crayon/crayon-core@0.6?classifier=sources

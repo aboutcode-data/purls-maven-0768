@@ -1,0 +1,12 @@
+- pkg:maven/net.imagej/ij@1.48c
+- pkg:maven/net.imagej/ij@1.48c?classifier=sources
+- pkg:maven/net.imagej/ij@1.48r
+- pkg:maven/net.imagej/ij@1.48r?classifier=sources
+- pkg:maven/net.imagej/ij@1.48s
+- pkg:maven/net.imagej/ij@1.48s?classifier=sources
+- pkg:maven/net.imagej/ij@1.48t
+- pkg:maven/net.imagej/ij@1.48t?classifier=sources
+- pkg:maven/net.imagej/ij@1.48u
+- pkg:maven/net.imagej/ij@1.48u?classifier=sources
+- pkg:maven/net.imagej/ij@1.48v
+- pkg:maven/net.imagej/ij@1.48v?classifier=sources

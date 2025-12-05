@@ -1,0 +1,6 @@
+- pkg:maven/org.mongodb.morphia/morphia-gwt@0.105
+- pkg:maven/org.mongodb.morphia/morphia-gwt@0.105?classifier=sources
+- pkg:maven/org.mongodb.morphia/morphia-gwt@0.106
+- pkg:maven/org.mongodb.morphia/morphia-gwt@0.106?classifier=sources
+- pkg:maven/org.mongodb.morphia/morphia-gwt@0.107
+- pkg:maven/org.mongodb.morphia/morphia-gwt@0.107?classifier=sources

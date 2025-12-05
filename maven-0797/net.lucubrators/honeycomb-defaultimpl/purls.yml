@@ -1,0 +1,4 @@
+- pkg:maven/net.lucubrators/honeycomb-defaultimpl@0.5.2
+- pkg:maven/net.lucubrators/honeycomb-defaultimpl@0.5.2?classifier=sources
+- pkg:maven/net.lucubrators/honeycomb-defaultimpl@0.51
+- pkg:maven/net.lucubrators/honeycomb-defaultimpl@0.51?classifier=sources

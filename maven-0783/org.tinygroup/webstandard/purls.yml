@@ -1,0 +1,10 @@
+- pkg:maven/org.tinygroup/webstandard@0.0.12?classifier=sources
+- pkg:maven/org.tinygroup/webstandard@0.0.12?type=war
+- pkg:maven/org.tinygroup/webstandard@0.0.3?classifier=sources
+- pkg:maven/org.tinygroup/webstandard@0.0.3?type=war
+- pkg:maven/org.tinygroup/webstandard@0.0.4?classifier=sources
+- pkg:maven/org.tinygroup/webstandard@0.0.4?type=war
+- pkg:maven/org.tinygroup/webstandard@0.0.8?classifier=sources
+- pkg:maven/org.tinygroup/webstandard@0.0.8?type=war
+- pkg:maven/org.tinygroup/webstandard@0.0.9?classifier=sources
+- pkg:maven/org.tinygroup/webstandard@0.0.9?type=war

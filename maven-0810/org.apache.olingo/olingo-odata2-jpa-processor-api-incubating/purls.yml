@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.olingo/olingo-odata2-jpa-processor-api-incubating@1.0.0
+- pkg:maven/org.apache.olingo/olingo-odata2-jpa-processor-api-incubating@1.0.0?classifier=sources
+- pkg:maven/org.apache.olingo/olingo-odata2-jpa-processor-api-incubating@1.1.0
+- pkg:maven/org.apache.olingo/olingo-odata2-jpa-processor-api-incubating@1.1.0?classifier=sources

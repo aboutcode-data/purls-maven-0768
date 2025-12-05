@@ -1,0 +1,12 @@
+- pkg:maven/de.ruedigermoeller/fast-cast@2.0
+- pkg:maven/de.ruedigermoeller/fast-cast@2.01
+- pkg:maven/de.ruedigermoeller/fast-cast@2.01?classifier=sources
+- pkg:maven/de.ruedigermoeller/fast-cast@2.02
+- pkg:maven/de.ruedigermoeller/fast-cast@2.02?classifier=sources
+- pkg:maven/de.ruedigermoeller/fast-cast@2.03
+- pkg:maven/de.ruedigermoeller/fast-cast@2.03?classifier=sources
+- pkg:maven/de.ruedigermoeller/fast-cast@2.0?classifier=sources
+- pkg:maven/de.ruedigermoeller/fast-cast@2.10
+- pkg:maven/de.ruedigermoeller/fast-cast@2.10?classifier=sources
+- pkg:maven/de.ruedigermoeller/fast-cast@2.11
+- pkg:maven/de.ruedigermoeller/fast-cast@2.11?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.rocketmq/rocketmq-client@3.0.4-open
+- pkg:maven/com.alibaba.rocketmq/rocketmq-client@3.0.4-open?classifier=sources

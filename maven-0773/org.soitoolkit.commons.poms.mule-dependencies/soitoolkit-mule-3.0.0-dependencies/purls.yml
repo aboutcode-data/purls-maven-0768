@@ -1,0 +1,5 @@
+- pkg:maven/org.soitoolkit.commons.poms.mule-dependencies/soitoolkit-mule-3.0.0-dependencies@0.1.8
+- pkg:maven/org.soitoolkit.commons.poms.mule-dependencies/soitoolkit-mule-3.0.0-dependencies@0.1.9
+- pkg:maven/org.soitoolkit.commons.poms.mule-dependencies/soitoolkit-mule-3.0.0-dependencies@0.2.0
+- pkg:maven/org.soitoolkit.commons.poms.mule-dependencies/soitoolkit-mule-3.0.0-dependencies@0.3.0
+- pkg:maven/org.soitoolkit.commons.poms.mule-dependencies/soitoolkit-mule-3.0.0-dependencies@0.3.1

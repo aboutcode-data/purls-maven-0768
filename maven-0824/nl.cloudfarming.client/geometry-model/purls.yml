@@ -1,0 +1,2 @@
+- pkg:maven/nl.cloudfarming.client/geometry-model@1.0.23?classifier=sources
+- pkg:maven/nl.cloudfarming.client/geometry-model@1.0.24?classifier=sources

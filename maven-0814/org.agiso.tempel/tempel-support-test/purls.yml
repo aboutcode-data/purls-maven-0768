@@ -1,0 +1,2 @@
+- pkg:maven/org.agiso.tempel/tempel-support-test@0.0.1.RELEASE
+- pkg:maven/org.agiso.tempel/tempel-support-test@0.0.1.RELEASE?classifier=sources

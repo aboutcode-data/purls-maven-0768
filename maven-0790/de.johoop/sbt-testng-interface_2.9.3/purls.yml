@@ -1,0 +1,2 @@
+- pkg:maven/de.johoop/sbt-testng-interface_2.9.3@3.0.0
+- pkg:maven/de.johoop/sbt-testng-interface_2.9.3@3.0.0?classifier=sources

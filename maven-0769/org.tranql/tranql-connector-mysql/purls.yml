@@ -1,0 +1,3 @@
+- pkg:maven/org.tranql/tranql-connector-mysql@1.4?classifier=source-release&type=zip
+- pkg:maven/org.tranql/tranql-connector-mysql@1.5?classifier=source-release&type=zip
+- pkg:maven/org.tranql/tranql-connector-mysql@1.6?classifier=source-release&type=zip

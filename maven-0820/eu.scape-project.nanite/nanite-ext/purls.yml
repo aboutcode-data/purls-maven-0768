@@ -1,0 +1,6 @@
+- pkg:maven/eu.scape-project.nanite/nanite-ext@1.0.70.0
+- pkg:maven/eu.scape-project.nanite/nanite-ext@1.0.70.0?classifier=sources
+- pkg:maven/eu.scape-project.nanite/nanite-ext@1.0.70.1
+- pkg:maven/eu.scape-project.nanite/nanite-ext@1.0.70.1?classifier=sources
+- pkg:maven/eu.scape-project.nanite/nanite-ext@1.0.72.2
+- pkg:maven/eu.scape-project.nanite/nanite-ext@1.0.72.2?classifier=sources

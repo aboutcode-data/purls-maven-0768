@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.james/apache-jsieve-manager-mock@0.5
+- pkg:maven/org.apache.james/apache-jsieve-manager-mock@0.5?classifier=sources

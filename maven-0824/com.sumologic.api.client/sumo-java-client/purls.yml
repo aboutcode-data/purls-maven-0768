@@ -1,0 +1,2 @@
+- pkg:maven/com.sumologic.api.client/sumo-java-client@1.0
+- pkg:maven/com.sumologic.api.client/sumo-java-client@1.0?classifier=sources

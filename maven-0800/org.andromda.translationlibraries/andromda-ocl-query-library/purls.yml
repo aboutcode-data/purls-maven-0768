@@ -1,0 +1,4 @@
+- pkg:maven/org.andromda.translationlibraries/andromda-ocl-query-library@3.2
+- pkg:maven/org.andromda.translationlibraries/andromda-ocl-query-library@3.3
+- pkg:maven/org.andromda.translationlibraries/andromda-ocl-query-library@3.4
+- pkg:maven/org.andromda.translationlibraries/andromda-ocl-query-library@3.4?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/com.oracle.coherence.incubator/coherence-pushreplicationpattern@11.0.0
+- pkg:maven/com.oracle.coherence.incubator/coherence-pushreplicationpattern@11.0.0?classifier=sources
+- pkg:maven/com.oracle.coherence.incubator/coherence-pushreplicationpattern@11.1.0
+- pkg:maven/com.oracle.coherence.incubator/coherence-pushreplicationpattern@11.1.0?classifier=sources
+- pkg:maven/com.oracle.coherence.incubator/coherence-pushreplicationpattern@11.2.0
+- pkg:maven/com.oracle.coherence.incubator/coherence-pushreplicationpattern@11.2.0?classifier=sources
+- pkg:maven/com.oracle.coherence.incubator/coherence-pushreplicationpattern@11.3.0
+- pkg:maven/com.oracle.coherence.incubator/coherence-pushreplicationpattern@11.3.0?classifier=sources
+- pkg:maven/com.oracle.coherence.incubator/coherence-pushreplicationpattern@12.0.0
+- pkg:maven/com.oracle.coherence.incubator/coherence-pushreplicationpattern@12.0.0?classifier=sources
+- pkg:maven/com.oracle.coherence.incubator/coherence-pushreplicationpattern@12.1.0
+- pkg:maven/com.oracle.coherence.incubator/coherence-pushreplicationpattern@12.1.0?classifier=sources
+- pkg:maven/com.oracle.coherence.incubator/coherence-pushreplicationpattern@12.2.0
+- pkg:maven/com.oracle.coherence.incubator/coherence-pushreplicationpattern@12.2.0?classifier=sources

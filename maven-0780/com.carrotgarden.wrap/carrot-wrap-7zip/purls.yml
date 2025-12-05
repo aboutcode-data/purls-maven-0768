@@ -1,0 +1,2 @@
+- pkg:maven/com.carrotgarden.wrap/carrot-wrap-7zip@9.20-build004
+- pkg:maven/com.carrotgarden.wrap/carrot-wrap-7zip@9.20-build004?classifier=sources

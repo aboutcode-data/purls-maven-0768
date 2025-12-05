@@ -1,0 +1,12 @@
+- pkg:maven/org.cloudera.htrace/htrace-core@2.00
+- pkg:maven/org.cloudera.htrace/htrace-core@2.00?classifier=sources
+- pkg:maven/org.cloudera.htrace/htrace-core@2.01
+- pkg:maven/org.cloudera.htrace/htrace-core@2.01?classifier=sources
+- pkg:maven/org.cloudera.htrace/htrace-core@2.02
+- pkg:maven/org.cloudera.htrace/htrace-core@2.02?classifier=sources
+- pkg:maven/org.cloudera.htrace/htrace-core@2.03
+- pkg:maven/org.cloudera.htrace/htrace-core@2.03?classifier=sources
+- pkg:maven/org.cloudera.htrace/htrace-core@2.04
+- pkg:maven/org.cloudera.htrace/htrace-core@2.04?classifier=sources
+- pkg:maven/org.cloudera.htrace/htrace-core@2.05
+- pkg:maven/org.cloudera.htrace/htrace-core@2.05?classifier=sources

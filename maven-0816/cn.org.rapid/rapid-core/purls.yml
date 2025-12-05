@@ -1,0 +1,2 @@
+- pkg:maven/cn.org.rapid/rapid-core@4.0
+- pkg:maven/cn.org.rapid/rapid-core@4.0?classifier=sources

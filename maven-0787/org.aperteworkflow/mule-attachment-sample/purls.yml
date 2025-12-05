@@ -1,0 +1,8 @@
+- pkg:maven/org.aperteworkflow/mule-attachment-sample@1.1
+- pkg:maven/org.aperteworkflow/mule-attachment-sample@1.1?classifier=sources
+- pkg:maven/org.aperteworkflow/mule-attachment-sample@2.0
+- pkg:maven/org.aperteworkflow/mule-attachment-sample@2.0-RC1
+- pkg:maven/org.aperteworkflow/mule-attachment-sample@2.0-RC1?classifier=sources
+- pkg:maven/org.aperteworkflow/mule-attachment-sample@2.0?classifier=sources
+- pkg:maven/org.aperteworkflow/mule-attachment-sample@3.0-beta1
+- pkg:maven/org.aperteworkflow/mule-attachment-sample@3.0-beta1?classifier=sources

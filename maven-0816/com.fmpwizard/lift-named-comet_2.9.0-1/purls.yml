@@ -1,0 +1,2 @@
+- pkg:maven/com.fmpwizard/lift-named-comet_2.9.0-1@0.3
+- pkg:maven/com.fmpwizard/lift-named-comet_2.9.0-1@0.3?classifier=sources

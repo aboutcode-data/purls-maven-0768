@@ -1,0 +1,2 @@
+- pkg:maven/org.scaloid/scaloid-util_2.10@2.2.0-8
+- pkg:maven/org.scaloid/scaloid-util_2.10@2.2.0-8?classifier=sources

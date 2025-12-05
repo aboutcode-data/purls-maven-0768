@@ -1,0 +1,2 @@
+- pkg:maven/edu.stanford.protege/org.protege.editor.owl.diff@4.1.0.213
+- pkg:maven/edu.stanford.protege/org.protege.editor.owl.diff@4.1.0.213?classifier=sources

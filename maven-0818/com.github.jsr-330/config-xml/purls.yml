@@ -1,0 +1,5 @@
+- pkg:maven/com.github.jsr-330/config-xml@1.1.0
+- pkg:maven/com.github.jsr-330/config-xml@1.2.0
+- pkg:maven/com.github.jsr-330/config-xml@1.3.0
+- pkg:maven/com.github.jsr-330/config-xml@1.4.0
+- pkg:maven/com.github.jsr-330/config-xml@1.4.0?classifier=sources

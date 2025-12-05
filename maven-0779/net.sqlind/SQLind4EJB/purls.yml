@@ -1,0 +1,8 @@
+- pkg:maven/net.sqlind/SQLind4EJB@1.0.0-FINAL
+- pkg:maven/net.sqlind/SQLind4EJB@1.0.0-FINAL?classifier=sources
+- pkg:maven/net.sqlind/SQLind4EJB@1.0.0-RC
+- pkg:maven/net.sqlind/SQLind4EJB@1.0.0-RC?classifier=sources
+- pkg:maven/net.sqlind/SQLind4EJB@1.0.1-FINAL
+- pkg:maven/net.sqlind/SQLind4EJB@1.0.1-FINAL?classifier=sources
+- pkg:maven/net.sqlind/SQLind4EJB@1.0.2-FINAL
+- pkg:maven/net.sqlind/SQLind4EJB@1.0.2-FINAL?classifier=sources

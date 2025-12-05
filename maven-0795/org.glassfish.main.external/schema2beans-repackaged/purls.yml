@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.main.external/schema2beans-repackaged@3.1.2
+- pkg:maven/org.glassfish.main.external/schema2beans-repackaged@3.1.2?classifier=sources

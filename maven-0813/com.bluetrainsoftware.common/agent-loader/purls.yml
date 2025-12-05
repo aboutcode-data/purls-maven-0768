@@ -1,0 +1,2 @@
+- pkg:maven/com.bluetrainsoftware.common/agent-loader@1.1
+- pkg:maven/com.bluetrainsoftware.common/agent-loader@1.1?classifier=sources

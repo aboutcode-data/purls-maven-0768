@@ -1,0 +1,4 @@
+- pkg:maven/net.sourceforge.jadex/jadex-rules-eca@2.3
+- pkg:maven/net.sourceforge.jadex/jadex-rules-eca@2.3?classifier=sources
+- pkg:maven/net.sourceforge.jadex/jadex-rules-eca@2.4
+- pkg:maven/net.sourceforge.jadex/jadex-rules-eca@2.4?classifier=sources

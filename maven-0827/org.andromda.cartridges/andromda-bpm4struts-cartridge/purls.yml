@@ -1,0 +1,2 @@
+- pkg:maven/org.andromda.cartridges/andromda-bpm4struts-cartridge@3.4
+- pkg:maven/org.andromda.cartridges/andromda-bpm4struts-cartridge@3.4?classifier=sources

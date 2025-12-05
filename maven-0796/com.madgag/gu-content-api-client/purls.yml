@@ -1,0 +1,4 @@
+- pkg:maven/com.madgag/gu-content-api-client@1.11
+- pkg:maven/com.madgag/gu-content-api-client@1.11?classifier=sources
+- pkg:maven/com.madgag/gu-content-api-client@1.12
+- pkg:maven/com.madgag/gu-content-api-client@1.12?classifier=sources

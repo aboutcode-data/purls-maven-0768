@@ -1,0 +1,2 @@
+- pkg:maven/com.wordnik/mongo-utils_2.9.2@1.1.6
+- pkg:maven/com.wordnik/mongo-utils_2.9.2@1.1.6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/eu.cedarsoft.commons/presenter@1.0
+- pkg:maven/eu.cedarsoft.commons/presenter@1.0?classifier=sources

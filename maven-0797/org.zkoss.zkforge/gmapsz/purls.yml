@@ -1,0 +1,7 @@
+- pkg:maven/org.zkoss.zkforge/gmapsz@2.0-1
+- pkg:maven/org.zkoss.zkforge/gmapsz@2.0-2
+- pkg:maven/org.zkoss.zkforge/gmapsz@2.0-2?classifier=sources
+- pkg:maven/org.zkoss.zkforge/gmapsz@2.0-3
+- pkg:maven/org.zkoss.zkforge/gmapsz@2.0-3?classifier=sources
+- pkg:maven/org.zkoss.zkforge/gmapsz@2.0.51
+- pkg:maven/org.zkoss.zkforge/gmapsz@2.0.51?classifier=sources

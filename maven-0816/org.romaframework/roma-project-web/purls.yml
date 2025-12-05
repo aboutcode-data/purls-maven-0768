@@ -1,0 +1,2 @@
+- pkg:maven/org.romaframework/roma-project-web@3.0.0-BETA
+- pkg:maven/org.romaframework/roma-project-web@3.0.0-BETA?classifier=sources

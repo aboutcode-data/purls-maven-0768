@@ -1,0 +1,2 @@
+- pkg:maven/com.hovans.netty/library@3.8.0?classifier=sources
+- pkg:maven/com.hovans.netty/library@3.8.0?type=aar

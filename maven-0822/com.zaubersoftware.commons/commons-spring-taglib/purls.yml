@@ -1,0 +1,2 @@
+- pkg:maven/com.zaubersoftware.commons/commons-spring-taglib@3.49
+- pkg:maven/com.zaubersoftware.commons/commons-spring-taglib@3.49?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jpathwatch/jpathwatch@0.95
+- pkg:maven/net.sf.jpathwatch/jpathwatch@0.95?classifier=sources

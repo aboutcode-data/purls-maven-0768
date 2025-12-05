@@ -1,0 +1,5 @@
+- pkg:maven/tomcat/catalina-manager@5.0.16
+- pkg:maven/tomcat/catalina-manager@5.0.18
+- pkg:maven/tomcat/catalina-manager@5.0.28
+- pkg:maven/tomcat/catalina-manager@5.5.12
+- pkg:maven/tomcat/catalina-manager@5.5.23

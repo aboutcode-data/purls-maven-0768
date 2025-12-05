@@ -1,0 +1,2 @@
+- pkg:maven/es.prodevelop/es.alrocar.map.vector@0.2.4
+- pkg:maven/es.prodevelop/es.alrocar.map.vector@0.2.4?classifier=sources

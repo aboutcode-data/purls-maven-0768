@@ -1,0 +1,4 @@
+- pkg:maven/com.3pillarglobal.labs/spring-integration-aws@1.0.0-RELEASE
+- pkg:maven/com.3pillarglobal.labs/spring-integration-aws@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.3pillarglobal.labs/spring-integration-aws@1.1
+- pkg:maven/com.3pillarglobal.labs/spring-integration-aws@1.1?classifier=sources

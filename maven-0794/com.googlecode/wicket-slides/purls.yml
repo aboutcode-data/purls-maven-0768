@@ -1,0 +1,8 @@
+- pkg:maven/com.googlecode/wicket-slides@0.7.1-smoothgallery2.0
+- pkg:maven/com.googlecode/wicket-slides@0.7.1-smoothgallery2.0?classifier=sources
+- pkg:maven/com.googlecode/wicket-slides@0.8.0-smoothgallery2.1dev
+- pkg:maven/com.googlecode/wicket-slides@0.8.0-smoothgallery2.1dev?classifier=sources
+- pkg:maven/com.googlecode/wicket-slides@0.8.1-smoothgallery2.1dev
+- pkg:maven/com.googlecode/wicket-slides@0.8.1-smoothgallery2.1dev?classifier=sources
+- pkg:maven/com.googlecode/wicket-slides@0.8.2-smoothgallery2.1dev
+- pkg:maven/com.googlecode/wicket-slides@0.8.2-smoothgallery2.1dev?classifier=sources

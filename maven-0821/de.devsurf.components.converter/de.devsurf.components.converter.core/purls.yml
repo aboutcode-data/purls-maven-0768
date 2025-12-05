@@ -1,0 +1,4 @@
+- pkg:maven/de.devsurf.components.converter/de.devsurf.components.converter.core@0.1.0
+- pkg:maven/de.devsurf.components.converter/de.devsurf.components.converter.core@0.1.0?classifier=sources
+- pkg:maven/de.devsurf.components.converter/de.devsurf.components.converter.core@0.1.1
+- pkg:maven/de.devsurf.components.converter/de.devsurf.components.converter.core@0.1.1?classifier=sources

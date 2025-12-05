@@ -1,0 +1,2 @@
+- pkg:maven/com.github.livesense/org.liveSense.fragment.javax.activation-jre-1.6@1.0.3
+- pkg:maven/com.github.livesense/org.liveSense.fragment.javax.activation-jre-1.6@1.0.3?classifier=sources

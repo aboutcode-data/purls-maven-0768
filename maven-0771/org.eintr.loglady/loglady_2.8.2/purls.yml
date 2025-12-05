@@ -1,0 +1,2 @@
+- pkg:maven/org.eintr.loglady/loglady_2.8.2@1.0.0
+- pkg:maven/org.eintr.loglady/loglady_2.8.2@1.0.0?classifier=sources

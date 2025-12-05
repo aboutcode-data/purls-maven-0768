@@ -1,0 +1,6 @@
+- pkg:maven/org.atteo/evo-janino@0.6
+- pkg:maven/org.atteo/evo-janino@0.6?classifier=sources
+- pkg:maven/org.atteo/evo-janino@1.0
+- pkg:maven/org.atteo/evo-janino@1.0?classifier=sources
+- pkg:maven/org.atteo/evo-janino@1.1
+- pkg:maven/org.atteo/evo-janino@1.1?classifier=sources

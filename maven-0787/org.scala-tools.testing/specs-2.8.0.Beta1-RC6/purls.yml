@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-tools.testing/specs-2.8.0.Beta1-RC6@1.6.1
+- pkg:maven/org.scala-tools.testing/specs-2.8.0.Beta1-RC6@1.6.1?classifier=sources

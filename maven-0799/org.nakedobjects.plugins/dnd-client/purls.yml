@@ -1,0 +1,2 @@
+- pkg:maven/org.nakedobjects.plugins/dnd-client@1.0-alpha-3
+- pkg:maven/org.nakedobjects.plugins/dnd-client@1.0-alpha-3?classifier=sources

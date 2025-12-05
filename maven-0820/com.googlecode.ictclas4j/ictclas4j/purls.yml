@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.ictclas4j/ictclas4j@1.0.1
+- pkg:maven/com.googlecode.ictclas4j/ictclas4j@1.0.1?classifier=sources

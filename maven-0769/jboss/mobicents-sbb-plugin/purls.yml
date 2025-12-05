@@ -1,0 +1,4 @@
+- pkg:maven/jboss/mobicents-sbb-plugin@1.0-alpha-12
+- pkg:maven/jboss/mobicents-sbb-plugin@1.0-alpha-12?classifier=sources
+- pkg:maven/jboss/mobicents-sbb-plugin@1.0-alpha-14
+- pkg:maven/jboss/mobicents-sbb-plugin@1.0-alpha-14?classifier=sources

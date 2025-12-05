@@ -1,0 +1,8 @@
+- pkg:maven/org.openwfe/openwfe-embed@1.7.0?classifier=sources
+- pkg:maven/org.openwfe/openwfe-embed@1.7.0pre9?classifier=sources
+- pkg:maven/org.openwfe/openwfe-embed@1.7.1?classifier=sources
+- pkg:maven/org.openwfe/openwfe-embed@1.7.1pre10?classifier=sources
+- pkg:maven/org.openwfe/openwfe-embed@1.7.1pre4?classifier=sources
+- pkg:maven/org.openwfe/openwfe-embed@1.7.1pre7?classifier=sources
+- pkg:maven/org.openwfe/openwfe-embed@1.7.2
+- pkg:maven/org.openwfe/openwfe-embed@1.7.2?classifier=sources

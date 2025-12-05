@@ -1,0 +1,2 @@
+- pkg:maven/net.java.loci/jsr308-all@1.1.2
+- pkg:maven/net.java.loci/jsr308-all@1.1.2?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.sqm.core@1.2.4.v201201131116
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.sqm.core@1.2.4.v201201131116?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.sqm.core@1.2.5.v201205240353
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.sqm.core@1.2.5.v201205240353?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.sqm.core@1.2.6.v201212070447
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.sqm.core@1.2.6.v201212070447?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.sqm.core@1.2.7.v201308160952
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.sqm.core@1.2.7.v201308160952?classifier=sources

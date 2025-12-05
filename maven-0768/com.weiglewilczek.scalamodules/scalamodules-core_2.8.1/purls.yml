@@ -1,0 +1,4 @@
+- pkg:maven/com.weiglewilczek.scalamodules/scalamodules-core_2.8.1@2.0.1
+- pkg:maven/com.weiglewilczek.scalamodules/scalamodules-core_2.8.1@2.0.1?classifier=sources
+- pkg:maven/com.weiglewilczek.scalamodules/scalamodules-core_2.8.1@2.0.2
+- pkg:maven/com.weiglewilczek.scalamodules/scalamodules-core_2.8.1@2.0.2?classifier=sources

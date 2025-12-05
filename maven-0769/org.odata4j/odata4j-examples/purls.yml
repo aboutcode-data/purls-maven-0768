@@ -1,0 +1,2 @@
+- pkg:maven/org.odata4j/odata4j-examples@0.7.0
+- pkg:maven/org.odata4j/odata4j-examples@0.7.0?classifier=sources

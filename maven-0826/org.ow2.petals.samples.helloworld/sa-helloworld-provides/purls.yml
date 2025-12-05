@@ -1,0 +1,1 @@
+- pkg:maven/org.ow2.petals.samples.helloworld/sa-helloworld-provides@3.0?classifier=sources

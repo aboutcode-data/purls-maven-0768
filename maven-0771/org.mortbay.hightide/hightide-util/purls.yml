@@ -1,0 +1,5 @@
+- pkg:maven/org.mortbay.hightide/hightide-util@6.1H.14
+- pkg:maven/org.mortbay.hightide/hightide-util@6.1H.14.1
+- pkg:maven/org.mortbay.hightide/hightide-util@6.1H.22
+- pkg:maven/org.mortbay.hightide/hightide-util@6.1H.24
+- pkg:maven/org.mortbay.hightide/hightide-util@6.1H.24?classifier=sources

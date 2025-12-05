@@ -1,0 +1,2 @@
+- pkg:maven/org.andromda.thirdparty.jmi/mof@20030918
+- pkg:maven/org.andromda.thirdparty.jmi/mof@20030918?classifier=sources

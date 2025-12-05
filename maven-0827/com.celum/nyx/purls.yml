@@ -1,0 +1,2 @@
+- pkg:maven/com.celum/nyx@1.2
+- pkg:maven/com.celum/nyx@1.2?classifier=sources

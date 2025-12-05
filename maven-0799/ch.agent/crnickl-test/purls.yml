@@ -1,0 +1,4 @@
+- pkg:maven/ch.agent/crnickl-test@1.0.0
+- pkg:maven/ch.agent/crnickl-test@1.0.0?classifier=sources
+- pkg:maven/ch.agent/crnickl-test@1.1.0
+- pkg:maven/ch.agent/crnickl-test@1.1.0?classifier=sources

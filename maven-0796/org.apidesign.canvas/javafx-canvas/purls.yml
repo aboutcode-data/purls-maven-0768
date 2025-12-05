@@ -1,0 +1,2 @@
+- pkg:maven/org.apidesign.canvas/javafx-canvas@0.5.2
+- pkg:maven/org.apidesign.canvas/javafx-canvas@0.5.2?classifier=sources

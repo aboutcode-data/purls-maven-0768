@@ -1,0 +1,6 @@
+- pkg:maven/org.ow2.weblab.webservices/file-repository@1.7-RC1?classifier=sources
+- pkg:maven/org.ow2.weblab.webservices/file-repository@1.7-RC1?type=war
+- pkg:maven/org.ow2.weblab.webservices/file-repository@1.7.1?classifier=sources
+- pkg:maven/org.ow2.weblab.webservices/file-repository@1.7.1?type=war
+- pkg:maven/org.ow2.weblab.webservices/file-repository@1.7.2?classifier=sources
+- pkg:maven/org.ow2.weblab.webservices/file-repository@1.7.2?type=war

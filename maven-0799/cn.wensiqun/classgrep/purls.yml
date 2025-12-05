@@ -1,0 +1,4 @@
+- pkg:maven/cn.wensiqun/classgrep@1.1
+- pkg:maven/cn.wensiqun/classgrep@1.1.1
+- pkg:maven/cn.wensiqun/classgrep@1.1.1?classifier=sources
+- pkg:maven/cn.wensiqun/classgrep@1.1?classifier=sources

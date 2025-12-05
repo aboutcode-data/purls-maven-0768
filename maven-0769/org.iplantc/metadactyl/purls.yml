@@ -1,0 +1,2 @@
+- pkg:maven/org.iplantc/metadactyl@1.8.6
+- pkg:maven/org.iplantc/metadactyl@1.8.6?classifier=sources

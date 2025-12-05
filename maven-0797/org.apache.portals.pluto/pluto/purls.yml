@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.portals.pluto/pluto@2.0.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.portals.pluto/pluto@2.0.0?classifier=src&type=zip
+- pkg:maven/org.apache.portals.pluto/pluto@2.0.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.pluto/pluto@2.0.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.pluto/pluto@2.0.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.pluto/pluto@2.1.0-M1?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.pluto/pluto@2.1.0-M2?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.pluto/pluto@2.1.0-M3?classifier=source-release&type=zip

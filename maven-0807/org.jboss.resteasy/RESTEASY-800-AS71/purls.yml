@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.resteasy/RESTEASY-800-AS71@2.3.6.Final
+- pkg:maven/org.jboss.resteasy/RESTEASY-800-AS71@2.3.6.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/RESTEASY-800-AS71@2.3.7.Final
+- pkg:maven/org.jboss.resteasy/RESTEASY-800-AS71@2.3.7.Final?classifier=sources

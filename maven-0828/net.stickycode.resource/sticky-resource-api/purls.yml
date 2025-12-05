@@ -1,0 +1,2 @@
+- pkg:maven/net.stickycode.resource/sticky-resource-api@3.2
+- pkg:maven/net.stickycode.resource/sticky-resource-api@3.2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.scala-lang/scala-actors-migration_2.10@1.0.0
+- pkg:maven/org.scala-lang/scala-actors-migration_2.10@1.0.0-RC4
+- pkg:maven/org.scala-lang/scala-actors-migration_2.10@1.0.0-RC4?classifier=sources
+- pkg:maven/org.scala-lang/scala-actors-migration_2.10@1.0.0-RC5
+- pkg:maven/org.scala-lang/scala-actors-migration_2.10@1.0.0-RC5?classifier=sources
+- pkg:maven/org.scala-lang/scala-actors-migration_2.10@1.0.0?classifier=sources

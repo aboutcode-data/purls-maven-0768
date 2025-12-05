@@ -1,0 +1,2 @@
+- pkg:maven/com.sirika.pymager/pymager-java-client@0.12
+- pkg:maven/com.sirika.pymager/pymager-java-client@0.12?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/de.plushnikov.lombok-intellij-plugin/intellij-facade-factory@0.3
+- pkg:maven/de.plushnikov.lombok-intellij-plugin/intellij-facade-factory@0.3?classifier=sources
+- pkg:maven/de.plushnikov.lombok-intellij-plugin/intellij-facade-factory@0.4
+- pkg:maven/de.plushnikov.lombok-intellij-plugin/intellij-facade-factory@0.4?classifier=sources
+- pkg:maven/de.plushnikov.lombok-intellij-plugin/intellij-facade-factory@0.5
+- pkg:maven/de.plushnikov.lombok-intellij-plugin/intellij-facade-factory@0.5?classifier=sources

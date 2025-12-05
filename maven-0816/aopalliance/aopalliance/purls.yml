@@ -1,0 +1,2 @@
+- pkg:maven/aopalliance/aopalliance@1.0
+- pkg:maven/aopalliance/aopalliance@1.0?classifier=sources

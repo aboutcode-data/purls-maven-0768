@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars/wiky@0.95
+- pkg:maven/org.webjars/wiky@0.95?classifier=sources

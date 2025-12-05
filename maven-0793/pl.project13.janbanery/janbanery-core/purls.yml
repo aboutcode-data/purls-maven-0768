@@ -1,0 +1,2 @@
+- pkg:maven/pl.project13.janbanery/janbanery-core@1.2
+- pkg:maven/pl.project13.janbanery/janbanery-core@1.2?classifier=sources

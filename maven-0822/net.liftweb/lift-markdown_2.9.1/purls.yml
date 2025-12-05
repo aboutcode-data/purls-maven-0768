@@ -1,0 +1,6 @@
+- pkg:maven/net.liftweb/lift-markdown_2.9.1@2.6-M1
+- pkg:maven/net.liftweb/lift-markdown_2.9.1@2.6-M1?classifier=sources
+- pkg:maven/net.liftweb/lift-markdown_2.9.1@2.6-M2
+- pkg:maven/net.liftweb/lift-markdown_2.9.1@2.6-M2?classifier=sources
+- pkg:maven/net.liftweb/lift-markdown_2.9.1@2.6-M3
+- pkg:maven/net.liftweb/lift-markdown_2.9.1@2.6-M3?classifier=sources

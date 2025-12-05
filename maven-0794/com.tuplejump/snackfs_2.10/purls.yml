@@ -1,0 +1,6 @@
+- pkg:maven/com.tuplejump/snackfs_2.10@0.6.1-EA
+- pkg:maven/com.tuplejump/snackfs_2.10@0.6.1-EA?classifier=sources
+- pkg:maven/com.tuplejump/snackfs_2.10@0.6.2-C2-EA
+- pkg:maven/com.tuplejump/snackfs_2.10@0.6.2-C2-EA?classifier=sources
+- pkg:maven/com.tuplejump/snackfs_2.10@0.6.2-EA
+- pkg:maven/com.tuplejump/snackfs_2.10@0.6.2-EA?classifier=sources

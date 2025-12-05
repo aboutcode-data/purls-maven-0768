@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.joesnmp/joesnmp@0.3.4
+- pkg:maven/net.sf.joesnmp/joesnmp@0.3.4?classifier=sources

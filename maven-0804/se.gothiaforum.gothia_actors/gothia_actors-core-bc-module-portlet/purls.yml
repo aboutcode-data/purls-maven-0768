@@ -1,0 +1,2 @@
+- pkg:maven/se.gothiaforum.gothia_actors/gothia_actors-core-bc-module-portlet@1.0?classifier=sources
+- pkg:maven/se.gothiaforum.gothia_actors/gothia_actors-core-bc-module-portlet@1.0?type=war

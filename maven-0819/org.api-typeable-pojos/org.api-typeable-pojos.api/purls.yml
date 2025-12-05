@@ -1,0 +1,2 @@
+- pkg:maven/org.api-typeable-pojos/org.api-typeable-pojos.api@0.7
+- pkg:maven/org.api-typeable-pojos/org.api-typeable-pojos.api@0.7?classifier=sources

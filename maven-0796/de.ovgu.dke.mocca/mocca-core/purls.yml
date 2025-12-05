@@ -1,0 +1,4 @@
+- pkg:maven/de.ovgu.dke.mocca/mocca-core@0.1.1
+- pkg:maven/de.ovgu.dke.mocca/mocca-core@0.1.1?classifier=sources
+- pkg:maven/de.ovgu.dke.mocca/mocca-core@0.1.2
+- pkg:maven/de.ovgu.dke.mocca/mocca-core@0.1.2?classifier=sources

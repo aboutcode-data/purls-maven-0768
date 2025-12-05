@@ -1,0 +1,2 @@
+- pkg:maven/com.twelvemonkeys.common/common-image@3.0-rc5
+- pkg:maven/com.twelvemonkeys.common/common-image@3.0-rc5?classifier=sources

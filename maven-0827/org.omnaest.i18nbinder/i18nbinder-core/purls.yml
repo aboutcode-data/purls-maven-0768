@@ -1,0 +1,6 @@
+- pkg:maven/org.omnaest.i18nbinder/i18nbinder-core@0.1.15
+- pkg:maven/org.omnaest.i18nbinder/i18nbinder-core@0.1.15?classifier=sources
+- pkg:maven/org.omnaest.i18nbinder/i18nbinder-core@0.1.16
+- pkg:maven/org.omnaest.i18nbinder/i18nbinder-core@0.1.16?classifier=sources
+- pkg:maven/org.omnaest.i18nbinder/i18nbinder-core@0.1.17
+- pkg:maven/org.omnaest.i18nbinder/i18nbinder-core@0.1.17?classifier=sources

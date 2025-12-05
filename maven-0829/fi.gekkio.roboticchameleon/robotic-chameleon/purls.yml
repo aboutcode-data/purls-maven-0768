@@ -1,0 +1,2 @@
+- pkg:maven/fi.gekkio.roboticchameleon/robotic-chameleon@0.1.0
+- pkg:maven/fi.gekkio.roboticchameleon/robotic-chameleon@0.1.0?classifier=sources

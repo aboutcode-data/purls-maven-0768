@@ -1,0 +1,2 @@
+- pkg:maven/com.rultor/rultor-spi@0.3
+- pkg:maven/com.rultor/rultor-spi@0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.orbitz.erma/erma-test@4.8.1
+- pkg:maven/com.orbitz.erma/erma-test@4.8.1?classifier=sources

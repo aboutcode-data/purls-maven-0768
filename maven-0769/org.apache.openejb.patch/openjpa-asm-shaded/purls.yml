@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.openejb.patch/openjpa-asm-shaded@2.2.0
+- pkg:maven/org.apache.openejb.patch/openjpa-asm-shaded@2.2.0?classifier=sources

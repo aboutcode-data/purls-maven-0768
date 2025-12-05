@@ -1,0 +1,12 @@
+- pkg:maven/org.jboss.errai/errai-cdi-demo-stresstest@2.0.Beta4?classifier=sources
+- pkg:maven/org.jboss.errai/errai-cdi-demo-stresstest@2.0.Beta4?type=war
+- pkg:maven/org.jboss.errai/errai-cdi-demo-stresstest@2.0.CR1?classifier=sources
+- pkg:maven/org.jboss.errai/errai-cdi-demo-stresstest@2.0.CR1?type=war
+- pkg:maven/org.jboss.errai/errai-cdi-demo-stresstest@2.3.0.CR1?classifier=sources
+- pkg:maven/org.jboss.errai/errai-cdi-demo-stresstest@2.3.0.CR1?type=war
+- pkg:maven/org.jboss.errai/errai-cdi-demo-stresstest@2.3.0.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-cdi-demo-stresstest@2.3.0.Final?type=war
+- pkg:maven/org.jboss.errai/errai-cdi-demo-stresstest@2.3.1.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-cdi-demo-stresstest@2.3.1.Final?type=war
+- pkg:maven/org.jboss.errai/errai-cdi-demo-stresstest@2.3.2.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-cdi-demo-stresstest@2.3.2.Final?type=war

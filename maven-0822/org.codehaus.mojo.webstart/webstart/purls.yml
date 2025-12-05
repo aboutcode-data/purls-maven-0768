@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.mojo.webstart/webstart@1.0-beta-1?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo.webstart/webstart@1.0-beta-2?classifier=source-release&type=zip

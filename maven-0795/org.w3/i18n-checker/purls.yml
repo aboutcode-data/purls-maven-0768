@@ -1,0 +1,2 @@
+- pkg:maven/org.w3/i18n-checker@1.0
+- pkg:maven/org.w3/i18n-checker@1.0?classifier=sources

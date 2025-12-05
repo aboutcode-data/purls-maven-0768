@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.vysper/vysper@0.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.vysper/vysper@0.5?classifier=src&type=tar.gz
+- pkg:maven/org.apache.vysper/vysper@0.5?classifier=src&type=zip
+- pkg:maven/org.apache.vysper/vysper@0.6?classifier=src&type=tar.gz
+- pkg:maven/org.apache.vysper/vysper@0.6?classifier=src&type=zip
+- pkg:maven/org.apache.vysper/vysper@0.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.vysper/vysper@0.7?classifier=src&type=tar.gz
+- pkg:maven/org.apache.vysper/vysper@0.7?classifier=src&type=zip

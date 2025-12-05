@@ -1,0 +1,7 @@
+- pkg:maven/org.javasimon/javasimon-jdbc3@2.0
+- pkg:maven/org.javasimon/javasimon-jdbc3@2.1
+- pkg:maven/org.javasimon/javasimon-jdbc3@2.1.1
+- pkg:maven/org.javasimon/javasimon-jdbc3@2.2.0
+- pkg:maven/org.javasimon/javasimon-jdbc3@2.3.0
+- pkg:maven/org.javasimon/javasimon-jdbc3@2.5.0
+- pkg:maven/org.javasimon/javasimon-jdbc3@2.5.0?classifier=sources

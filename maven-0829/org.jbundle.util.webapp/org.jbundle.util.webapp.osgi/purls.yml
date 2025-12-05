@@ -1,0 +1,8 @@
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.osgi@0.9.3
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.osgi@0.9.3?classifier=sources
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.osgi@0.9.4
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.osgi@0.9.4?classifier=sources
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.osgi@1.0.0
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.osgi@1.0.0?classifier=sources
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.osgi@1.0.1
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.osgi@1.0.1?classifier=sources

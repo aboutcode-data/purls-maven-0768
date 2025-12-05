@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.myfaces.extensions.cdi.modules.jee5-support/myfaces-extcdi-jee5-openwebbeans-support@1.0.3
+- pkg:maven/org.apache.myfaces.extensions.cdi.modules.jee5-support/myfaces-extcdi-jee5-openwebbeans-support@1.0.3?classifier=sources
+- pkg:maven/org.apache.myfaces.extensions.cdi.modules.jee5-support/myfaces-extcdi-jee5-openwebbeans-support@1.0.4
+- pkg:maven/org.apache.myfaces.extensions.cdi.modules.jee5-support/myfaces-extcdi-jee5-openwebbeans-support@1.0.4?classifier=sources
+- pkg:maven/org.apache.myfaces.extensions.cdi.modules.jee5-support/myfaces-extcdi-jee5-openwebbeans-support@1.0.5
+- pkg:maven/org.apache.myfaces.extensions.cdi.modules.jee5-support/myfaces-extcdi-jee5-openwebbeans-support@1.0.5?classifier=sources
+- pkg:maven/org.apache.myfaces.extensions.cdi.modules.jee5-support/myfaces-extcdi-jee5-openwebbeans-support@1.0.6
+- pkg:maven/org.apache.myfaces.extensions.cdi.modules.jee5-support/myfaces-extcdi-jee5-openwebbeans-support@1.0.6?classifier=sources

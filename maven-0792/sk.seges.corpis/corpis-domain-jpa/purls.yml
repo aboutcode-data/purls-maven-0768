@@ -1,0 +1,2 @@
+- pkg:maven/sk.seges.corpis/corpis-domain-jpa@1.2.0
+- pkg:maven/sk.seges.corpis/corpis-domain-jpa@1.2.0?classifier=sources

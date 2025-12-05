@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.hudson.plugins/webtestpresenter@0.22?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/webtestpresenter@0.23?classifier=sources

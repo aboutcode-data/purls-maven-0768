@@ -1,0 +1,1 @@
+- pkg:maven/maven/maven-ear-plugin@1.9?classifier=sources

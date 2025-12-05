@@ -1,0 +1,14 @@
+- pkg:maven/org.glassfish.admingui/console-jruby-plugin-help@3.0-b02?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-jruby-plugin-help@3.0-b03?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-jruby-plugin-help@3.0-b04?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-jruby-plugin-help@3.0-b05?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-jruby-plugin-help@3.0-b06?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-jruby-plugin-help@3.0-b07?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-jruby-plugin-help@3.0-b08?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-jruby-plugin-help@3.0.1-b01?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-jruby-plugin-help@3.0.1-b02?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-jruby-plugin-help@3.0.1-b03?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-jruby-plugin-help@3.1-b01?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-jruby-plugin-help@3.1-b02?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-jruby-plugin-help@3.1-b03?classifier=sources
+- pkg:maven/org.glassfish.admingui/console-jruby-plugin-help@3.1-b04?classifier=sources

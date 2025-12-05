@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.monolog/monolog-wrapper-remote@2.2.1-RC1
+- pkg:maven/org.ow2.monolog/monolog-wrapper-remote@2.2.1-RC1?classifier=sources

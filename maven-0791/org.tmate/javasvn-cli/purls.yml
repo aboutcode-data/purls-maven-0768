@@ -1,0 +1,4 @@
+- pkg:maven/org.tmate/javasvn-cli@1.0.4
+- pkg:maven/org.tmate/javasvn-cli@1.0.4?classifier=sources
+- pkg:maven/org.tmate/javasvn-cli@1.1.0.beta
+- pkg:maven/org.tmate/javasvn-cli@1.1.0.beta?classifier=sources

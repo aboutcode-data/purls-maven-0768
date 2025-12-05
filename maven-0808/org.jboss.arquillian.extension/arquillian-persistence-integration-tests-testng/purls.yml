@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.arquillian.extension/arquillian-persistence-integration-tests-testng@1.0.0.Alpha5
+- pkg:maven/org.jboss.arquillian.extension/arquillian-persistence-integration-tests-testng@1.0.0.Alpha5?classifier=sources
+- pkg:maven/org.jboss.arquillian.extension/arquillian-persistence-integration-tests-testng@1.0.0.Alpha6
+- pkg:maven/org.jboss.arquillian.extension/arquillian-persistence-integration-tests-testng@1.0.0.Alpha6?classifier=sources

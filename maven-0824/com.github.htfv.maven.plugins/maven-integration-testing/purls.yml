@@ -1,0 +1,4 @@
+- pkg:maven/com.github.htfv.maven.plugins/maven-integration-testing@1.0.0
+- pkg:maven/com.github.htfv.maven.plugins/maven-integration-testing@1.0.0?classifier=sources
+- pkg:maven/com.github.htfv.maven.plugins/maven-integration-testing@1.1.0.CR1
+- pkg:maven/com.github.htfv.maven.plugins/maven-integration-testing@1.1.0.CR1?classifier=sources

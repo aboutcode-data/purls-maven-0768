@@ -1,0 +1,2 @@
+- pkg:maven/org.jrebirth.af/transition@7.7.0
+- pkg:maven/org.jrebirth.af/transition@7.7.0?classifier=sources

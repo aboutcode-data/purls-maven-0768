@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.openejb/tomtom@6.0.29.313?classifier=sources
+- pkg:maven/org.apache.openejb/tomtom@6.0.29.313?type=zip

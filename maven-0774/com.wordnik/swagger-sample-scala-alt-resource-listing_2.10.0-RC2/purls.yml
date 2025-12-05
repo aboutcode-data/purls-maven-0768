@@ -1,0 +1,2 @@
+- pkg:maven/com.wordnik/swagger-sample-scala-alt-resource-listing_2.10.0-RC2@1.2.0?classifier=sources
+- pkg:maven/com.wordnik/swagger-sample-scala-alt-resource-listing_2.10.0-RC2@1.2.0?type=war

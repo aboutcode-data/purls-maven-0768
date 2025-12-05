@@ -1,0 +1,2 @@
+- pkg:maven/net.java.dev.inflector/inflector@0.7.0
+- pkg:maven/net.java.dev.inflector/inflector@0.7.0?classifier=sources

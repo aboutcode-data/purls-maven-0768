@@ -1,0 +1,6 @@
+- pkg:maven/se.vgregion.ews-services/ews-services-core-bc-composite-svc@1.0
+- pkg:maven/se.vgregion.ews-services/ews-services-core-bc-composite-svc@1.0?classifier=sources
+- pkg:maven/se.vgregion.ews-services/ews-services-core-bc-composite-svc@1.1
+- pkg:maven/se.vgregion.ews-services/ews-services-core-bc-composite-svc@1.1?classifier=sources
+- pkg:maven/se.vgregion.ews-services/ews-services-core-bc-composite-svc@1.2
+- pkg:maven/se.vgregion.ews-services/ews-services-core-bc-composite-svc@1.2?classifier=sources

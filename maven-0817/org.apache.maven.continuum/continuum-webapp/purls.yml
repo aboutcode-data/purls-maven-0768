@@ -1,0 +1,10 @@
+- pkg:maven/org.apache.maven.continuum/continuum-webapp@1.1-beta-1?classifier=sources
+- pkg:maven/org.apache.maven.continuum/continuum-webapp@1.1-beta-1?type=war
+- pkg:maven/org.apache.maven.continuum/continuum-webapp@1.1-beta-2?classifier=sources
+- pkg:maven/org.apache.maven.continuum/continuum-webapp@1.1-beta-2?type=war
+- pkg:maven/org.apache.maven.continuum/continuum-webapp@1.1-beta-3?classifier=sources
+- pkg:maven/org.apache.maven.continuum/continuum-webapp@1.1-beta-3?type=war
+- pkg:maven/org.apache.maven.continuum/continuum-webapp@1.1-beta-4?classifier=sources
+- pkg:maven/org.apache.maven.continuum/continuum-webapp@1.1-beta-4?type=war
+- pkg:maven/org.apache.maven.continuum/continuum-webapp@1.1?classifier=sources
+- pkg:maven/org.apache.maven.continuum/continuum-webapp@1.1?type=war

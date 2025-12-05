@@ -1,0 +1,4 @@
+- pkg:maven/org.nisshiee/rws-scala_2.9.2@0.0.1-RC2
+- pkg:maven/org.nisshiee/rws-scala_2.9.2@0.0.1-RC2?classifier=sources
+- pkg:maven/org.nisshiee/rws-scala_2.9.2@0.1.0
+- pkg:maven/org.nisshiee/rws-scala_2.9.2@0.1.0?classifier=sources

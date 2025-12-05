@@ -1,0 +1,8 @@
+- pkg:maven/jp.furyu/play-velocity-plugin_2.9.1@1.0
+- pkg:maven/jp.furyu/play-velocity-plugin_2.9.1@1.0?classifier=sources
+- pkg:maven/jp.furyu/play-velocity-plugin_2.9.1@1.1
+- pkg:maven/jp.furyu/play-velocity-plugin_2.9.1@1.1.1
+- pkg:maven/jp.furyu/play-velocity-plugin_2.9.1@1.1.1?classifier=sources
+- pkg:maven/jp.furyu/play-velocity-plugin_2.9.1@1.1?classifier=sources
+- pkg:maven/jp.furyu/play-velocity-plugin_2.9.1@1.2
+- pkg:maven/jp.furyu/play-velocity-plugin_2.9.1@1.2?classifier=sources

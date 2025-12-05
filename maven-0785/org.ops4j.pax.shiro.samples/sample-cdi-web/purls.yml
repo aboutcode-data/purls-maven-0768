@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.shiro.samples/sample-cdi-web@0.1.0?classifier=sources
+- pkg:maven/org.ops4j.pax.shiro.samples/sample-cdi-web@0.1.0?type=war

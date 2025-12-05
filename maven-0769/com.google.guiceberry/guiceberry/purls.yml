@@ -1,0 +1,6 @@
+- pkg:maven/com.google.guiceberry/guiceberry@3.0.4
+- pkg:maven/com.google.guiceberry/guiceberry@3.0.4?classifier=sources
+- pkg:maven/com.google.guiceberry/guiceberry@3.1.0
+- pkg:maven/com.google.guiceberry/guiceberry@3.1.0?classifier=sources
+- pkg:maven/com.google.guiceberry/guiceberry@3.3.1
+- pkg:maven/com.google.guiceberry/guiceberry@3.3.1?classifier=sources

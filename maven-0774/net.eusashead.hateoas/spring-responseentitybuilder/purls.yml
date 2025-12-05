@@ -1,0 +1,6 @@
+- pkg:maven/net.eusashead.hateoas/spring-responseentitybuilder@1.0.0.RELEASE
+- pkg:maven/net.eusashead.hateoas/spring-responseentitybuilder@1.0.0.RELEASE?classifier=sources
+- pkg:maven/net.eusashead.hateoas/spring-responseentitybuilder@1.0.1.RELEASE
+- pkg:maven/net.eusashead.hateoas/spring-responseentitybuilder@1.0.1.RELEASE?classifier=sources
+- pkg:maven/net.eusashead.hateoas/spring-responseentitybuilder@1.1.0.RELEASE
+- pkg:maven/net.eusashead.hateoas/spring-responseentitybuilder@1.1.0.RELEASE?classifier=sources

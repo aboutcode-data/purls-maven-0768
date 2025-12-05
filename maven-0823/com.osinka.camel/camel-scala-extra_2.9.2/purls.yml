@@ -1,0 +1,2 @@
+- pkg:maven/com.osinka.camel/camel-scala-extra_2.9.2@1.4.1
+- pkg:maven/com.osinka.camel/camel-scala-extra_2.9.2@1.4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.azaptree/azaptree-command-http-service@0.0.3
+- pkg:maven/com.azaptree/azaptree-command-http-service@0.0.3?classifier=sources

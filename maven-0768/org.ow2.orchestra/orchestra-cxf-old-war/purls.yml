@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.orchestra/orchestra-cxf-old-war@4.3.0?classifier=sources
+- pkg:maven/org.ow2.orchestra/orchestra-cxf-old-war@4.3.0?type=war

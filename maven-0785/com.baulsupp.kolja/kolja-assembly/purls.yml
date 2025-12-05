@@ -1,0 +1,2 @@
+- pkg:maven/com.baulsupp.kolja/kolja-assembly@0.9.9?classifier=sources
+- pkg:maven/com.baulsupp.kolja/kolja-assembly@1.0.0

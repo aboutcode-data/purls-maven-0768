@@ -1,0 +1,4 @@
+- pkg:maven/io.ifar.skid-road/skid-road-examples@3
+- pkg:maven/io.ifar.skid-road/skid-road-examples@3?classifier=sources
+- pkg:maven/io.ifar.skid-road/skid-road-examples@4
+- pkg:maven/io.ifar.skid-road/skid-road-examples@4?classifier=sources

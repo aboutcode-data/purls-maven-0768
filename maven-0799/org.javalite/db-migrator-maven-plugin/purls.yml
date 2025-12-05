@@ -1,0 +1,2 @@
+- pkg:maven/org.javalite/db-migrator-maven-plugin@1.4.9
+- pkg:maven/org.javalite/db-migrator-maven-plugin@1.4.9?classifier=sources

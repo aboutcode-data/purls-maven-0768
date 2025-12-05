@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.util.scan/scan@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.ow2.util.scan/scan@2.0.1?classifier=source-release&type=zip
+- pkg:maven/org.ow2.util.scan/scan@3.0.0-M1?classifier=source-release&type=zip
+- pkg:maven/org.ow2.util.scan/scan@3.0.0-M2?classifier=source-release&type=zip

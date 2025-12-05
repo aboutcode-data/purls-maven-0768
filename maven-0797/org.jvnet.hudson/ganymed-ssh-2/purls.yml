@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.hudson/ganymed-ssh-2@build260
+- pkg:maven/org.jvnet.hudson/ganymed-ssh-2@build260?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/jaxme/jaxmejs@0.4
+- pkg:maven/jaxme/jaxmejs@0.4beta
+- pkg:maven/jaxme/jaxmejs@0.5
+- pkg:maven/jaxme/jaxmejs@0.5.1
+- pkg:maven/jaxme/jaxmejs@0.5.1?classifier=sources
+- pkg:maven/jaxme/jaxmejs@0.5beta

@@ -1,0 +1,10 @@
+- pkg:maven/com.nflabs.zeppelin/zeppelin-web@0.1.0?classifier=sources
+- pkg:maven/com.nflabs.zeppelin/zeppelin-web@0.1.0?type=war
+- pkg:maven/com.nflabs.zeppelin/zeppelin-web@0.1.1?classifier=sources
+- pkg:maven/com.nflabs.zeppelin/zeppelin-web@0.1.1?type=war
+- pkg:maven/com.nflabs.zeppelin/zeppelin-web@0.1.2?classifier=sources
+- pkg:maven/com.nflabs.zeppelin/zeppelin-web@0.1.2?type=war
+- pkg:maven/com.nflabs.zeppelin/zeppelin-web@0.2.0?type=war
+- pkg:maven/com.nflabs.zeppelin/zeppelin-web@0.3.0?type=war
+- pkg:maven/com.nflabs.zeppelin/zeppelin-web@0.3.1?type=war
+- pkg:maven/com.nflabs.zeppelin/zeppelin-web@0.3.3?type=war

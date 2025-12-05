@@ -1,0 +1,2 @@
+- pkg:maven/org.tashlin/tashlin-web@0.0.1?classifier=sources
+- pkg:maven/org.tashlin/tashlin-web@0.0.1?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/se.vgregion.mobile/mobile-mobile-composite-svc@1.0
+- pkg:maven/se.vgregion.mobile/mobile-mobile-composite-svc@1.0?classifier=sources

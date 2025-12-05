@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.jmeter/ApacheJMeter_components@2.10
+- pkg:maven/org.apache.jmeter/ApacheJMeter_components@2.11
+- pkg:maven/org.apache.jmeter/ApacheJMeter_components@2.6
+- pkg:maven/org.apache.jmeter/ApacheJMeter_components@2.7
+- pkg:maven/org.apache.jmeter/ApacheJMeter_components@2.8
+- pkg:maven/org.apache.jmeter/ApacheJMeter_components@2.9

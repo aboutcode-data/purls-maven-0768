@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.pressgang.ccms/jcommander-pressgang@1.24
+- pkg:maven/org.jboss.pressgang.ccms/jcommander-pressgang@1.24?classifier=sources

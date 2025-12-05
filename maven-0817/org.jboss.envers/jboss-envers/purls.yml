@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.envers/jboss-envers@1.0.0.GA
+- pkg:maven/org.jboss.envers/jboss-envers@1.0.0.GA?classifier=sources

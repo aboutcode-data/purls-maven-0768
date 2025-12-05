@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.isis.viewer/json-tck@0.2.0-incubating?classifier=sources
+- pkg:maven/org.apache.isis.viewer/json-tck@0.2.0-incubating?type=war

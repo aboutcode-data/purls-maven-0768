@@ -1,0 +1,4 @@
+- pkg:maven/eu.future-earth.gwt/ftr-gwt-slider@2.0
+- pkg:maven/eu.future-earth.gwt/ftr-gwt-slider@2.0?classifier=sources
+- pkg:maven/eu.future-earth.gwt/ftr-gwt-slider@2.1
+- pkg:maven/eu.future-earth.gwt/ftr-gwt-slider@2.1?classifier=sources

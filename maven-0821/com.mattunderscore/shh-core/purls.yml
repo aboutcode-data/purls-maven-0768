@@ -1,0 +1,2 @@
+- pkg:maven/com.mattunderscore/shh-core@0.2.7
+- pkg:maven/com.mattunderscore/shh-core@0.2.7?classifier=sources

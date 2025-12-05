@@ -1,0 +1,2 @@
+- pkg:maven/jp.co.worksap.message.wrapper/message-wrapper@1.0
+- pkg:maven/jp.co.worksap.message.wrapper/message-wrapper@1.0?classifier=sources

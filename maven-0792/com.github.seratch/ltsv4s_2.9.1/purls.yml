@@ -1,0 +1,2 @@
+- pkg:maven/com.github.seratch/ltsv4s_2.9.1@0.2.2
+- pkg:maven/com.github.seratch/ltsv4s_2.9.1@0.2.2?classifier=sources

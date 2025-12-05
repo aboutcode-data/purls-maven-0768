@@ -1,0 +1,2 @@
+- pkg:maven/org.scalesxml/scales-jaxen_2.9.3@0.6.0-M1
+- pkg:maven/org.scalesxml/scales-jaxen_2.9.3@0.6.0-M1?classifier=sources

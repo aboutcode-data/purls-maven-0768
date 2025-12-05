@@ -1,0 +1,2 @@
+- pkg:maven/com.barrybecker4/bb4-galactic@1.1.2
+- pkg:maven/com.barrybecker4/bb4-galactic@1.1.2?classifier=sources

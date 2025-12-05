@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.admin.runtime.rtapt/apt@1.0
+- pkg:maven/org.glassfish.admin.runtime.rtapt/apt@1.0?classifier=sources

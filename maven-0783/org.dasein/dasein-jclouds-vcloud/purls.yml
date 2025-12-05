@@ -1,0 +1,8 @@
+- pkg:maven/org.dasein/dasein-jclouds-vcloud@2011.08
+- pkg:maven/org.dasein/dasein-jclouds-vcloud@2011.08?classifier=sources
+- pkg:maven/org.dasein/dasein-jclouds-vcloud@2012.02
+- pkg:maven/org.dasein/dasein-jclouds-vcloud@2012.02?classifier=sources
+- pkg:maven/org.dasein/dasein-jclouds-vcloud@2012.04
+- pkg:maven/org.dasein/dasein-jclouds-vcloud@2012.04.1
+- pkg:maven/org.dasein/dasein-jclouds-vcloud@2012.04.1?classifier=sources
+- pkg:maven/org.dasein/dasein-jclouds-vcloud@2012.04?classifier=sources

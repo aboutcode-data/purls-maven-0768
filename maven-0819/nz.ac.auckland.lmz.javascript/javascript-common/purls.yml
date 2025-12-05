@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.auckland.lmz.javascript/javascript-common@1.2
+- pkg:maven/nz.ac.auckland.lmz.javascript/javascript-common@1.2?classifier=sources

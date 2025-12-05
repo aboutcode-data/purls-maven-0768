@@ -1,0 +1,6 @@
+- pkg:maven/net.databinder/dispatch-oauth_2.9.0.RC1@0.7.8
+- pkg:maven/net.databinder/dispatch-oauth_2.9.0.RC1@0.7.8?classifier=sources
+- pkg:maven/net.databinder/dispatch-oauth_2.9.0.RC1@0.8.0
+- pkg:maven/net.databinder/dispatch-oauth_2.9.0.RC1@0.8.0.Beta5
+- pkg:maven/net.databinder/dispatch-oauth_2.9.0.RC1@0.8.0.Beta5?classifier=sources
+- pkg:maven/net.databinder/dispatch-oauth_2.9.0.RC1@0.8.0?classifier=sources
