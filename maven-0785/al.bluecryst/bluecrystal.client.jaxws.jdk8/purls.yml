@@ -1,0 +1,2 @@
+- pkg:maven/al.bluecryst/bluecrystal.client.jaxws.jdk8@1.5.0
+- pkg:maven/al.bluecryst/bluecrystal.client.jaxws.jdk8@1.5.0?classifier=sources

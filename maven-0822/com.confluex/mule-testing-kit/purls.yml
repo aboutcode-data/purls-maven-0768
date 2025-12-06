@@ -10,3 +10,5 @@
 - pkg:maven/com.confluex/mule-testing-kit@3.6.0.0?classifier=sources
 - pkg:maven/com.confluex/mule-testing-kit@3.7.0.0
 - pkg:maven/com.confluex/mule-testing-kit@3.7.0.0?classifier=sources
+- pkg:maven/com.confluex/mule-testing-kit@3.7.0.1
+- pkg:maven/com.confluex/mule-testing-kit@3.7.0.1?classifier=sources

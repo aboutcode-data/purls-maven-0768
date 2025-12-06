@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.atlas/atlas-dashboardv2@0.7-incubating?classifier=sources
+- pkg:maven/org.apache.atlas/atlas-dashboardv2@0.7-incubating?type=war

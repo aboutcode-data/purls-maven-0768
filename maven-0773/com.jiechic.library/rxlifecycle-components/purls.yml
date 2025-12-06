@@ -1,0 +1,2 @@
+- pkg:maven/com.jiechic.library/rxlifecycle-components@0.6.0?classifier=sources
+- pkg:maven/com.jiechic.library/rxlifecycle-components@0.6.0?type=aar

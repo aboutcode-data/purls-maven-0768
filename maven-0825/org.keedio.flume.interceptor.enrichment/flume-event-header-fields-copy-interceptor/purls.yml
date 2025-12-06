@@ -1,0 +1,2 @@
+- pkg:maven/org.keedio.flume.interceptor.enrichment/flume-event-header-fields-copy-interceptor@0.0.2
+- pkg:maven/org.keedio.flume.interceptor.enrichment/flume-event-header-fields-copy-interceptor@0.0.2?classifier=sources

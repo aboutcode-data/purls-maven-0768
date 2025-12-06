@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/angular-print@0.3.8
+- pkg:maven/org.webjars.bower/angular-print@0.3.8?classifier=sources

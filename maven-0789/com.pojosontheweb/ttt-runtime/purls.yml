@@ -9,4 +9,6 @@
 - pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta4?classifier=sources
 - pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta5
 - pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta5?classifier=sources
+- pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta6
+- pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta6?classifier=sources
 - pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/uk.ac.ebi.gxa/atlas-utils@2.0-rc1
+- pkg:maven/uk.ac.ebi.gxa/atlas-utils@2.0-rc1?classifier=sources
+- pkg:maven/uk.ac.ebi.gxa/atlas-utils@2.0-rc2
+- pkg:maven/uk.ac.ebi.gxa/atlas-utils@2.0-rc2?classifier=sources

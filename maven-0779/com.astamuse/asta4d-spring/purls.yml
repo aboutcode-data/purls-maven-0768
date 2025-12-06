@@ -32,9 +32,13 @@
 - pkg:maven/com.astamuse/asta4d-spring@1.0-b3?classifier=sources
 - pkg:maven/com.astamuse/asta4d-spring@1.0-b4
 - pkg:maven/com.astamuse/asta4d-spring@1.0-b4?classifier=sources
+- pkg:maven/com.astamuse/asta4d-spring@1.1-Xmas
+- pkg:maven/com.astamuse/asta4d-spring@1.1-Xmas?classifier=sources
 - pkg:maven/com.astamuse/asta4d-spring@1.1-b1
 - pkg:maven/com.astamuse/asta4d-spring@1.1-b1?classifier=sources
 - pkg:maven/com.astamuse/asta4d-spring@1.1-b2
 - pkg:maven/com.astamuse/asta4d-spring@1.1-b2?classifier=sources
 - pkg:maven/com.astamuse/asta4d-spring@1.1-b3
 - pkg:maven/com.astamuse/asta4d-spring@1.1-b3?classifier=sources
+- pkg:maven/com.astamuse/asta4d-spring@1.2-M1
+- pkg:maven/com.astamuse/asta4d-spring@1.2-M1?classifier=sources

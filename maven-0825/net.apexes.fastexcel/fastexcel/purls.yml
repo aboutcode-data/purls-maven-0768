@@ -1,0 +1,2 @@
+- pkg:maven/net.apexes.fastexcel/fastexcel@0.5.3
+- pkg:maven/net.apexes.fastexcel/fastexcel@0.5.3?classifier=sources

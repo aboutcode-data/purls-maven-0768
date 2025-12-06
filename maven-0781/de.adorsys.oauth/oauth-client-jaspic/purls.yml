@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.oauth/oauth-client-jaspic@0.10
+- pkg:maven/de.adorsys.oauth/oauth-client-jaspic@0.10?classifier=sources

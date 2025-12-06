@@ -1,2 +1,6 @@
 - pkg:maven/com.liferay.maven.archetypes/liferay-portlet-spring-mvc-archetype@6.2.10.12?classifier=sources
 - pkg:maven/com.liferay.maven.archetypes/liferay-portlet-spring-mvc-archetype@6.2.10.13?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-portlet-spring-mvc-archetype@6.2.10.14?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-portlet-spring-mvc-archetype@6.2.10.15?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-portlet-spring-mvc-archetype@6.2.4?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-portlet-spring-mvc-archetype@6.2.5?classifier=sources

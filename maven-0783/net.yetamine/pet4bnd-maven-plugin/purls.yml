@@ -1,0 +1,2 @@
+- pkg:maven/net.yetamine/pet4bnd-maven-plugin@1.0.0
+- pkg:maven/net.yetamine/pet4bnd-maven-plugin@1.0.0?classifier=sources

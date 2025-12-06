@@ -1,0 +1,10 @@
+- pkg:maven/io.github.benas/random-beans-jodatime@2.0.0
+- pkg:maven/io.github.benas/random-beans-jodatime@2.0.0?classifier=sources
+- pkg:maven/io.github.benas/random-beans-jodatime@3.0.0
+- pkg:maven/io.github.benas/random-beans-jodatime@3.0.0?classifier=sources
+- pkg:maven/io.github.benas/random-beans-jodatime@3.1.0
+- pkg:maven/io.github.benas/random-beans-jodatime@3.1.0?classifier=sources
+- pkg:maven/io.github.benas/random-beans-jodatime@3.2.0
+- pkg:maven/io.github.benas/random-beans-jodatime@3.2.0?classifier=sources
+- pkg:maven/io.github.benas/random-beans-jodatime@3.3.0
+- pkg:maven/io.github.benas/random-beans-jodatime@3.3.0?classifier=sources

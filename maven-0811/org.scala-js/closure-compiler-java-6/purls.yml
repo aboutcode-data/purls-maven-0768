@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-js/closure-compiler-java-6@v20160517
+- pkg:maven/org.scala-js/closure-compiler-java-6@v20160517?classifier=sources

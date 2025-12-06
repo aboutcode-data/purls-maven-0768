@@ -7,3 +7,5 @@
 - pkg:maven/org.geomajas.documentation/geomajas-jdocbook-style@2.4.0?classifier=sources
 - pkg:maven/org.geomajas.documentation/geomajas-jdocbook-style@2.5.0
 - pkg:maven/org.geomajas.documentation/geomajas-jdocbook-style@2.5.0?classifier=sources
+- pkg:maven/org.geomajas.documentation/geomajas-jdocbook-style@2.6.0
+- pkg:maven/org.geomajas.documentation/geomajas-jdocbook-style@2.6.0?classifier=sources

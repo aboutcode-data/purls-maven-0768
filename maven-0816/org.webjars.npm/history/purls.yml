@@ -12,3 +12,17 @@
 - pkg:maven/org.webjars.npm/history@1.13.0?classifier=sources
 - pkg:maven/org.webjars.npm/history@1.13.1
 - pkg:maven/org.webjars.npm/history@1.13.1?classifier=sources
+- pkg:maven/org.webjars.npm/history@2.0.0
+- pkg:maven/org.webjars.npm/history@2.0.0-rc1
+- pkg:maven/org.webjars.npm/history@2.0.0-rc1?classifier=sources
+- pkg:maven/org.webjars.npm/history@2.0.0-rc2
+- pkg:maven/org.webjars.npm/history@2.0.0-rc2?classifier=sources
+- pkg:maven/org.webjars.npm/history@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/history@2.0.1
+- pkg:maven/org.webjars.npm/history@2.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/history@2.1.2
+- pkg:maven/org.webjars.npm/history@2.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/history@3.0.0-2
+- pkg:maven/org.webjars.npm/history@3.0.0-2?classifier=sources
+- pkg:maven/org.webjars.npm/history@4.2.0
+- pkg:maven/org.webjars.npm/history@4.2.0?classifier=sources

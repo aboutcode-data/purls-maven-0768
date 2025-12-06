@@ -1,0 +1,4 @@
+- pkg:maven/es.molabs/jdbc-utils@1.0.0
+- pkg:maven/es.molabs/jdbc-utils@1.0.0?classifier=sources
+- pkg:maven/es.molabs/jdbc-utils@1.0.1
+- pkg:maven/es.molabs/jdbc-utils@1.0.1?classifier=sources

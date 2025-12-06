@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.javascript/javascript-type-inference-plugin@2.10?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-type-inference-plugin@2.11?classifier=sources

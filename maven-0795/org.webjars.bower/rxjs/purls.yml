@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bower/rxjs@2.5.2?classifier=sources
 - pkg:maven/org.webjars.bower/rxjs@4.0.6
 - pkg:maven/org.webjars.bower/rxjs@4.0.6?classifier=sources
+- pkg:maven/org.webjars.bower/rxjs@4.1.0
+- pkg:maven/org.webjars.bower/rxjs@4.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.nhl.bootique.jdbc/bootique-jdbc-instrumented@0.10
+- pkg:maven/com.nhl.bootique.jdbc/bootique-jdbc-instrumented@0.10.1
+- pkg:maven/com.nhl.bootique.jdbc/bootique-jdbc-instrumented@0.10.1?classifier=sources
+- pkg:maven/com.nhl.bootique.jdbc/bootique-jdbc-instrumented@0.10?classifier=sources

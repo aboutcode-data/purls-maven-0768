@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8.portswizzler/portswizzler@1.0.0
+- pkg:maven/io.fabric8.portswizzler/portswizzler@1.0.0?classifier=sources

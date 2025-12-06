@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.hama/hama-dist@0.6.4?classifier=src&type=zip
 - pkg:maven/org.apache.hama/hama-dist@0.7.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.hama/hama-dist@0.7.0?classifier=src&type=zip
+- pkg:maven/org.apache.hama/hama-dist@0.7.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.hama/hama-dist@0.7.1?classifier=src&type=zip

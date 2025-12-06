@@ -1,0 +1,4 @@
+- pkg:maven/com.iih5/smart-goodorm@1.0
+- pkg:maven/com.iih5/smart-goodorm@1.0?classifier=sources
+- pkg:maven/com.iih5/smart-goodorm@1.2
+- pkg:maven/com.iih5/smart-goodorm@1.2?classifier=sources

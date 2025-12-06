@@ -1,0 +1,2 @@
+- pkg:maven/br.com.objectos.jabuticava/boleto@0.3.0
+- pkg:maven/br.com.objectos.jabuticava/boleto@0.3.0?classifier=sources

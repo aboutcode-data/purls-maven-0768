@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.npm/angular2-jwt@0.1.16
+- pkg:maven/org.webjars.npm/angular2-jwt@0.1.16?classifier=sources
+- pkg:maven/org.webjars.npm/angular2-jwt@0.1.24
+- pkg:maven/org.webjars.npm/angular2-jwt@0.1.24?classifier=sources
+- pkg:maven/org.webjars.npm/angular2-jwt@0.1.6
+- pkg:maven/org.webjars.npm/angular2-jwt@0.1.6?classifier=sources
+- pkg:maven/org.webjars.npm/angular2-jwt@0.1.9
+- pkg:maven/org.webjars.npm/angular2-jwt@0.1.9?classifier=sources

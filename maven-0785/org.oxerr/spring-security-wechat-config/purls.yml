@@ -1,0 +1,2 @@
+- pkg:maven/org.oxerr/spring-security-wechat-config@0.0.1
+- pkg:maven/org.oxerr/spring-security-wechat-config@0.0.1?classifier=sources

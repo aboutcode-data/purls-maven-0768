@@ -1,0 +1,2 @@
+- pkg:maven/com.github.error418.properties/md-properties@0.0.1
+- pkg:maven/com.github.error418.properties/md-properties@0.0.1?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/com.io7m.jstructural/io7m-jstructural-tests@4.0.0
 - pkg:maven/com.io7m.jstructural/io7m-jstructural-tests@4.1.0
 - pkg:maven/com.io7m.jstructural/io7m-jstructural-tests@4.2.0
+- pkg:maven/com.io7m.jstructural/io7m-jstructural-tests@5.0.0

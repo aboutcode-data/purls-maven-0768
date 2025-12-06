@@ -42,3 +42,11 @@
 - pkg:maven/io.ino/solrs_2.11@1.3.3?classifier=sources
 - pkg:maven/io.ino/solrs_2.11@1.3.4
 - pkg:maven/io.ino/solrs_2.11@1.3.4?classifier=sources
+- pkg:maven/io.ino/solrs_2.11@1.4.0
+- pkg:maven/io.ino/solrs_2.11@1.4.0?classifier=sources
+- pkg:maven/io.ino/solrs_2.11@1.5.0
+- pkg:maven/io.ino/solrs_2.11@1.5.0?classifier=sources
+- pkg:maven/io.ino/solrs_2.11@2.0.0-RC1
+- pkg:maven/io.ino/solrs_2.11@2.0.0-RC1-solr6.0
+- pkg:maven/io.ino/solrs_2.11@2.0.0-RC1-solr6.0?classifier=sources
+- pkg:maven/io.ino/solrs_2.11@2.0.0-RC1?classifier=sources

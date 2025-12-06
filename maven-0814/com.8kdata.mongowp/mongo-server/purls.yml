@@ -1,0 +1,2 @@
+- pkg:maven/com.8kdata.mongowp/mongo-server@0.20
+- pkg:maven/com.8kdata.mongowp/mongo-server@0.20?classifier=sources

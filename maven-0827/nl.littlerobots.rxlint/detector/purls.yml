@@ -1,0 +1,2 @@
+- pkg:maven/nl.littlerobots.rxlint/detector@1.0
+- pkg:maven/nl.littlerobots.rxlint/detector@1.0?classifier=sources

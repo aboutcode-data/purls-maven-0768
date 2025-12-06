@@ -1,0 +1,8 @@
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.client.mobile.test@5.2.0.M3
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.client.mobile.test@5.2.0.M4
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.client.mobile.test@5.2.0.M5
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.client.mobile.test@6.0.0.M6
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.client.mobile.test@6.0.0.M6_1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.client.mobile.test@6.0.0.M7
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.client.mobile.test@6.0.0.RC1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.client.mobile.test@6.0.0.RC2

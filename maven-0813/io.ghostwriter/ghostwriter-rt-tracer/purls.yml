@@ -1,0 +1,2 @@
+- pkg:maven/io.ghostwriter/ghostwriter-rt-tracer@0.1.1
+- pkg:maven/io.ghostwriter/ghostwriter-rt-tracer@0.1.1?classifier=sources

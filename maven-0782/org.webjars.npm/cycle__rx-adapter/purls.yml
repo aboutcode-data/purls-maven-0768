@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/cycle__rx-adapter@3.0.0
+- pkg:maven/org.webjars.npm/cycle__rx-adapter@3.0.0?classifier=sources

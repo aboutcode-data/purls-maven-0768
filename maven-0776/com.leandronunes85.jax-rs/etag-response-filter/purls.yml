@@ -1,0 +1,2 @@
+- pkg:maven/com.leandronunes85.jax-rs/etag-response-filter@1.0
+- pkg:maven/com.leandronunes85.jax-rs/etag-response-filter@1.0?classifier=sources

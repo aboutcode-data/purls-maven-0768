@@ -1,3 +1,9 @@
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.10-3.3.2?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.11-3.3.5?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.12-3.3.5?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.13-3.3.5?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.14-3.3.5?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.15-4.0.2?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.2.0-3.3.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.3.0-3.3.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.3.1-3.3.0?type=aar
@@ -6,3 +12,6 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.5.1-3.3.1?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.6-3.3.2?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.7.1-3.3.2?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.8-3.3.2?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.9-3.3.2?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-vungle-mediation@2.9.1-3.3.2?type=aar

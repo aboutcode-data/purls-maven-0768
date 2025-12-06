@@ -1,2 +1,4 @@
 - pkg:maven/org.lindbergframework.web/lindbergframework-myview@1.0
+- pkg:maven/org.lindbergframework.web/lindbergframework-myview@1.0-SANPSHOT
+- pkg:maven/org.lindbergframework.web/lindbergframework-myview@1.0-SANPSHOT?classifier=sources
 - pkg:maven/org.lindbergframework.web/lindbergframework-myview@1.0?classifier=sources

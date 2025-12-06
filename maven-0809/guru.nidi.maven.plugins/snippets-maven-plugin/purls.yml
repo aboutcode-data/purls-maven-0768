@@ -1,0 +1,2 @@
+- pkg:maven/guru.nidi.maven.plugins/snippets-maven-plugin@0.0.1
+- pkg:maven/guru.nidi.maven.plugins/snippets-maven-plugin@0.0.1?classifier=sources

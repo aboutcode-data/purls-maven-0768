@@ -1,0 +1,2 @@
+- pkg:maven/net.moznion/thin-cache@0.0.1
+- pkg:maven/net.moznion/thin-cache@0.0.1?classifier=sources

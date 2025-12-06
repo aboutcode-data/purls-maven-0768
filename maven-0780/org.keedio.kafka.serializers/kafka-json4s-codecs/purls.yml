@@ -1,0 +1,2 @@
+- pkg:maven/org.keedio.kafka.serializers/kafka-json4s-codecs@0.0.2_2.10
+- pkg:maven/org.keedio.kafka.serializers/kafka-json4s-codecs@0.0.2_2.10?classifier=sources

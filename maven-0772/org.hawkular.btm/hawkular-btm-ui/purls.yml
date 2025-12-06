@@ -1,1 +1,13 @@
 - pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.5.0.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.6.0.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.7.0.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.7.1.Final?classifier=sources
+- pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.7.1.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.7.2.Final?classifier=sources
+- pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.7.2.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.7.3.Final?classifier=sources
+- pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.7.3.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.7.4.Final?classifier=sources
+- pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.7.4.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.8.0.Final?classifier=sources
+- pkg:maven/org.hawkular.btm/hawkular-btm-ui@0.8.0.Final?type=war

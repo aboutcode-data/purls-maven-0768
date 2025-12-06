@@ -1,0 +1,2 @@
+- pkg:maven/com.threerings/tripleplay-java-lwjgl2@2.0-rc3
+- pkg:maven/com.threerings/tripleplay-java-lwjgl2@2.0-rc3?classifier=sources

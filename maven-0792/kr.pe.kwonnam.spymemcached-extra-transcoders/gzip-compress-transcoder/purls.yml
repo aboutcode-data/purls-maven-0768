@@ -1,0 +1,2 @@
+- pkg:maven/kr.pe.kwonnam.spymemcached-extra-transcoders/gzip-compress-transcoder@0.1
+- pkg:maven/kr.pe.kwonnam.spymemcached-extra-transcoders/gzip-compress-transcoder@0.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/mime-db@1.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/mime-db@1.19.0
 - pkg:maven/org.webjars.npm/mime-db@1.19.0?classifier=sources
+- pkg:maven/org.webjars.npm/mime-db@1.23.0
+- pkg:maven/org.webjars.npm/mime-db@1.23.0?classifier=sources

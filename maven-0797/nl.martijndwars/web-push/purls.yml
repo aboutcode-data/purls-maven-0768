@@ -1,0 +1,6 @@
+- pkg:maven/nl.martijndwars/web-push@0.1.0
+- pkg:maven/nl.martijndwars/web-push@0.1.0?classifier=sources
+- pkg:maven/nl.martijndwars/web-push@1.0.0
+- pkg:maven/nl.martijndwars/web-push@1.0.0?classifier=sources
+- pkg:maven/nl.martijndwars/web-push@2.0.0
+- pkg:maven/nl.martijndwars/web-push@2.0.0?classifier=sources

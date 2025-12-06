@@ -1,2 +1,8 @@
 - pkg:maven/org.specsy/specsy-scala_2.11@2.1.1
 - pkg:maven/org.specsy/specsy-scala_2.11@2.1.1?classifier=sources
+- pkg:maven/org.specsy/specsy-scala_2.11@2.2.0
+- pkg:maven/org.specsy/specsy-scala_2.11@2.2.0?classifier=sources
+- pkg:maven/org.specsy/specsy-scala_2.11@2.3.0
+- pkg:maven/org.specsy/specsy-scala_2.11@2.3.0?classifier=sources
+- pkg:maven/org.specsy/specsy-scala_2.11@2.3.1
+- pkg:maven/org.specsy/specsy-scala_2.11@2.3.1?classifier=sources

@@ -28,7 +28,15 @@
 - pkg:maven/ch.inftec.ju/ju-testing@4.5-beta-4?classifier=sources
 - pkg:maven/ch.inftec.ju/ju-testing@4.5-beta-5
 - pkg:maven/ch.inftec.ju/ju-testing@4.5-beta-5?classifier=sources
+- pkg:maven/ch.inftec.ju/ju-testing@4.5.1-11
+- pkg:maven/ch.inftec.ju/ju-testing@4.5.1-11?classifier=sources
+- pkg:maven/ch.inftec.ju/ju-testing@4.5.1-SNAPSHOT-27
+- pkg:maven/ch.inftec.ju/ju-testing@4.5.1-SNAPSHOT-27?classifier=sources
 - pkg:maven/ch.inftec.ju/ju-testing@4.5.1-rc-2
 - pkg:maven/ch.inftec.ju/ju-testing@4.5.1-rc-2?classifier=sources
 - pkg:maven/ch.inftec.ju/ju-testing@4.5.1-rc-4
 - pkg:maven/ch.inftec.ju/ju-testing@4.5.1-rc-4?classifier=sources
+- pkg:maven/ch.inftec.ju/ju-testing@4.5.1-rc-5
+- pkg:maven/ch.inftec.ju/ju-testing@4.5.1-rc-5?classifier=sources
+- pkg:maven/ch.inftec.ju/ju-testing@4.5.1-rc-8
+- pkg:maven/ch.inftec.ju/ju-testing@4.5.1-rc-8?classifier=sources

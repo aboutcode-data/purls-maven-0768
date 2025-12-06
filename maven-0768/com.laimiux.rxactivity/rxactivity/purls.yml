@@ -1,0 +1,2 @@
+- pkg:maven/com.laimiux.rxactivity/rxactivity@0.0.1?classifier=sources
+- pkg:maven/com.laimiux.rxactivity/rxactivity@0.0.1?type=aar

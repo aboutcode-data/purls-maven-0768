@@ -1,0 +1,2 @@
+- pkg:maven/de.pfabulist.lindwurm/stellvertreter-app@0.5.2
+- pkg:maven/de.pfabulist.lindwurm/stellvertreter-app@0.5.2?classifier=sources

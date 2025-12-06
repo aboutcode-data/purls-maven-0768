@@ -1,0 +1,4 @@
+- pkg:maven/com.artemzin.rxjavav1v2adapter/adapter@0.1.0-developer-preview
+- pkg:maven/com.artemzin.rxjavav1v2adapter/adapter@0.1.0-developer-preview?classifier=sources
+- pkg:maven/com.artemzin.rxjavav1v2adapter/adapter@0.1.1-developer-preview
+- pkg:maven/com.artemzin.rxjavav1v2adapter/adapter@0.1.1-developer-preview?classifier=sources

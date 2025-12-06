@@ -1,0 +1,4 @@
+- pkg:maven/org.hawkular.cmdgw/hawkular-command-gateway-itest@0.10.10.Final
+- pkg:maven/org.hawkular.cmdgw/hawkular-command-gateway-itest@0.10.11.Final
+- pkg:maven/org.hawkular.cmdgw/hawkular-command-gateway-itest@0.11.0.Final
+- pkg:maven/org.hawkular.cmdgw/hawkular-command-gateway-itest@0.12.0.Final

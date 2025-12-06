@@ -1,0 +1,2 @@
+- pkg:maven/com.colleczion/colleczion-bson@0.4.1
+- pkg:maven/com.colleczion/colleczion-bson@0.4.1?classifier=sources

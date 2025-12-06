@@ -1,0 +1,2 @@
+- pkg:maven/fr.brouillard.oss.security.xhub/xhub4j-servlet@1.0.0
+- pkg:maven/fr.brouillard.oss.security.xhub/xhub4j-servlet@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.beryx.viewreka/viewreka-h2@0.2.1-alpha-3
+- pkg:maven/org.beryx.viewreka/viewreka-h2@0.2.1-alpha-3?classifier=sources

@@ -13,6 +13,10 @@
 - pkg:maven/org.sonatype.install4j/install4j-maven-plugin@1.0.6?classifier=sources
 - pkg:maven/org.sonatype.install4j/install4j-maven-plugin@1.0.7
 - pkg:maven/org.sonatype.install4j/install4j-maven-plugin@1.0.7?classifier=sources
+- pkg:maven/org.sonatype.install4j/install4j-maven-plugin@1.0.8
+- pkg:maven/org.sonatype.install4j/install4j-maven-plugin@1.0.8?classifier=sources
 - pkg:maven/org.sonatype.install4j/install4j-maven-plugin@1.0?classifier=sources
 - pkg:maven/org.sonatype.install4j/install4j-maven-plugin@1.1.0
 - pkg:maven/org.sonatype.install4j/install4j-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/org.sonatype.install4j/install4j-maven-plugin@1.1.1
+- pkg:maven/org.sonatype.install4j/install4j-maven-plugin@1.1.1?classifier=sources

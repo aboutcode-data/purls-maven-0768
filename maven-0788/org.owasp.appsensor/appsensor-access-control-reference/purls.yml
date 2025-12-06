@@ -22,3 +22,5 @@
 - pkg:maven/org.owasp.appsensor/appsensor-access-control-reference@2.2.0-RC2
 - pkg:maven/org.owasp.appsensor/appsensor-access-control-reference@2.2.0-RC2?classifier=sources
 - pkg:maven/org.owasp.appsensor/appsensor-access-control-reference@2.2.0?classifier=sources
+- pkg:maven/org.owasp.appsensor/appsensor-access-control-reference@2.3.0
+- pkg:maven/org.owasp.appsensor/appsensor-access-control-reference@2.3.0?classifier=sources

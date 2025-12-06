@@ -1,0 +1,2 @@
+- pkg:maven/io.engineblock/eb-rest-client@1.0.30
+- pkg:maven/io.engineblock/eb-rest-client@1.0.30?classifier=sources

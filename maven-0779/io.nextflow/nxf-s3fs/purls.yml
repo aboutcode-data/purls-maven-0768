@@ -4,3 +4,5 @@
 - pkg:maven/io.nextflow/nxf-s3fs@0.2.8d?classifier=sources
 - pkg:maven/io.nextflow/nxf-s3fs@0.2.8g
 - pkg:maven/io.nextflow/nxf-s3fs@0.2.8g?classifier=sources
+- pkg:maven/io.nextflow/nxf-s3fs@1.0.0
+- pkg:maven/io.nextflow/nxf-s3fs@1.0.0?classifier=sources

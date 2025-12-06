@@ -1,0 +1,4 @@
+- pkg:maven/cc.catalysts.gradle/cat-gradle-dmuncle-plugin@0.0.17
+- pkg:maven/cc.catalysts.gradle/cat-gradle-dmuncle-plugin@0.0.17?classifier=sources
+- pkg:maven/cc.catalysts.gradle/cat-gradle-dmuncle-plugin@0.0.22
+- pkg:maven/cc.catalysts.gradle/cat-gradle-dmuncle-plugin@0.0.22?classifier=sources

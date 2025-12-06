@@ -1,2 +1,4 @@
 - pkg:maven/ro.fortsoft.dada/dada-core@0.1.0
 - pkg:maven/ro.fortsoft.dada/dada-core@0.1.0?classifier=sources
+- pkg:maven/ro.fortsoft.dada/dada-core@0.1.1
+- pkg:maven/ro.fortsoft.dada/dada-core@0.1.1?classifier=sources

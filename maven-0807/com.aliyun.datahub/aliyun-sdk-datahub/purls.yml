@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.datahub/aliyun-sdk-datahub@2.1.1-public
+- pkg:maven/com.aliyun.datahub/aliyun-sdk-datahub@2.1.1-public?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.coderepositories/jcommons-core@1.0
+- pkg:maven/com.github.coderepositories/jcommons-core@1.0.v201602292337
+- pkg:maven/com.github.coderepositories/jcommons-core@1.0.v201602292337?classifier=sources
+- pkg:maven/com.github.coderepositories/jcommons-core@1.0?classifier=sources

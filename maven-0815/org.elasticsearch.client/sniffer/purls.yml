@@ -1,0 +1,6 @@
+- pkg:maven/org.elasticsearch.client/sniffer@5.0.0-alpha4
+- pkg:maven/org.elasticsearch.client/sniffer@5.0.0-alpha4?classifier=sources
+- pkg:maven/org.elasticsearch.client/sniffer@5.0.0-alpha5
+- pkg:maven/org.elasticsearch.client/sniffer@5.0.0-alpha5?classifier=sources
+- pkg:maven/org.elasticsearch.client/sniffer@5.0.0-beta1
+- pkg:maven/org.elasticsearch.client/sniffer@5.0.0-beta1?classifier=sources

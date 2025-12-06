@@ -1,6 +1,10 @@
 - pkg:maven/org.processing/video@2.2.1
 - pkg:maven/org.processing/video@2.2.1?classifier=sources
 - pkg:maven/org.processing/video@3.0
+- pkg:maven/org.processing/video@3.0.1
+- pkg:maven/org.processing/video@3.0.1?classifier=sources
+- pkg:maven/org.processing/video@3.0.2
+- pkg:maven/org.processing/video@3.0.2?classifier=sources
 - pkg:maven/org.processing/video@3.0?classifier=sources
 - pkg:maven/org.processing/video@3.0a10
 - pkg:maven/org.processing/video@3.0a10?classifier=sources

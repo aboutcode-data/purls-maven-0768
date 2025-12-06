@@ -4,3 +4,7 @@
 - pkg:maven/org.bytedeco.javacpp-presets/caffe@master-1.0?classifier=sources
 - pkg:maven/org.bytedeco.javacpp-presets/caffe@master-1.1
 - pkg:maven/org.bytedeco.javacpp-presets/caffe@master-1.1?classifier=sources
+- pkg:maven/org.bytedeco.javacpp-presets/caffe@master-1.2
+- pkg:maven/org.bytedeco.javacpp-presets/caffe@master-1.2?classifier=sources
+- pkg:maven/org.bytedeco.javacpp-presets/caffe@rc3-1.2
+- pkg:maven/org.bytedeco.javacpp-presets/caffe@rc3-1.2?classifier=sources

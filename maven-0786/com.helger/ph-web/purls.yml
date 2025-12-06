@@ -32,3 +32,17 @@
 - pkg:maven/com.helger/ph-web@7.0.1?classifier=sources
 - pkg:maven/com.helger/ph-web@7.0.2
 - pkg:maven/com.helger/ph-web@7.0.2?classifier=sources
+- pkg:maven/com.helger/ph-web@7.1.0
+- pkg:maven/com.helger/ph-web@7.1.0?classifier=sources
+- pkg:maven/com.helger/ph-web@8.0.0
+- pkg:maven/com.helger/ph-web@8.0.0?classifier=sources
+- pkg:maven/com.helger/ph-web@8.1.0
+- pkg:maven/com.helger/ph-web@8.1.0?classifier=sources
+- pkg:maven/com.helger/ph-web@8.5.0
+- pkg:maven/com.helger/ph-web@8.5.0?classifier=sources
+- pkg:maven/com.helger/ph-web@8.6.0
+- pkg:maven/com.helger/ph-web@8.6.0?classifier=sources
+- pkg:maven/com.helger/ph-web@8.6.1
+- pkg:maven/com.helger/ph-web@8.6.1?classifier=sources
+- pkg:maven/com.helger/ph-web@8.6.2
+- pkg:maven/com.helger/ph-web@8.6.2?classifier=sources

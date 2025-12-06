@@ -1,0 +1,15 @@
+- pkg:maven/io.requery/requery-android@1.0.0-beta10?type=aar
+- pkg:maven/io.requery/requery-android@1.0.0-beta11?type=aar
+- pkg:maven/io.requery/requery-android@1.0.0-beta13?classifier=sources
+- pkg:maven/io.requery/requery-android@1.0.0-beta13?type=aar
+- pkg:maven/io.requery/requery-android@1.0.0-beta14?classifier=sources
+- pkg:maven/io.requery/requery-android@1.0.0-beta14?type=aar
+- pkg:maven/io.requery/requery-android@1.0.0-beta15?classifier=sources
+- pkg:maven/io.requery/requery-android@1.0.0-beta15?type=aar
+- pkg:maven/io.requery/requery-android@1.0.0-beta16?classifier=sources
+- pkg:maven/io.requery/requery-android@1.0.0-beta16?type=aar
+- pkg:maven/io.requery/requery-android@1.0.0-beta4?type=aar
+- pkg:maven/io.requery/requery-android@1.0.0-beta5?type=aar
+- pkg:maven/io.requery/requery-android@1.0.0-beta6?type=aar
+- pkg:maven/io.requery/requery-android@1.0.0-beta7?type=aar
+- pkg:maven/io.requery/requery-android@1.0.0-beta9?type=aar

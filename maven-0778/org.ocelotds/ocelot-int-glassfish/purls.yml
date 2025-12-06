@@ -1,0 +1,9 @@
+- pkg:maven/org.ocelotds/ocelot-int-glassfish@2.10.0
+- pkg:maven/org.ocelotds/ocelot-int-glassfish@2.10.1
+- pkg:maven/org.ocelotds/ocelot-int-glassfish@2.10.2
+- pkg:maven/org.ocelotds/ocelot-int-glassfish@2.11.0
+- pkg:maven/org.ocelotds/ocelot-int-glassfish@2.11.1
+- pkg:maven/org.ocelotds/ocelot-int-glassfish@2.12.0
+- pkg:maven/org.ocelotds/ocelot-int-glassfish@2.8.0
+- pkg:maven/org.ocelotds/ocelot-int-glassfish@2.9.0
+- pkg:maven/org.ocelotds/ocelot-int-glassfish@2.9.1

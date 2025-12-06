@@ -1,0 +1,2 @@
+- pkg:maven/org.keedio.flume.sink.hbase/csvSerializer@0.0.2
+- pkg:maven/org.keedio.flume.sink.hbase/csvSerializer@0.0.2?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/com.fifesoft/languagesupport@2.5.7?classifier=sources
 - pkg:maven/com.fifesoft/languagesupport@2.5.8
 - pkg:maven/com.fifesoft/languagesupport@2.5.8?classifier=sources
+- pkg:maven/com.fifesoft/languagesupport@2.6.0
+- pkg:maven/com.fifesoft/languagesupport@2.6.0?classifier=sources
 - pkg:maven/com.fifesoft/languagesupport@r239
 - pkg:maven/com.fifesoft/languagesupport@r239?classifier=sources
 - pkg:maven/com.fifesoft/languagesupport@r333

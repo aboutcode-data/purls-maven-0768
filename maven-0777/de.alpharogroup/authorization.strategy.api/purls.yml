@@ -1,4 +1,12 @@
 - pkg:maven/de.alpharogroup/authorization.strategy.api@6.18.0
 - pkg:maven/de.alpharogroup/authorization.strategy.api@6.18.0?classifier=sources
+- pkg:maven/de.alpharogroup/authorization.strategy.api@6.20.0
+- pkg:maven/de.alpharogroup/authorization.strategy.api@6.20.0?classifier=sources
+- pkg:maven/de.alpharogroup/authorization.strategy.api@6.21.0
+- pkg:maven/de.alpharogroup/authorization.strategy.api@6.21.0?classifier=sources
 - pkg:maven/de.alpharogroup/authorization.strategy.api@7.0.0
 - pkg:maven/de.alpharogroup/authorization.strategy.api@7.0.0?classifier=sources
+- pkg:maven/de.alpharogroup/authorization.strategy.api@7.1.0
+- pkg:maven/de.alpharogroup/authorization.strategy.api@7.1.0?classifier=sources
+- pkg:maven/de.alpharogroup/authorization.strategy.api@7.3.0
+- pkg:maven/de.alpharogroup/authorization.strategy.api@7.3.0?classifier=sources

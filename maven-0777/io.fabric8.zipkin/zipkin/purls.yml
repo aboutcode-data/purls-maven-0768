@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8.zipkin/zipkin@0.1.4
+- pkg:maven/io.fabric8.zipkin/zipkin@0.1.5

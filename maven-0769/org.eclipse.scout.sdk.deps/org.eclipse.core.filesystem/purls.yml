@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.core.filesystem@1.5.0.v20150421-0713
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.core.filesystem@1.5.0.v20150421-0713?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.core.filesystem@1.6.0.v20160503-1608
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.core.filesystem@1.6.0.v20160503-1608?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/de.mkristian.gwt/rails-gwt@0.6.0
+- pkg:maven/de.mkristian.gwt/rails-gwt@0.6.0?classifier=sources
+- pkg:maven/de.mkristian.gwt/rails-gwt@0.7.0
+- pkg:maven/de.mkristian.gwt/rails-gwt@0.7.0?classifier=sources

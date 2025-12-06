@@ -1,0 +1,2 @@
+- pkg:maven/org.jasig.portlet/blackboardvc-portlet-webapp@2.0.3?classifier=sources
+- pkg:maven/org.jasig.portlet/blackboardvc-portlet-webapp@2.0.3?type=war

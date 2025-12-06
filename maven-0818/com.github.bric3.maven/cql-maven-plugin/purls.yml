@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bric3.maven/cql-maven-plugin@0.2
+- pkg:maven/com.github.bric3.maven/cql-maven-plugin@0.2?classifier=sources

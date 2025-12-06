@@ -1,0 +1,2 @@
+- pkg:maven/net.morimekta.providence/providence-rpc-tool@0.2.0
+- pkg:maven/net.morimekta.providence/providence-rpc-tool@0.2.0?classifier=sources

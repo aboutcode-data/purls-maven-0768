@@ -1,0 +1,6 @@
+- pkg:maven/com.solidfire/jsvcgen-assembly@0.2.13
+- pkg:maven/com.solidfire/jsvcgen-assembly@0.2.13?classifier=sources
+- pkg:maven/com.solidfire/jsvcgen-assembly@0.2.9
+- pkg:maven/com.solidfire/jsvcgen-assembly@0.2.9?classifier=sources
+- pkg:maven/com.solidfire/jsvcgen-assembly@0.3.0
+- pkg:maven/com.solidfire/jsvcgen-assembly@0.3.0?classifier=sources

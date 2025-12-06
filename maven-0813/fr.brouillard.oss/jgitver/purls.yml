@@ -1,0 +1,10 @@
+- pkg:maven/fr.brouillard.oss/jgitver@0.0.1
+- pkg:maven/fr.brouillard.oss/jgitver@0.0.1?classifier=sources
+- pkg:maven/fr.brouillard.oss/jgitver@0.1.0
+- pkg:maven/fr.brouillard.oss/jgitver@0.1.0?classifier=sources
+- pkg:maven/fr.brouillard.oss/jgitver@0.2.0
+- pkg:maven/fr.brouillard.oss/jgitver@0.2.0-alpha1
+- pkg:maven/fr.brouillard.oss/jgitver@0.2.0-alpha1?classifier=sources
+- pkg:maven/fr.brouillard.oss/jgitver@0.2.0-bp-alpha1
+- pkg:maven/fr.brouillard.oss/jgitver@0.2.0-bp-alpha1?classifier=sources
+- pkg:maven/fr.brouillard.oss/jgitver@0.2.0?classifier=sources

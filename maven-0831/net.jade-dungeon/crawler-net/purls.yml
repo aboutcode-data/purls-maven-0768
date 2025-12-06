@@ -1,0 +1,2 @@
+- pkg:maven/net.jade-dungeon/crawler-net@0.1.13
+- pkg:maven/net.jade-dungeon/crawler-net@0.1.13?classifier=sources

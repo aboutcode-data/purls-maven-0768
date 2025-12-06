@@ -1,0 +1,2 @@
+- pkg:maven/org.yuanheng.cookcc/cookcc@0.3.3
+- pkg:maven/org.yuanheng.cookcc/cookcc@0.3.3?classifier=sources

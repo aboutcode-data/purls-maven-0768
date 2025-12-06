@@ -35,3 +35,4 @@
 - pkg:maven/io.apigee.trireme/trireme-jar@0.8.7
 - pkg:maven/io.apigee.trireme/trireme-jar@0.8.7?classifier=sources
 - pkg:maven/io.apigee.trireme/trireme-jar@0.8.8
+- pkg:maven/io.apigee.trireme/trireme-jar@0.8.9

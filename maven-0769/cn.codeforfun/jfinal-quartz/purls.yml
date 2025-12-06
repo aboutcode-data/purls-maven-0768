@@ -1,0 +1,2 @@
+- pkg:maven/cn.codeforfun/jfinal-quartz@0.1
+- pkg:maven/cn.codeforfun/jfinal-quartz@0.1?classifier=sources

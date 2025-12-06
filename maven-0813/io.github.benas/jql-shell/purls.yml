@@ -1,0 +1,2 @@
+- pkg:maven/io.github.benas/jql-shell@0.1
+- pkg:maven/io.github.benas/jql-shell@0.1?classifier=sources

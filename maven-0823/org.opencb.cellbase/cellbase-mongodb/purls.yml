@@ -6,3 +6,7 @@
 - pkg:maven/org.opencb.cellbase/cellbase-mongodb@3.1.1?classifier=sources
 - pkg:maven/org.opencb.cellbase/cellbase-mongodb@3.1.3
 - pkg:maven/org.opencb.cellbase/cellbase-mongodb@3.1.3?classifier=sources
+- pkg:maven/org.opencb.cellbase/cellbase-mongodb@4.0.0
+- pkg:maven/org.opencb.cellbase/cellbase-mongodb@4.0.0-rc
+- pkg:maven/org.opencb.cellbase/cellbase-mongodb@4.0.0-rc?classifier=sources
+- pkg:maven/org.opencb.cellbase/cellbase-mongodb@4.0.0?classifier=sources

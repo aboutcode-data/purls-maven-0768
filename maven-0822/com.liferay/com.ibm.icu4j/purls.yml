@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay/com.ibm.icu4j@54.1.1.LIFERAY-PATCHED-1
+- pkg:maven/com.liferay/com.ibm.icu4j@54.1.1.LIFERAY-PATCHED-1?classifier=sources

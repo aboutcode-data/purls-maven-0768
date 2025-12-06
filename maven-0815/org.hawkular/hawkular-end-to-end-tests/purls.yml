@@ -1,7 +1,11 @@
 - pkg:maven/org.hawkular/hawkular-end-to-end-tests@1.0.0.Alpha1
+- pkg:maven/org.hawkular/hawkular-end-to-end-tests@1.0.0.Alpha10
+- pkg:maven/org.hawkular/hawkular-end-to-end-tests@1.0.0.Alpha11
 - pkg:maven/org.hawkular/hawkular-end-to-end-tests@1.0.0.Alpha2
 - pkg:maven/org.hawkular/hawkular-end-to-end-tests@1.0.0.Alpha3
 - pkg:maven/org.hawkular/hawkular-end-to-end-tests@1.0.0.Alpha4
 - pkg:maven/org.hawkular/hawkular-end-to-end-tests@1.0.0.Alpha5
 - pkg:maven/org.hawkular/hawkular-end-to-end-tests@1.0.0.Alpha6
 - pkg:maven/org.hawkular/hawkular-end-to-end-tests@1.0.0.Alpha7
+- pkg:maven/org.hawkular/hawkular-end-to-end-tests@1.0.0.Alpha8
+- pkg:maven/org.hawkular/hawkular-end-to-end-tests@1.0.0.Alpha9

@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando.stups/junit-redis@0.1.0
+- pkg:maven/org.zalando.stups/junit-redis@0.1.0?classifier=sources

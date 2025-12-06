@@ -1,0 +1,4 @@
+- pkg:maven/com.moz.kiji.schema/kiji-schema-cassandra@3.0.0
+- pkg:maven/com.moz.kiji.schema/kiji-schema-cassandra@3.0.0?classifier=sources
+- pkg:maven/com.moz.kiji.schema/kiji-schema-cassandra@3.0.1
+- pkg:maven/com.moz.kiji.schema/kiji-schema-cassandra@3.0.1?classifier=sources

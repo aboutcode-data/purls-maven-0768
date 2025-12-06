@@ -16,3 +16,5 @@
 - pkg:maven/com.vaynberg.wicket.select2/wicket-select2@2.2?classifier=sources
 - pkg:maven/com.vaynberg.wicket.select2/wicket-select2@2.3
 - pkg:maven/com.vaynberg.wicket.select2/wicket-select2@2.3?classifier=sources
+- pkg:maven/com.vaynberg.wicket.select2/wicket-select2@2.4
+- pkg:maven/com.vaynberg.wicket.select2/wicket-select2@2.4?classifier=sources

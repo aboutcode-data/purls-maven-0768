@@ -1,0 +1,2 @@
+- pkg:maven/de.carne/compression@0.2.0
+- pkg:maven/de.carne/compression@0.2.0?classifier=sources

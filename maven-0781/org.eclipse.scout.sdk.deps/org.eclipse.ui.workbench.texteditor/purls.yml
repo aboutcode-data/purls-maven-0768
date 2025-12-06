@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.workbench.texteditor@3.10.0.v20160530-2011
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.workbench.texteditor@3.10.0.v20160530-2011?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.workbench.texteditor@3.9.100.v20141023-1946
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.workbench.texteditor@3.9.100.v20141023-1946?classifier=sources

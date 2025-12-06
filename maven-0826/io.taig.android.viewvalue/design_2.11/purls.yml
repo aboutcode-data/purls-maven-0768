@@ -1,0 +1,7 @@
+- pkg:maven/io.taig.android.viewvalue/design_2.11@1.0.0?classifier=sources
+- pkg:maven/io.taig.android.viewvalue/design_2.11@1.1.0?classifier=sources
+- pkg:maven/io.taig.android.viewvalue/design_2.11@1.1.1?classifier=sources
+- pkg:maven/io.taig.android.viewvalue/design_2.11@1.2.0?classifier=sources
+- pkg:maven/io.taig.android.viewvalue/design_2.11@1.2.0?type=aar
+- pkg:maven/io.taig.android.viewvalue/design_2.11@1.2.1?classifier=sources
+- pkg:maven/io.taig.android.viewvalue/design_2.11@1.2.1?type=aar

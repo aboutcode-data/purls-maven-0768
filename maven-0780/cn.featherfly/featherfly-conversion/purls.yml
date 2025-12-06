@@ -1,0 +1,2 @@
+- pkg:maven/cn.featherfly/featherfly-conversion@1.2.0
+- pkg:maven/cn.featherfly/featherfly-conversion@1.2.0?classifier=sources

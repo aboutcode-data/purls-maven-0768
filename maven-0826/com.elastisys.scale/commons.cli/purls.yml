@@ -1,0 +1,2 @@
+- pkg:maven/com.elastisys.scale/commons.cli@2.2.6
+- pkg:maven/com.elastisys.scale/commons.cli@2.2.6?classifier=sources

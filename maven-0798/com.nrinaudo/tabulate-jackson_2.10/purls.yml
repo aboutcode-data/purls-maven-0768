@@ -1,0 +1,2 @@
+- pkg:maven/com.nrinaudo/tabulate-jackson_2.10@0.1.7
+- pkg:maven/com.nrinaudo/tabulate-jackson_2.10@0.1.7?classifier=sources

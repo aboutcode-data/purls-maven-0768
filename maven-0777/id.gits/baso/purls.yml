@@ -1,0 +1,4 @@
+- pkg:maven/id.gits/baso@0.0.1?classifier=sources
+- pkg:maven/id.gits/baso@0.0.1?type=aar
+- pkg:maven/id.gits/baso@0.1?classifier=sources
+- pkg:maven/id.gits/baso@0.1?type=aar

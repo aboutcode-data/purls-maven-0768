@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wizonsoft.coteafs/coteafs-core@0.0.1
+- pkg:maven/com.github.wizonsoft.coteafs/coteafs-core@0.0.1?classifier=sources

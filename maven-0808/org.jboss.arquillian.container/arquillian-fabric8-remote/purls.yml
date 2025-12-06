@@ -1,2 +1,12 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-133
 - pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-133?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621084
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621084?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621090
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621090?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621107
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621107?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621117
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621117?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621159
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621159?classifier=sources

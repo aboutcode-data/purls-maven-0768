@@ -1,2 +1,4 @@
 - pkg:maven/io.teknek/farsandra-maven-plugin@0.0.8
 - pkg:maven/io.teknek/farsandra-maven-plugin@0.0.8?classifier=sources
+- pkg:maven/io.teknek/farsandra-maven-plugin@0.0.9
+- pkg:maven/io.teknek/farsandra-maven-plugin@0.0.9?classifier=sources

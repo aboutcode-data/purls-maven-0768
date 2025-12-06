@@ -24,3 +24,7 @@
 - pkg:maven/org.sakaiproject.mailsender/mailsender-impl@1.7.3?classifier=sources
 - pkg:maven/org.sakaiproject.mailsender/mailsender-impl@1.7.4
 - pkg:maven/org.sakaiproject.mailsender/mailsender-impl@1.7.4?classifier=sources
+- pkg:maven/org.sakaiproject.mailsender/mailsender-impl@11.0
+- pkg:maven/org.sakaiproject.mailsender/mailsender-impl@11.0?classifier=sources
+- pkg:maven/org.sakaiproject.mailsender/mailsender-impl@11.1
+- pkg:maven/org.sakaiproject.mailsender/mailsender-impl@11.1?classifier=sources

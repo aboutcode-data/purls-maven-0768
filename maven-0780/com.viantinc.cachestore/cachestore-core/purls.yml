@@ -1,0 +1,4 @@
+- pkg:maven/com.viantinc.cachestore/cachestore-core@1.1.8
+- pkg:maven/com.viantinc.cachestore/cachestore-core@1.1.8?classifier=sources
+- pkg:maven/com.viantinc.cachestore/cachestore-core@1.2.5
+- pkg:maven/com.viantinc.cachestore/cachestore-core@1.2.5?classifier=sources

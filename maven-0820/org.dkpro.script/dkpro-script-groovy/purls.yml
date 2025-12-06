@@ -1,0 +1,2 @@
+- pkg:maven/org.dkpro.script/dkpro-script-groovy@0.1.0
+- pkg:maven/org.dkpro.script/dkpro-script-groovy@0.1.0?classifier=sources

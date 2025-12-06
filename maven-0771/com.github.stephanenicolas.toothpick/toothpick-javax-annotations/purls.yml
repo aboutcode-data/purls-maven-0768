@@ -1,0 +1,10 @@
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0-RC10
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0-RC10?classifier=sources
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0-RC6
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0-RC6?classifier=sources
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0-RC7
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0-RC7?classifier=sources
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0-RC8
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0-RC8?classifier=sources
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0-RC9
+- pkg:maven/com.github.stephanenicolas.toothpick/toothpick-javax-annotations@1.0.0-RC9?classifier=sources

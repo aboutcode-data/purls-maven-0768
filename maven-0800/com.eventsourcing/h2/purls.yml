@@ -1,0 +1,2 @@
+- pkg:maven/com.eventsourcing/h2@1.4.192
+- pkg:maven/com.eventsourcing/h2@1.4.192?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.lamp/dotty-core_2.11@0.1-SNAPSHOT-20160609-8fe3e37
+- pkg:maven/ch.epfl.lamp/dotty-core_2.11@0.1-SNAPSHOT-20160609-8fe3e37?classifier=sources

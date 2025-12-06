@@ -1,0 +1,2 @@
+- pkg:maven/net.snowflake/spark-snowflake_2.10@2.0.0
+- pkg:maven/net.snowflake/spark-snowflake_2.10@2.0.0?classifier=sources

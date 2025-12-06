@@ -38,3 +38,9 @@
 - pkg:maven/org.jadira.usertype/usertype.core@3.2.0.GA?classifier=sources
 - pkg:maven/org.jadira.usertype/usertype.core@4.0.0.GA
 - pkg:maven/org.jadira.usertype/usertype.core@4.0.0.GA?classifier=sources
+- pkg:maven/org.jadira.usertype/usertype.core@5.0.0.GA
+- pkg:maven/org.jadira.usertype/usertype.core@5.0.0.GA?classifier=sources
+- pkg:maven/org.jadira.usertype/usertype.core@6.0.0.GA
+- pkg:maven/org.jadira.usertype/usertype.core@6.0.0.GA?classifier=sources
+- pkg:maven/org.jadira.usertype/usertype.core@6.0.1.GA
+- pkg:maven/org.jadira.usertype/usertype.core@6.0.1.GA?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.teradata/redline-td@1.2.2.1
+- pkg:maven/com.teradata/redline-td@1.2.2.1?classifier=sources

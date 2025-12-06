@@ -4,3 +4,7 @@
 - pkg:maven/org.avaje.ebeanorm/avaje-ebeanorm-typequery@1.4.1?classifier=sources
 - pkg:maven/org.avaje.ebeanorm/avaje-ebeanorm-typequery@1.5.1
 - pkg:maven/org.avaje.ebeanorm/avaje-ebeanorm-typequery@1.5.1?classifier=sources
+- pkg:maven/org.avaje.ebeanorm/avaje-ebeanorm-typequery@1.6.1
+- pkg:maven/org.avaje.ebeanorm/avaje-ebeanorm-typequery@1.6.1?classifier=sources
+- pkg:maven/org.avaje.ebeanorm/avaje-ebeanorm-typequery@1.7.1
+- pkg:maven/org.avaje.ebeanorm/avaje-ebeanorm-typequery@1.7.1?classifier=sources

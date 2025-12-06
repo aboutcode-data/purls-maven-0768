@@ -1,2 +1,10 @@
+- pkg:maven/org.diet4j/diet4j-tomcat@0.10
+- pkg:maven/org.diet4j/diet4j-tomcat@0.10?classifier=sources
+- pkg:maven/org.diet4j/diet4j-tomcat@0.11
+- pkg:maven/org.diet4j/diet4j-tomcat@0.11?classifier=sources
+- pkg:maven/org.diet4j/diet4j-tomcat@0.12
+- pkg:maven/org.diet4j/diet4j-tomcat@0.12?classifier=sources
+- pkg:maven/org.diet4j/diet4j-tomcat@0.14
+- pkg:maven/org.diet4j/diet4j-tomcat@0.14?classifier=sources
 - pkg:maven/org.diet4j/diet4j-tomcat@0.7
 - pkg:maven/org.diet4j/diet4j-tomcat@0.7?classifier=sources

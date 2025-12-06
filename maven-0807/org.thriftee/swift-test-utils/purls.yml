@@ -1,0 +1,2 @@
+- pkg:maven/org.thriftee/swift-test-utils@0.17.0
+- pkg:maven/org.thriftee/swift-test-utils@0.17.0?classifier=sources

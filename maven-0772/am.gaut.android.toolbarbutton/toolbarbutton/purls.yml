@@ -1,0 +1,2 @@
+- pkg:maven/am.gaut.android.toolbarbutton/toolbarbutton@0.1.0?classifier=sources
+- pkg:maven/am.gaut.android.toolbarbutton/toolbarbutton@0.1.0?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-unshaded_2.10@1.6.2
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-unshaded_2.10@1.6.2?classifier=sources
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-unshaded_2.10@2.0.0-M3
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-unshaded_2.10@2.0.0-M3?classifier=sources

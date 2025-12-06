@@ -1,0 +1,2 @@
+- pkg:maven/org.cdisource.testing/cdisource-testing-junit@0.9
+- pkg:maven/org.cdisource.testing/cdisource-testing-junit@0.9?classifier=sources

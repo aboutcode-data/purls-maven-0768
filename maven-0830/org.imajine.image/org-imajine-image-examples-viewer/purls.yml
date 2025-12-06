@@ -1,2 +1,6 @@
+- pkg:maven/org.imajine.image/org-imajine-image-examples-viewer@1.0-ALPHA-1
+- pkg:maven/org.imajine.image/org-imajine-image-examples-viewer@1.0-ALPHA-1?classifier=sources
+- pkg:maven/org.imajine.image/org-imajine-image-examples-viewer@1.0-ALPHA-2
+- pkg:maven/org.imajine.image/org-imajine-image-examples-viewer@1.0-ALPHA-2?classifier=sources
 - pkg:maven/org.imajine.image/org-imajine-image-examples-viewer@1.0-ALPHA-3
 - pkg:maven/org.imajine.image/org-imajine-image-examples-viewer@1.0-ALPHA-3?classifier=sources

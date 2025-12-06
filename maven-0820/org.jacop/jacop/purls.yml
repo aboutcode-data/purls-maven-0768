@@ -1,0 +1,2 @@
+- pkg:maven/org.jacop/jacop@4.4.0
+- pkg:maven/org.jacop/jacop@4.4.0?classifier=sources

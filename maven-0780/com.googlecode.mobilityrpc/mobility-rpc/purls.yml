@@ -6,3 +6,7 @@
 - pkg:maven/com.googlecode.mobilityrpc/mobility-rpc@1.0.0?classifier=sources
 - pkg:maven/com.googlecode.mobilityrpc/mobility-rpc@1.1.0
 - pkg:maven/com.googlecode.mobilityrpc/mobility-rpc@1.1.0?classifier=sources
+- pkg:maven/com.googlecode.mobilityrpc/mobility-rpc@1.2.0
+- pkg:maven/com.googlecode.mobilityrpc/mobility-rpc@1.2.0?classifier=sources
+- pkg:maven/com.googlecode.mobilityrpc/mobility-rpc@1.2.1
+- pkg:maven/com.googlecode.mobilityrpc/mobility-rpc@1.2.1?classifier=sources

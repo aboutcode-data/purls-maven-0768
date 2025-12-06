@@ -10,6 +10,7 @@
 - pkg:maven/co.cask.cdap/cdap-spark-java-archetype@2.8.0
 - pkg:maven/co.cask.cdap/cdap-spark-java-archetype@2.8.1
 - pkg:maven/co.cask.cdap/cdap-spark-java-archetype@2.8.2
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@2.8.3
 - pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.0.0
 - pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.0.1
 - pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.0.2
@@ -22,3 +23,18 @@
 - pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.1.2
 - pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.2.0
 - pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.2.1
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.2.2
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.3.0
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.3.1
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.3.2
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.3.3
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.3.4
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.3.5
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.3.6
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.3.7
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.4.0
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.4.1
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.4.2
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.4.3
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.5.0
+- pkg:maven/co.cask.cdap/cdap-spark-java-archetype@3.5.1

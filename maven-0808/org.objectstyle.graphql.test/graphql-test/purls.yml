@@ -1,0 +1,2 @@
+- pkg:maven/org.objectstyle.graphql.test/graphql-test@0.1
+- pkg:maven/org.objectstyle.graphql.test/graphql-test@0.1?classifier=sources

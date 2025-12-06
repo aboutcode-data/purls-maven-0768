@@ -1,0 +1,3 @@
+- pkg:maven/com.nextfaze.poweradapters/power-adapters-recyclerview-v7@0.10.0?classifier=sources
+- pkg:maven/com.nextfaze.poweradapters/power-adapters-recyclerview-v7@0.10.0?type=aar
+- pkg:maven/com.nextfaze.poweradapters/power-adapters-recyclerview-v7@0.9.0?classifier=sources

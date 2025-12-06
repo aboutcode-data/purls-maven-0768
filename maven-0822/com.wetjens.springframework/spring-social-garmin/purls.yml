@@ -1,0 +1,2 @@
+- pkg:maven/com.wetjens.springframework/spring-social-garmin@1.0.0
+- pkg:maven/com.wetjens.springframework/spring-social-garmin@1.0.0?classifier=sources

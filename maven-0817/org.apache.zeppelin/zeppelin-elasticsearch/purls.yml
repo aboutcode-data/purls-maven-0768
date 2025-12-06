@@ -1,0 +1,3 @@
+- pkg:maven/org.apache.zeppelin/zeppelin-elasticsearch@0.6.0
+- pkg:maven/org.apache.zeppelin/zeppelin-elasticsearch@0.6.0?classifier=sources
+- pkg:maven/org.apache.zeppelin/zeppelin-elasticsearch@0.6.1

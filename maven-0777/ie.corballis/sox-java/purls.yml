@@ -1,0 +1,4 @@
+- pkg:maven/ie.corballis/sox-java@1.0.0
+- pkg:maven/ie.corballis/sox-java@1.0.0?classifier=sources
+- pkg:maven/ie.corballis/sox-java@1.0.1
+- pkg:maven/ie.corballis/sox-java@1.0.1?classifier=sources

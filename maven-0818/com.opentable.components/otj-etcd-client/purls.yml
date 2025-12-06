@@ -2,6 +2,8 @@
 - pkg:maven/com.opentable.components/otj-etcd-client@0.10?classifier=sources
 - pkg:maven/com.opentable.components/otj-etcd-client@0.11
 - pkg:maven/com.opentable.components/otj-etcd-client@0.11?classifier=sources
+- pkg:maven/com.opentable.components/otj-etcd-client@0.12
+- pkg:maven/com.opentable.components/otj-etcd-client@0.12?classifier=sources
 - pkg:maven/com.opentable.components/otj-etcd-client@0.7
 - pkg:maven/com.opentable.components/otj-etcd-client@0.7?classifier=sources
 - pkg:maven/com.opentable.components/otj-etcd-client@0.8

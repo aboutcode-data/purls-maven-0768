@@ -1,0 +1,2 @@
+- pkg:maven/com.centralway/rxphoenix@0.1.0?classifier=sources
+- pkg:maven/com.centralway/rxphoenix@0.1.0?type=aar

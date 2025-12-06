@@ -1,0 +1,4 @@
+- pkg:maven/cn.bestwu/fastjson@1.1-unwrap
+- pkg:maven/cn.bestwu/fastjson@1.1-unwrap?classifier=sources
+- pkg:maven/cn.bestwu/fastjson@1.2-unwrap
+- pkg:maven/cn.bestwu/fastjson@1.2-unwrap?classifier=sources

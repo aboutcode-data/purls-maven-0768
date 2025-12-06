@@ -1,0 +1,2 @@
+- pkg:maven/org.hisrc.lhapi/lhapi-client@1.0.1
+- pkg:maven/org.hisrc.lhapi/lhapi-client@1.0.1?classifier=sources

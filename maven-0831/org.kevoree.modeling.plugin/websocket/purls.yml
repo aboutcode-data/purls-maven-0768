@@ -1,0 +1,4 @@
+- pkg:maven/org.kevoree.modeling.plugin/websocket@4.27.0
+- pkg:maven/org.kevoree.modeling.plugin/websocket@4.27.0?classifier=sources
+- pkg:maven/org.kevoree.modeling.plugin/websocket@4.27.1
+- pkg:maven/org.kevoree.modeling.plugin/websocket@4.27.1?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.backuity/matchete-xml_2.11@1.24?classifier=sources
 - pkg:maven/org.backuity/matchete-xml_2.11@1.25
 - pkg:maven/org.backuity/matchete-xml_2.11@1.25?classifier=sources
+- pkg:maven/org.backuity/matchete-xml_2.11@1.26
+- pkg:maven/org.backuity/matchete-xml_2.11@1.26?classifier=sources

@@ -1,2 +1,10 @@
 - pkg:maven/org.apache.knox/gateway-provider-security-picketlink@0.6.0
 - pkg:maven/org.apache.knox/gateway-provider-security-picketlink@0.6.0?classifier=sources
+- pkg:maven/org.apache.knox/gateway-provider-security-picketlink@0.7.0
+- pkg:maven/org.apache.knox/gateway-provider-security-picketlink@0.7.0?classifier=sources
+- pkg:maven/org.apache.knox/gateway-provider-security-picketlink@0.8.0
+- pkg:maven/org.apache.knox/gateway-provider-security-picketlink@0.8.0?classifier=sources
+- pkg:maven/org.apache.knox/gateway-provider-security-picketlink@0.9.0
+- pkg:maven/org.apache.knox/gateway-provider-security-picketlink@0.9.0?classifier=sources
+- pkg:maven/org.apache.knox/gateway-provider-security-picketlink@0.9.1
+- pkg:maven/org.apache.knox/gateway-provider-security-picketlink@0.9.1?classifier=sources

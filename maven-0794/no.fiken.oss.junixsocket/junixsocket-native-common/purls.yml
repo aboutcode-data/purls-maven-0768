@@ -1,0 +1,4 @@
+- pkg:maven/no.fiken.oss.junixsocket/junixsocket-native-common@1.0.0
+- pkg:maven/no.fiken.oss.junixsocket/junixsocket-native-common@1.0.0?classifier=sources
+- pkg:maven/no.fiken.oss.junixsocket/junixsocket-native-common@1.0.1
+- pkg:maven/no.fiken.oss.junixsocket/junixsocket-native-common@1.0.1?classifier=sources

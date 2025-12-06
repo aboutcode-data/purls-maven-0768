@@ -1,0 +1,4 @@
+- pkg:maven/com.canoo.dolphin-platform/dolphin-platform-spring-controller-tester@0.8.6
+- pkg:maven/com.canoo.dolphin-platform/dolphin-platform-spring-controller-tester@0.8.6?classifier=sources
+- pkg:maven/com.canoo.dolphin-platform/dolphin-platform-spring-controller-tester@0.8.7
+- pkg:maven/com.canoo.dolphin-platform/dolphin-platform-spring-controller-tester@0.8.7?classifier=sources

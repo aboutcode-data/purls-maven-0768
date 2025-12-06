@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/masonry-layout@3.3.0
 - pkg:maven/org.webjars.npm/masonry-layout@3.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/masonry-layout@4.1.0
+- pkg:maven/org.webjars.npm/masonry-layout@4.1.0?classifier=sources

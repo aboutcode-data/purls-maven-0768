@@ -2,5 +2,7 @@
 - pkg:maven/org.javalite/db-migrator-maven-plugin@1.4.10?classifier=sources
 - pkg:maven/org.javalite/db-migrator-maven-plugin@1.4.11
 - pkg:maven/org.javalite/db-migrator-maven-plugin@1.4.11?classifier=sources
+- pkg:maven/org.javalite/db-migrator-maven-plugin@1.4.12
+- pkg:maven/org.javalite/db-migrator-maven-plugin@1.4.12?classifier=sources
 - pkg:maven/org.javalite/db-migrator-maven-plugin@1.4.9
 - pkg:maven/org.javalite/db-migrator-maven-plugin@1.4.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.tinymediamanager.plugins/scraper-opensubtitles@1.0
+- pkg:maven/org.tinymediamanager.plugins/scraper-opensubtitles@1.0?classifier=sources

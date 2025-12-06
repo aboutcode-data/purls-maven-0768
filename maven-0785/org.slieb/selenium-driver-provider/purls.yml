@@ -1,0 +1,4 @@
+- pkg:maven/org.slieb/selenium-driver-provider@1.1
+- pkg:maven/org.slieb/selenium-driver-provider@1.1?classifier=sources
+- pkg:maven/org.slieb/selenium-driver-provider@1.2
+- pkg:maven/org.slieb/selenium-driver-provider@1.2?classifier=sources

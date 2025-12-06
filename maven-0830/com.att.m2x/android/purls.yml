@@ -4,3 +4,9 @@
 - pkg:maven/com.att.m2x/android@2.1.1?type=aar
 - pkg:maven/com.att.m2x/android@3.0.0?classifier=sources
 - pkg:maven/com.att.m2x/android@3.0.0?type=aar
+- pkg:maven/com.att.m2x/android@4.0.0?classifier=sources
+- pkg:maven/com.att.m2x/android@4.0.0?type=aar
+- pkg:maven/com.att.m2x/android@5.0.0?classifier=sources
+- pkg:maven/com.att.m2x/android@5.0.0?type=aar
+- pkg:maven/com.att.m2x/android@5.1.0?classifier=sources
+- pkg:maven/com.att.m2x/android@5.1.0?type=aar

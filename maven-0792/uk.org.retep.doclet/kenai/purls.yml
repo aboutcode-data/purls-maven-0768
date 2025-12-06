@@ -1,0 +1,4 @@
+- pkg:maven/uk.org.retep.doclet/kenai@9.10
+- pkg:maven/uk.org.retep.doclet/kenai@9.10?classifier=sources
+- pkg:maven/uk.org.retep.doclet/kenai@9.11
+- pkg:maven/uk.org.retep.doclet/kenai@9.11?classifier=sources

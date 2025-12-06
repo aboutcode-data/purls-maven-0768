@@ -1,0 +1,8 @@
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@1.9.4?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@1.9.4?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@1.9.5?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@1.9.5?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@5.0.0-alpha5?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@5.0.0-alpha5?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@5.0.0-beta1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@5.0.0-beta1?type=zip

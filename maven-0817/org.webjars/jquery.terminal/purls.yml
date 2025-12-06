@@ -1,1 +1,5 @@
+- pkg:maven/org.webjars/jquery.terminal@0.10.11
+- pkg:maven/org.webjars/jquery.terminal@0.11.2
 - pkg:maven/org.webjars/jquery.terminal@0.8.8
+- pkg:maven/org.webjars/jquery.terminal@0.9.1
+- pkg:maven/org.webjars/jquery.terminal@0.9.3

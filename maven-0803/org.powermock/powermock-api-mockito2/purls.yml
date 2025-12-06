@@ -1,0 +1,2 @@
+- pkg:maven/org.powermock/powermock-api-mockito2@1.6.5
+- pkg:maven/org.powermock/powermock-api-mockito2@1.6.5?classifier=sources

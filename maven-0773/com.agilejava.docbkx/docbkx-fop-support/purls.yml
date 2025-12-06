@@ -12,6 +12,8 @@
 - pkg:maven/com.agilejava.docbkx/docbkx-fop-support@2.0.15?classifier=sources
 - pkg:maven/com.agilejava.docbkx/docbkx-fop-support@2.0.16
 - pkg:maven/com.agilejava.docbkx/docbkx-fop-support@2.0.16?classifier=sources
+- pkg:maven/com.agilejava.docbkx/docbkx-fop-support@2.0.17
+- pkg:maven/com.agilejava.docbkx/docbkx-fop-support@2.0.17?classifier=sources
 - pkg:maven/com.agilejava.docbkx/docbkx-fop-support@2.0.8
 - pkg:maven/com.agilejava.docbkx/docbkx-fop-support@2.0.8?classifier=sources
 - pkg:maven/com.agilejava.docbkx/docbkx-fop-support@2.0.9

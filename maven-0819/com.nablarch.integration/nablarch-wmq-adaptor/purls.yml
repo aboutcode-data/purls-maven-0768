@@ -1,0 +1,2 @@
+- pkg:maven/com.nablarch.integration/nablarch-wmq-adaptor@1.0.1
+- pkg:maven/com.nablarch.integration/nablarch-wmq-adaptor@1.0.1?classifier=sources

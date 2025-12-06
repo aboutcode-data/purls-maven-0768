@@ -1,0 +1,8 @@
+- pkg:maven/org.atnos/eff-scalaz_sjs0.6_2.11@1.7.1
+- pkg:maven/org.atnos/eff-scalaz_sjs0.6_2.11@1.7.1?classifier=sources
+- pkg:maven/org.atnos/eff-scalaz_sjs0.6_2.11@1.7.4
+- pkg:maven/org.atnos/eff-scalaz_sjs0.6_2.11@1.7.4?classifier=sources
+- pkg:maven/org.atnos/eff-scalaz_sjs0.6_2.11@2.0.0-RC1
+- pkg:maven/org.atnos/eff-scalaz_sjs0.6_2.11@2.0.0-RC1?classifier=sources
+- pkg:maven/org.atnos/eff-scalaz_sjs0.6_2.11@2.0.0-RC7
+- pkg:maven/org.atnos/eff-scalaz_sjs0.6_2.11@2.0.0-RC7?classifier=sources

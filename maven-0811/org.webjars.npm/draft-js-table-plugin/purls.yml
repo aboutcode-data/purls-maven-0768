@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/draft-js-table-plugin@1.0.4
+- pkg:maven/org.webjars.npm/draft-js-table-plugin@1.0.4?classifier=sources

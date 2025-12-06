@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mideo/salesforce-api-client@0.0.1
+- pkg:maven/com.github.mideo/salesforce-api-client@0.0.1?classifier=sources

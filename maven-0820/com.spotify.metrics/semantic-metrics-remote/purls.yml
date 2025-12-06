@@ -1,0 +1,2 @@
+- pkg:maven/com.spotify.metrics/semantic-metrics-remote@0.7.0
+- pkg:maven/com.spotify.metrics/semantic-metrics-remote@0.7.0?classifier=sources

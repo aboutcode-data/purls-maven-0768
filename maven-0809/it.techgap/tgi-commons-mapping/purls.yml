@@ -1,0 +1,2 @@
+- pkg:maven/it.techgap/tgi-commons-mapping@1.2.1
+- pkg:maven/it.techgap/tgi-commons-mapping@1.2.1?classifier=sources

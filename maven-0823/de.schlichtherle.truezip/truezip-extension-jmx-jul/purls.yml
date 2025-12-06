@@ -32,6 +32,8 @@
 - pkg:maven/de.schlichtherle.truezip/truezip-extension-jmx-jul@7.6?classifier=sources
 - pkg:maven/de.schlichtherle.truezip/truezip-extension-jmx-jul@7.7
 - pkg:maven/de.schlichtherle.truezip/truezip-extension-jmx-jul@7.7.1
+- pkg:maven/de.schlichtherle.truezip/truezip-extension-jmx-jul@7.7.10
+- pkg:maven/de.schlichtherle.truezip/truezip-extension-jmx-jul@7.7.10?classifier=sources
 - pkg:maven/de.schlichtherle.truezip/truezip-extension-jmx-jul@7.7.1?classifier=sources
 - pkg:maven/de.schlichtherle.truezip/truezip-extension-jmx-jul@7.7.2
 - pkg:maven/de.schlichtherle.truezip/truezip-extension-jmx-jul@7.7.2?classifier=sources

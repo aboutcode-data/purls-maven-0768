@@ -1,0 +1,2 @@
+- pkg:maven/kr.pe.kwonnam.dynamicql/string-builder-ql-params@0.1
+- pkg:maven/kr.pe.kwonnam.dynamicql/string-builder-ql-params@0.1?classifier=sources

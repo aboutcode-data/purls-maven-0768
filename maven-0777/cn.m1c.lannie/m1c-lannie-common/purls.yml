@@ -1,0 +1,6 @@
+- pkg:maven/cn.m1c.lannie/m1c-lannie-common@1.0.0-RELEASE
+- pkg:maven/cn.m1c.lannie/m1c-lannie-common@1.0.0-RELEASE?classifier=sources
+- pkg:maven/cn.m1c.lannie/m1c-lannie-common@1.0.1-RELEASE
+- pkg:maven/cn.m1c.lannie/m1c-lannie-common@1.0.1-RELEASE?classifier=sources
+- pkg:maven/cn.m1c.lannie/m1c-lannie-common@1.0.2-RELEASE
+- pkg:maven/cn.m1c.lannie/m1c-lannie-common@1.0.2-RELEASE?classifier=sources

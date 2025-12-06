@@ -1,0 +1,2 @@
+- pkg:maven/org.mobicents.cluster/restcomm-cluster-hazelcast@2.0.3
+- pkg:maven/org.mobicents.cluster/restcomm-cluster-hazelcast@2.0.3?classifier=sources

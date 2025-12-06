@@ -1,0 +1,4 @@
+- pkg:maven/com.bimface/bimface-java-sdk@1.0.0
+- pkg:maven/com.bimface/bimface-java-sdk@1.0.0?classifier=sources
+- pkg:maven/com.bimface/bimface-java-sdk@1.1.0
+- pkg:maven/com.bimface/bimface-java-sdk@1.1.0?classifier=sources

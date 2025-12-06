@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jquery.scrollbar@0.2.10
+- pkg:maven/org.webjars.npm/jquery.scrollbar@0.2.10?classifier=sources

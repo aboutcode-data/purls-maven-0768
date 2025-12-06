@@ -1,0 +1,4 @@
+- pkg:maven/com.dragome/dragome-w3c-standards@0.96-beta3
+- pkg:maven/com.dragome/dragome-w3c-standards@0.96-beta3?classifier=sources
+- pkg:maven/com.dragome/dragome-w3c-standards@0.96-beta4
+- pkg:maven/com.dragome/dragome-w3c-standards@0.96-beta4?classifier=sources

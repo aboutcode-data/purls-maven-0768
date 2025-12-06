@@ -1,0 +1,1 @@
+- pkg:maven/org.jboss.arquillian.container/arquillian-parent-undertow@1.0.0.Alpha2?classifier=source-release&type=zip

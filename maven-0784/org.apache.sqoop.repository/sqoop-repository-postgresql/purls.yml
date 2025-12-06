@@ -1,2 +1,3 @@
 - pkg:maven/org.apache.sqoop.repository/sqoop-repository-postgresql@1.99.5
 - pkg:maven/org.apache.sqoop.repository/sqoop-repository-postgresql@1.99.6
+- pkg:maven/org.apache.sqoop.repository/sqoop-repository-postgresql@1.99.7

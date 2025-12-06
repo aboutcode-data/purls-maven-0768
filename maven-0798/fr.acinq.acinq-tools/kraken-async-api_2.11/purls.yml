@@ -1,0 +1,4 @@
+- pkg:maven/fr.acinq.acinq-tools/kraken-async-api_2.11@1.2
+- pkg:maven/fr.acinq.acinq-tools/kraken-async-api_2.11@1.2?classifier=sources
+- pkg:maven/fr.acinq.acinq-tools/kraken-async-api_2.11@1.3
+- pkg:maven/fr.acinq.acinq-tools/kraken-async-api_2.11@1.3?classifier=sources

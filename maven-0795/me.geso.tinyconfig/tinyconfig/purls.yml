@@ -1,0 +1,2 @@
+- pkg:maven/me.geso.tinyconfig/tinyconfig@0.0.1
+- pkg:maven/me.geso.tinyconfig/tinyconfig@0.0.1?classifier=sources

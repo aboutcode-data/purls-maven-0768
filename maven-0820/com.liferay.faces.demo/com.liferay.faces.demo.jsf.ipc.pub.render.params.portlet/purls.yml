@@ -1,0 +1,6 @@
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.ipc.pub.render.params.portlet@2.0.0?classifier=sources
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.ipc.pub.render.params.portlet@2.0.0?type=war
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.ipc.pub.render.params.portlet@3.0.0?classifier=sources
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.ipc.pub.render.params.portlet@3.0.0?type=war
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.ipc.pub.render.params.portlet@4.0.0?classifier=sources
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.ipc.pub.render.params.portlet@4.0.0?type=war

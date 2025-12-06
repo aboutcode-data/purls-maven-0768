@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/jquery-duration-picker@0.0.12
+- pkg:maven/org.webjars.bower/jquery-duration-picker@0.0.12?classifier=sources

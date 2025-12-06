@@ -1,0 +1,3 @@
+- pkg:maven/org.overturetool.ide.vdmsl/org.overture.ide.vdmsl.ui@2.3.8?classifier=sources
+- pkg:maven/org.overturetool.ide.vdmsl/org.overture.ide.vdmsl.ui@2.4.0?classifier=sources
+- pkg:maven/org.overturetool.ide.vdmsl/org.overture.ide.vdmsl.ui@2.4.2?classifier=sources

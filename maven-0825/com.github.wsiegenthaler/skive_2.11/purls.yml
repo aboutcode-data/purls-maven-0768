@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wsiegenthaler/skive_2.11@0.8.1
+- pkg:maven/com.github.wsiegenthaler/skive_2.11@0.8.1?classifier=sources

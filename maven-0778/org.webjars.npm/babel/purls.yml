@@ -14,7 +14,15 @@
 - pkg:maven/org.webjars.npm/babel@5.8.19?classifier=sources
 - pkg:maven/org.webjars.npm/babel@5.8.23
 - pkg:maven/org.webjars.npm/babel@5.8.23?classifier=sources
+- pkg:maven/org.webjars.npm/babel@5.8.38
+- pkg:maven/org.webjars.npm/babel@5.8.38?classifier=sources
 - pkg:maven/org.webjars.npm/babel@6.0.15
 - pkg:maven/org.webjars.npm/babel@6.0.15?classifier=sources
 - pkg:maven/org.webjars.npm/babel@6.1.18
 - pkg:maven/org.webjars.npm/babel@6.1.18?classifier=sources
+- pkg:maven/org.webjars.npm/babel@6.2.4
+- pkg:maven/org.webjars.npm/babel@6.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/babel@6.3.13
+- pkg:maven/org.webjars.npm/babel@6.3.13?classifier=sources
+- pkg:maven/org.webjars.npm/babel@6.3.26
+- pkg:maven/org.webjars.npm/babel@6.3.26?classifier=sources

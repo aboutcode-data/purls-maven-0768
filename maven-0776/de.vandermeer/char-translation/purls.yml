@@ -1,0 +1,2 @@
+- pkg:maven/de.vandermeer/char-translation@0.0.1
+- pkg:maven/de.vandermeer/char-translation@0.0.1?classifier=sources

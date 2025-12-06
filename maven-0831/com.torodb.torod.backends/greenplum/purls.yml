@@ -1,0 +1,2 @@
+- pkg:maven/com.torodb.torod.backends/greenplum@0.40
+- pkg:maven/com.torodb.torod.backends/greenplum@0.40?classifier=sources

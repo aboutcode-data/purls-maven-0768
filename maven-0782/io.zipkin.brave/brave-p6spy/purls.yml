@@ -1,0 +1,8 @@
+- pkg:maven/io.zipkin.brave/brave-p6spy@3.11.0
+- pkg:maven/io.zipkin.brave/brave-p6spy@3.11.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-p6spy@3.11.1
+- pkg:maven/io.zipkin.brave/brave-p6spy@3.11.1?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-p6spy@3.13.0
+- pkg:maven/io.zipkin.brave/brave-p6spy@3.13.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-p6spy@3.14.0
+- pkg:maven/io.zipkin.brave/brave-p6spy@3.14.0?classifier=sources

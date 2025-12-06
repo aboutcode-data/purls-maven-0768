@@ -1,0 +1,4 @@
+- pkg:maven/org.mobicents.examples/mobicents-slee-connectivity-example-slee-events@2.8.4
+- pkg:maven/org.mobicents.examples/mobicents-slee-connectivity-example-slee-events@2.8.4?classifier=sources
+- pkg:maven/org.mobicents.examples/mobicents-slee-connectivity-example-slee-events@2.8.5
+- pkg:maven/org.mobicents.examples/mobicents-slee-connectivity-example-slee-events@2.8.5?classifier=sources

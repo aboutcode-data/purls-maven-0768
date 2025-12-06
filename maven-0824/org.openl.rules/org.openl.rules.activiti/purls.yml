@@ -1,0 +1,14 @@
+- pkg:maven/org.openl.rules/org.openl.rules.activiti@5.17.0
+- pkg:maven/org.openl.rules/org.openl.rules.activiti@5.17.0?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.activiti@5.17.1
+- pkg:maven/org.openl.rules/org.openl.rules.activiti@5.17.1?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.activiti@5.17.2
+- pkg:maven/org.openl.rules/org.openl.rules.activiti@5.17.2?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.activiti@5.17.3
+- pkg:maven/org.openl.rules/org.openl.rules.activiti@5.17.3?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.activiti@5.18.0
+- pkg:maven/org.openl.rules/org.openl.rules.activiti@5.18.0?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.activiti@5.18.1
+- pkg:maven/org.openl.rules/org.openl.rules.activiti@5.18.1?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.activiti@5.18.2
+- pkg:maven/org.openl.rules/org.openl.rules.activiti@5.18.2?classifier=sources

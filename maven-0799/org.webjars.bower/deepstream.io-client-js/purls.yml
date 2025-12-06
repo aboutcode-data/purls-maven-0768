@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/deepstream.io-client-js@1.0.2
+- pkg:maven/org.webjars.bower/deepstream.io-client-js@1.0.2?classifier=sources

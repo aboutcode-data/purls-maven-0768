@@ -58,3 +58,5 @@
 - pkg:maven/org.modeshape/modeshape-sequencer-teiid@4.3.0.Final?classifier=sources
 - pkg:maven/org.modeshape/modeshape-sequencer-teiid@4.4.0.Final
 - pkg:maven/org.modeshape/modeshape-sequencer-teiid@4.4.0.Final?classifier=sources
+- pkg:maven/org.modeshape/modeshape-sequencer-teiid@4.5.0.Final
+- pkg:maven/org.modeshape/modeshape-sequencer-teiid@4.5.0.Final?classifier=sources

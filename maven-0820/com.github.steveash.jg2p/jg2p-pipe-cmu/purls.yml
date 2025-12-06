@@ -1,0 +1,4 @@
+- pkg:maven/com.github.steveash.jg2p/jg2p-pipe-cmu@1.0.0
+- pkg:maven/com.github.steveash.jg2p/jg2p-pipe-cmu@1.0.0?classifier=sources
+- pkg:maven/com.github.steveash.jg2p/jg2p-pipe-cmu@1.1.0
+- pkg:maven/com.github.steveash.jg2p/jg2p-pipe-cmu@1.1.0?classifier=sources

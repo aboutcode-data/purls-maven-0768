@@ -22,3 +22,9 @@
 - pkg:maven/com.github.davide-maestroni/jroutine-proxy@5.5.0?classifier=sources
 - pkg:maven/com.github.davide-maestroni/jroutine-proxy@5.6.0
 - pkg:maven/com.github.davide-maestroni/jroutine-proxy@5.6.0?classifier=sources
+- pkg:maven/com.github.davide-maestroni/jroutine-proxy@5.7.0
+- pkg:maven/com.github.davide-maestroni/jroutine-proxy@5.7.0?classifier=sources
+- pkg:maven/com.github.davide-maestroni/jroutine-proxy@5.8.0
+- pkg:maven/com.github.davide-maestroni/jroutine-proxy@5.8.0?classifier=sources
+- pkg:maven/com.github.davide-maestroni/jroutine-proxy@5.9.0
+- pkg:maven/com.github.davide-maestroni/jroutine-proxy@5.9.0?classifier=sources

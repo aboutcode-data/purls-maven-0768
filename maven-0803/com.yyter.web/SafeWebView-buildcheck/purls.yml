@@ -1,0 +1,2 @@
+- pkg:maven/com.yyter.web/SafeWebView-buildcheck@1.0.0
+- pkg:maven/com.yyter.web/SafeWebView-buildcheck@1.0.0?classifier=sources

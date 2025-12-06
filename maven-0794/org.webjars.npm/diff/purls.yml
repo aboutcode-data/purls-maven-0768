@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/diff@1.4.0
 - pkg:maven/org.webjars.npm/diff@1.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/diff@2.2.1
+- pkg:maven/org.webjars.npm/diff@2.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/diff@3.0.0
+- pkg:maven/org.webjars.npm/diff@3.0.0?classifier=sources

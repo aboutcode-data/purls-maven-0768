@@ -3,4 +3,6 @@
 - pkg:maven/com.google.code.java-allocation-instrumenter/java-allocation-instrumenter@2.1
 - pkg:maven/com.google.code.java-allocation-instrumenter/java-allocation-instrumenter@2.1?classifier=sources
 - pkg:maven/com.google.code.java-allocation-instrumenter/java-allocation-instrumenter@3.0
+- pkg:maven/com.google.code.java-allocation-instrumenter/java-allocation-instrumenter@3.0.1
+- pkg:maven/com.google.code.java-allocation-instrumenter/java-allocation-instrumenter@3.0.1?classifier=sources
 - pkg:maven/com.google.code.java-allocation-instrumenter/java-allocation-instrumenter@3.0?classifier=sources

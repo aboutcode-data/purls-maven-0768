@@ -64,5 +64,9 @@
 - pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.4-beta4?type=war
 - pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.4-beta5?classifier=sources
 - pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.4-beta5?type=war
+- pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.4-beta6?classifier=sources
+- pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.4-beta6?type=war
+- pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.4-beta7?classifier=sources
+- pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.4-beta7?type=war
 - pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.4-beta?classifier=sources
 - pkg:maven/com.pojosontheweb/woko-web-bootstrap@2.4-beta?type=war

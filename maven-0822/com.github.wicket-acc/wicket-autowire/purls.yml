@@ -6,3 +6,5 @@
 - pkg:maven/com.github.wicket-acc/wicket-autowire@0.0.4?classifier=sources
 - pkg:maven/com.github.wicket-acc/wicket-autowire@0.0.5
 - pkg:maven/com.github.wicket-acc/wicket-autowire@0.0.5?classifier=sources
+- pkg:maven/com.github.wicket-acc/wicket-autowire@1.0.0
+- pkg:maven/com.github.wicket-acc/wicket-autowire@1.0.0?classifier=sources

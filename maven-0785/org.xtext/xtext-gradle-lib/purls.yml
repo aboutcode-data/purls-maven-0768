@@ -51,6 +51,10 @@
 - pkg:maven/org.xtext/xtext-gradle-lib@0.3.24?classifier=sources
 - pkg:maven/org.xtext/xtext-gradle-lib@0.3.25
 - pkg:maven/org.xtext/xtext-gradle-lib@0.3.25?classifier=sources
+- pkg:maven/org.xtext/xtext-gradle-lib@0.3.26
+- pkg:maven/org.xtext/xtext-gradle-lib@0.3.26?classifier=sources
+- pkg:maven/org.xtext/xtext-gradle-lib@0.3.27
+- pkg:maven/org.xtext/xtext-gradle-lib@0.3.27?classifier=sources
 - pkg:maven/org.xtext/xtext-gradle-lib@0.3.2?classifier=sources
 - pkg:maven/org.xtext/xtext-gradle-lib@0.3.3
 - pkg:maven/org.xtext/xtext-gradle-lib@0.3.3?classifier=sources
@@ -66,3 +70,5 @@
 - pkg:maven/org.xtext/xtext-gradle-lib@0.3.8?classifier=sources
 - pkg:maven/org.xtext/xtext-gradle-lib@0.3.9
 - pkg:maven/org.xtext/xtext-gradle-lib@0.3.9?classifier=sources
+- pkg:maven/org.xtext/xtext-gradle-lib@1.0.0-RC4
+- pkg:maven/org.xtext/xtext-gradle-lib@1.0.0-RC4?classifier=sources

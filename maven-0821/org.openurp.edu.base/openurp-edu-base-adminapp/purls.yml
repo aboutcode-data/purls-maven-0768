@@ -1,0 +1,2 @@
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.1?classifier=sources
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.1?type=war

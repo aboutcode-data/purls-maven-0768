@@ -6,3 +6,9 @@
 - pkg:maven/io.github.daviddenton/databob_2.11@1.1.3?classifier=sources
 - pkg:maven/io.github.daviddenton/databob_2.11@1.2.0
 - pkg:maven/io.github.daviddenton/databob_2.11@1.2.0?classifier=sources
+- pkg:maven/io.github.daviddenton/databob_2.11@1.3.0
+- pkg:maven/io.github.daviddenton/databob_2.11@1.3.0?classifier=sources
+- pkg:maven/io.github.daviddenton/databob_2.11@1.4.0
+- pkg:maven/io.github.daviddenton/databob_2.11@1.4.0?classifier=sources
+- pkg:maven/io.github.daviddenton/databob_2.11@1.5.0
+- pkg:maven/io.github.daviddenton/databob_2.11@1.5.0?classifier=sources

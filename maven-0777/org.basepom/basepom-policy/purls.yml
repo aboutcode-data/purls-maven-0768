@@ -3,3 +3,4 @@
 - pkg:maven/org.basepom/basepom-policy@2
 - pkg:maven/org.basepom/basepom-policy@3
 - pkg:maven/org.basepom/basepom-policy@4
+- pkg:maven/org.basepom/basepom-policy@5

@@ -1,0 +1,4 @@
+- pkg:maven/de.aktey.akka.visualmailbox/collector_2.11@1.0.0
+- pkg:maven/de.aktey.akka.visualmailbox/collector_2.11@1.0.0?classifier=sources
+- pkg:maven/de.aktey.akka.visualmailbox/collector_2.11@1.0.1
+- pkg:maven/de.aktey.akka.visualmailbox/collector_2.11@1.0.1?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/org.wildfly.swarm/camel-web@1.0.0
+- pkg:maven/org.wildfly.swarm/camel-web@1.0.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/camel-web@1.0.1
+- pkg:maven/org.wildfly.swarm/camel-web@1.0.2
+- pkg:maven/org.wildfly.swarm/camel-web@1.0.3

@@ -1,0 +1,2 @@
+- pkg:maven/com.jiechic.library.sqlbrite/sqlbrite-sqlcipher@0.6.4?classifier=sources
+- pkg:maven/com.jiechic.library.sqlbrite/sqlbrite-sqlcipher@0.6.4?type=aar

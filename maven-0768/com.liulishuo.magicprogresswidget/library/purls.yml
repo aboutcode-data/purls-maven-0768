@@ -1,0 +1,6 @@
+- pkg:maven/com.liulishuo.magicprogresswidget/library@1.0.2?classifier=sources
+- pkg:maven/com.liulishuo.magicprogresswidget/library@1.0.2?type=aar
+- pkg:maven/com.liulishuo.magicprogresswidget/library@1.0.7?classifier=sources
+- pkg:maven/com.liulishuo.magicprogresswidget/library@1.0.7?type=aar
+- pkg:maven/com.liulishuo.magicprogresswidget/library@1.0.8?classifier=sources
+- pkg:maven/com.liulishuo.magicprogresswidget/library@1.0.8?type=aar

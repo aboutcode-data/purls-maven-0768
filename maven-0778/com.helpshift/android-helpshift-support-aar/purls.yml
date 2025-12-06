@@ -1,0 +1,5 @@
+- pkg:maven/com.helpshift/android-helpshift-support-aar@4.3.0-support?type=aar
+- pkg:maven/com.helpshift/android-helpshift-support-aar@4.4.0-support?type=aar
+- pkg:maven/com.helpshift/android-helpshift-support-aar@4.5.0-support?type=aar
+- pkg:maven/com.helpshift/android-helpshift-support-aar@4.6.0-support?type=aar
+- pkg:maven/com.helpshift/android-helpshift-support-aar@4.7.0-support?type=aar

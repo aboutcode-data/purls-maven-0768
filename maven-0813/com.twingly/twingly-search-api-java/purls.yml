@@ -1,0 +1,2 @@
+- pkg:maven/com.twingly/twingly-search-api-java@1.0.0
+- pkg:maven/com.twingly/twingly-search-api-java@1.0.0?classifier=sources

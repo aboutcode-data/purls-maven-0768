@@ -1,0 +1,6 @@
+- pkg:maven/de.nikem.jebu/jebu-websocket-server@0.1.0
+- pkg:maven/de.nikem.jebu/jebu-websocket-server@0.1.0?classifier=sources
+- pkg:maven/de.nikem.jebu/jebu-websocket-server@0.3.0
+- pkg:maven/de.nikem.jebu/jebu-websocket-server@0.3.0?classifier=sources
+- pkg:maven/de.nikem.jebu/jebu-websocket-server@0.4.0
+- pkg:maven/de.nikem.jebu/jebu-websocket-server@0.4.0?classifier=sources

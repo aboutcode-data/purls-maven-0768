@@ -4,3 +4,7 @@
 - pkg:maven/co.paralleluniverse/comsat-actors-netty@0.1.1?classifier=sources
 - pkg:maven/co.paralleluniverse/comsat-actors-netty@0.5.0
 - pkg:maven/co.paralleluniverse/comsat-actors-netty@0.5.0?classifier=sources
+- pkg:maven/co.paralleluniverse/comsat-actors-netty@0.6.0
+- pkg:maven/co.paralleluniverse/comsat-actors-netty@0.6.0?classifier=sources
+- pkg:maven/co.paralleluniverse/comsat-actors-netty@0.7.0
+- pkg:maven/co.paralleluniverse/comsat-actors-netty@0.7.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.michaldo/nashorn-maven-plugin@0.0.1
+- pkg:maven/io.github.michaldo/nashorn-maven-plugin@0.0.1?classifier=sources
