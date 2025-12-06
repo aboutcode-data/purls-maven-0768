@@ -1,0 +1,2 @@
+- pkg:maven/com.surenpi.autotest/autotest.interface.framework@1.0.1-20170422
+- pkg:maven/com.surenpi.autotest/autotest.interface.framework@1.0.1-20170422?classifier=sources

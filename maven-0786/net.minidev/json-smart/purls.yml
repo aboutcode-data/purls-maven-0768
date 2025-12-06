@@ -32,3 +32,5 @@
 - pkg:maven/net.minidev/json-smart@2.2.1
 - pkg:maven/net.minidev/json-smart@2.2.1?classifier=sources
 - pkg:maven/net.minidev/json-smart@2.2?classifier=sources
+- pkg:maven/net.minidev/json-smart@2.3
+- pkg:maven/net.minidev/json-smart@2.3?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.corpus-tools/pepperModules-CoNLLModules@1.1.9?classifier=sources
 - pkg:maven/org.corpus-tools/pepperModules-CoNLLModules@1.2.0?classifier=sources
 - pkg:maven/org.corpus-tools/pepperModules-CoNLLModules@1.2.1?classifier=sources
+- pkg:maven/org.corpus-tools/pepperModules-CoNLLModules@1.2.2?classifier=sources

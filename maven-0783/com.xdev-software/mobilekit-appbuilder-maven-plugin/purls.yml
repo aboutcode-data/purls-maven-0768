@@ -1,2 +1,7 @@
 - pkg:maven/com.xdev-software/mobilekit-appbuilder-maven-plugin@1.0.0
 - pkg:maven/com.xdev-software/mobilekit-appbuilder-maven-plugin@1.1.0
+- pkg:maven/com.xdev-software/mobilekit-appbuilder-maven-plugin@2.0.0
+- pkg:maven/com.xdev-software/mobilekit-appbuilder-maven-plugin@2.0.1
+- pkg:maven/com.xdev-software/mobilekit-appbuilder-maven-plugin@2.0.2
+- pkg:maven/com.xdev-software/mobilekit-appbuilder-maven-plugin@2.0.3
+- pkg:maven/com.xdev-software/mobilekit-appbuilder-maven-plugin@2.0.4

@@ -1,0 +1,2 @@
+- pkg:maven/net.minidev/types@1.0.7
+- pkg:maven/net.minidev/types@1.0.7?classifier=sources

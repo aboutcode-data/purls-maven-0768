@@ -1,0 +1,4 @@
+- pkg:maven/com.cornfluence/proteus_2.12@0.6.0
+- pkg:maven/com.cornfluence/proteus_2.12@0.6.0?classifier=sources
+- pkg:maven/com.cornfluence/proteus_2.12@0.6.5
+- pkg:maven/com.cornfluence/proteus_2.12@0.6.5?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.help@3.6.0.v20130326-1254
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.help@3.6.0.v20130326-1254?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.help@3.7.0.v20160602-1307
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.help@3.7.0.v20160602-1307?classifier=sources

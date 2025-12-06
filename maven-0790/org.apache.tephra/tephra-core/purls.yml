@@ -1,3 +1,7 @@
+- pkg:maven/org.apache.tephra/tephra-core@0.10.0-incubating
+- pkg:maven/org.apache.tephra/tephra-core@0.10.0-incubating?classifier=sources
+- pkg:maven/org.apache.tephra/tephra-core@0.11.0-incubating
+- pkg:maven/org.apache.tephra/tephra-core@0.11.0-incubating?classifier=sources
 - pkg:maven/org.apache.tephra/tephra-core@0.8.0-incubating
 - pkg:maven/org.apache.tephra/tephra-core@0.8.0-incubating?classifier=sources
 - pkg:maven/org.apache.tephra/tephra-core@0.9.0-incubating

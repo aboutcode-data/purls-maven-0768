@@ -1,0 +1,4 @@
+- pkg:maven/io.sentry/sentry-log4j2@1.0.0-beta
+- pkg:maven/io.sentry/sentry-log4j2@1.0.0-beta2
+- pkg:maven/io.sentry/sentry-log4j2@1.0.0-beta2?classifier=sources
+- pkg:maven/io.sentry/sentry-log4j2@1.0.0-beta?classifier=sources

@@ -18,3 +18,15 @@
 - pkg:maven/io.hawt/hawtio-insight-log@1.4.64?classifier=sources
 - pkg:maven/io.hawt/hawtio-insight-log@1.4.65
 - pkg:maven/io.hawt/hawtio-insight-log@1.4.65?classifier=sources
+- pkg:maven/io.hawt/hawtio-insight-log@1.4.66
+- pkg:maven/io.hawt/hawtio-insight-log@1.4.66?classifier=sources
+- pkg:maven/io.hawt/hawtio-insight-log@1.4.67
+- pkg:maven/io.hawt/hawtio-insight-log@1.4.67?classifier=sources
+- pkg:maven/io.hawt/hawtio-insight-log@1.4.68
+- pkg:maven/io.hawt/hawtio-insight-log@1.4.68?classifier=sources
+- pkg:maven/io.hawt/hawtio-insight-log@1.5.0
+- pkg:maven/io.hawt/hawtio-insight-log@1.5.0?classifier=sources
+- pkg:maven/io.hawt/hawtio-insight-log@1.5.1
+- pkg:maven/io.hawt/hawtio-insight-log@1.5.1?classifier=sources
+- pkg:maven/io.hawt/hawtio-insight-log@2.0-M1
+- pkg:maven/io.hawt/hawtio-insight-log@2.0-M1?classifier=sources

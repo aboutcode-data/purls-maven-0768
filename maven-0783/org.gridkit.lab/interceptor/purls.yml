@@ -2,6 +2,8 @@
 - pkg:maven/org.gridkit.lab/interceptor@0.8.10?classifier=sources
 - pkg:maven/org.gridkit.lab/interceptor@0.8.11
 - pkg:maven/org.gridkit.lab/interceptor@0.8.11?classifier=sources
+- pkg:maven/org.gridkit.lab/interceptor@0.8.12
+- pkg:maven/org.gridkit.lab/interceptor@0.8.12?classifier=sources
 - pkg:maven/org.gridkit.lab/interceptor@0.8.2
 - pkg:maven/org.gridkit.lab/interceptor@0.8.2.1
 - pkg:maven/org.gridkit.lab/interceptor@0.8.2.1?classifier=sources

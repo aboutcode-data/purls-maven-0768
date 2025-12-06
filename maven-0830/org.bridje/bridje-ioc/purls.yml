@@ -20,3 +20,5 @@
 - pkg:maven/org.bridje/bridje-ioc@0.2.2?classifier=sources
 - pkg:maven/org.bridje/bridje-ioc@0.2.3
 - pkg:maven/org.bridje/bridje-ioc@0.2.3?classifier=sources
+- pkg:maven/org.bridje/bridje-ioc@0.3.0
+- pkg:maven/org.bridje/bridje-ioc@0.3.0?classifier=sources

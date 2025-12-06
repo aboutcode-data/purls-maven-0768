@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jkniv/jkniv-jaas-glassfish@0.1.0
+- pkg:maven/net.sf.jkniv/jkniv-jaas-glassfish@0.1.0?classifier=sources

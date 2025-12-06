@@ -6,3 +6,5 @@
 - pkg:maven/org.everit.osgi.dev/org.everit.osgi.dev.testrunner@4.0.2?classifier=sources
 - pkg:maven/org.everit.osgi.dev/org.everit.osgi.dev.testrunner@4.0.3
 - pkg:maven/org.everit.osgi.dev/org.everit.osgi.dev.testrunner@4.0.3?classifier=sources
+- pkg:maven/org.everit.osgi.dev/org.everit.osgi.dev.testrunner@5.0.0
+- pkg:maven/org.everit.osgi.dev/org.everit.osgi.dev.testrunner@5.0.0?classifier=sources

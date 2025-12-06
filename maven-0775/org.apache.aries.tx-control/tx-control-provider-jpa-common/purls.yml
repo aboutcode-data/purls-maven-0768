@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.aries.tx-control/tx-control-provider-jpa-common@0.0.2
+- pkg:maven/org.apache.aries.tx-control/tx-control-provider-jpa-common@0.0.2?classifier=sources

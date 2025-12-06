@@ -2,4 +2,5 @@
 - pkg:maven/org.debux.webmotion/webmotion-archetype@2.3.3?classifier=sources
 - pkg:maven/org.debux.webmotion/webmotion-archetype@2.4?classifier=sources
 - pkg:maven/org.debux.webmotion/webmotion-archetype@2.5.1?classifier=sources
+- pkg:maven/org.debux.webmotion/webmotion-archetype@2.5.3?classifier=sources
 - pkg:maven/org.debux.webmotion/webmotion-archetype@2.5?classifier=sources

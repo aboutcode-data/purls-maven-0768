@@ -1,0 +1,6 @@
+- pkg:maven/com.adamthody/heroku-kafka-connection-helper@0.1.7
+- pkg:maven/com.adamthody/heroku-kafka-connection-helper@0.1.7?classifier=sources
+- pkg:maven/com.adamthody/heroku-kafka-connection-helper@0.1.8
+- pkg:maven/com.adamthody/heroku-kafka-connection-helper@0.1.8?classifier=sources
+- pkg:maven/com.adamthody/heroku-kafka-connection-helper@0.1.9
+- pkg:maven/com.adamthody/heroku-kafka-connection-helper@0.1.9?classifier=sources

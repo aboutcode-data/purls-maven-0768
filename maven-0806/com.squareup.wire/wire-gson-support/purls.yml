@@ -68,3 +68,5 @@
 - pkg:maven/com.squareup.wire/wire-gson-support@2.1.2?classifier=sources
 - pkg:maven/com.squareup.wire/wire-gson-support@2.2.0
 - pkg:maven/com.squareup.wire/wire-gson-support@2.2.0?classifier=sources
+- pkg:maven/com.squareup.wire/wire-gson-support@2.3.0-RC1
+- pkg:maven/com.squareup.wire/wire-gson-support@2.3.0-RC1?classifier=sources

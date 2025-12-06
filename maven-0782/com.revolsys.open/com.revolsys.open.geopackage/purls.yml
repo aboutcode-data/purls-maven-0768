@@ -1,0 +1,4 @@
+- pkg:maven/com.revolsys.open/com.revolsys.open.geopackage@0.20161221.161418-CPF_5_0_4-RELEASE
+- pkg:maven/com.revolsys.open/com.revolsys.open.geopackage@0.20161221.161418-CPF_5_0_4-RELEASE?classifier=sources
+- pkg:maven/com.revolsys.open/com.revolsys.open.geopackage@0.20161222.073911-CPF_5_0_5-RELEASE
+- pkg:maven/com.revolsys.open/com.revolsys.open.geopackage@0.20161222.073911-CPF_5_0_5-RELEASE?classifier=sources

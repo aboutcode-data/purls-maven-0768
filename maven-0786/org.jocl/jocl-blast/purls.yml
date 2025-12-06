@@ -1,3 +1,7 @@
+- pkg:maven/org.jocl/jocl-blast@0.10.0
+- pkg:maven/org.jocl/jocl-blast@0.10.0?classifier=sources
+- pkg:maven/org.jocl/jocl-blast@0.11.0
+- pkg:maven/org.jocl/jocl-blast@0.11.0?classifier=sources
 - pkg:maven/org.jocl/jocl-blast@0.7.0
 - pkg:maven/org.jocl/jocl-blast@0.7.0?classifier=sources
 - pkg:maven/org.jocl/jocl-blast@0.7.1

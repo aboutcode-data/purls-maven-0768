@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-square-cubism@1.0.1
+- pkg:maven/org.webjars.npm/github-com-square-cubism@1.0.1?classifier=sources

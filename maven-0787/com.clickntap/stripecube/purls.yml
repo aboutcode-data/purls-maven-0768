@@ -24,3 +24,5 @@
 - pkg:maven/com.clickntap/stripecube@1.43?classifier=sources
 - pkg:maven/com.clickntap/stripecube@1.44
 - pkg:maven/com.clickntap/stripecube@1.44?classifier=sources
+- pkg:maven/com.clickntap/stripecube@1.45
+- pkg:maven/com.clickntap/stripecube@1.45?classifier=sources

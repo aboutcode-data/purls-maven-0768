@@ -10,7 +10,17 @@
 - pkg:maven/fish.payara.extras/payara-embedded-all@4.1.1.163.0.1
 - pkg:maven/fish.payara.extras/payara-embedded-all@4.1.1.163.0.1?classifier=sources
 - pkg:maven/fish.payara.extras/payara-embedded-all@4.1.1.163?classifier=sources
+- pkg:maven/fish.payara.extras/payara-embedded-all@4.1.1.164
+- pkg:maven/fish.payara.extras/payara-embedded-all@4.1.1.164?classifier=sources
+- pkg:maven/fish.payara.extras/payara-embedded-all@4.1.1.171
+- pkg:maven/fish.payara.extras/payara-embedded-all@4.1.1.171.0.1
+- pkg:maven/fish.payara.extras/payara-embedded-all@4.1.1.171.0.1?classifier=sources
+- pkg:maven/fish.payara.extras/payara-embedded-all@4.1.1.171.1
+- pkg:maven/fish.payara.extras/payara-embedded-all@4.1.1.171.1?classifier=sources
+- pkg:maven/fish.payara.extras/payara-embedded-all@4.1.1.171?classifier=sources
 - pkg:maven/fish.payara.extras/payara-embedded-all@4.1.152.1
 - pkg:maven/fish.payara.extras/payara-embedded-all@4.1.152.1?classifier=sources
 - pkg:maven/fish.payara.extras/payara-embedded-all@4.1.153
 - pkg:maven/fish.payara.extras/payara-embedded-all@4.1.153?classifier=sources
+- pkg:maven/fish.payara.extras/payara-embedded-all@4.1.2.172
+- pkg:maven/fish.payara.extras/payara-embedded-all@4.1.2.172?classifier=sources

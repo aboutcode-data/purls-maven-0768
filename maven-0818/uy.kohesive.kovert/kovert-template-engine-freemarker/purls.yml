@@ -10,3 +10,11 @@
 - pkg:maven/uy.kohesive.kovert/kovert-template-engine-freemarker@0.13.0?classifier=sources
 - pkg:maven/uy.kohesive.kovert/kovert-template-engine-freemarker@0.14.0
 - pkg:maven/uy.kohesive.kovert/kovert-template-engine-freemarker@0.14.0?classifier=sources
+- pkg:maven/uy.kohesive.kovert/kovert-template-engine-freemarker@1.0.0
+- pkg:maven/uy.kohesive.kovert/kovert-template-engine-freemarker@1.0.0?classifier=sources
+- pkg:maven/uy.kohesive.kovert/kovert-template-engine-freemarker@1.0.1
+- pkg:maven/uy.kohesive.kovert/kovert-template-engine-freemarker@1.0.1?classifier=sources
+- pkg:maven/uy.kohesive.kovert/kovert-template-engine-freemarker@1.1.0
+- pkg:maven/uy.kohesive.kovert/kovert-template-engine-freemarker@1.1.0?classifier=sources
+- pkg:maven/uy.kohesive.kovert/kovert-template-engine-freemarker@1.2.0
+- pkg:maven/uy.kohesive.kovert/kovert-template-engine-freemarker@1.2.0?classifier=sources

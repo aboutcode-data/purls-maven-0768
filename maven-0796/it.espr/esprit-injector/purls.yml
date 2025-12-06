@@ -8,3 +8,9 @@
 - pkg:maven/it.espr/esprit-injector@0.1.0?classifier=sources
 - pkg:maven/it.espr/esprit-injector@0.2.0
 - pkg:maven/it.espr/esprit-injector@0.2.0?classifier=sources
+- pkg:maven/it.espr/esprit-injector@0.2.3
+- pkg:maven/it.espr/esprit-injector@0.2.3?classifier=sources
+- pkg:maven/it.espr/esprit-injector@0.2.4
+- pkg:maven/it.espr/esprit-injector@0.2.4?classifier=sources
+- pkg:maven/it.espr/esprit-injector@0.2.6
+- pkg:maven/it.espr/esprit-injector@0.2.6?classifier=sources

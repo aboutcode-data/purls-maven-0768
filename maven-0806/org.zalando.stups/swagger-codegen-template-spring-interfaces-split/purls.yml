@@ -1,0 +1,10 @@
+- pkg:maven/org.zalando.stups/swagger-codegen-template-spring-interfaces-split@0.4.35
+- pkg:maven/org.zalando.stups/swagger-codegen-template-spring-interfaces-split@0.4.35?classifier=sources
+- pkg:maven/org.zalando.stups/swagger-codegen-template-spring-interfaces-split@0.4.36
+- pkg:maven/org.zalando.stups/swagger-codegen-template-spring-interfaces-split@0.4.36?classifier=sources
+- pkg:maven/org.zalando.stups/swagger-codegen-template-spring-interfaces-split@0.4.37
+- pkg:maven/org.zalando.stups/swagger-codegen-template-spring-interfaces-split@0.4.37?classifier=sources
+- pkg:maven/org.zalando.stups/swagger-codegen-template-spring-interfaces-split@0.4.38
+- pkg:maven/org.zalando.stups/swagger-codegen-template-spring-interfaces-split@0.4.38?classifier=sources
+- pkg:maven/org.zalando.stups/swagger-codegen-template-spring-interfaces-split@0.5.0-beta-1
+- pkg:maven/org.zalando.stups/swagger-codegen-template-spring-interfaces-split@0.5.0-beta-1?classifier=sources

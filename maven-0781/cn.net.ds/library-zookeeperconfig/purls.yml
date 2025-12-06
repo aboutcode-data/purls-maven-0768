@@ -1,0 +1,2 @@
+- pkg:maven/cn.net.ds/library-zookeeperconfig@1.0.0
+- pkg:maven/cn.net.ds/library-zookeeperconfig@1.0.0?classifier=sources

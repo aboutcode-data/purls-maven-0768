@@ -1,3 +1,5 @@
+- pkg:maven/org.wildfly.camel/compatibility-itests-wildfly@3.0.0.redhat-1
+- pkg:maven/org.wildfly.camel/compatibility-itests-wildfly@3.0.1.redhat-1
 - pkg:maven/org.wildfly.camel/compatibility-itests-wildfly@3.2.0
 - pkg:maven/org.wildfly.camel/compatibility-itests-wildfly@3.3.0
 - pkg:maven/org.wildfly.camel/compatibility-itests-wildfly@4.0.0
@@ -5,3 +7,8 @@
 - pkg:maven/org.wildfly.camel/compatibility-itests-wildfly@4.1.1
 - pkg:maven/org.wildfly.camel/compatibility-itests-wildfly@4.2.0
 - pkg:maven/org.wildfly.camel/compatibility-itests-wildfly@4.2.1
+- pkg:maven/org.wildfly.camel/compatibility-itests-wildfly@4.3.0
+- pkg:maven/org.wildfly.camel/compatibility-itests-wildfly@4.3.0.redhat-1
+- pkg:maven/org.wildfly.camel/compatibility-itests-wildfly@4.4.0
+- pkg:maven/org.wildfly.camel/compatibility-itests-wildfly@4.5.0
+- pkg:maven/org.wildfly.camel/compatibility-itests-wildfly@4.5.0.redhat-1

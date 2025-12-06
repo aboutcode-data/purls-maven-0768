@@ -1,0 +1,4 @@
+- pkg:maven/com.att.ajsc/ajsc-war@1.0.0?type=war
+- pkg:maven/com.att.ajsc/ajsc-war@2.0.0?type=war
+- pkg:maven/com.att.ajsc/ajsc-war@2.1.0?type=war
+- pkg:maven/com.att.ajsc/ajsc-war@3.0.0?type=war

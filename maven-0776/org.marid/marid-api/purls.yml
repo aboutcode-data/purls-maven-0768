@@ -1,0 +1,2 @@
+- pkg:maven/org.marid/marid-api@0.9.5.2
+- pkg:maven/org.marid/marid-api@0.9.5.2?classifier=sources

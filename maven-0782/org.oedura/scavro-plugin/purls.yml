@@ -1,0 +1,2 @@
+- pkg:maven/org.oedura/scavro-plugin@1.0.2
+- pkg:maven/org.oedura/scavro-plugin@1.0.2?classifier=sources

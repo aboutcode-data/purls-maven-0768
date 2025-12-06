@@ -1,3 +1,7 @@
+- pkg:maven/org.webjars.bower/moment-range@1.0.9
+- pkg:maven/org.webjars.bower/moment-range@1.0.9?classifier=sources
+- pkg:maven/org.webjars.bower/moment-range@1.1.2
+- pkg:maven/org.webjars.bower/moment-range@1.1.2?classifier=sources
 - pkg:maven/org.webjars.bower/moment-range@2.0.3
 - pkg:maven/org.webjars.bower/moment-range@2.0.3?classifier=sources
 - pkg:maven/org.webjars.bower/moment-range@2.1.0

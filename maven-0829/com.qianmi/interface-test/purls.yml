@@ -1,0 +1,2 @@
+- pkg:maven/com.qianmi/interface-test@1.0.5-RELEASE
+- pkg:maven/com.qianmi/interface-test@1.0.5-RELEASE?classifier=sources

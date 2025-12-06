@@ -38,3 +38,7 @@
 - pkg:maven/com.impetus.kundera.client/kundera-mongo@3.5?classifier=sources
 - pkg:maven/com.impetus.kundera.client/kundera-mongo@3.6
 - pkg:maven/com.impetus.kundera.client/kundera-mongo@3.6?classifier=sources
+- pkg:maven/com.impetus.kundera.client/kundera-mongo@3.7
+- pkg:maven/com.impetus.kundera.client/kundera-mongo@3.7?classifier=sources
+- pkg:maven/com.impetus.kundera.client/kundera-mongo@3.8
+- pkg:maven/com.impetus.kundera.client/kundera-mongo@3.8?classifier=sources

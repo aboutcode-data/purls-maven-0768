@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.director.app@1.0.500
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.director.app@1.0.500?classifier=sources

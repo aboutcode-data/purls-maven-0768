@@ -1,0 +1,4 @@
+- pkg:maven/com.butor/bsec@1.0.3?classifier=sources
+- pkg:maven/com.butor/bsec@1.0.3?type=war
+- pkg:maven/com.butor/bsec@1.0.6?classifier=sources
+- pkg:maven/com.butor/bsec@1.0.6?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/de.h2b.scala.lib.math/linalg_2.12@2.1.0
+- pkg:maven/de.h2b.scala.lib.math/linalg_2.12@2.1.0?classifier=sources

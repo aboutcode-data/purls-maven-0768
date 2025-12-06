@@ -1,0 +1,2 @@
+- pkg:maven/com.jayantkrish.pnp/pnp_2.11@0.1.2
+- pkg:maven/com.jayantkrish.pnp/pnp_2.11@0.1.2?classifier=sources

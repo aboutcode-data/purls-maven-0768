@@ -1,4 +1,6 @@
 - pkg:maven/ga.babababa/booster-core-datamanager@0.0.1
+- pkg:maven/ga.babababa/booster-core-datamanager@0.0.10
+- pkg:maven/ga.babababa/booster-core-datamanager@0.0.10?classifier=sources
 - pkg:maven/ga.babababa/booster-core-datamanager@0.0.1?classifier=sources
 - pkg:maven/ga.babababa/booster-core-datamanager@0.0.2
 - pkg:maven/ga.babababa/booster-core-datamanager@0.0.2?classifier=sources

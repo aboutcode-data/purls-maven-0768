@@ -18,6 +18,8 @@
 - pkg:maven/org.jlot/jlot-web@0.111?type=war
 - pkg:maven/org.jlot/jlot-web@0.112?classifier=sources
 - pkg:maven/org.jlot/jlot-web@0.112?type=war
+- pkg:maven/org.jlot/jlot-web@0.113?classifier=sources
+- pkg:maven/org.jlot/jlot-web@0.113?type=war
 - pkg:maven/org.jlot/jlot-web@0.87?classifier=sources
 - pkg:maven/org.jlot/jlot-web@0.87?type=war
 - pkg:maven/org.jlot/jlot-web@0.90?classifier=sources
@@ -38,3 +40,7 @@
 - pkg:maven/org.jlot/jlot-web@0.98?type=war
 - pkg:maven/org.jlot/jlot-web@0.99?classifier=sources
 - pkg:maven/org.jlot/jlot-web@0.99?type=war
+- pkg:maven/org.jlot/jlot-web@1.0?classifier=sources
+- pkg:maven/org.jlot/jlot-web@1.0?type=war
+- pkg:maven/org.jlot/jlot-web@1.2?classifier=sources
+- pkg:maven/org.jlot/jlot-web@1.2?type=war

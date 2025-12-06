@@ -8,3 +8,5 @@
 - pkg:maven/io.maelstorm/maelstorm@2.5-CR3?classifier=sources
 - pkg:maven/io.maelstorm/maelstorm@2.5-CR4
 - pkg:maven/io.maelstorm/maelstorm@2.5-CR4?classifier=sources
+- pkg:maven/io.maelstorm/maelstorm@2.5-CR6
+- pkg:maven/io.maelstorm/maelstorm@2.5-CR6?classifier=sources

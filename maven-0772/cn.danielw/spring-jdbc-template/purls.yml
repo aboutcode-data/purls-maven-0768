@@ -1,0 +1,2 @@
+- pkg:maven/cn.danielw/spring-jdbc-template@0.2.1
+- pkg:maven/cn.danielw/spring-jdbc-template@0.2.1?classifier=sources

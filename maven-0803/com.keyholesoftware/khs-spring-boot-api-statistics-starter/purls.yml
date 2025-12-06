@@ -1,0 +1,2 @@
+- pkg:maven/com.keyholesoftware/khs-spring-boot-api-statistics-starter@1.0.1
+- pkg:maven/com.keyholesoftware/khs-spring-boot-api-statistics-starter@1.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.scullxbones/akka-persistence-mongo-rxmongo_2.12@1.4.0
+- pkg:maven/com.github.scullxbones/akka-persistence-mongo-rxmongo_2.12@1.4.0?classifier=sources
+- pkg:maven/com.github.scullxbones/akka-persistence-mongo-rxmongo_2.12@1.4.1
+- pkg:maven/com.github.scullxbones/akka-persistence-mongo-rxmongo_2.12@1.4.1?classifier=sources

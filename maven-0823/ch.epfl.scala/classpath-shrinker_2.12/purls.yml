@@ -1,0 +1,4 @@
+- pkg:maven/ch.epfl.scala/classpath-shrinker_2.12@0.1.0
+- pkg:maven/ch.epfl.scala/classpath-shrinker_2.12@0.1.0?classifier=sources
+- pkg:maven/ch.epfl.scala/classpath-shrinker_2.12@0.1.1
+- pkg:maven/ch.epfl.scala/classpath-shrinker_2.12@0.1.1?classifier=sources

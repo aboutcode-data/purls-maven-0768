@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/jsdom@0.8.11
 - pkg:maven/org.webjars.npm/jsdom@0.8.11?classifier=sources
+- pkg:maven/org.webjars.npm/jsdom@1.0.0
+- pkg:maven/org.webjars.npm/jsdom@1.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/jsdom@5.4.3
 - pkg:maven/org.webjars.npm/jsdom@5.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/jsdom@7.0.2
@@ -10,9 +12,13 @@
 - pkg:maven/org.webjars.npm/jsdom@8.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/jsdom@8.3.0
 - pkg:maven/org.webjars.npm/jsdom@8.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/jsdom@9.12.0
+- pkg:maven/org.webjars.npm/jsdom@9.12.0?classifier=sources
 - pkg:maven/org.webjars.npm/jsdom@9.2.1
 - pkg:maven/org.webjars.npm/jsdom@9.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/jsdom@9.4.1
 - pkg:maven/org.webjars.npm/jsdom@9.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/jsdom@9.4.5
 - pkg:maven/org.webjars.npm/jsdom@9.4.5?classifier=sources
+- pkg:maven/org.webjars.npm/jsdom@9.8.3
+- pkg:maven/org.webjars.npm/jsdom@9.8.3?classifier=sources

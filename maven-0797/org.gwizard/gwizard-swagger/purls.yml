@@ -1,0 +1,4 @@
+- pkg:maven/org.gwizard/gwizard-swagger@0.7
+- pkg:maven/org.gwizard/gwizard-swagger@0.7?classifier=sources
+- pkg:maven/org.gwizard/gwizard-swagger@0.8
+- pkg:maven/org.gwizard/gwizard-swagger@0.8?classifier=sources

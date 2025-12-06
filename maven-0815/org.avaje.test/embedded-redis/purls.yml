@@ -1,0 +1,2 @@
+- pkg:maven/org.avaje.test/embedded-redis@1.1
+- pkg:maven/org.avaje.test/embedded-redis@1.1?classifier=sources

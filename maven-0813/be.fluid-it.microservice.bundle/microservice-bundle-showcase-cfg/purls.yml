@@ -2,5 +2,13 @@
 - pkg:maven/be.fluid-it.microservice.bundle/microservice-bundle-showcase-cfg@0.1-10?classifier=sources
 - pkg:maven/be.fluid-it.microservice.bundle/microservice-bundle-showcase-cfg@0.1-12
 - pkg:maven/be.fluid-it.microservice.bundle/microservice-bundle-showcase-cfg@0.1-12?classifier=sources
+- pkg:maven/be.fluid-it.microservice.bundle/microservice-bundle-showcase-cfg@0.1-13
+- pkg:maven/be.fluid-it.microservice.bundle/microservice-bundle-showcase-cfg@0.1-13?classifier=sources
+- pkg:maven/be.fluid-it.microservice.bundle/microservice-bundle-showcase-cfg@0.1-14
+- pkg:maven/be.fluid-it.microservice.bundle/microservice-bundle-showcase-cfg@0.1-14?classifier=sources
+- pkg:maven/be.fluid-it.microservice.bundle/microservice-bundle-showcase-cfg@0.1-15
+- pkg:maven/be.fluid-it.microservice.bundle/microservice-bundle-showcase-cfg@0.1-15?classifier=sources
+- pkg:maven/be.fluid-it.microservice.bundle/microservice-bundle-showcase-cfg@0.1-16
+- pkg:maven/be.fluid-it.microservice.bundle/microservice-bundle-showcase-cfg@0.1-16?classifier=sources
 - pkg:maven/be.fluid-it.microservice.bundle/microservice-bundle-showcase-cfg@0.1-9
 - pkg:maven/be.fluid-it.microservice.bundle/microservice-bundle-showcase-cfg@0.1-9?classifier=sources

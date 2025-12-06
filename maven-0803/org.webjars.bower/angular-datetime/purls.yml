@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.bower/angular-datetime@2.0.0?classifier=sources
 - pkg:maven/org.webjars.bower/angular-datetime@3.2.2
 - pkg:maven/org.webjars.bower/angular-datetime@3.2.2?classifier=sources
+- pkg:maven/org.webjars.bower/angular-datetime@4.1.0
+- pkg:maven/org.webjars.bower/angular-datetime@4.1.0?classifier=sources
+- pkg:maven/org.webjars.bower/angular-datetime@5.0.0
+- pkg:maven/org.webjars.bower/angular-datetime@5.0.0?classifier=sources

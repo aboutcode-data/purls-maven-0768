@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars/chai@1.9.1
+- pkg:maven/org.webjars/chai@3.5.0

@@ -1,0 +1,8 @@
+- pkg:maven/com.sprylab.webinloop/ant-webinloop-task@0.8.4
+- pkg:maven/com.sprylab.webinloop/ant-webinloop-task@0.8.4?classifier=sources
+- pkg:maven/com.sprylab.webinloop/ant-webinloop-task@0.8.5
+- pkg:maven/com.sprylab.webinloop/ant-webinloop-task@0.8.5?classifier=sources
+- pkg:maven/com.sprylab.webinloop/ant-webinloop-task@0.8.6
+- pkg:maven/com.sprylab.webinloop/ant-webinloop-task@0.8.6?classifier=sources
+- pkg:maven/com.sprylab.webinloop/ant-webinloop-task@0.8.7
+- pkg:maven/com.sprylab.webinloop/ant-webinloop-task@0.8.7?classifier=sources

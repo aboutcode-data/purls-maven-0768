@@ -1,0 +1,4 @@
+- pkg:maven/fr.lirmm.graphik/graal-kb@1.3.a0
+- pkg:maven/fr.lirmm.graphik/graal-kb@1.3.a0?classifier=sources
+- pkg:maven/fr.lirmm.graphik/graal-kb@1.3.a1
+- pkg:maven/fr.lirmm.graphik/graal-kb@1.3.a1?classifier=sources

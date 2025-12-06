@@ -10,3 +10,5 @@
 - pkg:maven/com.ryanharter.auto.value/auto-value-parcel-adapter@0.2.3-rc2?classifier=sources
 - pkg:maven/com.ryanharter.auto.value/auto-value-parcel-adapter@0.2.4-rc2
 - pkg:maven/com.ryanharter.auto.value/auto-value-parcel-adapter@0.2.4-rc2?classifier=sources
+- pkg:maven/com.ryanharter.auto.value/auto-value-parcel-adapter@0.2.5
+- pkg:maven/com.ryanharter.auto.value/auto-value-parcel-adapter@0.2.5?classifier=sources

@@ -48,3 +48,17 @@
 - pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@6.6.2?classifier=sources
 - pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@6.6.3
 - pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@6.6.3?classifier=sources
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@6.8.0
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@6.8.0?classifier=sources
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@6.8.1
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@6.8.1?classifier=sources
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@6.8.2
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@6.8.2?classifier=sources
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@6.8.3
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@6.8.3?classifier=sources
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@6.8.4
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@6.8.4?classifier=sources
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.0.0
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.0.0?classifier=sources
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.0.1
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/react-tether@0.5.2
+- pkg:maven/org.webjars.bower/react-tether@0.5.2?classifier=sources

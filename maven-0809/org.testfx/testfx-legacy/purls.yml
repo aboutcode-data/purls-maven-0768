@@ -8,3 +8,7 @@
 - pkg:maven/org.testfx/testfx-legacy@4.0.3-alpha?classifier=sources
 - pkg:maven/org.testfx/testfx-legacy@4.0.4-alpha
 - pkg:maven/org.testfx/testfx-legacy@4.0.4-alpha?classifier=sources
+- pkg:maven/org.testfx/testfx-legacy@4.0.5-alpha
+- pkg:maven/org.testfx/testfx-legacy@4.0.5-alpha?classifier=sources
+- pkg:maven/org.testfx/testfx-legacy@4.0.6-alpha
+- pkg:maven/org.testfx/testfx-legacy@4.0.6-alpha?classifier=sources

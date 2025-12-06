@@ -1,0 +1,2 @@
+- pkg:maven/com.pkrete.xrd4j/common@0.0.17
+- pkg:maven/com.pkrete.xrd4j/common@0.0.17?classifier=sources

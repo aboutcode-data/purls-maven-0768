@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/filecache-txn_2.12@0.3.4
+- pkg:maven/de.sciss/filecache-txn_2.12@0.3.4?classifier=sources

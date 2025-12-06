@@ -1,0 +1,2 @@
+- pkg:maven/org.coodex/shared-cache@0.2.0
+- pkg:maven/org.coodex/shared-cache@0.2.0?classifier=sources

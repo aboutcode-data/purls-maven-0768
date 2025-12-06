@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/assert-plus@0.1.5?classifier=sources
 - pkg:maven/org.webjars.npm/assert-plus@0.2.0
 - pkg:maven/org.webjars.npm/assert-plus@0.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/assert-plus@1.0.0
+- pkg:maven/org.webjars.npm/assert-plus@1.0.0?classifier=sources

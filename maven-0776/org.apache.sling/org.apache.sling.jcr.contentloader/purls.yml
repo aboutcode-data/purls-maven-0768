@@ -23,3 +23,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.contentloader@2.1.8
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.contentloader@2.1.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.contentloader@2.1.8?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.contentloader@2.2.0
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.contentloader@2.2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.contentloader@2.2.0?classifier=sources

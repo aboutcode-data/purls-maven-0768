@@ -53,3 +53,4 @@
 - pkg:maven/org.jbehave.web/jbehave-web-distribution@3.5?classifier=src&type=zip
 - pkg:maven/org.jbehave.web/jbehave-web-distribution@3.6-beta-1?classifier=src&type=zip
 - pkg:maven/org.jbehave.web/jbehave-web-distribution@3.6-beta-2?classifier=src&type=zip
+- pkg:maven/org.jbehave.web/jbehave-web-distribution@4.0-beta-1?classifier=src&type=zip

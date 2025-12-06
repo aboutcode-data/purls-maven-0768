@@ -1,0 +1,2 @@
+- pkg:maven/org.geolatte/geolatte-graph@0.3
+- pkg:maven/org.geolatte/geolatte-graph@0.3?classifier=sources

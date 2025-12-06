@@ -28,3 +28,5 @@
 - pkg:maven/fr.xebia.extras/selma@0.8?classifier=sources
 - pkg:maven/fr.xebia.extras/selma@0.9
 - pkg:maven/fr.xebia.extras/selma@0.9?classifier=sources
+- pkg:maven/fr.xebia.extras/selma@1.0
+- pkg:maven/fr.xebia.extras/selma@1.0?classifier=sources

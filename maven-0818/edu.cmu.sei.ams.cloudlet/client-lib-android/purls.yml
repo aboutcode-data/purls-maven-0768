@@ -10,3 +10,5 @@
 - pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@2.2.0?classifier=sources
 - pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@2.3.0
 - pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@2.3.0?classifier=sources
+- pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@3.0.0?classifier=sources
+- pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@3.0.0?type=aar

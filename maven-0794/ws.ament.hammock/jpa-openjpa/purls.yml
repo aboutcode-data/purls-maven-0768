@@ -1,0 +1,6 @@
+- pkg:maven/ws.ament.hammock/jpa-openjpa@0.5.0
+- pkg:maven/ws.ament.hammock/jpa-openjpa@1.0
+- pkg:maven/ws.ament.hammock/jpa-openjpa@1.1
+- pkg:maven/ws.ament.hammock/jpa-openjpa@1.2
+- pkg:maven/ws.ament.hammock/jpa-openjpa@1.2.1
+- pkg:maven/ws.ament.hammock/jpa-openjpa@1.3

@@ -1,0 +1,6 @@
+- pkg:maven/com.typesafe.play/play-json_sjs0.6_2.10@2.6.0-M6
+- pkg:maven/com.typesafe.play/play-json_sjs0.6_2.10@2.6.0-M6?classifier=sources
+- pkg:maven/com.typesafe.play/play-json_sjs0.6_2.10@2.6.0-M7
+- pkg:maven/com.typesafe.play/play-json_sjs0.6_2.10@2.6.0-M7?classifier=sources
+- pkg:maven/com.typesafe.play/play-json_sjs0.6_2.10@2.6.0-RC1
+- pkg:maven/com.typesafe.play/play-json_sjs0.6_2.10@2.6.0-RC1?classifier=sources

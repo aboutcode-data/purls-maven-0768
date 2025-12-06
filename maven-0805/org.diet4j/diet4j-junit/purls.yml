@@ -1,0 +1,2 @@
+- pkg:maven/org.diet4j/diet4j-junit@0.15
+- pkg:maven/org.diet4j/diet4j-junit@0.15?classifier=sources

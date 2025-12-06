@@ -1,0 +1,4 @@
+- pkg:maven/se.kth.infosys.log4j2/bunyan-layout@2.0.0
+- pkg:maven/se.kth.infosys.log4j2/bunyan-layout@2.0.0?classifier=sources
+- pkg:maven/se.kth.infosys.log4j2/bunyan-layout@2.0.1
+- pkg:maven/se.kth.infosys.log4j2/bunyan-layout@2.0.1?classifier=sources

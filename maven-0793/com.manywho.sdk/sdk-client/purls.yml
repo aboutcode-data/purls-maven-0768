@@ -20,3 +20,5 @@
 - pkg:maven/com.manywho.sdk/sdk-client@1.23.0?classifier=sources
 - pkg:maven/com.manywho.sdk/sdk-client@1.24.0
 - pkg:maven/com.manywho.sdk/sdk-client@1.24.0?classifier=sources
+- pkg:maven/com.manywho.sdk/sdk-client@1.25.0
+- pkg:maven/com.manywho.sdk/sdk-client@1.25.0?classifier=sources

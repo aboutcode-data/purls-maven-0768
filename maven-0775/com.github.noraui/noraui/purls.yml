@@ -1,0 +1,8 @@
+- pkg:maven/com.github.noraui/noraui@2.0.0
+- pkg:maven/com.github.noraui/noraui@2.0.0?classifier=sources
+- pkg:maven/com.github.noraui/noraui@2.1.0
+- pkg:maven/com.github.noraui/noraui@2.1.0?classifier=sources
+- pkg:maven/com.github.noraui/noraui@2.3.0
+- pkg:maven/com.github.noraui/noraui@2.3.0?classifier=sources
+- pkg:maven/com.github.noraui/noraui@2.4.0
+- pkg:maven/com.github.noraui/noraui@2.4.0?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.bower/angular-selectize2@1.2.1
 - pkg:maven/org.webjars.bower/angular-selectize2@1.2.1?classifier=sources
+- pkg:maven/org.webjars.bower/angular-selectize2@1.2.3
+- pkg:maven/org.webjars.bower/angular-selectize2@1.2.3?classifier=sources
 - pkg:maven/org.webjars.bower/angular-selectize2@3.0.1
 - pkg:maven/org.webjars.bower/angular-selectize2@3.0.1?classifier=sources

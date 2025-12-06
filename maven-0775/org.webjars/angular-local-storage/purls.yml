@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars/angular-local-storage@0.1.5
 - pkg:maven/org.webjars/angular-local-storage@0.2.1
 - pkg:maven/org.webjars/angular-local-storage@0.2.7
+- pkg:maven/org.webjars/angular-local-storage@0.5.2

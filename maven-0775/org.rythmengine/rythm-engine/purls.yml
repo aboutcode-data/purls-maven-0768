@@ -10,3 +10,7 @@
 - pkg:maven/org.rythmengine/rythm-engine@1.0?classifier=sources
 - pkg:maven/org.rythmengine/rythm-engine@1.1.5
 - pkg:maven/org.rythmengine/rythm-engine@1.1.5?classifier=sources
+- pkg:maven/org.rythmengine/rythm-engine@1.1.7
+- pkg:maven/org.rythmengine/rythm-engine@1.1.7?classifier=sources
+- pkg:maven/org.rythmengine/rythm-engine@1.2.0
+- pkg:maven/org.rythmengine/rythm-engine@1.2.0?classifier=sources

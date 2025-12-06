@@ -1,0 +1,2 @@
+- pkg:maven/com.bazaarvoice/sswf-guava-20_2.11@5.2
+- pkg:maven/com.bazaarvoice/sswf-guava-20_2.11@5.2?classifier=sources

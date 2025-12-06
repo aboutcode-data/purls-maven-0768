@@ -4,5 +4,7 @@
 - pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone-autostart@1.0.0.Alpha13
 - pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone-autostart@1.0.0.Alpha14
 - pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone-autostart@1.0.0.Alpha15
+- pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone-autostart@1.0.0.Alpha16
+- pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone-autostart@1.0.0.Alpha17
 - pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone-autostart@1.0.0.Alpha8
 - pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone-autostart@1.0.0.Alpha9

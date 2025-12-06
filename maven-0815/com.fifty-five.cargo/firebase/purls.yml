@@ -1,0 +1,8 @@
+- pkg:maven/com.fifty-five.cargo/firebase@1.0.1-beta?classifier=sources
+- pkg:maven/com.fifty-five.cargo/firebase@1.0.1-beta?type=aar
+- pkg:maven/com.fifty-five.cargo/firebase@1.0.1?classifier=sources
+- pkg:maven/com.fifty-five.cargo/firebase@1.0.1?type=aar
+- pkg:maven/com.fifty-five.cargo/firebase@1.0.2?classifier=sources
+- pkg:maven/com.fifty-five.cargo/firebase@1.0.2?type=aar
+- pkg:maven/com.fifty-five.cargo/firebase@2.0.0-beta?classifier=sources
+- pkg:maven/com.fifty-five.cargo/firebase@2.0.0-beta?type=aar

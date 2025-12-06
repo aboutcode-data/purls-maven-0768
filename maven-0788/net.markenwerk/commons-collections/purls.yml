@@ -1,0 +1,2 @@
+- pkg:maven/net.markenwerk/commons-collections@1.0.0
+- pkg:maven/net.markenwerk/commons-collections@1.0.0?classifier=sources

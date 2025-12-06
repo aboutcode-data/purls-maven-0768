@@ -1,0 +1,2 @@
+- pkg:maven/org.squeryl/squeryl_2.12.0-RC2@0.9.7
+- pkg:maven/org.squeryl/squeryl_2.12.0-RC2@0.9.7?classifier=sources

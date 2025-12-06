@@ -1,0 +1,2 @@
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.8.0?classifier=sources
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.8.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/pdfjs-dist-viewer-min@1.8.188
+- pkg:maven/org.webjars.npm/pdfjs-dist-viewer-min@1.8.188?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.att.ajsc/sdk-java-restlet-archetype@6.2.0.4-oss?classifier=sources
+- pkg:maven/com.att.ajsc/sdk-java-restlet-archetype@6.2.0.4?classifier=sources

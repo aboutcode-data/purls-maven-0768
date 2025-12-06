@@ -1,0 +1,4 @@
+- pkg:maven/com.att.ajsc/sdk-java-common-interceptors@6.1.0.6
+- pkg:maven/com.att.ajsc/sdk-java-common-interceptors@6.1.0.6-oss
+- pkg:maven/com.att.ajsc/sdk-java-common-interceptors@6.1.0.6-oss?classifier=sources
+- pkg:maven/com.att.ajsc/sdk-java-common-interceptors@6.1.0.6?classifier=sources

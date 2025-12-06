@@ -1,0 +1,2 @@
+- pkg:maven/org.lyranthe.prometheus/protobuf_2.12.0-RC2@0.4.0
+- pkg:maven/org.lyranthe.prometheus/protobuf_2.12.0-RC2@0.4.0?classifier=sources

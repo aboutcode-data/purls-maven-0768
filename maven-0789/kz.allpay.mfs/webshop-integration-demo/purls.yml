@@ -1,0 +1,2 @@
+- pkg:maven/kz.allpay.mfs/webshop-integration-demo@2.0.8.1?classifier=sources
+- pkg:maven/kz.allpay.mfs/webshop-integration-demo@2.0.8.1?type=war

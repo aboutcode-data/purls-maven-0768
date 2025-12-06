@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/cronstrue@0.10.7
+- pkg:maven/org.webjars.npm/cronstrue@0.10.7?classifier=sources

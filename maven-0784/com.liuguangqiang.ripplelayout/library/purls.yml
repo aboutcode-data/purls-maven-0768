@@ -1,0 +1,2 @@
+- pkg:maven/com.liuguangqiang.ripplelayout/library@0.1.0?classifier=sources
+- pkg:maven/com.liuguangqiang.ripplelayout/library@0.1.0?type=aar

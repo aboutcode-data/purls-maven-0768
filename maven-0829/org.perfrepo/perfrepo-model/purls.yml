@@ -6,3 +6,5 @@
 - pkg:maven/org.perfrepo/perfrepo-model@1.5?classifier=sources
 - pkg:maven/org.perfrepo/perfrepo-model@1.6
 - pkg:maven/org.perfrepo/perfrepo-model@1.6?classifier=sources
+- pkg:maven/org.perfrepo/perfrepo-model@1.7
+- pkg:maven/org.perfrepo/perfrepo-model@1.7?classifier=sources

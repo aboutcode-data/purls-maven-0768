@@ -6,3 +6,5 @@
 - pkg:maven/edu.berkeley.cs.amplab/keystoneml_2.10@0.2?classifier=sources
 - pkg:maven/edu.berkeley.cs.amplab/keystoneml_2.10@0.3.0
 - pkg:maven/edu.berkeley.cs.amplab/keystoneml_2.10@0.3.0?classifier=sources
+- pkg:maven/edu.berkeley.cs.amplab/keystoneml_2.10@0.4.0
+- pkg:maven/edu.berkeley.cs.amplab/keystoneml_2.10@0.4.0?classifier=sources

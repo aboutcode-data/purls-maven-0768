@@ -1,2 +1,4 @@
 - pkg:maven/org.langrid/axis-java8@1.4
+- pkg:maven/org.langrid/axis-java8@1.4-patch.2
+- pkg:maven/org.langrid/axis-java8@1.4-patch.2?classifier=sources
 - pkg:maven/org.langrid/axis-java8@1.4?classifier=sources

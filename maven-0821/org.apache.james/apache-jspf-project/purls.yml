@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.james/apache-jspf-project@0.9.9?classifier=src&type=zip
 - pkg:maven/org.apache.james/apache-jspf-project@1.0.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.james/apache-jspf-project@1.0.0?classifier=src&type=zip
+- pkg:maven/org.apache.james/apache-jspf-project@1.0.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.james/apache-jspf-project@1.0.1?classifier=src&type=zip

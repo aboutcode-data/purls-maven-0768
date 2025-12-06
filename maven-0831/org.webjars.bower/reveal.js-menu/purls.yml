@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/reveal.js-menu@0.7.1
+- pkg:maven/org.webjars.bower/reveal.js-menu@0.7.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/ru.pavkin/dtc-moment_sjs0.6_2.12@0.8.0
+- pkg:maven/ru.pavkin/dtc-moment_sjs0.6_2.12@0.8.0?classifier=sources
+- pkg:maven/ru.pavkin/dtc-moment_sjs0.6_2.12@1.0.0
+- pkg:maven/ru.pavkin/dtc-moment_sjs0.6_2.12@1.0.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib@2.1.0?classifier=sources
 - pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib@2.2.0
 - pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib@2.2.0?classifier=sources
+- pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib@3.0.0
+- pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib@3.0.0?classifier=sources

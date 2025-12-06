@@ -1,0 +1,4 @@
+- pkg:maven/org.frontcache/frontcache-console@0.9.2
+- pkg:maven/org.frontcache/frontcache-console@0.9.2?classifier=sources
+- pkg:maven/org.frontcache/frontcache-console@1.0.0
+- pkg:maven/org.frontcache/frontcache-console@1.0.0?classifier=sources

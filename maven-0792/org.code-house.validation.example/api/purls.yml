@@ -1,0 +1,2 @@
+- pkg:maven/org.code-house.validation.example/api@4.0.0
+- pkg:maven/org.code-house.validation.example/api@4.0.0?classifier=sources

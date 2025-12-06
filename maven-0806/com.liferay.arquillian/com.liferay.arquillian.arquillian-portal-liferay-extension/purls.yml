@@ -3,3 +3,5 @@
 - pkg:maven/com.liferay.arquillian/com.liferay.arquillian.arquillian-portal-liferay-extension@1.0.2
 - pkg:maven/com.liferay.arquillian/com.liferay.arquillian.arquillian-portal-liferay-extension@1.0.3
 - pkg:maven/com.liferay.arquillian/com.liferay.arquillian.arquillian-portal-liferay-extension@1.0.4
+- pkg:maven/com.liferay.arquillian/com.liferay.arquillian.arquillian-portal-liferay-extension@1.0.5
+- pkg:maven/com.liferay.arquillian/com.liferay.arquillian.arquillian-portal-liferay-extension@1.0.6

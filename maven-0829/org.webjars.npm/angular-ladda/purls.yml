@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angular-ladda@0.4.3
+- pkg:maven/org.webjars.npm/angular-ladda@0.4.3?classifier=sources

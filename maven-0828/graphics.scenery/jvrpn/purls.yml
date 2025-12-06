@@ -1,0 +1,2 @@
+- pkg:maven/graphics.scenery/jvrpn@1.0.0
+- pkg:maven/graphics.scenery/jvrpn@1.0.0?classifier=sources

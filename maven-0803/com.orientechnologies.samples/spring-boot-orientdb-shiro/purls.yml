@@ -4,3 +4,5 @@
 - pkg:maven/com.orientechnologies.samples/spring-boot-orientdb-shiro@0.12?classifier=sources
 - pkg:maven/com.orientechnologies.samples/spring-boot-orientdb-shiro@0.13
 - pkg:maven/com.orientechnologies.samples/spring-boot-orientdb-shiro@0.13?classifier=sources
+- pkg:maven/com.orientechnologies.samples/spring-boot-orientdb-shiro@0.14rc1
+- pkg:maven/com.orientechnologies.samples/spring-boot-orientdb-shiro@0.14rc1?classifier=sources

@@ -6,6 +6,8 @@
 - pkg:maven/com.github.finagle/finch-core_2.10@0.11.0-M2?classifier=sources
 - pkg:maven/com.github.finagle/finch-core_2.10@0.11.0-M3
 - pkg:maven/com.github.finagle/finch-core_2.10@0.11.0-M3?classifier=sources
+- pkg:maven/com.github.finagle/finch-core_2.10@0.11.0-M4
+- pkg:maven/com.github.finagle/finch-core_2.10@0.11.0-M4?classifier=sources
 - pkg:maven/com.github.finagle/finch-core_2.10@0.2.0
 - pkg:maven/com.github.finagle/finch-core_2.10@0.2.0?classifier=sources
 - pkg:maven/com.github.finagle/finch-core_2.10@0.3.0

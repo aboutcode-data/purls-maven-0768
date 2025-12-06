@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.console.ssh@1.0.100
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.console.ssh@1.0.100?classifier=sources

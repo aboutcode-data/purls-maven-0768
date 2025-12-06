@@ -1,0 +1,2 @@
+- pkg:maven/com.github.christapley/windows-symbol-store-maven-plugin@1.0.0
+- pkg:maven/com.github.christapley/windows-symbol-store-maven-plugin@1.0.0?classifier=sources

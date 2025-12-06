@@ -1,2 +1,6 @@
 - pkg:maven/it.tidalwave.accounting/it-tidalwave-accounting-ui-commons@1.0-ALPHA-3
 - pkg:maven/it.tidalwave.accounting/it-tidalwave-accounting-ui-commons@1.0-ALPHA-3?classifier=sources
+- pkg:maven/it.tidalwave.accounting/it-tidalwave-accounting-ui-commons@1.0-ALPHA-4
+- pkg:maven/it.tidalwave.accounting/it-tidalwave-accounting-ui-commons@1.0-ALPHA-4?classifier=sources
+- pkg:maven/it.tidalwave.accounting/it-tidalwave-accounting-ui-commons@1.0-ALPHA-5
+- pkg:maven/it.tidalwave.accounting/it-tidalwave-accounting-ui-commons@1.0-ALPHA-5?classifier=sources

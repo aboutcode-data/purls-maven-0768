@@ -4,3 +4,11 @@
 - pkg:maven/de.kaufhof/json-home-client_2.11@1.0.0?classifier=sources
 - pkg:maven/de.kaufhof/json-home-client_2.11@2.0.0
 - pkg:maven/de.kaufhof/json-home-client_2.11@2.0.0?classifier=sources
+- pkg:maven/de.kaufhof/json-home-client_2.11@2.1.0
+- pkg:maven/de.kaufhof/json-home-client_2.11@2.1.0?classifier=sources
+- pkg:maven/de.kaufhof/json-home-client_2.11@2.2.0
+- pkg:maven/de.kaufhof/json-home-client_2.11@2.2.0?classifier=sources
+- pkg:maven/de.kaufhof/json-home-client_2.11@3.0.0
+- pkg:maven/de.kaufhof/json-home-client_2.11@3.0.0?classifier=sources
+- pkg:maven/de.kaufhof/json-home-client_2.11@3.0.1
+- pkg:maven/de.kaufhof/json-home-client_2.11@3.0.1?classifier=sources

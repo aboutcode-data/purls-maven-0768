@@ -10,3 +10,5 @@
 - pkg:maven/com.dev-smart/devsmart-android@0.1.5?type=aar
 - pkg:maven/com.dev-smart/devsmart-android@0.1.6?classifier=sources
 - pkg:maven/com.dev-smart/devsmart-android@0.1.6?type=aar
+- pkg:maven/com.dev-smart/devsmart-android@0.1.8?classifier=sources
+- pkg:maven/com.dev-smart/devsmart-android@0.1.8?type=aar

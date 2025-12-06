@@ -1,0 +1,7 @@
+- pkg:maven/uk.gov.gchq.gaffer/map-rest@0.6.4?type=war
+- pkg:maven/uk.gov.gchq.gaffer/map-rest@0.6.5?type=war
+- pkg:maven/uk.gov.gchq.gaffer/map-rest@0.6.6?type=war
+- pkg:maven/uk.gov.gchq.gaffer/map-rest@0.7.0?type=war
+- pkg:maven/uk.gov.gchq.gaffer/map-rest@0.7.1?type=war
+- pkg:maven/uk.gov.gchq.gaffer/map-rest@0.7.2?type=war
+- pkg:maven/uk.gov.gchq.gaffer/map-rest@0.7.3?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/hu.inbuss/thymeleaf-jersey@0.0.9
+- pkg:maven/hu.inbuss/thymeleaf-jersey@0.0.9?classifier=sources

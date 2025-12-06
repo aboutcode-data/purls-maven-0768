@@ -12,3 +12,5 @@
 - pkg:maven/de.juplo/hibernate4-maven-plugin@1.0?classifier=sources
 - pkg:maven/de.juplo/hibernate4-maven-plugin@1.1.0
 - pkg:maven/de.juplo/hibernate4-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/de.juplo/hibernate4-maven-plugin@1.1.1
+- pkg:maven/de.juplo/hibernate4-maven-plugin@1.1.1?classifier=sources

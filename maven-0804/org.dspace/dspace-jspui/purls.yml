@@ -39,6 +39,8 @@
 - pkg:maven/org.dspace/dspace-jspui@4.5?type=war
 - pkg:maven/org.dspace/dspace-jspui@4.6?classifier=sources
 - pkg:maven/org.dspace/dspace-jspui@4.6?type=war
+- pkg:maven/org.dspace/dspace-jspui@4.7?classifier=sources
+- pkg:maven/org.dspace/dspace-jspui@4.7?type=war
 - pkg:maven/org.dspace/dspace-jspui@5.0-rc1?classifier=sources
 - pkg:maven/org.dspace/dspace-jspui@5.0-rc1?type=war
 - pkg:maven/org.dspace/dspace-jspui@5.0-rc2?classifier=sources
@@ -65,3 +67,7 @@
 - pkg:maven/org.dspace/dspace-jspui@6.0-rc2?type=war
 - pkg:maven/org.dspace/dspace-jspui@6.0-rc3?classifier=sources
 - pkg:maven/org.dspace/dspace-jspui@6.0-rc3?type=war
+- pkg:maven/org.dspace/dspace-jspui@6.0-rc4?classifier=sources
+- pkg:maven/org.dspace/dspace-jspui@6.0-rc4?type=war
+- pkg:maven/org.dspace/dspace-jspui@6.0?classifier=sources
+- pkg:maven/org.dspace/dspace-jspui@6.0?type=war

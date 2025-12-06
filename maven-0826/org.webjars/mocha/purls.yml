@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars/mocha@2.0.1
 - pkg:maven/org.webjars/mocha@2.1.0
 - pkg:maven/org.webjars/mocha@2.2.1
+- pkg:maven/org.webjars/mocha@3.2.0

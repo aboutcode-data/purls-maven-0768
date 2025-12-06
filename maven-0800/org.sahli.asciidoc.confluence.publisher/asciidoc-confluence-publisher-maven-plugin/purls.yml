@@ -1,0 +1,2 @@
+- pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-maven-plugin@0.1.0
+- pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-maven-plugin@0.1.0?classifier=sources

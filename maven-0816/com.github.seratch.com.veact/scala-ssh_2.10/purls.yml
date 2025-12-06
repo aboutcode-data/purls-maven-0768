@@ -1,0 +1,2 @@
+- pkg:maven/com.github.seratch.com.veact/scala-ssh_2.10@0.8.0-1
+- pkg:maven/com.github.seratch.com.veact/scala-ssh_2.10@0.8.0-1?classifier=sources

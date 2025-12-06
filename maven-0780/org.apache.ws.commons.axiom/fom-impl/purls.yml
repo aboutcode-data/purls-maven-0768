@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.ws.commons.axiom/fom-impl@1.2.18?classifier=sources
 - pkg:maven/org.apache.ws.commons.axiom/fom-impl@1.2.19
 - pkg:maven/org.apache.ws.commons.axiom/fom-impl@1.2.19?classifier=sources
+- pkg:maven/org.apache.ws.commons.axiom/fom-impl@1.2.20
+- pkg:maven/org.apache.ws.commons.axiom/fom-impl@1.2.20?classifier=sources

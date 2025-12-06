@@ -1,3 +1,7 @@
+- pkg:maven/org.apache.twill/twill-ext@0.10.0
+- pkg:maven/org.apache.twill/twill-ext@0.10.0?classifier=sources
+- pkg:maven/org.apache.twill/twill-ext@0.11.0
+- pkg:maven/org.apache.twill/twill-ext@0.11.0?classifier=sources
 - pkg:maven/org.apache.twill/twill-ext@0.2.0-incubating
 - pkg:maven/org.apache.twill/twill-ext@0.2.0-incubating?classifier=sources
 - pkg:maven/org.apache.twill/twill-ext@0.3.0-incubating
@@ -14,3 +18,5 @@
 - pkg:maven/org.apache.twill/twill-ext@0.7.0-incubating?classifier=sources
 - pkg:maven/org.apache.twill/twill-ext@0.8.0
 - pkg:maven/org.apache.twill/twill-ext@0.8.0?classifier=sources
+- pkg:maven/org.apache.twill/twill-ext@0.9.0
+- pkg:maven/org.apache.twill/twill-ext@0.9.0?classifier=sources

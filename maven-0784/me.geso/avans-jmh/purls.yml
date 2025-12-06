@@ -1,0 +1,4 @@
+- pkg:maven/me.geso/avans-jmh@2.4.0
+- pkg:maven/me.geso/avans-jmh@2.4.0?classifier=sources
+- pkg:maven/me.geso/avans-jmh@2.5.0
+- pkg:maven/me.geso/avans-jmh@2.5.0?classifier=sources

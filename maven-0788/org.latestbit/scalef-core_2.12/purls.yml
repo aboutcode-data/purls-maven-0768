@@ -1,0 +1,2 @@
+- pkg:maven/org.latestbit/scalef-core_2.12@1.0
+- pkg:maven/org.latestbit/scalef-core_2.12@1.0?classifier=sources

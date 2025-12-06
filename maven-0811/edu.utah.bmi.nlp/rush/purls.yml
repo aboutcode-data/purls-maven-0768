@@ -1,0 +1,2 @@
+- pkg:maven/edu.utah.bmi.nlp/rush@1.0
+- pkg:maven/edu.utah.bmi.nlp/rush@1.0?classifier=sources

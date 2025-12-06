@@ -1,0 +1,4 @@
+- pkg:maven/cn.renyuzhuo.rjson/rjson@0.1.0?classifier=sources
+- pkg:maven/cn.renyuzhuo.rjson/rjson@0.1.0?type=aar
+- pkg:maven/cn.renyuzhuo.rjson/rjson@0.1.2?classifier=sources
+- pkg:maven/cn.renyuzhuo.rjson/rjson@0.1.2?type=aar

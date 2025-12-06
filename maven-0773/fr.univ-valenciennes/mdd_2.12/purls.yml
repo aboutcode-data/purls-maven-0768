@@ -1,0 +1,4 @@
+- pkg:maven/fr.univ-valenciennes/mdd_2.12@1.0.0
+- pkg:maven/fr.univ-valenciennes/mdd_2.12@1.0.0?classifier=sources
+- pkg:maven/fr.univ-valenciennes/mdd_2.12@1.1.0
+- pkg:maven/fr.univ-valenciennes/mdd_2.12@1.1.0?classifier=sources

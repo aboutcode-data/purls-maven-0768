@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.birt.runtime/com.ibm.icu@52.1.1.v201501240615?classifier=sources
 - pkg:maven/org.eclipse.birt.runtime/com.ibm.icu@54.1.1.v201501272100
 - pkg:maven/org.eclipse.birt.runtime/com.ibm.icu@54.1.1.v201501272100?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/com.ibm.icu@56.1.0.v201601250100
+- pkg:maven/org.eclipse.birt.runtime/com.ibm.icu@56.1.0.v201601250100?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/fr.bmartel/jspeedtest@1.24
+- pkg:maven/fr.bmartel/jspeedtest@1.24?classifier=sources
+- pkg:maven/fr.bmartel/jspeedtest@1.25
+- pkg:maven/fr.bmartel/jspeedtest@1.25?classifier=sources
+- pkg:maven/fr.bmartel/jspeedtest@1.26
+- pkg:maven/fr.bmartel/jspeedtest@1.26?classifier=sources
+- pkg:maven/fr.bmartel/jspeedtest@1.30
+- pkg:maven/fr.bmartel/jspeedtest@1.30?classifier=sources

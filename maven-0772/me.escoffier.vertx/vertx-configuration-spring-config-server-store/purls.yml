@@ -1,0 +1,2 @@
+- pkg:maven/me.escoffier.vertx/vertx-configuration-spring-config-server-store@0.1.0
+- pkg:maven/me.escoffier.vertx/vertx-configuration-spring-config-server-store@0.1.0?classifier=sources

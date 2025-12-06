@@ -1,0 +1,12 @@
+- pkg:maven/com.payintech/play-ebean_2.11@16.11
+- pkg:maven/com.payintech/play-ebean_2.11@16.11?classifier=sources
+- pkg:maven/com.payintech/play-ebean_2.11@16.12
+- pkg:maven/com.payintech/play-ebean_2.11@16.12?classifier=sources
+- pkg:maven/com.payintech/play-ebean_2.11@17.01
+- pkg:maven/com.payintech/play-ebean_2.11@17.01?classifier=sources
+- pkg:maven/com.payintech/play-ebean_2.11@17.02
+- pkg:maven/com.payintech/play-ebean_2.11@17.02?classifier=sources
+- pkg:maven/com.payintech/play-ebean_2.11@17.03
+- pkg:maven/com.payintech/play-ebean_2.11@17.03?classifier=sources
+- pkg:maven/com.payintech/play-ebean_2.11@17.04
+- pkg:maven/com.payintech/play-ebean_2.11@17.04?classifier=sources

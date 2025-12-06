@@ -2,3 +2,7 @@
 - pkg:maven/com.stormpath.shiro/stormpath-shiro-servlet-example@0.7.0?type=war
 - pkg:maven/com.stormpath.shiro/stormpath-shiro-servlet-example@0.7.1?classifier=sources
 - pkg:maven/com.stormpath.shiro/stormpath-shiro-servlet-example@0.7.1?type=war
+- pkg:maven/com.stormpath.shiro/stormpath-shiro-servlet-example@0.7.2?classifier=sources
+- pkg:maven/com.stormpath.shiro/stormpath-shiro-servlet-example@0.7.2?type=war
+- pkg:maven/com.stormpath.shiro/stormpath-shiro-servlet-example@0.8.0-RC1?classifier=sources
+- pkg:maven/com.stormpath.shiro/stormpath-shiro-servlet-example@0.8.0-RC1?type=war

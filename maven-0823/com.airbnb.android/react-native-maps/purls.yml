@@ -1,3 +1,11 @@
+- pkg:maven/com.airbnb.android/react-native-maps@0.10.4?classifier=sources
+- pkg:maven/com.airbnb.android/react-native-maps@0.10.4?type=aar
+- pkg:maven/com.airbnb.android/react-native-maps@0.12.1?classifier=sources
+- pkg:maven/com.airbnb.android/react-native-maps@0.12.1?type=aar
+- pkg:maven/com.airbnb.android/react-native-maps@0.13.1?classifier=sources
+- pkg:maven/com.airbnb.android/react-native-maps@0.13.1?type=aar
+- pkg:maven/com.airbnb.android/react-native-maps@0.15.0?classifier=sources
+- pkg:maven/com.airbnb.android/react-native-maps@0.15.0?type=aar
 - pkg:maven/com.airbnb.android/react-native-maps@0.4.1?classifier=sources
 - pkg:maven/com.airbnb.android/react-native-maps@0.4.1?type=aar
 - pkg:maven/com.airbnb.android/react-native-maps@0.5.0?classifier=sources

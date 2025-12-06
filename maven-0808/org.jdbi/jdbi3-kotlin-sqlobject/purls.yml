@@ -1,0 +1,2 @@
+- pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.0.0-beta1
+- pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.0.0-beta1?classifier=sources

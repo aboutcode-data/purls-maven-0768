@@ -6,3 +6,5 @@
 - pkg:maven/org.aksw.commons/aksw-commons-util@0.7.9?classifier=sources
 - pkg:maven/org.aksw.commons/aksw-commons-util@0.8.0
 - pkg:maven/org.aksw.commons/aksw-commons-util@0.8.0?classifier=sources
+- pkg:maven/org.aksw.commons/aksw-commons-util@0.8.1
+- pkg:maven/org.aksw.commons/aksw-commons-util@0.8.1?classifier=sources

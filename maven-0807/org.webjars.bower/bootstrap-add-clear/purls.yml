@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/bootstrap-add-clear@1.0.7
+- pkg:maven/org.webjars.bower/bootstrap-add-clear@1.0.7?classifier=sources

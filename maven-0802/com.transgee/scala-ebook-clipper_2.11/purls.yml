@@ -1,0 +1,2 @@
+- pkg:maven/com.transgee/scala-ebook-clipper_2.11@1.0.0
+- pkg:maven/com.transgee/scala-ebook-clipper_2.11@1.0.0?classifier=sources

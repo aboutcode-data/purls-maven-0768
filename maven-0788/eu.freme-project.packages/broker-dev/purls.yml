@@ -1,0 +1,8 @@
+- pkg:maven/eu.freme-project.packages/broker-dev@0.14
+- pkg:maven/eu.freme-project.packages/broker-dev@0.14?classifier=sources
+- pkg:maven/eu.freme-project.packages/broker-dev@0.15
+- pkg:maven/eu.freme-project.packages/broker-dev@0.15?classifier=sources
+- pkg:maven/eu.freme-project.packages/broker-dev@1.0
+- pkg:maven/eu.freme-project.packages/broker-dev@1.0?classifier=sources
+- pkg:maven/eu.freme-project.packages/broker-dev@1.1
+- pkg:maven/eu.freme-project.packages/broker-dev@1.1?classifier=sources

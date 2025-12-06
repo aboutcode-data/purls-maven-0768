@@ -1,0 +1,4 @@
+- pkg:maven/com.github.japgolly.fork.upickle/upickle_2.12@custom-6
+- pkg:maven/com.github.japgolly.fork.upickle/upickle_2.12@custom-6?classifier=sources
+- pkg:maven/com.github.japgolly.fork.upickle/upickle_2.12@custom-7
+- pkg:maven/com.github.japgolly.fork.upickle/upickle_2.12@custom-7?classifier=sources

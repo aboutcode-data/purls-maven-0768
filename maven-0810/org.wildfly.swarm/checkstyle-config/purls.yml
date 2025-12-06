@@ -1,0 +1,6 @@
+- pkg:maven/org.wildfly.swarm/checkstyle-config@1
+- pkg:maven/org.wildfly.swarm/checkstyle-config@1?classifier=sources
+- pkg:maven/org.wildfly.swarm/checkstyle-config@2
+- pkg:maven/org.wildfly.swarm/checkstyle-config@2?classifier=sources
+- pkg:maven/org.wildfly.swarm/checkstyle-config@3
+- pkg:maven/org.wildfly.swarm/checkstyle-config@3?classifier=sources

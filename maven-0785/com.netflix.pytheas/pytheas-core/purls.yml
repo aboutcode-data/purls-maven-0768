@@ -32,3 +32,5 @@
 - pkg:maven/com.netflix.pytheas/pytheas-core@1.28.0?classifier=sources
 - pkg:maven/com.netflix.pytheas/pytheas-core@1.29.0
 - pkg:maven/com.netflix.pytheas/pytheas-core@1.29.0?classifier=sources
+- pkg:maven/com.netflix.pytheas/pytheas-core@1.29.1
+- pkg:maven/com.netflix.pytheas/pytheas-core@1.29.1?classifier=sources

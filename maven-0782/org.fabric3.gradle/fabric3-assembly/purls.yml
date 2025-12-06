@@ -8,3 +8,5 @@
 - pkg:maven/org.fabric3.gradle/fabric3-assembly@2.5.3?classifier=sources
 - pkg:maven/org.fabric3.gradle/fabric3-assembly@3.0.0
 - pkg:maven/org.fabric3.gradle/fabric3-assembly@3.0.0?classifier=sources
+- pkg:maven/org.fabric3.gradle/fabric3-assembly@3.0.0sp1
+- pkg:maven/org.fabric3.gradle/fabric3-assembly@3.0.0sp1?classifier=sources

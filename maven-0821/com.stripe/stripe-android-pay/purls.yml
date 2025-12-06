@@ -1,0 +1,2 @@
+- pkg:maven/com.stripe/stripe-android-pay@4.0.2?classifier=sources
+- pkg:maven/com.stripe/stripe-android-pay@4.0.2?type=aar

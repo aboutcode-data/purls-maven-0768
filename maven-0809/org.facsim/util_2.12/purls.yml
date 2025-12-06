@@ -1,0 +1,2 @@
+- pkg:maven/org.facsim/util_2.12@0.0.3
+- pkg:maven/org.facsim/util_2.12@0.0.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.faendir/acra@4.9.3?classifier=sources
+- pkg:maven/com.faendir/acra@4.9.3?type=aar
+- pkg:maven/com.faendir/acra@4.9.4?classifier=sources
+- pkg:maven/com.faendir/acra@4.9.4?type=aar

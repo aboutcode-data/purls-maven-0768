@@ -4,5 +4,10 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-rubicon-mediation@2.13-4.0.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-rubicon-mediation@2.14-4.0.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-rubicon-mediation@2.15-4.0.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-rubicon-mediation@2.15.1-4.0.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-rubicon-mediation@2.16-4.0.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-rubicon-mediation@2.9-4.0.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-rubicon-mediation@2.9.1-4.0.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-rubicon-mediation@3.0-4.0.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-rubicon-mediation@3.1-4.0.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-rubicon-mediation@3.2-6.3.0?type=aar

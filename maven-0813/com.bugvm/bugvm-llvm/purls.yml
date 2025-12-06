@@ -22,3 +22,5 @@
 - pkg:maven/com.bugvm/bugvm-llvm@1.1.4?classifier=sources
 - pkg:maven/com.bugvm/bugvm-llvm@1.1.5
 - pkg:maven/com.bugvm/bugvm-llvm@1.1.5?classifier=sources
+- pkg:maven/com.bugvm/bugvm-llvm@1.2.3
+- pkg:maven/com.bugvm/bugvm-llvm@1.2.3?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.tapad.sbt/marathon-templating-lib_2.11@0.1.0
+- pkg:maven/com.tapad.sbt/marathon-templating-lib_2.11@0.1.0?classifier=sources
+- pkg:maven/com.tapad.sbt/marathon-templating-lib_2.11@0.1.0rc5
+- pkg:maven/com.tapad.sbt/marathon-templating-lib_2.11@0.1.0rc5?classifier=sources
+- pkg:maven/com.tapad.sbt/marathon-templating-lib_2.11@0.1.0rc6
+- pkg:maven/com.tapad.sbt/marathon-templating-lib_2.11@0.1.0rc6?classifier=sources
+- pkg:maven/com.tapad.sbt/marathon-templating-lib_2.11@0.1.1
+- pkg:maven/com.tapad.sbt/marathon-templating-lib_2.11@0.1.1?classifier=sources

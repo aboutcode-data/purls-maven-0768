@@ -2,3 +2,7 @@
 - pkg:maven/io.bootique.tapestry/bootique-tapestry@0.2?classifier=sources
 - pkg:maven/io.bootique.tapestry/bootique-tapestry@0.3
 - pkg:maven/io.bootique.tapestry/bootique-tapestry@0.3?classifier=sources
+- pkg:maven/io.bootique.tapestry/bootique-tapestry@0.4
+- pkg:maven/io.bootique.tapestry/bootique-tapestry@0.4?classifier=sources
+- pkg:maven/io.bootique.tapestry/bootique-tapestry@0.5
+- pkg:maven/io.bootique.tapestry/bootique-tapestry@0.5?classifier=sources

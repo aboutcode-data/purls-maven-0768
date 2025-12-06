@@ -1,0 +1,2 @@
+- pkg:maven/net.minidev/conf@1.0.7
+- pkg:maven/net.minidev/conf@1.0.7?classifier=sources

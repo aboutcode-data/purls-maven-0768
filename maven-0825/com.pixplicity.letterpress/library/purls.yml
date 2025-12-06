@@ -1,2 +1,4 @@
 - pkg:maven/com.pixplicity.letterpress/library@1.0?classifier=sources
 - pkg:maven/com.pixplicity.letterpress/library@1.0?type=aar
+- pkg:maven/com.pixplicity.letterpress/library@1.2?classifier=sources
+- pkg:maven/com.pixplicity.letterpress/library@1.2?type=aar

@@ -10,3 +10,15 @@
 - pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@256?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@259
 - pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@259?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@260
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@260?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@261
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@261?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@262
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@262?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@263
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@263?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@264
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@264?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@265
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@265?classifier=sources

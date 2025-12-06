@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.npm/intl-tel-input@11.0.0
+- pkg:maven/org.webjars.npm/intl-tel-input@11.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/intl-tel-input@11.0.7
+- pkg:maven/org.webjars.npm/intl-tel-input@11.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/intl-tel-input@9.0.14
 - pkg:maven/org.webjars.npm/intl-tel-input@9.0.14?classifier=sources

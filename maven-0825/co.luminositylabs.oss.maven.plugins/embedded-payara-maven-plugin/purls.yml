@@ -1,0 +1,2 @@
+- pkg:maven/co.luminositylabs.oss.maven.plugins/embedded-payara-maven-plugin@1.0.0
+- pkg:maven/co.luminositylabs.oss.maven.plugins/embedded-payara-maven-plugin@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jareas/com.io7m.jareas.core@0.2.2
+- pkg:maven/com.io7m.jareas/com.io7m.jareas.core@0.2.2?classifier=sources

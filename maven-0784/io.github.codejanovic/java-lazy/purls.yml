@@ -1,0 +1,2 @@
+- pkg:maven/io.github.codejanovic/java-lazy@0.1.0
+- pkg:maven/io.github.codejanovic/java-lazy@0.1.0?classifier=sources

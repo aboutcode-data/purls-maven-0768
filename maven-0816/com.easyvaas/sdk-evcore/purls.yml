@@ -1,0 +1,6 @@
+- pkg:maven/com.easyvaas/sdk-evcore@1.0.12?classifier=sources
+- pkg:maven/com.easyvaas/sdk-evcore@1.0.12?type=aar
+- pkg:maven/com.easyvaas/sdk-evcore@1.0.13?classifier=sources
+- pkg:maven/com.easyvaas/sdk-evcore@1.0.13?type=aar
+- pkg:maven/com.easyvaas/sdk-evcore@1.0.21?classifier=sources
+- pkg:maven/com.easyvaas/sdk-evcore@1.0.21?type=aar

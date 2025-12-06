@@ -1,0 +1,12 @@
+- pkg:maven/nl.psdcompany/duo-navigation-drawer@1.0.1?classifier=sources
+- pkg:maven/nl.psdcompany/duo-navigation-drawer@1.0.1?type=aar
+- pkg:maven/nl.psdcompany/duo-navigation-drawer@1.0.2?classifier=sources
+- pkg:maven/nl.psdcompany/duo-navigation-drawer@1.0.2?type=aar
+- pkg:maven/nl.psdcompany/duo-navigation-drawer@1.0.3?classifier=sources
+- pkg:maven/nl.psdcompany/duo-navigation-drawer@1.0.3?type=aar
+- pkg:maven/nl.psdcompany/duo-navigation-drawer@1.1.0?classifier=sources
+- pkg:maven/nl.psdcompany/duo-navigation-drawer@1.1.0?type=aar
+- pkg:maven/nl.psdcompany/duo-navigation-drawer@1.1.1?classifier=sources
+- pkg:maven/nl.psdcompany/duo-navigation-drawer@1.1.1?type=aar
+- pkg:maven/nl.psdcompany/duo-navigation-drawer@2.0.0?classifier=sources
+- pkg:maven/nl.psdcompany/duo-navigation-drawer@2.0.0?type=aar

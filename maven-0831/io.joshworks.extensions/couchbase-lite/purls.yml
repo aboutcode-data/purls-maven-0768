@@ -1,0 +1,2 @@
+- pkg:maven/io.joshworks.extensions/couchbase-lite@0.2
+- pkg:maven/io.joshworks.extensions/couchbase-lite@0.2?classifier=sources

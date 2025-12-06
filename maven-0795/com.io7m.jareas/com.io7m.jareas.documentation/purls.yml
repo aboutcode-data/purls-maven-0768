@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jareas/com.io7m.jareas.documentation@0.2.2?classifier=sources
+- pkg:maven/com.io7m.jareas/com.io7m.jareas.documentation@0.2.2?type=zip

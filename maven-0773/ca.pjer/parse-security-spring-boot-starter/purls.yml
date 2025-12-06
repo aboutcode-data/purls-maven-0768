@@ -1,0 +1,2 @@
+- pkg:maven/ca.pjer/parse-security-spring-boot-starter@1.1.0
+- pkg:maven/ca.pjer/parse-security-spring-boot-starter@1.1.0?classifier=sources

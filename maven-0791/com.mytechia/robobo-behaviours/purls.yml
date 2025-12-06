@@ -1,0 +1,6 @@
+- pkg:maven/com.mytechia/robobo-behaviours@0.1.1?classifier=sources
+- pkg:maven/com.mytechia/robobo-behaviours@0.1.1?type=aar
+- pkg:maven/com.mytechia/robobo-behaviours@0.1?classifier=sources
+- pkg:maven/com.mytechia/robobo-behaviours@0.1?type=aar
+- pkg:maven/com.mytechia/robobo-behaviours@0.3.0?classifier=sources
+- pkg:maven/com.mytechia/robobo-behaviours@0.3.0?type=aar

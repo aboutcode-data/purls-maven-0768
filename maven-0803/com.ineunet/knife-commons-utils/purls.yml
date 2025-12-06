@@ -6,3 +6,7 @@
 - pkg:maven/com.ineunet/knife-commons-utils@1.0.7-RELEASE?classifier=sources
 - pkg:maven/com.ineunet/knife-commons-utils@1.0.8
 - pkg:maven/com.ineunet/knife-commons-utils@1.0.8?classifier=sources
+- pkg:maven/com.ineunet/knife-commons-utils@1.0.9
+- pkg:maven/com.ineunet/knife-commons-utils@1.0.9?classifier=sources
+- pkg:maven/com.ineunet/knife-commons-utils@1.1.9
+- pkg:maven/com.ineunet/knife-commons-utils@1.1.9?classifier=sources

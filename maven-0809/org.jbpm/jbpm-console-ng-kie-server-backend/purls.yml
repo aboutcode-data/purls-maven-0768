@@ -1,0 +1,4 @@
+- pkg:maven/org.jbpm/jbpm-console-ng-kie-server-backend@7.0.0.Beta4
+- pkg:maven/org.jbpm/jbpm-console-ng-kie-server-backend@7.0.0.Beta4?classifier=sources
+- pkg:maven/org.jbpm/jbpm-console-ng-kie-server-backend@7.0.0.Beta5
+- pkg:maven/org.jbpm/jbpm-console-ng-kie-server-backend@7.0.0.Beta5?classifier=sources

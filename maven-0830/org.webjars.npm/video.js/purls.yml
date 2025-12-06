@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/video.js@5.10.7
 - pkg:maven/org.webjars.npm/video.js@5.10.7?classifier=sources
+- pkg:maven/org.webjars.npm/video.js@5.12.6
+- pkg:maven/org.webjars.npm/video.js@5.12.6?classifier=sources
+- pkg:maven/org.webjars.npm/video.js@5.13.0
+- pkg:maven/org.webjars.npm/video.js@5.13.0?classifier=sources

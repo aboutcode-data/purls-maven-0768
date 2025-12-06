@@ -1,0 +1,2 @@
+- pkg:maven/com.connectedlab.reactnative/react-native-connected-common@0.0.1?classifier=sources
+- pkg:maven/com.connectedlab.reactnative/react-native-connected-common@0.0.1?type=aar

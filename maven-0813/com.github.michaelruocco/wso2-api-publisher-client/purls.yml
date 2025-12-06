@@ -1,0 +1,4 @@
+- pkg:maven/com.github.michaelruocco/wso2-api-publisher-client@1.0.0
+- pkg:maven/com.github.michaelruocco/wso2-api-publisher-client@1.0.0?classifier=sources
+- pkg:maven/com.github.michaelruocco/wso2-api-publisher-client@2.0.0
+- pkg:maven/com.github.michaelruocco/wso2-api-publisher-client@2.0.0?classifier=sources

@@ -7,3 +7,6 @@
 - pkg:maven/io.snappydata/snappy-spark@1.6.2-6
 - pkg:maven/io.snappydata/snappy-spark@2.0.1-1
 - pkg:maven/io.snappydata/snappy-spark@2.0.1-2
+- pkg:maven/io.snappydata/snappy-spark@2.0.1-3
+- pkg:maven/io.snappydata/snappy-spark@2.0.2.3
+- pkg:maven/io.snappydata/snappy-spark@2.0.3-2

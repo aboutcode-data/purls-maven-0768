@@ -1,2 +1,6 @@
 - pkg:maven/net.arya/oneand-argonaut_2.11@0.1
+- pkg:maven/net.arya/oneand-argonaut_2.11@0.1.1
+- pkg:maven/net.arya/oneand-argonaut_2.11@0.1.1?classifier=sources
+- pkg:maven/net.arya/oneand-argonaut_2.11@0.1.2
+- pkg:maven/net.arya/oneand-argonaut_2.11@0.1.2?classifier=sources
 - pkg:maven/net.arya/oneand-argonaut_2.11@0.1?classifier=sources

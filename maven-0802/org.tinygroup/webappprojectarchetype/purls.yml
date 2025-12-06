@@ -17,3 +17,8 @@
 - pkg:maven/org.tinygroup/webappprojectarchetype@2.2.2?classifier=sources
 - pkg:maven/org.tinygroup/webappprojectarchetype@2.2.3?classifier=sources
 - pkg:maven/org.tinygroup/webappprojectarchetype@2.3.0?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@3.0.0?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@3.1.0?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@3.1.1?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@3.1.2?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@3.4.0?classifier=sources

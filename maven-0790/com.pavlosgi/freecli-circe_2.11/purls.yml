@@ -1,0 +1,4 @@
+- pkg:maven/com.pavlosgi/freecli-circe_2.11@0.1.0
+- pkg:maven/com.pavlosgi/freecli-circe_2.11@0.1.0?classifier=sources
+- pkg:maven/com.pavlosgi/freecli-circe_2.11@0.1.1
+- pkg:maven/com.pavlosgi/freecli-circe_2.11@0.1.1?classifier=sources

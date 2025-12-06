@@ -28,3 +28,5 @@
 - pkg:maven/me.chrons/boopickle_sjs0.6_2.11@1.2.3?classifier=sources
 - pkg:maven/me.chrons/boopickle_sjs0.6_2.11@1.2.4
 - pkg:maven/me.chrons/boopickle_sjs0.6_2.11@1.2.4?classifier=sources
+- pkg:maven/me.chrons/boopickle_sjs0.6_2.11@1.2.5
+- pkg:maven/me.chrons/boopickle_sjs0.6_2.11@1.2.5?classifier=sources

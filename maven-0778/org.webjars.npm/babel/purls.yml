@@ -26,3 +26,5 @@
 - pkg:maven/org.webjars.npm/babel@6.3.13?classifier=sources
 - pkg:maven/org.webjars.npm/babel@6.3.26
 - pkg:maven/org.webjars.npm/babel@6.3.26?classifier=sources
+- pkg:maven/org.webjars.npm/babel@6.5.2
+- pkg:maven/org.webjars.npm/babel@6.5.2?classifier=sources

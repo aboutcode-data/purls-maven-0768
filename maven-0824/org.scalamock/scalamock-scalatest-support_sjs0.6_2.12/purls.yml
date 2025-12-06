@@ -1,0 +1,4 @@
+- pkg:maven/org.scalamock/scalamock-scalatest-support_sjs0.6_2.12@3.5.0
+- pkg:maven/org.scalamock/scalamock-scalatest-support_sjs0.6_2.12@3.5.0?classifier=sources
+- pkg:maven/org.scalamock/scalamock-scalatest-support_sjs0.6_2.12@3.6.0
+- pkg:maven/org.scalamock/scalamock-scalatest-support_sjs0.6_2.12@3.6.0?classifier=sources

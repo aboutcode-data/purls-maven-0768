@@ -1,0 +1,2 @@
+- pkg:maven/eu.fbk.utils/utils-lsa@3.0
+- pkg:maven/eu.fbk.utils/utils-lsa@3.0?classifier=sources

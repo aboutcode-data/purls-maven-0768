@@ -1,0 +1,2 @@
+- pkg:maven/org.siggi-ci/hookserver@0.10.0
+- pkg:maven/org.siggi-ci/hookserver@0.10.0?classifier=sources

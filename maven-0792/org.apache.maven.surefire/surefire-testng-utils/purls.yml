@@ -32,6 +32,8 @@
 - pkg:maven/org.apache.maven.surefire/surefire-testng-utils@2.19.1
 - pkg:maven/org.apache.maven.surefire/surefire-testng-utils@2.19.1?classifier=sources
 - pkg:maven/org.apache.maven.surefire/surefire-testng-utils@2.19?classifier=sources
+- pkg:maven/org.apache.maven.surefire/surefire-testng-utils@2.20
+- pkg:maven/org.apache.maven.surefire/surefire-testng-utils@2.20?classifier=sources
 - pkg:maven/org.apache.maven.surefire/surefire-testng-utils@2.8
 - pkg:maven/org.apache.maven.surefire/surefire-testng-utils@2.8.1
 - pkg:maven/org.apache.maven.surefire/surefire-testng-utils@2.8.1?classifier=sources

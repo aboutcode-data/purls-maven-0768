@@ -16,3 +16,13 @@
 - pkg:maven/com.intuit.wasabi/wasabi-cassandra@1.0.20160826233241?classifier=sources
 - pkg:maven/com.intuit.wasabi/wasabi-cassandra@1.0.20160902232623
 - pkg:maven/com.intuit.wasabi/wasabi-cassandra@1.0.20160902232623?classifier=sources
+- pkg:maven/com.intuit.wasabi/wasabi-cassandra@1.0.20161011211936
+- pkg:maven/com.intuit.wasabi/wasabi-cassandra@1.0.20161011211936?classifier=sources
+- pkg:maven/com.intuit.wasabi/wasabi-cassandra@1.0.20161014052805
+- pkg:maven/com.intuit.wasabi/wasabi-cassandra@1.0.20161014052805?classifier=sources
+- pkg:maven/com.intuit.wasabi/wasabi-cassandra@1.0.20161020204612
+- pkg:maven/com.intuit.wasabi/wasabi-cassandra@1.0.20161020204612?classifier=sources
+- pkg:maven/com.intuit.wasabi/wasabi-cassandra@1.0.20161102190559
+- pkg:maven/com.intuit.wasabi/wasabi-cassandra@1.0.20161102190559?classifier=sources
+- pkg:maven/com.intuit.wasabi/wasabi-cassandra@1.0.20161107232436
+- pkg:maven/com.intuit.wasabi/wasabi-cassandra@1.0.20161107232436?classifier=sources
