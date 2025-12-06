@@ -1,0 +1,2 @@
+- pkg:maven/com.github.document-analysis/dap-dkpro_1_8@0.1.1
+- pkg:maven/com.github.document-analysis/dap-dkpro_1_8@0.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.ms-square/debugoverlay-ext-netstats@1.1.3?classifier=sources
+- pkg:maven/com.ms-square/debugoverlay-ext-netstats@1.1.3?type=aar

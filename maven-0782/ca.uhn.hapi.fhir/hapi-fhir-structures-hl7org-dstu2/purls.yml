@@ -20,3 +20,9 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-hl7org-dstu2@2.3?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-hl7org-dstu2@2.4
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-hl7org-dstu2@2.4?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-hl7org-dstu2@2.5
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-hl7org-dstu2@2.5?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-hl7org-dstu2@3.0.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-hl7org-dstu2@3.0.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-hl7org-dstu2@3.1.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-hl7org-dstu2@3.1.0?classifier=sources

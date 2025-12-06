@@ -1,0 +1,2 @@
+- pkg:maven/org.toxos.process-assertions.activiti/activiti-5_13@0.7.0
+- pkg:maven/org.toxos.process-assertions.activiti/activiti-5_13@0.7.0?classifier=sources

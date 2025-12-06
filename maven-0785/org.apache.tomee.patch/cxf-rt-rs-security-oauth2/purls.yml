@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.tomee.patch/cxf-rt-rs-security-oauth2@2.6.17-TomEE

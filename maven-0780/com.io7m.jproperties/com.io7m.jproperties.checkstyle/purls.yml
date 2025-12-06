@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.jproperties/com.io7m.jproperties.checkstyle@1.0.3
 - pkg:maven/com.io7m.jproperties/com.io7m.jproperties.checkstyle@1.0.3?classifier=sources
+- pkg:maven/com.io7m.jproperties/com.io7m.jproperties.checkstyle@2.0.0
+- pkg:maven/com.io7m.jproperties/com.io7m.jproperties.checkstyle@2.0.0?classifier=sources

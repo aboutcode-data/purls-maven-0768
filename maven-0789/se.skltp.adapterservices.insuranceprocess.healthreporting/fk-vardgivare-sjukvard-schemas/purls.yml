@@ -18,5 +18,9 @@
 - pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.0.7?classifier=sources
 - pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.1.1
 - pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.1.1?classifier=sources
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.2
 - pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.2-RC1
 - pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.2-RC1?classifier=sources
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.2-RC2
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.2-RC2?classifier=sources
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/fk-vardgivare-sjukvard-schemas@2.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.blazemeter/blazemeter-api-client@1.0
+- pkg:maven/com.blazemeter/blazemeter-api-client@1.0?classifier=sources

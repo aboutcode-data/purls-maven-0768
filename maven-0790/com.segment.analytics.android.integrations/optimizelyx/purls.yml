@@ -1,0 +1,4 @@
+- pkg:maven/com.segment.analytics.android.integrations/optimizelyx@1.0.0-beta?classifier=sources
+- pkg:maven/com.segment.analytics.android.integrations/optimizelyx@1.0.0-beta?type=aar
+- pkg:maven/com.segment.analytics.android.integrations/optimizelyx@1.0.1-beta?classifier=sources
+- pkg:maven/com.segment.analytics.android.integrations/optimizelyx@1.0.1-beta?type=aar

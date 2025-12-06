@@ -1,0 +1,2 @@
+- pkg:maven/eu.clarussecure/proxy-module-splitting@1.0.1
+- pkg:maven/eu.clarussecure/proxy-module-splitting@1.0.1?classifier=sources

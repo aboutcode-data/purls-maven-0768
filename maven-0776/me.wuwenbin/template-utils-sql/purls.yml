@@ -16,3 +16,9 @@
 - pkg:maven/me.wuwenbin/template-utils-sql@1.2.2?classifier=sources
 - pkg:maven/me.wuwenbin/template-utils-sql@1.3.0.RELEASE
 - pkg:maven/me.wuwenbin/template-utils-sql@1.3.0.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-sql@1.4.0.RELEASE
+- pkg:maven/me.wuwenbin/template-utils-sql@1.4.0.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-sql@2.0.1.RELEASE
+- pkg:maven/me.wuwenbin/template-utils-sql@2.0.1.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-sql@3.0.0.RELEASE
+- pkg:maven/me.wuwenbin/template-utils-sql@3.0.0.RELEASE?classifier=sources

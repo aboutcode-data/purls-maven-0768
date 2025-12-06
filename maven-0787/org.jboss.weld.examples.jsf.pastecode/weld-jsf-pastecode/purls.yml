@@ -236,6 +236,12 @@
 - pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@2.4.2.SP1?type=war
 - pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@2.4.3.Final?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@2.4.3.Final?type=war
+- pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@2.4.4.Final?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@2.4.4.Final?type=war
+- pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@2.4.5.Final?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@2.4.5.Final?type=war
+- pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@2.4.6.Final?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@2.4.6.Final?type=war
 - pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.0.0.Alpha10?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.0.0.Alpha10?type=war
 - pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.0.0.Alpha11?classifier=sources
@@ -278,3 +284,7 @@
 - pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.0.0.CR2?type=war
 - pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.0.0.Final?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.0.0.Final?type=war
+- pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.0.1.Final?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.0.1.Final?type=war
+- pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.0.2.Final?type=war

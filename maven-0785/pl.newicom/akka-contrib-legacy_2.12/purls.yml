@@ -1,0 +1,2 @@
+- pkg:maven/pl.newicom/akka-contrib-legacy_2.12@0.1.0
+- pkg:maven/pl.newicom/akka-contrib-legacy_2.12@0.1.0?classifier=sources

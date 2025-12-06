@@ -1,0 +1,2 @@
+- pkg:maven/com.github.skjolber.log-domain/log-domain-support-logback-jax-rs@1.0.2
+- pkg:maven/com.github.skjolber.log-domain/log-domain-support-logback-jax-rs@1.0.2?classifier=sources

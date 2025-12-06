@@ -22,3 +22,5 @@
 - pkg:maven/edu.uiuc.ncsa.maven.skin/oa4mp-skin@3.3.0.2
 - pkg:maven/edu.uiuc.ncsa.maven.skin/oa4mp-skin@3.3.0.2?classifier=sources
 - pkg:maven/edu.uiuc.ncsa.maven.skin/oa4mp-skin@3.3?classifier=sources
+- pkg:maven/edu.uiuc.ncsa.maven.skin/oa4mp-skin@3.4
+- pkg:maven/edu.uiuc.ncsa.maven.skin/oa4mp-skin@3.4?classifier=sources

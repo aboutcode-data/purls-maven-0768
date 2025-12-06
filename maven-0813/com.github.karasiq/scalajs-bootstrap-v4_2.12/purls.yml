@@ -1,0 +1,2 @@
+- pkg:maven/com.github.karasiq/scalajs-bootstrap-v4_2.12@2.1.6
+- pkg:maven/com.github.karasiq/scalajs-bootstrap-v4_2.12@2.1.6?classifier=sources

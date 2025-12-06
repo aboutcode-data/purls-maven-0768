@@ -6,3 +6,6 @@
 - pkg:maven/org.apache.opennlp/opennlp@1.7.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.opennlp/opennlp@1.7.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.opennlp/opennlp@1.8.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.opennlp/opennlp@1.8.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.opennlp/opennlp@1.8.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.opennlp/opennlp@1.8.3?classifier=source-release&type=zip

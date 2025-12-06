@@ -26,3 +26,7 @@
 - pkg:maven/com.savoirtech.hecate/hecate-joda-time@3.0.0.Beta3
 - pkg:maven/com.savoirtech.hecate/hecate-joda-time@3.0.0.Beta3?classifier=sources
 - pkg:maven/com.savoirtech.hecate/hecate-joda-time@3.0.0?classifier=sources
+- pkg:maven/com.savoirtech.hecate/hecate-joda-time@4.0.0
+- pkg:maven/com.savoirtech.hecate/hecate-joda-time@4.0.0.Beta1
+- pkg:maven/com.savoirtech.hecate/hecate-joda-time@4.0.0.Beta1?classifier=sources
+- pkg:maven/com.savoirtech.hecate/hecate-joda-time@4.0.0?classifier=sources

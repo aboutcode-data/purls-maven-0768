@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.jface.text@3.11.2
 - pkg:maven/org.eclipse.platform/org.eclipse.jface.text@3.11.2?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.jface.text@3.12.0
+- pkg:maven/org.eclipse.platform/org.eclipse.jface.text@3.12.0?classifier=sources

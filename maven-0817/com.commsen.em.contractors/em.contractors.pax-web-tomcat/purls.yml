@@ -1,0 +1,2 @@
+- pkg:maven/com.commsen.em.contractors/em.contractors.pax-web-tomcat@6.0.7
+- pkg:maven/com.commsen.em.contractors/em.contractors.pax-web-tomcat@6.0.7?classifier=sources

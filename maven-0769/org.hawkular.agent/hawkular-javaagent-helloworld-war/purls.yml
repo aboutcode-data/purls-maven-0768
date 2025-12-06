@@ -18,3 +18,11 @@
 - pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@1.0.0.CR4?type=war
 - pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@1.0.0.CR5?classifier=sources
 - pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@1.0.0.CR5?type=war
+- pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@1.0.0.CR6?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@1.0.0.CR6?type=war
+- pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@1.0.0.CR7?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@1.0.0.CR7?type=war
+- pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@1.0.0.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@1.0.0.Final?type=war
+- pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@1.0.1.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-javaagent-helloworld-war@1.0.1.Final?type=war

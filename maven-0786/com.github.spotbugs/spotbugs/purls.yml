@@ -1,2 +1,9 @@
 - pkg:maven/com.github.spotbugs/spotbugs@3.1.0-RC1?classifier=sources
 - pkg:maven/com.github.spotbugs/spotbugs@3.1.0-RC2?classifier=sources
+- pkg:maven/com.github.spotbugs/spotbugs@3.1.0-RC3?classifier=sources
+- pkg:maven/com.github.spotbugs/spotbugs@3.1.0-RC4?classifier=sources
+- pkg:maven/com.github.spotbugs/spotbugs@3.1.0-RC5?classifier=sources
+- pkg:maven/com.github.spotbugs/spotbugs@3.1.0-RC6?classifier=sources
+- pkg:maven/com.github.spotbugs/spotbugs@3.1.0-RC7?classifier=sources
+- pkg:maven/com.github.spotbugs/spotbugs@3.1.0?classifier=sources
+- pkg:maven/com.github.spotbugs/spotbugs@3.1.1?classifier=sources

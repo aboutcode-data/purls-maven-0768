@@ -1,0 +1,2 @@
+- pkg:maven/io.vertx/vertx-web-templ-rocker@3.5.0
+- pkg:maven/io.vertx/vertx-web-templ-rocker@3.5.0?classifier=sources

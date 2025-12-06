@@ -9,4 +9,8 @@
 - pkg:maven/io.github.amrhassan/scalacheck-cats_2.12@0.3.2?classifier=sources
 - pkg:maven/io.github.amrhassan/scalacheck-cats_2.12@0.3.3
 - pkg:maven/io.github.amrhassan/scalacheck-cats_2.12@0.3.3?classifier=sources
+- pkg:maven/io.github.amrhassan/scalacheck-cats_2.12@0.3.4
+- pkg:maven/io.github.amrhassan/scalacheck-cats_2.12@0.3.4?classifier=sources
 - pkg:maven/io.github.amrhassan/scalacheck-cats_2.12@0.3?classifier=sources
+- pkg:maven/io.github.amrhassan/scalacheck-cats_2.12@0.4.0
+- pkg:maven/io.github.amrhassan/scalacheck-cats_2.12@0.4.0?classifier=sources

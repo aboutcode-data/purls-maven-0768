@@ -1,0 +1,6 @@
+- pkg:maven/org.jsimpledb/jsimpledb-kv-caching@3.4.0
+- pkg:maven/org.jsimpledb/jsimpledb-kv-caching@3.4.0?classifier=sources
+- pkg:maven/org.jsimpledb/jsimpledb-kv-caching@3.6.0
+- pkg:maven/org.jsimpledb/jsimpledb-kv-caching@3.6.0?classifier=sources
+- pkg:maven/org.jsimpledb/jsimpledb-kv-caching@3.6.1
+- pkg:maven/org.jsimpledb/jsimpledb-kv-caching@3.6.1?classifier=sources

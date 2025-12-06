@@ -72,3 +72,5 @@
 - pkg:maven/org.bsc.maven/maven-confluence-test@5.0-rc1?classifier=sources
 - pkg:maven/org.bsc.maven/maven-confluence-test@5.0-rc2
 - pkg:maven/org.bsc.maven/maven-confluence-test@5.0-rc2?classifier=sources
+- pkg:maven/org.bsc.maven/maven-confluence-test@5.1
+- pkg:maven/org.bsc.maven/maven-confluence-test@5.1?classifier=sources

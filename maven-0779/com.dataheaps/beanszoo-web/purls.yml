@@ -1,0 +1,4 @@
+- pkg:maven/com.dataheaps/beanszoo-web@0.2.23
+- pkg:maven/com.dataheaps/beanszoo-web@0.2.23?classifier=sources
+- pkg:maven/com.dataheaps/beanszoo-web@0.2.24.0
+- pkg:maven/com.dataheaps/beanszoo-web@0.2.24.0?classifier=sources

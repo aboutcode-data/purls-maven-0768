@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jkniv/jkniv-sap-provider@2.18.0.RC1
+- pkg:maven/net.sf.jkniv/jkniv-sap-provider@2.18.0.RC1?classifier=sources

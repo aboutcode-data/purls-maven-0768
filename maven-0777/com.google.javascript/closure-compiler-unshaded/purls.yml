@@ -22,3 +22,17 @@
 - pkg:maven/com.google.javascript/closure-compiler-unshaded@v20170409?classifier=sources
 - pkg:maven/com.google.javascript/closure-compiler-unshaded@v20170423
 - pkg:maven/com.google.javascript/closure-compiler-unshaded@v20170423?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20170521
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20170521?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20170626
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20170626?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20170806
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20170806?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20170910
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20170910?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20171023
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20171023?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20171112
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20171112?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20171203
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20171203?classifier=sources

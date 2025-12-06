@@ -1,3 +1,9 @@
+- pkg:maven/org.webjars.bower/js-xlsx@0.10.8
+- pkg:maven/org.webjars.bower/js-xlsx@0.10.8?classifier=sources
+- pkg:maven/org.webjars.bower/js-xlsx@0.11.3
+- pkg:maven/org.webjars.bower/js-xlsx@0.11.3?classifier=sources
+- pkg:maven/org.webjars.bower/js-xlsx@0.11.7
+- pkg:maven/org.webjars.bower/js-xlsx@0.11.7?classifier=sources
 - pkg:maven/org.webjars.bower/js-xlsx@0.7.2
 - pkg:maven/org.webjars.bower/js-xlsx@0.7.2?classifier=sources
 - pkg:maven/org.webjars.bower/js-xlsx@0.8.0

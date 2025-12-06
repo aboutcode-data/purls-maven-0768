@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-onsip-sip-js@0.7.8
+- pkg:maven/org.webjars.npm/github-com-onsip-sip-js@0.7.8?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-onsip-sip-js@0.8.2
+- pkg:maven/org.webjars.npm/github-com-onsip-sip-js@0.8.2?classifier=sources

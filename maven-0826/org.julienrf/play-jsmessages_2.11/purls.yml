@@ -2,3 +2,5 @@
 - pkg:maven/org.julienrf/play-jsmessages_2.11@1.6.2?classifier=sources
 - pkg:maven/org.julienrf/play-jsmessages_2.11@2.0.0
 - pkg:maven/org.julienrf/play-jsmessages_2.11@2.0.0?classifier=sources
+- pkg:maven/org.julienrf/play-jsmessages_2.11@3.0.0
+- pkg:maven/org.julienrf/play-jsmessages_2.11@3.0.0?classifier=sources

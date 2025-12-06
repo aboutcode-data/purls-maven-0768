@@ -86,3 +86,13 @@
 - pkg:maven/net.imagej/ij@1.51m?classifier=sources
 - pkg:maven/net.imagej/ij@1.51n
 - pkg:maven/net.imagej/ij@1.51n?classifier=sources
+- pkg:maven/net.imagej/ij@1.51o
+- pkg:maven/net.imagej/ij@1.51o?classifier=sources
+- pkg:maven/net.imagej/ij@1.51p
+- pkg:maven/net.imagej/ij@1.51p?classifier=sources
+- pkg:maven/net.imagej/ij@1.51q
+- pkg:maven/net.imagej/ij@1.51q?classifier=sources
+- pkg:maven/net.imagej/ij@1.51r
+- pkg:maven/net.imagej/ij@1.51r?classifier=sources
+- pkg:maven/net.imagej/ij@1.51s
+- pkg:maven/net.imagej/ij@1.51s?classifier=sources

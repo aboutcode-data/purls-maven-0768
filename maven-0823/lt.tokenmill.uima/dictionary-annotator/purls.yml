@@ -1,0 +1,2 @@
+- pkg:maven/lt.tokenmill.uima/dictionary-annotator@0.1.1
+- pkg:maven/lt.tokenmill.uima/dictionary-annotator@0.1.1?classifier=sources

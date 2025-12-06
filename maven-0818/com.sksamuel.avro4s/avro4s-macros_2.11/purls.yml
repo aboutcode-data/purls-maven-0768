@@ -38,3 +38,7 @@
 - pkg:maven/com.sksamuel.avro4s/avro4s-macros_2.11@1.6.3?classifier=sources
 - pkg:maven/com.sksamuel.avro4s/avro4s-macros_2.11@1.6.4
 - pkg:maven/com.sksamuel.avro4s/avro4s-macros_2.11@1.6.4?classifier=sources
+- pkg:maven/com.sksamuel.avro4s/avro4s-macros_2.11@1.7.0
+- pkg:maven/com.sksamuel.avro4s/avro4s-macros_2.11@1.7.0?classifier=sources
+- pkg:maven/com.sksamuel.avro4s/avro4s-macros_2.11@1.8.0
+- pkg:maven/com.sksamuel.avro4s/avro4s-macros_2.11@1.8.0?classifier=sources

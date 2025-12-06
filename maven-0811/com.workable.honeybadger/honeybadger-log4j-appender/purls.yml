@@ -11,4 +11,6 @@
 - pkg:maven/com.workable.honeybadger/honeybadger-log4j-appender@1.5.2?classifier=sources
 - pkg:maven/com.workable.honeybadger/honeybadger-log4j-appender@1.5.3
 - pkg:maven/com.workable.honeybadger/honeybadger-log4j-appender@1.5.3?classifier=sources
+- pkg:maven/com.workable.honeybadger/honeybadger-log4j-appender@1.5.4
+- pkg:maven/com.workable.honeybadger/honeybadger-log4j-appender@1.5.4?classifier=sources
 - pkg:maven/com.workable.honeybadger/honeybadger-log4j-appender@1.5?classifier=sources

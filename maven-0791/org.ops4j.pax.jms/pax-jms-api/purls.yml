@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.jms/pax-jms-api@0.1.0
+- pkg:maven/org.ops4j.pax.jms/pax-jms-api@0.1.0?classifier=sources

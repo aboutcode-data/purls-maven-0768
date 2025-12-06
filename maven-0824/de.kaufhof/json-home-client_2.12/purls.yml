@@ -1,0 +1,2 @@
+- pkg:maven/de.kaufhof/json-home-client_2.12@3.0.2
+- pkg:maven/de.kaufhof/json-home-client_2.12@3.0.2?classifier=sources

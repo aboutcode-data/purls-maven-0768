@@ -14,3 +14,7 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621169?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621186
 - pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621186?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621211
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621211?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621216
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-621216?classifier=sources

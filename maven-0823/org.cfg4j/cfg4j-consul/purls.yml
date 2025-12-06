@@ -22,3 +22,5 @@
 - pkg:maven/org.cfg4j/cfg4j-consul@4.3.0?classifier=sources
 - pkg:maven/org.cfg4j/cfg4j-consul@4.4.0
 - pkg:maven/org.cfg4j/cfg4j-consul@4.4.0?classifier=sources
+- pkg:maven/org.cfg4j/cfg4j-consul@4.4.1
+- pkg:maven/org.cfg4j/cfg4j-consul@4.4.1?classifier=sources

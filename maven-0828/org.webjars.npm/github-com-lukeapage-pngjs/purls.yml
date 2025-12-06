@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-lukeapage-pngjs@2.3.1
+- pkg:maven/org.webjars.npm/github-com-lukeapage-pngjs@2.3.1?classifier=sources

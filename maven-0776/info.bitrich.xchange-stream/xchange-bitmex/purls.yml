@@ -1,0 +1,2 @@
+- pkg:maven/info.bitrich.xchange-stream/xchange-bitmex@4.3.0
+- pkg:maven/info.bitrich.xchange-stream/xchange-bitmex@4.3.0?classifier=sources

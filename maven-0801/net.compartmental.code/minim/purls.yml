@@ -1,0 +1,2 @@
+- pkg:maven/net.compartmental.code/minim@2.2.2
+- pkg:maven/net.compartmental.code/minim@2.2.2?classifier=sources

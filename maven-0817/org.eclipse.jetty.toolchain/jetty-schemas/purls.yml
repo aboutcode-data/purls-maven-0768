@@ -4,3 +4,7 @@
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@3.1.RC0
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@3.1.RC0?classifier=sources
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@3.1?classifier=sources
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@4.0.0
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@4.0.0-b07
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@4.0.0-b07?classifier=sources
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@4.0.0?classifier=sources

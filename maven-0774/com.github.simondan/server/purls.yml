@@ -1,0 +1,2 @@
+- pkg:maven/com.github.simondan/server@0.1-beta
+- pkg:maven/com.github.simondan/server@0.1-beta?classifier=sources

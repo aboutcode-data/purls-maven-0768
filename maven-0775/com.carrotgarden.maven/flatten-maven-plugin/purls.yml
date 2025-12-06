@@ -1,0 +1,6 @@
+- pkg:maven/com.carrotgarden.maven/flatten-maven-plugin@1.0.20171129163300
+- pkg:maven/com.carrotgarden.maven/flatten-maven-plugin@1.0.20171129163300?classifier=sources
+- pkg:maven/com.carrotgarden.maven/flatten-maven-plugin@1.1.20171204015648
+- pkg:maven/com.carrotgarden.maven/flatten-maven-plugin@1.1.20171204015648?classifier=sources
+- pkg:maven/com.carrotgarden.maven/flatten-maven-plugin@1.2.20171206225205
+- pkg:maven/com.carrotgarden.maven/flatten-maven-plugin@1.2.20171206225205?classifier=sources

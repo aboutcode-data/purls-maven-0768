@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.january/org.eclipse.january@2.0.2?classifier=sources
+- pkg:maven/org.eclipse.january/org.eclipse.january@2.1.0?classifier=sources

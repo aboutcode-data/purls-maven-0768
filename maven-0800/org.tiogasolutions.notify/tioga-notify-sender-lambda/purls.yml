@@ -1,0 +1,2 @@
+- pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-lambda@1.0.0
+- pkg:maven/org.tiogasolutions.notify/tioga-notify-sender-lambda@1.0.0?classifier=sources

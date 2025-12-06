@@ -1,0 +1,1 @@
+- pkg:maven/io.gravitee.maven.archetypes/gravitee-service-maven-archetype@1.0.0?classifier=sources

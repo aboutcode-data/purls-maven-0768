@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angular-schema-form@0.8.13
+- pkg:maven/org.webjars.npm/angular-schema-form@0.8.13?classifier=sources

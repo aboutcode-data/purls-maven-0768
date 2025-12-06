@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/multiselect-two-sides@2.2.9
 - pkg:maven/org.webjars.bower/multiselect-two-sides@2.2.9?classifier=sources
+- pkg:maven/org.webjars.bower/multiselect-two-sides@2.3.11
+- pkg:maven/org.webjars.bower/multiselect-two-sides@2.3.11?classifier=sources

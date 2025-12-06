@@ -1,0 +1,6 @@
+- pkg:maven/com.jarredweb.repo/webjar@0.1-beta
+- pkg:maven/com.jarredweb.repo/webjar@0.1-beta?classifier=sources
+- pkg:maven/com.jarredweb.repo/webjar@0.2-beta
+- pkg:maven/com.jarredweb.repo/webjar@0.2-beta?classifier=sources
+- pkg:maven/com.jarredweb.repo/webjar@0.3-beta
+- pkg:maven/com.jarredweb.repo/webjar@0.3-beta?classifier=sources

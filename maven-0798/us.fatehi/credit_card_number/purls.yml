@@ -18,3 +18,5 @@
 - pkg:maven/us.fatehi/credit_card_number@2.00.01?classifier=sources
 - pkg:maven/us.fatehi/credit_card_number@2.01.01
 - pkg:maven/us.fatehi/credit_card_number@2.01.01?classifier=sources
+- pkg:maven/us.fatehi/credit_card_number@2.01.02
+- pkg:maven/us.fatehi/credit_card_number@2.01.02?classifier=sources

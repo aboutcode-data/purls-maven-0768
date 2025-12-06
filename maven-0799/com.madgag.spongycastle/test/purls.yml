@@ -1,0 +1,2 @@
+- pkg:maven/com.madgag.spongycastle/test@1.58.0.0
+- pkg:maven/com.madgag.spongycastle/test@1.58.0.0?classifier=sources

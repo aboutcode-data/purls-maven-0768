@@ -22,3 +22,5 @@
 - pkg:maven/com.enioka.jqm/jqm-ws@1.4.1?type=war
 - pkg:maven/com.enioka.jqm/jqm-ws@1.4.2?classifier=sources
 - pkg:maven/com.enioka.jqm/jqm-ws@1.4.2?type=war
+- pkg:maven/com.enioka.jqm/jqm-ws@2.0.0?classifier=sources
+- pkg:maven/com.enioka.jqm/jqm-ws@2.0.0?type=war

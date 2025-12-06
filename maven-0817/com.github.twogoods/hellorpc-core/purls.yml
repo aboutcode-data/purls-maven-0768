@@ -1,0 +1,2 @@
+- pkg:maven/com.github.twogoods/hellorpc-core@0.1
+- pkg:maven/com.github.twogoods/hellorpc-core@0.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/react-motion@0.4.4?classifier=sources
 - pkg:maven/org.webjars.npm/react-motion@0.4.7
 - pkg:maven/org.webjars.npm/react-motion@0.4.7?classifier=sources
+- pkg:maven/org.webjars.npm/react-motion@0.5.2
+- pkg:maven/org.webjars.npm/react-motion@0.5.2?classifier=sources

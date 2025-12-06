@@ -4,3 +4,5 @@
 - pkg:maven/com.uber.cherami/cherami-client-java@3.0.2?classifier=sources
 - pkg:maven/com.uber.cherami/cherami-client-java@3.0.3
 - pkg:maven/com.uber.cherami/cherami-client-java@3.0.3?classifier=sources
+- pkg:maven/com.uber.cherami/cherami-client-java@4.0.1
+- pkg:maven/com.uber.cherami/cherami-client-java@4.0.1?classifier=sources

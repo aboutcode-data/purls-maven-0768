@@ -4,3 +4,5 @@
 - pkg:maven/info.gehrels.voting/singleTransferableVoteElections@2.1?classifier=sources
 - pkg:maven/info.gehrels.voting/singleTransferableVoteElections@3.0
 - pkg:maven/info.gehrels.voting/singleTransferableVoteElections@3.0?classifier=sources
+- pkg:maven/info.gehrels.voting/singleTransferableVoteElections@4.0
+- pkg:maven/info.gehrels.voting/singleTransferableVoteElections@4.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/eu.fbk.utils/utils-eval@2.0?classifier=sources
 - pkg:maven/eu.fbk.utils/utils-eval@3.0
 - pkg:maven/eu.fbk.utils/utils-eval@3.0?classifier=sources
+- pkg:maven/eu.fbk.utils/utils-eval@3.1
+- pkg:maven/eu.fbk.utils/utils-eval@3.1?classifier=sources

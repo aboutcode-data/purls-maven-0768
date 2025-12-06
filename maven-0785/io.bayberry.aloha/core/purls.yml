@@ -1,0 +1,2 @@
+- pkg:maven/io.bayberry.aloha/core@1.0-alpha
+- pkg:maven/io.bayberry.aloha/core@1.0-alpha?classifier=sources

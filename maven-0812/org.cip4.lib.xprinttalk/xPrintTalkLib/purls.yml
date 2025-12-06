@@ -2,6 +2,8 @@
 - pkg:maven/org.cip4.lib.xprinttalk/xPrintTalkLib@0.10.1
 - pkg:maven/org.cip4.lib.xprinttalk/xPrintTalkLib@0.10.1?classifier=sources
 - pkg:maven/org.cip4.lib.xprinttalk/xPrintTalkLib@0.10?classifier=sources
+- pkg:maven/org.cip4.lib.xprinttalk/xPrintTalkLib@0.13
+- pkg:maven/org.cip4.lib.xprinttalk/xPrintTalkLib@0.13?classifier=sources
 - pkg:maven/org.cip4.lib.xprinttalk/xPrintTalkLib@0.3?classifier=sources
 - pkg:maven/org.cip4.lib.xprinttalk/xPrintTalkLib@0.3?type=zip
 - pkg:maven/org.cip4.lib.xprinttalk/xPrintTalkLib@0.4?classifier=sources

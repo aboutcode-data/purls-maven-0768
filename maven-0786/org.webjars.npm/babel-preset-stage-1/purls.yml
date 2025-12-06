@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/babel-preset-stage-1@6.0.15
 - pkg:maven/org.webjars.npm/babel-preset-stage-1@6.0.15?classifier=sources
+- pkg:maven/org.webjars.npm/babel-preset-stage-1@6.24.1
+- pkg:maven/org.webjars.npm/babel-preset-stage-1@6.24.1?classifier=sources
 - pkg:maven/org.webjars.npm/babel-preset-stage-1@6.3.13
 - pkg:maven/org.webjars.npm/babel-preset-stage-1@6.3.13?classifier=sources

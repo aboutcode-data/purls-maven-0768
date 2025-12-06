@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/mobx-react-devtools@4.2.15
+- pkg:maven/org.webjars.npm/mobx-react-devtools@4.2.15?classifier=sources

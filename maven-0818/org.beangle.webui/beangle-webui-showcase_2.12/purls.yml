@@ -1,5 +1,13 @@
 - pkg:maven/org.beangle.webui/beangle-webui-showcase_2.12@0.0.10
 - pkg:maven/org.beangle.webui/beangle-webui-showcase_2.12@0.0.10?classifier=sources
+- pkg:maven/org.beangle.webui/beangle-webui-showcase_2.12@0.0.11
+- pkg:maven/org.beangle.webui/beangle-webui-showcase_2.12@0.0.11?classifier=sources
+- pkg:maven/org.beangle.webui/beangle-webui-showcase_2.12@0.0.12
+- pkg:maven/org.beangle.webui/beangle-webui-showcase_2.12@0.0.12?classifier=sources
+- pkg:maven/org.beangle.webui/beangle-webui-showcase_2.12@0.0.13
+- pkg:maven/org.beangle.webui/beangle-webui-showcase_2.12@0.0.13?classifier=sources
+- pkg:maven/org.beangle.webui/beangle-webui-showcase_2.12@0.0.14
+- pkg:maven/org.beangle.webui/beangle-webui-showcase_2.12@0.0.14?classifier=sources
 - pkg:maven/org.beangle.webui/beangle-webui-showcase_2.12@0.0.6?classifier=sources
 - pkg:maven/org.beangle.webui/beangle-webui-showcase_2.12@0.0.6?type=war
 - pkg:maven/org.beangle.webui/beangle-webui-showcase_2.12@0.0.7?classifier=sources

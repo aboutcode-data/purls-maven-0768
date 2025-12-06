@@ -6,3 +6,7 @@
 - pkg:maven/com.hextremelabs/quickee@1.0.Alpha3?classifier=sources
 - pkg:maven/com.hextremelabs/quickee@1.0.Alpha4
 - pkg:maven/com.hextremelabs/quickee@1.0.Alpha4?classifier=sources
+- pkg:maven/com.hextremelabs/quickee@1.0.Alpha5
+- pkg:maven/com.hextremelabs/quickee@1.0.Alpha5?classifier=sources
+- pkg:maven/com.hextremelabs/quickee@1.0.Alpha6
+- pkg:maven/com.hextremelabs/quickee@1.0.Alpha6?classifier=sources

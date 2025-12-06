@@ -36,5 +36,15 @@
 - pkg:maven/com.twitter/twitter-server_2.11@1.28.0?classifier=sources
 - pkg:maven/com.twitter/twitter-server_2.11@1.29.0
 - pkg:maven/com.twitter/twitter-server_2.11@1.29.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server_2.11@1.30.0
+- pkg:maven/com.twitter/twitter-server_2.11@1.30.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server_2.11@1.31.0
+- pkg:maven/com.twitter/twitter-server_2.11@1.31.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server_2.11@1.32.0
+- pkg:maven/com.twitter/twitter-server_2.11@1.32.0?classifier=sources
 - pkg:maven/com.twitter/twitter-server_2.11@1.9.0
 - pkg:maven/com.twitter/twitter-server_2.11@1.9.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server_2.11@17.10.0
+- pkg:maven/com.twitter/twitter-server_2.11@17.10.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server_2.11@17.11.0
+- pkg:maven/com.twitter/twitter-server_2.11@17.11.0?classifier=sources

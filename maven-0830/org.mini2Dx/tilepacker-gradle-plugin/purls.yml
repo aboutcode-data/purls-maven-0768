@@ -4,3 +4,5 @@
 - pkg:maven/org.mini2Dx/tilepacker-gradle-plugin@4.0.0?classifier=sources
 - pkg:maven/org.mini2Dx/tilepacker-gradle-plugin@4.1.0
 - pkg:maven/org.mini2Dx/tilepacker-gradle-plugin@4.1.0?classifier=sources
+- pkg:maven/org.mini2Dx/tilepacker-gradle-plugin@4.1.1
+- pkg:maven/org.mini2Dx/tilepacker-gradle-plugin@4.1.1?classifier=sources

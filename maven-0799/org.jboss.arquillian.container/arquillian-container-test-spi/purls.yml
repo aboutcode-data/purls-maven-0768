@@ -40,6 +40,10 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-test-spi@1.1.12.Final?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-test-spi@1.1.13.Final
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-test-spi@1.1.13.Final?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-container-test-spi@1.1.14.Final
+- pkg:maven/org.jboss.arquillian.container/arquillian-container-test-spi@1.1.14.Final?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-container-test-spi@1.1.15.Final
+- pkg:maven/org.jboss.arquillian.container/arquillian-container-test-spi@1.1.15.Final?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-test-spi@1.1.2.Final
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-test-spi@1.1.2.Final-wildfly-1
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-test-spi@1.1.2.Final-wildfly-1?classifier=sources

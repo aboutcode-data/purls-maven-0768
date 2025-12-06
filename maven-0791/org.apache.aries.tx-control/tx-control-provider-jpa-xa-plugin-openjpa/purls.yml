@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.aries.tx-control/tx-control-provider-jpa-xa-plugin-openjpa@0.0.3
+- pkg:maven/org.apache.aries.tx-control/tx-control-provider-jpa-xa-plugin-openjpa@0.0.3?classifier=sources

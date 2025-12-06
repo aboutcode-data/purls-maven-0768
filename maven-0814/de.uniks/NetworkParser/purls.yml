@@ -34,7 +34,17 @@
 - pkg:maven/de.uniks/NetworkParser@4.4.310?classifier=sources
 - pkg:maven/de.uniks/NetworkParser@4.4.311
 - pkg:maven/de.uniks/NetworkParser@4.4.311?classifier=sources
+- pkg:maven/de.uniks/NetworkParser@4.4.890
+- pkg:maven/de.uniks/NetworkParser@4.4.890?classifier=sources
 - pkg:maven/de.uniks/NetworkParser@4.5.878
 - pkg:maven/de.uniks/NetworkParser@4.5.878?classifier=sources
 - pkg:maven/de.uniks/NetworkParser@4.5.879
 - pkg:maven/de.uniks/NetworkParser@4.5.879?classifier=sources
+- pkg:maven/de.uniks/NetworkParser@4.5.900
+- pkg:maven/de.uniks/NetworkParser@4.5.900?classifier=sources
+- pkg:maven/de.uniks/NetworkParser@4.6.1009
+- pkg:maven/de.uniks/NetworkParser@4.6.1009?classifier=sources
+- pkg:maven/de.uniks/NetworkParser@4.6.1013
+- pkg:maven/de.uniks/NetworkParser@4.6.1013?classifier=sources
+- pkg:maven/de.uniks/NetworkParser@4.6.961
+- pkg:maven/de.uniks/NetworkParser@4.6.961?classifier=sources

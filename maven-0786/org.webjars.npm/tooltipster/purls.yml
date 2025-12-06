@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/tooltipster@1.0.9?classifier=sources
 - pkg:maven/org.webjars.npm/tooltipster@4.1.8
 - pkg:maven/org.webjars.npm/tooltipster@4.1.8?classifier=sources
+- pkg:maven/org.webjars.npm/tooltipster@4.2.5
+- pkg:maven/org.webjars.npm/tooltipster@4.2.5?classifier=sources

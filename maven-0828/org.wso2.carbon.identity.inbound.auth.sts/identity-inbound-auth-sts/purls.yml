@@ -1,0 +1,8 @@
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/identity-inbound-auth-sts@5.2.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/identity-inbound-auth-sts@5.2.11?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/identity-inbound-auth-sts@5.2.12?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/identity-inbound-auth-sts@5.2.13?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/identity-inbound-auth-sts@5.2.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/identity-inbound-auth-sts@5.2.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/identity-inbound-auth-sts@5.2.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/identity-inbound-auth-sts@5.2.9?classifier=source-release&type=zip

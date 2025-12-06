@@ -1,0 +1,2 @@
+- pkg:maven/com.jovezhao.nest/nest-kafka@1.3.RELEASE
+- pkg:maven/com.jovezhao.nest/nest-kafka@1.3.RELEASE?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/org.apache.aries.rsa/org.apache.aries.rsa.topology-manager@1.10.0
+- pkg:maven/org.apache.aries.rsa/org.apache.aries.rsa.topology-manager@1.11.0
+- pkg:maven/org.apache.aries.rsa/org.apache.aries.rsa.topology-manager@1.11.0?classifier=sources
 - pkg:maven/org.apache.aries.rsa/org.apache.aries.rsa.topology-manager@1.8.0
 - pkg:maven/org.apache.aries.rsa/org.apache.aries.rsa.topology-manager@1.8.0?classifier=sources
 - pkg:maven/org.apache.aries.rsa/org.apache.aries.rsa.topology-manager@1.9.0

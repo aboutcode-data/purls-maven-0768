@@ -53,7 +53,14 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.18.2?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.18.3?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.18.4?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.18.5?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.19.0?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.19.1?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.19.2?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.19.3?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.19.4?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.20.0?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.20.1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.7.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.7.1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.7.2?classifier=sources

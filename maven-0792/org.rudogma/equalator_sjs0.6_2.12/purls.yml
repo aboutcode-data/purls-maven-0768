@@ -1,0 +1,6 @@
+- pkg:maven/org.rudogma/equalator_sjs0.6_2.12@1.0
+- pkg:maven/org.rudogma/equalator_sjs0.6_2.12@1.0?classifier=sources
+- pkg:maven/org.rudogma/equalator_sjs0.6_2.12@1.1
+- pkg:maven/org.rudogma/equalator_sjs0.6_2.12@1.1?classifier=sources
+- pkg:maven/org.rudogma/equalator_sjs0.6_2.12@1.2
+- pkg:maven/org.rudogma/equalator_sjs0.6_2.12@1.2?classifier=sources

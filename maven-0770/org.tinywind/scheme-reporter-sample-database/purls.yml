@@ -1,0 +1,2 @@
+- pkg:maven/org.tinywind/scheme-reporter-sample-database@0.4.0
+- pkg:maven/org.tinywind/scheme-reporter-sample-database@0.4.0?classifier=sources

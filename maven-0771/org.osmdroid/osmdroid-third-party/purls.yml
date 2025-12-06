@@ -30,5 +30,7 @@
 - pkg:maven/org.osmdroid/osmdroid-third-party@5.6.3?type=aar
 - pkg:maven/org.osmdroid/osmdroid-third-party@5.6.4?classifier=sources
 - pkg:maven/org.osmdroid/osmdroid-third-party@5.6.4?type=aar
+- pkg:maven/org.osmdroid/osmdroid-third-party@5.6.5?classifier=sources
+- pkg:maven/org.osmdroid/osmdroid-third-party@5.6.5?type=aar
 - pkg:maven/org.osmdroid/osmdroid-third-party@5.6?classifier=sources
 - pkg:maven/org.osmdroid/osmdroid-third-party@5.6?type=aar

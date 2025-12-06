@@ -63,6 +63,8 @@
 - pkg:maven/com.sun.jersey.samples/oauth-client-twitter@1.19.2?classifier=sources
 - pkg:maven/com.sun.jersey.samples/oauth-client-twitter@1.19.3
 - pkg:maven/com.sun.jersey.samples/oauth-client-twitter@1.19.3?classifier=sources
+- pkg:maven/com.sun.jersey.samples/oauth-client-twitter@1.19.4
+- pkg:maven/com.sun.jersey.samples/oauth-client-twitter@1.19.4?classifier=sources
 - pkg:maven/com.sun.jersey.samples/oauth-client-twitter@1.19?classifier=sources
 - pkg:maven/com.sun.jersey.samples/oauth-client-twitter@1.6
 - pkg:maven/com.sun.jersey.samples/oauth-client-twitter@1.7

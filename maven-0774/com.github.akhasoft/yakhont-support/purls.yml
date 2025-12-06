@@ -1,0 +1,2 @@
+- pkg:maven/com.github.akhasoft/yakhont-support@0.9.19?classifier=sources
+- pkg:maven/com.github.akhasoft/yakhont-support@0.9.19?type=aar

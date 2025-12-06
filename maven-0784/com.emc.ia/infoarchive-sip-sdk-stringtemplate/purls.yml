@@ -132,3 +132,5 @@
 - pkg:maven/com.emc.ia/infoarchive-sip-sdk-stringtemplate@5.6.1?classifier=sources
 - pkg:maven/com.emc.ia/infoarchive-sip-sdk-stringtemplate@5.6.2
 - pkg:maven/com.emc.ia/infoarchive-sip-sdk-stringtemplate@5.6.2?classifier=sources
+- pkg:maven/com.emc.ia/infoarchive-sip-sdk-stringtemplate@5.7.0
+- pkg:maven/com.emc.ia/infoarchive-sip-sdk-stringtemplate@5.7.0?classifier=sources

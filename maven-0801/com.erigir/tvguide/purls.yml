@@ -1,0 +1,4 @@
+- pkg:maven/com.erigir/tvguide@0.0.1%2B3
+- pkg:maven/com.erigir/tvguide@0.0.1%2B3?classifier=sources
+- pkg:maven/com.erigir/tvguide@0.0.2%2B5
+- pkg:maven/com.erigir/tvguide@0.0.2%2B5?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.sparkjava/spark-template-water@1.0.0?classifier=sources
 - pkg:maven/com.sparkjava/spark-template-water@2.3
 - pkg:maven/com.sparkjava/spark-template-water@2.3?classifier=sources
+- pkg:maven/com.sparkjava/spark-template-water@2.7.1
+- pkg:maven/com.sparkjava/spark-template-water@2.7.1?classifier=sources

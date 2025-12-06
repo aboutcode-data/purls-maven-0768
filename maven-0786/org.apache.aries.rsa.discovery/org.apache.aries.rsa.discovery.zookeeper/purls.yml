@@ -1,4 +1,6 @@
 - pkg:maven/org.apache.aries.rsa.discovery/org.apache.aries.rsa.discovery.zookeeper@1.10.0
+- pkg:maven/org.apache.aries.rsa.discovery/org.apache.aries.rsa.discovery.zookeeper@1.11.0
+- pkg:maven/org.apache.aries.rsa.discovery/org.apache.aries.rsa.discovery.zookeeper@1.11.0?classifier=sources
 - pkg:maven/org.apache.aries.rsa.discovery/org.apache.aries.rsa.discovery.zookeeper@1.8.0
 - pkg:maven/org.apache.aries.rsa.discovery/org.apache.aries.rsa.discovery.zookeeper@1.8.0?classifier=sources
 - pkg:maven/org.apache.aries.rsa.discovery/org.apache.aries.rsa.discovery.zookeeper@1.9.0

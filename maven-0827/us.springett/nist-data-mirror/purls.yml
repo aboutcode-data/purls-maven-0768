@@ -1,0 +1,2 @@
+- pkg:maven/us.springett/nist-data-mirror@1.1.0
+- pkg:maven/us.springett/nist-data-mirror@1.1.0?classifier=sources

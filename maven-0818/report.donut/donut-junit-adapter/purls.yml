@@ -1,0 +1,4 @@
+- pkg:maven/report.donut/donut-junit-adapter@0.2.2
+- pkg:maven/report.donut/donut-junit-adapter@0.2.2?classifier=sources
+- pkg:maven/report.donut/donut-junit-adapter@0.2.3
+- pkg:maven/report.donut/donut-junit-adapter@0.2.3?classifier=sources

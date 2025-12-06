@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.ticklethepanda/spring-jwt-authentication-filter@0.0.1
+- pkg:maven/uk.co.ticklethepanda/spring-jwt-authentication-filter@0.0.1?classifier=sources

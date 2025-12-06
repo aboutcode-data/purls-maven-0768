@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mike10004/commons-imaging@1.0a1
+- pkg:maven/com.github.mike10004/commons-imaging@1.0a1?classifier=sources

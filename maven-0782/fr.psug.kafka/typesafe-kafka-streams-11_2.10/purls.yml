@@ -1,0 +1,2 @@
+- pkg:maven/fr.psug.kafka/typesafe-kafka-streams-11_2.10@0.2.3
+- pkg:maven/fr.psug.kafka/typesafe-kafka-streams-11_2.10@0.2.3?classifier=sources

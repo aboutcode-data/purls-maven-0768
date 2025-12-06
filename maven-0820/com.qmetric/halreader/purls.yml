@@ -16,3 +16,5 @@
 - pkg:maven/com.qmetric/halreader@1.7?classifier=sources
 - pkg:maven/com.qmetric/halreader@1.8
 - pkg:maven/com.qmetric/halreader@1.8?classifier=sources
+- pkg:maven/com.qmetric/halreader@2.0
+- pkg:maven/com.qmetric/halreader@2.0?classifier=sources

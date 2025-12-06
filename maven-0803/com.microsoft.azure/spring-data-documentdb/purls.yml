@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/spring-data-documentdb@0.1.2
+- pkg:maven/com.microsoft.azure/spring-data-documentdb@0.1.2?classifier=sources

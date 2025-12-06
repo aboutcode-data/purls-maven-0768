@@ -1,2 +1,6 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.importexport@1.1.200
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.importexport@1.1.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.importexport@1.1.300
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.importexport@1.1.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.importexport@1.1.301
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.importexport@1.1.301?classifier=sources

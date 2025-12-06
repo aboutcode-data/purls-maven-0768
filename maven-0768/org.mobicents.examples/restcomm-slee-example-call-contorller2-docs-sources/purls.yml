@@ -226,3 +226,7 @@
 - pkg:maven/org.mobicents.examples/restcomm-slee-example-call-contorller2-docs-sources@2.8.9?classifier=sources
 - pkg:maven/org.mobicents.examples/restcomm-slee-example-call-contorller2-docs-sources@2.9.131
 - pkg:maven/org.mobicents.examples/restcomm-slee-example-call-contorller2-docs-sources@2.9.131?classifier=sources
+- pkg:maven/org.mobicents.examples/restcomm-slee-example-call-contorller2-docs-sources@2.9.132
+- pkg:maven/org.mobicents.examples/restcomm-slee-example-call-contorller2-docs-sources@2.9.132?classifier=sources
+- pkg:maven/org.mobicents.examples/restcomm-slee-example-call-contorller2-docs-sources@2.9.133
+- pkg:maven/org.mobicents.examples/restcomm-slee-example-call-contorller2-docs-sources@2.9.133?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/eu.timepit/refined-cats_2.10@0.8.2
+- pkg:maven/eu.timepit/refined-cats_2.10@0.8.2?classifier=sources
+- pkg:maven/eu.timepit/refined-cats_2.10@0.8.3
+- pkg:maven/eu.timepit/refined-cats_2.10@0.8.3?classifier=sources
+- pkg:maven/eu.timepit/refined-cats_2.10@0.8.4
+- pkg:maven/eu.timepit/refined-cats_2.10@0.8.4?classifier=sources

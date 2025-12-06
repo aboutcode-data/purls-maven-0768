@@ -5,3 +5,4 @@
 - pkg:maven/org.openscience.cdk/cdk-test-interfaces@1.5.14
 - pkg:maven/org.openscience.cdk/cdk-test-interfaces@1.5.15
 - pkg:maven/org.openscience.cdk/cdk-test-interfaces@2.0
+- pkg:maven/org.openscience.cdk/cdk-test-interfaces@2.1

@@ -1,3 +1,6 @@
 - pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest@1.0.0
 - pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest@1.0.0.Alpha5
 - pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest@1.0.0.Alpha6
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest@1.0.1
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest@2.0.0-rc.1
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest@2.0.0-rc.2

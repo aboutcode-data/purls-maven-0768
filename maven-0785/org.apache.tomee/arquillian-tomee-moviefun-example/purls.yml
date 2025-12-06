@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tomee/arquillian-tomee-moviefun-example@7.0.4?classifier=sources
+- pkg:maven/org.apache.tomee/arquillian-tomee-moviefun-example@7.0.4?type=war

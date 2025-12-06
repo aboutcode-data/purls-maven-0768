@@ -64,7 +64,13 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-package@2.0-Alpha-14?classifier=src&type=zip
 - pkg:maven/org.eurekaclinical/eurekaclinical-package@2.0-Alpha-15?classifier=src&type=zip
 - pkg:maven/org.eurekaclinical/eurekaclinical-package@2.0-Alpha-16?classifier=src&type=zip
+- pkg:maven/org.eurekaclinical/eurekaclinical-package@2.0-Alpha-17?classifier=src&type=zip
+- pkg:maven/org.eurekaclinical/eurekaclinical-package@2.0-Alpha-18?classifier=src&type=zip
+- pkg:maven/org.eurekaclinical/eurekaclinical-package@2.0-Alpha-19?classifier=src&type=zip
 - pkg:maven/org.eurekaclinical/eurekaclinical-package@2.0-Alpha-1?classifier=src&type=zip
+- pkg:maven/org.eurekaclinical/eurekaclinical-package@2.0-Alpha-20?classifier=src&type=zip
+- pkg:maven/org.eurekaclinical/eurekaclinical-package@2.0-Alpha-21?classifier=src&type=zip
+- pkg:maven/org.eurekaclinical/eurekaclinical-package@2.0-Alpha-22?classifier=src&type=zip
 - pkg:maven/org.eurekaclinical/eurekaclinical-package@2.0-Alpha-2?classifier=src&type=zip
 - pkg:maven/org.eurekaclinical/eurekaclinical-package@2.0-Alpha-3?classifier=src&type=zip
 - pkg:maven/org.eurekaclinical/eurekaclinical-package@2.0-Alpha-4?classifier=src&type=zip

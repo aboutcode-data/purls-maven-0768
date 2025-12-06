@@ -3,4 +3,6 @@
 - pkg:maven/org.sonarsource.xml/xml-squid@1.4.1?classifier=sources
 - pkg:maven/org.sonarsource.xml/xml-squid@1.4.2.885
 - pkg:maven/org.sonarsource.xml/xml-squid@1.4.2.885?classifier=sources
+- pkg:maven/org.sonarsource.xml/xml-squid@1.4.3.1027
+- pkg:maven/org.sonarsource.xml/xml-squid@1.4.3.1027?classifier=sources
 - pkg:maven/org.sonarsource.xml/xml-squid@1.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.cra.figaro/figaro_2.12@5.0.0.0
+- pkg:maven/com.cra.figaro/figaro_2.12@5.0.0.0?classifier=sources

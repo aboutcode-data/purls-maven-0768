@@ -1,2 +1,4 @@
 - pkg:maven/tw.edu.sju.ee.eea.jni/jni-daqmx@1.0
 - pkg:maven/tw.edu.sju.ee.eea.jni/jni-daqmx@1.0?classifier=sources
+- pkg:maven/tw.edu.sju.ee.eea.jni/jni-daqmx@1.1
+- pkg:maven/tw.edu.sju.ee.eea.jni/jni-daqmx@1.1?classifier=sources

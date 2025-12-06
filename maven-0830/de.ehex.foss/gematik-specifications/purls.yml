@@ -22,3 +22,9 @@
 - pkg:maven/de.ehex.foss/gematik-specifications@2.4.0?classifier=sources
 - pkg:maven/de.ehex.foss/gematik-specifications@2.4.1
 - pkg:maven/de.ehex.foss/gematik-specifications@2.4.1?classifier=sources
+- pkg:maven/de.ehex.foss/gematik-specifications@2.4.2
+- pkg:maven/de.ehex.foss/gematik-specifications@2.4.2?classifier=sources
+- pkg:maven/de.ehex.foss/gematik-specifications@2.5.1
+- pkg:maven/de.ehex.foss/gematik-specifications@2.5.1?classifier=sources
+- pkg:maven/de.ehex.foss/gematik-specifications@2.5.2
+- pkg:maven/de.ehex.foss/gematik-specifications@2.5.2?classifier=sources

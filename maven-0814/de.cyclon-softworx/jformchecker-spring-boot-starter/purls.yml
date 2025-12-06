@@ -1,0 +1,4 @@
+- pkg:maven/de.cyclon-softworx/jformchecker-spring-boot-starter@0.1.16
+- pkg:maven/de.cyclon-softworx/jformchecker-spring-boot-starter@0.1.16?classifier=sources
+- pkg:maven/de.cyclon-softworx/jformchecker-spring-boot-starter@0.1.17
+- pkg:maven/de.cyclon-softworx/jformchecker-spring-boot-starter@0.1.17?classifier=sources

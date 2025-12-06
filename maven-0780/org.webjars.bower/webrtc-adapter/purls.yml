@@ -8,3 +8,9 @@
 - pkg:maven/org.webjars.bower/webrtc-adapter@1.4.0?classifier=sources
 - pkg:maven/org.webjars.bower/webrtc-adapter@2.0.3
 - pkg:maven/org.webjars.bower/webrtc-adapter@2.0.3?classifier=sources
+- pkg:maven/org.webjars.bower/webrtc-adapter@5.0.4
+- pkg:maven/org.webjars.bower/webrtc-adapter@5.0.4?classifier=sources
+- pkg:maven/org.webjars.bower/webrtc-adapter@5.0.6
+- pkg:maven/org.webjars.bower/webrtc-adapter@5.0.6?classifier=sources
+- pkg:maven/org.webjars.bower/webrtc-adapter@6.0.0
+- pkg:maven/org.webjars.bower/webrtc-adapter@6.0.0?classifier=sources

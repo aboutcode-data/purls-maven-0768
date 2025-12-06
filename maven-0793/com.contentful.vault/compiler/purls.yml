@@ -34,3 +34,7 @@
 - pkg:maven/com.contentful.vault/compiler@2.0.0?classifier=sources
 - pkg:maven/com.contentful.vault/compiler@2.1.0
 - pkg:maven/com.contentful.vault/compiler@2.1.0?classifier=sources
+- pkg:maven/com.contentful.vault/compiler@3.0.1
+- pkg:maven/com.contentful.vault/compiler@3.0.1?classifier=sources
+- pkg:maven/com.contentful.vault/compiler@3.0.2
+- pkg:maven/com.contentful.vault/compiler@3.0.2?classifier=sources

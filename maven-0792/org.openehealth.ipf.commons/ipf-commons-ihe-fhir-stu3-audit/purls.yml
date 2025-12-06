@@ -1,0 +1,6 @@
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-stu3-audit@3.4-20170926
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-stu3-audit@3.4-20170926?classifier=sources
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-stu3-audit@3.4-20171025
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-stu3-audit@3.4-20171025?classifier=sources
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-stu3-audit@3.4.0
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-stu3-audit@3.4.0?classifier=sources

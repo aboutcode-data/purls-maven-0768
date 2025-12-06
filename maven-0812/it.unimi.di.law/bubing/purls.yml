@@ -9,3 +9,5 @@
 - pkg:maven/it.unimi.di.law/bubing@0.9.8?classifier=sources
 - pkg:maven/it.unimi.di.law/bubing@0.9.9
 - pkg:maven/it.unimi.di.law/bubing@0.9.9?classifier=sources
+- pkg:maven/it.unimi.di.law/bubing@VERSION
+- pkg:maven/it.unimi.di.law/bubing@VERSION?classifier=sources

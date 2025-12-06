@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.servicefabric/sf-services@1.0.0-preview1
+- pkg:maven/com.microsoft.servicefabric/sf-services@1.0.0-preview1?classifier=sources

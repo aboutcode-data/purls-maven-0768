@@ -6,3 +6,5 @@
 - pkg:maven/com.segment.analytics.java/analytics-cli@2.0.0-RC7
 - pkg:maven/com.segment.analytics.java/analytics-cli@2.0.0-RC7?classifier=sources
 - pkg:maven/com.segment.analytics.java/analytics-cli@2.0.0?classifier=sources
+- pkg:maven/com.segment.analytics.java/analytics-cli@2.1.0
+- pkg:maven/com.segment.analytics.java/analytics-cli@2.1.0?classifier=sources

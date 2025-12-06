@@ -1,2 +1,4 @@
 - pkg:maven/jp.co.bizreach/aws-ses-scala_2.11@0.0.1
 - pkg:maven/jp.co.bizreach/aws-ses-scala_2.11@0.0.1?classifier=sources
+- pkg:maven/jp.co.bizreach/aws-ses-scala_2.11@0.0.2
+- pkg:maven/jp.co.bizreach/aws-ses-scala_2.11@0.0.2?classifier=sources

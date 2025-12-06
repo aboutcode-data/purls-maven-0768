@@ -1,0 +1,2 @@
+- pkg:maven/com.vanniktech/emoji-google@0.5.1?classifier=sources
+- pkg:maven/com.vanniktech/emoji-google@0.5.1?type=aar

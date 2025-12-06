@@ -74,3 +74,11 @@
 - pkg:maven/io.taig.android/toolbelt_2.11@0.5.8?type=aar
 - pkg:maven/io.taig.android/toolbelt_2.11@0.5.9?classifier=sources
 - pkg:maven/io.taig.android/toolbelt_2.11@0.5.9?type=aar
+- pkg:maven/io.taig.android/toolbelt_2.11@0.6.0?classifier=sources
+- pkg:maven/io.taig.android/toolbelt_2.11@0.6.0?type=aar
+- pkg:maven/io.taig.android/toolbelt_2.11@0.6.1?classifier=sources
+- pkg:maven/io.taig.android/toolbelt_2.11@0.6.1?type=aar
+- pkg:maven/io.taig.android/toolbelt_2.11@0.6.2?classifier=sources
+- pkg:maven/io.taig.android/toolbelt_2.11@0.6.2?type=aar
+- pkg:maven/io.taig.android/toolbelt_2.11@0.6.3?classifier=sources
+- pkg:maven/io.taig.android/toolbelt_2.11@0.6.3?type=aar

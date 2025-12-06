@@ -1,0 +1,4 @@
+- pkg:maven/pl.devcoffee/p6spy-mysql-fraction@1.0
+- pkg:maven/pl.devcoffee/p6spy-mysql-fraction@1.0?classifier=sources
+- pkg:maven/pl.devcoffee/p6spy-mysql-fraction@1.1
+- pkg:maven/pl.devcoffee/p6spy-mysql-fraction@1.1?classifier=sources

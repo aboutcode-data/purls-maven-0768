@@ -30,6 +30,8 @@
 - pkg:maven/io.lavagna/lavagna@1.0.7.2?type=war
 - pkg:maven/io.lavagna/lavagna@1.0.7.3?classifier=sources
 - pkg:maven/io.lavagna/lavagna@1.0.7.3?type=war
+- pkg:maven/io.lavagna/lavagna@1.0.7.4?classifier=sources
+- pkg:maven/io.lavagna/lavagna@1.0.7.4?type=war
 - pkg:maven/io.lavagna/lavagna@1.0.7?classifier=sources
 - pkg:maven/io.lavagna/lavagna@1.0.7?type=war
 - pkg:maven/io.lavagna/lavagna@1.0?classifier=sources
@@ -46,3 +48,7 @@
 - pkg:maven/io.lavagna/lavagna@1.1-M4?type=war
 - pkg:maven/io.lavagna/lavagna@1.1-M5?classifier=sources
 - pkg:maven/io.lavagna/lavagna@1.1-M5?type=war
+- pkg:maven/io.lavagna/lavagna@1.1-M6?classifier=sources
+- pkg:maven/io.lavagna/lavagna@1.1-M6?type=war
+- pkg:maven/io.lavagna/lavagna@1.1-M7?classifier=sources
+- pkg:maven/io.lavagna/lavagna@1.1-M7?type=war

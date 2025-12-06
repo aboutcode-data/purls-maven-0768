@@ -6,3 +6,5 @@
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data@6.2?type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data@6.3?classifier=sources
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data@6.3?type=zip
+- pkg:maven/org.jboss.windup.maven/nexus-indexer-data@6.4?classifier=sources
+- pkg:maven/org.jboss.windup.maven/nexus-indexer-data@6.4?type=zip

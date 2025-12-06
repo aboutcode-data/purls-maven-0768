@@ -37,3 +37,5 @@
 - pkg:maven/org.apache.tiles/tiles-test@3.0.5?type=war
 - pkg:maven/org.apache.tiles/tiles-test@3.0.7?classifier=sources
 - pkg:maven/org.apache.tiles/tiles-test@3.0.7?type=war
+- pkg:maven/org.apache.tiles/tiles-test@3.0.8?classifier=sources
+- pkg:maven/org.apache.tiles/tiles-test@3.0.8?type=war

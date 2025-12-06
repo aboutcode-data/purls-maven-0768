@@ -1,0 +1,6 @@
+- pkg:maven/fr.cenotelie.commons/commons-jsonrpc@1.0.0
+- pkg:maven/fr.cenotelie.commons/commons-jsonrpc@1.0.0?classifier=sources
+- pkg:maven/fr.cenotelie.commons/commons-jsonrpc@2.0.0
+- pkg:maven/fr.cenotelie.commons/commons-jsonrpc@2.0.0?classifier=sources
+- pkg:maven/fr.cenotelie.commons/commons-jsonrpc@2.0.1
+- pkg:maven/fr.cenotelie.commons/commons-jsonrpc@2.0.1?classifier=sources

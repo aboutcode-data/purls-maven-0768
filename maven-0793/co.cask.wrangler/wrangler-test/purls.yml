@@ -1,0 +1,6 @@
+- pkg:maven/co.cask.wrangler/wrangler-test@3.0.0
+- pkg:maven/co.cask.wrangler/wrangler-test@3.0.0?classifier=sources
+- pkg:maven/co.cask.wrangler/wrangler-test@3.0.1
+- pkg:maven/co.cask.wrangler/wrangler-test@3.0.1?classifier=sources
+- pkg:maven/co.cask.wrangler/wrangler-test@3.0.2
+- pkg:maven/co.cask.wrangler/wrangler-test@3.0.2?classifier=sources

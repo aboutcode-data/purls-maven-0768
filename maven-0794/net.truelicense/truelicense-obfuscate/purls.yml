@@ -1,0 +1,4 @@
+- pkg:maven/net.truelicense/truelicense-obfuscate@3.0.0
+- pkg:maven/net.truelicense/truelicense-obfuscate@3.0.0?classifier=sources
+- pkg:maven/net.truelicense/truelicense-obfuscate@3.1.0
+- pkg:maven/net.truelicense/truelicense-obfuscate@3.1.0?classifier=sources

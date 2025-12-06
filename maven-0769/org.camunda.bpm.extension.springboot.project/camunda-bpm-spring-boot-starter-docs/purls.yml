@@ -2,3 +2,4 @@
 - pkg:maven/org.camunda.bpm.extension.springboot.project/camunda-bpm-spring-boot-starter-docs@2.1.0
 - pkg:maven/org.camunda.bpm.extension.springboot.project/camunda-bpm-spring-boot-starter-docs@2.1.1
 - pkg:maven/org.camunda.bpm.extension.springboot.project/camunda-bpm-spring-boot-starter-docs@2.1.2
+- pkg:maven/org.camunda.bpm.extension.springboot.project/camunda-bpm-spring-boot-starter-docs@2.2.0

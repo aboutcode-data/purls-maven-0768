@@ -12,3 +12,5 @@
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@4.1.2
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@4.1.2?classifier=sources
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@4.1?classifier=sources
+- pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@5.0
+- pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@5.0?classifier=sources

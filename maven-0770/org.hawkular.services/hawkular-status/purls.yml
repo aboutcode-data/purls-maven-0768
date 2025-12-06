@@ -46,3 +46,9 @@
 - pkg:maven/org.hawkular.services/hawkular-status@0.37.0.Final?type=war
 - pkg:maven/org.hawkular.services/hawkular-status@0.38.0.Final?classifier=sources
 - pkg:maven/org.hawkular.services/hawkular-status@0.38.0.Final?type=war
+- pkg:maven/org.hawkular.services/hawkular-status@0.39.0.Final?classifier=sources
+- pkg:maven/org.hawkular.services/hawkular-status@0.39.0.Final?type=war
+- pkg:maven/org.hawkular.services/hawkular-status@0.40.0.Final?classifier=sources
+- pkg:maven/org.hawkular.services/hawkular-status@0.40.0.Final?type=war
+- pkg:maven/org.hawkular.services/hawkular-status@0.40.1.Final?classifier=sources
+- pkg:maven/org.hawkular.services/hawkular-status@0.40.1.Final?type=war

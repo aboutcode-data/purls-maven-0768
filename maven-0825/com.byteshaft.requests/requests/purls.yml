@@ -1,0 +1,2 @@
+- pkg:maven/com.byteshaft.requests/requests@0.5.2?classifier=sources
+- pkg:maven/com.byteshaft.requests/requests@0.5.2?type=aar

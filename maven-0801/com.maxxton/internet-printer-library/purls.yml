@@ -1,0 +1,2 @@
+- pkg:maven/com.maxxton/internet-printer-library@1.3
+- pkg:maven/com.maxxton/internet-printer-library@1.3?classifier=sources

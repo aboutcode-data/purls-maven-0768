@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay/org.apache.velocity@1.6.4.LIFERAY-PATCHED-1
+- pkg:maven/com.liferay/org.apache.velocity@1.6.4.LIFERAY-PATCHED-1?classifier=sources

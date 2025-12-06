@@ -1,0 +1,6 @@
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0-Alpha
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0-Alpha?classifier=sources
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.2-Alpha
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.2-Alpha?classifier=sources
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.3-Alpha
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.3-Alpha?classifier=sources

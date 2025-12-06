@@ -1,0 +1,2 @@
+- pkg:maven/dk.brics/automaton@1.12-1
+- pkg:maven/dk.brics/automaton@1.12-1?classifier=sources

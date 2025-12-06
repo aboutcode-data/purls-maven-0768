@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views.log@1.2.1
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.views.log@1.2.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.views.log@1.2.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views.log@1.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-novnc-noVNC@0.6.2
+- pkg:maven/org.webjars.npm/github-com-novnc-noVNC@0.6.2?classifier=sources

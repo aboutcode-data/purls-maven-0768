@@ -8,3 +8,7 @@
 - pkg:maven/com.agapsys/web-app-toolkit-core@0.1.0-20170501?classifier=sources
 - pkg:maven/com.agapsys/web-app-toolkit-core@0.1.0-20170508
 - pkg:maven/com.agapsys/web-app-toolkit-core@0.1.0-20170508?classifier=sources
+- pkg:maven/com.agapsys/web-app-toolkit-core@0.1.0-20170515
+- pkg:maven/com.agapsys/web-app-toolkit-core@0.1.0-20170515?classifier=sources
+- pkg:maven/com.agapsys/web-app-toolkit-core@0.1.0-20170603
+- pkg:maven/com.agapsys/web-app-toolkit-core@0.1.0-20170603?classifier=sources

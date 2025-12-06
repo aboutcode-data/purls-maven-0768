@@ -1,2 +1,4 @@
 - pkg:maven/edu.stanford.protege/webprotege-annotations@1.0.0
 - pkg:maven/edu.stanford.protege/webprotege-annotations@1.0.0?classifier=sources
+- pkg:maven/edu.stanford.protege/webprotege-annotations@1.1.0
+- pkg:maven/edu.stanford.protege/webprotege-annotations@1.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/nl.paultegelaar.liquid.relay/liquid-relay-fuse-esb-interceptor@0.0.7
+- pkg:maven/nl.paultegelaar.liquid.relay/liquid-relay-fuse-esb-interceptor@0.0.7?classifier=sources
+- pkg:maven/nl.paultegelaar.liquid.relay/liquid-relay-fuse-esb-interceptor@1.0.0
+- pkg:maven/nl.paultegelaar.liquid.relay/liquid-relay-fuse-esb-interceptor@1.0.0?classifier=sources

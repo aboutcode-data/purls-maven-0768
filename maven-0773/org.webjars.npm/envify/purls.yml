@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/envify@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/envify@3.4.0
 - pkg:maven/org.webjars.npm/envify@3.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/envify@3.4.1
+- pkg:maven/org.webjars.npm/envify@3.4.1?classifier=sources
+- pkg:maven/org.webjars.npm/envify@4.0.0
+- pkg:maven/org.webjars.npm/envify@4.0.0?classifier=sources

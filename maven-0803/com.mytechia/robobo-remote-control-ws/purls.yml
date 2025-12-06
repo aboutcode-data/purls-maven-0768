@@ -1,0 +1,2 @@
+- pkg:maven/com.mytechia/robobo-remote-control-ws@1.0.1?classifier=sources
+- pkg:maven/com.mytechia/robobo-remote-control-ws@1.0.1?type=aar

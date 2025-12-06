@@ -1,0 +1,2 @@
+- pkg:maven/org.nutz/nutzboot-starter-swagger@2.0-Beta
+- pkg:maven/org.nutz/nutzboot-starter-swagger@2.0-Beta?classifier=sources

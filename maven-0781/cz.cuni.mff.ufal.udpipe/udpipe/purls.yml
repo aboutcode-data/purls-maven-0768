@@ -1,0 +1,2 @@
+- pkg:maven/cz.cuni.mff.ufal.udpipe/udpipe@1.1.0
+- pkg:maven/cz.cuni.mff.ufal.udpipe/udpipe@1.1.0?classifier=sources

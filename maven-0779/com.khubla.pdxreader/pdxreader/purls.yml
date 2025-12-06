@@ -1,2 +1,4 @@
 - pkg:maven/com.khubla.pdxreader/pdxreader@1.1
 - pkg:maven/com.khubla.pdxreader/pdxreader@1.1?classifier=sources
+- pkg:maven/com.khubla.pdxreader/pdxreader@1.2
+- pkg:maven/com.khubla.pdxreader/pdxreader@1.2?classifier=sources

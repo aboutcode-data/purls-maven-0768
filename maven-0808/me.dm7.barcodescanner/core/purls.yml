@@ -19,4 +19,9 @@
 - pkg:maven/me.dm7.barcodescanner/core@1.9.1?type=aar
 - pkg:maven/me.dm7.barcodescanner/core@1.9.2?type=aar
 - pkg:maven/me.dm7.barcodescanner/core@1.9.3?type=aar
+- pkg:maven/me.dm7.barcodescanner/core@1.9.4?type=aar
+- pkg:maven/me.dm7.barcodescanner/core@1.9.5?type=aar
+- pkg:maven/me.dm7.barcodescanner/core@1.9.6?type=aar
+- pkg:maven/me.dm7.barcodescanner/core@1.9.7?type=aar
+- pkg:maven/me.dm7.barcodescanner/core@1.9.8?type=aar
 - pkg:maven/me.dm7.barcodescanner/core@1.9?type=aar

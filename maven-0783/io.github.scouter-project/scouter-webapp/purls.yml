@@ -1,0 +1,4 @@
+- pkg:maven/io.github.scouter-project/scouter-webapp@1.8.0
+- pkg:maven/io.github.scouter-project/scouter-webapp@1.8.0?classifier=sources
+- pkg:maven/io.github.scouter-project/scouter-webapp@v1.8.0
+- pkg:maven/io.github.scouter-project/scouter-webapp@v1.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.igniterealtime.smack/smack-omemo-signal@4.2.1-beta1
+- pkg:maven/org.igniterealtime.smack/smack-omemo-signal@4.2.1-beta1?classifier=sources

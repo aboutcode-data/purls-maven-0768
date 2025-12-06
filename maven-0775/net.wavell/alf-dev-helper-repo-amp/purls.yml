@@ -1,1 +1,2 @@
 - pkg:maven/net.wavell/alf-dev-helper-repo-amp@1.0.0?classifier=sources
+- pkg:maven/net.wavell/alf-dev-helper-repo-amp@1.0.1?classifier=sources

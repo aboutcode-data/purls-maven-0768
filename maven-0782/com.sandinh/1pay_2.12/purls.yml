@@ -1,0 +1,2 @@
+- pkg:maven/com.sandinh/1pay_2.12@2.3.0
+- pkg:maven/com.sandinh/1pay_2.12@2.3.0?classifier=sources

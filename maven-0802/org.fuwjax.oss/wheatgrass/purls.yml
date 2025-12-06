@@ -20,3 +20,5 @@
 - pkg:maven/org.fuwjax.oss/wheatgrass@1.42?classifier=sources
 - pkg:maven/org.fuwjax.oss/wheatgrass@1.43
 - pkg:maven/org.fuwjax.oss/wheatgrass@1.43?classifier=sources
+- pkg:maven/org.fuwjax.oss/wheatgrass@1.44
+- pkg:maven/org.fuwjax.oss/wheatgrass@1.44?classifier=sources

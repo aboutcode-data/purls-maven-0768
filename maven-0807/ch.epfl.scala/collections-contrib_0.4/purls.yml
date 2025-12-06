@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/collections-contrib_0.4@0.6.0
+- pkg:maven/ch.epfl.scala/collections-contrib_0.4@0.6.0?classifier=sources

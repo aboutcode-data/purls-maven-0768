@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.event/ibm-event-desktop@1.1.1
+- pkg:maven/com.ibm.event/ibm-event-desktop@1.1.1?classifier=sources

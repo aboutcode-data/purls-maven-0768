@@ -1,0 +1,4 @@
+- pkg:maven/io.github.msdk/msdk-io-mzml-old@0.0.10
+- pkg:maven/io.github.msdk/msdk-io-mzml-old@0.0.10?classifier=sources
+- pkg:maven/io.github.msdk/msdk-io-mzml-old@0.0.9
+- pkg:maven/io.github.msdk/msdk-io-mzml-old@0.0.9?classifier=sources

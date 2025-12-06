@@ -8,5 +8,7 @@
 - pkg:maven/com.stanfy.enroscar/enroscar-async-compiler@2.0-RC1?classifier=sources
 - pkg:maven/com.stanfy.enroscar/enroscar-async-compiler@2.0-RC2
 - pkg:maven/com.stanfy.enroscar/enroscar-async-compiler@2.0-RC2?classifier=sources
+- pkg:maven/com.stanfy.enroscar/enroscar-async-compiler@2.0-RC3
+- pkg:maven/com.stanfy.enroscar/enroscar-async-compiler@2.0-RC3?classifier=sources
 - pkg:maven/com.stanfy.enroscar/enroscar-async-compiler@2.0.alpha3
 - pkg:maven/com.stanfy.enroscar/enroscar-async-compiler@2.0.alpha3?classifier=sources

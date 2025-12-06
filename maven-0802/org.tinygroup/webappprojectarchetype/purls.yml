@@ -22,3 +22,4 @@
 - pkg:maven/org.tinygroup/webappprojectarchetype@3.1.1?classifier=sources
 - pkg:maven/org.tinygroup/webappprojectarchetype@3.1.2?classifier=sources
 - pkg:maven/org.tinygroup/webappprojectarchetype@3.4.0?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@3.4.6?classifier=sources

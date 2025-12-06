@@ -10,3 +10,7 @@
 - pkg:maven/com.brienwheeler.lib/lib-concurrent@1.05-RELEASE?classifier=sources
 - pkg:maven/com.brienwheeler.lib/lib-concurrent@1.06-RELEASE
 - pkg:maven/com.brienwheeler.lib/lib-concurrent@1.06-RELEASE?classifier=sources
+- pkg:maven/com.brienwheeler.lib/lib-concurrent@1.07
+- pkg:maven/com.brienwheeler.lib/lib-concurrent@1.07-RELEASE
+- pkg:maven/com.brienwheeler.lib/lib-concurrent@1.07-RELEASE?classifier=sources
+- pkg:maven/com.brienwheeler.lib/lib-concurrent@1.07?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.sanskrit-coders/indic-transliteration_2.12@1.8
+- pkg:maven/com.github.sanskrit-coders/indic-transliteration_2.12@1.8?classifier=sources
+- pkg:maven/com.github.sanskrit-coders/indic-transliteration_2.12@1.9
+- pkg:maven/com.github.sanskrit-coders/indic-transliteration_2.12@1.9?classifier=sources

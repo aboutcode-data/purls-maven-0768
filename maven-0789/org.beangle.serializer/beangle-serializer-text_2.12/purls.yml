@@ -1,0 +1,2 @@
+- pkg:maven/org.beangle.serializer/beangle-serializer-text_2.12@0.0.3
+- pkg:maven/org.beangle.serializer/beangle-serializer-text_2.12@0.0.3?classifier=sources

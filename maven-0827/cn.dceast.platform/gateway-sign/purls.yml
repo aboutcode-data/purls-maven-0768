@@ -1,0 +1,2 @@
+- pkg:maven/cn.dceast.platform/gateway-sign@2.1.0
+- pkg:maven/cn.dceast.platform/gateway-sign@2.1.0?classifier=sources

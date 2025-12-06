@@ -10,3 +10,5 @@
 - pkg:maven/no.difi.vefa/peppol-common@0.9.7?classifier=sources
 - pkg:maven/no.difi.vefa/peppol-common@0.9.8
 - pkg:maven/no.difi.vefa/peppol-common@0.9.8?classifier=sources
+- pkg:maven/no.difi.vefa/peppol-common@0.9.9
+- pkg:maven/no.difi.vefa/peppol-common@0.9.9?classifier=sources

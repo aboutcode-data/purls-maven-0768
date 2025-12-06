@@ -22,3 +22,5 @@
 - pkg:maven/io.verizon.journal/core_2.10@2.3.7?classifier=sources
 - pkg:maven/io.verizon.journal/core_2.10@3.0.18
 - pkg:maven/io.verizon.journal/core_2.10@3.0.18?classifier=sources
+- pkg:maven/io.verizon.journal/core_2.10@3.0.19
+- pkg:maven/io.verizon.journal/core_2.10@3.0.19?classifier=sources

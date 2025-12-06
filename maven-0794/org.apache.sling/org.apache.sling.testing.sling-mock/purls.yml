@@ -34,6 +34,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@1.9.0
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@1.9.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@1.9.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@1.9.10
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@1.9.10?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@1.9.10?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@1.9.2
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@1.9.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@1.9.2?classifier=sources
@@ -61,6 +64,12 @@
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.10
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.10?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.10?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.12
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.12?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.12?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.14
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.14?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.14?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.2
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock@2.2.2?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/org.aesh/aesh-readline@1.0
+- pkg:maven/org.aesh/aesh-readline@1.0-CR1
+- pkg:maven/org.aesh/aesh-readline@1.0-CR11
+- pkg:maven/org.aesh/aesh-readline@1.0-CR11?classifier=sources
+- pkg:maven/org.aesh/aesh-readline@1.0-CR13
+- pkg:maven/org.aesh/aesh-readline@1.0-CR13?classifier=sources
+- pkg:maven/org.aesh/aesh-readline@1.0-CR14
+- pkg:maven/org.aesh/aesh-readline@1.0-CR14?classifier=sources
+- pkg:maven/org.aesh/aesh-readline@1.0-CR1?classifier=sources
+- pkg:maven/org.aesh/aesh-readline@1.0-CR20
+- pkg:maven/org.aesh/aesh-readline@1.0-CR20?classifier=sources
+- pkg:maven/org.aesh/aesh-readline@1.0?classifier=sources
+- pkg:maven/org.aesh/aesh-readline@1.1
+- pkg:maven/org.aesh/aesh-readline@1.1?classifier=sources
+- pkg:maven/org.aesh/aesh-readline@1.2
+- pkg:maven/org.aesh/aesh-readline@1.2?classifier=sources

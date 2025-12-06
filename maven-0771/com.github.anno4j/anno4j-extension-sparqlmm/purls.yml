@@ -4,3 +4,4 @@
 - pkg:maven/com.github.anno4j/anno4j-extension-sparqlmm@2.2.0.MICO
 - pkg:maven/com.github.anno4j/anno4j-extension-sparqlmm@2.2.1.MICO
 - pkg:maven/com.github.anno4j/anno4j-extension-sparqlmm@2.3.0
+- pkg:maven/com.github.anno4j/anno4j-extension-sparqlmm@2.4

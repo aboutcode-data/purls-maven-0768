@@ -1,0 +1,2 @@
+- pkg:maven/org.qcri.rheem/rheem-graphchi_2.11@0.3.0
+- pkg:maven/org.qcri.rheem/rheem-graphchi_2.11@0.3.0?classifier=sources

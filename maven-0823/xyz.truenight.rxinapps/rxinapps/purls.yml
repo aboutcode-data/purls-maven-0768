@@ -1,0 +1,2 @@
+- pkg:maven/xyz.truenight.rxinapps/rxinapps@1.0.6?classifier=sources
+- pkg:maven/xyz.truenight.rxinapps/rxinapps@1.0.6?type=aar

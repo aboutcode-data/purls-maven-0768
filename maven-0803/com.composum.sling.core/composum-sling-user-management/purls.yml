@@ -10,3 +10,11 @@
 - pkg:maven/com.composum.sling.core/composum-sling-user-management@1.6.0?classifier=sources
 - pkg:maven/com.composum.sling.core/composum-sling-user-management@1.7.0
 - pkg:maven/com.composum.sling.core/composum-sling-user-management@1.7.0?classifier=sources
+- pkg:maven/com.composum.sling.core/composum-sling-user-management@1.7.1
+- pkg:maven/com.composum.sling.core/composum-sling-user-management@1.7.1?classifier=sources
+- pkg:maven/com.composum.sling.core/composum-sling-user-management@1.8.0
+- pkg:maven/com.composum.sling.core/composum-sling-user-management@1.8.0?classifier=sources
+- pkg:maven/com.composum.sling.core/composum-sling-user-management@1.8.1
+- pkg:maven/com.composum.sling.core/composum-sling-user-management@1.8.1?classifier=sources
+- pkg:maven/com.composum.sling.core/composum-sling-user-management@1.8.2
+- pkg:maven/com.composum.sling.core/composum-sling-user-management@1.8.2?classifier=sources

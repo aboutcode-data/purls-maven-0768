@@ -6,3 +6,5 @@
 - pkg:maven/com.sdl.web/ugc_api@8.3.0-1004?classifier=sources
 - pkg:maven/com.sdl.web/ugc_api@8.5.0-1013
 - pkg:maven/com.sdl.web/ugc_api@8.5.0-1013?classifier=sources
+- pkg:maven/com.sdl.web/ugc_api@8.5.0-1041
+- pkg:maven/com.sdl.web/ugc_api@8.5.0-1041?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/eu.mihosoft.appx.vappx/vappx@2017.1.0
+- pkg:maven/eu.mihosoft.appx.vappx/vappx@2017.1.0?classifier=sources
+- pkg:maven/eu.mihosoft.appx.vappx/vappx@2017.1.1
+- pkg:maven/eu.mihosoft.appx.vappx/vappx@2017.1.1?classifier=sources

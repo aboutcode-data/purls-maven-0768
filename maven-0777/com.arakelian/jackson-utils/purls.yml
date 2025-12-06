@@ -1,0 +1,4 @@
+- pkg:maven/com.arakelian/jackson-utils@1.1.0
+- pkg:maven/com.arakelian/jackson-utils@1.1.0?classifier=sources
+- pkg:maven/com.arakelian/jackson-utils@1.5.0
+- pkg:maven/com.arakelian/jackson-utils@1.5.0?classifier=sources

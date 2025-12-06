@@ -111,6 +111,7 @@
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.8.28.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.8.29.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.8.2?type=war
+- pkg:maven/org.jboss.as/jboss-as-console-resources@2.8.30.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.8.3?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.8.4?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.8.5?type=war
@@ -126,6 +127,12 @@
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.0.Alpha6?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.0.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.1.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.10.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.11.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.12.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.13.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.14.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.15.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.2.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.3.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.4.Final?type=war

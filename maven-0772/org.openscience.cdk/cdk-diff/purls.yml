@@ -12,3 +12,5 @@
 - pkg:maven/org.openscience.cdk/cdk-diff@1.5.15?classifier=sources
 - pkg:maven/org.openscience.cdk/cdk-diff@2.0
 - pkg:maven/org.openscience.cdk/cdk-diff@2.0?classifier=sources
+- pkg:maven/org.openscience.cdk/cdk-diff@2.1
+- pkg:maven/org.openscience.cdk/cdk-diff@2.1?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.glassfish.main.packager/derby@5.0?classifier=sources

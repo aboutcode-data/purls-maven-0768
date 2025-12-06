@@ -1,0 +1,6 @@
+- pkg:maven/org.drools.testcoverage/model-wrapper@7.2.0.Final
+- pkg:maven/org.drools.testcoverage/model-wrapper@7.3.0.Final
+- pkg:maven/org.drools.testcoverage/model-wrapper@7.4.0.Final
+- pkg:maven/org.drools.testcoverage/model-wrapper@7.4.1.Final
+- pkg:maven/org.drools.testcoverage/model-wrapper@7.5.0.Final
+- pkg:maven/org.drools.testcoverage/model-wrapper@7.5.0.t018

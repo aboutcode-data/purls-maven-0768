@@ -1,0 +1,2 @@
+- pkg:maven/io.smartcat/cassandra-diagnostics-ft-telegraf@1.4.10
+- pkg:maven/io.smartcat/cassandra-diagnostics-ft-telegraf@1.4.7

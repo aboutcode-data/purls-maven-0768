@@ -6,3 +6,5 @@
 - pkg:maven/org.lyranthe.prometheus/monix21_sjs0.6_2.12@0.8.3?classifier=sources
 - pkg:maven/org.lyranthe.prometheus/monix21_sjs0.6_2.12@0.8.4
 - pkg:maven/org.lyranthe.prometheus/monix21_sjs0.6_2.12@0.8.4?classifier=sources
+- pkg:maven/org.lyranthe.prometheus/monix21_sjs0.6_2.12@0.9.0-M1
+- pkg:maven/org.lyranthe.prometheus/monix21_sjs0.6_2.12@0.9.0-M1?classifier=sources

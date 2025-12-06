@@ -1,4 +1,14 @@
 - pkg:maven/org.daisy.braille/braille-utils.impl@2.0.0
 - pkg:maven/org.daisy.braille/braille-utils.impl@2.0.0?classifier=sources
+- pkg:maven/org.daisy.braille/braille-utils.impl@3.0.0
 - pkg:maven/org.daisy.braille/braille-utils.impl@3.0.0-beta
 - pkg:maven/org.daisy.braille/braille-utils.impl@3.0.0-beta?classifier=sources
+- pkg:maven/org.daisy.braille/braille-utils.impl@3.0.0?classifier=sources
+- pkg:maven/org.daisy.braille/braille-utils.impl@4.0.0
+- pkg:maven/org.daisy.braille/braille-utils.impl@4.0.0-beta1
+- pkg:maven/org.daisy.braille/braille-utils.impl@4.0.0-beta1?classifier=sources
+- pkg:maven/org.daisy.braille/braille-utils.impl@4.0.0-beta2
+- pkg:maven/org.daisy.braille/braille-utils.impl@4.0.0-beta2?classifier=sources
+- pkg:maven/org.daisy.braille/braille-utils.impl@4.0.0?classifier=sources
+- pkg:maven/org.daisy.braille/braille-utils.impl@4.0.1
+- pkg:maven/org.daisy.braille/braille-utils.impl@4.0.1?classifier=sources

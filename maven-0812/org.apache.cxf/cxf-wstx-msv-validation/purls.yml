@@ -87,6 +87,8 @@
 - pkg:maven/org.apache.cxf/cxf-wstx-msv-validation@2.6.15?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-wstx-msv-validation@2.6.16
 - pkg:maven/org.apache.cxf/cxf-wstx-msv-validation@2.6.16?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-wstx-msv-validation@2.6.17
+- pkg:maven/org.apache.cxf/cxf-wstx-msv-validation@2.6.17?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-wstx-msv-validation@2.6.1?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-wstx-msv-validation@2.6.2
 - pkg:maven/org.apache.cxf/cxf-wstx-msv-validation@2.6.2?classifier=sources

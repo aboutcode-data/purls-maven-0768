@@ -1,0 +1,6 @@
+- pkg:maven/org.singledog.spring.boot/mybatis-spring-boot-sample-annotation@1.3.3
+- pkg:maven/org.singledog.spring.boot/mybatis-spring-boot-sample-annotation@1.3.3?classifier=sources
+- pkg:maven/org.singledog.spring.boot/mybatis-spring-boot-sample-annotation@1.3.4
+- pkg:maven/org.singledog.spring.boot/mybatis-spring-boot-sample-annotation@1.3.4?classifier=sources
+- pkg:maven/org.singledog.spring.boot/mybatis-spring-boot-sample-annotation@1.3.5
+- pkg:maven/org.singledog.spring.boot/mybatis-spring-boot-sample-annotation@1.3.5?classifier=sources

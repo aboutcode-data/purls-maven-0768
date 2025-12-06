@@ -6,3 +6,5 @@
 - pkg:maven/com.mitchellbosecke/pebble-spring4@2.2.3?classifier=sources
 - pkg:maven/com.mitchellbosecke/pebble-spring4@2.3.0
 - pkg:maven/com.mitchellbosecke/pebble-spring4@2.3.0?classifier=sources
+- pkg:maven/com.mitchellbosecke/pebble-spring4@2.4.0
+- pkg:maven/com.mitchellbosecke/pebble-spring4@2.4.0?classifier=sources

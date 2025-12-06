@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/babel-plugin-transform-global-system-wrapper@0.3.4
+- pkg:maven/org.webjars.npm/babel-plugin-transform-global-system-wrapper@0.3.4?classifier=sources

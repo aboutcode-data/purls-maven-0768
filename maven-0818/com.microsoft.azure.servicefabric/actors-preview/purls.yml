@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.servicefabric/actors-preview@1.0.0
+- pkg:maven/com.microsoft.azure.servicefabric/actors-preview@1.0.0?classifier=sources

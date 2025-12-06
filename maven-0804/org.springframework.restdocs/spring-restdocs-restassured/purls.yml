@@ -10,3 +10,9 @@
 - pkg:maven/org.springframework.restdocs/spring-restdocs-restassured@1.2.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.restdocs/spring-restdocs-restassured@1.2.1.RELEASE
 - pkg:maven/org.springframework.restdocs/spring-restdocs-restassured@1.2.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.restdocs/spring-restdocs-restassured@1.2.2.RELEASE
+- pkg:maven/org.springframework.restdocs/spring-restdocs-restassured@1.2.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.restdocs/spring-restdocs-restassured@1.2.3.RELEASE
+- pkg:maven/org.springframework.restdocs/spring-restdocs-restassured@1.2.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.restdocs/spring-restdocs-restassured@2.0.0.RELEASE
+- pkg:maven/org.springframework.restdocs/spring-restdocs-restassured@2.0.0.RELEASE?classifier=sources

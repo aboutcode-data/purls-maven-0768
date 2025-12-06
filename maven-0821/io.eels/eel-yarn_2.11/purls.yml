@@ -1,0 +1,4 @@
+- pkg:maven/io.eels/eel-yarn_2.11@1.3.0-a8
+- pkg:maven/io.eels/eel-yarn_2.11@1.3.0-a8?classifier=sources
+- pkg:maven/io.eels/eel-yarn_2.11@1.3.0-a9
+- pkg:maven/io.eels/eel-yarn_2.11@1.3.0-a9?classifier=sources

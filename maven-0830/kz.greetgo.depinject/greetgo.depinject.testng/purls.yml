@@ -1,0 +1,4 @@
+- pkg:maven/kz.greetgo.depinject/greetgo.depinject.testng@1.1.4
+- pkg:maven/kz.greetgo.depinject/greetgo.depinject.testng@1.1.4?classifier=sources
+- pkg:maven/kz.greetgo.depinject/greetgo.depinject.testng@2.0.0
+- pkg:maven/kz.greetgo.depinject/greetgo.depinject.testng@2.0.0?classifier=sources

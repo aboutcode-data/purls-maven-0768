@@ -48,3 +48,13 @@
 - pkg:maven/org.activiti/activiti-spring@6.0.0.RC1
 - pkg:maven/org.activiti/activiti-spring@6.0.0.RC1?classifier=sources
 - pkg:maven/org.activiti/activiti-spring@6.0.0?classifier=sources
+- pkg:maven/org.activiti/activiti-spring@7-201708-EA
+- pkg:maven/org.activiti/activiti-spring@7-201708-EA?classifier=sources
+- pkg:maven/org.activiti/activiti-spring@7-201708HOTFIX-EA
+- pkg:maven/org.activiti/activiti-spring@7-201708HOTFIX-EA?classifier=sources
+- pkg:maven/org.activiti/activiti-spring@7-201709-EA
+- pkg:maven/org.activiti/activiti-spring@7-201709-EA?classifier=sources
+- pkg:maven/org.activiti/activiti-spring@7-201710-EA
+- pkg:maven/org.activiti/activiti-spring@7-201710-EA?classifier=sources
+- pkg:maven/org.activiti/activiti-spring@7-201711-EA
+- pkg:maven/org.activiti/activiti-spring@7-201711-EA?classifier=sources

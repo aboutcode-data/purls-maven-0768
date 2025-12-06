@@ -52,3 +52,5 @@
 - pkg:maven/org.kill-bill.billing.plugin.java/analytics-plugin@4.2.2?classifier=sources
 - pkg:maven/org.kill-bill.billing.plugin.java/analytics-plugin@4.2.3
 - pkg:maven/org.kill-bill.billing.plugin.java/analytics-plugin@4.2.3?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin.java/analytics-plugin@4.2.4
+- pkg:maven/org.kill-bill.billing.plugin.java/analytics-plugin@4.2.4?classifier=sources

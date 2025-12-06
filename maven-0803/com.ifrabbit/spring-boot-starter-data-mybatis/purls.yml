@@ -6,6 +6,8 @@
 - pkg:maven/com.ifrabbit/spring-boot-starter-data-mybatis@1.0.14.RELEASE?classifier=sources
 - pkg:maven/com.ifrabbit/spring-boot-starter-data-mybatis@1.0.15.RELEASE
 - pkg:maven/com.ifrabbit/spring-boot-starter-data-mybatis@1.0.15.RELEASE?classifier=sources
+- pkg:maven/com.ifrabbit/spring-boot-starter-data-mybatis@1.0.17.RELEASE
+- pkg:maven/com.ifrabbit/spring-boot-starter-data-mybatis@1.0.17.RELEASE?classifier=sources
 - pkg:maven/com.ifrabbit/spring-boot-starter-data-mybatis@1.0.2.RELEASE
 - pkg:maven/com.ifrabbit/spring-boot-starter-data-mybatis@1.0.2.RELEASE?classifier=sources
 - pkg:maven/com.ifrabbit/spring-boot-starter-data-mybatis@1.0.3.RELEASE

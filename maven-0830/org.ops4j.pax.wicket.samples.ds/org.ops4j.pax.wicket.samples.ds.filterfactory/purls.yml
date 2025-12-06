@@ -6,3 +6,7 @@
 - pkg:maven/org.ops4j.pax.wicket.samples.ds/org.ops4j.pax.wicket.samples.ds.filterfactory@3.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.wicket.samples.ds/org.ops4j.pax.wicket.samples.ds.filterfactory@3.0.4
 - pkg:maven/org.ops4j.pax.wicket.samples.ds/org.ops4j.pax.wicket.samples.ds.filterfactory@3.0.4?classifier=sources
+- pkg:maven/org.ops4j.pax.wicket.samples.ds/org.ops4j.pax.wicket.samples.ds.filterfactory@4.0.0
+- pkg:maven/org.ops4j.pax.wicket.samples.ds/org.ops4j.pax.wicket.samples.ds.filterfactory@4.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.wicket.samples.ds/org.ops4j.pax.wicket.samples.ds.filterfactory@5.0.0-RC1
+- pkg:maven/org.ops4j.pax.wicket.samples.ds/org.ops4j.pax.wicket.samples.ds.filterfactory@5.0.0-RC1?classifier=sources

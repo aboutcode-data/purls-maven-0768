@@ -1,3 +1,5 @@
+- pkg:maven/org.drombler.commons/drombler-commons-docking-context@0.10
+- pkg:maven/org.drombler.commons/drombler-commons-docking-context@0.10?classifier=sources
 - pkg:maven/org.drombler.commons/drombler-commons-docking-context@0.8
 - pkg:maven/org.drombler.commons/drombler-commons-docking-context@0.8?classifier=sources
 - pkg:maven/org.drombler.commons/drombler-commons-docking-context@0.9

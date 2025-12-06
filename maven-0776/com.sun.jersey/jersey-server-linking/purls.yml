@@ -63,6 +63,8 @@
 - pkg:maven/com.sun.jersey/jersey-server-linking@1.19.2?classifier=sources
 - pkg:maven/com.sun.jersey/jersey-server-linking@1.19.3
 - pkg:maven/com.sun.jersey/jersey-server-linking@1.19.3?classifier=sources
+- pkg:maven/com.sun.jersey/jersey-server-linking@1.19.4
+- pkg:maven/com.sun.jersey/jersey-server-linking@1.19.4?classifier=sources
 - pkg:maven/com.sun.jersey/jersey-server-linking@1.19?classifier=sources
 - pkg:maven/com.sun.jersey/jersey-server-linking@1.4
 - pkg:maven/com.sun.jersey/jersey-server-linking@1.4-ea06

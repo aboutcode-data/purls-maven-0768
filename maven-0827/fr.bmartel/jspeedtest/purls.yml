@@ -5,4 +5,14 @@
 - pkg:maven/fr.bmartel/jspeedtest@1.26
 - pkg:maven/fr.bmartel/jspeedtest@1.26?classifier=sources
 - pkg:maven/fr.bmartel/jspeedtest@1.30
+- pkg:maven/fr.bmartel/jspeedtest@1.30.1
+- pkg:maven/fr.bmartel/jspeedtest@1.30.1?classifier=sources
 - pkg:maven/fr.bmartel/jspeedtest@1.30?classifier=sources
+- pkg:maven/fr.bmartel/jspeedtest@1.31.0
+- pkg:maven/fr.bmartel/jspeedtest@1.31.0?classifier=sources
+- pkg:maven/fr.bmartel/jspeedtest@1.31.1
+- pkg:maven/fr.bmartel/jspeedtest@1.31.1?classifier=sources
+- pkg:maven/fr.bmartel/jspeedtest@1.31.2
+- pkg:maven/fr.bmartel/jspeedtest@1.31.2?classifier=sources
+- pkg:maven/fr.bmartel/jspeedtest@1.31.3
+- pkg:maven/fr.bmartel/jspeedtest@1.31.3?classifier=sources

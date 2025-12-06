@@ -1,0 +1,8 @@
+- pkg:maven/com.julianpeeters/avrohugger-filesorter_2.10@0.16.0
+- pkg:maven/com.julianpeeters/avrohugger-filesorter_2.10@0.16.0?classifier=sources
+- pkg:maven/com.julianpeeters/avrohugger-filesorter_2.10@0.17.0
+- pkg:maven/com.julianpeeters/avrohugger-filesorter_2.10@0.17.0-RC1
+- pkg:maven/com.julianpeeters/avrohugger-filesorter_2.10@0.17.0-RC1?classifier=sources
+- pkg:maven/com.julianpeeters/avrohugger-filesorter_2.10@0.17.0?classifier=sources
+- pkg:maven/com.julianpeeters/avrohugger-filesorter_2.10@0.18.0
+- pkg:maven/com.julianpeeters/avrohugger-filesorter_2.10@0.18.0?classifier=sources

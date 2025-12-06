@@ -2,3 +2,7 @@
 - pkg:maven/gr.iti.mklab/mklab-framework-common@0.1?classifier=sources
 - pkg:maven/gr.iti.mklab/mklab-framework-common@0.2
 - pkg:maven/gr.iti.mklab/mklab-framework-common@0.2?classifier=sources
+- pkg:maven/gr.iti.mklab/mklab-framework-common@0.3
+- pkg:maven/gr.iti.mklab/mklab-framework-common@0.3.1
+- pkg:maven/gr.iti.mklab/mklab-framework-common@0.3.1?classifier=sources
+- pkg:maven/gr.iti.mklab/mklab-framework-common@0.3?classifier=sources

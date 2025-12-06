@@ -1,0 +1,4 @@
+- pkg:maven/net.hasor/hasor-land@3.2.0
+- pkg:maven/net.hasor/hasor-land@3.2.0?classifier=sources
+- pkg:maven/net.hasor/hasor-land@3.2.1
+- pkg:maven/net.hasor/hasor-land@3.2.1?classifier=sources

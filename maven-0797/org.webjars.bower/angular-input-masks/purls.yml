@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.bower/angular-input-masks@2.3.0?classifier=sources
 - pkg:maven/org.webjars.bower/angular-input-masks@2.5.0
 - pkg:maven/org.webjars.bower/angular-input-masks@2.5.0?classifier=sources
+- pkg:maven/org.webjars.bower/angular-input-masks@2.6.0
+- pkg:maven/org.webjars.bower/angular-input-masks@2.6.0?classifier=sources

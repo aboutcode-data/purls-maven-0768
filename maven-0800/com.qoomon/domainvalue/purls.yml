@@ -6,3 +6,7 @@
 - pkg:maven/com.qoomon/domainvalue@3.0.0?classifier=sources
 - pkg:maven/com.qoomon/domainvalue@3.0.1
 - pkg:maven/com.qoomon/domainvalue@3.0.1?classifier=sources
+- pkg:maven/com.qoomon/domainvalue@4.0.0
+- pkg:maven/com.qoomon/domainvalue@4.0.0?classifier=sources
+- pkg:maven/com.qoomon/domainvalue@5.0.0
+- pkg:maven/com.qoomon/domainvalue@5.0.0?classifier=sources

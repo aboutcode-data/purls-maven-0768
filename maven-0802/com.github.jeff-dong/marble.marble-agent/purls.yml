@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jeff-dong/marble.marble-agent@1.0.0-SNAPSHOTS
+- pkg:maven/com.github.jeff-dong/marble.marble-agent@1.0.0-SNAPSHOTS?classifier=sources

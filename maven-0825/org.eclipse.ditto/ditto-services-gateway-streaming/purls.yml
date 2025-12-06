@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.ditto/ditto-services-gateway-streaming@0.1.0M0b
+- pkg:maven/org.eclipse.ditto/ditto-services-gateway-streaming@0.1.0M0b?classifier=sources

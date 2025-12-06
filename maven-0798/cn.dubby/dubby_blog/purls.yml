@@ -1,0 +1,4 @@
+- pkg:maven/cn.dubby/dubby_blog@1.2
+- pkg:maven/cn.dubby/dubby_blog@1.2?classifier=sources
+- pkg:maven/cn.dubby/dubby_blog@1.4
+- pkg:maven/cn.dubby/dubby_blog@1.4?classifier=sources

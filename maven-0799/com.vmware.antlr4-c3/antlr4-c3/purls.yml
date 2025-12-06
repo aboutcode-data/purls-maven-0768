@@ -1,0 +1,4 @@
+- pkg:maven/com.vmware.antlr4-c3/antlr4-c3@1.0.0
+- pkg:maven/com.vmware.antlr4-c3/antlr4-c3@1.0.0?classifier=sources
+- pkg:maven/com.vmware.antlr4-c3/antlr4-c3@1.1
+- pkg:maven/com.vmware.antlr4-c3/antlr4-c3@1.1?classifier=sources

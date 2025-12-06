@@ -1,0 +1,2 @@
+- pkg:maven/com.sysunite.coinsweb/validator-cli@2.0.9
+- pkg:maven/com.sysunite.coinsweb/validator-cli@2.0.9?classifier=sources

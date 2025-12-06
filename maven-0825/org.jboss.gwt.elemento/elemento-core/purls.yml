@@ -1,0 +1,7 @@
+- pkg:maven/org.jboss.gwt.elemento/elemento-core@0.5.0?classifier=sources
+- pkg:maven/org.jboss.gwt.elemento/elemento-core@0.5.1?classifier=sources
+- pkg:maven/org.jboss.gwt.elemento/elemento-core@0.5.2?classifier=sources
+- pkg:maven/org.jboss.gwt.elemento/elemento-core@0.6.0?classifier=sources
+- pkg:maven/org.jboss.gwt.elemento/elemento-core@0.6.1?classifier=sources
+- pkg:maven/org.jboss.gwt.elemento/elemento-core@0.6.2?classifier=sources
+- pkg:maven/org.jboss.gwt.elemento/elemento-core@0.7.0?classifier=sources

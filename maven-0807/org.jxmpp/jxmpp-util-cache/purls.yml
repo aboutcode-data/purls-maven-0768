@@ -32,3 +32,5 @@
 - pkg:maven/org.jxmpp/jxmpp-util-cache@0.5.0-alpha7
 - pkg:maven/org.jxmpp/jxmpp-util-cache@0.5.0-alpha7?classifier=sources
 - pkg:maven/org.jxmpp/jxmpp-util-cache@0.5.0?classifier=sources
+- pkg:maven/org.jxmpp/jxmpp-util-cache@0.6.0
+- pkg:maven/org.jxmpp/jxmpp-util-cache@0.6.0?classifier=sources

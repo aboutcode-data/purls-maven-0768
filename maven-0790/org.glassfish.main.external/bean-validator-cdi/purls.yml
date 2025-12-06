@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.main.external/bean-validator-cdi@5.0
+- pkg:maven/org.glassfish.main.external/bean-validator-cdi@5.0?classifier=sources

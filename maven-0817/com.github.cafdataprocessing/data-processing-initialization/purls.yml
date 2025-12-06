@@ -1,0 +1,6 @@
+- pkg:maven/com.github.cafdataprocessing/data-processing-initialization@1.2.0-49
+- pkg:maven/com.github.cafdataprocessing/data-processing-initialization@1.2.0-49?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/data-processing-initialization@1.3.0-70
+- pkg:maven/com.github.cafdataprocessing/data-processing-initialization@1.3.0-70?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/data-processing-initialization@2.0.0-3
+- pkg:maven/com.github.cafdataprocessing/data-processing-initialization@2.0.0-3?classifier=sources

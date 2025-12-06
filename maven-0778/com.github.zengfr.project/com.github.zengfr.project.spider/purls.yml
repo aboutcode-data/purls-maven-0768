@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zengfr.project/com.github.zengfr.project.spider@0.0.1
+- pkg:maven/com.github.zengfr.project/com.github.zengfr.project.spider@0.0.1?classifier=sources
