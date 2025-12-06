@@ -1,0 +1,4 @@
+- pkg:maven/de.sfb876/fact-tools@0.6.29
+- pkg:maven/de.sfb876/fact-tools@0.6.29?classifier=sources
+- pkg:maven/de.sfb876/fact-tools@0.7.1
+- pkg:maven/de.sfb876/fact-tools@0.7.1?classifier=sources

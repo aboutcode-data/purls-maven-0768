@@ -1,0 +1,2 @@
+- pkg:maven/org.isisaddons.module.xxx/isis-module-xxx-dom@1.10.0
+- pkg:maven/org.isisaddons.module.xxx/isis-module-xxx-dom@1.10.0?classifier=sources

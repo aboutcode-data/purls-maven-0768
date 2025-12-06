@@ -8,3 +8,15 @@
 - pkg:maven/de.sciss/desktop-mac_2.10@0.5.0?classifier=sources
 - pkg:maven/de.sciss/desktop-mac_2.10@0.5.1
 - pkg:maven/de.sciss/desktop-mac_2.10@0.5.1?classifier=sources
+- pkg:maven/de.sciss/desktop-mac_2.10@0.5.2
+- pkg:maven/de.sciss/desktop-mac_2.10@0.5.2?classifier=sources
+- pkg:maven/de.sciss/desktop-mac_2.10@0.5.3
+- pkg:maven/de.sciss/desktop-mac_2.10@0.5.3?classifier=sources
+- pkg:maven/de.sciss/desktop-mac_2.10@0.5.4
+- pkg:maven/de.sciss/desktop-mac_2.10@0.5.4?classifier=sources
+- pkg:maven/de.sciss/desktop-mac_2.10@0.6.0
+- pkg:maven/de.sciss/desktop-mac_2.10@0.6.0?classifier=sources
+- pkg:maven/de.sciss/desktop-mac_2.10@0.7.0
+- pkg:maven/de.sciss/desktop-mac_2.10@0.7.0?classifier=sources
+- pkg:maven/de.sciss/desktop-mac_2.10@0.7.1
+- pkg:maven/de.sciss/desktop-mac_2.10@0.7.1?classifier=sources

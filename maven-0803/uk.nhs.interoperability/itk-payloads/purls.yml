@@ -1,0 +1,4 @@
+- pkg:maven/uk.nhs.interoperability/itk-payloads@0.4
+- pkg:maven/uk.nhs.interoperability/itk-payloads@0.4?classifier=sources
+- pkg:maven/uk.nhs.interoperability/itk-payloads@0.5
+- pkg:maven/uk.nhs.interoperability/itk-payloads@0.5?classifier=sources

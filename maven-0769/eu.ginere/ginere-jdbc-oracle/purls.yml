@@ -1,0 +1,8 @@
+- pkg:maven/eu.ginere/ginere-jdbc-oracle@1.0.2
+- pkg:maven/eu.ginere/ginere-jdbc-oracle@1.0.2?classifier=sources
+- pkg:maven/eu.ginere/ginere-jdbc-oracle@1.0.3
+- pkg:maven/eu.ginere/ginere-jdbc-oracle@1.0.3?classifier=sources
+- pkg:maven/eu.ginere/ginere-jdbc-oracle@1.1.0
+- pkg:maven/eu.ginere/ginere-jdbc-oracle@1.1.0?classifier=sources
+- pkg:maven/eu.ginere/ginere-jdbc-oracle@1.1.1
+- pkg:maven/eu.ginere/ginere-jdbc-oracle@1.1.1?classifier=sources

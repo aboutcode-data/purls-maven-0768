@@ -1,0 +1,2 @@
+- pkg:maven/com.github.marcosemiao.tomcat.maven.plugin/tomcat6-manager-impl@0.0.1
+- pkg:maven/com.github.marcosemiao.tomcat.maven.plugin/tomcat6-manager-impl@0.0.1?classifier=sources

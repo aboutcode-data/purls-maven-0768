@@ -4,3 +4,5 @@
 - pkg:maven/net.adamcin.sling/net.adamcin.sling.auth.httpsig@0.8.0?classifier=sources
 - pkg:maven/net.adamcin.sling/net.adamcin.sling.auth.httpsig@0.8.2
 - pkg:maven/net.adamcin.sling/net.adamcin.sling.auth.httpsig@0.8.2?classifier=sources
+- pkg:maven/net.adamcin.sling/net.adamcin.sling.auth.httpsig@0.8.4
+- pkg:maven/net.adamcin.sling/net.adamcin.sling.auth.httpsig@0.8.4?classifier=sources

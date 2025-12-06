@@ -26,3 +26,9 @@
 - pkg:maven/org.smallmind/smallmind-cloud@1.6.2?classifier=sources
 - pkg:maven/org.smallmind/smallmind-cloud@1.6.3
 - pkg:maven/org.smallmind/smallmind-cloud@1.6.3?classifier=sources
+- pkg:maven/org.smallmind/smallmind-cloud@1.6.6
+- pkg:maven/org.smallmind/smallmind-cloud@1.6.6?classifier=sources
+- pkg:maven/org.smallmind/smallmind-cloud@1.7.7
+- pkg:maven/org.smallmind/smallmind-cloud@1.7.7?classifier=sources
+- pkg:maven/org.smallmind/smallmind-cloud@1.8.1
+- pkg:maven/org.smallmind/smallmind-cloud@1.8.1?classifier=sources

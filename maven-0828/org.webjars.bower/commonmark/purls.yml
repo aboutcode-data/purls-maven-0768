@@ -1,0 +1,10 @@
+- pkg:maven/org.webjars.bower/commonmark@0.18.1
+- pkg:maven/org.webjars.bower/commonmark@0.18.1?classifier=sources
+- pkg:maven/org.webjars.bower/commonmark@0.18.2
+- pkg:maven/org.webjars.bower/commonmark@0.18.2?classifier=sources
+- pkg:maven/org.webjars.bower/commonmark@0.19.0
+- pkg:maven/org.webjars.bower/commonmark@0.19.0?classifier=sources
+- pkg:maven/org.webjars.bower/commonmark@0.20.0
+- pkg:maven/org.webjars.bower/commonmark@0.20.0?classifier=sources
+- pkg:maven/org.webjars.bower/commonmark@0.22.0
+- pkg:maven/org.webjars.bower/commonmark@0.22.0?classifier=sources

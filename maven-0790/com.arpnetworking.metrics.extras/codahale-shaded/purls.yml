@@ -1,0 +1,4 @@
+- pkg:maven/com.arpnetworking.metrics.extras/codahale-shaded@0.3.6
+- pkg:maven/com.arpnetworking.metrics.extras/codahale-shaded@0.3.6?classifier=sources
+- pkg:maven/com.arpnetworking.metrics.extras/codahale-shaded@0.4.0
+- pkg:maven/com.arpnetworking.metrics.extras/codahale-shaded@0.4.0?classifier=sources

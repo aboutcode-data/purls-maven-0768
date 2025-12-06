@@ -1,0 +1,4 @@
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.annotation@2.4.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.annotation@2.4.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.annotation@3.0.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.annotation@3.0.0?classifier=sources

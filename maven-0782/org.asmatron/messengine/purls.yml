@@ -1,2 +1,6 @@
 - pkg:maven/org.asmatron/messengine@0.1.0
 - pkg:maven/org.asmatron/messengine@0.1.0?classifier=sources
+- pkg:maven/org.asmatron/messengine@0.4.0
+- pkg:maven/org.asmatron/messengine@0.4.0?classifier=sources
+- pkg:maven/org.asmatron/messengine@0.8.8
+- pkg:maven/org.asmatron/messengine@0.8.8?classifier=sources

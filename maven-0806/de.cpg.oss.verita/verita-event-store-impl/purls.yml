@@ -1,0 +1,2 @@
+- pkg:maven/de.cpg.oss.verita/verita-event-store-impl@1.0.1
+- pkg:maven/de.cpg.oss.verita/verita-event-store-impl@1.0.1?classifier=sources

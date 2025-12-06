@@ -1,0 +1,2 @@
+- pkg:maven/edu.amherst.acdc/acrepo-idiomatic@1.0.0
+- pkg:maven/edu.amherst.acdc/acrepo-idiomatic@1.0.0?classifier=sources

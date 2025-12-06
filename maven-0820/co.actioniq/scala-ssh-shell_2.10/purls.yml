@@ -1,0 +1,4 @@
+- pkg:maven/co.actioniq/scala-ssh-shell_2.10@0.0.1-9045f42e1634ad6f74edf826b9c7c61d1a495a38
+- pkg:maven/co.actioniq/scala-ssh-shell_2.10@0.0.1-9045f42e1634ad6f74edf826b9c7c61d1a495a38?classifier=sources
+- pkg:maven/co.actioniq/scala-ssh-shell_2.10@0.2-572a853553e0381ea56dd026f0ea563bacf16169
+- pkg:maven/co.actioniq/scala-ssh-shell_2.10@0.2-572a853553e0381ea56dd026f0ea563bacf16169?classifier=sources

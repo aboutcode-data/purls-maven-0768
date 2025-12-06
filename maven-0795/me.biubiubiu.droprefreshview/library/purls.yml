@@ -1,0 +1,6 @@
+- pkg:maven/me.biubiubiu.droprefreshview/library@0.1.0?classifier=sources
+- pkg:maven/me.biubiubiu.droprefreshview/library@0.1.0?type=aar
+- pkg:maven/me.biubiubiu.droprefreshview/library@0.1.1?classifier=sources
+- pkg:maven/me.biubiubiu.droprefreshview/library@0.1.1?type=aar
+- pkg:maven/me.biubiubiu.droprefreshview/library@0.1.2?classifier=sources
+- pkg:maven/me.biubiubiu.droprefreshview/library@0.1.2?type=aar

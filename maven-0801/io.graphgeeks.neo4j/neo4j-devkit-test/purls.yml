@@ -1,0 +1,2 @@
+- pkg:maven/io.graphgeeks.neo4j/neo4j-devkit-test@0.1.2
+- pkg:maven/io.graphgeeks.neo4j/neo4j-devkit-test@0.1.2?classifier=sources

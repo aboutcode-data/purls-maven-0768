@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.osgi.bundles/org.everit.osgi.bundles.org.htmlparser.full@2.1
+- pkg:maven/org.everit.osgi.bundles/org.everit.osgi.bundles.org.htmlparser.full@2.1?classifier=sources

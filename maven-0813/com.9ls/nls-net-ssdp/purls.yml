@@ -1,0 +1,2 @@
+- pkg:maven/com.9ls/nls-net-ssdp@0.1.2
+- pkg:maven/com.9ls/nls-net-ssdp@0.1.2?classifier=sources

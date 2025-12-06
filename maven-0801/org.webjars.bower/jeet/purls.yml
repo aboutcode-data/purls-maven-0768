@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/jeet@6.1.2
+- pkg:maven/org.webjars.bower/jeet@6.1.2?classifier=sources

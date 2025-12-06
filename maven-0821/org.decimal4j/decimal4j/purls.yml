@@ -1,0 +1,2 @@
+- pkg:maven/org.decimal4j/decimal4j@1.0.1
+- pkg:maven/org.decimal4j/decimal4j@1.0.1?classifier=sources

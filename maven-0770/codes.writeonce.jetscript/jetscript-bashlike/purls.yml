@@ -1,0 +1,2 @@
+- pkg:maven/codes.writeonce.jetscript/jetscript-bashlike@0.1.0
+- pkg:maven/codes.writeonce.jetscript/jetscript-bashlike@0.1.0?classifier=sources

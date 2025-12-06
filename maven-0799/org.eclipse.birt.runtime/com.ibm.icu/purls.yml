@@ -2,3 +2,9 @@
 - pkg:maven/org.eclipse.birt.runtime/com.ibm.icu@4.4.2.v20110823?classifier=sources
 - pkg:maven/org.eclipse.birt.runtime/com.ibm.icu@50.1.1.v201304230130
 - pkg:maven/org.eclipse.birt.runtime/com.ibm.icu@50.1.1.v201304230130?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/com.ibm.icu@52.1.0.v201404241930
+- pkg:maven/org.eclipse.birt.runtime/com.ibm.icu@52.1.0.v201404241930?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/com.ibm.icu@52.1.1.v201501240615
+- pkg:maven/org.eclipse.birt.runtime/com.ibm.icu@52.1.1.v201501240615?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/com.ibm.icu@54.1.1.v201501272100
+- pkg:maven/org.eclipse.birt.runtime/com.ibm.icu@54.1.1.v201501272100?classifier=sources

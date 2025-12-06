@@ -1,0 +1,2 @@
+- pkg:maven/org.js-labs/js-collider@0.1.0
+- pkg:maven/org.js-labs/js-collider@0.1.0?classifier=sources

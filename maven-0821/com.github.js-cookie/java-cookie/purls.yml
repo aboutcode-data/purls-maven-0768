@@ -1,0 +1,2 @@
+- pkg:maven/com.github.js-cookie/java-cookie@0.0.2
+- pkg:maven/com.github.js-cookie/java-cookie@0.0.2?classifier=sources

@@ -26,6 +26,8 @@
 - pkg:maven/org.apache.shindig/shindig-social-api@2.5.0?classifier=sources
 - pkg:maven/org.apache.shindig/shindig-social-api@2.5.1
 - pkg:maven/org.apache.shindig/shindig-social-api@2.5.1?classifier=sources
+- pkg:maven/org.apache.shindig/shindig-social-api@2.5.2
+- pkg:maven/org.apache.shindig/shindig-social-api@2.5.2?classifier=sources
 - pkg:maven/org.apache.shindig/shindig-social-api@3.0.0-beta2
 - pkg:maven/org.apache.shindig/shindig-social-api@3.0.0-beta2?classifier=sources
 - pkg:maven/org.apache.shindig/shindig-social-api@3.0.0-beta3

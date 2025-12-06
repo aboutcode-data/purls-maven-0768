@@ -1,0 +1,2 @@
+- pkg:maven/se.mnord.scribe/scribe-java-bitbucket@1.0.0
+- pkg:maven/se.mnord.scribe/scribe-java-bitbucket@1.0.0?classifier=sources

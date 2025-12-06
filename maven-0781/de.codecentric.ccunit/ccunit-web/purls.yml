@@ -1,0 +1,2 @@
+- pkg:maven/de.codecentric.ccunit/ccunit-web@1.0.0
+- pkg:maven/de.codecentric.ccunit/ccunit-web@1.0.0?classifier=sources

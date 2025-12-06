@@ -1,0 +1,2 @@
+- pkg:maven/org.ujmp/ujmp-ojalgo@0.3.0
+- pkg:maven/org.ujmp/ujmp-ojalgo@0.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/simple-lru@0.0.3
+- pkg:maven/org.webjars.bower/simple-lru@0.0.3?classifier=sources

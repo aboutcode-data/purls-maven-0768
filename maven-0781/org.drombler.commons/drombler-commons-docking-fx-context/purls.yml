@@ -1,0 +1,2 @@
+- pkg:maven/org.drombler.commons/drombler-commons-docking-fx-context@0.7
+- pkg:maven/org.drombler.commons/drombler-commons-docking-fx-context@0.7?classifier=sources

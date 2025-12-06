@@ -1,0 +1,2 @@
+- pkg:maven/cn.easyproject/easyocr-linkbold-plugin@3.0.3-RELEASE
+- pkg:maven/cn.easyproject/easyocr-linkbold-plugin@3.0.3-RELEASE?classifier=sources

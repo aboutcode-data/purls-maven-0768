@@ -1,0 +1,2 @@
+- pkg:maven/com.yandex.java/ym-java-epr-sdk@2.0
+- pkg:maven/com.yandex.java/ym-java-epr-sdk@2.0?classifier=sources

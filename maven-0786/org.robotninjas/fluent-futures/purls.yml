@@ -1,0 +1,2 @@
+- pkg:maven/org.robotninjas/fluent-futures@1.0
+- pkg:maven/org.robotninjas/fluent-futures@1.0?classifier=sources

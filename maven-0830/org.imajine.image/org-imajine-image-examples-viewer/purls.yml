@@ -1,0 +1,2 @@
+- pkg:maven/org.imajine.image/org-imajine-image-examples-viewer@1.0-ALPHA-3
+- pkg:maven/org.imajine.image/org-imajine-image-examples-viewer@1.0-ALPHA-3?classifier=sources

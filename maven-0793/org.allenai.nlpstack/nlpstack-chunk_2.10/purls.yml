@@ -1,0 +1,2 @@
+- pkg:maven/org.allenai.nlpstack/nlpstack-chunk_2.10@0.19
+- pkg:maven/org.allenai.nlpstack/nlpstack-chunk_2.10@0.19?classifier=sources

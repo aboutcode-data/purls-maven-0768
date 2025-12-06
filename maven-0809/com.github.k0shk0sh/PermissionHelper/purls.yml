@@ -1,0 +1,6 @@
+- pkg:maven/com.github.k0shk0sh/PermissionHelper@1.0.0?classifier=sources
+- pkg:maven/com.github.k0shk0sh/PermissionHelper@1.0.0?type=aar
+- pkg:maven/com.github.k0shk0sh/PermissionHelper@1.0.1?classifier=sources
+- pkg:maven/com.github.k0shk0sh/PermissionHelper@1.0.1?type=aar
+- pkg:maven/com.github.k0shk0sh/PermissionHelper@1.0?classifier=sources
+- pkg:maven/com.github.k0shk0sh/PermissionHelper@1.0?type=aar

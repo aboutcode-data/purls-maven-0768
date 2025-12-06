@@ -1,0 +1,10 @@
+- pkg:maven/io.vertx/vertx-mail-service@3.0.0
+- pkg:maven/io.vertx/vertx-mail-service@3.0.0-milestone4
+- pkg:maven/io.vertx/vertx-mail-service@3.0.0-milestone4?classifier=sources
+- pkg:maven/io.vertx/vertx-mail-service@3.0.0-milestone5
+- pkg:maven/io.vertx/vertx-mail-service@3.0.0-milestone5?classifier=sources
+- pkg:maven/io.vertx/vertx-mail-service@3.0.0-milestone6
+- pkg:maven/io.vertx/vertx-mail-service@3.0.0-milestone6?classifier=sources
+- pkg:maven/io.vertx/vertx-mail-service@3.0.0?classifier=sources
+- pkg:maven/io.vertx/vertx-mail-service@3.1.0
+- pkg:maven/io.vertx/vertx-mail-service@3.1.0?classifier=sources

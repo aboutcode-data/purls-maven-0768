@@ -1,0 +1,2 @@
+- pkg:maven/jp.tomorrowkey/notifier-plugin@0.0.1
+- pkg:maven/jp.tomorrowkey/notifier-plugin@0.0.1?classifier=sources

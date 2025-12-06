@@ -1,0 +1,4 @@
+- pkg:maven/com.sharyuke.view/sharyuke-view@0.0.4
+- pkg:maven/com.sharyuke.view/sharyuke-view@0.0.4?classifier=sources
+- pkg:maven/com.sharyuke.view/sharyuke-view@0.0.5
+- pkg:maven/com.sharyuke.view/sharyuke-view@0.0.5?classifier=sources

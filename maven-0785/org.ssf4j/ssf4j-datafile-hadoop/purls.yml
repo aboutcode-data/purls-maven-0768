@@ -1,0 +1,2 @@
+- pkg:maven/org.ssf4j/ssf4j-datafile-hadoop@0.4
+- pkg:maven/org.ssf4j/ssf4j-datafile-hadoop@0.4?classifier=sources

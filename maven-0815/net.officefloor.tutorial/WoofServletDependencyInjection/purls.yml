@@ -8,6 +8,10 @@
 - pkg:maven/net.officefloor.tutorial/WoofServletDependencyInjection@2.13.0?type=war
 - pkg:maven/net.officefloor.tutorial/WoofServletDependencyInjection@2.14.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/WoofServletDependencyInjection@2.14.0?type=war
+- pkg:maven/net.officefloor.tutorial/WoofServletDependencyInjection@2.15.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/WoofServletDependencyInjection@2.15.0?type=war
+- pkg:maven/net.officefloor.tutorial/WoofServletDependencyInjection@2.16.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/WoofServletDependencyInjection@2.16.0?type=war
 - pkg:maven/net.officefloor.tutorial/WoofServletDependencyInjection@2.5.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/WoofServletDependencyInjection@2.5.0?type=war
 - pkg:maven/net.officefloor.tutorial/WoofServletDependencyInjection@2.6.0?classifier=sources

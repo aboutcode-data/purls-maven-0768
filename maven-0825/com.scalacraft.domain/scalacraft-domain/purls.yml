@@ -1,0 +1,4 @@
+- pkg:maven/com.scalacraft.domain/scalacraft-domain@2.0.0
+- pkg:maven/com.scalacraft.domain/scalacraft-domain@2.0.0?classifier=sources
+- pkg:maven/com.scalacraft.domain/scalacraft-domain@2.1.0
+- pkg:maven/com.scalacraft.domain/scalacraft-domain@2.1.0?classifier=sources

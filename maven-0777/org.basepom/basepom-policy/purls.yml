@@ -1,3 +1,5 @@
 - pkg:maven/org.basepom/basepom-policy@1
 - pkg:maven/org.basepom/basepom-policy@1?classifier=sources
 - pkg:maven/org.basepom/basepom-policy@2
+- pkg:maven/org.basepom/basepom-policy@3
+- pkg:maven/org.basepom/basepom-policy@4

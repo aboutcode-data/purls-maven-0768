@@ -1,0 +1,2 @@
+- pkg:maven/com.garlicg/cutin-support-ui@3.2.0?classifier=sources
+- pkg:maven/com.garlicg/cutin-support-ui@3.2.0?type=aar

@@ -1,0 +1,14 @@
+- pkg:maven/co.cask.cdap/cdap-kafka-flow-compat-0.7@0.1.0
+- pkg:maven/co.cask.cdap/cdap-kafka-flow-compat-0.7@0.1.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-kafka-flow-compat-0.7@0.2.0
+- pkg:maven/co.cask.cdap/cdap-kafka-flow-compat-0.7@0.2.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-kafka-flow-compat-0.7@0.3.0
+- pkg:maven/co.cask.cdap/cdap-kafka-flow-compat-0.7@0.3.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-kafka-flow-compat-0.7@0.3.1
+- pkg:maven/co.cask.cdap/cdap-kafka-flow-compat-0.7@0.3.1?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-kafka-flow-compat-0.7@0.4.0
+- pkg:maven/co.cask.cdap/cdap-kafka-flow-compat-0.7@0.4.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-kafka-flow-compat-0.7@0.4.1
+- pkg:maven/co.cask.cdap/cdap-kafka-flow-compat-0.7@0.4.1?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-kafka-flow-compat-0.7@0.5.0
+- pkg:maven/co.cask.cdap/cdap-kafka-flow-compat-0.7@0.5.0?classifier=sources

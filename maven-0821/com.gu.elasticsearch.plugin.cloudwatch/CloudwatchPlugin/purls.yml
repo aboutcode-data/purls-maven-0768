@@ -1,0 +1,2 @@
+- pkg:maven/com.gu.elasticsearch.plugin.cloudwatch/CloudwatchPlugin@1.0?classifier=sources
+- pkg:maven/com.gu.elasticsearch.plugin.cloudwatch/CloudwatchPlugin@1.0?type=zip

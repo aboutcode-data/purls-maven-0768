@@ -1,0 +1,2 @@
+- pkg:maven/hm.binkley/binkley-yaml-test-data@6
+- pkg:maven/hm.binkley/binkley-yaml-test-data@6?classifier=sources

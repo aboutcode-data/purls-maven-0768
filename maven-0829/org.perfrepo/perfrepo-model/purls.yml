@@ -1,0 +1,4 @@
+- pkg:maven/org.perfrepo/perfrepo-model@1.1
+- pkg:maven/org.perfrepo/perfrepo-model@1.1?classifier=sources
+- pkg:maven/org.perfrepo/perfrepo-model@1.3
+- pkg:maven/org.perfrepo/perfrepo-model@1.3?classifier=sources

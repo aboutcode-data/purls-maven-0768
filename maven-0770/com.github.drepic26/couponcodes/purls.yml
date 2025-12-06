@@ -1,0 +1,2 @@
+- pkg:maven/com.github.drepic26/couponcodes@3.0
+- pkg:maven/com.github.drepic26/couponcodes@3.0?classifier=sources

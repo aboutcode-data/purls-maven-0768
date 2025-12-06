@@ -1,0 +1,2 @@
+- pkg:maven/ch.powerunit.extensions/powerunit-extensions-spring@0.0.1
+- pkg:maven/ch.powerunit.extensions/powerunit-extensions-spring@0.0.1?classifier=sources

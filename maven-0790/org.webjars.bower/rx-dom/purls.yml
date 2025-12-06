@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/rx-dom@6.0.0
+- pkg:maven/org.webjars.bower/rx-dom@6.0.0?classifier=sources

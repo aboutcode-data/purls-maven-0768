@@ -1,0 +1,2 @@
+- pkg:maven/de.lgohlke.com.github.webdriverextensions/webdriverextensions-maven-plugin@1.1.1
+- pkg:maven/de.lgohlke.com.github.webdriverextensions/webdriverextensions-maven-plugin@1.1.1?classifier=sources

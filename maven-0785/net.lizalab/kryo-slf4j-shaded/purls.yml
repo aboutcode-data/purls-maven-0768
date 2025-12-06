@@ -1,0 +1,2 @@
+- pkg:maven/net.lizalab/kryo-slf4j-shaded@3.0.1
+- pkg:maven/net.lizalab/kryo-slf4j-shaded@3.0.1?classifier=sources

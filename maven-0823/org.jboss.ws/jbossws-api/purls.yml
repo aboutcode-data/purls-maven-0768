@@ -8,3 +8,13 @@
 - pkg:maven/org.jboss.ws/jbossws-api@1.0.2.CR1?classifier=sources
 - pkg:maven/org.jboss.ws/jbossws-api@1.0.2.Final
 - pkg:maven/org.jboss.ws/jbossws-api@1.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.3.CR1
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.3.CR1?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.3.CR2
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.3.CR2?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.3.CR3
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.3.CR3?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.3.CR4
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.3.CR4?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.3.Final
+- pkg:maven/org.jboss.ws/jbossws-api@1.0.3.Final?classifier=sources

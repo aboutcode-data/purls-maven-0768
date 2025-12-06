@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/react-slider@0.5.1
+- pkg:maven/org.webjars.bower/react-slider@0.5.1?classifier=sources

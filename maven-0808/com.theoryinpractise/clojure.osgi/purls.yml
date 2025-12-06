@@ -1,0 +1,2 @@
+- pkg:maven/com.theoryinpractise/clojure.osgi@1.6.0-1
+- pkg:maven/com.theoryinpractise/clojure.osgi@1.6.0-1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.moznion/fluent-logger-mock-sender@0.0.1
+- pkg:maven/net.moznion/fluent-logger-mock-sender@0.0.1?classifier=sources

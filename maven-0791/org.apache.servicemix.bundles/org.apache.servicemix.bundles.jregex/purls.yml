@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jregex@1.2_01_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jregex@1.2_01_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jregex@1.2_01_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jregex@1.2_01_1?classifier=src&type=zip

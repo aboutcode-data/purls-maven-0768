@@ -1,0 +1,4 @@
+- pkg:maven/eu.the4thfloor.mockwebserver/com.squareup.okhttp.mockwebserver@2.1.0
+- pkg:maven/eu.the4thfloor.mockwebserver/com.squareup.okhttp.mockwebserver@2.1.0?classifier=sources
+- pkg:maven/eu.the4thfloor.mockwebserver/com.squareup.okhttp.mockwebserver@2.4.0
+- pkg:maven/eu.the4thfloor.mockwebserver/com.squareup.okhttp.mockwebserver@2.4.0?classifier=sources

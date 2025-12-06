@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8.jube.images.fabric8/apiman-manager-api@2.1.1
+- pkg:maven/io.fabric8.jube.images.fabric8/apiman-manager-api@2.1.1?classifier=sources

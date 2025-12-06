@@ -1,0 +1,4 @@
+- pkg:maven/org.tinygroup/org.tinygroup.crud@1.2.2
+- pkg:maven/org.tinygroup/org.tinygroup.crud@1.2.2?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.crud@2.0.0
+- pkg:maven/org.tinygroup/org.tinygroup.crud@2.0.0?classifier=sources

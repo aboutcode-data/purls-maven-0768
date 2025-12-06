@@ -1,0 +1,5 @@
+- pkg:maven/fr.matthieu-vergne/downhill-samples@1.0
+- pkg:maven/fr.matthieu-vergne/downhill-samples@1.0?classifier=sources
+- pkg:maven/fr.matthieu-vergne/downhill-samples@1.1
+- pkg:maven/fr.matthieu-vergne/downhill-samples@1.2
+- pkg:maven/fr.matthieu-vergne/downhill-samples@1.3

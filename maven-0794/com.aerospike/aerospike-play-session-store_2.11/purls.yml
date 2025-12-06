@@ -1,0 +1,4 @@
+- pkg:maven/com.aerospike/aerospike-play-session-store_2.11@1.0
+- pkg:maven/com.aerospike/aerospike-play-session-store_2.11@1.0?classifier=sources
+- pkg:maven/com.aerospike/aerospike-play-session-store_2.11@1.1
+- pkg:maven/com.aerospike/aerospike-play-session-store_2.11@1.1?classifier=sources

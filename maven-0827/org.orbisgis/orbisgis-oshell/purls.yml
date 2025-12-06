@@ -1,0 +1,2 @@
+- pkg:maven/org.orbisgis/orbisgis-oshell@5.0.1
+- pkg:maven/org.orbisgis/orbisgis-oshell@5.0.1?classifier=sources

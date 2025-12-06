@@ -1,0 +1,2 @@
+- pkg:maven/io.xtech.babel/babel-camel-lambda@0.6.0
+- pkg:maven/io.xtech.babel/babel-camel-lambda@0.6.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.heroku.api/heroku-http-play_2.9.1@0.15
 - pkg:maven/com.heroku.api/heroku-http-play_2.9.1@0.15?classifier=sources
+- pkg:maven/com.heroku.api/heroku-http-play_2.9.1@0.16
+- pkg:maven/com.heroku.api/heroku-http-play_2.9.1@0.16?classifier=sources

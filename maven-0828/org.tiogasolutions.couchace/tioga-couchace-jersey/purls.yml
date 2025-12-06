@@ -1,0 +1,6 @@
+- pkg:maven/org.tiogasolutions.couchace/tioga-couchace-jersey@1.4.2
+- pkg:maven/org.tiogasolutions.couchace/tioga-couchace-jersey@1.4.2?classifier=sources
+- pkg:maven/org.tiogasolutions.couchace/tioga-couchace-jersey@1.4.3
+- pkg:maven/org.tiogasolutions.couchace/tioga-couchace-jersey@1.4.3?classifier=sources
+- pkg:maven/org.tiogasolutions.couchace/tioga-couchace-jersey@1.5.0
+- pkg:maven/org.tiogasolutions.couchace/tioga-couchace-jersey@1.5.0?classifier=sources

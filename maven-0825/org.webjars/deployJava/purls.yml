@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars/deployJava@20120801
+- pkg:maven/org.webjars/deployJava@20120801?classifier=sources

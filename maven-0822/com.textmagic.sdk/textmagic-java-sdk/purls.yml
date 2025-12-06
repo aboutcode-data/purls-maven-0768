@@ -1,0 +1,6 @@
+- pkg:maven/com.textmagic.sdk/textmagic-java-sdk@1.0.0
+- pkg:maven/com.textmagic.sdk/textmagic-java-sdk@1.0.0?classifier=sources
+- pkg:maven/com.textmagic.sdk/textmagic-java-sdk@1.0.1
+- pkg:maven/com.textmagic.sdk/textmagic-java-sdk@1.0.1?classifier=sources
+- pkg:maven/com.textmagic.sdk/textmagic-java-sdk@1.2.0
+- pkg:maven/com.textmagic.sdk/textmagic-java-sdk@1.2.0?classifier=sources

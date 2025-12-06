@@ -1,0 +1,6 @@
+- pkg:maven/com.github.signed.inmemory.jms/jms-over-jndi-server-junit@0.0.4
+- pkg:maven/com.github.signed.inmemory.jms/jms-over-jndi-server-junit@0.0.4?classifier=sources
+- pkg:maven/com.github.signed.inmemory.jms/jms-over-jndi-server-junit@0.0.5
+- pkg:maven/com.github.signed.inmemory.jms/jms-over-jndi-server-junit@0.0.5?classifier=sources
+- pkg:maven/com.github.signed.inmemory.jms/jms-over-jndi-server-junit@0.1.0
+- pkg:maven/com.github.signed.inmemory.jms/jms-over-jndi-server-junit@0.1.0?classifier=sources

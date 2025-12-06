@@ -1,0 +1,6 @@
+- pkg:maven/com.goodow.vertx/vertx-mod-elasticsearch@1.1.1
+- pkg:maven/com.goodow.vertx/vertx-mod-elasticsearch@1.1.1?classifier=sources
+- pkg:maven/com.goodow.vertx/vertx-mod-elasticsearch@1.2.1
+- pkg:maven/com.goodow.vertx/vertx-mod-elasticsearch@1.2.1?classifier=sources
+- pkg:maven/com.goodow.vertx/vertx-mod-elasticsearch@1.4.4
+- pkg:maven/com.goodow.vertx/vertx-mod-elasticsearch@1.4.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/de.gesellix/unix-socket-factory@2014-11-16T14-41-27
+- pkg:maven/de.gesellix/unix-socket-factory@2014-11-16T14-41-27?classifier=sources
+- pkg:maven/de.gesellix/unix-socket-factory@2015-01-27T15-02-14
+- pkg:maven/de.gesellix/unix-socket-factory@2015-01-27T15-02-14?classifier=sources

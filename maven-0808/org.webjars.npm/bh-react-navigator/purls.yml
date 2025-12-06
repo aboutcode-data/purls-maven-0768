@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/bh-react-navigator@0.1.1
+- pkg:maven/org.webjars.npm/bh-react-navigator@0.1.1?classifier=sources

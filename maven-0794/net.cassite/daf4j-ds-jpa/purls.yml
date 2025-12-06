@@ -1,0 +1,6 @@
+- pkg:maven/net.cassite/daf4j-ds-jpa@0.0.2-RELEASE
+- pkg:maven/net.cassite/daf4j-ds-jpa@0.0.2-RELEASE?classifier=sources
+- pkg:maven/net.cassite/daf4j-ds-jpa@0.0.3-RELEASE
+- pkg:maven/net.cassite/daf4j-ds-jpa@0.0.3-RELEASE?classifier=sources
+- pkg:maven/net.cassite/daf4j-ds-jpa@0.1.0-RELEASE
+- pkg:maven/net.cassite/daf4j-ds-jpa@0.1.0-RELEASE?classifier=sources

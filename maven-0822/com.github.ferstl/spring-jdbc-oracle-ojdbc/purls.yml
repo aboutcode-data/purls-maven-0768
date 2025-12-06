@@ -1,2 +1,4 @@
 - pkg:maven/com.github.ferstl/spring-jdbc-oracle-ojdbc@0.9.0
 - pkg:maven/com.github.ferstl/spring-jdbc-oracle-ojdbc@0.9.0?classifier=sources
+- pkg:maven/com.github.ferstl/spring-jdbc-oracle-ojdbc@1.0.0
+- pkg:maven/com.github.ferstl/spring-jdbc-oracle-ojdbc@1.0.0?classifier=sources

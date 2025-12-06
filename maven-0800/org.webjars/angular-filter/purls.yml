@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars/angular-filter@0.4.6
+- pkg:maven/org.webjars/angular-filter@0.4.6?classifier=sources
+- pkg:maven/org.webjars/angular-filter@0.4.9
+- pkg:maven/org.webjars/angular-filter@0.4.9?classifier=sources

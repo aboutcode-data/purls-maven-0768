@@ -1,0 +1,2 @@
+- pkg:maven/br.com.etyllica/etyllica@4.5
+- pkg:maven/br.com.etyllica/etyllica@4.5?classifier=sources

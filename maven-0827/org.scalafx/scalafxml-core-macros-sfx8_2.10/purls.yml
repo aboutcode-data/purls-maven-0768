@@ -1,0 +1,2 @@
+- pkg:maven/org.scalafx/scalafxml-core-macros-sfx8_2.10@0.2.2
+- pkg:maven/org.scalafx/scalafxml-core-macros-sfx8_2.10@0.2.2?classifier=sources

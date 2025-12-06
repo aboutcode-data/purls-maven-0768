@@ -1,0 +1,2 @@
+- pkg:maven/org.openmuc/jsml@1.0.17
+- pkg:maven/org.openmuc/jsml@1.0.17?classifier=sources

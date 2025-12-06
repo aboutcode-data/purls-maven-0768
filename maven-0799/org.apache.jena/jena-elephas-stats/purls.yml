@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.jena/jena-elephas-stats@0.9.0
+- pkg:maven/org.apache.jena/jena-elephas-stats@0.9.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-elephas-stats@3.0.0
+- pkg:maven/org.apache.jena/jena-elephas-stats@3.0.0?classifier=sources

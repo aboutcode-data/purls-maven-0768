@@ -1,0 +1,4 @@
+- pkg:maven/com.cantrowitz/rxbroadcast@0.1.0?classifier=sources
+- pkg:maven/com.cantrowitz/rxbroadcast@0.1.0?type=aar
+- pkg:maven/com.cantrowitz/rxbroadcast@1.0.0?classifier=sources
+- pkg:maven/com.cantrowitz/rxbroadcast@1.0.0?type=aar

@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/polymer-polymer@0.8.0-rc.7
+- pkg:maven/org.webjars.bower/polymer-polymer@0.8.0-rc.7?classifier=sources
+- pkg:maven/org.webjars.bower/polymer-polymer@0.9.2
+- pkg:maven/org.webjars.bower/polymer-polymer@0.9.2?classifier=sources
+- pkg:maven/org.webjars.bower/polymer-polymer@0.9.4
+- pkg:maven/org.webjars.bower/polymer-polymer@0.9.4?classifier=sources

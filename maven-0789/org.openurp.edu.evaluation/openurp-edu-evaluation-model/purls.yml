@@ -1,0 +1,6 @@
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-model@0.0.2
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-model@0.0.2?classifier=sources
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-model@0.0.3
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-model@0.0.3?classifier=sources
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-model@0.0.5
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-model@0.0.5?classifier=sources

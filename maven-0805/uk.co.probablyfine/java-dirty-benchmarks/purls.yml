@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.probablyfine/java-dirty-benchmarks@1.7
+- pkg:maven/uk.co.probablyfine/java-dirty-benchmarks@1.7?classifier=sources

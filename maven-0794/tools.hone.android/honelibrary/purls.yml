@@ -1,0 +1,2 @@
+- pkg:maven/tools.hone.android/honelibrary@0.2.0?classifier=sources
+- pkg:maven/tools.hone.android/honelibrary@0.2.0?type=aar

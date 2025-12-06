@@ -1,0 +1,8 @@
+- pkg:maven/org.vx68k.bitbucket/bitbucket-api-client@1.0
+- pkg:maven/org.vx68k.bitbucket/bitbucket-api-client@1.0?classifier=sources
+- pkg:maven/org.vx68k.bitbucket/bitbucket-api-client@2.0
+- pkg:maven/org.vx68k.bitbucket/bitbucket-api-client@2.0?classifier=sources
+- pkg:maven/org.vx68k.bitbucket/bitbucket-api-client@3.0
+- pkg:maven/org.vx68k.bitbucket/bitbucket-api-client@3.0?classifier=sources
+- pkg:maven/org.vx68k.bitbucket/bitbucket-api-client@4.0
+- pkg:maven/org.vx68k.bitbucket/bitbucket-api-client@4.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/de.pfabulist.lindwurm/setec@0.4.2.59
+- pkg:maven/de.pfabulist.lindwurm/setec@0.4.2.59?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/setec@0.4.3.63
+- pkg:maven/de.pfabulist.lindwurm/setec@0.4.3.63?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/setec@0.4.4.66
+- pkg:maven/de.pfabulist.lindwurm/setec@0.4.4.66?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/setec@0.4.5
+- pkg:maven/de.pfabulist.lindwurm/setec@0.4.5?classifier=sources

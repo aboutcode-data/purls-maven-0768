@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-133
+- pkg:maven/org.jboss.arquillian.container/arquillian-fabric8-remote@1.2.0.redhat-133?classifier=sources

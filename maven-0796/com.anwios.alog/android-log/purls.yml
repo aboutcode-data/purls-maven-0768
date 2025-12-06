@@ -1,0 +1,8 @@
+- pkg:maven/com.anwios.alog/android-log@1.1.0?classifier=sources
+- pkg:maven/com.anwios.alog/android-log@1.1.0?type=aar
+- pkg:maven/com.anwios.alog/android-log@1.2.1?classifier=sources
+- pkg:maven/com.anwios.alog/android-log@1.2.1?type=aar
+- pkg:maven/com.anwios.alog/android-log@1.2.2?classifier=sources
+- pkg:maven/com.anwios.alog/android-log@1.2.2?type=aar
+- pkg:maven/com.anwios.alog/android-log@1.2.3?classifier=sources
+- pkg:maven/com.anwios.alog/android-log@1.2.3?type=aar

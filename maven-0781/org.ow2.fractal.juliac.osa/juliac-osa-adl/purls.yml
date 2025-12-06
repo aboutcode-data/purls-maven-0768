@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.fractal.juliac.osa/juliac-osa-adl@2.6
+- pkg:maven/org.ow2.fractal.juliac.osa/juliac-osa-adl@2.6?classifier=sources

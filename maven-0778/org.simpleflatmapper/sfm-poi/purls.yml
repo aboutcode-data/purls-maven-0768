@@ -1,0 +1,14 @@
+- pkg:maven/org.simpleflatmapper/sfm-poi@1.11b1
+- pkg:maven/org.simpleflatmapper/sfm-poi@1.11b1?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-poi@2.0
+- pkg:maven/org.simpleflatmapper/sfm-poi@2.0?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-poi@2.1
+- pkg:maven/org.simpleflatmapper/sfm-poi@2.1?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-poi@2.2
+- pkg:maven/org.simpleflatmapper/sfm-poi@2.2?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-poi@2.3
+- pkg:maven/org.simpleflatmapper/sfm-poi@2.3?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-poi@2.4
+- pkg:maven/org.simpleflatmapper/sfm-poi@2.4.1
+- pkg:maven/org.simpleflatmapper/sfm-poi@2.4.1?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-poi@2.4?classifier=sources

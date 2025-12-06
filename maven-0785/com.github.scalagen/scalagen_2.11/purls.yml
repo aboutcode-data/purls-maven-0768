@@ -1,0 +1,4 @@
+- pkg:maven/com.github.scalagen/scalagen_2.11@0.3.0
+- pkg:maven/com.github.scalagen/scalagen_2.11@0.3.0?classifier=sources
+- pkg:maven/com.github.scalagen/scalagen_2.11@0.4.0
+- pkg:maven/com.github.scalagen/scalagen_2.11@0.4.0?classifier=sources

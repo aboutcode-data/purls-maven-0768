@@ -1,0 +1,2 @@
+- pkg:maven/io.hawt/hawtio-insight-log@1.4.56
+- pkg:maven/io.hawt/hawtio-insight-log@1.4.56?classifier=sources

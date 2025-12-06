@@ -1,0 +1,2 @@
+- pkg:maven/io.swagger/swagger-validator@1.0.0?type=war
+- pkg:maven/io.swagger/swagger-validator@1.0.1?type=war

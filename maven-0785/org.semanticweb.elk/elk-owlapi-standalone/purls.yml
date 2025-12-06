@@ -2,3 +2,4 @@
 - pkg:maven/org.semanticweb.elk/elk-owlapi-standalone@0.3.2?classifier=src
 - pkg:maven/org.semanticweb.elk/elk-owlapi-standalone@0.4.0?classifier=src
 - pkg:maven/org.semanticweb.elk/elk-owlapi-standalone@0.4.1?classifier=src
+- pkg:maven/org.semanticweb.elk/elk-owlapi-standalone@0.4.2?classifier=src

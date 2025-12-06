@@ -1,0 +1,2 @@
+- pkg:maven/gr.iti.mklab/mklab-framework-common@0.1
+- pkg:maven/gr.iti.mklab/mklab-framework-common@0.1?classifier=sources

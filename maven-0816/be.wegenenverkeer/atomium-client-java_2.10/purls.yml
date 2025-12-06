@@ -1,0 +1,2 @@
+- pkg:maven/be.wegenenverkeer/atomium-client-java_2.10@0.3.0
+- pkg:maven/be.wegenenverkeer/atomium-client-java_2.10@0.3.0?classifier=sources

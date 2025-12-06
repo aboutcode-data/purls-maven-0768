@@ -1,0 +1,4 @@
+- pkg:maven/org.slf4s/slf4s-api_2.9.1-1@1.7.10
+- pkg:maven/org.slf4s/slf4s-api_2.9.1-1@1.7.10?classifier=sources
+- pkg:maven/org.slf4s/slf4s-api_2.9.1-1@1.7.12
+- pkg:maven/org.slf4s/slf4s-api_2.9.1-1@1.7.12?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.alpinenow/plugin-model_2.10@0.9.9.11
+- pkg:maven/com.alpinenow/plugin-model_2.10@0.9.9.11?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.mattjhoffman/mule-mmc-rest-plugin@1.2.1
+- pkg:maven/com.mattjhoffman/mule-mmc-rest-plugin@1.2.1?classifier=sources

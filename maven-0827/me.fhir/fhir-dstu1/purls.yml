@@ -1,0 +1,6 @@
+- pkg:maven/me.fhir/fhir-dstu1@0.0.81.2489
+- pkg:maven/me.fhir/fhir-dstu1@0.0.81.2489?classifier=sources
+- pkg:maven/me.fhir/fhir-dstu1@0.0.81.2943
+- pkg:maven/me.fhir/fhir-dstu1@0.0.81.2943?classifier=sources
+- pkg:maven/me.fhir/fhir-dstu1@0.0.82.2943
+- pkg:maven/me.fhir/fhir-dstu1@0.0.82.2943?classifier=sources

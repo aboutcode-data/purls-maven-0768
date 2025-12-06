@@ -1,0 +1,2 @@
+- pkg:maven/org.mongolink/mongolink-example@1.2.2?classifier=sources
+- pkg:maven/org.mongolink/mongolink-example@1.2.2?type=war

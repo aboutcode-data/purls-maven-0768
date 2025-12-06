@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sarxos/exchange-rates-api@0.2
+- pkg:maven/com.github.sarxos/exchange-rates-api@0.2?classifier=sources

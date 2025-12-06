@@ -1,0 +1,2 @@
+- pkg:maven/org.skinny-framework/scalate-precompiler_2.11@1.7.1.0
+- pkg:maven/org.skinny-framework/scalate-precompiler_2.11@1.7.1.0?classifier=sources

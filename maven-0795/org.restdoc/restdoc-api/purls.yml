@@ -8,3 +8,9 @@
 - pkg:maven/org.restdoc/restdoc-api@1.2.0?classifier=sources
 - pkg:maven/org.restdoc/restdoc-api@1.3.0
 - pkg:maven/org.restdoc/restdoc-api@1.3.0?classifier=sources
+- pkg:maven/org.restdoc/restdoc-api@1.3.1
+- pkg:maven/org.restdoc/restdoc-api@1.3.1?classifier=sources
+- pkg:maven/org.restdoc/restdoc-api@1.4
+- pkg:maven/org.restdoc/restdoc-api@1.4?classifier=sources
+- pkg:maven/org.restdoc/restdoc-api@1.5
+- pkg:maven/org.restdoc/restdoc-api@1.5?classifier=sources

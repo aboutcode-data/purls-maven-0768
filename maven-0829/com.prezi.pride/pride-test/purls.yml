@@ -1,0 +1,4 @@
+- pkg:maven/com.prezi.pride/pride-test@0.10
+- pkg:maven/com.prezi.pride/pride-test@0.10?classifier=sources
+- pkg:maven/com.prezi.pride/pride-test@0.11-rc-1
+- pkg:maven/com.prezi.pride/pride-test@0.11-rc-1?classifier=sources

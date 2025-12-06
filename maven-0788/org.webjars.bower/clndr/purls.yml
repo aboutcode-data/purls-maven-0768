@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/clndr@1.2.10
+- pkg:maven/org.webjars.bower/clndr@1.2.10?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.github.cage433/maker@0.01
+- pkg:maven/com.github.cage433/maker@0.01?classifier=sources
+- pkg:maven/com.github.cage433/maker@0.03
+- pkg:maven/com.github.cage433/maker@0.03?classifier=sources
+- pkg:maven/com.github.cage433/maker@0.04
+- pkg:maven/com.github.cage433/maker@0.04?classifier=sources
+- pkg:maven/com.github.cage433/maker@0.05
+- pkg:maven/com.github.cage433/maker@0.05?classifier=sources
+- pkg:maven/com.github.cage433/maker@0.06
+- pkg:maven/com.github.cage433/maker@0.06?classifier=sources

@@ -1,3 +1,13 @@
+- pkg:maven/de.sciss/scalacolliderugens-spec@1.10.0
+- pkg:maven/de.sciss/scalacolliderugens-spec@1.11.0
+- pkg:maven/de.sciss/scalacolliderugens-spec@1.11.1
+- pkg:maven/de.sciss/scalacolliderugens-spec@1.11.2
+- pkg:maven/de.sciss/scalacolliderugens-spec@1.12.0
+- pkg:maven/de.sciss/scalacolliderugens-spec@1.13.0
+- pkg:maven/de.sciss/scalacolliderugens-spec@1.13.1
+- pkg:maven/de.sciss/scalacolliderugens-spec@1.13.2
+- pkg:maven/de.sciss/scalacolliderugens-spec@1.13.3
+- pkg:maven/de.sciss/scalacolliderugens-spec@1.13.4
 - pkg:maven/de.sciss/scalacolliderugens-spec@1.4.0
 - pkg:maven/de.sciss/scalacolliderugens-spec@1.4.1
 - pkg:maven/de.sciss/scalacolliderugens-spec@1.5.0
@@ -9,3 +19,4 @@
 - pkg:maven/de.sciss/scalacolliderugens-spec@1.7.2
 - pkg:maven/de.sciss/scalacolliderugens-spec@1.8.0
 - pkg:maven/de.sciss/scalacolliderugens-spec@1.8.1
+- pkg:maven/de.sciss/scalacolliderugens-spec@1.9.0

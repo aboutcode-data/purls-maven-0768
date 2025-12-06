@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/phantomjs2-ext@0.1.0
+- pkg:maven/org.webjars.npm/phantomjs2-ext@0.1.0?classifier=sources

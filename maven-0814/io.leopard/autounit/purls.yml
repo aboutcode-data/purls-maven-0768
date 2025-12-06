@@ -1,0 +1,2 @@
+- pkg:maven/io.leopard/autounit@0.2
+- pkg:maven/io.leopard/autounit@0.2?classifier=sources

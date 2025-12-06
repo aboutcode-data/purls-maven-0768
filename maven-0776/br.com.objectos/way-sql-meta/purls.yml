@@ -1,0 +1,2 @@
+- pkg:maven/br.com.objectos/way-sql-meta@2.1.0
+- pkg:maven/br.com.objectos/way-sql-meta@2.1.0?classifier=sources

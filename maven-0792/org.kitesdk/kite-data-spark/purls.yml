@@ -1,0 +1,6 @@
+- pkg:maven/org.kitesdk/kite-data-spark@0.16.0
+- pkg:maven/org.kitesdk/kite-data-spark@0.17.0
+- pkg:maven/org.kitesdk/kite-data-spark@0.17.1
+- pkg:maven/org.kitesdk/kite-data-spark@0.18.0
+- pkg:maven/org.kitesdk/kite-data-spark@1.0.0
+- pkg:maven/org.kitesdk/kite-data-spark@1.1.0

@@ -1,0 +1,2 @@
+- pkg:maven/net.riotopsys/json_patch@0.0.0
+- pkg:maven/net.riotopsys/json_patch@0.0.0?classifier=sources

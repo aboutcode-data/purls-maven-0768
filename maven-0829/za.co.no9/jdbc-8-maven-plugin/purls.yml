@@ -1,0 +1,2 @@
+- pkg:maven/za.co.no9/jdbc-8-maven-plugin@8.0
+- pkg:maven/za.co.no9/jdbc-8-maven-plugin@8.0?classifier=sources

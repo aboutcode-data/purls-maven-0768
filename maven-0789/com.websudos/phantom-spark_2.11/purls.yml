@@ -1,0 +1,8 @@
+- pkg:maven/com.websudos/phantom-spark_2.11@1.7.9
+- pkg:maven/com.websudos/phantom-spark_2.11@1.7.9?classifier=sources
+- pkg:maven/com.websudos/phantom-spark_2.11@1.8.0
+- pkg:maven/com.websudos/phantom-spark_2.11@1.8.0?classifier=sources
+- pkg:maven/com.websudos/phantom-spark_2.11@1.8.12
+- pkg:maven/com.websudos/phantom-spark_2.11@1.8.12?classifier=sources
+- pkg:maven/com.websudos/phantom-spark_2.11@1.8.4
+- pkg:maven/com.websudos/phantom-spark_2.11@1.8.4?classifier=sources

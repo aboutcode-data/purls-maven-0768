@@ -1,0 +1,10 @@
+- pkg:maven/org.tinygroup/webappprojectarchetype@1.2.2?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@1.2.3?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@1.2.4?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@2.0.0?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@2.0.10?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@2.0.19?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@2.0.20?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@2.0.21?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@2.0.26?classifier=sources
+- pkg:maven/org.tinygroup/webappprojectarchetype@2.0.27?classifier=sources

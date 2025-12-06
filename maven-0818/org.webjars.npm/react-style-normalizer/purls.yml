@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/react-style-normalizer@1.2.0
+- pkg:maven/org.webjars.npm/react-style-normalizer@1.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-style-normalizer@1.2.8
+- pkg:maven/org.webjars.npm/react-style-normalizer@1.2.8?classifier=sources

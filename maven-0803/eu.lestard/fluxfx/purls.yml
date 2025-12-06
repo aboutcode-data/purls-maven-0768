@@ -1,0 +1,2 @@
+- pkg:maven/eu.lestard/fluxfx@0.1
+- pkg:maven/eu.lestard/fluxfx@0.1?classifier=sources

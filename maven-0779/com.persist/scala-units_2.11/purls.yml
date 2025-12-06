@@ -1,0 +1,2 @@
+- pkg:maven/com.persist/scala-units_2.11@1.0.0
+- pkg:maven/com.persist/scala-units_2.11@1.0.0?classifier=sources

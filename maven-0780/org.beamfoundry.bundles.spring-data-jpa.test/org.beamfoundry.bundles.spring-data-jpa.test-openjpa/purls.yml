@@ -1,0 +1,2 @@
+- pkg:maven/org.beamfoundry.bundles.spring-data-jpa.test/org.beamfoundry.bundles.spring-data-jpa.test-openjpa@1.6.4.RELEASE_2
+- pkg:maven/org.beamfoundry.bundles.spring-data-jpa.test/org.beamfoundry.bundles.spring-data-jpa.test-openjpa@1.6.4.RELEASE_2?classifier=sources

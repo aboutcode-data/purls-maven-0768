@@ -1,0 +1,2 @@
+- pkg:maven/net.lizalab/kryonet-slf4j@2.22.0
+- pkg:maven/net.lizalab/kryonet-slf4j@2.22.0?classifier=sources

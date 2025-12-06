@@ -1,0 +1,2 @@
+- pkg:maven/org.beiter.michael.authn.jaas.loginmodules.password.validators/plaintext@2.0
+- pkg:maven/org.beiter.michael.authn.jaas.loginmodules.password.validators/plaintext@2.0?classifier=sources

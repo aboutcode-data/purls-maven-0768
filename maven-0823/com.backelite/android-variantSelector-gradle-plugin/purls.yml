@@ -1,0 +1,2 @@
+- pkg:maven/com.backelite/android-variantSelector-gradle-plugin@1.0
+- pkg:maven/com.backelite/android-variantSelector-gradle-plugin@1.0?classifier=sources

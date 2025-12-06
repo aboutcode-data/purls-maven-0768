@@ -1,0 +1,2 @@
+- pkg:maven/com.optimaize.webcrawlerverifier/webcrawlerverifier@0.1
+- pkg:maven/com.optimaize.webcrawlerverifier/webcrawlerverifier@0.1?classifier=sources

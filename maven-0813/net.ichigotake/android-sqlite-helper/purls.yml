@@ -1,0 +1,2 @@
+- pkg:maven/net.ichigotake/android-sqlite-helper@0.1
+- pkg:maven/net.ichigotake/android-sqlite-helper@0.1?classifier=sources

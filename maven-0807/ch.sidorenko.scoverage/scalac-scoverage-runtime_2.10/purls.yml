@@ -1,0 +1,4 @@
+- pkg:maven/ch.sidorenko.scoverage/scalac-scoverage-runtime_2.10@1.0.5-JS
+- pkg:maven/ch.sidorenko.scoverage/scalac-scoverage-runtime_2.10@1.0.5-JS?classifier=sources
+- pkg:maven/ch.sidorenko.scoverage/scalac-scoverage-runtime_2.10@1.1.0-JS
+- pkg:maven/ch.sidorenko.scoverage/scalac-scoverage-runtime_2.10@1.1.0-JS?classifier=sources

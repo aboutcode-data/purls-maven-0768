@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mwmahlberg.sparkjava/spark-template-thymeleaf@0.0.1
+- pkg:maven/com.github.mwmahlberg.sparkjava/spark-template-thymeleaf@0.0.1?classifier=sources

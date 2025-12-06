@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/tether-shepherd@1.1.3
+- pkg:maven/org.webjars.bower/tether-shepherd@1.1.3?classifier=sources

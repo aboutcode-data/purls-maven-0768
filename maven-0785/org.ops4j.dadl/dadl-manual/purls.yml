@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.dadl/dadl-manual@0.1.0?type=war
+- pkg:maven/org.ops4j.dadl/dadl-manual@0.2.0?type=war

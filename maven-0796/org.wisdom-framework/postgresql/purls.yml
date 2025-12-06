@@ -1,2 +1,4 @@
 - pkg:maven/org.wisdom-framework/postgresql@9.1-901.jdbc4_1
 - pkg:maven/org.wisdom-framework/postgresql@9.1-901.jdbc4_1?classifier=sources
+- pkg:maven/org.wisdom-framework/postgresql@9.1-902.jdbc4_1
+- pkg:maven/org.wisdom-framework/postgresql@9.1-902.jdbc4_1?classifier=sources

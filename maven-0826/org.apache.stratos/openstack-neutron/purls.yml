@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.stratos/openstack-neutron@1.8.1-stratos
+- pkg:maven/org.apache.stratos/openstack-neutron@1.8.1-stratos?classifier=sources
+- pkg:maven/org.apache.stratos/openstack-neutron@1.8.1-stratosv1
+- pkg:maven/org.apache.stratos/openstack-neutron@1.8.1-stratosv1?classifier=sources
+- pkg:maven/org.apache.stratos/openstack-neutron@1.9.1

@@ -1,0 +1,4 @@
+- pkg:maven/co.cask.cdap/cdap-data-quality@3.2.0
+- pkg:maven/co.cask.cdap/cdap-data-quality@3.2.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-data-quality@3.2.1
+- pkg:maven/co.cask.cdap/cdap-data-quality@3.2.1?classifier=sources

@@ -11,4 +11,14 @@
 - pkg:maven/org.modeshape/modeshape-jbossas-cmis-war@3.7.0.Final?type=war
 - pkg:maven/org.modeshape/modeshape-jbossas-cmis-war@3.7.1.Final?type=war
 - pkg:maven/org.modeshape/modeshape-jbossas-cmis-war@3.7.2.Final?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-cmis-war@3.7.3.Final?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-cmis-war@3.7.4.Final?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-cmis-war@3.8.0.Final?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-cmis-war@3.8.1.Final?type=war
 - pkg:maven/org.modeshape/modeshape-jbossas-cmis-war@4.0.0.Alpha1?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-cmis-war@4.0.0.Alpha2?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-cmis-war@4.0.0.Alpha3?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-cmis-war@4.0.0.Alpha4?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-cmis-war@4.0.0.Beta1?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-cmis-war@4.0.0.Beta2?type=war
+- pkg:maven/org.modeshape/modeshape-jbossas-cmis-war@4.0.0.Final?type=war

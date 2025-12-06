@@ -1,0 +1,2 @@
+- pkg:maven/io.vertx/vertx-web-templ-thymeleaf@3.1.0
+- pkg:maven/io.vertx/vertx-web-templ-thymeleaf@3.1.0?classifier=sources

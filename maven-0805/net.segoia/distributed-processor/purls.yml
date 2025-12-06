@@ -1,0 +1,2 @@
+- pkg:maven/net.segoia/distributed-processor@0.0.2
+- pkg:maven/net.segoia/distributed-processor@0.0.2?classifier=sources

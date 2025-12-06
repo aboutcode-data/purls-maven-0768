@@ -1,0 +1,2 @@
+- pkg:maven/com.wordnik/swagger-mule@1.5.2-M2
+- pkg:maven/com.wordnik/swagger-mule@1.5.2-M2?classifier=sources

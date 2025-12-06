@@ -1,0 +1,2 @@
+- pkg:maven/io.motown.vas/vas-v10-soap@0.8.2
+- pkg:maven/io.motown.vas/vas-v10-soap@0.8.2?classifier=sources

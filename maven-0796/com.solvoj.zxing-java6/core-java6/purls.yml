@@ -1,0 +1,2 @@
+- pkg:maven/com.solvoj.zxing-java6/core-java6@3.2.0
+- pkg:maven/com.solvoj.zxing-java6/core-java6@3.2.0?classifier=sources

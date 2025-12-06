@@ -12,3 +12,7 @@
 - pkg:maven/com.facebook.presto/presto-server@0.63?classifier=sources
 - pkg:maven/com.facebook.presto/presto-server@0.64?classifier=sources
 - pkg:maven/com.facebook.presto/presto-server@0.65?classifier=sources
+- pkg:maven/com.facebook.presto/presto-server@0.66?classifier=sources
+- pkg:maven/com.facebook.presto/presto-server@0.67?classifier=sources
+- pkg:maven/com.facebook.presto/presto-server@0.68?classifier=sources
+- pkg:maven/com.facebook.presto/presto-server@0.69?classifier=sources

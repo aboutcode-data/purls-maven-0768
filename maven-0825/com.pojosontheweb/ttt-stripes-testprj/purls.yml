@@ -1,0 +1,2 @@
+- pkg:maven/com.pojosontheweb/ttt-stripes-testprj@0.1-alpha4?classifier=sources
+- pkg:maven/com.pojosontheweb/ttt-stripes-testprj@0.1-alpha4?type=war

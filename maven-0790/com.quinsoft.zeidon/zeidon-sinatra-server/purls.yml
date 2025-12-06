@@ -1,0 +1,2 @@
+- pkg:maven/com.quinsoft.zeidon/zeidon-sinatra-server@1.3.6
+- pkg:maven/com.quinsoft.zeidon/zeidon-sinatra-server@1.3.6?classifier=sources

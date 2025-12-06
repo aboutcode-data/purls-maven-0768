@@ -1,0 +1,4 @@
+- pkg:maven/io.fabric8.itests.paxexam/fabric-itests-paxexam-basic@1.1.0.CR3
+- pkg:maven/io.fabric8.itests.paxexam/fabric-itests-paxexam-basic@1.1.0.CR4
+- pkg:maven/io.fabric8.itests.paxexam/fabric-itests-paxexam-basic@1.1.0.CR5
+- pkg:maven/io.fabric8.itests.paxexam/fabric-itests-paxexam-basic@1.2.0.redhat-133

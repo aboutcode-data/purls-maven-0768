@@ -1,0 +1,2 @@
+- pkg:maven/edu.umass.cs.iesl/jflex-testsuite-maven-plugin@1.6.1
+- pkg:maven/edu.umass.cs.iesl/jflex-testsuite-maven-plugin@1.6.1?classifier=sources

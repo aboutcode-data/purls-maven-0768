@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/is-absolute@0.1.7
+- pkg:maven/org.webjars.npm/is-absolute@0.1.7?classifier=sources
+- pkg:maven/org.webjars.npm/is-absolute@0.2.2
+- pkg:maven/org.webjars.npm/is-absolute@0.2.2?classifier=sources

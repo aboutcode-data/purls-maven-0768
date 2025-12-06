@@ -1,0 +1,2 @@
+- pkg:maven/cz.vutbr.fit.layout/layout-tools@0.0.2
+- pkg:maven/cz.vutbr.fit.layout/layout-tools@0.0.2?classifier=sources

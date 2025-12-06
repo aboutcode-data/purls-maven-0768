@@ -1,0 +1,2 @@
+- pkg:maven/com.gonvan/sitemap@0.1.0.RELEASE
+- pkg:maven/com.gonvan/sitemap@0.1.0.RELEASE?classifier=sources

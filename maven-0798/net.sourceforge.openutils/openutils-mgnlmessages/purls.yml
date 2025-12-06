@@ -35,4 +35,8 @@
 - pkg:maven/net.sourceforge.openutils/openutils-mgnlmessages@5.0.1
 - pkg:maven/net.sourceforge.openutils/openutils-mgnlmessages@5.0.10
 - pkg:maven/net.sourceforge.openutils/openutils-mgnlmessages@5.0.10?classifier=sources
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlmessages@5.0.11
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlmessages@5.0.11?classifier=sources
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlmessages@5.0.12
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlmessages@5.0.12?classifier=sources
 - pkg:maven/net.sourceforge.openutils/openutils-mgnlmessages@5.0.1?classifier=sources

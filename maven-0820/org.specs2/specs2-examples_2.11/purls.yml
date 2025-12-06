@@ -1,0 +1,2 @@
+- pkg:maven/org.specs2/specs2-examples_2.11@2.4.15-scalaz-7.0.6
+- pkg:maven/org.specs2/specs2-examples_2.11@2.4.15-scalaz-7.0.6?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.netflix.suro/suro-kafka-producer@0.2.10-rc.1
+- pkg:maven/com.netflix.suro/suro-kafka-producer@0.2.10-rc.1?classifier=sources
+- pkg:maven/com.netflix.suro/suro-kafka-producer@0.2.10-rc.2
+- pkg:maven/com.netflix.suro/suro-kafka-producer@0.2.10-rc.2?classifier=sources
+- pkg:maven/com.netflix.suro/suro-kafka-producer@0.2.10-rc.3
+- pkg:maven/com.netflix.suro/suro-kafka-producer@0.2.10-rc.3?classifier=sources
+- pkg:maven/com.netflix.suro/suro-kafka-producer@0.2.10-rc.4
+- pkg:maven/com.netflix.suro/suro-kafka-producer@0.2.10-rc.4?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@1.7.1
+- pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@1.7.1?classifier=sources
+- pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@1.7.2
+- pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@1.7.2?classifier=sources
+- pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@2.0.0
+- pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@2.0.0?classifier=sources
+- pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@2.1.0
+- pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@2.1.0?classifier=sources
+- pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@2.2.0
+- pkg:maven/edu.cmu.sei.ams.cloudlet/client-lib-android@2.2.0?classifier=sources

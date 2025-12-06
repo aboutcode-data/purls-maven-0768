@@ -1,0 +1,2 @@
+- pkg:maven/com.websudos/util-domain_2.11@0.9.11
+- pkg:maven/com.websudos/util-domain_2.11@0.9.11?classifier=sources

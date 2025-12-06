@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ekryd.sortpom/sortpom-sorter@2.4.0
+- pkg:maven/com.github.ekryd.sortpom/sortpom-sorter@2.4.0?classifier=sources

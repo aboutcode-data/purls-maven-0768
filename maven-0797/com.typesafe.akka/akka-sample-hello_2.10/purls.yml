@@ -13,4 +13,5 @@
 - pkg:maven/com.typesafe.akka/akka-sample-hello_2.10@2.2.2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-sample-hello_2.10@2.2.3?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-sample-hello_2.10@2.2.4?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-sample-hello_2.10@2.2.5?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-sample-hello_2.10@2.3-M1?classifier=sources

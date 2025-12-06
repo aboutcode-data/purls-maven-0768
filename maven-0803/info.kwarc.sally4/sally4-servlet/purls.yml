@@ -1,0 +1,2 @@
+- pkg:maven/info.kwarc.sally4/sally4-servlet@0.0.3
+- pkg:maven/info.kwarc.sally4/sally4-servlet@0.0.3?classifier=sources

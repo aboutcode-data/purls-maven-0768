@@ -1,0 +1,2 @@
+- pkg:maven/me.drakeet.library/crashwoodpechker@0.9?classifier=sources
+- pkg:maven/me.drakeet.library/crashwoodpechker@0.9?type=aar

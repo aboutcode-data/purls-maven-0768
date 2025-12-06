@@ -1,0 +1,12 @@
+- pkg:maven/com.pojosontheweb/ttt-runtime@0.1-alpha4
+- pkg:maven/com.pojosontheweb/ttt-runtime@0.1-alpha4?classifier=sources
+- pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta
+- pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta2
+- pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta2?classifier=sources
+- pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta3
+- pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta3?classifier=sources
+- pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta4
+- pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta4?classifier=sources
+- pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta5
+- pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta5?classifier=sources
+- pkg:maven/com.pojosontheweb/ttt-runtime@0.1-beta?classifier=sources

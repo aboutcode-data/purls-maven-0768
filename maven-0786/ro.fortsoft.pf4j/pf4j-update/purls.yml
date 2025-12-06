@@ -1,0 +1,4 @@
+- pkg:maven/ro.fortsoft.pf4j/pf4j-update@0.1
+- pkg:maven/ro.fortsoft.pf4j/pf4j-update@0.1?classifier=sources
+- pkg:maven/ro.fortsoft.pf4j/pf4j-update@0.2.0
+- pkg:maven/ro.fortsoft.pf4j/pf4j-update@0.2.0?classifier=sources

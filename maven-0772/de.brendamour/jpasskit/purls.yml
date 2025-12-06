@@ -1,0 +1,2 @@
+- pkg:maven/de.brendamour/jpasskit@0.0.7
+- pkg:maven/de.brendamour/jpasskit@0.0.7?classifier=sources

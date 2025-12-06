@@ -1,0 +1,8 @@
+- pkg:maven/io.fabric8.itests.paxexam/fabric-itests-paxexam-common@1.1.0.CR3
+- pkg:maven/io.fabric8.itests.paxexam/fabric-itests-paxexam-common@1.1.0.CR3?classifier=sources
+- pkg:maven/io.fabric8.itests.paxexam/fabric-itests-paxexam-common@1.1.0.CR4
+- pkg:maven/io.fabric8.itests.paxexam/fabric-itests-paxexam-common@1.1.0.CR4?classifier=sources
+- pkg:maven/io.fabric8.itests.paxexam/fabric-itests-paxexam-common@1.1.0.CR5
+- pkg:maven/io.fabric8.itests.paxexam/fabric-itests-paxexam-common@1.1.0.CR5?classifier=sources
+- pkg:maven/io.fabric8.itests.paxexam/fabric-itests-paxexam-common@1.2.0.redhat-133
+- pkg:maven/io.fabric8.itests.paxexam/fabric-itests-paxexam-common@1.2.0.redhat-133?classifier=sources

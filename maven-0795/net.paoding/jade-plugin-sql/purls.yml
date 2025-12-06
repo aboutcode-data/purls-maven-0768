@@ -1,0 +1,8 @@
+- pkg:maven/net.paoding/jade-plugin-sql@0.0.1
+- pkg:maven/net.paoding/jade-plugin-sql@0.0.1.u01
+- pkg:maven/net.paoding/jade-plugin-sql@0.0.1.u01?classifier=sources
+- pkg:maven/net.paoding/jade-plugin-sql@0.0.1.u02
+- pkg:maven/net.paoding/jade-plugin-sql@0.0.1.u02?classifier=sources
+- pkg:maven/net.paoding/jade-plugin-sql@0.0.1.u03
+- pkg:maven/net.paoding/jade-plugin-sql@0.0.1.u03?classifier=sources
+- pkg:maven/net.paoding/jade-plugin-sql@0.0.1?classifier=sources

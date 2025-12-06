@@ -1,0 +1,2 @@
+- pkg:maven/sh.jove.sbt/ivy_2.10@0.13.8-1
+- pkg:maven/sh.jove.sbt/ivy_2.10@0.13.8-1?classifier=sources

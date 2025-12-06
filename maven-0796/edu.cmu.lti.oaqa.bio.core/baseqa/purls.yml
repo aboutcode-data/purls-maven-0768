@@ -1,3 +1,5 @@
+- pkg:maven/edu.cmu.lti.oaqa.bio.core/baseqa@1.10.3
+- pkg:maven/edu.cmu.lti.oaqa.bio.core/baseqa@1.10.3?classifier=sources
 - pkg:maven/edu.cmu.lti.oaqa.bio.core/baseqa@1.6.0
 - pkg:maven/edu.cmu.lti.oaqa.bio.core/baseqa@1.6.0?classifier=sources
 - pkg:maven/edu.cmu.lti.oaqa.bio.core/baseqa@1.7.0

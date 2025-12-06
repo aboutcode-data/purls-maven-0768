@@ -1,0 +1,2 @@
+- pkg:maven/br.com.caelum.vraptor/vraptor-paginator@4.0.0
+- pkg:maven/br.com.caelum.vraptor/vraptor-paginator@4.0.0?classifier=sources

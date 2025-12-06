@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.lens/lens-regression@2.0.1-beta-incubating
+- pkg:maven/org.apache.lens/lens-regression@2.0.1-beta-incubating?classifier=sources
+- pkg:maven/org.apache.lens/lens-regression@2.1.0-beta-incubating
+- pkg:maven/org.apache.lens/lens-regression@2.1.0-beta-incubating?classifier=sources
+- pkg:maven/org.apache.lens/lens-regression@2.2.0-beta-incubating
+- pkg:maven/org.apache.lens/lens-regression@2.2.0-beta-incubating?classifier=sources
+- pkg:maven/org.apache.lens/lens-regression@2.3.0-beta
+- pkg:maven/org.apache.lens/lens-regression@2.3.0-beta?classifier=sources

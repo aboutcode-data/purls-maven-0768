@@ -1,2 +1,4 @@
+- pkg:maven/org.apache.odftoolkit/taglets@0.8.10-incubating
+- pkg:maven/org.apache.odftoolkit/taglets@0.8.10-incubating?classifier=sources
 - pkg:maven/org.apache.odftoolkit/taglets@0.8.8-incubating
 - pkg:maven/org.apache.odftoolkit/taglets@0.8.8-incubating?classifier=sources

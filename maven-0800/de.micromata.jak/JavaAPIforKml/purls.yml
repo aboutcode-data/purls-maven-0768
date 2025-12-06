@@ -1,2 +1,4 @@
 - pkg:maven/de.micromata.jak/JavaAPIforKml@2.2.0
 - pkg:maven/de.micromata.jak/JavaAPIforKml@2.2.0?classifier=sources
+- pkg:maven/de.micromata.jak/JavaAPIforKml@2.2.1
+- pkg:maven/de.micromata.jak/JavaAPIforKml@2.2.1?classifier=sources

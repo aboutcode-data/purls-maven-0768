@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.web.generator@2.9.0.beta6
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.web.generator@2.9.0.beta6?classifier=sources

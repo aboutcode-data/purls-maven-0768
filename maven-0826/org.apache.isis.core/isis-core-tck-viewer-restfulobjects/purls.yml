@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.isis.core/isis-core-tck-viewer-restfulobjects@1.6.0?classifier=sources
+- pkg:maven/org.apache.isis.core/isis-core-tck-viewer-restfulobjects@1.6.0?type=war
+- pkg:maven/org.apache.isis.core/isis-core-tck-viewer-restfulobjects@1.7.0?classifier=sources
+- pkg:maven/org.apache.isis.core/isis-core-tck-viewer-restfulobjects@1.7.0?type=war

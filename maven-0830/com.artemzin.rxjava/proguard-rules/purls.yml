@@ -1,0 +1,4 @@
+- pkg:maven/com.artemzin.rxjava/proguard-rules@1.0.14.0
+- pkg:maven/com.artemzin.rxjava/proguard-rules@1.0.14.0?classifier=sources
+- pkg:maven/com.artemzin.rxjava/proguard-rules@1.0.14.1?type=aar
+- pkg:maven/com.artemzin.rxjava/proguard-rules@1.0.14.2?type=aar

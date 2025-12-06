@@ -1,0 +1,4 @@
+- pkg:maven/biz.ivanov.wildfly/wildfly8-picketlink-parent@1.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/biz.ivanov.wildfly/wildfly8-picketlink-parent@2.7.0.CR3?classifier=source-release&type=zip
+- pkg:maven/biz.ivanov.wildfly/wildfly8-picketlink-parent@2.7.0.Final.1?classifier=source-release&type=zip
+- pkg:maven/biz.ivanov.wildfly/wildfly8-picketlink-parent@2.7.0.Final?classifier=source-release&type=zip

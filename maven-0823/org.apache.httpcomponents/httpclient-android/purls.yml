@@ -1,1 +1,5 @@
 - pkg:maven/org.apache.httpcomponents/httpclient-android@4.3.3
+- pkg:maven/org.apache.httpcomponents/httpclient-android@4.3.5
+- pkg:maven/org.apache.httpcomponents/httpclient-android@4.3.5.1
+- pkg:maven/org.apache.httpcomponents/httpclient-android@4.3.5.1?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpclient-android@4.3.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.karaf.decanter.sla/org.apache.karaf.decanter.sla.checker@1.0.0
+- pkg:maven/org.apache.karaf.decanter.sla/org.apache.karaf.decanter.sla.checker@1.0.0?classifier=sources
+- pkg:maven/org.apache.karaf.decanter.sla/org.apache.karaf.decanter.sla.checker@1.0.1
+- pkg:maven/org.apache.karaf.decanter.sla/org.apache.karaf.decanter.sla.checker@1.0.1?classifier=sources

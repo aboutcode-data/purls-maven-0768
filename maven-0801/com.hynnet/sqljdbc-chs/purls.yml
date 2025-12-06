@@ -1,0 +1,2 @@
+- pkg:maven/com.hynnet/sqljdbc-chs@4.0.2206.100
+- pkg:maven/com.hynnet/sqljdbc-chs@4.0.2206.100?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.dstream/dstream-api@1.0.0.M2
+- pkg:maven/io.dstream/dstream-api@1.0.0.M2?classifier=sources

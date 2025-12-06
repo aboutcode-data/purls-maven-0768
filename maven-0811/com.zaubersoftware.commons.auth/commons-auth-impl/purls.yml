@@ -1,2 +1,4 @@
 - pkg:maven/com.zaubersoftware.commons.auth/commons-auth-impl@3.49
 - pkg:maven/com.zaubersoftware.commons.auth/commons-auth-impl@3.49?classifier=sources
+- pkg:maven/com.zaubersoftware.commons.auth/commons-auth-impl@3.50
+- pkg:maven/com.zaubersoftware.commons.auth/commons-auth-impl@3.50?classifier=sources

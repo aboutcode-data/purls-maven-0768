@@ -1,0 +1,10 @@
+- pkg:maven/com.netflix.karyon/karyon-governator@2.1.00-RC2
+- pkg:maven/com.netflix.karyon/karyon-governator@2.1.00-RC2?classifier=sources
+- pkg:maven/com.netflix.karyon/karyon-governator@2.1.00-RC3
+- pkg:maven/com.netflix.karyon/karyon-governator@2.1.00-RC3?classifier=sources
+- pkg:maven/com.netflix.karyon/karyon-governator@2.1.00-RC4
+- pkg:maven/com.netflix.karyon/karyon-governator@2.1.00-RC4?classifier=sources
+- pkg:maven/com.netflix.karyon/karyon-governator@2.1.00-RC5
+- pkg:maven/com.netflix.karyon/karyon-governator@2.1.00-RC5?classifier=sources
+- pkg:maven/com.netflix.karyon/karyon-governator@2.1.00-RC6
+- pkg:maven/com.netflix.karyon/karyon-governator@2.1.00-RC6?classifier=sources

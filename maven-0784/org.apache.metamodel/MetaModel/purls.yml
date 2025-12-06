@@ -1,1 +1,13 @@
 - pkg:maven/org.apache.metamodel/MetaModel@4.0.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.metamodel/MetaModel@4.1.0-RC1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.metamodel/MetaModel@4.2.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.metamodel/MetaModel@4.3.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.metamodel/MetaModel@4.3.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.metamodel/MetaModel@4.3.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.metamodel/MetaModel@4.3.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.metamodel/MetaModel@4.3.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.metamodel/MetaModel@4.3.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.metamodel/MetaModel@4.3.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.metamodel/MetaModel@4.4.0-RC1?classifier=source-release&type=zip
+- pkg:maven/org.apache.metamodel/MetaModel@4.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.metamodel/MetaModel@4.4.1?classifier=source-release&type=zip

@@ -16,6 +16,8 @@
 - pkg:maven/org.jboss.resteasy/eagledns-fork@2.3.0.GA?classifier=sources
 - pkg:maven/org.jboss.resteasy/eagledns-fork@2.3.1.GA
 - pkg:maven/org.jboss.resteasy/eagledns-fork@2.3.1.GA?classifier=sources
+- pkg:maven/org.jboss.resteasy/eagledns-fork@2.3.10.Final
+- pkg:maven/org.jboss.resteasy/eagledns-fork@2.3.10.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/eagledns-fork@2.3.2.Final
 - pkg:maven/org.jboss.resteasy/eagledns-fork@2.3.2.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/eagledns-fork@2.3.3.Final

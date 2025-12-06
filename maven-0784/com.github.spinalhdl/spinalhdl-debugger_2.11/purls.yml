@@ -1,0 +1,2 @@
+- pkg:maven/com.github.spinalhdl/spinalhdl-debugger_2.11@0.1.4
+- pkg:maven/com.github.spinalhdl/spinalhdl-debugger_2.11@0.1.4?classifier=sources

@@ -3,3 +3,7 @@
 - pkg:maven/info.metadude.android/typed-preferences@1.0.1?type=aar
 - pkg:maven/info.metadude.android/typed-preferences@1.1.0?classifier=sources
 - pkg:maven/info.metadude.android/typed-preferences@1.1.0?type=aar
+- pkg:maven/info.metadude.android/typed-preferences@1.1.1
+- pkg:maven/info.metadude.android/typed-preferences@1.1.1?classifier=sources
+- pkg:maven/info.metadude.android/typed-preferences@2.0.0
+- pkg:maven/info.metadude.android/typed-preferences@2.0.0?classifier=sources

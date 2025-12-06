@@ -3,6 +3,8 @@
 - pkg:maven/org.golo-lang/golo-maven-plugin@0-preview10?classifier=sources
 - pkg:maven/org.golo-lang/golo-maven-plugin@0-preview11
 - pkg:maven/org.golo-lang/golo-maven-plugin@0-preview11?classifier=sources
+- pkg:maven/org.golo-lang/golo-maven-plugin@0-preview12
+- pkg:maven/org.golo-lang/golo-maven-plugin@0-preview12?classifier=sources
 - pkg:maven/org.golo-lang/golo-maven-plugin@0-preview1?classifier=sources
 - pkg:maven/org.golo-lang/golo-maven-plugin@0-preview2
 - pkg:maven/org.golo-lang/golo-maven-plugin@0-preview2?classifier=sources
@@ -20,3 +22,11 @@
 - pkg:maven/org.golo-lang/golo-maven-plugin@0-preview8?classifier=sources
 - pkg:maven/org.golo-lang/golo-maven-plugin@0-preview9
 - pkg:maven/org.golo-lang/golo-maven-plugin@0-preview9?classifier=sources
+- pkg:maven/org.golo-lang/golo-maven-plugin@1.0.0
+- pkg:maven/org.golo-lang/golo-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/org.golo-lang/golo-maven-plugin@1.1.0
+- pkg:maven/org.golo-lang/golo-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/org.golo-lang/golo-maven-plugin@2.0.0
+- pkg:maven/org.golo-lang/golo-maven-plugin@2.0.0?classifier=sources
+- pkg:maven/org.golo-lang/golo-maven-plugin@2.1.0
+- pkg:maven/org.golo-lang/golo-maven-plugin@2.1.0?classifier=sources

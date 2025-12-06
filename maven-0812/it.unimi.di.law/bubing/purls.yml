@@ -1,0 +1,9 @@
+- pkg:maven/it.unimi.di.law/bubing@0.9.10?classifier=sources
+- pkg:maven/it.unimi.di.law/bubing@0.9.11
+- pkg:maven/it.unimi.di.law/bubing@0.9.11?classifier=sources
+- pkg:maven/it.unimi.di.law/bubing@0.9.6
+- pkg:maven/it.unimi.di.law/bubing@0.9.6?classifier=sources
+- pkg:maven/it.unimi.di.law/bubing@0.9.8
+- pkg:maven/it.unimi.di.law/bubing@0.9.8?classifier=sources
+- pkg:maven/it.unimi.di.law/bubing@0.9.9
+- pkg:maven/it.unimi.di.law/bubing@0.9.9?classifier=sources

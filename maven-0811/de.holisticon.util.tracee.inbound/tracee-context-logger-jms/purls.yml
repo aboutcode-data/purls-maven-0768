@@ -1,0 +1,2 @@
+- pkg:maven/de.holisticon.util.tracee.inbound/tracee-context-logger-jms@0.2.0
+- pkg:maven/de.holisticon.util.tracee.inbound/tracee-context-logger-jms@0.2.0?classifier=sources

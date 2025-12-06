@@ -1,0 +1,4 @@
+- pkg:maven/com.3sidedcube.storm/ui@0.1a?classifier=sources
+- pkg:maven/com.3sidedcube.storm/ui@0.1a?type=aar
+- pkg:maven/com.3sidedcube.storm/ui@0.2?classifier=sources
+- pkg:maven/com.3sidedcube.storm/ui@0.2?type=aar

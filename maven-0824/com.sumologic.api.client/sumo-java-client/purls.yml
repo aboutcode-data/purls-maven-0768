@@ -1,2 +1,4 @@
 - pkg:maven/com.sumologic.api.client/sumo-java-client@1.0
 - pkg:maven/com.sumologic.api.client/sumo-java-client@1.0?classifier=sources
+- pkg:maven/com.sumologic.api.client/sumo-java-client@2.0
+- pkg:maven/com.sumologic.api.client/sumo-java-client@2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.sailthru/com.sailthru.android@1.0
+- pkg:maven/com.sailthru/com.sailthru.android@1.0.1
+- pkg:maven/com.sailthru/com.sailthru.android@1.0.1?classifier=sources
+- pkg:maven/com.sailthru/com.sailthru.android@1.0?classifier=sources

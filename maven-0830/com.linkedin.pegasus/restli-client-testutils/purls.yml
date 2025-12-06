@@ -1,3 +1,7 @@
+- pkg:maven/com.linkedin.pegasus/restli-client-testutils@1.15.12
+- pkg:maven/com.linkedin.pegasus/restli-client-testutils@1.15.12?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-client-testutils@1.15.18
+- pkg:maven/com.linkedin.pegasus/restli-client-testutils@1.15.18?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-client-testutils@1.15.2
 - pkg:maven/com.linkedin.pegasus/restli-client-testutils@1.15.2?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-client-testutils@1.15.4
@@ -6,3 +10,11 @@
 - pkg:maven/com.linkedin.pegasus/restli-client-testutils@1.15.7?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-client-testutils@1.15.9
 - pkg:maven/com.linkedin.pegasus/restli-client-testutils@1.15.9?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-client-testutils@1.20.0
+- pkg:maven/com.linkedin.pegasus/restli-client-testutils@1.20.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-client-testutils@2.1.0
+- pkg:maven/com.linkedin.pegasus/restli-client-testutils@2.1.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-client-testutils@2.2.5
+- pkg:maven/com.linkedin.pegasus/restli-client-testutils@2.2.5?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-client-testutils@2.6.0
+- pkg:maven/com.linkedin.pegasus/restli-client-testutils@2.6.0?classifier=sources

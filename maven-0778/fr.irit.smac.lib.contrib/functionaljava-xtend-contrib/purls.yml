@@ -1,0 +1,2 @@
+- pkg:maven/fr.irit.smac.lib.contrib/functionaljava-xtend-contrib@1.1.1
+- pkg:maven/fr.irit.smac.lib.contrib/functionaljava-xtend-contrib@1.1.1?classifier=sources

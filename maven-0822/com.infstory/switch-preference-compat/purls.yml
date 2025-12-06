@@ -1,0 +1,2 @@
+- pkg:maven/com.infstory/switch-preference-compat@1.0.0?classifier=sources
+- pkg:maven/com.infstory/switch-preference-compat@1.0.0?type=aar

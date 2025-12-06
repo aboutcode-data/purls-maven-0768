@@ -1,0 +1,2 @@
+- pkg:maven/org.jodd/jodd-htmlstapler@3.6.7
+- pkg:maven/org.jodd/jodd-htmlstapler@3.6.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.cosmicpush/push-server@3.1.4?classifier=sources
+- pkg:maven/com.cosmicpush/push-server@3.1.4?type=war

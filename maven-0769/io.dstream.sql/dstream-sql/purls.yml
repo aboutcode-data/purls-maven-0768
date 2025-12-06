@@ -1,0 +1,2 @@
+- pkg:maven/io.dstream.sql/dstream-sql@1.0.0.M2
+- pkg:maven/io.dstream.sql/dstream-sql@1.0.0.M2?classifier=sources

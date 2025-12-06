@@ -1,0 +1,2 @@
+- pkg:maven/com.m3/auth-plugin-api_2.10@2.3
+- pkg:maven/com.m3/auth-plugin-api_2.10@2.3?classifier=sources

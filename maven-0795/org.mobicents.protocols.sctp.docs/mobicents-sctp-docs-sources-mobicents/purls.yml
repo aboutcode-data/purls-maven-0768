@@ -1,2 +1,6 @@
 - pkg:maven/org.mobicents.protocols.sctp.docs/mobicents-sctp-docs-sources-mobicents@1.4.0.FINAL
 - pkg:maven/org.mobicents.protocols.sctp.docs/mobicents-sctp-docs-sources-mobicents@1.4.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.protocols.sctp.docs/mobicents-sctp-docs-sources-mobicents@1.5.0.FINAL
+- pkg:maven/org.mobicents.protocols.sctp.docs/mobicents-sctp-docs-sources-mobicents@1.5.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.protocols.sctp.docs/mobicents-sctp-docs-sources-mobicents@1.6.0.FINAL
+- pkg:maven/org.mobicents.protocols.sctp.docs/mobicents-sctp-docs-sources-mobicents@1.6.0.FINAL?classifier=sources

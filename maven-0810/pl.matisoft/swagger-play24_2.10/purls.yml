@@ -1,0 +1,8 @@
+- pkg:maven/pl.matisoft/swagger-play24_2.10@1.1
+- pkg:maven/pl.matisoft/swagger-play24_2.10@1.1?classifier=sources
+- pkg:maven/pl.matisoft/swagger-play24_2.10@1.2
+- pkg:maven/pl.matisoft/swagger-play24_2.10@1.2?classifier=sources
+- pkg:maven/pl.matisoft/swagger-play24_2.10@1.3
+- pkg:maven/pl.matisoft/swagger-play24_2.10@1.3?classifier=sources
+- pkg:maven/pl.matisoft/swagger-play24_2.10@1.4
+- pkg:maven/pl.matisoft/swagger-play24_2.10@1.4?classifier=sources

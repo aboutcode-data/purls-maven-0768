@@ -1,0 +1,4 @@
+- pkg:maven/net.servicegrid/jp.go.nict.langrid.serviceexecutor.db.bilingualdictionary@1.0.6
+- pkg:maven/net.servicegrid/jp.go.nict.langrid.serviceexecutor.db.bilingualdictionary@1.0.6?classifier=sources
+- pkg:maven/net.servicegrid/jp.go.nict.langrid.serviceexecutor.db.bilingualdictionary@1.0.7
+- pkg:maven/net.servicegrid/jp.go.nict.langrid.serviceexecutor.db.bilingualdictionary@1.0.7?classifier=sources

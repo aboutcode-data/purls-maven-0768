@@ -1,0 +1,4 @@
+- pkg:maven/com.twitter/scalding-thrift-macros_2.10@0.15.1-RC13
+- pkg:maven/com.twitter/scalding-thrift-macros_2.10@0.15.1-RC13?classifier=sources
+- pkg:maven/com.twitter/scalding-thrift-macros_2.10@0.15.1-RC9
+- pkg:maven/com.twitter/scalding-thrift-macros_2.10@0.15.1-RC9?classifier=sources

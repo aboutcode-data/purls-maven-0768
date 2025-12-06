@@ -4,3 +4,13 @@
 - pkg:maven/com.qmetric/halreader@1.1?classifier=sources
 - pkg:maven/com.qmetric/halreader@1.2
 - pkg:maven/com.qmetric/halreader@1.2?classifier=sources
+- pkg:maven/com.qmetric/halreader@1.3
+- pkg:maven/com.qmetric/halreader@1.3?classifier=sources
+- pkg:maven/com.qmetric/halreader@1.4
+- pkg:maven/com.qmetric/halreader@1.4?classifier=sources
+- pkg:maven/com.qmetric/halreader@1.5
+- pkg:maven/com.qmetric/halreader@1.5?classifier=sources
+- pkg:maven/com.qmetric/halreader@1.6
+- pkg:maven/com.qmetric/halreader@1.6?classifier=sources
+- pkg:maven/com.qmetric/halreader@1.7
+- pkg:maven/com.qmetric/halreader@1.7?classifier=sources

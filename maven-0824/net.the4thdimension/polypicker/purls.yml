@@ -1,0 +1,2 @@
+- pkg:maven/net.the4thdimension/polypicker@1.0.5?classifier=sources
+- pkg:maven/net.the4thdimension/polypicker@1.0.5?type=aar

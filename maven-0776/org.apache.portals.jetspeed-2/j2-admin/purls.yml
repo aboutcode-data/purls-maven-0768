@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.2.1?type=war
 - pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.2.2?type=war
+- pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.3.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.jetspeed-2/j2-admin@2.3.0?type=war

@@ -1,0 +1,8 @@
+- pkg:maven/net.kaczmarzyk/specification-arg-resolver@0.4.1
+- pkg:maven/net.kaczmarzyk/specification-arg-resolver@0.4.1?classifier=sources
+- pkg:maven/net.kaczmarzyk/specification-arg-resolver@0.5.0
+- pkg:maven/net.kaczmarzyk/specification-arg-resolver@0.5.0?classifier=sources
+- pkg:maven/net.kaczmarzyk/specification-arg-resolver@0.6.0
+- pkg:maven/net.kaczmarzyk/specification-arg-resolver@0.6.0?classifier=sources
+- pkg:maven/net.kaczmarzyk/specification-arg-resolver@0.6.1
+- pkg:maven/net.kaczmarzyk/specification-arg-resolver@0.6.1?classifier=sources

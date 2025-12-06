@@ -1,0 +1,2 @@
+- pkg:maven/org.ozoneplatform/ozone-auditing@1.2.1?classifier=sources
+- pkg:maven/org.ozoneplatform/ozone-auditing@1.2.1?type=zip

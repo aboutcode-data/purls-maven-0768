@@ -1,2 +1,4 @@
 - pkg:maven/org.scala-libs/scalajpa_2.9.0@1.4
 - pkg:maven/org.scala-libs/scalajpa_2.9.0@1.4?classifier=sources
+- pkg:maven/org.scala-libs/scalajpa_2.9.0@1.5
+- pkg:maven/org.scala-libs/scalajpa_2.9.0@1.5?classifier=sources

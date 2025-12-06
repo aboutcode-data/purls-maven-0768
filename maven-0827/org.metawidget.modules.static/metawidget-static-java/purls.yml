@@ -34,3 +34,9 @@
 - pkg:maven/org.metawidget.modules.static/metawidget-static-java@3.7?classifier=sources
 - pkg:maven/org.metawidget.modules.static/metawidget-static-java@3.8
 - pkg:maven/org.metawidget.modules.static/metawidget-static-java@3.8?classifier=sources
+- pkg:maven/org.metawidget.modules.static/metawidget-static-java@3.9
+- pkg:maven/org.metawidget.modules.static/metawidget-static-java@3.9?classifier=sources
+- pkg:maven/org.metawidget.modules.static/metawidget-static-java@4.0
+- pkg:maven/org.metawidget.modules.static/metawidget-static-java@4.0?classifier=sources
+- pkg:maven/org.metawidget.modules.static/metawidget-static-java@4.1
+- pkg:maven/org.metawidget.modules.static/metawidget-static-java@4.1?classifier=sources

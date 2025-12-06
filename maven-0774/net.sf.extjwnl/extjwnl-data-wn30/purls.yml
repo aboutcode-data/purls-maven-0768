@@ -2,3 +2,5 @@
 - pkg:maven/net.sf.extjwnl/extjwnl-data-wn30@1.0?classifier=sources
 - pkg:maven/net.sf.extjwnl/extjwnl-data-wn30@1.1
 - pkg:maven/net.sf.extjwnl/extjwnl-data-wn30@1.1?classifier=sources
+- pkg:maven/net.sf.extjwnl/extjwnl-data-wn30@1.2
+- pkg:maven/net.sf.extjwnl/extjwnl-data-wn30@1.2?classifier=sources

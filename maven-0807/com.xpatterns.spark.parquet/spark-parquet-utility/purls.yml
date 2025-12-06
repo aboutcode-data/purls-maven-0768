@@ -1,0 +1,4 @@
+- pkg:maven/com.xpatterns.spark.parquet/spark-parquet-utility@1.0.0-spark1.1.0
+- pkg:maven/com.xpatterns.spark.parquet/spark-parquet-utility@1.0.0-spark1.1.0?classifier=sources
+- pkg:maven/com.xpatterns.spark.parquet/spark-parquet-utility@1.0.0-spark1.3.1
+- pkg:maven/com.xpatterns.spark.parquet/spark-parquet-utility@1.0.0-spark1.3.1?classifier=sources

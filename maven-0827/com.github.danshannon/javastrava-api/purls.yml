@@ -1,0 +1,16 @@
+- pkg:maven/com.github.danshannon/javastrava-api@0.1.0-ALPHA
+- pkg:maven/com.github.danshannon/javastrava-api@0.1.0-ALPHA?classifier=sources
+- pkg:maven/com.github.danshannon/javastrava-api@0.2.0-ALPHA
+- pkg:maven/com.github.danshannon/javastrava-api@0.2.0-ALPHA?classifier=sources
+- pkg:maven/com.github.danshannon/javastrava-api@0.3.0-ALPHA
+- pkg:maven/com.github.danshannon/javastrava-api@0.3.0-ALPHA?classifier=sources
+- pkg:maven/com.github.danshannon/javastrava-api@0.9.0-BETA
+- pkg:maven/com.github.danshannon/javastrava-api@0.9.0-BETA?classifier=sources
+- pkg:maven/com.github.danshannon/javastrava-api@0.9.1-BETA
+- pkg:maven/com.github.danshannon/javastrava-api@0.9.1-BETA?classifier=sources
+- pkg:maven/com.github.danshannon/javastrava-api@1.0.0-RC1
+- pkg:maven/com.github.danshannon/javastrava-api@1.0.0-RC1?classifier=sources
+- pkg:maven/com.github.danshannon/javastrava-api@1.0.0-RC2
+- pkg:maven/com.github.danshannon/javastrava-api@1.0.0-RC2?classifier=sources
+- pkg:maven/com.github.danshannon/javastrava-api@1.0.1
+- pkg:maven/com.github.danshannon/javastrava-api@1.0.1?classifier=sources

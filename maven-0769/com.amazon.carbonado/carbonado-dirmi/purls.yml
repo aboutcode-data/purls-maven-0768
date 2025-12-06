@@ -1,0 +1,2 @@
+- pkg:maven/com.amazon.carbonado/carbonado-dirmi@1.2.4
+- pkg:maven/com.amazon.carbonado/carbonado-dirmi@1.2.4?classifier=sources

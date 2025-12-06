@@ -9,3 +9,10 @@
 - pkg:maven/org.juzu/juzu-depchain-arquillian-tomcat7@0.8.0-beta5
 - pkg:maven/org.juzu/juzu-depchain-arquillian-tomcat7@0.8.0-beta6
 - pkg:maven/org.juzu/juzu-depchain-arquillian-tomcat7@0.8.0-beta7
+- pkg:maven/org.juzu/juzu-depchain-arquillian-tomcat7@1.0.0
+- pkg:maven/org.juzu/juzu-depchain-arquillian-tomcat7@1.0.0-beta1
+- pkg:maven/org.juzu/juzu-depchain-arquillian-tomcat7@1.0.0-beta2
+- pkg:maven/org.juzu/juzu-depchain-arquillian-tomcat7@1.0.0-beta3
+- pkg:maven/org.juzu/juzu-depchain-arquillian-tomcat7@1.0.0-cr1
+- pkg:maven/org.juzu/juzu-depchain-arquillian-tomcat7@1.0.0-cr2
+- pkg:maven/org.juzu/juzu-depchain-arquillian-tomcat7@1.1.0-M1

@@ -31,3 +31,5 @@
 - pkg:maven/org.cometd.archetypes/cometd-archetype-spring-dojo-jetty7@2.8.0-beta1?classifier=sources
 - pkg:maven/org.cometd.archetypes/cometd-archetype-spring-dojo-jetty7@2.8.0?classifier=sources
 - pkg:maven/org.cometd.archetypes/cometd-archetype-spring-dojo-jetty7@2.9.0-beta1?classifier=sources
+- pkg:maven/org.cometd.archetypes/cometd-archetype-spring-dojo-jetty7@2.9.0?classifier=sources
+- pkg:maven/org.cometd.archetypes/cometd-archetype-spring-dojo-jetty7@2.9.1?classifier=sources

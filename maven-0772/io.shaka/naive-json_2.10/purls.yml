@@ -1,0 +1,12 @@
+- pkg:maven/io.shaka/naive-json_2.10@29
+- pkg:maven/io.shaka/naive-json_2.10@29?classifier=sources
+- pkg:maven/io.shaka/naive-json_2.10@31
+- pkg:maven/io.shaka/naive-json_2.10@31?classifier=sources
+- pkg:maven/io.shaka/naive-json_2.10@34
+- pkg:maven/io.shaka/naive-json_2.10@34?classifier=sources
+- pkg:maven/io.shaka/naive-json_2.10@35
+- pkg:maven/io.shaka/naive-json_2.10@35?classifier=sources
+- pkg:maven/io.shaka/naive-json_2.10@36
+- pkg:maven/io.shaka/naive-json_2.10@36?classifier=sources
+- pkg:maven/io.shaka/naive-json_2.10@37
+- pkg:maven/io.shaka/naive-json_2.10@37?classifier=sources

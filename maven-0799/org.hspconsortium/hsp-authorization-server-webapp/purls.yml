@@ -1,0 +1,2 @@
+- pkg:maven/org.hspconsortium/hsp-authorization-server-webapp@0.8?classifier=sources
+- pkg:maven/org.hspconsortium/hsp-authorization-server-webapp@0.8?type=war

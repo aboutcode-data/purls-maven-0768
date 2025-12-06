@@ -1,0 +1,4 @@
+- pkg:maven/net.fehmicansaglam/reactivemongo-extensions-json_2.10@0.10.0.3
+- pkg:maven/net.fehmicansaglam/reactivemongo-extensions-json_2.10@0.10.0.3?classifier=sources
+- pkg:maven/net.fehmicansaglam/reactivemongo-extensions-json_2.10@0.10.0.4
+- pkg:maven/net.fehmicansaglam/reactivemongo-extensions-json_2.10@0.10.0.4?classifier=sources

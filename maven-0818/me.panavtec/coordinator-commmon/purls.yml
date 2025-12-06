@@ -1,0 +1,2 @@
+- pkg:maven/me.panavtec/coordinator-commmon@1.1.0
+- pkg:maven/me.panavtec/coordinator-commmon@1.1.0?classifier=sources

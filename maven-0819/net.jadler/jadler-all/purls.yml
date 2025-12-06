@@ -1,3 +1,5 @@
 - pkg:maven/net.jadler/jadler-all@0.9.5
 - pkg:maven/net.jadler/jadler-all@1.0.0
 - pkg:maven/net.jadler/jadler-all@1.1.0
+- pkg:maven/net.jadler/jadler-all@1.1.1
+- pkg:maven/net.jadler/jadler-all@1.1.2

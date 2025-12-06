@@ -1,0 +1,6 @@
+- pkg:maven/org.craftercms/crafter-studio-publishing-receiver-zip@2.5.0.1.e?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio-publishing-receiver-zip@2.5.0.1.e?type=zip
+- pkg:maven/org.craftercms/crafter-studio-publishing-receiver-zip@2.5.0.e?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio-publishing-receiver-zip@2.5.0.e?type=zip
+- pkg:maven/org.craftercms/crafter-studio-publishing-receiver-zip@2.5.0?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio-publishing-receiver-zip@2.5.0?type=zip

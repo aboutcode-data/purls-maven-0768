@@ -2,3 +2,5 @@
 - pkg:maven/com.theoryinpractise/halbuilder-guava@2.0.1?classifier=sources
 - pkg:maven/com.theoryinpractise/halbuilder-guava@2.0.2
 - pkg:maven/com.theoryinpractise/halbuilder-guava@2.0.2?classifier=sources
+- pkg:maven/com.theoryinpractise/halbuilder-guava@4.0.1
+- pkg:maven/com.theoryinpractise/halbuilder-guava@4.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.worldpay.api.client/worldpay-client-error@0.0.3
+- pkg:maven/com.worldpay.api.client/worldpay-client-error@0.0.3?classifier=sources
+- pkg:maven/com.worldpay.api.client/worldpay-client-error@0.0.4
+- pkg:maven/com.worldpay.api.client/worldpay-client-error@0.0.4?classifier=sources
+- pkg:maven/com.worldpay.api.client/worldpay-client-error@0.0.5
+- pkg:maven/com.worldpay.api.client/worldpay-client-error@0.0.5?classifier=sources

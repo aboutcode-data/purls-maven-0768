@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dannywe/csvstreamutils_2.11@1.04
+- pkg:maven/com.github.dannywe/csvstreamutils_2.11@1.04?classifier=sources

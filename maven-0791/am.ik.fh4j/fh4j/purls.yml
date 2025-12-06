@@ -1,0 +1,4 @@
+- pkg:maven/am.ik.fh4j/fh4j@1.0.0
+- pkg:maven/am.ik.fh4j/fh4j@1.0.0?classifier=sources
+- pkg:maven/am.ik.fh4j/fh4j@1.0.1
+- pkg:maven/am.ik.fh4j/fh4j@1.0.1?classifier=sources

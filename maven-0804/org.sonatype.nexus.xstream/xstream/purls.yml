@@ -1,1 +1,3 @@
 - pkg:maven/org.sonatype.nexus.xstream/xstream@1.4.6-SONATYPE-02
+- pkg:maven/org.sonatype.nexus.xstream/xstream@1.4.6-SONATYPE-03
+- pkg:maven/org.sonatype.nexus.xstream/xstream@1.4.6-SONATYPE-03?classifier=sources

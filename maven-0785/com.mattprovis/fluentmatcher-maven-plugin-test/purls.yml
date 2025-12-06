@@ -1,0 +1,2 @@
+- pkg:maven/com.mattprovis/fluentmatcher-maven-plugin-test@0.1.2
+- pkg:maven/com.mattprovis/fluentmatcher-maven-plugin-test@0.1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.relai.vertx.springdata/mod-spring-data@0.5
+- pkg:maven/com.github.relai.vertx.springdata/mod-spring-data@0.5?classifier=sources

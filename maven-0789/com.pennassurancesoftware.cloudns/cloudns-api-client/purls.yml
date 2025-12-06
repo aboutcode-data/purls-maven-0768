@@ -1,0 +1,2 @@
+- pkg:maven/com.pennassurancesoftware.cloudns/cloudns-api-client@1.00.00
+- pkg:maven/com.pennassurancesoftware.cloudns/cloudns-api-client@1.00.00?classifier=sources

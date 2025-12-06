@@ -1,1 +1,2 @@
 - pkg:maven/org.apmem.tools/app@1.0?classifier=sources
+- pkg:maven/org.apmem.tools/app@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.guigarage/controls@0.7
+- pkg:maven/com.guigarage/controls@0.7?classifier=sources

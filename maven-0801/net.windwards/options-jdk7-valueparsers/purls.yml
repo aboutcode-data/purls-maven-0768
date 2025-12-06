@@ -1,0 +1,2 @@
+- pkg:maven/net.windwards/options-jdk7-valueparsers@1.1.1
+- pkg:maven/net.windwards/options-jdk7-valueparsers@1.1.1?classifier=sources

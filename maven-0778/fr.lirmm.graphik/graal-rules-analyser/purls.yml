@@ -1,0 +1,10 @@
+- pkg:maven/fr.lirmm.graphik/graal-rules-analyser@0.8.7
+- pkg:maven/fr.lirmm.graphik/graal-rules-analyser@0.8.7?classifier=sources
+- pkg:maven/fr.lirmm.graphik/graal-rules-analyser@0.9.0
+- pkg:maven/fr.lirmm.graphik/graal-rules-analyser@0.9.0?classifier=sources
+- pkg:maven/fr.lirmm.graphik/graal-rules-analyser@1.0.0
+- pkg:maven/fr.lirmm.graphik/graal-rules-analyser@1.0.0?classifier=sources
+- pkg:maven/fr.lirmm.graphik/graal-rules-analyser@1.0.1
+- pkg:maven/fr.lirmm.graphik/graal-rules-analyser@1.0.1?classifier=sources
+- pkg:maven/fr.lirmm.graphik/graal-rules-analyser@1.0.2
+- pkg:maven/fr.lirmm.graphik/graal-rules-analyser@1.0.2?classifier=sources

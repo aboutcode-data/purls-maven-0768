@@ -1,0 +1,2 @@
+- pkg:maven/io.tracee.inbound/tracee-springhttpclient@0.6.0
+- pkg:maven/io.tracee.inbound/tracee-springhttpclient@0.6.0?classifier=sources

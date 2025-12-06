@@ -5,3 +5,4 @@
 - pkg:maven/com.citytechinc.maven.plugins/osgi-bundle-status-maven-plugin@1.1.0
 - pkg:maven/com.citytechinc.maven.plugins/osgi-bundle-status-maven-plugin@1.2.0
 - pkg:maven/com.citytechinc.maven.plugins/osgi-bundle-status-maven-plugin@1.3.0
+- pkg:maven/com.citytechinc.maven.plugins/osgi-bundle-status-maven-plugin@1.3.1

@@ -1,0 +1,2 @@
+- pkg:maven/cl.yaykuy/yaykuy@0.0.1
+- pkg:maven/cl.yaykuy/yaykuy@0.0.1?classifier=sources

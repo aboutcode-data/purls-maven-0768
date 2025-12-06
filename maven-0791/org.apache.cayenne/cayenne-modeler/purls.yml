@@ -27,6 +27,8 @@
 - pkg:maven/org.apache.cayenne/cayenne-modeler@3.0RC2?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-modeler@3.0RC3
 - pkg:maven/org.apache.cayenne/cayenne-modeler@3.0RC3?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne-modeler@3.1
+- pkg:maven/org.apache.cayenne/cayenne-modeler@3.1?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-modeler@3.1B1
 - pkg:maven/org.apache.cayenne/cayenne-modeler@3.1B1?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-modeler@3.1B2

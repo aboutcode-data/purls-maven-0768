@@ -1,0 +1,8 @@
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.11@1.0.0
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.11@1.0.0-rc0
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.11@1.0.0-rc0?classifier=sources
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.11@1.0.0?classifier=sources
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.11@1.0.1
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.11@1.0.1?classifier=sources
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.11@1.1.0-rc0
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.11@1.1.0-rc0?classifier=sources

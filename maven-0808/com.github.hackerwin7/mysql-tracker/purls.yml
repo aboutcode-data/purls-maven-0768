@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hackerwin7/mysql-tracker@1.4.0
+- pkg:maven/com.github.hackerwin7/mysql-tracker@1.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/eu.digitisation.utils/log@0.2
+- pkg:maven/eu.digitisation.utils/log@0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.ehcache.modules/ehcache-jmx@3.0.0.Alpha
+- pkg:maven/org.ehcache.modules/ehcache-jmx@3.0.0.Alpha?classifier=sources
+- pkg:maven/org.ehcache.modules/ehcache-jmx@3.0.0.m1
+- pkg:maven/org.ehcache.modules/ehcache-jmx@3.0.0.m1?classifier=sources

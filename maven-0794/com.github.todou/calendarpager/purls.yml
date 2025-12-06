@@ -1,0 +1,2 @@
+- pkg:maven/com.github.todou/calendarpager@1.0.0?classifier=sources
+- pkg:maven/com.github.todou/calendarpager@1.0.0?type=aar

@@ -1,3 +1,7 @@
+- pkg:maven/net.fwbrasil/zoot-spray_2.10@0.13
+- pkg:maven/net.fwbrasil/zoot-spray_2.10@0.13?classifier=sources
+- pkg:maven/net.fwbrasil/zoot-spray_2.10@0.14
+- pkg:maven/net.fwbrasil/zoot-spray_2.10@0.14?classifier=sources
 - pkg:maven/net.fwbrasil/zoot-spray_2.10@1.0-RC1
 - pkg:maven/net.fwbrasil/zoot-spray_2.10@1.0-RC1?classifier=sources
 - pkg:maven/net.fwbrasil/zoot-spray_2.10@1.0-RC2

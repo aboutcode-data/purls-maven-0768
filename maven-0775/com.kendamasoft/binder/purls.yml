@@ -1,0 +1,4 @@
+- pkg:maven/com.kendamasoft/binder@0.9.1?classifier=sources
+- pkg:maven/com.kendamasoft/binder@0.9.1?type=aar
+- pkg:maven/com.kendamasoft/binder@0.9.4?classifier=sources
+- pkg:maven/com.kendamasoft/binder@0.9.4?type=aar

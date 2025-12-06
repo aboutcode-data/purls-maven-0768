@@ -2,3 +2,5 @@
 - pkg:maven/net.sourceforge.owlapi/owlapitools-fixers@1.1.0?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapitools-fixers@1.1.1
 - pkg:maven/net.sourceforge.owlapi/owlapitools-fixers@1.1.1?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapitools-fixers@3.5.4
+- pkg:maven/net.sourceforge.owlapi/owlapitools-fixers@3.5.4?classifier=sources

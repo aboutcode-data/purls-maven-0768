@@ -7,3 +7,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.scr.ds-annotations@1.2.4
 - pkg:maven/org.apache.felix/org.apache.felix.scr.ds-annotations@1.2.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.scr.ds-annotations@1.2.4?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.scr.ds-annotations@1.2.8
+- pkg:maven/org.apache.felix/org.apache.felix.scr.ds-annotations@1.2.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.scr.ds-annotations@1.2.8?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.github.stephenc.java-iso-tools/iso9660-maven-plugin@1.2.2?classifier=sources
 - pkg:maven/com.github.stephenc.java-iso-tools/iso9660-maven-plugin@2.0.0
 - pkg:maven/com.github.stephenc.java-iso-tools/iso9660-maven-plugin@2.0.0?classifier=sources
+- pkg:maven/com.github.stephenc.java-iso-tools/iso9660-maven-plugin@2.0.1
+- pkg:maven/com.github.stephenc.java-iso-tools/iso9660-maven-plugin@2.0.1?classifier=sources

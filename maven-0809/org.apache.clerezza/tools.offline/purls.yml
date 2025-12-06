@@ -1,2 +1,6 @@
 - pkg:maven/org.apache.clerezza/tools.offline@0.1-incubating
 - pkg:maven/org.apache.clerezza/tools.offline@0.1-incubating?classifier=sources
+- pkg:maven/org.apache.clerezza/tools.offline@0.2
+- pkg:maven/org.apache.clerezza/tools.offline@0.2?classifier=sources
+- pkg:maven/org.apache.clerezza/tools.offline@1.0.0
+- pkg:maven/org.apache.clerezza/tools.offline@1.0.0?classifier=sources

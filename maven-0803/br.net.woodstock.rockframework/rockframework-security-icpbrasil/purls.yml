@@ -1,0 +1,2 @@
+- pkg:maven/br.net.woodstock.rockframework/rockframework-security-icpbrasil@3.0.1
+- pkg:maven/br.net.woodstock.rockframework/rockframework-security-icpbrasil@3.0.1?classifier=sources
