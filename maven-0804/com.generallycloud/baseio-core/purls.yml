@@ -18,3 +18,11 @@
 - pkg:maven/com.generallycloud/baseio-core@3.2.2.RELEASE?classifier=sources
 - pkg:maven/com.generallycloud/baseio-core@3.2.3.RELEASE
 - pkg:maven/com.generallycloud/baseio-core@3.2.3.RELEASE?classifier=sources
+- pkg:maven/com.generallycloud/baseio-core@3.2.4.RELEASE
+- pkg:maven/com.generallycloud/baseio-core@3.2.4.RELEASE?classifier=sources
+- pkg:maven/com.generallycloud/baseio-core@3.2.5.RELEASE
+- pkg:maven/com.generallycloud/baseio-core@3.2.5.RELEASE?classifier=sources
+- pkg:maven/com.generallycloud/baseio-core@3.2.6.RELEASE
+- pkg:maven/com.generallycloud/baseio-core@3.2.6.RELEASE?classifier=sources
+- pkg:maven/com.generallycloud/baseio-core@3.2.7.RELEASE
+- pkg:maven/com.generallycloud/baseio-core@3.2.7.RELEASE?classifier=sources

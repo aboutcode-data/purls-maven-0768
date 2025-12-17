@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/swagger-tools@0.9.16
+- pkg:maven/org.webjars.npm/swagger-tools@0.9.16?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-tools@0.9.9
 - pkg:maven/org.webjars.npm/swagger-tools@0.9.9?classifier=sources

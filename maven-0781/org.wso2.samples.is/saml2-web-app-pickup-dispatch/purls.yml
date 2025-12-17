@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.samples.is/saml2-web-app-pickup-dispatch@2.0.0?classifier=sources
+- pkg:maven/org.wso2.samples.is/saml2-web-app-pickup-dispatch@2.0.0?type=war

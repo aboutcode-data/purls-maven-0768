@@ -44,3 +44,5 @@
 - pkg:maven/org.activecomponents.jadex/jadex-kernel-application@3.0.86?classifier=sources
 - pkg:maven/org.activecomponents.jadex/jadex-kernel-application@3.0.91
 - pkg:maven/org.activecomponents.jadex/jadex-kernel-application@3.0.91?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-kernel-application@3.0.95
+- pkg:maven/org.activecomponents.jadex/jadex-kernel-application@3.0.95?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.seldon.wrapper/seldon-core-jpmml@0.0.1
+- pkg:maven/io.seldon.wrapper/seldon-core-jpmml@0.0.1?classifier=sources

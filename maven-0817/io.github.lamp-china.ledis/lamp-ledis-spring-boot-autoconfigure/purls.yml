@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lamp-china.ledis/lamp-ledis-spring-boot-autoconfigure@0.0.2
+- pkg:maven/io.github.lamp-china.ledis/lamp-ledis-spring-boot-autoconfigure@0.0.2?classifier=sources

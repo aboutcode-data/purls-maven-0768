@@ -1,0 +1,2 @@
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-web@0.9.20
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-web@0.9.20?classifier=sources

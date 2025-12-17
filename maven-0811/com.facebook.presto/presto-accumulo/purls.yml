@@ -48,3 +48,14 @@
 - pkg:maven/com.facebook.presto/presto-accumulo@0.199?classifier=sources
 - pkg:maven/com.facebook.presto/presto-accumulo@0.200?classifier=sources
 - pkg:maven/com.facebook.presto/presto-accumulo@0.201?classifier=sources
+- pkg:maven/com.facebook.presto/presto-accumulo@0.202?classifier=sources
+- pkg:maven/com.facebook.presto/presto-accumulo@0.203?classifier=sources
+- pkg:maven/com.facebook.presto/presto-accumulo@0.204?classifier=sources
+- pkg:maven/com.facebook.presto/presto-accumulo@0.205?classifier=sources
+- pkg:maven/com.facebook.presto/presto-accumulo@0.206?classifier=sources
+- pkg:maven/com.facebook.presto/presto-accumulo@0.207?classifier=sources
+- pkg:maven/com.facebook.presto/presto-accumulo@0.208?classifier=sources
+- pkg:maven/com.facebook.presto/presto-accumulo@0.209?classifier=sources
+- pkg:maven/com.facebook.presto/presto-accumulo@0.210?classifier=sources
+- pkg:maven/com.facebook.presto/presto-accumulo@0.211?classifier=sources
+- pkg:maven/com.facebook.presto/presto-accumulo@0.212?classifier=sources

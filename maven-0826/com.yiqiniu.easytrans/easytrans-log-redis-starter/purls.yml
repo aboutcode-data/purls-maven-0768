@@ -1,0 +1,6 @@
+- pkg:maven/com.yiqiniu.easytrans/easytrans-log-redis-starter@1.0.0
+- pkg:maven/com.yiqiniu.easytrans/easytrans-log-redis-starter@1.0.0?classifier=sources
+- pkg:maven/com.yiqiniu.easytrans/easytrans-log-redis-starter@1.1.0
+- pkg:maven/com.yiqiniu.easytrans/easytrans-log-redis-starter@1.1.0?classifier=sources
+- pkg:maven/com.yiqiniu.easytrans/easytrans-log-redis-starter@1.1.1
+- pkg:maven/com.yiqiniu.easytrans/easytrans-log-redis-starter@1.1.1?classifier=sources

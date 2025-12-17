@@ -1,0 +1,6 @@
+- pkg:maven/org.jbpm.contrib/repository-wildfly@7.10.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-wildfly@7.11.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-wildfly@7.12.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-wildfly@7.13.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-wildfly@7.8.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-wildfly@7.9.0.Final?classifier=sources

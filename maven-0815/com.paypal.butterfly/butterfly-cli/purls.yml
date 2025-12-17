@@ -10,3 +10,4 @@
 - pkg:maven/com.paypal.butterfly/butterfly-cli@2.4.0?classifier=sources
 - pkg:maven/com.paypal.butterfly/butterfly-cli@2.5.0
 - pkg:maven/com.paypal.butterfly/butterfly-cli@2.5.0?classifier=sources
+- pkg:maven/com.paypal.butterfly/butterfly-cli@3.0.0-M1?classifier=sources

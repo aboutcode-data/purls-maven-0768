@@ -1,2 +1,4 @@
 - pkg:maven/org.sqldroid/sqldroid@1.0.3
 - pkg:maven/org.sqldroid/sqldroid@1.0.3?classifier=sources
+- pkg:maven/org.sqldroid/sqldroid@1.1.0-rc1
+- pkg:maven/org.sqldroid/sqldroid@1.1.0-rc1?classifier=sources

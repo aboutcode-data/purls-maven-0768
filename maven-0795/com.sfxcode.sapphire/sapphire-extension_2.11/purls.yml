@@ -1,0 +1,4 @@
+- pkg:maven/com.sfxcode.sapphire/sapphire-extension_2.11@0.7.7
+- pkg:maven/com.sfxcode.sapphire/sapphire-extension_2.11@0.7.7?classifier=sources
+- pkg:maven/com.sfxcode.sapphire/sapphire-extension_2.11@0.7.8
+- pkg:maven/com.sfxcode.sapphire/sapphire-extension_2.11@0.7.8?classifier=sources

@@ -46,3 +46,9 @@
 - pkg:maven/org.apache.directory.api/api-ldap-model@1.0.0?classifier=sources
 - pkg:maven/org.apache.directory.api/api-ldap-model@1.0.1
 - pkg:maven/org.apache.directory.api/api-ldap-model@1.0.1?classifier=sources
+- pkg:maven/org.apache.directory.api/api-ldap-model@1.0.2
+- pkg:maven/org.apache.directory.api/api-ldap-model@1.0.2?classifier=sources
+- pkg:maven/org.apache.directory.api/api-ldap-model@2.0.0.AM1
+- pkg:maven/org.apache.directory.api/api-ldap-model@2.0.0.AM1?classifier=sources
+- pkg:maven/org.apache.directory.api/api-ldap-model@2.0.0.AM2
+- pkg:maven/org.apache.directory.api/api-ldap-model@2.0.0.AM2?classifier=sources

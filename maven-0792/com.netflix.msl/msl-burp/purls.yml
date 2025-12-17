@@ -74,3 +74,11 @@
 - pkg:maven/com.netflix.msl/msl-burp@1.1221.1?classifier=sources
 - pkg:maven/com.netflix.msl/msl-burp@1.1221.2
 - pkg:maven/com.netflix.msl/msl-burp@1.1221.2?classifier=sources
+- pkg:maven/com.netflix.msl/msl-burp@1.1221.3
+- pkg:maven/com.netflix.msl/msl-burp@1.1221.3?classifier=sources
+- pkg:maven/com.netflix.msl/msl-burp@1.1222.0
+- pkg:maven/com.netflix.msl/msl-burp@1.1222.0?classifier=sources
+- pkg:maven/com.netflix.msl/msl-burp@1.1223.0
+- pkg:maven/com.netflix.msl/msl-burp@1.1223.0?classifier=sources
+- pkg:maven/com.netflix.msl/msl-burp@1.2224.0
+- pkg:maven/com.netflix.msl/msl-burp@1.2224.0?classifier=sources

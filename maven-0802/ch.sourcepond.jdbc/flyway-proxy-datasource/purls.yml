@@ -1,0 +1,1 @@
+- pkg:maven/ch.sourcepond.jdbc/flyway-proxy-datasource@0.1?classifier=sources

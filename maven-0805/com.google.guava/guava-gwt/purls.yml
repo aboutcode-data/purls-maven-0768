@@ -104,6 +104,8 @@
 - pkg:maven/com.google.guava/guava-gwt@23.5-jre?classifier=sources
 - pkg:maven/com.google.guava/guava-gwt@23.6-jre
 - pkg:maven/com.google.guava/guava-gwt@23.6-jre?classifier=sources
+- pkg:maven/com.google.guava/guava-gwt@23.6.1-jre
+- pkg:maven/com.google.guava/guava-gwt@23.6.1-jre?classifier=sources
 - pkg:maven/com.google.guava/guava-gwt@24.0-jre
 - pkg:maven/com.google.guava/guava-gwt@24.0-jre?classifier=sources
 - pkg:maven/com.google.guava/guava-gwt@24.1-jre
@@ -112,3 +114,9 @@
 - pkg:maven/com.google.guava/guava-gwt@24.1.1-jre?classifier=sources
 - pkg:maven/com.google.guava/guava-gwt@25.0-jre
 - pkg:maven/com.google.guava/guava-gwt@25.0-jre?classifier=sources
+- pkg:maven/com.google.guava/guava-gwt@25.1-jre
+- pkg:maven/com.google.guava/guava-gwt@25.1-jre?classifier=sources
+- pkg:maven/com.google.guava/guava-gwt@26.0-jre
+- pkg:maven/com.google.guava/guava-gwt@26.0-jre?classifier=sources
+- pkg:maven/com.google.guava/guava-gwt@27.0-jre
+- pkg:maven/com.google.guava/guava-gwt@27.0-jre?classifier=sources

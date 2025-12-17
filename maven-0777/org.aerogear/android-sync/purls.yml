@@ -1,0 +1,2 @@
+- pkg:maven/org.aerogear/android-sync@2.1.0-alpha.1?classifier=sources
+- pkg:maven/org.aerogear/android-sync@2.1.0-alpha.1?type=aar

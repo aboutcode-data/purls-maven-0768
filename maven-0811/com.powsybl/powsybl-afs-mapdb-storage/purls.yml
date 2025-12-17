@@ -1,2 +1,8 @@
 - pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@1.0.0
 - pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@1.0.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@1.1.0
+- pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@1.1.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@2.0.0
+- pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@2.0.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@2.1.0
+- pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@2.1.0?classifier=sources

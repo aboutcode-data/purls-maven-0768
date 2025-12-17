@@ -1,0 +1,4 @@
+- pkg:maven/com.xpcagey/cagey-config-lightbend@1.0.0
+- pkg:maven/com.xpcagey/cagey-config-lightbend@1.0.0?classifier=sources
+- pkg:maven/com.xpcagey/cagey-config-lightbend@1.1.0
+- pkg:maven/com.xpcagey/cagey-config-lightbend@1.1.0?classifier=sources

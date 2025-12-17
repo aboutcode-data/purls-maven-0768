@@ -16,3 +16,7 @@
 - pkg:maven/org.hellojavaer.ddal/ddal-jsqlparser@1.0.0.M7?classifier=sources
 - pkg:maven/org.hellojavaer.ddal/ddal-jsqlparser@1.0.1-RELEASE
 - pkg:maven/org.hellojavaer.ddal/ddal-jsqlparser@1.0.1-RELEASE?classifier=sources
+- pkg:maven/org.hellojavaer.ddal/ddal-jsqlparser@1.1.0-RELEASE
+- pkg:maven/org.hellojavaer.ddal/ddal-jsqlparser@1.1.0-RELEASE?classifier=sources
+- pkg:maven/org.hellojavaer.ddal/ddal-jsqlparser@1.1.1-RELEASE
+- pkg:maven/org.hellojavaer.ddal/ddal-jsqlparser@1.1.1-RELEASE?classifier=sources

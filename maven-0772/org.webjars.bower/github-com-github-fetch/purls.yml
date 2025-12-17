@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/github-com-github-fetch@2.0.4
+- pkg:maven/org.webjars.bower/github-com-github-fetch@2.0.4?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-github-fetch@3.0.0
+- pkg:maven/org.webjars.bower/github-com-github-fetch@3.0.0?classifier=sources

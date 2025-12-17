@@ -4,3 +4,11 @@
 - pkg:maven/org.springframework.boot/spring-boot-actuator-autoconfigure@2.0.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-actuator-autoconfigure@2.0.2.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-actuator-autoconfigure@2.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-actuator-autoconfigure@2.0.3.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-actuator-autoconfigure@2.0.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-actuator-autoconfigure@2.0.4.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-actuator-autoconfigure@2.0.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-actuator-autoconfigure@2.0.5.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-actuator-autoconfigure@2.0.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-actuator-autoconfigure@2.0.6.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-actuator-autoconfigure@2.0.6.RELEASE?classifier=sources

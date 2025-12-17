@@ -1,0 +1,12 @@
+- pkg:maven/cn.antcore/AntResources@1.0-RELEASE
+- pkg:maven/cn.antcore/AntResources@1.0-RELEASE?classifier=sources
+- pkg:maven/cn.antcore/AntResources@1.0.1-RELEASE
+- pkg:maven/cn.antcore/AntResources@1.0.1-RELEASE?classifier=sources
+- pkg:maven/cn.antcore/AntResources@1.1.0-RELEASE
+- pkg:maven/cn.antcore/AntResources@1.1.0-RELEASE?classifier=sources
+- pkg:maven/cn.antcore/AntResources@1.1.5-RELEASE
+- pkg:maven/cn.antcore/AntResources@1.1.5-RELEASE?classifier=sources
+- pkg:maven/cn.antcore/AntResources@1.1.8-RELEASE
+- pkg:maven/cn.antcore/AntResources@1.1.8-RELEASE?classifier=sources
+- pkg:maven/cn.antcore/AntResources@1.1.9-RELEASE
+- pkg:maven/cn.antcore/AntResources@1.1.9-RELEASE?classifier=sources

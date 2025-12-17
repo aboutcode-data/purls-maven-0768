@@ -2,3 +2,5 @@
 - pkg:maven/de.mhus.osgi/mhu-osgi-jwsbridge@1.3.4?classifier=sources
 - pkg:maven/de.mhus.osgi/mhu-osgi-jwsbridge@1.4.0
 - pkg:maven/de.mhus.osgi/mhu-osgi-jwsbridge@1.4.0?classifier=sources
+- pkg:maven/de.mhus.osgi/mhu-osgi-jwsbridge@1.4.2
+- pkg:maven/de.mhus.osgi/mhu-osgi-jwsbridge@1.4.2?classifier=sources

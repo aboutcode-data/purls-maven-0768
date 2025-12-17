@@ -2,3 +2,5 @@
 - pkg:maven/de.alpharogroup/jgeohash-core@2.3.0?classifier=sources
 - pkg:maven/de.alpharogroup/jgeohash-core@2.4.0
 - pkg:maven/de.alpharogroup/jgeohash-core@2.4.0?classifier=sources
+- pkg:maven/de.alpharogroup/jgeohash-core@2.5
+- pkg:maven/de.alpharogroup/jgeohash-core@2.5?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/fr.univ-valenciennes/mdd_2.12@1.5.2?classifier=sources
 - pkg:maven/fr.univ-valenciennes/mdd_2.12@1.6
 - pkg:maven/fr.univ-valenciennes/mdd_2.12@1.6?classifier=sources
+- pkg:maven/fr.univ-valenciennes/mdd_2.12@1.7
+- pkg:maven/fr.univ-valenciennes/mdd_2.12@1.7?classifier=sources
+- pkg:maven/fr.univ-valenciennes/mdd_2.12@1.8
+- pkg:maven/fr.univ-valenciennes/mdd_2.12@1.8?classifier=sources

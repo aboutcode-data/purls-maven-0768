@@ -5,4 +5,5 @@
 - pkg:maven/io.v/gradle-plugin-vdltool-linux@0.6
 - pkg:maven/io.v/gradle-plugin-vdltool-linux@0.7
 - pkg:maven/io.v/gradle-plugin-vdltool-linux@0.9
+- pkg:maven/io.v/gradle-plugin-vdltool-linux@1.10
 - pkg:maven/io.v/gradle-plugin-vdltool-linux@1.7

@@ -1,0 +1,6 @@
+- pkg:maven/org.jppf/jppf-jmxremote-nio@6.0
+- pkg:maven/org.jppf/jppf-jmxremote-nio@6.0-alpha-4
+- pkg:maven/org.jppf/jppf-jmxremote-nio@6.0-alpha-4?classifier=sources
+- pkg:maven/org.jppf/jppf-jmxremote-nio@6.0-beta
+- pkg:maven/org.jppf/jppf-jmxremote-nio@6.0-beta?classifier=sources
+- pkg:maven/org.jppf/jppf-jmxremote-nio@6.0?classifier=sources

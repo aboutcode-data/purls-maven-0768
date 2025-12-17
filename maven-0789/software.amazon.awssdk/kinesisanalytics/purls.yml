@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awssdk/kinesisanalytics@2.0.0-preview-11
+- pkg:maven/software.amazon.awssdk/kinesisanalytics@2.0.0-preview-11?classifier=sources
+- pkg:maven/software.amazon.awssdk/kinesisanalytics@2.0.0-preview-12
+- pkg:maven/software.amazon.awssdk/kinesisanalytics@2.0.0-preview-12?classifier=sources

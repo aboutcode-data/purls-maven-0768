@@ -1,0 +1,2 @@
+- pkg:maven/com.liumapp.convert.html.fromdoc/convert-doc-to-html@v1.1.0
+- pkg:maven/com.liumapp.convert.html.fromdoc/convert-doc-to-html@v1.1.0?classifier=sources

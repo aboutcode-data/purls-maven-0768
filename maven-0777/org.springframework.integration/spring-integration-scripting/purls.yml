@@ -130,6 +130,8 @@
 - pkg:maven/org.springframework.integration/spring-integration-scripting@4.3.15.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-scripting@4.3.16.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-scripting@4.3.16.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-scripting@4.3.17.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-scripting@4.3.17.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-scripting@4.3.2.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-scripting@4.3.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-scripting@4.3.4.RELEASE
@@ -156,3 +158,11 @@
 - pkg:maven/org.springframework.integration/spring-integration-scripting@5.0.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-scripting@5.0.5.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-scripting@5.0.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-scripting@5.0.6.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-scripting@5.0.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-scripting@5.0.7.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-scripting@5.0.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-scripting@5.0.8.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-scripting@5.0.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-scripting@5.0.9.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-scripting@5.0.9.RELEASE?classifier=sources

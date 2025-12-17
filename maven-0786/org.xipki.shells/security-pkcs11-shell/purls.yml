@@ -1,0 +1,2 @@
+- pkg:maven/org.xipki.shells/security-pkcs11-shell@4.0.0
+- pkg:maven/org.xipki.shells/security-pkcs11-shell@4.0.0?classifier=sources

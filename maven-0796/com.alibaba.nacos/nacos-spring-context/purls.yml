@@ -1,0 +1,4 @@
+- pkg:maven/com.alibaba.nacos/nacos-spring-context@0.1.0-RC1
+- pkg:maven/com.alibaba.nacos/nacos-spring-context@0.1.0-RC1?classifier=sources
+- pkg:maven/com.alibaba.nacos/nacos-spring-context@0.2.1-RC1
+- pkg:maven/com.alibaba.nacos/nacos-spring-context@0.2.1-RC1?classifier=sources

@@ -34,3 +34,7 @@
 - pkg:maven/com.opengamma.strata/strata-measure@1.6.0?classifier=sources
 - pkg:maven/com.opengamma.strata/strata-measure@1.7.0
 - pkg:maven/com.opengamma.strata/strata-measure@1.7.0?classifier=sources
+- pkg:maven/com.opengamma.strata/strata-measure@1.7.1
+- pkg:maven/com.opengamma.strata/strata-measure@1.7.1?classifier=sources
+- pkg:maven/com.opengamma.strata/strata-measure@2.0.0
+- pkg:maven/com.opengamma.strata/strata-measure@2.0.0?classifier=sources

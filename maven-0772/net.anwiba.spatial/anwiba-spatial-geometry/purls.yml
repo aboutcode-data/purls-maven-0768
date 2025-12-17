@@ -1,0 +1,4 @@
+- pkg:maven/net.anwiba.spatial/anwiba-spatial-geometry@1.0.140
+- pkg:maven/net.anwiba.spatial/anwiba-spatial-geometry@1.0.140?classifier=sources
+- pkg:maven/net.anwiba.spatial/anwiba-spatial-geometry@1.0.154
+- pkg:maven/net.anwiba.spatial/anwiba-spatial-geometry@1.0.154?classifier=sources

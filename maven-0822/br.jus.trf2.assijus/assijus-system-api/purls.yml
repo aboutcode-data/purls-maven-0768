@@ -1,0 +1,2 @@
+- pkg:maven/br.jus.trf2.assijus/assijus-system-api@1.0.0
+- pkg:maven/br.jus.trf2.assijus/assijus-system-api@1.0.0?classifier=sources

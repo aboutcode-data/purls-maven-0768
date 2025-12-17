@@ -1,0 +1,2 @@
+- pkg:maven/guru.springframework/spring-cloud-contract-oa3@2.0.1.RELEASE
+- pkg:maven/guru.springframework/spring-cloud-contract-oa3@2.0.1.RELEASE?classifier=sources

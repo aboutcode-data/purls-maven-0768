@@ -1,0 +1,6 @@
+- pkg:maven/cn.testin.analysis/testin-data@5.0.1?type=aar
+- pkg:maven/cn.testin.analysis/testin-data@5.0.2?type=aar
+- pkg:maven/cn.testin.analysis/testin-data@5.0.3?type=aar
+- pkg:maven/cn.testin.analysis/testin-data@5.0.4?type=aar
+- pkg:maven/cn.testin.analysis/testin-data@5.0.5?type=aar
+- pkg:maven/cn.testin.analysis/testin-data@5.0.6?type=aar

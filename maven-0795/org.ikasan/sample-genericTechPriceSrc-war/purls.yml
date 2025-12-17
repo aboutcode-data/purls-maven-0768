@@ -43,3 +43,5 @@
 - pkg:maven/org.ikasan/sample-genericTechPriceSrc-war@2.0.0-rc3?type=war
 - pkg:maven/org.ikasan/sample-genericTechPriceSrc-war@2.0.0?type=war
 - pkg:maven/org.ikasan/sample-genericTechPriceSrc-war@2.0.1?type=war
+- pkg:maven/org.ikasan/sample-genericTechPriceSrc-war@2.0.2?type=war
+- pkg:maven/org.ikasan/sample-genericTechPriceSrc-war@2.0.3?type=war

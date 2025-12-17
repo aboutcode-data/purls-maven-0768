@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/spring-azure-starter-storage@1.0.0.M2
+- pkg:maven/com.microsoft.azure/spring-azure-starter-storage@1.0.0.M2?classifier=sources

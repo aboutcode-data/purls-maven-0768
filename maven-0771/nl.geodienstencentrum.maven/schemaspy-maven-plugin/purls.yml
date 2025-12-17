@@ -1,0 +1,6 @@
+- pkg:maven/nl.geodienstencentrum.maven/schemaspy-maven-plugin@5.1.0
+- pkg:maven/nl.geodienstencentrum.maven/schemaspy-maven-plugin@5.1.0-rc1
+- pkg:maven/nl.geodienstencentrum.maven/schemaspy-maven-plugin@5.1.0-rc1?classifier=sources
+- pkg:maven/nl.geodienstencentrum.maven/schemaspy-maven-plugin@5.1.0-rc2
+- pkg:maven/nl.geodienstencentrum.maven/schemaspy-maven-plugin@5.1.0-rc2?classifier=sources
+- pkg:maven/nl.geodienstencentrum.maven/schemaspy-maven-plugin@5.1.0?classifier=sources

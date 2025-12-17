@@ -28,3 +28,5 @@
 - pkg:maven/me.zhanghai.android.materialprogressbar/library@1.4.1?type=aar
 - pkg:maven/me.zhanghai.android.materialprogressbar/library@1.4.2?classifier=sources
 - pkg:maven/me.zhanghai.android.materialprogressbar/library@1.4.2?type=aar
+- pkg:maven/me.zhanghai.android.materialprogressbar/library@1.6.0?classifier=sources
+- pkg:maven/me.zhanghai.android.materialprogressbar/library@1.6.0?type=aar

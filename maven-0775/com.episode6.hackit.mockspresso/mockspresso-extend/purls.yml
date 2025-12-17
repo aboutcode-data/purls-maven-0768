@@ -1,0 +1,4 @@
+- pkg:maven/com.episode6.hackit.mockspresso/mockspresso-extend@0.0.13
+- pkg:maven/com.episode6.hackit.mockspresso/mockspresso-extend@0.0.13?classifier=sources
+- pkg:maven/com.episode6.hackit.mockspresso/mockspresso-extend@0.0.14
+- pkg:maven/com.episode6.hackit.mockspresso/mockspresso-extend@0.0.14?classifier=sources

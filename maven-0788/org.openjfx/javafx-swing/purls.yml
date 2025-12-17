@@ -1,0 +1,10 @@
+- pkg:maven/org.openjfx/javafx-swing@11
+- pkg:maven/org.openjfx/javafx-swing@11-ea%2B19
+- pkg:maven/org.openjfx/javafx-swing@11-ea%2B19?classifier=sources
+- pkg:maven/org.openjfx/javafx-swing@11-ea%2B23
+- pkg:maven/org.openjfx/javafx-swing@11-ea%2B23?classifier=sources
+- pkg:maven/org.openjfx/javafx-swing@11-ea%2B24
+- pkg:maven/org.openjfx/javafx-swing@11-ea%2B24?classifier=sources
+- pkg:maven/org.openjfx/javafx-swing@11-ea%2B25
+- pkg:maven/org.openjfx/javafx-swing@11-ea%2B25?classifier=sources
+- pkg:maven/org.openjfx/javafx-swing@11?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jaspercloud/mybatis-common-mapper@1.2
+- pkg:maven/io.github.jaspercloud/mybatis-common-mapper@1.2?classifier=sources

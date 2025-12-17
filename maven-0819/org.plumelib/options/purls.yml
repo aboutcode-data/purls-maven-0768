@@ -12,3 +12,7 @@
 - pkg:maven/org.plumelib/options@0.3.2?classifier=sources
 - pkg:maven/org.plumelib/options@0.3.3
 - pkg:maven/org.plumelib/options@0.3.3?classifier=sources
+- pkg:maven/org.plumelib/options@1.0.0
+- pkg:maven/org.plumelib/options@1.0.0?classifier=sources
+- pkg:maven/org.plumelib/options@1.0.1
+- pkg:maven/org.plumelib/options@1.0.1?classifier=sources

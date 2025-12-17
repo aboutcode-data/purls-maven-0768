@@ -1,3 +1,5 @@
 - pkg:maven/com.github.japkit/japkit-all-nogroovy@1.12
 - pkg:maven/com.github.japkit/japkit-all-nogroovy@1.13
 - pkg:maven/com.github.japkit/japkit-all-nogroovy@1.14
+- pkg:maven/com.github.japkit/japkit-all-nogroovy@1.15
+- pkg:maven/com.github.japkit/japkit-all-nogroovy@1.16

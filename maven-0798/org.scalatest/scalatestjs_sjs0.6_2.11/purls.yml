@@ -1,0 +1,2 @@
+- pkg:maven/org.scalatest/scalatestjs_sjs0.6_2.11@3.0.6-SNAP2
+- pkg:maven/org.scalatest/scalatestjs_sjs0.6_2.11@3.0.6-SNAP2?classifier=sources

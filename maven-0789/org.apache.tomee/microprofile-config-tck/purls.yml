@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.tomee/microprofile-config-tck@7.1.0
+- pkg:maven/org.apache.tomee/microprofile-config-tck@7.1.0?classifier=sources
+- pkg:maven/org.apache.tomee/microprofile-config-tck@8.0.0-M1
+- pkg:maven/org.apache.tomee/microprofile-config-tck@8.0.0-M1?classifier=sources

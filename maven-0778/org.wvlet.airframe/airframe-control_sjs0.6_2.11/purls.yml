@@ -1,0 +1,6 @@
+- pkg:maven/org.wvlet.airframe/airframe-control_sjs0.6_2.11@0.50
+- pkg:maven/org.wvlet.airframe/airframe-control_sjs0.6_2.11@0.50?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-control_sjs0.6_2.11@0.51
+- pkg:maven/org.wvlet.airframe/airframe-control_sjs0.6_2.11@0.51?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-control_sjs0.6_2.11@0.52
+- pkg:maven/org.wvlet.airframe/airframe-control_sjs0.6_2.11@0.52?classifier=sources

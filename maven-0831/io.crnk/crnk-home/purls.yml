@@ -68,3 +68,5 @@
 - pkg:maven/io.crnk/crnk-home@2.5.20180326220647?classifier=sources
 - pkg:maven/io.crnk/crnk-home@2.6.20180430102904
 - pkg:maven/io.crnk/crnk-home@2.6.20180430102904?classifier=sources
+- pkg:maven/io.crnk/crnk-home@2.6.20180522184741
+- pkg:maven/io.crnk/crnk-home@2.6.20180522184741?classifier=sources

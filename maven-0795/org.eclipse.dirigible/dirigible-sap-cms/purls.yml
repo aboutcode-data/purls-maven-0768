@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-sap-cms@3.2.8?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-sap-cms@3.2.8?type=war

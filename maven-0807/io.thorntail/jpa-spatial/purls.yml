@@ -1,0 +1,6 @@
+- pkg:maven/io.thorntail/jpa-spatial@2.0.0.Final
+- pkg:maven/io.thorntail/jpa-spatial@2.0.0.Final?classifier=sources
+- pkg:maven/io.thorntail/jpa-spatial@2.1.0.Final
+- pkg:maven/io.thorntail/jpa-spatial@2.1.0.Final?classifier=sources
+- pkg:maven/io.thorntail/jpa-spatial@2.2.0.Final
+- pkg:maven/io.thorntail/jpa-spatial@2.2.0.Final?classifier=sources

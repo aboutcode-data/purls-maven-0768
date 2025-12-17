@@ -1,3 +1,5 @@
+- pkg:maven/org.specs2/specs2-scalaz_2.10@3.10.0
+- pkg:maven/org.specs2/specs2-scalaz_2.10@3.10.0?classifier=sources
 - pkg:maven/org.specs2/specs2-scalaz_2.10@3.8.7
 - pkg:maven/org.specs2/specs2-scalaz_2.10@3.8.7-20170130231531-f808b61
 - pkg:maven/org.specs2/specs2-scalaz_2.10@3.8.7-20170130231531-f808b61?classifier=sources

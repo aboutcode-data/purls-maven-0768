@@ -1,0 +1,4 @@
+- pkg:maven/se.l4.lect/lect-markdown@0.1.0
+- pkg:maven/se.l4.lect/lect-markdown@0.1.0?classifier=sources
+- pkg:maven/se.l4.lect/lect-markdown@0.2.0
+- pkg:maven/se.l4.lect/lect-markdown@0.2.0?classifier=sources

@@ -12,6 +12,10 @@
 - pkg:maven/org.dmfs/jems@1.15?classifier=sources
 - pkg:maven/org.dmfs/jems@1.16
 - pkg:maven/org.dmfs/jems@1.16?classifier=sources
+- pkg:maven/org.dmfs/jems@1.17
+- pkg:maven/org.dmfs/jems@1.17?classifier=sources
+- pkg:maven/org.dmfs/jems@1.18
+- pkg:maven/org.dmfs/jems@1.18?classifier=sources
 - pkg:maven/org.dmfs/jems@1.8
 - pkg:maven/org.dmfs/jems@1.8?classifier=sources
 - pkg:maven/org.dmfs/jems@1.9

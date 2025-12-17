@@ -1,0 +1,2 @@
+- pkg:maven/org.fudaa.soft.fudaa-reflux/reflux-server@5.15
+- pkg:maven/org.fudaa.soft.fudaa-reflux/reflux-server@5.15?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.circe/circe-refined_2.13.0-M4@0.10.0
+- pkg:maven/io.circe/circe-refined_2.13.0-M4@0.10.0-M2
+- pkg:maven/io.circe/circe-refined_2.13.0-M4@0.10.0-M2?classifier=sources
+- pkg:maven/io.circe/circe-refined_2.13.0-M4@0.10.0?classifier=sources

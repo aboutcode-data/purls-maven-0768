@@ -1,0 +1,4 @@
+- pkg:maven/com.fidesmo/fdsm@18.08.22
+- pkg:maven/com.fidesmo/fdsm@18.08.22?classifier=sources
+- pkg:maven/com.fidesmo/fdsm@18.10.01
+- pkg:maven/com.fidesmo/fdsm@18.10.01?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.camunda.template-engines/camunda-template-engines-xquery-saxon@1.1.0
+- pkg:maven/org.camunda.template-engines/camunda-template-engines-xquery-saxon@1.1.0?classifier=sources

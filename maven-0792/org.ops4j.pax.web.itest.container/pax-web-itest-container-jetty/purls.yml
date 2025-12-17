@@ -28,6 +28,7 @@
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@6.0.0
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@6.0.1
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@6.0.10
+- pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@6.0.11
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@6.0.2
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@6.0.3
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@6.0.4
@@ -41,3 +42,8 @@
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@6.1.2
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@7.0.0
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@7.1.0
+- pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@7.1.1
+- pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@7.2.0
+- pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@7.2.1
+- pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@7.2.2
+- pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-jetty@7.2.3

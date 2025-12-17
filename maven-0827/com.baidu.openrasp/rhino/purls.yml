@@ -1,0 +1,2 @@
+- pkg:maven/com.baidu.openrasp/rhino@1.0
+- pkg:maven/com.baidu.openrasp/rhino@1.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.enioka.jqm/jqm-service@2.0.0?classifier=sources
+- pkg:maven/com.enioka.jqm/jqm-service@2.1.0?classifier=sources

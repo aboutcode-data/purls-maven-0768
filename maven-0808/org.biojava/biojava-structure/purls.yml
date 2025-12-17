@@ -9,6 +9,8 @@
 - pkg:maven/org.biojava/biojava-structure@4.2.10?classifier=sources
 - pkg:maven/org.biojava/biojava-structure@4.2.11
 - pkg:maven/org.biojava/biojava-structure@4.2.11?classifier=sources
+- pkg:maven/org.biojava/biojava-structure@4.2.12
+- pkg:maven/org.biojava/biojava-structure@4.2.12?classifier=sources
 - pkg:maven/org.biojava/biojava-structure@4.2.1?classifier=sources
 - pkg:maven/org.biojava/biojava-structure@4.2.2
 - pkg:maven/org.biojava/biojava-structure@4.2.2?classifier=sources
@@ -58,3 +60,9 @@
 - pkg:maven/org.biojava/biojava-structure@5.0.0?classifier=sources
 - pkg:maven/org.biojava/biojava-structure@5.0.1
 - pkg:maven/org.biojava/biojava-structure@5.0.1?classifier=sources
+- pkg:maven/org.biojava/biojava-structure@5.0.2
+- pkg:maven/org.biojava/biojava-structure@5.0.2?classifier=sources
+- pkg:maven/org.biojava/biojava-structure@5.1.0
+- pkg:maven/org.biojava/biojava-structure@5.1.0?classifier=sources
+- pkg:maven/org.biojava/biojava-structure@5.1.1
+- pkg:maven/org.biojava/biojava-structure@5.1.1?classifier=sources

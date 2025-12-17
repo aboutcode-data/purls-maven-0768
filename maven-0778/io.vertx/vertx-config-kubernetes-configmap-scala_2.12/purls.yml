@@ -2,5 +2,10 @@
 - pkg:maven/io.vertx/vertx-config-kubernetes-configmap-scala_2.12@3.5.0
 - pkg:maven/io.vertx/vertx-config-kubernetes-configmap-scala_2.12@3.5.0.Beta1
 - pkg:maven/io.vertx/vertx-config-kubernetes-configmap-scala_2.12@3.5.1
+- pkg:maven/io.vertx/vertx-config-kubernetes-configmap-scala_2.12@3.5.2
 - pkg:maven/io.vertx/vertx-config-kubernetes-configmap-scala_2.12@3.5.2.CR1
 - pkg:maven/io.vertx/vertx-config-kubernetes-configmap-scala_2.12@3.5.2.CR2
+- pkg:maven/io.vertx/vertx-config-kubernetes-configmap-scala_2.12@3.5.2.CR3
+- pkg:maven/io.vertx/vertx-config-kubernetes-configmap-scala_2.12@3.5.3
+- pkg:maven/io.vertx/vertx-config-kubernetes-configmap-scala_2.12@3.5.3.CR1
+- pkg:maven/io.vertx/vertx-config-kubernetes-configmap-scala_2.12@3.5.4

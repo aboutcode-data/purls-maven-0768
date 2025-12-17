@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.mhart/aws4@1.8.0
+- pkg:maven/org.webjars.bowergithub.mhart/aws4@1.8.0?classifier=sources

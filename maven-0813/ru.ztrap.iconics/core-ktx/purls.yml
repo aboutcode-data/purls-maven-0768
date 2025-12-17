@@ -1,0 +1,4 @@
+- pkg:maven/ru.ztrap.iconics/core-ktx@1.0.2?classifier=sources
+- pkg:maven/ru.ztrap.iconics/core-ktx@1.0.2?type=aar
+- pkg:maven/ru.ztrap.iconics/core-ktx@1.0.3?classifier=sources
+- pkg:maven/ru.ztrap.iconics/core-ktx@1.0.3?type=aar

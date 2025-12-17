@@ -14,3 +14,15 @@
 - pkg:maven/com.github.edgar615/util@1.0.18.RELEASE?classifier=sources
 - pkg:maven/com.github.edgar615/util@1.0.18.beta2
 - pkg:maven/com.github.edgar615/util@1.0.18.beta2?classifier=sources
+- pkg:maven/com.github.edgar615/util@1.0.19.BETA1
+- pkg:maven/com.github.edgar615/util@1.0.19.BETA1?classifier=sources
+- pkg:maven/com.github.edgar615/util@1.0.19.BETA2
+- pkg:maven/com.github.edgar615/util@1.0.19.BETA2?classifier=sources
+- pkg:maven/com.github.edgar615/util@1.1.0
+- pkg:maven/com.github.edgar615/util@1.1.0?classifier=sources
+- pkg:maven/com.github.edgar615/util@1.1.1.BETA1
+- pkg:maven/com.github.edgar615/util@1.1.1.BETA1?classifier=sources
+- pkg:maven/com.github.edgar615/util@1.1.1.BETA2
+- pkg:maven/com.github.edgar615/util@1.1.1.BETA2?classifier=sources
+- pkg:maven/com.github.edgar615/util@1.1.1.BETA3
+- pkg:maven/com.github.edgar615/util@1.1.1.BETA3?classifier=sources

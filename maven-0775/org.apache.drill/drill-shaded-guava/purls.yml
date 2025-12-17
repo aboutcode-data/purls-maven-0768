@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.drill/drill-shaded-guava@23.0
+- pkg:maven/org.apache.drill/drill-shaded-guava@23.0?classifier=sources

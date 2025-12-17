@@ -35,6 +35,8 @@
 - pkg:maven/com.spinoco/protocol-websocket_2.12@0.3.13?classifier=sources
 - pkg:maven/com.spinoco/protocol-websocket_2.12@0.3.14
 - pkg:maven/com.spinoco/protocol-websocket_2.12@0.3.14?classifier=sources
+- pkg:maven/com.spinoco/protocol-websocket_2.12@0.3.15
+- pkg:maven/com.spinoco/protocol-websocket_2.12@0.3.15?classifier=sources
 - pkg:maven/com.spinoco/protocol-websocket_2.12@0.3.1?classifier=sources
 - pkg:maven/com.spinoco/protocol-websocket_2.12@0.3.2
 - pkg:maven/com.spinoco/protocol-websocket_2.12@0.3.2?classifier=sources

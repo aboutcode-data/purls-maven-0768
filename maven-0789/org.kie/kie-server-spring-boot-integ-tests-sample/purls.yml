@@ -1,0 +1,4 @@
+- pkg:maven/org.kie/kie-server-spring-boot-integ-tests-sample@7.12.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-integ-tests-sample@7.12.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-server-spring-boot-integ-tests-sample@7.13.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-integ-tests-sample@7.13.0.Final?classifier=sources

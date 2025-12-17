@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/lodash.take@4.0.1
 - pkg:maven/org.webjars.npm/lodash.take@4.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/lodash.take@4.1.1
+- pkg:maven/org.webjars.npm/lodash.take@4.1.1?classifier=sources

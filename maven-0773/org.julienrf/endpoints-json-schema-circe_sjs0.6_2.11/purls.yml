@@ -1,0 +1,4 @@
+- pkg:maven/org.julienrf/endpoints-json-schema-circe_sjs0.6_2.11@0.6.0
+- pkg:maven/org.julienrf/endpoints-json-schema-circe_sjs0.6_2.11@0.6.0?classifier=sources
+- pkg:maven/org.julienrf/endpoints-json-schema-circe_sjs0.6_2.11@0.7.0
+- pkg:maven/org.julienrf/endpoints-json-schema-circe_sjs0.6_2.11@0.7.0?classifier=sources

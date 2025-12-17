@@ -1,0 +1,6 @@
+- pkg:maven/com.budjb/spring-distributed-locks@0.1.5.BETA
+- pkg:maven/com.budjb/spring-distributed-locks@0.1.5.BETA?classifier=sources
+- pkg:maven/com.budjb/spring-distributed-locks@0.1.6.BETA
+- pkg:maven/com.budjb/spring-distributed-locks@0.1.6.BETA?classifier=sources
+- pkg:maven/com.budjb/spring-distributed-locks@0.1.7.BETA
+- pkg:maven/com.budjb/spring-distributed-locks@0.1.7.BETA?classifier=sources

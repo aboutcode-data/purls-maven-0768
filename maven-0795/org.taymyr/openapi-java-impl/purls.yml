@@ -1,0 +1,2 @@
+- pkg:maven/org.taymyr/openapi-java-impl@0.0.1
+- pkg:maven/org.taymyr/openapi-java-impl@0.0.1?classifier=sources

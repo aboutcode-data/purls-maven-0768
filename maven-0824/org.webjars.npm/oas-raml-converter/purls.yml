@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/oas-raml-converter@1.1.34
+- pkg:maven/org.webjars.npm/oas-raml-converter@1.1.34?classifier=sources

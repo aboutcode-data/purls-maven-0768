@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.desandro/matches-selector@1.0.3
+- pkg:maven/org.webjars.bowergithub.desandro/matches-selector@1.0.3?classifier=sources
 - pkg:maven/org.webjars.bowergithub.desandro/matches-selector@2.0.2
 - pkg:maven/org.webjars.bowergithub.desandro/matches-selector@2.0.2?classifier=sources

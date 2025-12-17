@@ -46,3 +46,7 @@
 - pkg:maven/org.webjars.npm/angular__platform-webworker-dynamic@4.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/angular__platform-webworker-dynamic@4.2.5
 - pkg:maven/org.webjars.npm/angular__platform-webworker-dynamic@4.2.5?classifier=sources
+- pkg:maven/org.webjars.npm/angular__platform-webworker-dynamic@6.1.0
+- pkg:maven/org.webjars.npm/angular__platform-webworker-dynamic@6.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/angular__platform-webworker-dynamic@6.1.4
+- pkg:maven/org.webjars.npm/angular__platform-webworker-dynamic@6.1.4?classifier=sources

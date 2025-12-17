@@ -1,0 +1,4 @@
+- pkg:maven/com.linkedin.azkaban/azkaban-common@3.50.3
+- pkg:maven/com.linkedin.azkaban/azkaban-common@3.50.3?classifier=sources
+- pkg:maven/com.linkedin.azkaban/azkaban-common@3.58.0
+- pkg:maven/com.linkedin.azkaban/azkaban-common@3.58.0?classifier=sources

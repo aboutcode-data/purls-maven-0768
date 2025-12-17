@@ -1,2 +1,4 @@
 - pkg:maven/com.glookast.commons/commons-base-schemas@1.0.0
 - pkg:maven/com.glookast.commons/commons-base-schemas@1.0.0?classifier=sources
+- pkg:maven/com.glookast.commons/commons-base-schemas@2.0.0
+- pkg:maven/com.glookast.commons/commons-base-schemas@2.0.0?classifier=sources

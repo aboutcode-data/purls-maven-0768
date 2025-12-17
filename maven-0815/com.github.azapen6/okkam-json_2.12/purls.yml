@@ -1,0 +1,14 @@
+- pkg:maven/com.github.azapen6/okkam-json_2.12@0.0.119
+- pkg:maven/com.github.azapen6/okkam-json_2.12@0.0.1192
+- pkg:maven/com.github.azapen6/okkam-json_2.12@0.0.1192?classifier=sources
+- pkg:maven/com.github.azapen6/okkam-json_2.12@0.0.119?classifier=sources
+- pkg:maven/com.github.azapen6/okkam-json_2.12@0.0.1582
+- pkg:maven/com.github.azapen6/okkam-json_2.12@0.0.1582?classifier=sources
+- pkg:maven/com.github.azapen6/okkam-json_2.12@0.0.168
+- pkg:maven/com.github.azapen6/okkam-json_2.12@0.0.1682
+- pkg:maven/com.github.azapen6/okkam-json_2.12@0.0.1682?classifier=sources
+- pkg:maven/com.github.azapen6/okkam-json_2.12@0.0.1687
+- pkg:maven/com.github.azapen6/okkam-json_2.12@0.0.1687?classifier=sources
+- pkg:maven/com.github.azapen6/okkam-json_2.12@0.0.168?classifier=sources
+- pkg:maven/com.github.azapen6/okkam-json_2.12@0.1.0
+- pkg:maven/com.github.azapen6/okkam-json_2.12@0.1.0?classifier=sources

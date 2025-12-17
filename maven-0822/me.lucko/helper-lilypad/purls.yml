@@ -6,3 +6,5 @@
 - pkg:maven/me.lucko/helper-lilypad@1.3.0?classifier=sources
 - pkg:maven/me.lucko/helper-lilypad@2.0.0
 - pkg:maven/me.lucko/helper-lilypad@2.0.0?classifier=sources
+- pkg:maven/me.lucko/helper-lilypad@2.1.0
+- pkg:maven/me.lucko/helper-lilypad@2.1.0?classifier=sources

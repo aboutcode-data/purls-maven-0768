@@ -1,2 +1,4 @@
 - pkg:maven/de.sfuhrm/radiobrowser4j-demo@1.1.0
 - pkg:maven/de.sfuhrm/radiobrowser4j-demo@1.1.0?classifier=sources
+- pkg:maven/de.sfuhrm/radiobrowser4j-demo@1.2.0
+- pkg:maven/de.sfuhrm/radiobrowser4j-demo@1.2.0?classifier=sources

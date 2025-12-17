@@ -1,0 +1,2 @@
+- pkg:maven/io.apicurio/apicurio-studio-tools-release@0.2.15.Final
+- pkg:maven/io.apicurio/apicurio-studio-tools-release@0.2.15.Final?classifier=sources

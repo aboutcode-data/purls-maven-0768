@@ -1,0 +1,4 @@
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain-client@2.0.0.CR8
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain-client@2.0.0.CR8?classifier=sources
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain-client@2.0.0.CR9
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain-client@2.0.0.CR9?classifier=sources

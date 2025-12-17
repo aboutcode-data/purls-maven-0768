@@ -1,2 +1,10 @@
+- pkg:maven/com.marklogic/marklogic-data-hub@2.0.5
+- pkg:maven/com.marklogic/marklogic-data-hub@2.0.5?classifier=sources
+- pkg:maven/com.marklogic/marklogic-data-hub@2.0.6
+- pkg:maven/com.marklogic/marklogic-data-hub@2.0.6?classifier=sources
 - pkg:maven/com.marklogic/marklogic-data-hub@3.0.0
 - pkg:maven/com.marklogic/marklogic-data-hub@3.0.0?classifier=sources
+- pkg:maven/com.marklogic/marklogic-data-hub@4.0.0
+- pkg:maven/com.marklogic/marklogic-data-hub@4.0.0?classifier=sources
+- pkg:maven/com.marklogic/marklogic-data-hub@4.0.1
+- pkg:maven/com.marklogic/marklogic-data-hub@4.0.1?classifier=sources

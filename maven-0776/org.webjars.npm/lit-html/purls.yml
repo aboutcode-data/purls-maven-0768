@@ -1,4 +1,10 @@
 - pkg:maven/org.webjars.npm/lit-html@0.10.0
 - pkg:maven/org.webjars.npm/lit-html@0.10.0?classifier=sources
+- pkg:maven/org.webjars.npm/lit-html@0.11.0-dev.3
+- pkg:maven/org.webjars.npm/lit-html@0.11.0-dev.3?classifier=sources
+- pkg:maven/org.webjars.npm/lit-html@0.11.3
+- pkg:maven/org.webjars.npm/lit-html@0.11.3?classifier=sources
+- pkg:maven/org.webjars.npm/lit-html@0.11.4
+- pkg:maven/org.webjars.npm/lit-html@0.11.4?classifier=sources
 - pkg:maven/org.webjars.npm/lit-html@0.6.0
 - pkg:maven/org.webjars.npm/lit-html@0.6.0?classifier=sources

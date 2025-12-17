@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mokka88/simple-excel@1.2
+- pkg:maven/com.github.mokka88/simple-excel@1.2?classifier=sources

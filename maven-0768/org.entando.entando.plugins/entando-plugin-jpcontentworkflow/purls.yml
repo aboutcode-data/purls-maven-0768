@@ -9,3 +9,5 @@
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentworkflow@4.3.1?type=war
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentworkflow@4.3.2?classifier=sources
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentworkflow@4.3.2?type=war
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentworkflow@5.0.0?classifier=sources
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentworkflow@5.0.0?type=war

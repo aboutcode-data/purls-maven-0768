@@ -1,0 +1,2 @@
+- pkg:maven/org.evolvis.bsi/kolab-ws-service-stub@3.10
+- pkg:maven/org.evolvis.bsi/kolab-ws-service-stub@3.10?classifier=sources

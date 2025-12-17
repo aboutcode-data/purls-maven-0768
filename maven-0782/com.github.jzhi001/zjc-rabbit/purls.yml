@@ -1,0 +1,4 @@
+- pkg:maven/com.github.jzhi001/zjc-rabbit@1.1
+- pkg:maven/com.github.jzhi001/zjc-rabbit@1.1.1
+- pkg:maven/com.github.jzhi001/zjc-rabbit@1.1.1?classifier=sources
+- pkg:maven/com.github.jzhi001/zjc-rabbit@1.1?classifier=sources

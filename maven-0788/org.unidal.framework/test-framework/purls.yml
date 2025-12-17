@@ -1,0 +1,4 @@
+- pkg:maven/org.unidal.framework/test-framework@4.0.4
+- pkg:maven/org.unidal.framework/test-framework@4.0.4?classifier=sources
+- pkg:maven/org.unidal.framework/test-framework@4.1.1
+- pkg:maven/org.unidal.framework/test-framework@4.1.1?classifier=sources

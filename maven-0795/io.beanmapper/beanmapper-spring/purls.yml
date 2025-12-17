@@ -32,3 +32,9 @@
 - pkg:maven/io.beanmapper/beanmapper-spring@2.3.2?classifier=sources
 - pkg:maven/io.beanmapper/beanmapper-spring@2.4.0
 - pkg:maven/io.beanmapper/beanmapper-spring@2.4.0?classifier=sources
+- pkg:maven/io.beanmapper/beanmapper-spring@2.4.1
+- pkg:maven/io.beanmapper/beanmapper-spring@2.4.1.SPRING5
+- pkg:maven/io.beanmapper/beanmapper-spring@2.4.1.SPRING5?classifier=sources
+- pkg:maven/io.beanmapper/beanmapper-spring@2.4.1?classifier=sources
+- pkg:maven/io.beanmapper/beanmapper-spring@3.0.0
+- pkg:maven/io.beanmapper/beanmapper-spring@3.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-system-kubernetes@0.10.3
+- pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-system-kubernetes@0.10.3?classifier=sources
+- pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-system-kubernetes@0.10.4
+- pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-system-kubernetes@0.10.4?classifier=sources

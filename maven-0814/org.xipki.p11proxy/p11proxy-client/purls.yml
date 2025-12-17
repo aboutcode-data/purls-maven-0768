@@ -1,0 +1,2 @@
+- pkg:maven/org.xipki.p11proxy/p11proxy-client@4.0.0
+- pkg:maven/org.xipki.p11proxy/p11proxy-client@4.0.0?classifier=sources

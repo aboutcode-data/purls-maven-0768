@@ -1,3 +1,9 @@
+- pkg:maven/com.peterphi.std/stdlib@10.0.0
+- pkg:maven/com.peterphi.std/stdlib@10.0.0?classifier=sources
+- pkg:maven/com.peterphi.std/stdlib@10.0.1
+- pkg:maven/com.peterphi.std/stdlib@10.0.1?classifier=sources
+- pkg:maven/com.peterphi.std/stdlib@10.1.0
+- pkg:maven/com.peterphi.std/stdlib@10.1.0?classifier=sources
 - pkg:maven/com.peterphi.std/stdlib@4.0.0
 - pkg:maven/com.peterphi.std/stdlib@4.0.0?classifier=sources
 - pkg:maven/com.peterphi.std/stdlib@5.0.0
@@ -280,3 +286,11 @@
 - pkg:maven/com.peterphi.std/stdlib@9.7.0?classifier=sources
 - pkg:maven/com.peterphi.std/stdlib@9.7.1
 - pkg:maven/com.peterphi.std/stdlib@9.7.1?classifier=sources
+- pkg:maven/com.peterphi.std/stdlib@9.7.2
+- pkg:maven/com.peterphi.std/stdlib@9.7.2?classifier=sources
+- pkg:maven/com.peterphi.std/stdlib@9.7.3
+- pkg:maven/com.peterphi.std/stdlib@9.7.3?classifier=sources
+- pkg:maven/com.peterphi.std/stdlib@9.7.4
+- pkg:maven/com.peterphi.std/stdlib@9.7.4?classifier=sources
+- pkg:maven/com.peterphi.std/stdlib@9.7.5
+- pkg:maven/com.peterphi.std/stdlib@9.7.5?classifier=sources

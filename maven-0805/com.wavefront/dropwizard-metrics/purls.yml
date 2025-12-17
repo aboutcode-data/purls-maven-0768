@@ -1,0 +1,6 @@
+- pkg:maven/com.wavefront/dropwizard-metrics@4.29
+- pkg:maven/com.wavefront/dropwizard-metrics@4.29?classifier=sources
+- pkg:maven/com.wavefront/dropwizard-metrics@4.30
+- pkg:maven/com.wavefront/dropwizard-metrics@4.30?classifier=sources
+- pkg:maven/com.wavefront/dropwizard-metrics@4.31
+- pkg:maven/com.wavefront/dropwizard-metrics@4.31?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/org.icefaces.samples/chat@4.1.1?type=war
 - pkg:maven/org.icefaces.samples/chat@4.2.0-BETA?type=war
 - pkg:maven/org.icefaces.samples/chat@4.2.0?type=war
+- pkg:maven/org.icefaces.samples/chat@4.3.0?type=war

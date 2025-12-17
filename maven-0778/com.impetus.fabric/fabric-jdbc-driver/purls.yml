@@ -1,0 +1,2 @@
+- pkg:maven/com.impetus.fabric/fabric-jdbc-driver@1.0.0
+- pkg:maven/com.impetus.fabric/fabric-jdbc-driver@1.0.0?classifier=sources

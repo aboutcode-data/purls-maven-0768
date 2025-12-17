@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.gkz/type-check@0.3.2
+- pkg:maven/org.webjars.bowergithub.gkz/type-check@0.3.2?classifier=sources

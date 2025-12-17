@@ -1,0 +1,2 @@
+- pkg:maven/pt.uminho.ceb.biosystems/mew-regulatory-simulation@1.1.0
+- pkg:maven/pt.uminho.ceb.biosystems/mew-regulatory-simulation@1.1.0?classifier=sources

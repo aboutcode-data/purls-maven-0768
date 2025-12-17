@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/vue-slick@1.1.12
+- pkg:maven/org.webjars.npm/vue-slick@1.1.12?classifier=sources
+- pkg:maven/org.webjars.npm/vue-slick@1.1.13
+- pkg:maven/org.webjars.npm/vue-slick@1.1.13?classifier=sources

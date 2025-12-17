@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/snyk-php-plugin@1.5.1
+- pkg:maven/org.webjars.npm/snyk-php-plugin@1.5.1?classifier=sources

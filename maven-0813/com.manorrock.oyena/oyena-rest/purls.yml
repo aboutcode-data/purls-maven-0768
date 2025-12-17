@@ -1,0 +1,6 @@
+- pkg:maven/com.manorrock.oyena/oyena-rest@2.3.3.0
+- pkg:maven/com.manorrock.oyena/oyena-rest@2.3.3.0?classifier=sources
+- pkg:maven/com.manorrock.oyena/oyena-rest@2.3.4.0
+- pkg:maven/com.manorrock.oyena/oyena-rest@2.3.4.0?classifier=sources
+- pkg:maven/com.manorrock.oyena/oyena-rest@2.3.6.0
+- pkg:maven/com.manorrock.oyena/oyena-rest@2.3.6.0?classifier=sources

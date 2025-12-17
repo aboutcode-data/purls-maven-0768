@@ -1,0 +1,2 @@
+- pkg:maven/org.gridkit.jvmtool/sjk-jfr6@0.4
+- pkg:maven/org.gridkit.jvmtool/sjk-jfr6@0.4?classifier=sources

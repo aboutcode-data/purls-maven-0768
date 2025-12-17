@@ -1,2 +1,6 @@
 - pkg:maven/io.airlift/airbase-policy@79
 - pkg:maven/io.airlift/airbase-policy@80
+- pkg:maven/io.airlift/airbase-policy@81
+- pkg:maven/io.airlift/airbase-policy@82
+- pkg:maven/io.airlift/airbase-policy@83
+- pkg:maven/io.airlift/airbase-policy@84

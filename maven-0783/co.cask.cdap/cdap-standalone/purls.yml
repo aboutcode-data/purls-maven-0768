@@ -110,3 +110,7 @@
 - pkg:maven/co.cask.cdap/cdap-standalone@4.3.3?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-standalone@4.3.4
 - pkg:maven/co.cask.cdap/cdap-standalone@4.3.4?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-standalone@5.0.0
+- pkg:maven/co.cask.cdap/cdap-standalone@5.0.0?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-standalone@5.1.0
+- pkg:maven/co.cask.cdap/cdap-standalone@5.1.0?classifier=sources

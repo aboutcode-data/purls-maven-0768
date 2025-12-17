@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.okapi.examples/okapi-example-03@0.36
+- pkg:maven/net.sf.okapi.examples/okapi-example-03@0.36?classifier=sources

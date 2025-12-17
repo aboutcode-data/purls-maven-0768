@@ -1,0 +1,2 @@
+- pkg:maven/io.annot8/annot8-components-properties@0.1.0
+- pkg:maven/io.annot8/annot8-components-properties@0.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.pragmaticobjects.oo.atom/atom-maven-plugin@0.0.13
+- pkg:maven/com.pragmaticobjects.oo.atom/atom-maven-plugin@0.0.13?classifier=sources
+- pkg:maven/com.pragmaticobjects.oo.atom/atom-maven-plugin@0.0.14
+- pkg:maven/com.pragmaticobjects.oo.atom/atom-maven-plugin@0.0.14?classifier=sources

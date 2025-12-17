@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kxbmap/jooq-warts_2.13.0-M5@0.1.0
+- pkg:maven/com.github.kxbmap/jooq-warts_2.13.0-M5@0.1.0?classifier=sources

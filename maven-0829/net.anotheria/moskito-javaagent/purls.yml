@@ -1,0 +1,2 @@
+- pkg:maven/net.anotheria/moskito-javaagent@2.8.7
+- pkg:maven/net.anotheria/moskito-javaagent@2.8.7?classifier=sources

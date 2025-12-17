@@ -1,0 +1,2 @@
+- pkg:maven/name.valery1707.junit/junit4-rule@0.1.2
+- pkg:maven/name.valery1707.junit/junit4-rule@0.1.2?classifier=sources

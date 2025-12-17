@@ -14,3 +14,8 @@
 - pkg:maven/org.seedstack.addons.w20/w20-bridge-web-extras@3.1.0
 - pkg:maven/org.seedstack.addons.w20/w20-bridge-web-extras@3.2.0
 - pkg:maven/org.seedstack.addons.w20/w20-bridge-web-extras@3.2.1
+- pkg:maven/org.seedstack.addons.w20/w20-bridge-web-extras@3.2.2
+- pkg:maven/org.seedstack.addons.w20/w20-bridge-web-extras@3.2.3
+- pkg:maven/org.seedstack.addons.w20/w20-bridge-web-extras@3.2.4
+- pkg:maven/org.seedstack.addons.w20/w20-bridge-web-extras@3.2.5
+- pkg:maven/org.seedstack.addons.w20/w20-bridge-web-extras@3.2.6

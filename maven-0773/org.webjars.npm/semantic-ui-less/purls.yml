@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/semantic-ui-less@2.2.14
 - pkg:maven/org.webjars.npm/semantic-ui-less@2.2.14?classifier=sources
+- pkg:maven/org.webjars.npm/semantic-ui-less@2.3.3
+- pkg:maven/org.webjars.npm/semantic-ui-less@2.3.3?classifier=sources

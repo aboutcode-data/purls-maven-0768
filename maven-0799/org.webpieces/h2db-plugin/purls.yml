@@ -86,3 +86,7 @@
 - pkg:maven/org.webpieces/h2db-plugin@1.9.90?classifier=sources
 - pkg:maven/org.webpieces/h2db-plugin@1.9.92
 - pkg:maven/org.webpieces/h2db-plugin@1.9.92?classifier=sources
+- pkg:maven/org.webpieces/h2db-plugin@1.9.94
+- pkg:maven/org.webpieces/h2db-plugin@1.9.94?classifier=sources
+- pkg:maven/org.webpieces/h2db-plugin@1.9.95
+- pkg:maven/org.webpieces/h2db-plugin@1.9.95?classifier=sources

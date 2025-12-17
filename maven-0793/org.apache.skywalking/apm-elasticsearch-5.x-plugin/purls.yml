@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.skywalking/apm-elasticsearch-5.x-plugin@5.0.0-GA
+- pkg:maven/org.apache.skywalking/apm-elasticsearch-5.x-plugin@5.0.0-GA?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-elasticsearch-5.x-plugin@5.0.0-RC2
+- pkg:maven/org.apache.skywalking/apm-elasticsearch-5.x-plugin@5.0.0-RC2?classifier=sources

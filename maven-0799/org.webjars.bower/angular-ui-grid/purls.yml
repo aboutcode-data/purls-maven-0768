@@ -80,3 +80,5 @@
 - pkg:maven/org.webjars.bower/angular-ui-grid@4.4.7?classifier=sources
 - pkg:maven/org.webjars.bower/angular-ui-grid@4.4.9
 - pkg:maven/org.webjars.bower/angular-ui-grid@4.4.9?classifier=sources
+- pkg:maven/org.webjars.bower/angular-ui-grid@4.6.1
+- pkg:maven/org.webjars.bower/angular-ui-grid@4.6.1?classifier=sources

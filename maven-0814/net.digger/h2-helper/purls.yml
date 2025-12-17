@@ -1,2 +1,4 @@
 - pkg:maven/net.digger/h2-helper@1.0.0
 - pkg:maven/net.digger/h2-helper@1.0.0?classifier=sources
+- pkg:maven/net.digger/h2-helper@1.1.0
+- pkg:maven/net.digger/h2-helper@1.1.0?classifier=sources

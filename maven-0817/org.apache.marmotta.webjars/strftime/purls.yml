@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.marmotta.webjars/strftime@3.2.1?classifier=sources
 - pkg:maven/org.apache.marmotta.webjars/strftime@3.3.0
 - pkg:maven/org.apache.marmotta.webjars/strftime@3.3.0?classifier=sources
+- pkg:maven/org.apache.marmotta.webjars/strftime@3.4.0
+- pkg:maven/org.apache.marmotta.webjars/strftime@3.4.0?classifier=sources

@@ -2,3 +2,11 @@
 - pkg:maven/top.hmtools/hm-tools-gb-t2260@0.0.1.20180206a-beta?classifier=sources
 - pkg:maven/top.hmtools/hm-tools-gb-t2260@0.0.1.20180207a-beta
 - pkg:maven/top.hmtools/hm-tools-gb-t2260@0.0.1.20180207a-beta?classifier=sources
+- pkg:maven/top.hmtools/hm-tools-gb-t2260@0.0.2
+- pkg:maven/top.hmtools/hm-tools-gb-t2260@0.0.2?classifier=sources
+- pkg:maven/top.hmtools/hm-tools-gb-t2260@0.0.3
+- pkg:maven/top.hmtools/hm-tools-gb-t2260@0.0.3?classifier=sources
+- pkg:maven/top.hmtools/hm-tools-gb-t2260@0.0.4
+- pkg:maven/top.hmtools/hm-tools-gb-t2260@0.0.4?classifier=sources
+- pkg:maven/top.hmtools/hm-tools-gb-t2260@0.0.5
+- pkg:maven/top.hmtools/hm-tools-gb-t2260@0.0.5?classifier=sources

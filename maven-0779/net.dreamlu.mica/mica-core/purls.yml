@@ -1,0 +1,4 @@
+- pkg:maven/net.dreamlu.mica/mica-core@0.0.1-alpha
+- pkg:maven/net.dreamlu.mica/mica-core@0.0.1-alpha?classifier=sources
+- pkg:maven/net.dreamlu.mica/mica-core@0.0.1-beta
+- pkg:maven/net.dreamlu.mica/mica-core@0.0.1-beta?classifier=sources

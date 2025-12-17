@@ -1,0 +1,2 @@
+- pkg:maven/io.github.xilingit/spring-boot-rocketmq-starter@1.0.0.RELEASE
+- pkg:maven/io.github.xilingit/spring-boot-rocketmq-starter@1.0.0.RELEASE?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/net.sourceforge.fmpp/fmpp@0.9.14?classifier=sources
 - pkg:maven/net.sourceforge.fmpp/fmpp@0.9.15
 - pkg:maven/net.sourceforge.fmpp/fmpp@0.9.15?classifier=sources
+- pkg:maven/net.sourceforge.fmpp/fmpp@0.9.16
+- pkg:maven/net.sourceforge.fmpp/fmpp@0.9.16?classifier=sources

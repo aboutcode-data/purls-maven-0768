@@ -60,3 +60,5 @@
 - pkg:maven/de.sciss/scalacolliderswing-plotting_2.11@1.38.0?classifier=sources
 - pkg:maven/de.sciss/scalacolliderswing-plotting_2.11@1.39.0
 - pkg:maven/de.sciss/scalacolliderswing-plotting_2.11@1.39.0?classifier=sources
+- pkg:maven/de.sciss/scalacolliderswing-plotting_2.11@1.40.0
+- pkg:maven/de.sciss/scalacolliderswing-plotting_2.11@1.40.0?classifier=sources

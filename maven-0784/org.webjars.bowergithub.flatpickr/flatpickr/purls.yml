@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.flatpickr/flatpickr@4.5.1
+- pkg:maven/org.webjars.bowergithub.flatpickr/flatpickr@4.5.1?classifier=sources

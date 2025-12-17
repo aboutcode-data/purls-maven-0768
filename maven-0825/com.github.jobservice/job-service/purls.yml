@@ -8,3 +8,5 @@
 - pkg:maven/com.github.jobservice/job-service@2.3.0-159?type=war
 - pkg:maven/com.github.jobservice/job-service@2.4.0-211?classifier=sources
 - pkg:maven/com.github.jobservice/job-service@2.4.0-211?type=war
+- pkg:maven/com.github.jobservice/job-service@2.5.0-284?classifier=sources
+- pkg:maven/com.github.jobservice/job-service@2.5.0-284?type=war

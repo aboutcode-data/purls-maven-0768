@@ -56,6 +56,9 @@
 - pkg:maven/com.liferay/com.liferay.screens.service@1.0.32
 - pkg:maven/com.liferay/com.liferay.screens.service@1.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.screens.service@1.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.screens.service@1.0.33
+- pkg:maven/com.liferay/com.liferay.screens.service@1.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.screens.service@1.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.screens.service@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.screens.service@1.0.4
 - pkg:maven/com.liferay/com.liferay.screens.service@1.0.4?classifier=sources
@@ -69,3 +72,15 @@
 - pkg:maven/com.liferay/com.liferay.screens.service@1.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.screens.service@1.0.9
 - pkg:maven/com.liferay/com.liferay.screens.service@1.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.screens.service@2.0.0
+- pkg:maven/com.liferay/com.liferay.screens.service@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.screens.service@2.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.screens.service@2.0.2
+- pkg:maven/com.liferay/com.liferay.screens.service@2.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.screens.service@2.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.screens.service@2.0.3
+- pkg:maven/com.liferay/com.liferay.screens.service@2.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.screens.service@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.screens.service@2.0.4
+- pkg:maven/com.liferay/com.liferay.screens.service@2.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.screens.service@2.0.4?classifier=sources-commercial

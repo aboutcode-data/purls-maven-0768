@@ -4,6 +4,14 @@
 - pkg:maven/com.att.cdp/cdp-pal-common@1.1.24.1-oss?classifier=sources
 - pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.1-oss
 - pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.1-oss?classifier=sources
+- pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.10-oss
+- pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.10-oss?classifier=sources
+- pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.11-oss
+- pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.11-oss?classifier=sources
+- pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.12-oss
+- pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.12-oss?classifier=sources
+- pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.13-oss
+- pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.13-oss?classifier=sources
 - pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.2-oss
 - pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.2-oss?classifier=sources
 - pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.3-oss
@@ -18,6 +26,8 @@
 - pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.7-oss?classifier=sources
 - pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.8-oss
 - pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.8-oss?classifier=sources
+- pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.9-oss
+- pkg:maven/com.att.cdp/cdp-pal-common@1.1.25.9-oss?classifier=sources
 - pkg:maven/com.att.cdp/cdp-pal-common@1.1.7
 - pkg:maven/com.att.cdp/cdp-pal-common@1.1.7-oss
 - pkg:maven/com.att.cdp/cdp-pal-common@1.1.7-oss?classifier=sources

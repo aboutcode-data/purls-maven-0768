@@ -1,0 +1,2 @@
+- pkg:maven/com.cosium.elasticsearch.testcontainers/testcontainers-elasticsearch@0.100
+- pkg:maven/com.cosium.elasticsearch.testcontainers/testcontainers-elasticsearch@0.100?classifier=sources

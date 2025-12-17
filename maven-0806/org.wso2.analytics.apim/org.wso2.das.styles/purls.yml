@@ -12,3 +12,6 @@
 - pkg:maven/org.wso2.analytics.apim/org.wso2.das.styles@2.2.0-rc3
 - pkg:maven/org.wso2.analytics.apim/org.wso2.das.styles@2.2.0-update1
 - pkg:maven/org.wso2.analytics.apim/org.wso2.das.styles@2.2.0-update2
+- pkg:maven/org.wso2.analytics.apim/org.wso2.das.styles@2.5.0
+- pkg:maven/org.wso2.analytics.apim/org.wso2.das.styles@2.5.0-Alpha
+- pkg:maven/org.wso2.analytics.apim/org.wso2.das.styles@2.5.0.Beta

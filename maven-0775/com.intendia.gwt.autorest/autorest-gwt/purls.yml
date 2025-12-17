@@ -7,3 +7,4 @@
 - pkg:maven/com.intendia.gwt.autorest/autorest-gwt@0.6?classifier=sources
 - pkg:maven/com.intendia.gwt.autorest/autorest-gwt@0.7?classifier=sources
 - pkg:maven/com.intendia.gwt.autorest/autorest-gwt@0.8?classifier=sources
+- pkg:maven/com.intendia.gwt.autorest/autorest-gwt@0.9?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/org.nutz/nutz-integration-quartz@1.r.63?classifier=sources
 - pkg:maven/org.nutz/nutz-integration-quartz@1.r.65
 - pkg:maven/org.nutz/nutz-integration-quartz@1.r.65?classifier=sources
+- pkg:maven/org.nutz/nutz-integration-quartz@1.r.66
+- pkg:maven/org.nutz/nutz-integration-quartz@1.r.66?classifier=sources

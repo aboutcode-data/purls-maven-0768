@@ -20,6 +20,14 @@
 - pkg:maven/com.weaverplatform/sdk-java@3.0.5?classifier=sources
 - pkg:maven/com.weaverplatform/sdk-java@3.1.0
 - pkg:maven/com.weaverplatform/sdk-java@3.1.0?classifier=sources
+- pkg:maven/com.weaverplatform/sdk-java@3.10.0
+- pkg:maven/com.weaverplatform/sdk-java@3.10.0?classifier=sources
+- pkg:maven/com.weaverplatform/sdk-java@3.11.0
+- pkg:maven/com.weaverplatform/sdk-java@3.11.0?classifier=sources
+- pkg:maven/com.weaverplatform/sdk-java@3.11.1
+- pkg:maven/com.weaverplatform/sdk-java@3.11.1?classifier=sources
+- pkg:maven/com.weaverplatform/sdk-java@3.11.2
+- pkg:maven/com.weaverplatform/sdk-java@3.11.2?classifier=sources
 - pkg:maven/com.weaverplatform/sdk-java@3.2.0
 - pkg:maven/com.weaverplatform/sdk-java@3.2.0?classifier=sources
 - pkg:maven/com.weaverplatform/sdk-java@3.2.1
@@ -44,3 +52,5 @@
 - pkg:maven/com.weaverplatform/sdk-java@3.7.2?classifier=sources
 - pkg:maven/com.weaverplatform/sdk-java@3.8.0
 - pkg:maven/com.weaverplatform/sdk-java@3.8.0?classifier=sources
+- pkg:maven/com.weaverplatform/sdk-java@3.9.0
+- pkg:maven/com.weaverplatform/sdk-java@3.9.0?classifier=sources

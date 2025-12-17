@@ -7,4 +7,6 @@
 - pkg:maven/com.hreeinfo.commons/commons-embed-server-tomcat@0.9
 - pkg:maven/com.hreeinfo.commons/commons-embed-server-tomcat@0.9?classifier=sources
 - pkg:maven/com.hreeinfo.commons/commons-embed-server-tomcat@1.0
+- pkg:maven/com.hreeinfo.commons/commons-embed-server-tomcat@1.0.1
+- pkg:maven/com.hreeinfo.commons/commons-embed-server-tomcat@1.0.1?classifier=sources
 - pkg:maven/com.hreeinfo.commons/commons-embed-server-tomcat@1.0?classifier=sources

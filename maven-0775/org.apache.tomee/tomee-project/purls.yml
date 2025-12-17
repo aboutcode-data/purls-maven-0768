@@ -6,3 +6,6 @@
 - pkg:maven/org.apache.tomee/tomee-project@7.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.tomee/tomee-project@7.0.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.tomee/tomee-project@7.0.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.tomee/tomee-project@7.0.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.tomee/tomee-project@7.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.tomee/tomee-project@8.0.0-M1?classifier=source-release&type=zip
