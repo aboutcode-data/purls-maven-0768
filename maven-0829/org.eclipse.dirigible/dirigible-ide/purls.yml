@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide@3.2.6
 - pkg:maven/org.eclipse.dirigible/dirigible-ide@3.2.7
 - pkg:maven/org.eclipse.dirigible/dirigible-ide@3.2.8
+- pkg:maven/org.eclipse.dirigible/dirigible-ide@3.3.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide@3.3.1

@@ -40,3 +40,11 @@
 - pkg:maven/com.pauldijou/jwt-circe_2.11@0.9.1?classifier=sources
 - pkg:maven/com.pauldijou/jwt-circe_2.11@0.9.2
 - pkg:maven/com.pauldijou/jwt-circe_2.11@0.9.2?classifier=sources
+- pkg:maven/com.pauldijou/jwt-circe_2.11@1.0.0
+- pkg:maven/com.pauldijou/jwt-circe_2.11@1.0.0?classifier=sources
+- pkg:maven/com.pauldijou/jwt-circe_2.11@1.1.0
+- pkg:maven/com.pauldijou/jwt-circe_2.11@1.1.0?classifier=sources
+- pkg:maven/com.pauldijou/jwt-circe_2.11@2.0.0
+- pkg:maven/com.pauldijou/jwt-circe_2.11@2.0.0?classifier=sources
+- pkg:maven/com.pauldijou/jwt-circe_2.11@2.1.0
+- pkg:maven/com.pauldijou/jwt-circe_2.11@2.1.0?classifier=sources

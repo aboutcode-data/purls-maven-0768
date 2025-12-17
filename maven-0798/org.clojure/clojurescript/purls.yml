@@ -241,6 +241,14 @@
 - pkg:maven/org.clojure/clojurescript@1.10.335?classifier=sources
 - pkg:maven/org.clojure/clojurescript@1.10.339
 - pkg:maven/org.clojure/clojurescript@1.10.339?classifier=sources
+- pkg:maven/org.clojure/clojurescript@1.10.439
+- pkg:maven/org.clojure/clojurescript@1.10.439?classifier=sources
+- pkg:maven/org.clojure/clojurescript@1.10.514
+- pkg:maven/org.clojure/clojurescript@1.10.514?classifier=sources
+- pkg:maven/org.clojure/clojurescript@1.10.516
+- pkg:maven/org.clojure/clojurescript@1.10.516?classifier=sources
+- pkg:maven/org.clojure/clojurescript@1.10.520
+- pkg:maven/org.clojure/clojurescript@1.10.520?classifier=sources
 - pkg:maven/org.clojure/clojurescript@1.10.63
 - pkg:maven/org.clojure/clojurescript@1.10.63?classifier=sources
 - pkg:maven/org.clojure/clojurescript@1.10.64

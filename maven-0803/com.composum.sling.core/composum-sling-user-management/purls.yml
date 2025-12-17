@@ -28,3 +28,5 @@
 - pkg:maven/com.composum.sling.core/composum-sling-user-management@1.9.1?classifier=sources
 - pkg:maven/com.composum.sling.core/composum-sling-user-management@1.9.2
 - pkg:maven/com.composum.sling.core/composum-sling-user-management@1.9.2?classifier=sources
+- pkg:maven/com.composum.sling.core/composum-sling-user-management@1.9.3
+- pkg:maven/com.composum.sling.core/composum-sling-user-management@1.9.3?classifier=sources

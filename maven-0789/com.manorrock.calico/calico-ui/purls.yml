@@ -1,0 +1,2 @@
+- pkg:maven/com.manorrock.calico/calico-ui@1.5.0?classifier=sources
+- pkg:maven/com.manorrock.calico/calico-ui@1.5.0?type=war

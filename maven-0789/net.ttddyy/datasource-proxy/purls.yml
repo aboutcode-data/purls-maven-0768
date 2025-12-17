@@ -34,3 +34,5 @@
 - pkg:maven/net.ttddyy/datasource-proxy@1.4.9
 - pkg:maven/net.ttddyy/datasource-proxy@1.4.9?classifier=sources
 - pkg:maven/net.ttddyy/datasource-proxy@1.4?classifier=sources
+- pkg:maven/net.ttddyy/datasource-proxy@1.5
+- pkg:maven/net.ttddyy/datasource-proxy@1.5?classifier=sources

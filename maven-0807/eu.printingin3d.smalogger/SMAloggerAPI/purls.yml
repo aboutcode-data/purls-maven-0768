@@ -1,0 +1,2 @@
+- pkg:maven/eu.printingin3d.smalogger/SMAloggerAPI@0.3.0.0
+- pkg:maven/eu.printingin3d.smalogger/SMAloggerAPI@0.3.0.0?classifier=sources

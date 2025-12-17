@@ -1,0 +1,4 @@
+- pkg:maven/com.zuunr.restbed/restbed-core@1.0.0.M1-966b3bc
+- pkg:maven/com.zuunr.restbed/restbed-core@1.0.0.M1-966b3bc?classifier=sources
+- pkg:maven/com.zuunr.restbed/restbed-core@1.0.0.M2-c82ad32
+- pkg:maven/com.zuunr.restbed/restbed-core@1.0.0.M2-c82ad32?classifier=sources

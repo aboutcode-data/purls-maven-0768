@@ -4,5 +4,9 @@
 - pkg:maven/com.github.arthur-bit-monnot/fape-planning@1.0.1%2B4-6e54dbdb
 - pkg:maven/com.github.arthur-bit-monnot/fape-planning@1.0.1%2B4-6e54dbdb?classifier=sources
 - pkg:maven/com.github.arthur-bit-monnot/fape-planning@1.0.2
+- pkg:maven/com.github.arthur-bit-monnot/fape-planning@1.0.2%2B1-8f96fd85
+- pkg:maven/com.github.arthur-bit-monnot/fape-planning@1.0.2%2B1-8f96fd85?classifier=sources
 - pkg:maven/com.github.arthur-bit-monnot/fape-planning@1.0.2?classifier=sources
+- pkg:maven/com.github.arthur-bit-monnot/fape-planning@1.0.4%2B2-16d3c71b
+- pkg:maven/com.github.arthur-bit-monnot/fape-planning@1.0.4%2B2-16d3c71b?classifier=sources
 - pkg:maven/com.github.arthur-bit-monnot/fape-planning@1.0?classifier=sources

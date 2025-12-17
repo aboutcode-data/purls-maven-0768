@@ -1,0 +1,2 @@
+- pkg:maven/com.bitplan.can4eve/com.bitplan.can4eve.can4eve@0.0.5
+- pkg:maven/com.bitplan.can4eve/com.bitplan.can4eve.can4eve@0.0.5?classifier=sources

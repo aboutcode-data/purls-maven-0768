@@ -1,2 +1,6 @@
 - pkg:maven/com.21buttons/view-test-rule-extras@0.1.0?classifier=sources
 - pkg:maven/com.21buttons/view-test-rule-extras@0.1.0?type=aar
+- pkg:maven/com.21buttons/view-test-rule-extras@1.0.0?classifier=sources
+- pkg:maven/com.21buttons/view-test-rule-extras@1.0.0?type=aar
+- pkg:maven/com.21buttons/view-test-rule-extras@1.0.1?classifier=sources
+- pkg:maven/com.21buttons/view-test-rule-extras@1.0.1?type=aar

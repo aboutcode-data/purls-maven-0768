@@ -4,3 +4,7 @@
 - pkg:maven/com.jwebmp/guiced-persistence-wildfly@0.58.0.21-RCTEST?classifier=sources
 - pkg:maven/com.jwebmp/guiced-persistence-wildfly@0.59.0.14
 - pkg:maven/com.jwebmp/guiced-persistence-wildfly@0.59.0.14?classifier=sources
+- pkg:maven/com.jwebmp/guiced-persistence-wildfly@0.62.0.1
+- pkg:maven/com.jwebmp/guiced-persistence-wildfly@0.62.0.1?classifier=sources
+- pkg:maven/com.jwebmp/guiced-persistence-wildfly@0.63.0.61
+- pkg:maven/com.jwebmp/guiced-persistence-wildfly@0.63.0.61?classifier=sources

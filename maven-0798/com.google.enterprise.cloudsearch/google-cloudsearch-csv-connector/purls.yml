@@ -1,0 +1,4 @@
+- pkg:maven/com.google.enterprise.cloudsearch/google-cloudsearch-csv-connector@v1-0.0.3?classifier=sources
+- pkg:maven/com.google.enterprise.cloudsearch/google-cloudsearch-csv-connector@v1-0.0.3?type=zip
+- pkg:maven/com.google.enterprise.cloudsearch/google-cloudsearch-csv-connector@v1-0.0.4?classifier=sources
+- pkg:maven/com.google.enterprise.cloudsearch/google-cloudsearch-csv-connector@v1-0.0.4?type=zip

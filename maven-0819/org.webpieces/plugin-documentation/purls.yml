@@ -24,3 +24,5 @@
 - pkg:maven/org.webpieces/plugin-documentation@1.9.125?classifier=sources
 - pkg:maven/org.webpieces/plugin-documentation@1.9.126
 - pkg:maven/org.webpieces/plugin-documentation@1.9.126?classifier=sources
+- pkg:maven/org.webpieces/plugin-documentation@1.9.127
+- pkg:maven/org.webpieces/plugin-documentation@1.9.127?classifier=sources

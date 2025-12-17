@@ -1,0 +1,2 @@
+- pkg:maven/com.github.antoniomacri/rosie-pattern-language@1.0.0-alpha-7
+- pkg:maven/com.github.antoniomacri/rosie-pattern-language@1.0.0-alpha-7?classifier=sources

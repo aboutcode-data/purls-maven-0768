@@ -225,6 +225,8 @@
 - pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.1.16?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.1.17
 - pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.1.17?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.1.18
+- pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.1.18?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.1.1?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.1.2
 - pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.1.2?classifier=sources
@@ -256,3 +258,11 @@
 - pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.2.5?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.2.6
 - pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.2.6?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.2.7
+- pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.2.7?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.2.8
+- pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.2.8?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.3.0
+- pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.3.0?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.3.1
+- pkg:maven/org.apache.cxf.systests/cxf-systests-jaxrs@3.3.1?classifier=sources

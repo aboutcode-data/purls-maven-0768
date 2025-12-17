@@ -1,0 +1,10 @@
+- pkg:maven/com.github.UncleCatMySelf/InChat@0.1-alpha
+- pkg:maven/com.github.UncleCatMySelf/InChat@0.1-alpha?classifier=sources
+- pkg:maven/com.github.UncleCatMySelf/InChat@1.0-alpha
+- pkg:maven/com.github.UncleCatMySelf/InChat@1.0-alpha?classifier=sources
+- pkg:maven/com.github.UncleCatMySelf/InChat@1.1.0-alpha
+- pkg:maven/com.github.UncleCatMySelf/InChat@1.1.0-alpha?classifier=sources
+- pkg:maven/com.github.UncleCatMySelf/InChat@1.1.2
+- pkg:maven/com.github.UncleCatMySelf/InChat@1.1.2?classifier=sources
+- pkg:maven/com.github.UncleCatMySelf/InChat@1.1.3
+- pkg:maven/com.github.UncleCatMySelf/InChat@1.1.3?classifier=sources

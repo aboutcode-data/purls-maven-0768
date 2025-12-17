@@ -18,3 +18,5 @@
 - pkg:maven/com.thoughtworks.dsl/keywords-monadic_sjs0.6_2.11@1.0.0-RC20?classifier=sources
 - pkg:maven/com.thoughtworks.dsl/keywords-monadic_sjs0.6_2.11@1.0.0-RC21
 - pkg:maven/com.thoughtworks.dsl/keywords-monadic_sjs0.6_2.11@1.0.0-RC21?classifier=sources
+- pkg:maven/com.thoughtworks.dsl/keywords-monadic_sjs0.6_2.11@1.0.0-RC22
+- pkg:maven/com.thoughtworks.dsl/keywords-monadic_sjs0.6_2.11@1.0.0-RC22?classifier=sources

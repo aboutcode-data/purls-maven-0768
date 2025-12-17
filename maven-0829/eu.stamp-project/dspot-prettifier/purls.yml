@@ -1,0 +1,2 @@
+- pkg:maven/eu.stamp-project/dspot-prettifier@2.0.0
+- pkg:maven/eu.stamp-project/dspot-prettifier@2.0.0?classifier=sources

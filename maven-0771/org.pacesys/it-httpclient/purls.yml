@@ -4,3 +4,4 @@
 - pkg:maven/org.pacesys/it-httpclient@3.0.3
 - pkg:maven/org.pacesys/it-httpclient@3.0.4
 - pkg:maven/org.pacesys/it-httpclient@3.1.0
+- pkg:maven/org.pacesys/it-httpclient@3.2.0

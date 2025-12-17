@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/rc-align@2.3.6?classifier=sources
 - pkg:maven/org.webjars.npm/rc-align@2.4.3
 - pkg:maven/org.webjars.npm/rc-align@2.4.3?classifier=sources
+- pkg:maven/org.webjars.npm/rc-align@2.4.5
+- pkg:maven/org.webjars.npm/rc-align@2.4.5?classifier=sources

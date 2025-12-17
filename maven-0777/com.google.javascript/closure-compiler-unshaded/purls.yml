@@ -56,3 +56,17 @@
 - pkg:maven/com.google.javascript/closure-compiler-unshaded@v20180910?classifier=sources
 - pkg:maven/com.google.javascript/closure-compiler-unshaded@v20181008
 - pkg:maven/com.google.javascript/closure-compiler-unshaded@v20181008?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20181028
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20181028?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20181125
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20181125?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20181210
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20181210?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20190106
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20190106?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20190121
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20190121?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20190215
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20190215?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20190301
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20190301?classifier=sources

@@ -22,3 +22,4 @@
 - pkg:maven/org.apache.geode/geode-web-api@1.6.0?type=war
 - pkg:maven/org.apache.geode/geode-web-api@1.7.0?classifier=sources
 - pkg:maven/org.apache.geode/geode-web-api@1.7.0?type=war
+- pkg:maven/org.apache.geode/geode-web-api@1.8.0

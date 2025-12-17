@@ -86,8 +86,14 @@
 - pkg:maven/org.apache.camel/camel-spring@2.21.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring@2.21.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring@2.21.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring@2.21.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring@2.21.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring@2.22.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring@2.22.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring@2.22.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring@2.22.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring@2.23.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring@2.23.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring@2.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring@2.4.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring@2.5.0?classifier=sources
@@ -114,3 +120,4 @@
 - pkg:maven/org.apache.camel/camel-spring@2.9.6?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring@2.9.7?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring@2.9.8?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring@3.0.0-M1?classifier=sources

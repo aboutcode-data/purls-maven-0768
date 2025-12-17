@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.skywalking/apm-springmvc-annotation-5.x-plugin@6.0.0-GA
+- pkg:maven/org.apache.skywalking/apm-springmvc-annotation-5.x-plugin@6.0.0-GA?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-springmvc-annotation-5.x-plugin@6.0.0-beta
+- pkg:maven/org.apache.skywalking/apm-springmvc-annotation-5.x-plugin@6.0.0-beta?classifier=sources

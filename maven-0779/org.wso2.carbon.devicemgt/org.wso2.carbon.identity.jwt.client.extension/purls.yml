@@ -319,6 +319,10 @@
 - pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.identity.jwt.client.extension@3.1.49?classifier=sources
 - pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.identity.jwt.client.extension@3.1.4?classifier=sources
 - pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.identity.jwt.client.extension@3.1.5
+- pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.identity.jwt.client.extension@3.1.50
+- pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.identity.jwt.client.extension@3.1.50?classifier=sources
+- pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.identity.jwt.client.extension@3.1.51
+- pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.identity.jwt.client.extension@3.1.51?classifier=sources
 - pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.identity.jwt.client.extension@3.1.5?classifier=sources
 - pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.identity.jwt.client.extension@3.1.6
 - pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.identity.jwt.client.extension@3.1.6?classifier=sources

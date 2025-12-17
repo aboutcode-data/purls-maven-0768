@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/babel__plugin-transform-modules-systemjs@7.3.4
+- pkg:maven/org.webjars.npm/babel__plugin-transform-modules-systemjs@7.3.4?classifier=sources

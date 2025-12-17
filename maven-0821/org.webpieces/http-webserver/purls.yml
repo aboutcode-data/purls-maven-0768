@@ -38,6 +38,8 @@
 - pkg:maven/org.webpieces/http-webserver@1.9.125?classifier=sources
 - pkg:maven/org.webpieces/http-webserver@1.9.126
 - pkg:maven/org.webpieces/http-webserver@1.9.126?classifier=sources
+- pkg:maven/org.webpieces/http-webserver@1.9.127
+- pkg:maven/org.webpieces/http-webserver@1.9.127?classifier=sources
 - pkg:maven/org.webpieces/http-webserver@1.9.16
 - pkg:maven/org.webpieces/http-webserver@1.9.16?classifier=sources
 - pkg:maven/org.webpieces/http-webserver@1.9.20

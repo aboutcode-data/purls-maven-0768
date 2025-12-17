@@ -1,2 +1,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-app-starter-metadata-maven-plugin@1.0.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-app-starter-metadata-maven-plugin@1.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-app-starter-metadata-maven-plugin@1.0.1.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-app-starter-metadata-maven-plugin@1.0.1.RELEASE?classifier=sources

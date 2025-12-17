@@ -1,3 +1,5 @@
 - pkg:maven/com.github.veithen.visualwas/connector-tests@1.0.0
 - pkg:maven/com.github.veithen.visualwas/connector-tests@2.0.0
 - pkg:maven/com.github.veithen.visualwas/connector-tests@2.1.0
+- pkg:maven/com.github.veithen.visualwas/connector-tests@2.2.0
+- pkg:maven/com.github.veithen.visualwas/connector-tests@3.0.0

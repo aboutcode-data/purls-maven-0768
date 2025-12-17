@@ -13,3 +13,4 @@
 - pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp-parent@2.0.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp-parent@2.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp-parent@2.0.9?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp-parent@2.1.0?classifier=source-release&type=zip

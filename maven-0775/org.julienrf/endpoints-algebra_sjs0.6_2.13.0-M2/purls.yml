@@ -1,2 +1,4 @@
 - pkg:maven/org.julienrf/endpoints-algebra_sjs0.6_2.13.0-M2@0.7.0
 - pkg:maven/org.julienrf/endpoints-algebra_sjs0.6_2.13.0-M2@0.7.0?classifier=sources
+- pkg:maven/org.julienrf/endpoints-algebra_sjs0.6_2.13.0-M2@0.8.0
+- pkg:maven/org.julienrf/endpoints-algebra_sjs0.6_2.13.0-M2@0.8.0?classifier=sources

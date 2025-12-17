@@ -21,4 +21,10 @@
 - pkg:maven/com.dieusoft.dw/jjfly@1.3.2
 - pkg:maven/com.dieusoft.dw/jjfly@1.3.2?classifier=sources
 - pkg:maven/com.dieusoft.dw/jjfly@1.3.3
+- pkg:maven/com.dieusoft.dw/jjfly@1.3.3.1
+- pkg:maven/com.dieusoft.dw/jjfly@1.3.3.1?classifier=sources
 - pkg:maven/com.dieusoft.dw/jjfly@1.3.3?classifier=sources
+- pkg:maven/com.dieusoft.dw/jjfly@1.3.4
+- pkg:maven/com.dieusoft.dw/jjfly@1.3.4?classifier=sources
+- pkg:maven/com.dieusoft.dw/jjfly@1.5.1
+- pkg:maven/com.dieusoft.dw/jjfly@1.5.1?classifier=sources

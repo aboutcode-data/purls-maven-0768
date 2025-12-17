@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bjansen/sepa-conversion-tool-generator@0.1.1
+- pkg:maven/com.github.bjansen/sepa-conversion-tool-generator@0.1.1?classifier=sources

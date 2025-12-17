@@ -3,3 +3,6 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.security.spnego@1.0.20
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.security.spnego@1.0.21
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.security.spnego@1.0.22
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.security.spnego@1.0.23
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.security.spnego@1.0.24
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.security.spnego@1.0.25

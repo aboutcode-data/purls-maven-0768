@@ -14,3 +14,7 @@
 - pkg:maven/com.alibaba.csb.sdk/http-client@1.1.4.0?classifier=sources
 - pkg:maven/com.alibaba.csb.sdk/http-client@1.1.4.1
 - pkg:maven/com.alibaba.csb.sdk/http-client@1.1.4.1?classifier=sources
+- pkg:maven/com.alibaba.csb.sdk/http-client@1.1.5.1
+- pkg:maven/com.alibaba.csb.sdk/http-client@1.1.5.1?classifier=sources
+- pkg:maven/com.alibaba.csb.sdk/http-client@1.1.5.2
+- pkg:maven/com.alibaba.csb.sdk/http-client@1.1.5.2?classifier=sources

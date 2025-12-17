@@ -7,6 +7,10 @@
 - pkg:maven/org.metaeffekt.dita/ae-common-content@0.12.0?classifier=sources
 - pkg:maven/org.metaeffekt.dita/ae-common-content@0.13.0
 - pkg:maven/org.metaeffekt.dita/ae-common-content@0.13.0?classifier=sources
+- pkg:maven/org.metaeffekt.dita/ae-common-content@0.14.0
+- pkg:maven/org.metaeffekt.dita/ae-common-content@0.14.0?classifier=sources
+- pkg:maven/org.metaeffekt.dita/ae-common-content@0.15.0
+- pkg:maven/org.metaeffekt.dita/ae-common-content@0.15.0?classifier=sources
 - pkg:maven/org.metaeffekt.dita/ae-common-content@0.2.0
 - pkg:maven/org.metaeffekt.dita/ae-common-content@0.3.0
 - pkg:maven/org.metaeffekt.dita/ae-common-content@0.3.0?classifier=sources

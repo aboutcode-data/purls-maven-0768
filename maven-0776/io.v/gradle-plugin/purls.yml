@@ -12,5 +12,7 @@
 - pkg:maven/io.v/gradle-plugin@0.7?classifier=sources
 - pkg:maven/io.v/gradle-plugin@0.9
 - pkg:maven/io.v/gradle-plugin@0.9?classifier=sources
+- pkg:maven/io.v/gradle-plugin@1.10
+- pkg:maven/io.v/gradle-plugin@1.10?classifier=sources
 - pkg:maven/io.v/gradle-plugin@1.7
 - pkg:maven/io.v/gradle-plugin@1.7?classifier=sources

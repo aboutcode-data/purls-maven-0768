@@ -10,3 +10,4 @@
 - pkg:maven/biz.aQute.bnd/biz.aQute.resolve@4.0.0?classifier=sources
 - pkg:maven/biz.aQute.bnd/biz.aQute.resolve@4.1.0
 - pkg:maven/biz.aQute.bnd/biz.aQute.resolve@4.1.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.resolve@4.2.0

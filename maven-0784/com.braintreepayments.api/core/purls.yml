@@ -26,6 +26,12 @@
 - pkg:maven/com.braintreepayments.api/core@2.16.0?type=aar
 - pkg:maven/com.braintreepayments.api/core@2.17.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/core@2.17.0?type=aar
+- pkg:maven/com.braintreepayments.api/core@2.18.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/core@2.18.0?type=aar
+- pkg:maven/com.braintreepayments.api/core@2.18.1?classifier=sources
+- pkg:maven/com.braintreepayments.api/core@2.18.1?type=aar
+- pkg:maven/com.braintreepayments.api/core@2.19.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/core@2.19.0?type=aar
 - pkg:maven/com.braintreepayments.api/core@2.2.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/core@2.2.0?type=aar
 - pkg:maven/com.braintreepayments.api/core@2.2.1?classifier=sources
@@ -38,6 +44,14 @@
 - pkg:maven/com.braintreepayments.api/core@2.2.4?type=aar
 - pkg:maven/com.braintreepayments.api/core@2.2.5?classifier=sources
 - pkg:maven/com.braintreepayments.api/core@2.2.5?type=aar
+- pkg:maven/com.braintreepayments.api/core@2.20.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/core@2.20.0?type=aar
+- pkg:maven/com.braintreepayments.api/core@2.20.1?classifier=sources
+- pkg:maven/com.braintreepayments.api/core@2.20.1?type=aar
+- pkg:maven/com.braintreepayments.api/core@2.21.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/core@2.21.0?type=aar
+- pkg:maven/com.braintreepayments.api/core@2.22.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/core@2.22.0?type=aar
 - pkg:maven/com.braintreepayments.api/core@2.3.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/core@2.3.0?type=aar
 - pkg:maven/com.braintreepayments.api/core@2.3.10?classifier=sources
@@ -102,3 +116,5 @@
 - pkg:maven/com.braintreepayments.api/core@2.8.1?type=aar
 - pkg:maven/com.braintreepayments.api/core@2.9.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/core@2.9.0?type=aar
+- pkg:maven/com.braintreepayments.api/core@3.0.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/core@3.0.0?type=aar

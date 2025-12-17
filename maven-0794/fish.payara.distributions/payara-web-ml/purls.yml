@@ -16,5 +16,7 @@
 - pkg:maven/fish.payara.distributions/payara-web-ml@5.181?classifier=sources
 - pkg:maven/fish.payara.distributions/payara-web-ml@5.182?classifier=sources
 - pkg:maven/fish.payara.distributions/payara-web-ml@5.183?classifier=sources
+- pkg:maven/fish.payara.distributions/payara-web-ml@5.184?classifier=sources
+- pkg:maven/fish.payara.distributions/payara-web-ml@5.191?classifier=sources
 - pkg:maven/fish.payara.distributions/payara-web-ml@5.Beta1?classifier=sources
 - pkg:maven/fish.payara.distributions/payara-web-ml@5.Beta2?classifier=sources

@@ -4,3 +4,13 @@
 - pkg:maven/org.bitbucket.akornilov.kotlin/kotlin-utils@0.3?classifier=sources
 - pkg:maven/org.bitbucket.akornilov.kotlin/kotlin-utils@0.5
 - pkg:maven/org.bitbucket.akornilov.kotlin/kotlin-utils@0.5?classifier=sources
+- pkg:maven/org.bitbucket.akornilov.kotlin/kotlin-utils@0.7
+- pkg:maven/org.bitbucket.akornilov.kotlin/kotlin-utils@0.71
+- pkg:maven/org.bitbucket.akornilov.kotlin/kotlin-utils@0.71?classifier=sources
+- pkg:maven/org.bitbucket.akornilov.kotlin/kotlin-utils@0.73
+- pkg:maven/org.bitbucket.akornilov.kotlin/kotlin-utils@0.73?classifier=sources
+- pkg:maven/org.bitbucket.akornilov.kotlin/kotlin-utils@0.75
+- pkg:maven/org.bitbucket.akornilov.kotlin/kotlin-utils@0.75?classifier=sources
+- pkg:maven/org.bitbucket.akornilov.kotlin/kotlin-utils@0.77
+- pkg:maven/org.bitbucket.akornilov.kotlin/kotlin-utils@0.77?classifier=sources
+- pkg:maven/org.bitbucket.akornilov.kotlin/kotlin-utils@0.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.gruelbox/xchange-bx@4.3.16.1
+- pkg:maven/com.gruelbox/xchange-bx@4.3.16.1?classifier=sources

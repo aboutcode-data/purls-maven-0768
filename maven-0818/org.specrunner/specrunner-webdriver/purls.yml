@@ -268,3 +268,5 @@
 - pkg:maven/org.specrunner/specrunner-webdriver@1.5.15?classifier=sources
 - pkg:maven/org.specrunner/specrunner-webdriver@1.5.16
 - pkg:maven/org.specrunner/specrunner-webdriver@1.5.16?classifier=sources
+- pkg:maven/org.specrunner/specrunner-webdriver@1.5.17
+- pkg:maven/org.specrunner/specrunner-webdriver@1.5.17?classifier=sources

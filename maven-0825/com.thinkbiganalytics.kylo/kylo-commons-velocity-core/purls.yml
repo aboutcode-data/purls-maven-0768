@@ -1,3 +1,5 @@
+- pkg:maven/com.thinkbiganalytics.kylo/kylo-commons-velocity-core@0.10.0
+- pkg:maven/com.thinkbiganalytics.kylo/kylo-commons-velocity-core@0.10.0?classifier=sources
 - pkg:maven/com.thinkbiganalytics.kylo/kylo-commons-velocity-core@0.8.4
 - pkg:maven/com.thinkbiganalytics.kylo/kylo-commons-velocity-core@0.8.4.1
 - pkg:maven/com.thinkbiganalytics.kylo/kylo-commons-velocity-core@0.8.4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.okapi.lib/okapi-lib-persistence@0.35
+- pkg:maven/net.sf.okapi.lib/okapi-lib-persistence@0.35?classifier=sources

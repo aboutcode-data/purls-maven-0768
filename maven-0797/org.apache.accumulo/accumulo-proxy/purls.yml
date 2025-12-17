@@ -48,3 +48,5 @@
 - pkg:maven/org.apache.accumulo/accumulo-proxy@1.9.2?classifier=sources
 - pkg:maven/org.apache.accumulo/accumulo-proxy@2.0.0-alpha-1
 - pkg:maven/org.apache.accumulo/accumulo-proxy@2.0.0-alpha-1?classifier=sources
+- pkg:maven/org.apache.accumulo/accumulo-proxy@2.0.0-alpha-2
+- pkg:maven/org.apache.accumulo/accumulo-proxy@2.0.0-alpha-2?classifier=sources

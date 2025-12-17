@@ -6,3 +6,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.swt@3.106.3
 - pkg:maven/org.eclipse.platform/org.eclipse.swt@3.107.0
 - pkg:maven/org.eclipse.platform/org.eclipse.swt@3.108.0
+- pkg:maven/org.eclipse.platform/org.eclipse.swt@3.109.0

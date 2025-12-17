@@ -54,3 +54,7 @@
 - pkg:maven/com.cedarsoft.annotations/instrumentation@8.5.0?classifier=sources
 - pkg:maven/com.cedarsoft.annotations/instrumentation@8.5.1
 - pkg:maven/com.cedarsoft.annotations/instrumentation@8.5.1?classifier=sources
+- pkg:maven/com.cedarsoft.annotations/instrumentation@8.7.0
+- pkg:maven/com.cedarsoft.annotations/instrumentation@8.7.0?classifier=sources
+- pkg:maven/com.cedarsoft.annotations/instrumentation@8.8.0
+- pkg:maven/com.cedarsoft.annotations/instrumentation@8.8.0?classifier=sources

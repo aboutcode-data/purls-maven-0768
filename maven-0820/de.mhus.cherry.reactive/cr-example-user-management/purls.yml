@@ -2,3 +2,5 @@
 - pkg:maven/de.mhus.cherry.reactive/cr-example-user-management@1.0.0?classifier=sources
 - pkg:maven/de.mhus.cherry.reactive/cr-example-user-management@1.0.1
 - pkg:maven/de.mhus.cherry.reactive/cr-example-user-management@1.0.1?classifier=sources
+- pkg:maven/de.mhus.cherry.reactive/cr-example-user-management@1.0.2
+- pkg:maven/de.mhus.cherry.reactive/cr-example-user-management@1.0.2?classifier=sources

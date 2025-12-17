@@ -1,2 +1,4 @@
 - pkg:maven/io.lsn.spring/system.mapper@1.0.0
 - pkg:maven/io.lsn.spring/system.mapper@1.0.0?classifier=sources
+- pkg:maven/io.lsn.spring/system.mapper@2.2.0
+- pkg:maven/io.lsn.spring/system.mapper@2.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/cn.org.faster/faster-redis@1.0.0.RELEASE
+- pkg:maven/cn.org.faster/faster-redis@1.0.0.RELEASE?classifier=sources
+- pkg:maven/cn.org.faster/faster-redis@1.1.0.RELEASE
+- pkg:maven/cn.org.faster/faster-redis@1.1.0.RELEASE?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.google.code.java-allocation-instrumenter/java-allocation-instrumenter@3.0?classifier=sources
 - pkg:maven/com.google.code.java-allocation-instrumenter/java-allocation-instrumenter@3.1.0
 - pkg:maven/com.google.code.java-allocation-instrumenter/java-allocation-instrumenter@3.1.0?classifier=sources
+- pkg:maven/com.google.code.java-allocation-instrumenter/java-allocation-instrumenter@3.2.0
+- pkg:maven/com.google.code.java-allocation-instrumenter/java-allocation-instrumenter@3.2.0?classifier=sources

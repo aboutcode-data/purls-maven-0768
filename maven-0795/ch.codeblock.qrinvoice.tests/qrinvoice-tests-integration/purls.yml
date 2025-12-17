@@ -1,3 +1,6 @@
 - pkg:maven/ch.codeblock.qrinvoice.tests/qrinvoice-tests-integration@0.7
 - pkg:maven/ch.codeblock.qrinvoice.tests/qrinvoice-tests-integration@0.8
 - pkg:maven/ch.codeblock.qrinvoice.tests/qrinvoice-tests-integration@0.9
+- pkg:maven/ch.codeblock.qrinvoice.tests/qrinvoice-tests-integration@1.0
+- pkg:maven/ch.codeblock.qrinvoice.tests/qrinvoice-tests-integration@1.1
+- pkg:maven/ch.codeblock.qrinvoice.tests/qrinvoice-tests-integration@1.2

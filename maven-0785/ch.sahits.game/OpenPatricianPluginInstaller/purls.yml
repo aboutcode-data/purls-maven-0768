@@ -1,0 +1,6 @@
+- pkg:maven/ch.sahits.game/OpenPatricianPluginInstaller@1.0.0
+- pkg:maven/ch.sahits.game/OpenPatricianPluginInstaller@1.0.0?classifier=sources
+- pkg:maven/ch.sahits.game/OpenPatricianPluginInstaller@1.0.0_RC3
+- pkg:maven/ch.sahits.game/OpenPatricianPluginInstaller@1.0.0_RC3?classifier=sources
+- pkg:maven/ch.sahits.game/OpenPatricianPluginInstaller@1.0.1
+- pkg:maven/ch.sahits.game/OpenPatricianPluginInstaller@1.0.1?classifier=sources

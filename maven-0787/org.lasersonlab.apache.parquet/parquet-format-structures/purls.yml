@@ -1,0 +1,2 @@
+- pkg:maven/org.lasersonlab.apache.parquet/parquet-format-structures@1.12.0
+- pkg:maven/org.lasersonlab.apache.parquet/parquet-format-structures@1.12.0?classifier=sources

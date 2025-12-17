@@ -10,6 +10,8 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-example-itests@2.3.0.redhat-621159?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-example-itests@2.3.0.redhat-621169
 - pkg:maven/org.wildfly.camel/wildfly-camel-example-itests@2.3.0.redhat-621169?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-example-itests@2.3.0.redhat-621177
+- pkg:maven/org.wildfly.camel/wildfly-camel-example-itests@2.3.0.redhat-621177?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-example-itests@2.3.0.redhat-621186
 - pkg:maven/org.wildfly.camel/wildfly-camel-example-itests@2.3.0.redhat-621186?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-example-itests@2.3.0.redhat-621211

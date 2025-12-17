@@ -1,0 +1,2 @@
+- pkg:maven/org.snf4j/snf4j-core-log4j2@1.2.0
+- pkg:maven/org.snf4j/snf4j-core-log4j2@1.2.0?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/org.apache.rocketmq/rocketmq-all@4.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.rocketmq/rocketmq-all@4.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.rocketmq/rocketmq-all@4.3.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.rocketmq/rocketmq-all@4.3.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.rocketmq/rocketmq-all@4.4.0?classifier=source-release&type=zip

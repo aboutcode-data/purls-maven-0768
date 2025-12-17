@@ -26,6 +26,10 @@
 - pkg:maven/com.bluecirclesoft.open/json-typescript-generator@0.23?classifier=sources
 - pkg:maven/com.bluecirclesoft.open/json-typescript-generator@0.24
 - pkg:maven/com.bluecirclesoft.open/json-typescript-generator@0.24?classifier=sources
+- pkg:maven/com.bluecirclesoft.open/json-typescript-generator@0.25
+- pkg:maven/com.bluecirclesoft.open/json-typescript-generator@0.25?classifier=sources
+- pkg:maven/com.bluecirclesoft.open/json-typescript-generator@0.27
+- pkg:maven/com.bluecirclesoft.open/json-typescript-generator@0.27?classifier=sources
 - pkg:maven/com.bluecirclesoft.open/json-typescript-generator@0.3
 - pkg:maven/com.bluecirclesoft.open/json-typescript-generator@0.3?classifier=sources
 - pkg:maven/com.bluecirclesoft.open/json-typescript-generator@0.4

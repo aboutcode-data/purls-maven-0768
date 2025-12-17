@@ -10,3 +10,4 @@
 - pkg:maven/org.softcatala/catalan-pos-dict@1.9
 - pkg:maven/org.softcatala/catalan-pos-dict@2.0
 - pkg:maven/org.softcatala/catalan-pos-dict@2.1
+- pkg:maven/org.softcatala/catalan-pos-dict@2.2

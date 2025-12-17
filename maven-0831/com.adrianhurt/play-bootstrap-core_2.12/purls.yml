@@ -4,3 +4,5 @@
 - pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.2-P26-RC2
 - pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.2-P26-RC2?classifier=sources
 - pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.2-P26?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.4-P26
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.4-P26?classifier=sources

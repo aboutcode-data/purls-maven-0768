@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.tomee.patch/bval-jsr@2.0.0-nonfinal-57300f3
 - pkg:maven/org.apache.tomee.patch/bval-jsr@2.0.0-nonfinal-57300f3?classifier=sources
+- pkg:maven/org.apache.tomee.patch/bval-jsr@2.0.1-83f28d8
+- pkg:maven/org.apache.tomee.patch/bval-jsr@2.0.1-83f28d8?classifier=sources

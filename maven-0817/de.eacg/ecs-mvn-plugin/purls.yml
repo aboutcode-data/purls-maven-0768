@@ -8,3 +8,5 @@
 - pkg:maven/de.eacg/ecs-mvn-plugin@0.1.5
 - pkg:maven/de.eacg/ecs-mvn-plugin@0.1.6
 - pkg:maven/de.eacg/ecs-mvn-plugin@0.1.7
+- pkg:maven/de.eacg/ecs-mvn-plugin@0.1.8
+- pkg:maven/de.eacg/ecs-mvn-plugin@0.1.9

@@ -4,3 +4,5 @@
 - pkg:maven/com.cjoop/boot-tools@1.5.12.RELEASE?classifier=sources
 - pkg:maven/com.cjoop/boot-tools@1.5.14.RELEASE
 - pkg:maven/com.cjoop/boot-tools@1.5.14.RELEASE?classifier=sources
+- pkg:maven/com.cjoop/boot-tools@1.5.19.RELEASE
+- pkg:maven/com.cjoop/boot-tools@1.5.19.RELEASE?classifier=sources

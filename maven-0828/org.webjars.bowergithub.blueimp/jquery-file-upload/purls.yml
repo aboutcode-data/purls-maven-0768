@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bowergithub.blueimp/jquery-file-upload@9.21.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.blueimp/jquery-file-upload@9.22.0
 - pkg:maven/org.webjars.bowergithub.blueimp/jquery-file-upload@9.22.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.blueimp/jquery-file-upload@9.28.0
+- pkg:maven/org.webjars.bowergithub.blueimp/jquery-file-upload@9.28.0?classifier=sources

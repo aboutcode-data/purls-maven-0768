@@ -5,3 +5,4 @@
 - pkg:maven/io.smartup.zipkin/zipkin-datadog-reporter-starter@1.0.5
 - pkg:maven/io.smartup.zipkin/zipkin-datadog-reporter-starter@1.0.6
 - pkg:maven/io.smartup.zipkin/zipkin-datadog-reporter-starter@1.0.7
+- pkg:maven/io.smartup.zipkin/zipkin-datadog-reporter-starter@1.0.9

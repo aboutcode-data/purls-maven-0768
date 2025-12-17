@@ -100,3 +100,5 @@
 - pkg:maven/com.netflix.dyno/dyno-redisson@1.6.4-rc.2
 - pkg:maven/com.netflix.dyno/dyno-redisson@1.6.4-rc.2?classifier=sources
 - pkg:maven/com.netflix.dyno/dyno-redisson@1.6.4?classifier=sources
+- pkg:maven/com.netflix.dyno/dyno-redisson@1.6.5
+- pkg:maven/com.netflix.dyno/dyno-redisson@1.6.5?classifier=sources

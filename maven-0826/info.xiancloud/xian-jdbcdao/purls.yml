@@ -1,0 +1,2 @@
+- pkg:maven/info.xiancloud/xian-jdbcdao@0.2.1
+- pkg:maven/info.xiancloud/xian-jdbcdao@0.2.1?classifier=sources

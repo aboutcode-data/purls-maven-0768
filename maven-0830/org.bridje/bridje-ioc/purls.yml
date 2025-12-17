@@ -111,6 +111,8 @@
 - pkg:maven/org.bridje/bridje-ioc@0.6.0-beta1
 - pkg:maven/org.bridje/bridje-ioc@0.6.0-beta10
 - pkg:maven/org.bridje/bridje-ioc@0.6.0-beta10?classifier=sources
+- pkg:maven/org.bridje/bridje-ioc@0.6.0-beta11
+- pkg:maven/org.bridje/bridje-ioc@0.6.0-beta11?classifier=sources
 - pkg:maven/org.bridje/bridje-ioc@0.6.0-beta1?classifier=sources
 - pkg:maven/org.bridje/bridje-ioc@0.6.0-beta2
 - pkg:maven/org.bridje/bridje-ioc@0.6.0-beta2?classifier=sources

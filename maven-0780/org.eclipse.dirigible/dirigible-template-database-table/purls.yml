@@ -38,3 +38,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-template-database-table@3.2.7?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-template-database-table@3.2.8
 - pkg:maven/org.eclipse.dirigible/dirigible-template-database-table@3.2.8?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-template-database-table@3.3.0
+- pkg:maven/org.eclipse.dirigible/dirigible-template-database-table@3.3.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-template-database-table@3.3.1
+- pkg:maven/org.eclipse.dirigible/dirigible-template-database-table@3.3.1?classifier=sources

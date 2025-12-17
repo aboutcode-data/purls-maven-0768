@@ -9,3 +9,5 @@
 - pkg:maven/me.kagura/jjsoup-spring-boot-starter@0.1.7?classifier=sources
 - pkg:maven/me.kagura/jjsoup-spring-boot-starter@0.1.8
 - pkg:maven/me.kagura/jjsoup-spring-boot-starter@0.1.8?classifier=sources
+- pkg:maven/me.kagura/jjsoup-spring-boot-starter@0.1.9
+- pkg:maven/me.kagura/jjsoup-spring-boot-starter@0.1.9?classifier=sources

@@ -12,3 +12,11 @@
 - pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.12@0.3.2-M1
 - pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.12@0.3.2-M1?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.12@0.3.2?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.12@0.4.0
+- pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.12@0.4.0-M1
+- pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.12@0.4.0-M1?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.12@0.4.0-M2
+- pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.12@0.4.0-M2?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.12@0.4.0?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.12@0.4.1
+- pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.12@0.4.1?classifier=sources

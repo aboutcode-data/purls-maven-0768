@@ -1,0 +1,2 @@
+- pkg:maven/org.hibernate.orm/hibernate-proxool@6.0.0.Alpha1
+- pkg:maven/org.hibernate.orm/hibernate-proxool@6.0.0.Alpha1?classifier=sources

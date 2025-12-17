@@ -1,0 +1,2 @@
+- pkg:maven/br.com.c8tech.tools/osgi-container-maven-plugin@0.6.0?classifier=sources
+- pkg:maven/br.com.c8tech.tools/osgi-container-maven-plugin@0.6.2?classifier=sources

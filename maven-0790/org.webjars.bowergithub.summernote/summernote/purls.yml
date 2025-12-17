@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.summernote/summernote@0.8.10
+- pkg:maven/org.webjars.bowergithub.summernote/summernote@0.8.10?classifier=sources
+- pkg:maven/org.webjars.bowergithub.summernote/summernote@0.8.8
+- pkg:maven/org.webjars.bowergithub.summernote/summernote@0.8.8?classifier=sources

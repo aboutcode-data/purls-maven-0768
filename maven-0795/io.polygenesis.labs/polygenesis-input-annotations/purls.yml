@@ -1,0 +1,2 @@
+- pkg:maven/io.polygenesis.labs/polygenesis-input-annotations@0.0.4
+- pkg:maven/io.polygenesis.labs/polygenesis-input-annotations@0.0.4?classifier=sources

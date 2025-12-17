@@ -1,0 +1,4 @@
+- pkg:maven/io.github.transcendent-ai-labs/dynaml-pipes_2.11@v1.5.2
+- pkg:maven/io.github.transcendent-ai-labs/dynaml-pipes_2.11@v1.5.2?classifier=sources
+- pkg:maven/io.github.transcendent-ai-labs/dynaml-pipes_2.11@v1.5.3
+- pkg:maven/io.github.transcendent-ai-labs/dynaml-pipes_2.11@v1.5.3?classifier=sources

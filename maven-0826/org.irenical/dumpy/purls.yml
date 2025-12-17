@@ -24,3 +24,5 @@
 - pkg:maven/org.irenical/dumpy@1.0.2?classifier=sources
 - pkg:maven/org.irenical/dumpy@1.0.3
 - pkg:maven/org.irenical/dumpy@1.0.3?classifier=sources
+- pkg:maven/org.irenical/dumpy@1.0.4
+- pkg:maven/org.irenical/dumpy@1.0.4?classifier=sources

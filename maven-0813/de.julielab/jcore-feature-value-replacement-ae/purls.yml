@@ -1,4 +1,12 @@
 - pkg:maven/de.julielab/jcore-feature-value-replacement-ae@2.3.0
 - pkg:maven/de.julielab/jcore-feature-value-replacement-ae@2.3.0?classifier=sources
 - pkg:maven/de.julielab/jcore-feature-value-replacement-ae@2.3.1
+- pkg:maven/de.julielab/jcore-feature-value-replacement-ae@2.3.10
+- pkg:maven/de.julielab/jcore-feature-value-replacement-ae@2.3.10?classifier=sources
 - pkg:maven/de.julielab/jcore-feature-value-replacement-ae@2.3.1?classifier=sources
+- pkg:maven/de.julielab/jcore-feature-value-replacement-ae@2.3.2
+- pkg:maven/de.julielab/jcore-feature-value-replacement-ae@2.3.2?classifier=sources
+- pkg:maven/de.julielab/jcore-feature-value-replacement-ae@2.3.3
+- pkg:maven/de.julielab/jcore-feature-value-replacement-ae@2.3.3?classifier=sources
+- pkg:maven/de.julielab/jcore-feature-value-replacement-ae@2.3.8
+- pkg:maven/de.julielab/jcore-feature-value-replacement-ae@2.3.8?classifier=sources

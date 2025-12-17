@@ -1,2 +1,4 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-karaf-integration-tests@3.3.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-karaf-integration-tests@3.4.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-karaf-integration-tests@3.6.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-karaf-integration-tests@3.7.0

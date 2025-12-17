@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.jmeter/ApacheJMeter_components@4.0?classifier=sources
 - pkg:maven/org.apache.jmeter/ApacheJMeter_components@5.0
 - pkg:maven/org.apache.jmeter/ApacheJMeter_components@5.0?classifier=sources
+- pkg:maven/org.apache.jmeter/ApacheJMeter_components@5.1
+- pkg:maven/org.apache.jmeter/ApacheJMeter_components@5.1?classifier=sources

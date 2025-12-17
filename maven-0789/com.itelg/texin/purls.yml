@@ -6,3 +6,7 @@
 - pkg:maven/com.itelg/texin@0.3.2-RELEASE?classifier=sources
 - pkg:maven/com.itelg/texin@0.3.3-RELEASE
 - pkg:maven/com.itelg/texin@0.3.3-RELEASE?classifier=sources
+- pkg:maven/com.itelg/texin@0.4.0-RELEASE
+- pkg:maven/com.itelg/texin@0.4.0-RELEASE?classifier=sources
+- pkg:maven/com.itelg/texin@0.5.0-RELEASE
+- pkg:maven/com.itelg/texin@0.5.0-RELEASE?classifier=sources

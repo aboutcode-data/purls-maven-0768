@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-arc@0.11.0
+- pkg:maven/io.quarkus/quarkus-arc@0.11.0?classifier=sources

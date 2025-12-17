@@ -1,0 +1,2 @@
+- pkg:maven/fr.brouillard.oss.com.github.petitparser/petitparser-core@2.1.0-jgitver
+- pkg:maven/fr.brouillard.oss.com.github.petitparser/petitparser-core@2.1.0-jgitver?classifier=sources

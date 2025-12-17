@@ -1,0 +1,2 @@
+- pkg:maven/io.polygenesis.labs/polygenesis-creator@0.0.4
+- pkg:maven/io.polygenesis.labs/polygenesis-creator@0.0.4?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/org.wso2.carbon.identity.carbon.auth.saml2/org.wso2.carbon.identity.authenticator.saml2.sso@5.2.11?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.carbon.auth.saml2/org.wso2.carbon.identity.authenticator.saml2.sso@5.2.12
 - pkg:maven/org.wso2.carbon.identity.carbon.auth.saml2/org.wso2.carbon.identity.authenticator.saml2.sso@5.2.12?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.carbon.auth.saml2/org.wso2.carbon.identity.authenticator.saml2.sso@5.2.13
+- pkg:maven/org.wso2.carbon.identity.carbon.auth.saml2/org.wso2.carbon.identity.authenticator.saml2.sso@5.2.13?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.carbon.auth.saml2/org.wso2.carbon.identity.authenticator.saml2.sso@5.2.5
 - pkg:maven/org.wso2.carbon.identity.carbon.auth.saml2/org.wso2.carbon.identity.authenticator.saml2.sso@5.2.5?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.carbon.auth.saml2/org.wso2.carbon.identity.authenticator.saml2.sso@5.2.6

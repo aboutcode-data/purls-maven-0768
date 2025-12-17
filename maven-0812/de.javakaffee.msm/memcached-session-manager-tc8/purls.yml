@@ -34,3 +34,7 @@
 - pkg:maven/de.javakaffee.msm/memcached-session-manager-tc8@2.2.0?classifier=sources
 - pkg:maven/de.javakaffee.msm/memcached-session-manager-tc8@2.3.0
 - pkg:maven/de.javakaffee.msm/memcached-session-manager-tc8@2.3.0?classifier=sources
+- pkg:maven/de.javakaffee.msm/memcached-session-manager-tc8@2.3.2
+- pkg:maven/de.javakaffee.msm/memcached-session-manager-tc8@2.3.2?classifier=sources
+- pkg:maven/de.javakaffee.msm/memcached-session-manager-tc8@y
+- pkg:maven/de.javakaffee.msm/memcached-session-manager-tc8@y?classifier=sources

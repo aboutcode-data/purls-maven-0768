@@ -4,3 +4,5 @@
 - pkg:maven/org.wso2.org.apache.shindig/sample-maven-archetype@2.5.2-wso2v4?classifier=sources
 - pkg:maven/org.wso2.org.apache.shindig/sample-maven-archetype@2.5.2-wso2v5?classifier=sources
 - pkg:maven/org.wso2.org.apache.shindig/sample-maven-archetype@2.5.2-wso2v6?classifier=sources
+- pkg:maven/org.wso2.org.apache.shindig/sample-maven-archetype@2.5.2-wso2v7?classifier=sources
+- pkg:maven/org.wso2.org.apache.shindig/sample-maven-archetype@2.5.2-wso2v8?classifier=sources

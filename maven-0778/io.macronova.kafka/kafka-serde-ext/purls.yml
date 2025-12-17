@@ -1,0 +1,2 @@
+- pkg:maven/io.macronova.kafka/kafka-serde-ext@1.0.0
+- pkg:maven/io.macronova.kafka/kafka-serde-ext@1.0.0?classifier=sources

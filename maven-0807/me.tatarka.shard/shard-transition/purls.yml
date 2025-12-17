@@ -1,0 +1,4 @@
+- pkg:maven/me.tatarka.shard/shard-transition@1.0.0-alpha03?classifier=sources
+- pkg:maven/me.tatarka.shard/shard-transition@1.0.0-alpha03?type=aar
+- pkg:maven/me.tatarka.shard/shard-transition@1.0.0-alpha04?classifier=sources
+- pkg:maven/me.tatarka.shard/shard-transition@1.0.0-alpha04?type=aar

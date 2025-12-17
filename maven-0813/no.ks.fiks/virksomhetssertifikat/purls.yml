@@ -1,0 +1,2 @@
+- pkg:maven/no.ks.fiks/virksomhetssertifikat@1.0.10
+- pkg:maven/no.ks.fiks/virksomhetssertifikat@1.0.10?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/io.scalecube/scalecube-examples-runner@2.0.23?classifier=sources
 - pkg:maven/io.scalecube/scalecube-examples-runner@2.0.24
 - pkg:maven/io.scalecube/scalecube-examples-runner@2.0.24?classifier=sources
+- pkg:maven/io.scalecube/scalecube-examples-runner@2.0.25
+- pkg:maven/io.scalecube/scalecube-examples-runner@2.0.25?classifier=sources

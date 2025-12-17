@@ -1,0 +1,6 @@
+- pkg:maven/com.github.workhelpers/basehelper@0.0.0
+- pkg:maven/com.github.workhelpers/basehelper@0.0.0-TrialEdition
+- pkg:maven/com.github.workhelpers/basehelper@0.0.0-TrialEdition?classifier=sources
+- pkg:maven/com.github.workhelpers/basehelper@0.0.0?classifier=sources
+- pkg:maven/com.github.workhelpers/basehelper@0.0.1
+- pkg:maven/com.github.workhelpers/basehelper@0.0.1?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/io.mathan.maven/mathan-latex-maven-plugin@0.9.0
 - pkg:maven/io.mathan.maven/mathan-latex-maven-plugin@0.9.0?classifier=sources
+- pkg:maven/io.mathan.maven/mathan-latex-maven-plugin@1.0.0
+- pkg:maven/io.mathan.maven/mathan-latex-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/io.mathan.maven/mathan-latex-maven-plugin@1.0.1
+- pkg:maven/io.mathan.maven/mathan-latex-maven-plugin@1.0.1?classifier=sources

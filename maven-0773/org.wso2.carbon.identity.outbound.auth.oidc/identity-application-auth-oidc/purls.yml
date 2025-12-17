@@ -6,6 +6,7 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.oidc/identity-application-auth-oidc@5.1.15?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.oidc/identity-application-auth-oidc@5.1.16?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.oidc/identity-application-auth-oidc@5.1.17?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.oidc/identity-application-auth-oidc@5.1.18?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.oidc/identity-application-auth-oidc@5.1.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.oidc/identity-application-auth-oidc@5.1.6?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.oidc/identity-application-auth-oidc@5.1.7?classifier=source-release&type=zip

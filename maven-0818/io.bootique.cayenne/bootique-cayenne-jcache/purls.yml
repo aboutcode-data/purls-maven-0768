@@ -8,3 +8,5 @@
 - pkg:maven/io.bootique.cayenne/bootique-cayenne-jcache@0.24?classifier=sources
 - pkg:maven/io.bootique.cayenne/bootique-cayenne-jcache@0.25
 - pkg:maven/io.bootique.cayenne/bootique-cayenne-jcache@0.25?classifier=sources
+- pkg:maven/io.bootique.cayenne/bootique-cayenne-jcache@1.0.RC1
+- pkg:maven/io.bootique.cayenne/bootique-cayenne-jcache@1.0.RC1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.fudaa.framework.ebli/ebli-graphe@1.0.1
 - pkg:maven/org.fudaa.framework.ebli/ebli-graphe@1.0.1?classifier=sources
 - pkg:maven/org.fudaa.framework.ebli/ebli-graphe@1.0?classifier=sources
+- pkg:maven/org.fudaa.framework.ebli/ebli-graphe@2.0
+- pkg:maven/org.fudaa.framework.ebli/ebli-graphe@2.0?classifier=sources

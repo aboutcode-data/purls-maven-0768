@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.metamodel/MetaModel@5.1.0-RC1?classifier=source-release&type=zip
 - pkg:maven/org.apache.metamodel/MetaModel@5.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.metamodel/MetaModel@5.1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.metamodel/MetaModel@5.2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.metamodel/MetaModel@5.2.1?classifier=source-release&type=zip

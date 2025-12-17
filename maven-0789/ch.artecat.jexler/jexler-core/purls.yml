@@ -1,0 +1,4 @@
+- pkg:maven/ch.artecat.jexler/jexler-core@4.0.0
+- pkg:maven/ch.artecat.jexler/jexler-core@4.0.0?classifier=sources
+- pkg:maven/ch.artecat.jexler/jexler-core@4.0.1
+- pkg:maven/ch.artecat.jexler/jexler-core@4.0.1?classifier=sources

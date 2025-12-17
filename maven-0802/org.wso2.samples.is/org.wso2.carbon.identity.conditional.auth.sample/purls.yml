@@ -6,3 +6,7 @@
 - pkg:maven/org.wso2.samples.is/org.wso2.carbon.identity.conditional.auth.sample@2.0.0-m3
 - pkg:maven/org.wso2.samples.is/org.wso2.carbon.identity.conditional.auth.sample@2.0.0-m3?classifier=sources
 - pkg:maven/org.wso2.samples.is/org.wso2.carbon.identity.conditional.auth.sample@2.0.0?classifier=sources
+- pkg:maven/org.wso2.samples.is/org.wso2.carbon.identity.conditional.auth.sample@3.0.0-m1
+- pkg:maven/org.wso2.samples.is/org.wso2.carbon.identity.conditional.auth.sample@3.0.0-m1?classifier=sources
+- pkg:maven/org.wso2.samples.is/org.wso2.carbon.identity.conditional.auth.sample@4.0.0
+- pkg:maven/org.wso2.samples.is/org.wso2.carbon.identity.conditional.auth.sample@4.0.0?classifier=sources

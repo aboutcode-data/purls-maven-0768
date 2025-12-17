@@ -1,0 +1,4 @@
+- pkg:maven/com.github.liuzhongkai/spider-boot-bean@2.3.0-RELEASE
+- pkg:maven/com.github.liuzhongkai/spider-boot-bean@2.3.0-RELEASE?classifier=sources
+- pkg:maven/com.github.liuzhongkai/spider-boot-bean@2.3.1-RELEASE
+- pkg:maven/com.github.liuzhongkai/spider-boot-bean@2.3.1-RELEASE?classifier=sources

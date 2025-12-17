@@ -18,3 +18,7 @@
 - pkg:maven/com.jesus-crie/modularbot-base@2.3.3_17?classifier=sources
 - pkg:maven/com.jesus-crie/modularbot-base@2.3.4_18
 - pkg:maven/com.jesus-crie/modularbot-base@2.3.4_18?classifier=sources
+- pkg:maven/com.jesus-crie/modularbot-base@2.3.4_19
+- pkg:maven/com.jesus-crie/modularbot-base@2.3.4_19?classifier=sources
+- pkg:maven/com.jesus-crie/modularbot-base@2.4.0_20
+- pkg:maven/com.jesus-crie/modularbot-base@2.4.0_20?classifier=sources

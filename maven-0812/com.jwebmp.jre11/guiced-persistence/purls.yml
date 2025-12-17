@@ -1,2 +1,4 @@
 - pkg:maven/com.jwebmp.jre11/guiced-persistence@0.60.0.1
 - pkg:maven/com.jwebmp.jre11/guiced-persistence@0.60.0.1?classifier=sources
+- pkg:maven/com.jwebmp.jre11/guiced-persistence@0.62.0.1
+- pkg:maven/com.jwebmp.jre11/guiced-persistence@0.62.0.1?classifier=sources

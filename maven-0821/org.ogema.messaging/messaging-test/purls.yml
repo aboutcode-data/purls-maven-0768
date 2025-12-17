@@ -1,0 +1,2 @@
+- pkg:maven/org.ogema.messaging/messaging-test@2.2.0
+- pkg:maven/org.ogema.messaging/messaging-test@2.2.0?classifier=sources

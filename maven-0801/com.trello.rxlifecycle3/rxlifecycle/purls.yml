@@ -1,0 +1,2 @@
+- pkg:maven/com.trello.rxlifecycle3/rxlifecycle@3.0.0
+- pkg:maven/com.trello.rxlifecycle3/rxlifecycle@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.paddypowerbetfair.springframework/spring-security-saml-keys-rollover@1.0.2
+- pkg:maven/com.paddypowerbetfair.springframework/spring-security-saml-keys-rollover@1.0.2?classifier=sources

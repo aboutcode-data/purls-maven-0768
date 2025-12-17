@@ -1,0 +1,2 @@
+- pkg:maven/de.mpg.mpi-inf.ambiversenlu/knowner-models@1.0
+- pkg:maven/de.mpg.mpi-inf.ambiversenlu/knowner-models@1.0?classifier=sources

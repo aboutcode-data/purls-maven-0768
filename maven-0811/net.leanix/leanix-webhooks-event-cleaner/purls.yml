@@ -4,3 +4,5 @@
 - pkg:maven/net.leanix/leanix-webhooks-event-cleaner@0.1.1?classifier=sources
 - pkg:maven/net.leanix/leanix-webhooks-event-cleaner@0.2.0
 - pkg:maven/net.leanix/leanix-webhooks-event-cleaner@0.2.0?classifier=sources
+- pkg:maven/net.leanix/leanix-webhooks-event-cleaner@0.3.0
+- pkg:maven/net.leanix/leanix-webhooks-event-cleaner@0.3.0?classifier=sources

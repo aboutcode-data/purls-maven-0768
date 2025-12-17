@@ -49,3 +49,5 @@
 - pkg:maven/com.geirsson/scalafmt-core_2.12@1.6.0-RC3?classifier=sources
 - pkg:maven/com.geirsson/scalafmt-core_2.12@1.6.0-RC4
 - pkg:maven/com.geirsson/scalafmt-core_2.12@1.6.0-RC4?classifier=sources
+- pkg:maven/com.geirsson/scalafmt-core_2.12@2.0.0-RC1
+- pkg:maven/com.geirsson/scalafmt-core_2.12@2.0.0-RC1?classifier=sources

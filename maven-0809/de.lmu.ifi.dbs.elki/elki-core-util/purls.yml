@@ -1,0 +1,2 @@
+- pkg:maven/de.lmu.ifi.dbs.elki/elki-core-util@0.7.5
+- pkg:maven/de.lmu.ifi.dbs.elki/elki-core-util@0.7.5?classifier=sources

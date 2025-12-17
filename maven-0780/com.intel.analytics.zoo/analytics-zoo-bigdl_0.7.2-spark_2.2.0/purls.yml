@@ -1,0 +1,2 @@
+- pkg:maven/com.intel.analytics.zoo/analytics-zoo-bigdl_0.7.2-spark_2.2.0@0.4.0
+- pkg:maven/com.intel.analytics.zoo/analytics-zoo-bigdl_0.7.2-spark_2.2.0@0.4.0?classifier=sources

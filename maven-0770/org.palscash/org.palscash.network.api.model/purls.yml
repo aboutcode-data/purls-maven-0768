@@ -1,0 +1,2 @@
+- pkg:maven/org.palscash/org.palscash.network.api.model@2.0
+- pkg:maven/org.palscash/org.palscash.network.api.model@2.0?classifier=sources

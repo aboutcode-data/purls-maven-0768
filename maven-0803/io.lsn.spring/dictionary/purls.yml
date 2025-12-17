@@ -1,2 +1,4 @@
 - pkg:maven/io.lsn.spring/dictionary@1.0.0
 - pkg:maven/io.lsn.spring/dictionary@1.0.0?classifier=sources
+- pkg:maven/io.lsn.spring/dictionary@2.2.0
+- pkg:maven/io.lsn.spring/dictionary@2.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.fudaa.business.dodico-h2d/h2d-core@2.0
+- pkg:maven/org.fudaa.business.dodico-h2d/h2d-core@2.0?classifier=sources

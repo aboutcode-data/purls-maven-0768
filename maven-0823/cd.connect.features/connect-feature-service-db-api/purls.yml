@@ -1,0 +1,2 @@
+- pkg:maven/cd.connect.features/connect-feature-service-db-api@1.1
+- pkg:maven/cd.connect.features/connect-feature-service-db-api@1.1?classifier=sources

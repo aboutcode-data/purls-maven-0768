@@ -57,3 +57,6 @@
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.4.78
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.4.79
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.4.80
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.4.81
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.4.82
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.4.83

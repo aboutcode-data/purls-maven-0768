@@ -50,3 +50,9 @@
 - pkg:maven/org.apache.lucene/lucene-spatial-extras@7.4.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-spatial-extras@7.5.0
 - pkg:maven/org.apache.lucene/lucene-spatial-extras@7.5.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-spatial-extras@7.6.0
+- pkg:maven/org.apache.lucene/lucene-spatial-extras@7.6.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-spatial-extras@7.7.0
+- pkg:maven/org.apache.lucene/lucene-spatial-extras@7.7.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-spatial-extras@7.7.1
+- pkg:maven/org.apache.lucene/lucene-spatial-extras@7.7.1?classifier=sources

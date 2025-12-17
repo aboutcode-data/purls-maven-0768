@@ -1,2 +1,4 @@
 - pkg:maven/de.mhus.osgi/mhu-transform-pdf@1.1.0
 - pkg:maven/de.mhus.osgi/mhu-transform-pdf@1.1.1
+- pkg:maven/de.mhus.osgi/mhu-transform-pdf@1.1.2
+- pkg:maven/de.mhus.osgi/mhu-transform-pdf@1.5.0

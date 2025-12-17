@@ -110,3 +110,11 @@
 - pkg:maven/net.anotheria/moskito-web@2.8.6?classifier=sources
 - pkg:maven/net.anotheria/moskito-web@2.8.7
 - pkg:maven/net.anotheria/moskito-web@2.8.7?classifier=sources
+- pkg:maven/net.anotheria/moskito-web@2.8.8
+- pkg:maven/net.anotheria/moskito-web@2.8.8?classifier=sources
+- pkg:maven/net.anotheria/moskito-web@2.8.9
+- pkg:maven/net.anotheria/moskito-web@2.8.9?classifier=sources
+- pkg:maven/net.anotheria/moskito-web@2.9.0
+- pkg:maven/net.anotheria/moskito-web@2.9.0?classifier=sources
+- pkg:maven/net.anotheria/moskito-web@2.9.1
+- pkg:maven/net.anotheria/moskito-web@2.9.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.1-B1?type=war
 - pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.1-B3?type=war
 - pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.1-B4?type=war
+- pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.1?type=war
+- pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.2?type=war

@@ -30,3 +30,5 @@
 - pkg:maven/net.donky/donky-module-messaging-ui@2.7.0.7?type=aar
 - pkg:maven/net.donky/donky-module-messaging-ui@2.7.0.8?classifier=sources
 - pkg:maven/net.donky/donky-module-messaging-ui@2.7.0.8?type=aar
+- pkg:maven/net.donky/donky-module-messaging-ui@2.8.0.0?classifier=sources
+- pkg:maven/net.donky/donky-module-messaging-ui@2.8.0.0?type=aar

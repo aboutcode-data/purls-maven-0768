@@ -1,0 +1,6 @@
+- pkg:maven/io.prestosql/presto-thrift@300?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift@301?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift@302?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift@303?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift@304?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift@305?classifier=sources

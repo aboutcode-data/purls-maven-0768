@@ -14,3 +14,7 @@
 - pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi@4.0.0?classifier=sources
 - pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi@4.1.0
 - pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi@4.1.0?classifier=sources
+- pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi@5.0.0
+- pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi@5.0.0?classifier=sources
+- pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi@5.1.0
+- pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi@5.1.0?classifier=sources

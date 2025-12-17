@@ -30,3 +30,5 @@
 - pkg:maven/com.diffplug.durian/durian-swt@3.0.0.BETA3?classifier=sources
 - pkg:maven/com.diffplug.durian/durian-swt@3.0.0.BETA?classifier=sources
 - pkg:maven/com.diffplug.durian/durian-swt@3.0.0?classifier=sources
+- pkg:maven/com.diffplug.durian/durian-swt@3.1.0
+- pkg:maven/com.diffplug.durian/durian-swt@3.1.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.bower/tether-shepherd@2.0.0-beta.26?classifier=sources
 - pkg:maven/org.webjars.bower/tether-shepherd@2.0.0-beta.32
 - pkg:maven/org.webjars.bower/tether-shepherd@2.0.0-beta.32?classifier=sources
+- pkg:maven/org.webjars.bower/tether-shepherd@2.0.1
+- pkg:maven/org.webjars.bower/tether-shepherd@2.0.1?classifier=sources

@@ -1,3 +1,9 @@
+- pkg:maven/br.com.jarch/jarch-template@18.10.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@18.10.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@18.11.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@18.11.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@18.12.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@18.12.0?type=war
 - pkg:maven/br.com.jarch/jarch-template@18.2.14?classifier=sources
 - pkg:maven/br.com.jarch/jarch-template@18.2.14?type=war
 - pkg:maven/br.com.jarch/jarch-template@18.2.15?classifier=sources
@@ -30,9 +36,17 @@
 - pkg:maven/br.com.jarch/jarch-template@18.8.0?type=war
 - pkg:maven/br.com.jarch/jarch-template@18.9.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-template@18.9.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@19.1.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@19.1.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@19.1.1?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@19.1.1?type=war
+- pkg:maven/br.com.jarch/jarch-template@19.2.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@19.2.0?type=war
 - pkg:maven/br.com.jarch/jarch-template@2.23.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-template@2.23.0?type=war
 - pkg:maven/br.com.jarch/jarch-template@2.23.2?classifier=sources
 - pkg:maven/br.com.jarch/jarch-template@2.23.2?type=war
 - pkg:maven/br.com.jarch/jarch-template@2.23.4?classifier=sources
 - pkg:maven/br.com.jarch/jarch-template@2.23.4?type=war
+- pkg:maven/br.com.jarch/jarch-template@2.23.5?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@2.23.5?type=war

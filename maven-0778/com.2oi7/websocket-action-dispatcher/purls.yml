@@ -1,0 +1,2 @@
+- pkg:maven/com.2oi7/websocket-action-dispatcher@1.0.0
+- pkg:maven/com.2oi7/websocket-action-dispatcher@1.0.0?classifier=sources

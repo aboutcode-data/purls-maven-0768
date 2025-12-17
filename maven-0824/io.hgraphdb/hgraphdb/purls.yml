@@ -84,3 +84,7 @@
 - pkg:maven/io.hgraphdb/hgraphdb@1.0.9?classifier=sources
 - pkg:maven/io.hgraphdb/hgraphdb@2.0.0
 - pkg:maven/io.hgraphdb/hgraphdb@2.0.0?classifier=sources
+- pkg:maven/io.hgraphdb/hgraphdb@2.0.1
+- pkg:maven/io.hgraphdb/hgraphdb@2.0.1?classifier=sources
+- pkg:maven/io.hgraphdb/hgraphdb@2.1.0
+- pkg:maven/io.hgraphdb/hgraphdb@2.1.0?classifier=sources

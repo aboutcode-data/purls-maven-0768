@@ -4,3 +4,7 @@
 - pkg:maven/com.gu/acquisitions-value-calculator-client_2.12@1.0.32?classifier=sources
 - pkg:maven/com.gu/acquisitions-value-calculator-client_2.12@2.0.2
 - pkg:maven/com.gu/acquisitions-value-calculator-client_2.12@2.0.2?classifier=sources
+- pkg:maven/com.gu/acquisitions-value-calculator-client_2.12@2.0.3
+- pkg:maven/com.gu/acquisitions-value-calculator-client_2.12@2.0.3?classifier=sources
+- pkg:maven/com.gu/acquisitions-value-calculator-client_2.12@2.0.4
+- pkg:maven/com.gu/acquisitions-value-calculator-client_2.12@2.0.4?classifier=sources

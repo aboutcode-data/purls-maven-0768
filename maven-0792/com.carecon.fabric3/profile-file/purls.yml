@@ -1,0 +1,2 @@
+- pkg:maven/com.carecon.fabric3/profile-file@3.0.0?classifier=sources
+- pkg:maven/com.carecon.fabric3/profile-file@3.1.0?classifier=sources

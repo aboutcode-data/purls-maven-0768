@@ -1,0 +1,4 @@
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-aws-sdk-v2-instrumentor@2.2.0
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-aws-sdk-v2-instrumentor@2.2.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-aws-sdk-v2-instrumentor@2.2.1
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-aws-sdk-v2-instrumentor@2.2.1?classifier=sources

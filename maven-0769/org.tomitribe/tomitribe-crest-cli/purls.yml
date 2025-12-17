@@ -1,3 +1,5 @@
+- pkg:maven/org.tomitribe/tomitribe-crest-cli@0.10
+- pkg:maven/org.tomitribe/tomitribe-crest-cli@0.10?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest-cli@0.7
 - pkg:maven/org.tomitribe/tomitribe-crest-cli@0.7?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest-cli@0.8

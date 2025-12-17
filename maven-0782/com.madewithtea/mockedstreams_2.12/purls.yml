@@ -18,3 +18,9 @@
 - pkg:maven/com.madewithtea/mockedstreams_2.12@2.0.0?classifier=sources
 - pkg:maven/com.madewithtea/mockedstreams_2.12@2.1.0
 - pkg:maven/com.madewithtea/mockedstreams_2.12@2.1.0?classifier=sources
+- pkg:maven/com.madewithtea/mockedstreams_2.12@2.2.0
+- pkg:maven/com.madewithtea/mockedstreams_2.12@2.2.0?classifier=sources
+- pkg:maven/com.madewithtea/mockedstreams_2.12@3.1.0
+- pkg:maven/com.madewithtea/mockedstreams_2.12@3.1.0?classifier=sources
+- pkg:maven/com.madewithtea/mockedstreams_2.12@3.2.0
+- pkg:maven/com.madewithtea/mockedstreams_2.12@3.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.minsin/mutils-file-server@0.1.9
+- pkg:maven/cn.minsin/mutils-file-server@0.1.9?classifier=sources

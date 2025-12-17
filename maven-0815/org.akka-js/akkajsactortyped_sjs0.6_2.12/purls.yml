@@ -10,5 +10,7 @@
 - pkg:maven/org.akka-js/akkajsactortyped_sjs0.6_2.12@1.2.5.15?classifier=sources
 - pkg:maven/org.akka-js/akkajsactortyped_sjs0.6_2.12@1.2.5.16
 - pkg:maven/org.akka-js/akkajsactortyped_sjs0.6_2.12@1.2.5.16?classifier=sources
+- pkg:maven/org.akka-js/akkajsactortyped_sjs0.6_2.12@1.2.5.19
+- pkg:maven/org.akka-js/akkajsactortyped_sjs0.6_2.12@1.2.5.19?classifier=sources
 - pkg:maven/org.akka-js/akkajsactortyped_sjs0.6_2.12@1.2.5.9
 - pkg:maven/org.akka-js/akkajsactortyped_sjs0.6_2.12@1.2.5.9?classifier=sources

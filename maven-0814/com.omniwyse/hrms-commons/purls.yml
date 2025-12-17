@@ -1,0 +1,12 @@
+- pkg:maven/com.omniwyse/hrms-commons@1.0
+- pkg:maven/com.omniwyse/hrms-commons@1.0.01
+- pkg:maven/com.omniwyse/hrms-commons@1.0.01?classifier=sources
+- pkg:maven/com.omniwyse/hrms-commons@1.0.02
+- pkg:maven/com.omniwyse/hrms-commons@1.0.02?classifier=sources
+- pkg:maven/com.omniwyse/hrms-commons@1.0.03
+- pkg:maven/com.omniwyse/hrms-commons@1.0.03?classifier=sources
+- pkg:maven/com.omniwyse/hrms-commons@1.0.04
+- pkg:maven/com.omniwyse/hrms-commons@1.0.04?classifier=sources
+- pkg:maven/com.omniwyse/hrms-commons@1.0.05
+- pkg:maven/com.omniwyse/hrms-commons@1.0.05?classifier=sources
+- pkg:maven/com.omniwyse/hrms-commons@1.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.cognitect.aws/codecommit@668.2.364.0
+- pkg:maven/com.cognitect.aws/codecommit@668.2.364.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codecommit@697.2.391.0
+- pkg:maven/com.cognitect.aws/codecommit@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codecommit@701.2.395.0
+- pkg:maven/com.cognitect.aws/codecommit@701.2.395.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codecommit@704.2.396.0
+- pkg:maven/com.cognitect.aws/codecommit@704.2.396.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codecommit@707.2.407.0
+- pkg:maven/com.cognitect.aws/codecommit@707.2.407.0?classifier=sources

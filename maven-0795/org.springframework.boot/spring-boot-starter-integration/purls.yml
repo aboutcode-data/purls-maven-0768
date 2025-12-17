@@ -102,6 +102,10 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-integration@1.5.16.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-integration@1.5.17.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-integration@1.5.17.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-integration@1.5.18.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-integration@1.5.18.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-integration@1.5.19.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-integration@1.5.19.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-integration@1.5.2.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-integration@1.5.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-integration@1.5.3.RELEASE
@@ -132,3 +136,11 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-integration@2.0.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-integration@2.0.6.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-integration@2.0.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-integration@2.0.7.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-integration@2.0.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-integration@2.0.8.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-integration@2.0.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-integration@2.1.0.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-integration@2.1.1.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-integration@2.1.2.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-integration@2.1.3.RELEASE

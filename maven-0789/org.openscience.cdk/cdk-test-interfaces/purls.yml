@@ -7,3 +7,4 @@
 - pkg:maven/org.openscience.cdk/cdk-test-interfaces@2.0
 - pkg:maven/org.openscience.cdk/cdk-test-interfaces@2.1
 - pkg:maven/org.openscience.cdk/cdk-test-interfaces@2.1.1
+- pkg:maven/org.openscience.cdk/cdk-test-interfaces@2.2

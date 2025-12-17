@@ -1,0 +1,14 @@
+- pkg:maven/com.github.g-chenning/JDBC-yml-Quick@0.0.1-RELEASE
+- pkg:maven/com.github.g-chenning/JDBC-yml-Quick@0.0.1-RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/JDBC-yml-Quick@0.0.1.beta
+- pkg:maven/com.github.g-chenning/JDBC-yml-Quick@0.0.1.beta?classifier=sources
+- pkg:maven/com.github.g-chenning/JDBC-yml-Quick@0.0.2.beta
+- pkg:maven/com.github.g-chenning/JDBC-yml-Quick@0.0.2.beta?classifier=sources
+- pkg:maven/com.github.g-chenning/JDBC-yml-Quick@0.0.3.bate
+- pkg:maven/com.github.g-chenning/JDBC-yml-Quick@0.0.3.bate?classifier=sources
+- pkg:maven/com.github.g-chenning/JDBC-yml-Quick@0.0.5.beta
+- pkg:maven/com.github.g-chenning/JDBC-yml-Quick@0.0.5.beta?classifier=sources
+- pkg:maven/com.github.g-chenning/JDBC-yml-Quick@0.0.6-RELEASE
+- pkg:maven/com.github.g-chenning/JDBC-yml-Quick@0.0.6-RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/JDBC-yml-Quick@0.0.7.bate
+- pkg:maven/com.github.g-chenning/JDBC-yml-Quick@0.0.7.bate?classifier=sources

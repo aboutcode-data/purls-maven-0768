@@ -14,3 +14,5 @@
 - pkg:maven/org.incode.module.fixturesupport/incode-module-fixturesupport-dom@1.16.0?classifier=sources
 - pkg:maven/org.incode.module.fixturesupport/incode-module-fixturesupport-dom@1.16.2
 - pkg:maven/org.incode.module.fixturesupport/incode-module-fixturesupport-dom@1.16.2?classifier=sources
+- pkg:maven/org.incode.module.fixturesupport/incode-module-fixturesupport-dom@1.17.0
+- pkg:maven/org.incode.module.fixturesupport/incode-module-fixturesupport-dom@1.17.0?classifier=sources

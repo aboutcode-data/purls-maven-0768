@@ -1,0 +1,2 @@
+- pkg:maven/se.europeanspallationsource/xaos.ui.plot@0.3.0
+- pkg:maven/se.europeanspallationsource/xaos.ui.plot@0.3.0?classifier=sources

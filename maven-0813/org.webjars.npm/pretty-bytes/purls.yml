@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/pretty-bytes@1.0.4
+- pkg:maven/org.webjars.npm/pretty-bytes@1.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/pretty-bytes@3.0.1
 - pkg:maven/org.webjars.npm/pretty-bytes@3.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/pretty-bytes@4.0.2

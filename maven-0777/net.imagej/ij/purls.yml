@@ -114,3 +114,9 @@
 - pkg:maven/net.imagej/ij@1.52g?classifier=sources
 - pkg:maven/net.imagej/ij@1.52h
 - pkg:maven/net.imagej/ij@1.52h?classifier=sources
+- pkg:maven/net.imagej/ij@1.52i
+- pkg:maven/net.imagej/ij@1.52i?classifier=sources
+- pkg:maven/net.imagej/ij@1.52j
+- pkg:maven/net.imagej/ij@1.52j?classifier=sources
+- pkg:maven/net.imagej/ij@1.52k
+- pkg:maven/net.imagej/ij@1.52k?classifier=sources

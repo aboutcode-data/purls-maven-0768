@@ -1,0 +1,4 @@
+- pkg:maven/com.vaadin/vaadin-custom-field-flow@1.0.0
+- pkg:maven/com.vaadin/vaadin-custom-field-flow@1.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-custom-field-flow@2.0.0
+- pkg:maven/com.vaadin/vaadin-custom-field-flow@2.0.0?classifier=sources

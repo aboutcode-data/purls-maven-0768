@@ -34,3 +34,11 @@
 - pkg:maven/org.openksavi.sponge/sponge-jruby@1.4.1?classifier=sources
 - pkg:maven/org.openksavi.sponge/sponge-jruby@1.4.2
 - pkg:maven/org.openksavi.sponge/sponge-jruby@1.4.2?classifier=sources
+- pkg:maven/org.openksavi.sponge/sponge-jruby@1.5.0
+- pkg:maven/org.openksavi.sponge/sponge-jruby@1.5.0?classifier=sources
+- pkg:maven/org.openksavi.sponge/sponge-jruby@1.6.0
+- pkg:maven/org.openksavi.sponge/sponge-jruby@1.6.0?classifier=sources
+- pkg:maven/org.openksavi.sponge/sponge-jruby@1.7.0
+- pkg:maven/org.openksavi.sponge/sponge-jruby@1.7.0?classifier=sources
+- pkg:maven/org.openksavi.sponge/sponge-jruby@1.8.0
+- pkg:maven/org.openksavi.sponge/sponge-jruby@1.8.0?classifier=sources

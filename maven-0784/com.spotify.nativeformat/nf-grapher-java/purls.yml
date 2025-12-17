@@ -1,0 +1,6 @@
+- pkg:maven/com.spotify.nativeformat/nf-grapher-java@1.2.22
+- pkg:maven/com.spotify.nativeformat/nf-grapher-java@1.2.22?classifier=sources
+- pkg:maven/com.spotify.nativeformat/nf-grapher-java@1.2.23
+- pkg:maven/com.spotify.nativeformat/nf-grapher-java@1.2.23?classifier=sources
+- pkg:maven/com.spotify.nativeformat/nf-grapher-java@1.2.24
+- pkg:maven/com.spotify.nativeformat/nf-grapher-java@1.2.24?classifier=sources

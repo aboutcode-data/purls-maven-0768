@@ -6,3 +6,5 @@
 - pkg:maven/org.conf4j/conf4j-core@2017.8.1?classifier=sources
 - pkg:maven/org.conf4j/conf4j-core@2017.8.2
 - pkg:maven/org.conf4j/conf4j-core@2017.8.2?classifier=sources
+- pkg:maven/org.conf4j/conf4j-core@2018.10.1
+- pkg:maven/org.conf4j/conf4j-core@2018.10.1?classifier=sources

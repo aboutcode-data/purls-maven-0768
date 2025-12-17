@@ -10,6 +10,10 @@
 - pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.0.14?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.0.15
 - pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.0.15?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.0.16
+- pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.0.16?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.0.17
+- pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.0.17?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.0.5
 - pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.0.5?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-kafka-streams@0.0.6
