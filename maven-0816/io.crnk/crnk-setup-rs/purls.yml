@@ -1,0 +1,2 @@
+- pkg:maven/io.crnk/crnk-setup-rs@2.6.20180430102904
+- pkg:maven/io.crnk/crnk-setup-rs@2.6.20180430102904?classifier=sources

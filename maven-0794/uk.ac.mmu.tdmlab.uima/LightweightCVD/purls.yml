@@ -1,0 +1,4 @@
+- pkg:maven/uk.ac.mmu.tdmlab.uima/LightweightCVD@1.0.0
+- pkg:maven/uk.ac.mmu.tdmlab.uima/LightweightCVD@1.0.0?classifier=sources
+- pkg:maven/uk.ac.mmu.tdmlab.uima/LightweightCVD@1.1.0
+- pkg:maven/uk.ac.mmu.tdmlab.uima/LightweightCVD@1.1.0?classifier=sources

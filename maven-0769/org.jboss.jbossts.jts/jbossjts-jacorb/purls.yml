@@ -72,6 +72,8 @@
 - pkg:maven/org.jboss.jbossts.jts/jbossjts-jacorb@4.17.41.Final?classifier=sources
 - pkg:maven/org.jboss.jbossts.jts/jbossjts-jacorb@4.17.42.Final
 - pkg:maven/org.jboss.jbossts.jts/jbossjts-jacorb@4.17.42.Final?classifier=sources
+- pkg:maven/org.jboss.jbossts.jts/jbossjts-jacorb@4.17.43.Final
+- pkg:maven/org.jboss.jbossts.jts/jbossjts-jacorb@4.17.43.Final?classifier=sources
 - pkg:maven/org.jboss.jbossts.jts/jbossjts-jacorb@4.17.5.Final
 - pkg:maven/org.jboss.jbossts.jts/jbossjts-jacorb@4.17.5.Final?classifier=sources
 - pkg:maven/org.jboss.jbossts.jts/jbossjts-jacorb@4.17.6.Final

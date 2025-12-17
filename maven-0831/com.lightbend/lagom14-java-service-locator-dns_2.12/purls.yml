@@ -1,0 +1,4 @@
+- pkg:maven/com.lightbend/lagom14-java-service-locator-dns_2.12@2.2.3
+- pkg:maven/com.lightbend/lagom14-java-service-locator-dns_2.12@2.2.3?classifier=sources
+- pkg:maven/com.lightbend/lagom14-java-service-locator-dns_2.12@2.3.0
+- pkg:maven/com.lightbend/lagom14-java-service-locator-dns_2.12@2.3.0?classifier=sources

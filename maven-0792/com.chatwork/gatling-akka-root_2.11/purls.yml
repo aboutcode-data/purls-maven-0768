@@ -1,0 +1,2 @@
+- pkg:maven/com.chatwork/gatling-akka-root_2.11@0.1.13
+- pkg:maven/com.chatwork/gatling-akka-root_2.11@0.1.13?classifier=sources

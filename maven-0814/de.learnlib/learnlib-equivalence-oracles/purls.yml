@@ -1,0 +1,4 @@
+- pkg:maven/de.learnlib/learnlib-equivalence-oracles@0.13.0
+- pkg:maven/de.learnlib/learnlib-equivalence-oracles@0.13.0?classifier=sources
+- pkg:maven/de.learnlib/learnlib-equivalence-oracles@0.13.1
+- pkg:maven/de.learnlib/learnlib-equivalence-oracles@0.13.1?classifier=sources

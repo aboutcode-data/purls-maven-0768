@@ -26,3 +26,5 @@
 - pkg:maven/org.webjars/fullcalendar@3.0.0?classifier=sources
 - pkg:maven/org.webjars/fullcalendar@3.4.0
 - pkg:maven/org.webjars/fullcalendar@3.4.0?classifier=sources
+- pkg:maven/org.webjars/fullcalendar@3.8.0
+- pkg:maven/org.webjars/fullcalendar@3.8.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.dieusoft.dw/jjfly@1.1.2
+- pkg:maven/com.dieusoft.dw/jjfly@1.1.2?classifier=sources
+- pkg:maven/com.dieusoft.dw/jjfly@1.2.1
+- pkg:maven/com.dieusoft.dw/jjfly@1.2.18
+- pkg:maven/com.dieusoft.dw/jjfly@1.2.18?classifier=sources
+- pkg:maven/com.dieusoft.dw/jjfly@1.2.1?classifier=sources

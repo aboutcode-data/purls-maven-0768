@@ -1,0 +1,2 @@
+- pkg:maven/com.21buttons/view-test-rule-extras@0.1.0?classifier=sources
+- pkg:maven/com.21buttons/view-test-rule-extras@0.1.0?type=aar

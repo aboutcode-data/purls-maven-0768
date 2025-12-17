@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/pull-stream@2.21.0
 - pkg:maven/org.webjars.npm/pull-stream@2.21.0?classifier=sources
+- pkg:maven/org.webjars.npm/pull-stream@3.6.2
+- pkg:maven/org.webjars.npm/pull-stream@3.6.2?classifier=sources

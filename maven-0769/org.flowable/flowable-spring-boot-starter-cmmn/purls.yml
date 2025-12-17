@@ -1,0 +1,2 @@
+- pkg:maven/org.flowable/flowable-spring-boot-starter-cmmn@6.3.0
+- pkg:maven/org.flowable/flowable-spring-boot-starter-cmmn@6.3.0?classifier=sources

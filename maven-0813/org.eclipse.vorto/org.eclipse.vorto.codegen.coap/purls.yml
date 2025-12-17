@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.vorto/org.eclipse.vorto.codegen.coap@0.10.0.M1?classifier=sources
+- pkg:maven/org.eclipse.vorto/org.eclipse.vorto.codegen.coap@0.10.0.M2?classifier=sources

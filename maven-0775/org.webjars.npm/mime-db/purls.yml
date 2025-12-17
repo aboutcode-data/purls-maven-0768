@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.npm/mime-db@1.29.0?classifier=sources
 - pkg:maven/org.webjars.npm/mime-db@1.30.0
 - pkg:maven/org.webjars.npm/mime-db@1.30.0?classifier=sources
+- pkg:maven/org.webjars.npm/mime-db@1.33.0
+- pkg:maven/org.webjars.npm/mime-db@1.33.0?classifier=sources

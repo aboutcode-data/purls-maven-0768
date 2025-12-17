@@ -30,3 +30,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@5.2.1?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@5.2.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@5.2.2?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@6.1.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-analysis-ik@6.1.1?type=zip

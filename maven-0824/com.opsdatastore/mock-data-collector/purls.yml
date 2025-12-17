@@ -10,3 +10,7 @@
 - pkg:maven/com.opsdatastore/mock-data-collector@1.2.1-RC3
 - pkg:maven/com.opsdatastore/mock-data-collector@1.2.1-RC3?classifier=sources
 - pkg:maven/com.opsdatastore/mock-data-collector@1.2.1?classifier=sources
+- pkg:maven/com.opsdatastore/mock-data-collector@1.3.0
+- pkg:maven/com.opsdatastore/mock-data-collector@1.3.0?classifier=sources
+- pkg:maven/com.opsdatastore/mock-data-collector@1.4.0
+- pkg:maven/com.opsdatastore/mock-data-collector@1.4.0?classifier=sources

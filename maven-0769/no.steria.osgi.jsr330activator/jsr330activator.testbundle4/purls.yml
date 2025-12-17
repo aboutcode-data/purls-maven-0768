@@ -1,0 +1,2 @@
+- pkg:maven/no.steria.osgi.jsr330activator/jsr330activator.testbundle4@1.1.0
+- pkg:maven/no.steria.osgi.jsr330activator/jsr330activator.testbundle4@1.1.0?classifier=sources

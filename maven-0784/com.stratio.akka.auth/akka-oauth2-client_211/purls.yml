@@ -1,0 +1,2 @@
+- pkg:maven/com.stratio.akka.auth/akka-oauth2-client_211@0.4.0
+- pkg:maven/com.stratio.akka.auth/akka-oauth2-client_211@0.4.0?classifier=sources

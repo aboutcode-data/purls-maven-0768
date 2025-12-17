@@ -6,6 +6,7 @@
 - pkg:maven/org.apache.derby/derbywar@10.11.1.1?type=war
 - pkg:maven/org.apache.derby/derbywar@10.12.1.1?type=war
 - pkg:maven/org.apache.derby/derbywar@10.13.1.1?type=war
+- pkg:maven/org.apache.derby/derbywar@10.14.2.0?type=war
 - pkg:maven/org.apache.derby/derbywar@10.2.1.6?type=war
 - pkg:maven/org.apache.derby/derbywar@10.2.2.0?type=war
 - pkg:maven/org.apache.derby/derbywar@10.3.1.4?type=war

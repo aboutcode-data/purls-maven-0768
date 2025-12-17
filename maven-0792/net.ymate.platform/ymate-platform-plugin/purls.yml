@@ -6,3 +6,7 @@
 - pkg:maven/net.ymate.platform/ymate-platform-plugin@2.0.2?classifier=sources
 - pkg:maven/net.ymate.platform/ymate-platform-plugin@2.0.3
 - pkg:maven/net.ymate.platform/ymate-platform-plugin@2.0.3?classifier=sources
+- pkg:maven/net.ymate.platform/ymate-platform-plugin@2.0.4
+- pkg:maven/net.ymate.platform/ymate-platform-plugin@2.0.4?classifier=sources
+- pkg:maven/net.ymate.platform/ymate-platform-plugin@2.0.5
+- pkg:maven/net.ymate.platform/ymate-platform-plugin@2.0.5?classifier=sources

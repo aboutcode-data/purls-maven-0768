@@ -40,6 +40,10 @@
 - pkg:maven/org.webjars.npm/patternfly@3.29.13?classifier=sources
 - pkg:maven/org.webjars.npm/patternfly@3.3.2
 - pkg:maven/org.webjars.npm/patternfly@3.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/patternfly@3.39.0
+- pkg:maven/org.webjars.npm/patternfly@3.39.0?classifier=sources
+- pkg:maven/org.webjars.npm/patternfly@3.40.0
+- pkg:maven/org.webjars.npm/patternfly@3.40.0?classifier=sources
 - pkg:maven/org.webjars.npm/patternfly@3.5.0
 - pkg:maven/org.webjars.npm/patternfly@3.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/patternfly@3.7.0

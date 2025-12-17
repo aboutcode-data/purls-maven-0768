@@ -2,3 +2,13 @@
 - pkg:maven/com.47deg/github4s-cats-effect_2.11@0.16.0?classifier=sources
 - pkg:maven/com.47deg/github4s-cats-effect_2.11@0.17.0
 - pkg:maven/com.47deg/github4s-cats-effect_2.11@0.17.0?classifier=sources
+- pkg:maven/com.47deg/github4s-cats-effect_2.11@0.18.0
+- pkg:maven/com.47deg/github4s-cats-effect_2.11@0.18.0?classifier=sources
+- pkg:maven/com.47deg/github4s-cats-effect_2.11@0.18.1
+- pkg:maven/com.47deg/github4s-cats-effect_2.11@0.18.1?classifier=sources
+- pkg:maven/com.47deg/github4s-cats-effect_2.11@0.18.2
+- pkg:maven/com.47deg/github4s-cats-effect_2.11@0.18.2?classifier=sources
+- pkg:maven/com.47deg/github4s-cats-effect_2.11@0.18.3
+- pkg:maven/com.47deg/github4s-cats-effect_2.11@0.18.3?classifier=sources
+- pkg:maven/com.47deg/github4s-cats-effect_2.11@0.18.4
+- pkg:maven/com.47deg/github4s-cats-effect_2.11@0.18.4?classifier=sources

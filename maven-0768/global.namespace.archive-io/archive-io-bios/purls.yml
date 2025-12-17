@@ -1,0 +1,2 @@
+- pkg:maven/global.namespace.archive-io/archive-io-bios@0.10.0
+- pkg:maven/global.namespace.archive-io/archive-io-bios@0.10.0?classifier=sources

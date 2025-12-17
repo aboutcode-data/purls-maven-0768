@@ -1,0 +1,2 @@
+- pkg:maven/io.oasp.java.modules/oasp4j-json@2.5.0
+- pkg:maven/io.oasp.java.modules/oasp4j-json@2.5.0?classifier=sources

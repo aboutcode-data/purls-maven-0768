@@ -1,0 +1,2 @@
+- pkg:maven/org.molgenis/molgenis-i18n@6.0.0
+- pkg:maven/org.molgenis/molgenis-i18n@6.0.0?classifier=sources

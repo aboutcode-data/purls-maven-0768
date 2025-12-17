@@ -1,0 +1,2 @@
+- pkg:maven/eu.bittrade.libs/crypto-core@0.1.0pre1
+- pkg:maven/eu.bittrade.libs/crypto-core@0.1.0pre1?classifier=sources

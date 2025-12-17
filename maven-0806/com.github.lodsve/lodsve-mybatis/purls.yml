@@ -2,6 +2,8 @@
 - pkg:maven/com.github.lodsve/lodsve-mybatis@2.4.8?classifier=sources
 - pkg:maven/com.github.lodsve/lodsve-mybatis@2.4.9
 - pkg:maven/com.github.lodsve/lodsve-mybatis@2.4.9?classifier=sources
+- pkg:maven/com.github.lodsve/lodsve-mybatis@2.5.10
+- pkg:maven/com.github.lodsve/lodsve-mybatis@2.5.10?classifier=sources
 - pkg:maven/com.github.lodsve/lodsve-mybatis@2.5.4
 - pkg:maven/com.github.lodsve/lodsve-mybatis@2.5.4?classifier=sources
 - pkg:maven/com.github.lodsve/lodsve-mybatis@2.5.6

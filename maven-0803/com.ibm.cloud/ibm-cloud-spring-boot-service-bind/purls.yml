@@ -1,0 +1,4 @@
+- pkg:maven/com.ibm.cloud/ibm-cloud-spring-boot-service-bind@1.0.0
+- pkg:maven/com.ibm.cloud/ibm-cloud-spring-boot-service-bind@1.0.0?classifier=sources
+- pkg:maven/com.ibm.cloud/ibm-cloud-spring-boot-service-bind@1.1.0
+- pkg:maven/com.ibm.cloud/ibm-cloud-spring-boot-service-bind@1.1.0?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/com.github.simondan.ojcms.server/annotationprocessor@0.1-beta?classifier=sources
 - pkg:maven/com.github.simondan.ojcms.server/annotationprocessor@0.2-beta
 - pkg:maven/com.github.simondan.ojcms.server/annotationprocessor@0.2-beta?classifier=sources
+- pkg:maven/com.github.simondan.ojcms.server/annotationprocessor@0.4
+- pkg:maven/com.github.simondan.ojcms.server/annotationprocessor@0.4-beta
+- pkg:maven/com.github.simondan.ojcms.server/annotationprocessor@0.4-beta?classifier=sources
+- pkg:maven/com.github.simondan.ojcms.server/annotationprocessor@0.4?classifier=sources

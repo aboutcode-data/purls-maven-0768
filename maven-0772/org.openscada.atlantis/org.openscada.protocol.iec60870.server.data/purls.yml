@@ -1,0 +1,2 @@
+- pkg:maven/org.openscada.atlantis/org.openscada.protocol.iec60870.server.data@1.5.0
+- pkg:maven/org.openscada.atlantis/org.openscada.protocol.iec60870.server.data@1.5.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/uk.ac.ebi.beam/beam-core@0.9?classifier=sources
 - pkg:maven/uk.ac.ebi.beam/beam-core@1.0
 - pkg:maven/uk.ac.ebi.beam/beam-core@1.0?classifier=sources
+- pkg:maven/uk.ac.ebi.beam/beam-core@1.1
+- pkg:maven/uk.ac.ebi.beam/beam-core@1.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.jacpfx/vxms-k8sdiscovery@1.1
+- pkg:maven/org.jacpfx/vxms-k8sdiscovery@1.1-RC2
+- pkg:maven/org.jacpfx/vxms-k8sdiscovery@1.1-RC2?classifier=sources
+- pkg:maven/org.jacpfx/vxms-k8sdiscovery@1.1-RC3
+- pkg:maven/org.jacpfx/vxms-k8sdiscovery@1.1-RC3?classifier=sources
+- pkg:maven/org.jacpfx/vxms-k8sdiscovery@1.1?classifier=sources

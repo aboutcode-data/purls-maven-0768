@@ -1,0 +1,2 @@
+- pkg:maven/com.walterjwhite.modules.file.api/service@0.0.15
+- pkg:maven/com.walterjwhite.modules.file.api/service@0.0.15?classifier=sources

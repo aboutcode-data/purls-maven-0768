@@ -2,3 +2,15 @@
 - pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@17.10.0?classifier=sources
 - pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@17.11.0
 - pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@17.11.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@17.12.0
+- pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@17.12.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@18.1.0
+- pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@18.1.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@18.2.0
+- pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@18.2.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@18.3.0
+- pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@18.3.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@18.4.0
+- pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@18.4.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@18.5.0
+- pkg:maven/com.twitter/twitter-server-slf4j-log4j12_2.11@18.5.0?classifier=sources

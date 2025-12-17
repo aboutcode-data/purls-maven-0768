@@ -1,0 +1,4 @@
+- pkg:maven/de.monticore.commons/se-commons-groovy@1.7.6
+- pkg:maven/de.monticore.commons/se-commons-groovy@1.7.6?classifier=sources
+- pkg:maven/de.monticore.commons/se-commons-groovy@1.7.7
+- pkg:maven/de.monticore.commons/se-commons-groovy@1.7.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.karaf.decanter.alerting/org.apache.karaf.decanter.alerting.management@2.0.0
+- pkg:maven/org.apache.karaf.decanter.alerting/org.apache.karaf.decanter.alerting.management@2.0.0?classifier=sources

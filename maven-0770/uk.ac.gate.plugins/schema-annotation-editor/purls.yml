@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.gate.plugins/schema-annotation-editor@8.5-alpha1
+- pkg:maven/uk.ac.gate.plugins/schema-annotation-editor@8.5-alpha1?classifier=sources

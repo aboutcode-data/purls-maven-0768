@@ -1,0 +1,2 @@
+- pkg:maven/org.tools4j/tools4j-meanvar@1.1
+- pkg:maven/org.tools4j/tools4j-meanvar@1.1?classifier=sources

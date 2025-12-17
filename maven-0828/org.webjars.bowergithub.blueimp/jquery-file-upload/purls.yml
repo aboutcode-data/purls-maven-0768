@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.blueimp/jquery-file-upload@9.21.0
+- pkg:maven/org.webjars.bowergithub.blueimp/jquery-file-upload@9.21.0?classifier=sources

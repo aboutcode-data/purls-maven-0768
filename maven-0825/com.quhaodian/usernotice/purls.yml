@@ -1,0 +1,6 @@
+- pkg:maven/com.quhaodian/usernotice@1.6.2
+- pkg:maven/com.quhaodian/usernotice@1.6.2?classifier=sources
+- pkg:maven/com.quhaodian/usernotice@1.6.3
+- pkg:maven/com.quhaodian/usernotice@1.6.3?classifier=sources
+- pkg:maven/com.quhaodian/usernotice@1.8.1
+- pkg:maven/com.quhaodian/usernotice@1.8.1?classifier=sources

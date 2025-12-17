@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/is-data-descriptor@0.1.4
 - pkg:maven/org.webjars.npm/is-data-descriptor@0.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/is-data-descriptor@1.0.0
+- pkg:maven/org.webjars.npm/is-data-descriptor@1.0.0?classifier=sources

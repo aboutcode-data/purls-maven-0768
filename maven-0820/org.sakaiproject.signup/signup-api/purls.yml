@@ -22,3 +22,7 @@
 - pkg:maven/org.sakaiproject.signup/signup-api@11.3?classifier=sources
 - pkg:maven/org.sakaiproject.signup/signup-api@11.4
 - pkg:maven/org.sakaiproject.signup/signup-api@11.4?classifier=sources
+- pkg:maven/org.sakaiproject.signup/signup-api@12.0
+- pkg:maven/org.sakaiproject.signup/signup-api@12.0?classifier=sources
+- pkg:maven/org.sakaiproject.signup/signup-api@12.1
+- pkg:maven/org.sakaiproject.signup/signup-api@12.1?classifier=sources

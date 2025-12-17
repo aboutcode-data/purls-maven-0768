@@ -2,3 +2,5 @@
 - pkg:maven/io.swagger/swagger-validator@1.0.1?type=war
 - pkg:maven/io.swagger/swagger-validator@1.0.3?type=war
 - pkg:maven/io.swagger/swagger-validator@1.0.4?type=war
+- pkg:maven/io.swagger/swagger-validator@1.0.5
+- pkg:maven/io.swagger/swagger-validator@1.0.5?classifier=sources

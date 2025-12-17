@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.crypto/org.wso2.carbon.crypto.provider@1.0.0
+- pkg:maven/org.wso2.carbon.crypto/org.wso2.carbon.crypto.provider@1.0.0?classifier=sources

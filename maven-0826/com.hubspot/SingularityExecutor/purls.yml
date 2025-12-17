@@ -11,9 +11,13 @@
 - pkg:maven/com.hubspot/SingularityExecutor@0.16.1?classifier=sources
 - pkg:maven/com.hubspot/SingularityExecutor@0.16.2?classifier=sources
 - pkg:maven/com.hubspot/SingularityExecutor@0.17.0?classifier=sources
+- pkg:maven/com.hubspot/SingularityExecutor@0.17.1?classifier=sources
 - pkg:maven/com.hubspot/SingularityExecutor@0.18.0?classifier=sources
 - pkg:maven/com.hubspot/SingularityExecutor@0.18.1?classifier=sources
 - pkg:maven/com.hubspot/SingularityExecutor@0.18.2?classifier=sources
+- pkg:maven/com.hubspot/SingularityExecutor@0.19.0?classifier=sources
+- pkg:maven/com.hubspot/SingularityExecutor@0.19.1?classifier=sources
+- pkg:maven/com.hubspot/SingularityExecutor@0.19.2?classifier=sources
 - pkg:maven/com.hubspot/SingularityExecutor@0.3.9?classifier=sources
 - pkg:maven/com.hubspot/SingularityExecutor@0.4.0?classifier=sources
 - pkg:maven/com.hubspot/SingularityExecutor@0.4.10?classifier=sources

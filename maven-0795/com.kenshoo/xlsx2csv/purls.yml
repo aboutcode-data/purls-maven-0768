@@ -1,0 +1,2 @@
+- pkg:maven/com.kenshoo/xlsx2csv@0.1.2
+- pkg:maven/com.kenshoo/xlsx2csv@0.1.2?classifier=sources

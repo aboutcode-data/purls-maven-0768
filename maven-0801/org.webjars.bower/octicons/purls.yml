@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.bower/octicons@3.5.0?classifier=sources
 - pkg:maven/org.webjars.bower/octicons@4.3.0
 - pkg:maven/org.webjars.bower/octicons@4.3.0?classifier=sources
+- pkg:maven/org.webjars.bower/octicons@7.1.0
+- pkg:maven/org.webjars.bower/octicons@7.1.0?classifier=sources

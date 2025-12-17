@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/unicode-property-aliases-ecmascript@1.0.3
+- pkg:maven/org.webjars.npm/unicode-property-aliases-ecmascript@1.0.3?classifier=sources

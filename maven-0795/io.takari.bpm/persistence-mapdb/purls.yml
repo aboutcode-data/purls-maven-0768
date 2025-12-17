@@ -32,6 +32,11 @@
 - pkg:maven/io.takari.bpm/persistence-mapdb@0.37.0?classifier=sources
 - pkg:maven/io.takari.bpm/persistence-mapdb@0.38.0?classifier=sources
 - pkg:maven/io.takari.bpm/persistence-mapdb@0.39.0?classifier=sources
+- pkg:maven/io.takari.bpm/persistence-mapdb@0.40.0?classifier=sources
+- pkg:maven/io.takari.bpm/persistence-mapdb@0.41.0?classifier=sources
+- pkg:maven/io.takari.bpm/persistence-mapdb@0.42.0?classifier=sources
+- pkg:maven/io.takari.bpm/persistence-mapdb@0.43.0?classifier=sources
+- pkg:maven/io.takari.bpm/persistence-mapdb@0.44.0?classifier=sources
 - pkg:maven/io.takari.bpm/persistence-mapdb@0.7.0?classifier=sources
 - pkg:maven/io.takari.bpm/persistence-mapdb@0.7.1?classifier=sources
 - pkg:maven/io.takari.bpm/persistence-mapdb@0.7.2?classifier=sources

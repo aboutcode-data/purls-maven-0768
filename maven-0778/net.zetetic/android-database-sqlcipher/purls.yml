@@ -22,3 +22,7 @@
 - pkg:maven/net.zetetic/android-database-sqlcipher@3.5.6?type=aar
 - pkg:maven/net.zetetic/android-database-sqlcipher@3.5.7?classifier=sources
 - pkg:maven/net.zetetic/android-database-sqlcipher@3.5.7?type=aar
+- pkg:maven/net.zetetic/android-database-sqlcipher@3.5.8?classifier=sources
+- pkg:maven/net.zetetic/android-database-sqlcipher@3.5.8?type=aar
+- pkg:maven/net.zetetic/android-database-sqlcipher@3.5.9?classifier=sources
+- pkg:maven/net.zetetic/android-database-sqlcipher@3.5.9?type=aar

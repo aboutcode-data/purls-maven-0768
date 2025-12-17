@@ -6,3 +6,7 @@
 - pkg:maven/com.foreach.across.modules/spring-security-module@2.0.0.RELEASE?classifier=sources
 - pkg:maven/com.foreach.across.modules/spring-security-module@2.0.1.RELEASE
 - pkg:maven/com.foreach.across.modules/spring-security-module@2.0.1.RELEASE?classifier=sources
+- pkg:maven/com.foreach.across.modules/spring-security-module@3.0.0.RELEASE
+- pkg:maven/com.foreach.across.modules/spring-security-module@3.0.0.RELEASE?classifier=sources
+- pkg:maven/com.foreach.across.modules/spring-security-module@3.0.1.RELEASE
+- pkg:maven/com.foreach.across.modules/spring-security-module@3.0.1.RELEASE?classifier=sources

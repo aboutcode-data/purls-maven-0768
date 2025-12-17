@@ -1,2 +1,4 @@
 - pkg:maven/com.github.davidepastore/liferay-journal-article-converter@0.1.0
 - pkg:maven/com.github.davidepastore/liferay-journal-article-converter@0.1.0?classifier=sources
+- pkg:maven/com.github.davidepastore/liferay-journal-article-converter@7.0.0
+- pkg:maven/com.github.davidepastore/liferay-journal-article-converter@7.0.0?classifier=sources

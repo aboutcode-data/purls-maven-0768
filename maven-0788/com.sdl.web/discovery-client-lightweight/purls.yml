@@ -1,3 +1,5 @@
+- pkg:maven/com.sdl.web/discovery-client-lightweight@10.0.0-1013
+- pkg:maven/com.sdl.web/discovery-client-lightweight@10.0.0-1013?classifier=sources
 - pkg:maven/com.sdl.web/discovery-client-lightweight@10.1.0-1016
 - pkg:maven/com.sdl.web/discovery-client-lightweight@10.1.0-1016?classifier=sources
 - pkg:maven/com.sdl.web/discovery-client-lightweight@8.1.1-1009

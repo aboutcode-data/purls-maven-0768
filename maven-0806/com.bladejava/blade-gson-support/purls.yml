@@ -1,0 +1,2 @@
+- pkg:maven/com.bladejava/blade-gson-support@0.0.1
+- pkg:maven/com.bladejava/blade-gson-support@0.0.1?classifier=sources

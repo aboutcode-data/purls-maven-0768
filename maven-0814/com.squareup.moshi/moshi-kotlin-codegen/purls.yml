@@ -1,0 +1,2 @@
+- pkg:maven/com.squareup.moshi/moshi-kotlin-codegen@1.6.0
+- pkg:maven/com.squareup.moshi/moshi-kotlin-codegen@1.6.0?classifier=sources

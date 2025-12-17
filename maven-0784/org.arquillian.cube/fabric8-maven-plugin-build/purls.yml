@@ -1,0 +1,2 @@
+- pkg:maven/org.arquillian.cube/fabric8-maven-plugin-build@1.15.3
+- pkg:maven/org.arquillian.cube/fabric8-maven-plugin-build@1.15.3?classifier=sources

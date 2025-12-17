@@ -1,0 +1,2 @@
+- pkg:maven/es.uvigo.ei.sing/aibench-workbench@2.10.1
+- pkg:maven/es.uvigo.ei.sing/aibench-workbench@2.10.1?classifier=sources

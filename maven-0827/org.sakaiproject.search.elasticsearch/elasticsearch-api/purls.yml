@@ -1,0 +1,4 @@
+- pkg:maven/org.sakaiproject.search.elasticsearch/elasticsearch-api@12.0
+- pkg:maven/org.sakaiproject.search.elasticsearch/elasticsearch-api@12.0?classifier=sources
+- pkg:maven/org.sakaiproject.search.elasticsearch/elasticsearch-api@12.1
+- pkg:maven/org.sakaiproject.search.elasticsearch/elasticsearch-api@12.1?classifier=sources

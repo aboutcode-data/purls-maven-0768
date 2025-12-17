@@ -1,3 +1,5 @@
+- pkg:maven/net.anwiba.commons.tools/anwiba-tools-icons@1.0.126
+- pkg:maven/net.anwiba.commons.tools/anwiba-tools-icons@1.0.126?classifier=sources
 - pkg:maven/net.anwiba.commons.tools/anwiba-tools-icons@1.0.24
 - pkg:maven/net.anwiba.commons.tools/anwiba-tools-icons@1.0.24?classifier=sources
 - pkg:maven/net.anwiba.commons.tools/anwiba-tools-icons@1.0.25

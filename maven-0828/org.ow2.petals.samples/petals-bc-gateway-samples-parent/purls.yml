@@ -1,1 +1,2 @@
 - pkg:maven/org.ow2.petals.samples/petals-bc-gateway-samples-parent@1.0.0-1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals.samples/petals-bc-gateway-samples-parent@1.0.1-1.0.0?classifier=source-release&type=zip

@@ -22,3 +22,7 @@
 - pkg:maven/org.membrane-soa/service-proxy-annot@4.5.0?classifier=sources
 - pkg:maven/org.membrane-soa/service-proxy-annot@4.5.1
 - pkg:maven/org.membrane-soa/service-proxy-annot@4.5.1?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-annot@4.6.0
+- pkg:maven/org.membrane-soa/service-proxy-annot@4.6.0?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-annot@4.6.1
+- pkg:maven/org.membrane-soa/service-proxy-annot@4.6.1?classifier=sources

@@ -20,6 +20,8 @@
 - pkg:maven/com.phloc/phloc-commons@4.4.11?classifier=sources
 - pkg:maven/com.phloc/phloc-commons@4.4.12
 - pkg:maven/com.phloc/phloc-commons@4.4.12?classifier=sources
+- pkg:maven/com.phloc/phloc-commons@4.4.13
+- pkg:maven/com.phloc/phloc-commons@4.4.13?classifier=sources
 - pkg:maven/com.phloc/phloc-commons@4.4.4
 - pkg:maven/com.phloc/phloc-commons@4.4.4?classifier=sources
 - pkg:maven/com.phloc/phloc-commons@4.4.5

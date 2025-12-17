@@ -1,1 +1,2 @@
 - pkg:maven/org.ow2.petals.samples/su-camel-hello-proxy-java@1.0.2-1.0.0?classifier=sources
+- pkg:maven/org.ow2.petals.samples/su-camel-hello-proxy-java@1.1.0-1.0.0?classifier=sources

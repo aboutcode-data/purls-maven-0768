@@ -1,0 +1,6 @@
+- pkg:maven/com.b2wdigital/restql-core-java@2.2
+- pkg:maven/com.b2wdigital/restql-core-java@2.2.1
+- pkg:maven/com.b2wdigital/restql-core-java@2.2.1?classifier=sources
+- pkg:maven/com.b2wdigital/restql-core-java@2.2.2
+- pkg:maven/com.b2wdigital/restql-core-java@2.2.2?classifier=sources
+- pkg:maven/com.b2wdigital/restql-core-java@2.2?classifier=sources

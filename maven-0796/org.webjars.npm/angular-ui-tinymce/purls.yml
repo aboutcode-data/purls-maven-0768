@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angular-ui-tinymce@0.0.19
+- pkg:maven/org.webjars.npm/angular-ui-tinymce@0.0.19?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.hjug.dtangler.ui.testutil/dtangler-ui-testutil@2.1.0
+- pkg:maven/org.hjug.dtangler.ui.testutil/dtangler-ui-testutil@2.1.0?classifier=sources

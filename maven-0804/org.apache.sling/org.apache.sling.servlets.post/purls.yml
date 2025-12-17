@@ -36,6 +36,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.22
 - pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.22?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.22?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.24
+- pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.24?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.24?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.2?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.servlets.post@2.3.4

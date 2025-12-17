@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/applicationinsights-spring-boot-starter@1.0.0-BETA
+- pkg:maven/com.microsoft.azure/applicationinsights-spring-boot-starter@1.0.0-BETA?classifier=sources

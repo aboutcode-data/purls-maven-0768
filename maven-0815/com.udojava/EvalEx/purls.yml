@@ -35,3 +35,5 @@
 - pkg:maven/com.udojava/EvalEx@1.8?classifier=sources
 - pkg:maven/com.udojava/EvalEx@1.9
 - pkg:maven/com.udojava/EvalEx@1.9?classifier=sources
+- pkg:maven/com.udojava/EvalEx@2.0
+- pkg:maven/com.udojava/EvalEx@2.0?classifier=sources

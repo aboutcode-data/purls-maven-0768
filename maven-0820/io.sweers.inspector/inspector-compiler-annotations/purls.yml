@@ -1,0 +1,2 @@
+- pkg:maven/io.sweers.inspector/inspector-compiler-annotations@0.3.0
+- pkg:maven/io.sweers.inspector/inspector-compiler-annotations@0.3.0?classifier=sources

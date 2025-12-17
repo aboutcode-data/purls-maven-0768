@@ -1,0 +1,4 @@
+- pkg:maven/org.restcomm/restcomm-connect.core@8.4.0-225
+- pkg:maven/org.restcomm/restcomm-connect.core@8.4.0-225?classifier=sources
+- pkg:maven/org.restcomm/restcomm-connect.core@8.4.0-227
+- pkg:maven/org.restcomm/restcomm-connect.core@8.4.0-227?classifier=sources

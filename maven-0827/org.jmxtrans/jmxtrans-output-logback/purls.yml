@@ -1,0 +1,2 @@
+- pkg:maven/org.jmxtrans/jmxtrans-output-logback@270
+- pkg:maven/org.jmxtrans/jmxtrans-output-logback@270?classifier=sources

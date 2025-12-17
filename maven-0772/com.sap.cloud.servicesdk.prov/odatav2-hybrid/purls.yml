@@ -1,0 +1,16 @@
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.13.1
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.13.1?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.14.0
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.14.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.14.2
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.14.2?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.15.0
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.15.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.15.1
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.15.1?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.15.2
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.15.2?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.16.1
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.16.1?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.17.0
+- pkg:maven/com.sap.cloud.servicesdk.prov/odatav2-hybrid@1.17.0?classifier=sources

@@ -20,6 +20,7 @@
 - pkg:maven/com.github.emc-mongoose/mongoose-api-model@3.5.0?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-api-model@3.5.1
 - pkg:maven/com.github.emc-mongoose/mongoose-api-model@3.5.1?classifier=sources
+- pkg:maven/com.github.emc-mongoose/mongoose-api-model@3.6.0
 - pkg:maven/com.github.emc-mongoose/mongoose-api-model@3.6.0-alpha0
 - pkg:maven/com.github.emc-mongoose/mongoose-api-model@3.6.0-alpha0?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-api-model@3.6.0-alpha1
@@ -34,6 +35,9 @@
 - pkg:maven/com.github.emc-mongoose/mongoose-api-model@3.6.0-beta5?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-api-model@3.6.0-beta7
 - pkg:maven/com.github.emc-mongoose/mongoose-api-model@3.6.0-beta7?classifier=sources
+- pkg:maven/com.github.emc-mongoose/mongoose-api-model@3.6.0-beta8
+- pkg:maven/com.github.emc-mongoose/mongoose-api-model@3.6.0-beta8?classifier=sources
+- pkg:maven/com.github.emc-mongoose/mongoose-api-model@3.6.0?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-api-model@4.0.0-alpha
 - pkg:maven/com.github.emc-mongoose/mongoose-api-model@4.0.0-alpha0
 - pkg:maven/com.github.emc-mongoose/mongoose-api-model@4.0.0-alpha0?classifier=sources

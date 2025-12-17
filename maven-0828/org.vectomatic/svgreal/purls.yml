@@ -2,6 +2,8 @@
 - pkg:maven/org.vectomatic/svgreal@0.2.10?type=war
 - pkg:maven/org.vectomatic/svgreal@0.2.11?classifier=sources
 - pkg:maven/org.vectomatic/svgreal@0.2.11?type=war
+- pkg:maven/org.vectomatic/svgreal@0.2.12?classifier=sources
+- pkg:maven/org.vectomatic/svgreal@0.2.12?type=war
 - pkg:maven/org.vectomatic/svgreal@0.2.3?classifier=sources
 - pkg:maven/org.vectomatic/svgreal@0.2.3?type=war
 - pkg:maven/org.vectomatic/svgreal@0.2.6?classifier=sources

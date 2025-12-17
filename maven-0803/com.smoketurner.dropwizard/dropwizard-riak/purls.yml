@@ -32,3 +32,9 @@
 - pkg:maven/com.smoketurner.dropwizard/dropwizard-riak@1.2.0-1?classifier=sources
 - pkg:maven/com.smoketurner.dropwizard/dropwizard-riak@1.2.2-1
 - pkg:maven/com.smoketurner.dropwizard/dropwizard-riak@1.2.2-1?classifier=sources
+- pkg:maven/com.smoketurner.dropwizard/dropwizard-riak@1.2.3-1
+- pkg:maven/com.smoketurner.dropwizard/dropwizard-riak@1.2.3-1?classifier=sources
+- pkg:maven/com.smoketurner.dropwizard/dropwizard-riak@1.2.3-2
+- pkg:maven/com.smoketurner.dropwizard/dropwizard-riak@1.2.3-2?classifier=sources
+- pkg:maven/com.smoketurner.dropwizard/dropwizard-riak@1.3.0-1
+- pkg:maven/com.smoketurner.dropwizard/dropwizard-riak@1.3.0-1?classifier=sources

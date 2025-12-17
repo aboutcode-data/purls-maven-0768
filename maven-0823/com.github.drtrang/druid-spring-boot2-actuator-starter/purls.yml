@@ -1,0 +1,4 @@
+- pkg:maven/com.github.drtrang/druid-spring-boot2-actuator-starter@1.1.8
+- pkg:maven/com.github.drtrang/druid-spring-boot2-actuator-starter@1.1.8?classifier=sources
+- pkg:maven/com.github.drtrang/druid-spring-boot2-actuator-starter@1.1.9
+- pkg:maven/com.github.drtrang/druid-spring-boot2-actuator-starter@1.1.9?classifier=sources

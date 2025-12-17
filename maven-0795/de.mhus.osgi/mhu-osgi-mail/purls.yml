@@ -1,0 +1,4 @@
+- pkg:maven/de.mhus.osgi/mhu-osgi-mail@1.3.4
+- pkg:maven/de.mhus.osgi/mhu-osgi-mail@1.3.4?classifier=sources
+- pkg:maven/de.mhus.osgi/mhu-osgi-mail@1.4.0
+- pkg:maven/de.mhus.osgi/mhu-osgi-mail@1.4.0?classifier=sources

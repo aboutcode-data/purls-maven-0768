@@ -4,9 +4,15 @@
 - pkg:maven/no.difi.oxalis/oxalis-api@3.2.0-RC1
 - pkg:maven/no.difi.oxalis/oxalis-api@3.2.0-RC1?classifier=sources
 - pkg:maven/no.difi.oxalis/oxalis-api@3.2.0?classifier=sources
+- pkg:maven/no.difi.oxalis/oxalis-api@4.0.0
 - pkg:maven/no.difi.oxalis/oxalis-api@4.0.0-BETA1
 - pkg:maven/no.difi.oxalis/oxalis-api@4.0.0-BETA1?classifier=sources
 - pkg:maven/no.difi.oxalis/oxalis-api@4.0.0-RC1
 - pkg:maven/no.difi.oxalis/oxalis-api@4.0.0-RC1?classifier=sources
 - pkg:maven/no.difi.oxalis/oxalis-api@4.0.0-RC2
 - pkg:maven/no.difi.oxalis/oxalis-api@4.0.0-RC2?classifier=sources
+- pkg:maven/no.difi.oxalis/oxalis-api@4.0.0-RC3
+- pkg:maven/no.difi.oxalis/oxalis-api@4.0.0-RC3?classifier=sources
+- pkg:maven/no.difi.oxalis/oxalis-api@4.0.0?classifier=sources
+- pkg:maven/no.difi.oxalis/oxalis-api@4.0.1
+- pkg:maven/no.difi.oxalis/oxalis-api@4.0.1?classifier=sources

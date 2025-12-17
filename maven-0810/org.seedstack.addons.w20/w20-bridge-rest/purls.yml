@@ -26,3 +26,7 @@
 - pkg:maven/org.seedstack.addons.w20/w20-bridge-rest@3.0.1?classifier=sources
 - pkg:maven/org.seedstack.addons.w20/w20-bridge-rest@3.1.0
 - pkg:maven/org.seedstack.addons.w20/w20-bridge-rest@3.1.0?classifier=sources
+- pkg:maven/org.seedstack.addons.w20/w20-bridge-rest@3.2.0
+- pkg:maven/org.seedstack.addons.w20/w20-bridge-rest@3.2.0?classifier=sources
+- pkg:maven/org.seedstack.addons.w20/w20-bridge-rest@3.2.1
+- pkg:maven/org.seedstack.addons.w20/w20-bridge-rest@3.2.1?classifier=sources

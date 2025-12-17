@@ -1,0 +1,2 @@
+- pkg:maven/me.escoffier.fluid/reactor-example@0.8
+- pkg:maven/me.escoffier.fluid/reactor-example@0.8?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.mypoolin/sdk-part-1-ybl@2.2?type=aar
+- pkg:maven/com.mypoolin/sdk-part-1-ybl@2.3?type=aar
+- pkg:maven/com.mypoolin/sdk-part-1-ybl@2.4?type=aar

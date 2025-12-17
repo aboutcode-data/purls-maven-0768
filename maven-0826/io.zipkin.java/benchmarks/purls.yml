@@ -4,3 +4,5 @@
 - pkg:maven/io.zipkin.java/benchmarks@0.18.2?classifier=sources
 - pkg:maven/io.zipkin.java/benchmarks@0.18.3
 - pkg:maven/io.zipkin.java/benchmarks@0.18.3?classifier=sources
+- pkg:maven/io.zipkin.java/benchmarks@2.7.5
+- pkg:maven/io.zipkin.java/benchmarks@2.7.5?classifier=sources

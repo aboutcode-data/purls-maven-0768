@@ -6,3 +6,5 @@
 - pkg:maven/com.github.jobservice/job-service@2.2.0-122?type=war
 - pkg:maven/com.github.jobservice/job-service@2.3.0-159?classifier=sources
 - pkg:maven/com.github.jobservice/job-service@2.3.0-159?type=war
+- pkg:maven/com.github.jobservice/job-service@2.4.0-211?classifier=sources
+- pkg:maven/com.github.jobservice/job-service@2.4.0-211?type=war

@@ -1,2 +1,4 @@
 - pkg:maven/org.flywaydb/flyway-play_2.12@4.0.0
 - pkg:maven/org.flywaydb/flyway-play_2.12@4.0.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-play_2.12@5.0.0
+- pkg:maven/org.flywaydb/flyway-play_2.12@5.0.0?classifier=sources

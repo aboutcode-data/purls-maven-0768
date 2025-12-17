@@ -10,3 +10,11 @@
 - pkg:maven/io.zeebe/zb-transport@0.4.0?classifier=sources
 - pkg:maven/io.zeebe/zb-transport@0.5.0
 - pkg:maven/io.zeebe/zb-transport@0.5.0?classifier=sources
+- pkg:maven/io.zeebe/zb-transport@0.6.0
+- pkg:maven/io.zeebe/zb-transport@0.6.0?classifier=sources
+- pkg:maven/io.zeebe/zb-transport@0.7.0
+- pkg:maven/io.zeebe/zb-transport@0.7.0?classifier=sources
+- pkg:maven/io.zeebe/zb-transport@0.8.0
+- pkg:maven/io.zeebe/zb-transport@0.8.0?classifier=sources
+- pkg:maven/io.zeebe/zb-transport@0.9.0
+- pkg:maven/io.zeebe/zb-transport@0.9.0?classifier=sources

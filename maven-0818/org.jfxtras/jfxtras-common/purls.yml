@@ -8,3 +8,7 @@
 - pkg:maven/org.jfxtras/jfxtras-common@8.0-r4?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-common@8.0-r5
 - pkg:maven/org.jfxtras/jfxtras-common@8.0-r5?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-common@8.0-r6
+- pkg:maven/org.jfxtras/jfxtras-common@8.0-r6?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-common@9.0-r1
+- pkg:maven/org.jfxtras/jfxtras-common@9.0-r1?classifier=sources

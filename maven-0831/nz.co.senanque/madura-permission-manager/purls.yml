@@ -1,0 +1,10 @@
+- pkg:maven/nz.co.senanque/madura-permission-manager@3.2.3
+- pkg:maven/nz.co.senanque/madura-permission-manager@3.2.3?classifier=sources
+- pkg:maven/nz.co.senanque/madura-permission-manager@3.2.4
+- pkg:maven/nz.co.senanque/madura-permission-manager@3.2.4?classifier=sources
+- pkg:maven/nz.co.senanque/madura-permission-manager@3.2.5
+- pkg:maven/nz.co.senanque/madura-permission-manager@3.2.5?classifier=sources
+- pkg:maven/nz.co.senanque/madura-permission-manager@3.3.0
+- pkg:maven/nz.co.senanque/madura-permission-manager@3.3.0?classifier=sources
+- pkg:maven/nz.co.senanque/madura-permission-manager@3.4.0
+- pkg:maven/nz.co.senanque/madura-permission-manager@3.4.0?classifier=sources

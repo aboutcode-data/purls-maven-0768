@@ -1,0 +1,2 @@
+- pkg:maven/be.dataminded/lighthouse-core_2.11@0.0.1
+- pkg:maven/be.dataminded/lighthouse-core_2.11@0.0.1?classifier=sources

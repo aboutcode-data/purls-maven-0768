@@ -1,2 +1,10 @@
 - pkg:maven/org.ops4j.pax.jms/pax-jms-api@0.1.0
 - pkg:maven/org.ops4j.pax.jms/pax-jms-api@0.1.0?classifier=sources
+- pkg:maven/org.ops4j.pax.jms/pax-jms-api@0.2.0
+- pkg:maven/org.ops4j.pax.jms/pax-jms-api@0.2.0?classifier=sources
+- pkg:maven/org.ops4j.pax.jms/pax-jms-api@0.3.0
+- pkg:maven/org.ops4j.pax.jms/pax-jms-api@0.3.0?classifier=sources
+- pkg:maven/org.ops4j.pax.jms/pax-jms-api@1.0.0
+- pkg:maven/org.ops4j.pax.jms/pax-jms-api@1.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.jms/pax-jms-api@1.0.1
+- pkg:maven/org.ops4j.pax.jms/pax-jms-api@1.0.1?classifier=sources

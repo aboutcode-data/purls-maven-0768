@@ -1,0 +1,6 @@
+- pkg:maven/fr.inria.repairnator/repairnator-scanner@1.0
+- pkg:maven/fr.inria.repairnator/repairnator-scanner@1.0?classifier=sources
+- pkg:maven/fr.inria.repairnator/repairnator-scanner@2.0
+- pkg:maven/fr.inria.repairnator/repairnator-scanner@2.0?classifier=sources
+- pkg:maven/fr.inria.repairnator/repairnator-scanner@2.1
+- pkg:maven/fr.inria.repairnator/repairnator-scanner@2.1?classifier=sources

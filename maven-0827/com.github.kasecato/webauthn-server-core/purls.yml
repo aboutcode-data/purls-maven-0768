@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kasecato/webauthn-server-core@0.0.1
+- pkg:maven/com.github.kasecato/webauthn-server-core@0.0.1?classifier=sources

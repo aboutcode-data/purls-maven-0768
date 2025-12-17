@@ -1,0 +1,2 @@
+- pkg:maven/org.hibernate.ogm/hibernate-ogm-ignite@5.3.1.Final
+- pkg:maven/org.hibernate.ogm/hibernate-ogm-ignite@5.3.1.Final?classifier=sources

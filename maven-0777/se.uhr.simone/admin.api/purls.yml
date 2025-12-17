@@ -1,2 +1,4 @@
 - pkg:maven/se.uhr.simone/admin.api@1.0.0
 - pkg:maven/se.uhr.simone/admin.api@1.0.0?classifier=sources
+- pkg:maven/se.uhr.simone/admin.api@2.0.0
+- pkg:maven/se.uhr.simone/admin.api@2.0.0?classifier=sources

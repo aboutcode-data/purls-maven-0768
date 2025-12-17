@@ -93,10 +93,15 @@
 - pkg:maven/org.apache.camel/apache-camel@2.19.2?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@2.19.3?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@2.19.4?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@2.19.5?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@2.2.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.camel/apache-camel@2.2.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@2.20.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@2.20.1?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@2.20.2?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@2.20.3?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@2.21.0?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@2.21.1?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@2.3.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.camel/apache-camel@2.3.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@2.4.0?classifier=src&type=tar.gz

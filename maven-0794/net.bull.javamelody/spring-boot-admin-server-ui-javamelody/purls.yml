@@ -1,0 +1,4 @@
+- pkg:maven/net.bull.javamelody/spring-boot-admin-server-ui-javamelody@1.5.7.0
+- pkg:maven/net.bull.javamelody/spring-boot-admin-server-ui-javamelody@1.5.7.0?classifier=sources
+- pkg:maven/net.bull.javamelody/spring-boot-admin-server-ui-javamelody@1.5.7.1
+- pkg:maven/net.bull.javamelody/spring-boot-admin-server-ui-javamelody@1.5.7.1?classifier=sources

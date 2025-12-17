@@ -1,0 +1,1 @@
+- pkg:maven/org.camunda.bpm.extension.swagger/swagger-ui@7.8.0?type=war

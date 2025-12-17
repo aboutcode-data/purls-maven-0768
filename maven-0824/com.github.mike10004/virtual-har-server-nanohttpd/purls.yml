@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mike10004/virtual-har-server-nanohttpd@0.2
+- pkg:maven/com.github.mike10004/virtual-har-server-nanohttpd@0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-service@1.1.0
+- pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-service@1.1.0?classifier=sources

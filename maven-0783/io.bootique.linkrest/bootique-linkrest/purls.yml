@@ -10,3 +10,5 @@
 - pkg:maven/io.bootique.linkrest/bootique-linkrest@0.16?classifier=sources
 - pkg:maven/io.bootique.linkrest/bootique-linkrest@0.24
 - pkg:maven/io.bootique.linkrest/bootique-linkrest@0.24?classifier=sources
+- pkg:maven/io.bootique.linkrest/bootique-linkrest@0.25
+- pkg:maven/io.bootique.linkrest/bootique-linkrest@0.25?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/cordova-background-geolocation-lt@2.10.1
+- pkg:maven/org.webjars.npm/cordova-background-geolocation-lt@2.10.1?classifier=sources

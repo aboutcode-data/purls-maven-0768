@@ -1,2 +1,6 @@
 - pkg:maven/com.thoughtworks.dsl/instructions-yield_2.11@0.1.0
 - pkg:maven/com.thoughtworks.dsl/instructions-yield_2.11@0.1.0?classifier=sources
+- pkg:maven/com.thoughtworks.dsl/instructions-yield_2.11@1.0.0-RC0
+- pkg:maven/com.thoughtworks.dsl/instructions-yield_2.11@1.0.0-RC0?classifier=sources
+- pkg:maven/com.thoughtworks.dsl/instructions-yield_2.11@1.0.0-RC1
+- pkg:maven/com.thoughtworks.dsl/instructions-yield_2.11@1.0.0-RC1?classifier=sources

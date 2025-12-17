@@ -1,0 +1,2 @@
+- pkg:maven/com.linkedin.play-parseq/play-parseq_2.11@0.9.3
+- pkg:maven/com.linkedin.play-parseq/play-parseq_2.11@0.9.3?classifier=sources

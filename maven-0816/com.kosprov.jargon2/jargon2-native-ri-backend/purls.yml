@@ -1,0 +1,8 @@
+- pkg:maven/com.kosprov.jargon2/jargon2-native-ri-backend@1.0.0
+- pkg:maven/com.kosprov.jargon2/jargon2-native-ri-backend@1.0.0?classifier=sources
+- pkg:maven/com.kosprov.jargon2/jargon2-native-ri-backend@1.0.1
+- pkg:maven/com.kosprov.jargon2/jargon2-native-ri-backend@1.0.1?classifier=sources
+- pkg:maven/com.kosprov.jargon2/jargon2-native-ri-backend@1.1.0
+- pkg:maven/com.kosprov.jargon2/jargon2-native-ri-backend@1.1.0?classifier=sources
+- pkg:maven/com.kosprov.jargon2/jargon2-native-ri-backend@1.1.1
+- pkg:maven/com.kosprov.jargon2/jargon2-native-ri-backend@1.1.1?classifier=sources

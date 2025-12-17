@@ -4,3 +4,17 @@
 - pkg:maven/com.github.zhangyingwei/cockroach@1.0.2-Alpha?classifier=sources
 - pkg:maven/com.github.zhangyingwei/cockroach@1.0.3-Alpha
 - pkg:maven/com.github.zhangyingwei/cockroach@1.0.3-Alpha?classifier=sources
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.4-Alpha
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.4-Alpha?classifier=sources
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.5-Alpha
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.5-Alpha?classifier=sources
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.5-Beta
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.5-Beta?classifier=sources
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.5.01-Beta
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.5.01-Beta?classifier=sources
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.5.02-Beta
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.5.02-Beta?classifier=sources
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.5.03-Alpha
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.5.03-Alpha?classifier=sources
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.5.03-Beta
+- pkg:maven/com.github.zhangyingwei/cockroach@1.0.5.03-Beta?classifier=sources

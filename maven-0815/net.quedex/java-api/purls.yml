@@ -8,3 +8,5 @@
 - pkg:maven/net.quedex/java-api@0.4.0?classifier=sources
 - pkg:maven/net.quedex/java-api@0.5.0
 - pkg:maven/net.quedex/java-api@0.5.0?classifier=sources
+- pkg:maven/net.quedex/java-api@0.6.0
+- pkg:maven/net.quedex/java-api@0.6.0?classifier=sources

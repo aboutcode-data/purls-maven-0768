@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-npm@3.11.0-01
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-npm@3.11.0-01?classifier=sources

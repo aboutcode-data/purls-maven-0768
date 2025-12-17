@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jquery.fancytree@2.28.1
+- pkg:maven/org.webjars.npm/jquery.fancytree@2.28.1?classifier=sources

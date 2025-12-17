@@ -269,6 +269,12 @@
 - pkg:maven/io.engineblock/eb-rest@2.0.44?classifier=sources
 - pkg:maven/io.engineblock/eb-rest@2.0.45
 - pkg:maven/io.engineblock/eb-rest@2.0.45?classifier=sources
+- pkg:maven/io.engineblock/eb-rest@2.0.46
+- pkg:maven/io.engineblock/eb-rest@2.0.46?classifier=sources
+- pkg:maven/io.engineblock/eb-rest@2.0.47
+- pkg:maven/io.engineblock/eb-rest@2.0.47?classifier=sources
+- pkg:maven/io.engineblock/eb-rest@2.0.48
+- pkg:maven/io.engineblock/eb-rest@2.0.48?classifier=sources
 - pkg:maven/io.engineblock/eb-rest@2.0.4?classifier=sources
 - pkg:maven/io.engineblock/eb-rest@2.0.5
 - pkg:maven/io.engineblock/eb-rest@2.0.5?classifier=sources

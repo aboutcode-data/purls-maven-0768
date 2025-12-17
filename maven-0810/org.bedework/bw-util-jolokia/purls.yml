@@ -12,6 +12,8 @@
 - pkg:maven/org.bedework/bw-util-jolokia@4.0.15?classifier=sources
 - pkg:maven/org.bedework/bw-util-jolokia@4.0.16
 - pkg:maven/org.bedework/bw-util-jolokia@4.0.16?classifier=sources
+- pkg:maven/org.bedework/bw-util-jolokia@4.0.18
+- pkg:maven/org.bedework/bw-util-jolokia@4.0.18?classifier=sources
 - pkg:maven/org.bedework/bw-util-jolokia@4.0.3
 - pkg:maven/org.bedework/bw-util-jolokia@4.0.3?classifier=sources
 - pkg:maven/org.bedework/bw-util-jolokia@4.0.4

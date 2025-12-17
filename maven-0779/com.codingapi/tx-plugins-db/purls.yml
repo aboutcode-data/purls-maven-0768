@@ -1,3 +1,11 @@
+- pkg:maven/com.codingapi/tx-plugins-db@0.0.0-test3
+- pkg:maven/com.codingapi/tx-plugins-db@0.0.0-test3?classifier=sources
+- pkg:maven/com.codingapi/tx-plugins-db@0.0.3.M1
+- pkg:maven/com.codingapi/tx-plugins-db@0.0.3.M1?classifier=sources
+- pkg:maven/com.codingapi/tx-plugins-db@0.0.4.M1
+- pkg:maven/com.codingapi/tx-plugins-db@0.0.4.M1?classifier=sources
+- pkg:maven/com.codingapi/tx-plugins-db@0.0.5.M1
+- pkg:maven/com.codingapi/tx-plugins-db@0.0.5.M1?classifier=sources
 - pkg:maven/com.codingapi/tx-plugins-db@1.0.0
 - pkg:maven/com.codingapi/tx-plugins-db@1.0.0?classifier=sources
 - pkg:maven/com.codingapi/tx-plugins-db@1.0.1
@@ -6,3 +14,9 @@
 - pkg:maven/com.codingapi/tx-plugins-db@4.0.1?classifier=sources
 - pkg:maven/com.codingapi/tx-plugins-db@4.0.2
 - pkg:maven/com.codingapi/tx-plugins-db@4.0.2?classifier=sources
+- pkg:maven/com.codingapi/tx-plugins-db@4.0.3.M1
+- pkg:maven/com.codingapi/tx-plugins-db@4.0.3.M1?classifier=sources
+- pkg:maven/com.codingapi/tx-plugins-db@4.0.3.M2
+- pkg:maven/com.codingapi/tx-plugins-db@4.0.3.M2?classifier=sources
+- pkg:maven/com.codingapi/tx-plugins-db@4.1.0
+- pkg:maven/com.codingapi/tx-plugins-db@4.1.0?classifier=sources

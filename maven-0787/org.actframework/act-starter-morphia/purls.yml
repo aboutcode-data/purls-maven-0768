@@ -1,0 +1,7 @@
+- pkg:maven/org.actframework/act-starter-morphia@1.6.0
+- pkg:maven/org.actframework/act-starter-morphia@1.6.0-BETA1?classifier=sources
+- pkg:maven/org.actframework/act-starter-morphia@1.6.0-BETA2
+- pkg:maven/org.actframework/act-starter-morphia@1.6.0-BETA2?classifier=sources
+- pkg:maven/org.actframework/act-starter-morphia@1.6.0?classifier=sources
+- pkg:maven/org.actframework/act-starter-morphia@1.6.1
+- pkg:maven/org.actframework/act-starter-morphia@1.6.1?classifier=sources

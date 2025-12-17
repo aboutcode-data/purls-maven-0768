@@ -1,0 +1,2 @@
+- pkg:maven/in.kncsolutions.dhelm.candlescanner/dhelm-candlescanner@1.0.0
+- pkg:maven/in.kncsolutions.dhelm.candlescanner/dhelm-candlescanner@1.0.0?classifier=sources

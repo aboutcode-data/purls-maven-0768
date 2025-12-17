@@ -1,0 +1,2 @@
+- pkg:maven/com.firebase/geofire-common@2.3.1
+- pkg:maven/com.firebase/geofire-common@2.3.1?classifier=sources

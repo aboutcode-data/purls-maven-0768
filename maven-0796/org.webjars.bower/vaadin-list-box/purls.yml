@@ -1,2 +1,10 @@
 - pkg:maven/org.webjars.bower/vaadin-list-box@1.0.0-alpha2
 - pkg:maven/org.webjars.bower/vaadin-list-box@1.0.0-alpha2?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-list-box@1.0.0-alpha6
+- pkg:maven/org.webjars.bower/vaadin-list-box@1.0.0-alpha6?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-list-box@1.0.0-alpha7
+- pkg:maven/org.webjars.bower/vaadin-list-box@1.0.0-alpha7?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-list-box@1.0.0-alpha8
+- pkg:maven/org.webjars.bower/vaadin-list-box@1.0.0-alpha8?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-list-box@1.0.0-alpha9
+- pkg:maven/org.webjars.bower/vaadin-list-box@1.0.0-alpha9?classifier=sources

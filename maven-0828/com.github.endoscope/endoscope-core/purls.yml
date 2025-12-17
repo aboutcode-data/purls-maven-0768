@@ -50,3 +50,7 @@
 - pkg:maven/com.github.endoscope/endoscope-core@2.0.9?classifier=sources
 - pkg:maven/com.github.endoscope/endoscope-core@2.1.0
 - pkg:maven/com.github.endoscope/endoscope-core@2.1.0?classifier=sources
+- pkg:maven/com.github.endoscope/endoscope-core@3.0.0
+- pkg:maven/com.github.endoscope/endoscope-core@3.0.0?classifier=sources
+- pkg:maven/com.github.endoscope/endoscope-core@3.0.1
+- pkg:maven/com.github.endoscope/endoscope-core@3.0.1?classifier=sources

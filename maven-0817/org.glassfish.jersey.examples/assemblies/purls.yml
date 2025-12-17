@@ -77,6 +77,8 @@
 - pkg:maven/org.glassfish.jersey.examples/assemblies@2.26-b09
 - pkg:maven/org.glassfish.jersey.examples/assemblies@2.26-b09?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/assemblies@2.26?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/assemblies@2.27
+- pkg:maven/org.glassfish.jersey.examples/assemblies@2.27?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/assemblies@2.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/assemblies@2.3
 - pkg:maven/org.glassfish.jersey.examples/assemblies@2.3.1

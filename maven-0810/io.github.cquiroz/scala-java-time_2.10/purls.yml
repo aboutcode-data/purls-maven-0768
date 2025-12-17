@@ -4,6 +4,8 @@
 - pkg:maven/io.github.cquiroz/scala-java-time_2.10@2.0.0-M11?classifier=sources
 - pkg:maven/io.github.cquiroz/scala-java-time_2.10@2.0.0-M12
 - pkg:maven/io.github.cquiroz/scala-java-time_2.10@2.0.0-M12?classifier=sources
+- pkg:maven/io.github.cquiroz/scala-java-time_2.10@2.0.0-M13
+- pkg:maven/io.github.cquiroz/scala-java-time_2.10@2.0.0-M13?classifier=sources
 - pkg:maven/io.github.cquiroz/scala-java-time_2.10@2.0.0-M6
 - pkg:maven/io.github.cquiroz/scala-java-time_2.10@2.0.0-M6?classifier=sources
 - pkg:maven/io.github.cquiroz/scala-java-time_2.10@2.0.0-M7

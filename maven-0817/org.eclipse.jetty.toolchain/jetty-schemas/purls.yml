@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@4.0.0-b07
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@4.0.0-b07?classifier=sources
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@4.0.0?classifier=sources
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@4.0.1
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@4.0.1?classifier=sources

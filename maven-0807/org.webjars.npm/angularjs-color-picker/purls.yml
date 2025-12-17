@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angularjs-color-picker@3.4.8
+- pkg:maven/org.webjars.npm/angularjs-color-picker@3.4.8?classifier=sources

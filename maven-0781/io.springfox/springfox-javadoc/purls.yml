@@ -1,0 +1,2 @@
+- pkg:maven/io.springfox/springfox-javadoc@0.9.4
+- pkg:maven/io.springfox/springfox-javadoc@0.9.4?classifier=sources

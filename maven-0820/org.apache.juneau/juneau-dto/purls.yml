@@ -2,3 +2,7 @@
 - pkg:maven/org.apache.juneau/juneau-dto@6.4.0-incubating?classifier=sources
 - pkg:maven/org.apache.juneau/juneau-dto@7.0.0
 - pkg:maven/org.apache.juneau/juneau-dto@7.0.0?classifier=sources
+- pkg:maven/org.apache.juneau/juneau-dto@7.0.1
+- pkg:maven/org.apache.juneau/juneau-dto@7.0.1?classifier=sources
+- pkg:maven/org.apache.juneau/juneau-dto@7.1.0
+- pkg:maven/org.apache.juneau/juneau-dto@7.1.0?classifier=sources

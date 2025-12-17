@@ -23,6 +23,10 @@
 - pkg:maven/org.dmfs/http-client-essentials@0.15.2?classifier=sources
 - pkg:maven/org.dmfs/http-client-essentials@0.15?classifier=sources
 - pkg:maven/org.dmfs/http-client-essentials@0.16
+- pkg:maven/org.dmfs/http-client-essentials@0.16.1
+- pkg:maven/org.dmfs/http-client-essentials@0.16.1?classifier=sources
+- pkg:maven/org.dmfs/http-client-essentials@0.16.2
+- pkg:maven/org.dmfs/http-client-essentials@0.16.2?classifier=sources
 - pkg:maven/org.dmfs/http-client-essentials@0.16?classifier=sources
 - pkg:maven/org.dmfs/http-client-essentials@0.5
 - pkg:maven/org.dmfs/http-client-essentials@0.5?classifier=sources
@@ -38,3 +42,5 @@
 - pkg:maven/org.dmfs/http-client-essentials@0.9.1
 - pkg:maven/org.dmfs/http-client-essentials@0.9.1?classifier=sources
 - pkg:maven/org.dmfs/http-client-essentials@0.9?classifier=sources
+- pkg:maven/org.dmfs/http-client-essentials@1.16.2
+- pkg:maven/org.dmfs/http-client-essentials@1.16.2?classifier=sources

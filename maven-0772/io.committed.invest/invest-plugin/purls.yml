@@ -1,0 +1,4 @@
+- pkg:maven/io.committed.invest/invest-plugin@0.0.1
+- pkg:maven/io.committed.invest/invest-plugin@0.1.0
+- pkg:maven/io.committed.invest/invest-plugin@0.5.0
+- pkg:maven/io.committed.invest/invest-plugin@0.6.0

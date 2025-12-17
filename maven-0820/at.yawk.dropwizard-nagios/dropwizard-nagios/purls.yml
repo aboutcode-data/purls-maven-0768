@@ -1,0 +1,2 @@
+- pkg:maven/at.yawk.dropwizard-nagios/dropwizard-nagios@1.0
+- pkg:maven/at.yawk.dropwizard-nagios/dropwizard-nagios@1.0?classifier=sources

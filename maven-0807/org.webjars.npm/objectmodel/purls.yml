@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/objectmodel@2.6.2
+- pkg:maven/org.webjars.npm/objectmodel@2.6.2?classifier=sources
+- pkg:maven/org.webjars.npm/objectmodel@3.4.5
+- pkg:maven/org.webjars.npm/objectmodel@3.4.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.wissel.salesforce/sfdc-redis@0.2.4
+- pkg:maven/net.wissel.salesforce/sfdc-redis@0.2.4?classifier=sources
+- pkg:maven/net.wissel.salesforce/sfdc-redis@0.2.5
+- pkg:maven/net.wissel.salesforce/sfdc-redis@0.2.5?classifier=sources

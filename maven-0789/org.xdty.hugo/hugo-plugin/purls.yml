@@ -1,0 +1,4 @@
+- pkg:maven/org.xdty.hugo/hugo-plugin@1.2.4
+- pkg:maven/org.xdty.hugo/hugo-plugin@1.2.4?classifier=sources
+- pkg:maven/org.xdty.hugo/hugo-plugin@1.2.8
+- pkg:maven/org.xdty.hugo/hugo-plugin@1.2.8?classifier=sources

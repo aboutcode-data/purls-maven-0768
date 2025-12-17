@@ -1,0 +1,2 @@
+- pkg:maven/com.progressoft.brix.domino.test/domino-server-test@1.0-rc.2
+- pkg:maven/com.progressoft.brix.domino.test/domino-server-test@1.0-rc.2?classifier=sources

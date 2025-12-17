@@ -1,0 +1,2 @@
+- pkg:maven/com.ktanx/ktanx-autocoder@1.0.0
+- pkg:maven/com.ktanx/ktanx-autocoder@1.0.0?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/me.snowdrop/spring-cloud-starter-stream-artemis@0.0.1
+- pkg:maven/me.snowdrop/spring-cloud-starter-stream-artemis@0.0.1?classifier=sources
 - pkg:maven/me.snowdrop/spring-cloud-starter-stream-artemis@1.0.0.Alpha1
 - pkg:maven/me.snowdrop/spring-cloud-starter-stream-artemis@1.0.0.Alpha1?classifier=sources

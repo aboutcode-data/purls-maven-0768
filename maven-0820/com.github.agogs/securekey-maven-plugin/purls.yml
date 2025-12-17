@@ -1,0 +1,2 @@
+- pkg:maven/com.github.agogs/securekey-maven-plugin@1.0.2
+- pkg:maven/com.github.agogs/securekey-maven-plugin@1.0.2?classifier=sources

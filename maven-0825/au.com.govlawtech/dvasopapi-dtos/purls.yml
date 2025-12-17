@@ -1,0 +1,4 @@
+- pkg:maven/au.com.govlawtech/dvasopapi-dtos@1.3.0
+- pkg:maven/au.com.govlawtech/dvasopapi-dtos@1.3.0?classifier=sources
+- pkg:maven/au.com.govlawtech/dvasopapi-dtos@1.3.1
+- pkg:maven/au.com.govlawtech/dvasopapi-dtos@1.3.1?classifier=sources

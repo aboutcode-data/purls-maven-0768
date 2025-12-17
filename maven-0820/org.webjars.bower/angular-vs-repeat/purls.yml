@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.bower/angular-vs-repeat@1.1.2?classifier=sources
 - pkg:maven/org.webjars.bower/angular-vs-repeat@1.1.7
 - pkg:maven/org.webjars.bower/angular-vs-repeat@1.1.7?classifier=sources
+- pkg:maven/org.webjars.bower/angular-vs-repeat@2.0.9
+- pkg:maven/org.webjars.bower/angular-vs-repeat@2.0.9?classifier=sources

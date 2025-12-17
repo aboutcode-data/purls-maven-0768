@@ -6,3 +6,7 @@
 - pkg:maven/org.apache.atlas/atlas-dashboardv2@0.8-incubating?type=war
 - pkg:maven/org.apache.atlas/atlas-dashboardv2@0.8.1?classifier=sources
 - pkg:maven/org.apache.atlas/atlas-dashboardv2@0.8.1?type=war
+- pkg:maven/org.apache.atlas/atlas-dashboardv2@0.8.2?classifier=sources
+- pkg:maven/org.apache.atlas/atlas-dashboardv2@0.8.2?type=war
+- pkg:maven/org.apache.atlas/atlas-dashboardv2@1.0.0-alpha?classifier=sources
+- pkg:maven/org.apache.atlas/atlas-dashboardv2@1.0.0-alpha?type=war

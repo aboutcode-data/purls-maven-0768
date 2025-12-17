@@ -1,2 +1,4 @@
 - pkg:maven/io.leopard/leopard-thirdparty-login@0.9.11
 - pkg:maven/io.leopard/leopard-thirdparty-login@0.9.11?classifier=sources
+- pkg:maven/io.leopard/leopard-thirdparty-login@0.9.12
+- pkg:maven/io.leopard/leopard-thirdparty-login@0.9.12?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.streams/streams-persist-riak@0.5-incubating
+- pkg:maven/org.apache.streams/streams-persist-riak@0.5.1

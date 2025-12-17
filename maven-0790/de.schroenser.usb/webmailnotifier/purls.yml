@@ -1,0 +1,2 @@
+- pkg:maven/de.schroenser.usb/webmailnotifier@1.0
+- pkg:maven/de.schroenser.usb/webmailnotifier@1.0?classifier=sources

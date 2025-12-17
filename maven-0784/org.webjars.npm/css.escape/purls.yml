@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/css.escape@1.5.1
+- pkg:maven/org.webjars.npm/css.escape@1.5.1?classifier=sources

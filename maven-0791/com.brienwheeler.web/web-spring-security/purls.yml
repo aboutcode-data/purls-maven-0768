@@ -14,3 +14,9 @@
 - pkg:maven/com.brienwheeler.web/web-spring-security@1.07-RELEASE
 - pkg:maven/com.brienwheeler.web/web-spring-security@1.07-RELEASE?classifier=sources
 - pkg:maven/com.brienwheeler.web/web-spring-security@1.07?classifier=sources
+- pkg:maven/com.brienwheeler.web/web-spring-security@1.08
+- pkg:maven/com.brienwheeler.web/web-spring-security@1.08?classifier=sources
+- pkg:maven/com.brienwheeler.web/web-spring-security@1.09
+- pkg:maven/com.brienwheeler.web/web-spring-security@1.09?classifier=sources
+- pkg:maven/com.brienwheeler.web/web-spring-security@1.10
+- pkg:maven/com.brienwheeler.web/web-spring-security@1.10?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.oasp.java.starters/oasp4j-starter-cxf-server-ws@2.5.0
+- pkg:maven/io.oasp.java.starters/oasp4j-starter-cxf-server-ws@2.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.gwidgets.maven/spring-boot-gwt@0.4
+- pkg:maven/com.gwidgets.maven/spring-boot-gwt@0.4?classifier=sources

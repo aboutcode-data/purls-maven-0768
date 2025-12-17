@@ -1,0 +1,6 @@
+- pkg:maven/edu.psu.swe.scim/scim-spec-protocol@2.20
+- pkg:maven/edu.psu.swe.scim/scim-spec-protocol@2.20?classifier=sources
+- pkg:maven/edu.psu.swe.scim/scim-spec-protocol@2.21
+- pkg:maven/edu.psu.swe.scim/scim-spec-protocol@2.21?classifier=sources
+- pkg:maven/edu.psu.swe.scim/scim-spec-protocol@2.22
+- pkg:maven/edu.psu.swe.scim/scim-spec-protocol@2.22?classifier=sources

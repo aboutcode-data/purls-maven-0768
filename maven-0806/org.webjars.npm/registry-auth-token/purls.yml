@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/registry-auth-token@3.0.1
 - pkg:maven/org.webjars.npm/registry-auth-token@3.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/registry-auth-token@3.3.2
+- pkg:maven/org.webjars.npm/registry-auth-token@3.3.2?classifier=sources

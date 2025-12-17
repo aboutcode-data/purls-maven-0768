@@ -1,0 +1,4 @@
+- pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-contentmoderator@0.0.1-beta
+- pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-contentmoderator@0.0.1-beta?classifier=sources
+- pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-contentmoderator@1.0.0-beta
+- pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-contentmoderator@1.0.0-beta?classifier=sources

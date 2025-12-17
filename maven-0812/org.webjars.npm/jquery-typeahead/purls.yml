@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/jquery-typeahead@2.10.3
 - pkg:maven/org.webjars.npm/jquery-typeahead@2.10.3?classifier=sources
+- pkg:maven/org.webjars.npm/jquery-typeahead@2.10.4
+- pkg:maven/org.webjars.npm/jquery-typeahead@2.10.4?classifier=sources
 - pkg:maven/org.webjars.npm/jquery-typeahead@2.8.0
 - pkg:maven/org.webjars.npm/jquery-typeahead@2.8.0?classifier=sources

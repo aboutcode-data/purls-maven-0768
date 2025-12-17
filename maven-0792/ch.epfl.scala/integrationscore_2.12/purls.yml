@@ -1,0 +1,4 @@
+- pkg:maven/ch.epfl.scala/integrationscore_2.12@1.0.0-M1%2B107-6c220e06
+- pkg:maven/ch.epfl.scala/integrationscore_2.12@1.0.0-M1%2B107-6c220e06?classifier=sources
+- pkg:maven/ch.epfl.scala/integrationscore_2.12@1.0.0-M1%2B95-9161c254
+- pkg:maven/ch.epfl.scala/integrationscore_2.12@1.0.0-M1%2B95-9161c254?classifier=sources

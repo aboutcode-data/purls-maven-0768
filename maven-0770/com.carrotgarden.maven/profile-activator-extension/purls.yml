@@ -1,0 +1,4 @@
+- pkg:maven/com.carrotgarden.maven/profile-activator-extension@1.1.20180118221118
+- pkg:maven/com.carrotgarden.maven/profile-activator-extension@1.1.20180118221118?classifier=sources
+- pkg:maven/com.carrotgarden.maven/profile-activator-extension@1.2.20180119141943
+- pkg:maven/com.carrotgarden.maven/profile-activator-extension@1.2.20180119141943?classifier=sources

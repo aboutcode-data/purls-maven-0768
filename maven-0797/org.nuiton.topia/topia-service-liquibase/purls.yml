@@ -45,4 +45,10 @@
 - pkg:maven/org.nuiton.topia/topia-service-liquibase@3.2.1?classifier=sources
 - pkg:maven/org.nuiton.topia/topia-service-liquibase@3.2?classifier=sources
 - pkg:maven/org.nuiton.topia/topia-service-liquibase@3.3
+- pkg:maven/org.nuiton.topia/topia-service-liquibase@3.3.1
+- pkg:maven/org.nuiton.topia/topia-service-liquibase@3.3.1?classifier=sources
 - pkg:maven/org.nuiton.topia/topia-service-liquibase@3.3?classifier=sources
+- pkg:maven/org.nuiton.topia/topia-service-liquibase@3.4
+- pkg:maven/org.nuiton.topia/topia-service-liquibase@3.4.1
+- pkg:maven/org.nuiton.topia/topia-service-liquibase@3.4.1?classifier=sources
+- pkg:maven/org.nuiton.topia/topia-service-liquibase@3.4?classifier=sources

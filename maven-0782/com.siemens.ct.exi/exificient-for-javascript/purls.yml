@@ -1,0 +1,4 @@
+- pkg:maven/com.siemens.ct.exi/exificient-for-javascript@0.9.7
+- pkg:maven/com.siemens.ct.exi/exificient-for-javascript@0.9.7?classifier=sources
+- pkg:maven/com.siemens.ct.exi/exificient-for-javascript@1.0.0
+- pkg:maven/com.siemens.ct.exi/exificient-for-javascript@1.0.0?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/cd.connect.servlet/servlet-spring-jersey@1.1
+- pkg:maven/cd.connect.servlet/servlet-spring-jersey@1.10
+- pkg:maven/cd.connect.servlet/servlet-spring-jersey@1.10?classifier=sources
 - pkg:maven/cd.connect.servlet/servlet-spring-jersey@1.1?classifier=sources
 - pkg:maven/cd.connect.servlet/servlet-spring-jersey@1.2
 - pkg:maven/cd.connect.servlet/servlet-spring-jersey@1.2?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.2?type=war
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.3?classifier=sources
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.3?type=war
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.4?classifier=sources
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.4?type=war
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.5?classifier=sources
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.5?type=war

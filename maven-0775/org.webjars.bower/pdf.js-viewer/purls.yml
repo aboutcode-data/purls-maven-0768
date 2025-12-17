@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/pdf.js-viewer@0.3.3
+- pkg:maven/org.webjars.bower/pdf.js-viewer@0.3.3?classifier=sources
+- pkg:maven/org.webjars.bower/pdf.js-viewer@1.6.210
+- pkg:maven/org.webjars.bower/pdf.js-viewer@1.6.210?classifier=sources
+- pkg:maven/org.webjars.bower/pdf.js-viewer@1.6.211
+- pkg:maven/org.webjars.bower/pdf.js-viewer@1.6.211?classifier=sources

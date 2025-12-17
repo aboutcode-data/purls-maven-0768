@@ -14,3 +14,5 @@
 - pkg:maven/com.mcxiaoke.packer-ng/helper@1.9.3?type=aar
 - pkg:maven/com.mcxiaoke.packer-ng/helper@2.0.0?classifier=sources
 - pkg:maven/com.mcxiaoke.packer-ng/helper@2.0.0?type=aar
+- pkg:maven/com.mcxiaoke.packer-ng/helper@2.0.1?classifier=sources
+- pkg:maven/com.mcxiaoke.packer-ng/helper@2.0.1?type=aar

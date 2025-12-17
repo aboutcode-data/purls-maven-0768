@@ -1,3 +1,9 @@
+- pkg:maven/org.seleniumhq.selenium/lift@3.10.0
+- pkg:maven/org.seleniumhq.selenium/lift@3.10.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/lift@3.11.0
+- pkg:maven/org.seleniumhq.selenium/lift@3.11.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/lift@3.12.0
+- pkg:maven/org.seleniumhq.selenium/lift@3.12.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/lift@3.4.0
 - pkg:maven/org.seleniumhq.selenium/lift@3.4.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/lift@3.5.1
@@ -16,3 +22,7 @@
 - pkg:maven/org.seleniumhq.selenium/lift@3.8.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/lift@3.8.1
 - pkg:maven/org.seleniumhq.selenium/lift@3.8.1?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/lift@3.9.0
+- pkg:maven/org.seleniumhq.selenium/lift@3.9.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/lift@3.9.1
+- pkg:maven/org.seleniumhq.selenium/lift@3.9.1?classifier=sources

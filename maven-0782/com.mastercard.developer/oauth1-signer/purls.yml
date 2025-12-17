@@ -1,0 +1,2 @@
+- pkg:maven/com.mastercard.developer/oauth1-signer@1.0.0
+- pkg:maven/com.mastercard.developer/oauth1-signer@1.0.0?classifier=sources

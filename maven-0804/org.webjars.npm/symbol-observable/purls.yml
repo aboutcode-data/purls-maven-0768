@@ -6,3 +6,7 @@
 - pkg:maven/org.webjars.npm/symbol-observable@1.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/symbol-observable@1.0.4
 - pkg:maven/org.webjars.npm/symbol-observable@1.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/symbol-observable@1.1.0
+- pkg:maven/org.webjars.npm/symbol-observable@1.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/symbol-observable@1.2.0
+- pkg:maven/org.webjars.npm/symbol-observable@1.2.0?classifier=sources

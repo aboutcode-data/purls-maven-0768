@@ -1,0 +1,2 @@
+- pkg:maven/org.restcomm.media.server.standalone/media-server-standalone-bootstrap@8.0.0-28
+- pkg:maven/org.restcomm.media.server.standalone/media-server-standalone-bootstrap@8.0.0-28?classifier=sources

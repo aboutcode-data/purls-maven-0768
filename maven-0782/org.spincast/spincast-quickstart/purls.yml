@@ -47,6 +47,12 @@
 - pkg:maven/org.spincast/spincast-quickstart@0.9.33?classifier=sources
 - pkg:maven/org.spincast/spincast-quickstart@0.9.34
 - pkg:maven/org.spincast/spincast-quickstart@0.9.34?classifier=sources
+- pkg:maven/org.spincast/spincast-quickstart@0.9.35
+- pkg:maven/org.spincast/spincast-quickstart@0.9.35?classifier=sources
+- pkg:maven/org.spincast/spincast-quickstart@0.9.36
+- pkg:maven/org.spincast/spincast-quickstart@0.9.36?classifier=sources
+- pkg:maven/org.spincast/spincast-quickstart@0.9.37
+- pkg:maven/org.spincast/spincast-quickstart@0.9.37?classifier=sources
 - pkg:maven/org.spincast/spincast-quickstart@0.9.3?classifier=sources
 - pkg:maven/org.spincast/spincast-quickstart@0.9.4
 - pkg:maven/org.spincast/spincast-quickstart@0.9.4?classifier=sources

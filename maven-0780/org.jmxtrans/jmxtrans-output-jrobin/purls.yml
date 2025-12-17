@@ -28,3 +28,7 @@
 - pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@267?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@268
 - pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@268?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@269
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@269?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@270
+- pkg:maven/org.jmxtrans/jmxtrans-output-jrobin@270?classifier=sources

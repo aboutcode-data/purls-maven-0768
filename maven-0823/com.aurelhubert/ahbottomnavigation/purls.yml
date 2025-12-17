@@ -70,3 +70,5 @@
 - pkg:maven/com.aurelhubert/ahbottomnavigation@2.0.6?type=aar
 - pkg:maven/com.aurelhubert/ahbottomnavigation@2.1.0?classifier=sources
 - pkg:maven/com.aurelhubert/ahbottomnavigation@2.1.0?type=aar
+- pkg:maven/com.aurelhubert/ahbottomnavigation@2.2.0?classifier=sources
+- pkg:maven/com.aurelhubert/ahbottomnavigation@2.2.0?type=aar

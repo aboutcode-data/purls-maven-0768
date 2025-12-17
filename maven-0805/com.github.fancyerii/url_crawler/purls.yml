@@ -3,4 +3,6 @@
 - pkg:maven/com.github.fancyerii/url_crawler@1.1.1?classifier=sources
 - pkg:maven/com.github.fancyerii/url_crawler@1.1.2
 - pkg:maven/com.github.fancyerii/url_crawler@1.1.2?classifier=sources
+- pkg:maven/com.github.fancyerii/url_crawler@1.1.4
+- pkg:maven/com.github.fancyerii/url_crawler@1.1.4?classifier=sources
 - pkg:maven/com.github.fancyerii/url_crawler@1.1?classifier=sources

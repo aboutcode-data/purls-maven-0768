@@ -14,3 +14,5 @@
 - pkg:maven/org.fcrepo/fcrepo-event-serialization@4.7.3?classifier=sources
 - pkg:maven/org.fcrepo/fcrepo-event-serialization@4.7.4
 - pkg:maven/org.fcrepo/fcrepo-event-serialization@4.7.4?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-event-serialization@4.7.5
+- pkg:maven/org.fcrepo/fcrepo-event-serialization@4.7.5?classifier=sources

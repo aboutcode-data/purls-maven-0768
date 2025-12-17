@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.dbformysql-2017-12-01/azure-mgmt-mysql@1.0.0-beta-1
+- pkg:maven/com.microsoft.azure.dbformysql-2017-12-01/azure-mgmt-mysql@1.0.0-beta-1?classifier=sources

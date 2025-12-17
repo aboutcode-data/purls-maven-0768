@@ -6,3 +6,5 @@
 - pkg:maven/org.daisy.streamline/streamline-cli@0.3.0?classifier=sources
 - pkg:maven/org.daisy.streamline/streamline-cli@0.4.0
 - pkg:maven/org.daisy.streamline/streamline-cli@0.4.0?classifier=sources
+- pkg:maven/org.daisy.streamline/streamline-cli@1.0.0
+- pkg:maven/org.daisy.streamline/streamline-cli@1.0.0?classifier=sources

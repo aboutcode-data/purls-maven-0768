@@ -1,0 +1,6 @@
+- pkg:maven/com.quhaodian/workflow@1.6.0
+- pkg:maven/com.quhaodian/workflow@1.6.0?classifier=sources
+- pkg:maven/com.quhaodian/workflow@1.6.1
+- pkg:maven/com.quhaodian/workflow@1.6.1?classifier=sources
+- pkg:maven/com.quhaodian/workflow@1.8.1
+- pkg:maven/com.quhaodian/workflow@1.8.1?classifier=sources

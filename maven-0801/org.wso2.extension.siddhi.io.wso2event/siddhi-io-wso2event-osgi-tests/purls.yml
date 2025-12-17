@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.extension.siddhi.io.wso2event/siddhi-io-wso2event-osgi-tests@4.0.10
+- pkg:maven/org.wso2.extension.siddhi.io.wso2event/siddhi-io-wso2event-osgi-tests@4.0.10?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.io.wso2event/siddhi-io-wso2event-osgi-tests@4.0.11
+- pkg:maven/org.wso2.extension.siddhi.io.wso2event/siddhi-io-wso2event-osgi-tests@4.0.11?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.io.wso2event/siddhi-io-wso2event-osgi-tests@4.0.12
+- pkg:maven/org.wso2.extension.siddhi.io.wso2event/siddhi-io-wso2event-osgi-tests@4.0.12?classifier=sources

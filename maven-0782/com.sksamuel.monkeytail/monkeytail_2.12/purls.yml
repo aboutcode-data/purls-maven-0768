@@ -1,0 +1,6 @@
+- pkg:maven/com.sksamuel.monkeytail/monkeytail_2.12@0.90.0
+- pkg:maven/com.sksamuel.monkeytail/monkeytail_2.12@0.90.0?classifier=sources
+- pkg:maven/com.sksamuel.monkeytail/monkeytail_2.12@0.91.0
+- pkg:maven/com.sksamuel.monkeytail/monkeytail_2.12@0.91.0?classifier=sources
+- pkg:maven/com.sksamuel.monkeytail/monkeytail_2.12@0.92.0
+- pkg:maven/com.sksamuel.monkeytail/monkeytail_2.12@0.92.0?classifier=sources

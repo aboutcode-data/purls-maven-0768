@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/is-generator-function@1.0.7
+- pkg:maven/org.webjars.npm/is-generator-function@1.0.7?classifier=sources

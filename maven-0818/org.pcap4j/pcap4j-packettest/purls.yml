@@ -17,3 +17,6 @@
 - pkg:maven/org.pcap4j/pcap4j-packettest@1.7.0
 - pkg:maven/org.pcap4j/pcap4j-packettest@1.7.1
 - pkg:maven/org.pcap4j/pcap4j-packettest@1.7.2
+- pkg:maven/org.pcap4j/pcap4j-packettest@1.7.3
+- pkg:maven/org.pcap4j/pcap4j-packettest@2.0.0-alpha
+- pkg:maven/org.pcap4j/pcap4j-packettest@2.0.0-alpha?classifier=sources

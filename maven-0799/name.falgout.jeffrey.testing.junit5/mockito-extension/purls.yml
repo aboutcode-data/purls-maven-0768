@@ -4,3 +4,5 @@
 - pkg:maven/name.falgout.jeffrey.testing.junit5/mockito-extension@1.0.0-RC2
 - pkg:maven/name.falgout.jeffrey.testing.junit5/mockito-extension@1.0.0-RC2?classifier=sources
 - pkg:maven/name.falgout.jeffrey.testing.junit5/mockito-extension@1.0.0?classifier=sources
+- pkg:maven/name.falgout.jeffrey.testing.junit5/mockito-extension@1.0.1
+- pkg:maven/name.falgout.jeffrey.testing.junit5/mockito-extension@1.0.1?classifier=sources

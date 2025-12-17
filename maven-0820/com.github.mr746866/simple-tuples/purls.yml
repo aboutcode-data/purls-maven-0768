@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mr746866/simple-tuples@1.0.1
+- pkg:maven/com.github.mr746866/simple-tuples@1.0.1?classifier=sources

@@ -8,3 +8,11 @@
 - pkg:maven/net.avcompris.commons/avc-core-commons@0.1.14?classifier=sources
 - pkg:maven/net.avcompris.commons/avc-core-commons@0.1.15
 - pkg:maven/net.avcompris.commons/avc-core-commons@0.1.15?classifier=sources
+- pkg:maven/net.avcompris.commons/avc-core-commons@0.1.19
+- pkg:maven/net.avcompris.commons/avc-core-commons@0.1.19?classifier=sources
+- pkg:maven/net.avcompris.commons/avc-core-commons@0.4.40
+- pkg:maven/net.avcompris.commons/avc-core-commons@0.4.40?classifier=sources
+- pkg:maven/net.avcompris.commons/avc-core-commons@0.5.3
+- pkg:maven/net.avcompris.commons/avc-core-commons@0.5.3?classifier=sources
+- pkg:maven/net.avcompris.commons/avc-core-commons@0.5.4
+- pkg:maven/net.avcompris.commons/avc-core-commons@0.5.4?classifier=sources

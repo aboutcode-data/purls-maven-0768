@@ -133,6 +133,7 @@
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.13.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.14.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.15.Final?type=war
+- pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.16.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.2.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.3.Final?type=war
 - pkg:maven/org.jboss.as/jboss-as-console-resources@2.9.4.Final?type=war

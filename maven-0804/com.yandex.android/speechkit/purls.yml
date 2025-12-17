@@ -1,1 +1,2 @@
 - pkg:maven/com.yandex.android/speechkit@2.5.0?type=aar
+- pkg:maven/com.yandex.android/speechkit@3.12.2?type=aar

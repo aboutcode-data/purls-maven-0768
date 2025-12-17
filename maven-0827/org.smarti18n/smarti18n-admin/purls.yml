@@ -1,0 +1,2 @@
+- pkg:maven/org.smarti18n/smarti18n-admin@1.0-PRE4?classifier=sources
+- pkg:maven/org.smarti18n/smarti18n-admin@1.0-PRE4?type=war

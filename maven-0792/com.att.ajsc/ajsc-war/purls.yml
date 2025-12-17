@@ -2,3 +2,9 @@
 - pkg:maven/com.att.ajsc/ajsc-war@2.0.0?type=war
 - pkg:maven/com.att.ajsc/ajsc-war@2.1.0?type=war
 - pkg:maven/com.att.ajsc/ajsc-war@3.0.0?type=war
+- pkg:maven/com.att.ajsc/ajsc-war@3.0.1-oss?type=war
+- pkg:maven/com.att.ajsc/ajsc-war@3.0.2-oss?type=war
+- pkg:maven/com.att.ajsc/ajsc-war@3.0.3-oss?type=war
+- pkg:maven/com.att.ajsc/ajsc-war@3.0.4-oss?type=war
+- pkg:maven/com.att.ajsc/ajsc-war@3.0.5-oss?type=war
+- pkg:maven/com.att.ajsc/ajsc-war@3.0.6-oss?type=war

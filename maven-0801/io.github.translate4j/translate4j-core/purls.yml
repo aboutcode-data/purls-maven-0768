@@ -4,3 +4,5 @@
 - pkg:maven/io.github.translate4j/translate4j-core@0.2.0?classifier=sources
 - pkg:maven/io.github.translate4j/translate4j-core@0.3.0
 - pkg:maven/io.github.translate4j/translate4j-core@0.3.0?classifier=sources
+- pkg:maven/io.github.translate4j/translate4j-core@0.3.1
+- pkg:maven/io.github.translate4j/translate4j-core@0.3.1?classifier=sources

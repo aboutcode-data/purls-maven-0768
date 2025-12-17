@@ -6,3 +6,5 @@
 - pkg:maven/biz.aQute.bnd/biz.aQute.remote.launcher@3.4.0?classifier=sources
 - pkg:maven/biz.aQute.bnd/biz.aQute.remote.launcher@3.5.0
 - pkg:maven/biz.aQute.bnd/biz.aQute.remote.launcher@3.5.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.remote.launcher@4.0.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.remote.launcher@4.0.0?classifier=sources

@@ -58,3 +58,5 @@
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@2.26-b09
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@2.26-b09?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@2.26?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@2.27
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@2.27?classifier=sources

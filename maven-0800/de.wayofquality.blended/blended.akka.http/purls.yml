@@ -1,0 +1,10 @@
+- pkg:maven/de.wayofquality.blended/blended.akka.http@2.4.0-RC3
+- pkg:maven/de.wayofquality.blended/blended.akka.http@2.4.0-RC3?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.akka.http@2.4.0-RC4
+- pkg:maven/de.wayofquality.blended/blended.akka.http@2.4.0-RC4?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.akka.http@2.4.0-RC5
+- pkg:maven/de.wayofquality.blended/blended.akka.http@2.4.0-RC5?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.akka.http@2.4.0-RC6
+- pkg:maven/de.wayofquality.blended/blended.akka.http@2.4.0-RC6?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.akka.http@2.4.0-RC7
+- pkg:maven/de.wayofquality.blended/blended.akka.http@2.4.0-RC7?classifier=sources

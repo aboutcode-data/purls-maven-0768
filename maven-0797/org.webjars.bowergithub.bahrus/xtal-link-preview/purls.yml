@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.bahrus/xtal-link-preview@0.0.11
+- pkg:maven/org.webjars.bowergithub.bahrus/xtal-link-preview@0.0.11?classifier=sources
+- pkg:maven/org.webjars.bowergithub.bahrus/xtal-link-preview@0.0.13
+- pkg:maven/org.webjars.bowergithub.bahrus/xtal-link-preview@0.0.13?classifier=sources

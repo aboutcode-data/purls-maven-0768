@@ -16,6 +16,7 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@1.0?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@1.1
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@1.1?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@2.0
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@2.0-Alpha-1
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@2.0-Alpha-1?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@2.0-Alpha-2
@@ -28,3 +29,4 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@2.0-Alpha-5?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@2.0-Alpha-6
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@2.0-Alpha-6?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/info.xiancloud/xian-log@0.1.0-SNAPSHOTS
+- pkg:maven/info.xiancloud/xian-log@0.1.0-SNAPSHOTS?classifier=sources
+- pkg:maven/info.xiancloud/xian-log@0.1.0-beta
+- pkg:maven/info.xiancloud/xian-log@0.1.0-beta?classifier=sources

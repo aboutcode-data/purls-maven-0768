@@ -26,5 +26,9 @@
 - pkg:maven/org.apache.oodt/cas-product@1.0?type=war
 - pkg:maven/org.apache.oodt/cas-product@1.1?classifier=sources
 - pkg:maven/org.apache.oodt/cas-product@1.1?type=war
+- pkg:maven/org.apache.oodt/cas-product@1.2.1?classifier=sources
+- pkg:maven/org.apache.oodt/cas-product@1.2.1?type=war
+- pkg:maven/org.apache.oodt/cas-product@1.2.2?classifier=sources
+- pkg:maven/org.apache.oodt/cas-product@1.2.2?type=war
 - pkg:maven/org.apache.oodt/cas-product@1.2?classifier=sources
 - pkg:maven/org.apache.oodt/cas-product@1.2?type=war

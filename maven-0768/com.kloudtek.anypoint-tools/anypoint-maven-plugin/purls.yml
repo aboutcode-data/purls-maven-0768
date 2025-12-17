@@ -1,0 +1,8 @@
+- pkg:maven/com.kloudtek.anypoint-tools/anypoint-maven-plugin@0.9.24
+- pkg:maven/com.kloudtek.anypoint-tools/anypoint-maven-plugin@0.9.24?classifier=sources
+- pkg:maven/com.kloudtek.anypoint-tools/anypoint-maven-plugin@0.9.25
+- pkg:maven/com.kloudtek.anypoint-tools/anypoint-maven-plugin@0.9.25?classifier=sources
+- pkg:maven/com.kloudtek.anypoint-tools/anypoint-maven-plugin@0.9.26
+- pkg:maven/com.kloudtek.anypoint-tools/anypoint-maven-plugin@0.9.26?classifier=sources
+- pkg:maven/com.kloudtek.anypoint-tools/anypoint-maven-plugin@0.9.27
+- pkg:maven/com.kloudtek.anypoint-tools/anypoint-maven-plugin@0.9.27?classifier=sources

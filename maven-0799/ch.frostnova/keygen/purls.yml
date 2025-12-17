@@ -1,0 +1,2 @@
+- pkg:maven/ch.frostnova/keygen@1.0.0-RC1
+- pkg:maven/ch.frostnova/keygen@1.0.0-RC1?classifier=sources

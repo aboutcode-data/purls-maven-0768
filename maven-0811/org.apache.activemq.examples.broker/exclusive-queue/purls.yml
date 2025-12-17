@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.activemq.examples.broker/exclusive-queue@2.6.0
+- pkg:maven/org.apache.activemq.examples.broker/exclusive-queue@2.6.0?classifier=sources

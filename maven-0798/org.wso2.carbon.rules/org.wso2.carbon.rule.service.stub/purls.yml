@@ -1,2 +1,6 @@
 - pkg:maven/org.wso2.carbon.rules/org.wso2.carbon.rule.service.stub@4.4.6
 - pkg:maven/org.wso2.carbon.rules/org.wso2.carbon.rule.service.stub@4.4.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.rules/org.wso2.carbon.rule.service.stub@4.4.7
+- pkg:maven/org.wso2.carbon.rules/org.wso2.carbon.rule.service.stub@4.4.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.rules/org.wso2.carbon.rule.service.stub@4.4.8
+- pkg:maven/org.wso2.carbon.rules/org.wso2.carbon.rule.service.stub@4.4.8?classifier=source-release&type=zip

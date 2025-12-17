@@ -1,0 +1,2 @@
+- pkg:maven/org.mikand.autonomous.services/data@1.0.0
+- pkg:maven/org.mikand.autonomous.services/data@1.0.0?classifier=sources
