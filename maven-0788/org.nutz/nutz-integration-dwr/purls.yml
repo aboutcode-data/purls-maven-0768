@@ -42,3 +42,5 @@
 - pkg:maven/org.nutz/nutz-integration-dwr@1.r.68.v20190516?classifier=sources
 - pkg:maven/org.nutz/nutz-integration-dwr@1.r.68.v20190621
 - pkg:maven/org.nutz/nutz-integration-dwr@1.r.68.v20190621?classifier=sources
+- pkg:maven/org.nutz/nutz-integration-dwr@1.r.68.v20190731
+- pkg:maven/org.nutz/nutz-integration-dwr@1.r.68.v20190731?classifier=sources

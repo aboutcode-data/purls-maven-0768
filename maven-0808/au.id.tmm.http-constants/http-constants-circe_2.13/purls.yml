@@ -1,0 +1,2 @@
+- pkg:maven/au.id.tmm.http-constants/http-constants-circe_2.13@1.1.0
+- pkg:maven/au.id.tmm.http-constants/http-constants-circe_2.13@1.1.0?classifier=sources

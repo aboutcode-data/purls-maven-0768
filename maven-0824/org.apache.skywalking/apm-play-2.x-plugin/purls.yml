@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/apm-play-2.x-plugin@6.4.0
+- pkg:maven/org.apache.skywalking/apm-play-2.x-plugin@6.4.0?classifier=sources

@@ -1,3 +1,7 @@
+- pkg:maven/ca.rbon/iostream@0.10.2
+- pkg:maven/ca.rbon/iostream@0.10.2?classifier=sources
+- pkg:maven/ca.rbon/iostream@0.10.3
+- pkg:maven/ca.rbon/iostream@0.10.3?classifier=sources
 - pkg:maven/ca.rbon/iostream@0.4
 - pkg:maven/ca.rbon/iostream@0.4?classifier=sources
 - pkg:maven/ca.rbon/iostream@0.5

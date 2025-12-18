@@ -146,6 +146,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.14.6?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.14.7?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.14.7?type=war
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.14.8?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.14.8?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.15.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.15.0?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.15.1?classifier=sources
@@ -174,6 +176,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.16.3?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.16.4?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.16.4?type=war
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.16.5?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.16.5?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.17.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.17.0?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.17.1?classifier=sources
@@ -196,6 +200,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.18.1?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.18.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.18.2?type=war
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.18.3?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.18.3?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.19.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.19.0?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.19.1?classifier=sources
@@ -204,6 +210,10 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.19.2?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.19.3?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.19.3?type=war
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.19.4?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.19.4?type=war
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.19.5?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.19.5?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.2.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.2.0?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.2.10?classifier=sources

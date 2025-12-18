@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-infinispan-embedded-deployment@0.25.0
+- pkg:maven/io.quarkus/quarkus-infinispan-embedded-deployment@0.25.0?classifier=sources

@@ -14,3 +14,9 @@
 - pkg:maven/net.colesico.framework/colesico-undertow@1.7.2?classifier=sources
 - pkg:maven/net.colesico.framework/colesico-undertow@1.8.0
 - pkg:maven/net.colesico.framework/colesico-undertow@1.8.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-undertow@1.9.0
+- pkg:maven/net.colesico.framework/colesico-undertow@1.9.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-undertow@2.0.0
+- pkg:maven/net.colesico.framework/colesico-undertow@2.0.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-undertow@2.1.0
+- pkg:maven/net.colesico.framework/colesico-undertow@2.1.0?classifier=sources

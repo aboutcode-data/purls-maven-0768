@@ -1,0 +1,14 @@
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-stream@A.1.1.0
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-stream@A.1.1.0.RELEASE
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-stream@A.1.1.0.RELEASE?classifier=sources
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-stream@A.1.1.0?classifier=sources
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-stream@A.1.1.1
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-stream@A.1.1.1?classifier=sources
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-stream@A.1.1.2
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-stream@A.1.1.2?classifier=sources
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-stream@B.0.0.1
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-stream@B.0.0.1?classifier=sources
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-stream@B.0.0.2
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-stream@B.0.0.2?classifier=sources
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-stream@C.0.0.1
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-event-stream@C.0.0.1?classifier=sources

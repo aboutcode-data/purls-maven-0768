@@ -8,3 +8,7 @@
 - pkg:maven/org.codingmatters.value.objects/cdm-value-objects-yaml-parser@1.5.0?classifier=sources
 - pkg:maven/org.codingmatters.value.objects/cdm-value-objects-yaml-parser@1.6.0
 - pkg:maven/org.codingmatters.value.objects/cdm-value-objects-yaml-parser@1.6.0?classifier=sources
+- pkg:maven/org.codingmatters.value.objects/cdm-value-objects-yaml-parser@1.7.0
+- pkg:maven/org.codingmatters.value.objects/cdm-value-objects-yaml-parser@1.7.0?classifier=sources
+- pkg:maven/org.codingmatters.value.objects/cdm-value-objects-yaml-parser@1.8.0
+- pkg:maven/org.codingmatters.value.objects/cdm-value-objects-yaml-parser@1.8.0?classifier=sources

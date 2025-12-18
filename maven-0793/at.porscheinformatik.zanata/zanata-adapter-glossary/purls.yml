@@ -1,0 +1,2 @@
+- pkg:maven/at.porscheinformatik.zanata/zanata-adapter-glossary@4.7.0
+- pkg:maven/at.porscheinformatik.zanata/zanata-adapter-glossary@4.7.0?classifier=sources

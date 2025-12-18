@@ -2,3 +2,5 @@
 - pkg:maven/uk.ac.ebi.ddi/ddi-validator@1.0?classifier=sources
 - pkg:maven/uk.ac.ebi.ddi/ddi-validator@1.1
 - pkg:maven/uk.ac.ebi.ddi/ddi-validator@1.1?classifier=sources
+- pkg:maven/uk.ac.ebi.ddi/ddi-validator@1.2
+- pkg:maven/uk.ac.ebi.ddi/ddi-validator@1.2?classifier=sources

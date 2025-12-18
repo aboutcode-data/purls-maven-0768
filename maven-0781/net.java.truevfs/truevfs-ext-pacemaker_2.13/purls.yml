@@ -1,0 +1,2 @@
+- pkg:maven/net.java.truevfs/truevfs-ext-pacemaker_2.13@0.12.1
+- pkg:maven/net.java.truevfs/truevfs-ext-pacemaker_2.13@0.12.1?classifier=sources

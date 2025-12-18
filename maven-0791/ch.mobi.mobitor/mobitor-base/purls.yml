@@ -1,3 +1,9 @@
+- pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.108
+- pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.108?classifier=sources
+- pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.110
+- pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.110?classifier=sources
+- pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.124
+- pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.124?classifier=sources
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.13
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.13?classifier=sources
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.37
@@ -10,3 +16,5 @@
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.85?classifier=sources
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.87
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.87?classifier=sources
+- pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.97
+- pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.97?classifier=sources

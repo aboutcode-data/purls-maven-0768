@@ -10,3 +10,5 @@
 - pkg:maven/ru.fix/completable-reactor-parser@1.4.7?classifier=sources
 - pkg:maven/ru.fix/completable-reactor-parser@1.4.8
 - pkg:maven/ru.fix/completable-reactor-parser@1.4.8?classifier=sources
+- pkg:maven/ru.fix/completable-reactor-parser@1.5.5
+- pkg:maven/ru.fix/completable-reactor-parser@1.5.5?classifier=sources

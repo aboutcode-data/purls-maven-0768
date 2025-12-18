@@ -46,3 +46,7 @@
 - pkg:maven/org.webjars.npm/qs@6.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/qs@6.7.0
 - pkg:maven/org.webjars.npm/qs@6.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/qs@6.8.0
+- pkg:maven/org.webjars.npm/qs@6.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/qs@6.9.0
+- pkg:maven/org.webjars.npm/qs@6.9.0?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE90?classifier=sources

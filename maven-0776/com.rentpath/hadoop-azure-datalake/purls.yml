@@ -1,0 +1,2 @@
+- pkg:maven/com.rentpath/hadoop-azure-datalake@2.7.3-0.1.0
+- pkg:maven/com.rentpath/hadoop-azure-datalake@2.7.3-0.1.0?classifier=sources

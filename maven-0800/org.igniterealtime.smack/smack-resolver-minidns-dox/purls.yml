@@ -1,0 +1,2 @@
+- pkg:maven/org.igniterealtime.smack/smack-resolver-minidns-dox@4.4.0-alpha2
+- pkg:maven/org.igniterealtime.smack/smack-resolver-minidns-dox@4.4.0-alpha2?classifier=sources

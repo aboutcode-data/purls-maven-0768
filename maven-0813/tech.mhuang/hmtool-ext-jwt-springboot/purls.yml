@@ -1,0 +1,6 @@
+- pkg:maven/tech.mhuang/hmtool-ext-jwt-springboot@1.0.0
+- pkg:maven/tech.mhuang/hmtool-ext-jwt-springboot@1.0.0?classifier=sources
+- pkg:maven/tech.mhuang/hmtool-ext-jwt-springboot@1.1.0
+- pkg:maven/tech.mhuang/hmtool-ext-jwt-springboot@1.1.0?classifier=sources
+- pkg:maven/tech.mhuang/hmtool-ext-jwt-springboot@1.2.0
+- pkg:maven/tech.mhuang/hmtool-ext-jwt-springboot@1.2.0?classifier=sources

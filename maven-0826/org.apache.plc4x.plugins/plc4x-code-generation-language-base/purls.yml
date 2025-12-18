@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.plc4x.plugins/plc4x-code-generation-language-base@1.0.0
+- pkg:maven/org.apache.plc4x.plugins/plc4x-code-generation-language-base@1.0.0?classifier=sources

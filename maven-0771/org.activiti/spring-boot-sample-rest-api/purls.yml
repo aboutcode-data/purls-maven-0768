@@ -16,6 +16,10 @@
 - pkg:maven/org.activiti/spring-boot-sample-rest-api@5.21.0?classifier=sources
 - pkg:maven/org.activiti/spring-boot-sample-rest-api@5.22.0
 - pkg:maven/org.activiti/spring-boot-sample-rest-api@5.22.0?classifier=sources
+- pkg:maven/org.activiti/spring-boot-sample-rest-api@5.23.0
+- pkg:maven/org.activiti/spring-boot-sample-rest-api@5.23.0-RC1
+- pkg:maven/org.activiti/spring-boot-sample-rest-api@5.23.0-RC1?classifier=sources
+- pkg:maven/org.activiti/spring-boot-sample-rest-api@5.23.0?classifier=sources
 - pkg:maven/org.activiti/spring-boot-sample-rest-api@6.0.0
 - pkg:maven/org.activiti/spring-boot-sample-rest-api@6.0.0.Beta1
 - pkg:maven/org.activiti/spring-boot-sample-rest-api@6.0.0.Beta1?classifier=sources

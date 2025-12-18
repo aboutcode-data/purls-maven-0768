@@ -1,0 +1,4 @@
+- pkg:maven/io.datakernel/common-launchers@3.0.0-beta1
+- pkg:maven/io.datakernel/common-launchers@3.0.0-beta1?classifier=sources
+- pkg:maven/io.datakernel/common-launchers@3.0.0-beta2
+- pkg:maven/io.datakernel/common-launchers@3.0.0-beta2?classifier=sources

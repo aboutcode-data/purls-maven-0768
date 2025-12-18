@@ -48,3 +48,7 @@
 - pkg:maven/com.appdynamics/appdynamics-native-crash-handler@5.1.1524?classifier=sources
 - pkg:maven/com.appdynamics/appdynamics-native-crash-handler@5.1.1535
 - pkg:maven/com.appdynamics/appdynamics-native-crash-handler@5.1.1535?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-native-crash-handler@5.2.1552
+- pkg:maven/com.appdynamics/appdynamics-native-crash-handler@5.2.1552?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-native-crash-handler@5.3.1558
+- pkg:maven/com.appdynamics/appdynamics-native-crash-handler@5.3.1558?classifier=sources

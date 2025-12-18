@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sdcxy/third-party-platform@0.0.1
+- pkg:maven/com.github.sdcxy/third-party-platform@0.0.1?classifier=sources

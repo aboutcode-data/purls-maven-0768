@@ -1,0 +1,10 @@
+- pkg:maven/dev.zio/zio-test_sjs0.6_2.12@1.0.0-RC11-1
+- pkg:maven/dev.zio/zio-test_sjs0.6_2.12@1.0.0-RC11-1?classifier=sources
+- pkg:maven/dev.zio/zio-test_sjs0.6_2.12@1.0.0-RC12-1
+- pkg:maven/dev.zio/zio-test_sjs0.6_2.12@1.0.0-RC12-1?classifier=sources
+- pkg:maven/dev.zio/zio-test_sjs0.6_2.12@1.0.0-RC13
+- pkg:maven/dev.zio/zio-test_sjs0.6_2.12@1.0.0-RC13?classifier=sources
+- pkg:maven/dev.zio/zio-test_sjs0.6_2.12@1.0.0-RC14
+- pkg:maven/dev.zio/zio-test_sjs0.6_2.12@1.0.0-RC14?classifier=sources
+- pkg:maven/dev.zio/zio-test_sjs0.6_2.12@1.0.0-RC15
+- pkg:maven/dev.zio/zio-test_sjs0.6_2.12@1.0.0-RC15?classifier=sources

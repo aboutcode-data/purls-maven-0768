@@ -1,0 +1,10 @@
+- pkg:maven/com.sta-soft/mimages@1.34
+- pkg:maven/com.sta-soft/mimages@1.34?classifier=sources
+- pkg:maven/com.sta-soft/mimages@1.35
+- pkg:maven/com.sta-soft/mimages@1.35?classifier=sources
+- pkg:maven/com.sta-soft/mimages@1.36
+- pkg:maven/com.sta-soft/mimages@1.36?classifier=sources
+- pkg:maven/com.sta-soft/mimages@1.37
+- pkg:maven/com.sta-soft/mimages@1.37?classifier=sources
+- pkg:maven/com.sta-soft/mimages@1.38
+- pkg:maven/com.sta-soft/mimages@1.38?classifier=sources

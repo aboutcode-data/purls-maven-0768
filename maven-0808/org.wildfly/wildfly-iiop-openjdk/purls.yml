@@ -74,6 +74,10 @@
 - pkg:maven/org.wildfly/wildfly-iiop-openjdk@17.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-iiop-openjdk@17.0.1.Final
 - pkg:maven/org.wildfly/wildfly-iiop-openjdk@17.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-iiop-openjdk@18.0.0.Beta1
+- pkg:maven/org.wildfly/wildfly-iiop-openjdk@18.0.0.Beta1?classifier=sources
+- pkg:maven/org.wildfly/wildfly-iiop-openjdk@18.0.0.Final
+- pkg:maven/org.wildfly/wildfly-iiop-openjdk@18.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-iiop-openjdk@9.0.0.Beta1
 - pkg:maven/org.wildfly/wildfly-iiop-openjdk@9.0.0.Beta1?classifier=sources
 - pkg:maven/org.wildfly/wildfly-iiop-openjdk@9.0.0.Beta2

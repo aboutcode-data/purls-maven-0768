@@ -30,3 +30,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-analytics-webapp@3.0-Alpha-1?type=war
 - pkg:maven/org.eurekaclinical/eurekaclinical-analytics-webapp@3.0-Alpha-2?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-analytics-webapp@3.0-Alpha-2?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-analytics-webapp@3.0-Alpha-3?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-analytics-webapp@3.0-Alpha-3?type=war

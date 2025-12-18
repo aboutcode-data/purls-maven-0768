@@ -1,0 +1,2 @@
+- pkg:maven/pw.krejci/calldepth-log4j2-plugin@0.1.0
+- pkg:maven/pw.krejci/calldepth-log4j2-plugin@0.1.0?classifier=sources

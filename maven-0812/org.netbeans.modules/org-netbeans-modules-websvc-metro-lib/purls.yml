@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-metro-lib@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-metro-lib@RELEASE111?classifier=sources

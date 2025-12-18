@@ -1,3 +1,5 @@
+- pkg:maven/org.faktorips/faktorips-runtime@19.7.0
+- pkg:maven/org.faktorips/faktorips-runtime@19.7.0?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime@3.13.0
 - pkg:maven/org.faktorips/faktorips-runtime@3.13.0?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime@3.13.1

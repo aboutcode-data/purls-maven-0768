@@ -1,3 +1,10 @@
+- pkg:maven/org.finra.herd/herd-build-tools@0.100.0
+- pkg:maven/org.finra.herd/herd-build-tools@0.101.0
+- pkg:maven/org.finra.herd/herd-build-tools@0.102.0
+- pkg:maven/org.finra.herd/herd-build-tools@0.103.0
+- pkg:maven/org.finra.herd/herd-build-tools@0.104.0
+- pkg:maven/org.finra.herd/herd-build-tools@0.106.0
+- pkg:maven/org.finra.herd/herd-build-tools@0.107.0
 - pkg:maven/org.finra.herd/herd-build-tools@0.20.0
 - pkg:maven/org.finra.herd/herd-build-tools@0.21.0
 - pkg:maven/org.finra.herd/herd-build-tools@0.22.0

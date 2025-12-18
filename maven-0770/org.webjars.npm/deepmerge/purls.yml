@@ -22,3 +22,5 @@
 - pkg:maven/org.webjars.npm/deepmerge@3.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/deepmerge@3.3.0
 - pkg:maven/org.webjars.npm/deepmerge@3.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/deepmerge@4.0.0
+- pkg:maven/org.webjars.npm/deepmerge@4.0.0?classifier=sources

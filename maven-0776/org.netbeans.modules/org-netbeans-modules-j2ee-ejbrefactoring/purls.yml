@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ejbrefactoring@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ejbrefactoring@RELEASE111?classifier=sources

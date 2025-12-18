@@ -1,0 +1,8 @@
+- pkg:maven/com.lihaoyi/ammonite_2.13.1@1.7.3-3-b95f921
+- pkg:maven/com.lihaoyi/ammonite_2.13.1@1.7.3-3-b95f921?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite_2.13.1@1.7.4
+- pkg:maven/com.lihaoyi/ammonite_2.13.1@1.7.4-0-cdefbd9
+- pkg:maven/com.lihaoyi/ammonite_2.13.1@1.7.4-0-cdefbd9?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite_2.13.1@1.7.4-1-71e4df4
+- pkg:maven/com.lihaoyi/ammonite_2.13.1@1.7.4-1-71e4df4?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite_2.13.1@1.7.4?classifier=sources

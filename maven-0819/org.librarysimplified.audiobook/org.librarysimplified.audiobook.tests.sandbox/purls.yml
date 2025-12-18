@@ -1,0 +1,3 @@
+- pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.tests.sandbox@3.0.0-beta001?classifier=sources
+- pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.tests.sandbox@3.0.0-beta003?classifier=sources
+- pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.tests.sandbox@3.0.0-beta004?classifier=sources

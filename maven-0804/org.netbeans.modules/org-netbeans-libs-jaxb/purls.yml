@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jaxb@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jaxb@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-jaxb@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jaxb@RELEASE90?classifier=sources

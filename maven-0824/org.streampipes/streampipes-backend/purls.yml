@@ -3,3 +3,7 @@
 - pkg:maven/org.streampipes/streampipes-backend@0.60.1?type=war
 - pkg:maven/org.streampipes/streampipes-backend@0.61.0?type=war
 - pkg:maven/org.streampipes/streampipes-backend@0.62.0?type=war
+- pkg:maven/org.streampipes/streampipes-backend@0.63.0
+- pkg:maven/org.streampipes/streampipes-backend@0.63.0?classifier=sources
+- pkg:maven/org.streampipes/streampipes-backend@0.64.0
+- pkg:maven/org.streampipes/streampipes-backend@0.64.0?classifier=sources

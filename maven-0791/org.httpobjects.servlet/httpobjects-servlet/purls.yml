@@ -10,6 +10,8 @@
 - pkg:maven/org.httpobjects.servlet/httpobjects-servlet@0.13.0?classifier=sources
 - pkg:maven/org.httpobjects.servlet/httpobjects-servlet@0.2.0
 - pkg:maven/org.httpobjects.servlet/httpobjects-servlet@0.2.0?classifier=sources
+- pkg:maven/org.httpobjects.servlet/httpobjects-servlet@0.27.0
+- pkg:maven/org.httpobjects.servlet/httpobjects-servlet@0.27.0?classifier=sources
 - pkg:maven/org.httpobjects.servlet/httpobjects-servlet@0.3.0
 - pkg:maven/org.httpobjects.servlet/httpobjects-servlet@0.3.0?classifier=sources
 - pkg:maven/org.httpobjects.servlet/httpobjects-servlet@0.4.0

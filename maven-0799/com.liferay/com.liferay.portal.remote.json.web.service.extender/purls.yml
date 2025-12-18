@@ -3,6 +3,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@2.0.0
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@2.0.1
+- pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@2.0.10
+- pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@2.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@2.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@2.0.2
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@2.0.2?classifier=sources
@@ -36,6 +39,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@3.0.3
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@3.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@3.0.4
+- pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@3.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@4.0.0
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@4.0.0?classifier=sources-commercial
@@ -45,3 +51,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@4.0.2
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@4.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@4.0.3
+- pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@4.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@4.0.3?classifier=sources-commercial

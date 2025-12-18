@@ -1,2 +1,8 @@
 - pkg:maven/com.thoughtworks.sbt/sbt-delombok_2.12@1.0.0
+- pkg:maven/com.thoughtworks.sbt/sbt-delombok_2.12@1.0.0%2B57-352ab173
+- pkg:maven/com.thoughtworks.sbt/sbt-delombok_2.12@1.0.0%2B57-352ab173?classifier=sources
+- pkg:maven/com.thoughtworks.sbt/sbt-delombok_2.12@1.0.0%2B58-34765df5
+- pkg:maven/com.thoughtworks.sbt/sbt-delombok_2.12@1.0.0%2B58-34765df5?classifier=sources
+- pkg:maven/com.thoughtworks.sbt/sbt-delombok_2.12@1.0.0%2B62-b6960c75
+- pkg:maven/com.thoughtworks.sbt/sbt-delombok_2.12@1.0.0%2B62-b6960c75?classifier=sources
 - pkg:maven/com.thoughtworks.sbt/sbt-delombok_2.12@1.0.0?classifier=sources

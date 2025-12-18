@@ -1,0 +1,2 @@
+- pkg:maven/com.worldline.sips/sips-sdk-java@1.2.0
+- pkg:maven/com.worldline.sips/sips-sdk-java@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-sniffed_2.13@7.3.1
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-sniffed_2.13@7.3.1?classifier=sources

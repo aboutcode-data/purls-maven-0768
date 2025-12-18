@@ -1,0 +1,2 @@
+- pkg:maven/org.plotly-scala/plotly-core_sjs0.6_2.13@0.7.1
+- pkg:maven/org.plotly-scala/plotly-core_sjs0.6_2.13@0.7.1?classifier=sources

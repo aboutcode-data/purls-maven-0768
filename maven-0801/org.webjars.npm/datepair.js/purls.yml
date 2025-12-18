@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/datepair.js@0.4.16
+- pkg:maven/org.webjars.npm/datepair.js@0.4.16?classifier=sources

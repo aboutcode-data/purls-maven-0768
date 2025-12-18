@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fosstree/play-ebean_2.11@1.0.1-P27
+- pkg:maven/io.github.fosstree/play-ebean_2.11@1.0.1-P27?classifier=sources

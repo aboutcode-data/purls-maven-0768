@@ -1,2 +1,6 @@
 - pkg:maven/fr.natsystem.natjet/natsys-nstools@7.0.15
 - pkg:maven/fr.natsystem.natjet/natsys-nstools@7.0.15?classifier=sources
+- pkg:maven/fr.natsystem.natjet/natsys-nstools@7.0.18
+- pkg:maven/fr.natsystem.natjet/natsys-nstools@7.0.18?classifier=sources
+- pkg:maven/fr.natsystem.natjet/natsys-nstools@7.0.19
+- pkg:maven/fr.natsystem.natjet/natsys-nstools@7.0.19?classifier=sources

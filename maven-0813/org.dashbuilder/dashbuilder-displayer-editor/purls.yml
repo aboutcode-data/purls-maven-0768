@@ -126,6 +126,14 @@
 - pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.2.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.20.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.20.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.21.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.21.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.22.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.22.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.23.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.23.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.24.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.24.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.3.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.3.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.4.0.Final
@@ -140,3 +148,5 @@
 - pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.8.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.9.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@2.9.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@7.28.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@7.28.0.Final?classifier=sources

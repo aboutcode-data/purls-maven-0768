@@ -3,6 +3,18 @@
 - pkg:maven/com.appsflyer/af-android-sdk-beta@4.10.0-rc5?type=aar
 - pkg:maven/com.appsflyer/af-android-sdk-beta@4.10.1-rc1?type=aar
 - pkg:maven/com.appsflyer/af-android-sdk-beta@4.10.1-rc2?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.10.2-adrevenue?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.10.2-rc2?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.10.3-rc1?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.10.3-rc2?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.10.3-rc3?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.10.3-rc4?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.10.3-rc5?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.11.0-rc1?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.11.0-rc3?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.11.0-rc4?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.11.0-rc5?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@4.11.0-rc6?type=aar
 - pkg:maven/com.appsflyer/af-android-sdk-beta@4.8.0?classifier=sources
 - pkg:maven/com.appsflyer/af-android-sdk-beta@4.8.0?type=aar
 - pkg:maven/com.appsflyer/af-android-sdk-beta@4.8.10-rc1?classifier=sources
@@ -100,3 +112,6 @@
 - pkg:maven/com.appsflyer/af-android-sdk-beta@4.9.0-rc8?classifier=sources
 - pkg:maven/com.appsflyer/af-android-sdk-beta@4.9.0-rc8?type=aar
 - pkg:maven/com.appsflyer/af-android-sdk-beta@4.9.0-rc9?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@5.0.0-rc1?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@5.0.0-rc2?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@5.0.0-rc3?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/io.soffa/soffa-rabbitmq@0.3.0
+- pkg:maven/io.soffa/soffa-rabbitmq@0.3.0?classifier=sources

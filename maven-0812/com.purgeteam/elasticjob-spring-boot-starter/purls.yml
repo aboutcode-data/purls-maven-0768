@@ -1,0 +1,4 @@
+- pkg:maven/com.purgeteam/elasticjob-spring-boot-starter@0.1.0.RELEASE
+- pkg:maven/com.purgeteam/elasticjob-spring-boot-starter@0.1.0.RELEASE?classifier=sources
+- pkg:maven/com.purgeteam/elasticjob-spring-boot-starter@0.1.1.RELEASE
+- pkg:maven/com.purgeteam/elasticjob-spring-boot-starter@0.1.1.RELEASE?classifier=sources

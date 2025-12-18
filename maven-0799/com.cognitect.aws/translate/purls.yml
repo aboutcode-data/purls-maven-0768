@@ -2,3 +2,5 @@
 - pkg:maven/com.cognitect.aws/translate@669.2.364.0?classifier=sources
 - pkg:maven/com.cognitect.aws/translate@697.2.391.0
 - pkg:maven/com.cognitect.aws/translate@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/translate@746.2.533.0
+- pkg:maven/com.cognitect.aws/translate@746.2.533.0?classifier=sources

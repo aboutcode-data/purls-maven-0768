@@ -32,3 +32,5 @@
 - pkg:maven/io.bluebank.braid/braid-corda-client@4.1.0-RC01
 - pkg:maven/io.bluebank.braid/braid-corda-client@4.1.0-RC01?classifier=sources
 - pkg:maven/io.bluebank.braid/braid-corda-client@4.1.0?classifier=sources
+- pkg:maven/io.bluebank.braid/braid-corda-client@4.1.1
+- pkg:maven/io.bluebank.braid/braid-corda-client@4.1.1?classifier=sources

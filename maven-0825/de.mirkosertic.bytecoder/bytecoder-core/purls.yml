@@ -30,3 +30,7 @@
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-core@2019-06-13?classifier=sources
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-core@2019-06-29
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-core@2019-06-29?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-core@2019-08-03
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-core@2019-08-03?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-core@2019-08-30
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-core@2019-08-30?classifier=sources

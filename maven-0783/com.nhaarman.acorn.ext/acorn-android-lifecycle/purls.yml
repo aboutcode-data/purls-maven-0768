@@ -20,3 +20,7 @@
 - pkg:maven/com.nhaarman.acorn.ext/acorn-android-lifecycle@1.0.0-rc02?type=aar
 - pkg:maven/com.nhaarman.acorn.ext/acorn-android-lifecycle@1.0.0?classifier=sources
 - pkg:maven/com.nhaarman.acorn.ext/acorn-android-lifecycle@1.0.0?type=aar
+- pkg:maven/com.nhaarman.acorn.ext/acorn-android-lifecycle@1.1.0?classifier=sources
+- pkg:maven/com.nhaarman.acorn.ext/acorn-android-lifecycle@1.1.0?type=aar
+- pkg:maven/com.nhaarman.acorn.ext/acorn-android-lifecycle@1.2.0?classifier=sources
+- pkg:maven/com.nhaarman.acorn.ext/acorn-android-lifecycle@1.2.0?type=aar

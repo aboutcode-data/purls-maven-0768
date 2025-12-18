@@ -52,4 +52,16 @@
 - pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.42.8
 - pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.14
 - pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.16
+- pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.18
+- pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.20
+- pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.22
+- pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.24
+- pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.26
+- pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.28
+- pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.30
+- pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.32
+- pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.34
+- pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.36
 - pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.4
+- pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.40
+- pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.50.42

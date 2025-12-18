@@ -1,0 +1,6 @@
+- pkg:maven/com.jonnymatts/jzonbie-junit4@5.0.0
+- pkg:maven/com.jonnymatts/jzonbie-junit4@5.0.0-rc2
+- pkg:maven/com.jonnymatts/jzonbie-junit4@5.0.0-rc2?classifier=sources
+- pkg:maven/com.jonnymatts/jzonbie-junit4@5.0.0?classifier=sources
+- pkg:maven/com.jonnymatts/jzonbie-junit4@5.1.0
+- pkg:maven/com.jonnymatts/jzonbie-junit4@5.1.0?classifier=sources

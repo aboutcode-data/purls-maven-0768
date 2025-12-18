@@ -2,3 +2,5 @@
 - pkg:maven/io.tornimo/tornimo-spring-aws@0.0.1?classifier=sources
 - pkg:maven/io.tornimo/tornimo-spring-aws@0.3.0
 - pkg:maven/io.tornimo/tornimo-spring-aws@0.3.0?classifier=sources
+- pkg:maven/io.tornimo/tornimo-spring-aws@0.3.1
+- pkg:maven/io.tornimo/tornimo-spring-aws@0.3.1?classifier=sources

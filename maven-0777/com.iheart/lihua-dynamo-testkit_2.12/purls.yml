@@ -1,0 +1,6 @@
+- pkg:maven/com.iheart/lihua-dynamo-testkit_2.12@0.26
+- pkg:maven/com.iheart/lihua-dynamo-testkit_2.12@0.26?classifier=sources
+- pkg:maven/com.iheart/lihua-dynamo-testkit_2.12@0.27
+- pkg:maven/com.iheart/lihua-dynamo-testkit_2.12@0.27?classifier=sources
+- pkg:maven/com.iheart/lihua-dynamo-testkit_2.12@0.28
+- pkg:maven/com.iheart/lihua-dynamo-testkit_2.12@0.28?classifier=sources

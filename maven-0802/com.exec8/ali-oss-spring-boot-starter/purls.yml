@@ -1,0 +1,2 @@
+- pkg:maven/com.exec8/ali-oss-spring-boot-starter@1.8
+- pkg:maven/com.exec8/ali-oss-spring-boot-starter@1.8?classifier=sources

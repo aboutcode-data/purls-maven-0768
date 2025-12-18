@@ -48,6 +48,14 @@
 - pkg:maven/br.com.jarch/jarch-template@19.4.0?type=war
 - pkg:maven/br.com.jarch/jarch-template@19.5.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-template@19.5.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@19.6.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@19.6.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@19.7.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@19.7.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@19.8.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@19.8.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@19.9.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@19.9.0?type=war
 - pkg:maven/br.com.jarch/jarch-template@2.23.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-template@2.23.0?type=war
 - pkg:maven/br.com.jarch/jarch-template@2.23.2?classifier=sources

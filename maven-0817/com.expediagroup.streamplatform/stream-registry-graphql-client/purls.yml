@@ -1,0 +1,4 @@
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-client@0.7.0
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-client@0.7.0?classifier=sources
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-client@0.7.1
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-client@0.7.1?classifier=sources

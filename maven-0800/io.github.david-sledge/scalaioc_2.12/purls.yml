@@ -1,0 +1,4 @@
+- pkg:maven/io.github.david-sledge/scalaioc_2.12@1.0.0-alpha.2
+- pkg:maven/io.github.david-sledge/scalaioc_2.12@1.0.0-alpha.2?classifier=sources
+- pkg:maven/io.github.david-sledge/scalaioc_2.12@v1.0.0-alpha.1
+- pkg:maven/io.github.david-sledge/scalaioc_2.12@v1.0.0-alpha.1?classifier=sources

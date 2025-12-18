@@ -20,3 +20,5 @@
 - pkg:maven/me.liuwj.ktorm/ktorm-core@2.3?classifier=sources
 - pkg:maven/me.liuwj.ktorm/ktorm-core@2.4
 - pkg:maven/me.liuwj.ktorm/ktorm-core@2.4?classifier=sources
+- pkg:maven/me.liuwj.ktorm/ktorm-core@2.5
+- pkg:maven/me.liuwj.ktorm/ktorm-core@2.5?classifier=sources

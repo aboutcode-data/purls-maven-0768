@@ -166,6 +166,8 @@
 - pkg:maven/io.airlift/http-client@0.182?classifier=sources
 - pkg:maven/io.airlift/http-client@0.183
 - pkg:maven/io.airlift/http-client@0.183?classifier=sources
+- pkg:maven/io.airlift/http-client@0.184
+- pkg:maven/io.airlift/http-client@0.184?classifier=sources
 - pkg:maven/io.airlift/http-client@0.74
 - pkg:maven/io.airlift/http-client@0.74?classifier=sources
 - pkg:maven/io.airlift/http-client@0.75

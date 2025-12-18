@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.cloud.analyticdb/adb4pgclient@1.0.0
+- pkg:maven/com.alibaba.cloud.analyticdb/adb4pgclient@1.0.0?classifier=sources

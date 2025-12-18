@@ -1,0 +1,2 @@
+- pkg:maven/com.hurence.logisland/logisland-service-elasticsearch_6_6_2-client@1.2.0
+- pkg:maven/com.hurence.logisland/logisland-service-elasticsearch_6_6_2-client@1.2.0?classifier=sources

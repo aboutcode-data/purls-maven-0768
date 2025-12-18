@@ -1,0 +1,17 @@
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@0.4.0-Carbon
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@0.4.1-Carbon
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@0.4.2-Carbon
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@0.4.3-Carbon
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@0.4.4-Carbon
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@0.5.0
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@0.5.1
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@0.5.2
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@0.5.3
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@1.2.3-Beryllium-SR2
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@1.2.4-Beryllium-SR3
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@1.2.5-Beryllium-SR4
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@1.3.0-Boron
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@1.3.1-Boron-SR1
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@1.3.2-Boron-SR2
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@1.3.3-Boron-SR3
+- pkg:maven/org.opendaylight.netvirt/ovsdb-ui-bundle@1.3.4-Boron-SR4

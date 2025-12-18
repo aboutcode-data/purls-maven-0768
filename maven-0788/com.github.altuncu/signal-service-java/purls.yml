@@ -1,0 +1,2 @@
+- pkg:maven/com.github.altuncu/signal-service-java@2.7.6x
+- pkg:maven/com.github.altuncu/signal-service-java@2.7.6x?classifier=sources

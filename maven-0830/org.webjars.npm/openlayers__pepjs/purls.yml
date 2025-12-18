@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/openlayers__pepjs@0.5.3
+- pkg:maven/org.webjars.npm/openlayers__pepjs@0.5.3?classifier=sources

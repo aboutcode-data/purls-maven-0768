@@ -1,0 +1,2 @@
+- pkg:maven/com.walterjwhite.java.infrastructure.metrics.modules.elastic/impl@0.0.17
+- pkg:maven/com.walterjwhite.java.infrastructure.metrics.modules.elastic/impl@0.0.17?classifier=sources

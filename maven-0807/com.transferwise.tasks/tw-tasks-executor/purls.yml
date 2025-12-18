@@ -2,3 +2,5 @@
 - pkg:maven/com.transferwise.tasks/tw-tasks-executor@1.0.3?classifier=sources
 - pkg:maven/com.transferwise.tasks/tw-tasks-executor@1.0.4
 - pkg:maven/com.transferwise.tasks/tw-tasks-executor@1.0.4?classifier=sources
+- pkg:maven/com.transferwise.tasks/tw-tasks-executor@1.0.7
+- pkg:maven/com.transferwise.tasks/tw-tasks-executor@1.0.7?classifier=sources

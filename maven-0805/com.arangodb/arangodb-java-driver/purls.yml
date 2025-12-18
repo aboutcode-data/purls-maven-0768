@@ -170,3 +170,15 @@
 - pkg:maven/com.arangodb/arangodb-java-driver@5.0.5?classifier=sources
 - pkg:maven/com.arangodb/arangodb-java-driver@5.0.6
 - pkg:maven/com.arangodb/arangodb-java-driver@5.0.6?classifier=sources
+- pkg:maven/com.arangodb/arangodb-java-driver@5.0.7
+- pkg:maven/com.arangodb/arangodb-java-driver@5.0.7?classifier=sources
+- pkg:maven/com.arangodb/arangodb-java-driver@6.0.0
+- pkg:maven/com.arangodb/arangodb-java-driver@6.0.0?classifier=sources
+- pkg:maven/com.arangodb/arangodb-java-driver@6.1.0
+- pkg:maven/com.arangodb/arangodb-java-driver@6.1.0?classifier=sources
+- pkg:maven/com.arangodb/arangodb-java-driver@6.2.0
+- pkg:maven/com.arangodb/arangodb-java-driver@6.2.0?classifier=sources
+- pkg:maven/com.arangodb/arangodb-java-driver@6.3.0
+- pkg:maven/com.arangodb/arangodb-java-driver@6.3.0?classifier=sources
+- pkg:maven/com.arangodb/arangodb-java-driver@6.4.0
+- pkg:maven/com.arangodb/arangodb-java-driver@6.4.0?classifier=sources

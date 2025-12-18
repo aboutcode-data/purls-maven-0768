@@ -4,3 +4,7 @@
 - pkg:maven/me.tatarka.shard/shard-transition@1.0.0-alpha04?type=aar
 - pkg:maven/me.tatarka.shard/shard-transition@1.0.0-alpha05?classifier=sources
 - pkg:maven/me.tatarka.shard/shard-transition@1.0.0-alpha05?type=aar
+- pkg:maven/me.tatarka.shard/shard-transition@1.0.0-beta01?classifier=sources
+- pkg:maven/me.tatarka.shard/shard-transition@1.0.0-beta01?type=aar
+- pkg:maven/me.tatarka.shard/shard-transition@1.0.0-beta02?classifier=sources
+- pkg:maven/me.tatarka.shard/shard-transition@1.0.0-beta02?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.purgeteam/elasticjob-demo@0.1.1.RELEASE
+- pkg:maven/com.purgeteam/elasticjob-demo@0.1.1.RELEASE?classifier=sources

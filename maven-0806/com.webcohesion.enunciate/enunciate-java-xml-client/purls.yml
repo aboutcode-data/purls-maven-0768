@@ -22,6 +22,10 @@
 - pkg:maven/com.webcohesion.enunciate/enunciate-java-xml-client@2.11.0?classifier=sources
 - pkg:maven/com.webcohesion.enunciate/enunciate-java-xml-client@2.11.1
 - pkg:maven/com.webcohesion.enunciate/enunciate-java-xml-client@2.11.1?classifier=sources
+- pkg:maven/com.webcohesion.enunciate/enunciate-java-xml-client@2.12.0
+- pkg:maven/com.webcohesion.enunciate/enunciate-java-xml-client@2.12.0?classifier=sources
+- pkg:maven/com.webcohesion.enunciate/enunciate-java-xml-client@2.12.1
+- pkg:maven/com.webcohesion.enunciate/enunciate-java-xml-client@2.12.1?classifier=sources
 - pkg:maven/com.webcohesion.enunciate/enunciate-java-xml-client@2.2.0
 - pkg:maven/com.webcohesion.enunciate/enunciate-java-xml-client@2.2.0?classifier=sources
 - pkg:maven/com.webcohesion.enunciate/enunciate-java-xml-client@2.3.0

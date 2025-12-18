@@ -1,0 +1,4 @@
+- pkg:maven/org.pushing-pixels/radiance-torch@2.5.0
+- pkg:maven/org.pushing-pixels/radiance-torch@2.5.0?classifier=sources
+- pkg:maven/org.pushing-pixels/radiance-torch@2.5.1
+- pkg:maven/org.pushing-pixels/radiance-torch@2.5.1?classifier=sources

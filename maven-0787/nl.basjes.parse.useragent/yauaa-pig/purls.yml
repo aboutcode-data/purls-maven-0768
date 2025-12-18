@@ -57,6 +57,8 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-pig@5.10?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-pig@5.11
 - pkg:maven/nl.basjes.parse.useragent/yauaa-pig@5.11?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-pig@5.12
+- pkg:maven/nl.basjes.parse.useragent/yauaa-pig@5.12?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-pig@5.1?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-pig@5.2
 - pkg:maven/nl.basjes.parse.useragent/yauaa-pig@5.2?classifier=sources

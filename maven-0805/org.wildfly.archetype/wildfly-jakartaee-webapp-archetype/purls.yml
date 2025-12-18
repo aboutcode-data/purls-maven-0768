@@ -1,0 +1,1 @@
+- pkg:maven/org.wildfly.archetype/wildfly-jakartaee-webapp-archetype@18.0.0.Final?classifier=sources

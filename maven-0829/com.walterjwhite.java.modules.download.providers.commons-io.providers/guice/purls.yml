@@ -1,0 +1,2 @@
+- pkg:maven/com.walterjwhite.java.modules.download.providers.commons-io.providers/guice@0.0.17
+- pkg:maven/com.walterjwhite.java.modules.download.providers.commons-io.providers/guice@0.0.17?classifier=sources

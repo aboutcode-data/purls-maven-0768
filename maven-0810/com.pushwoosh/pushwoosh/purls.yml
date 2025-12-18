@@ -158,6 +158,14 @@
 - pkg:maven/com.pushwoosh/pushwoosh@5.15.0?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh@5.15.1?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh@5.16.0?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh@5.17.0?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh@5.17.1?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh@5.17.2?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh@5.18.0?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh@5.18.1?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh@5.18.2?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh@5.19.0?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh@5.19.1?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh@5.4.0?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh@5.4.1?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh@5.4.2?type=aar

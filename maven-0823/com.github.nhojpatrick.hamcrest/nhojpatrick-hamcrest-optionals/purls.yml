@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nhojpatrick.hamcrest/nhojpatrick-hamcrest-optionals@1.0.0
+- pkg:maven/com.github.nhojpatrick.hamcrest/nhojpatrick-hamcrest-optionals@1.0.0?classifier=sources

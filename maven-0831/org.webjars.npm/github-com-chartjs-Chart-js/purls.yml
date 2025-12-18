@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/github-com-chartjs-Chart-js@2.2.2
 - pkg:maven/org.webjars.npm/github-com-chartjs-Chart-js@2.2.2?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-chartjs-Chart-js@2.7.1
+- pkg:maven/org.webjars.npm/github-com-chartjs-Chart-js@2.7.1?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-chartjs-Chart-js@2.7.2
 - pkg:maven/org.webjars.npm/github-com-chartjs-Chart-js@2.7.2?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-chartjs-Chart-js@2.7.3

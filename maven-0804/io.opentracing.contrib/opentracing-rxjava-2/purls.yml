@@ -18,3 +18,7 @@
 - pkg:maven/io.opentracing.contrib/opentracing-rxjava-2@0.0.9?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-rxjava-2@0.1.0
 - pkg:maven/io.opentracing.contrib/opentracing-rxjava-2@0.1.0?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-rxjava-2@0.1.1
+- pkg:maven/io.opentracing.contrib/opentracing-rxjava-2@0.1.1?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-rxjava-2@0.1.2
+- pkg:maven/io.opentracing.contrib/opentracing-rxjava-2@0.1.2?classifier=sources

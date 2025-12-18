@@ -100,6 +100,8 @@
 - pkg:maven/com.hack23.cia/service.external.common@2018.9.8?classifier=sources
 - pkg:maven/com.hack23.cia/service.external.common@2019.1.26
 - pkg:maven/com.hack23.cia/service.external.common@2019.1.26?classifier=sources
+- pkg:maven/com.hack23.cia/service.external.common@2019.10.3
+- pkg:maven/com.hack23.cia/service.external.common@2019.10.3?classifier=sources
 - pkg:maven/com.hack23.cia/service.external.common@2019.2.23
 - pkg:maven/com.hack23.cia/service.external.common@2019.2.23?classifier=sources
 - pkg:maven/com.hack23.cia/service.external.common@2019.3.24
@@ -108,3 +110,11 @@
 - pkg:maven/com.hack23.cia/service.external.common@2019.6.13?classifier=sources
 - pkg:maven/com.hack23.cia/service.external.common@2019.6.23
 - pkg:maven/com.hack23.cia/service.external.common@2019.6.23?classifier=sources
+- pkg:maven/com.hack23.cia/service.external.common@2019.7.23
+- pkg:maven/com.hack23.cia/service.external.common@2019.7.23?classifier=sources
+- pkg:maven/com.hack23.cia/service.external.common@2019.7.26
+- pkg:maven/com.hack23.cia/service.external.common@2019.7.26?classifier=sources
+- pkg:maven/com.hack23.cia/service.external.common@2019.8.17
+- pkg:maven/com.hack23.cia/service.external.common@2019.8.17?classifier=sources
+- pkg:maven/com.hack23.cia/service.external.common@2019.9.14
+- pkg:maven/com.hack23.cia/service.external.common@2019.9.14?classifier=sources

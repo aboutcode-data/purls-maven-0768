@@ -1,0 +1,4 @@
+- pkg:maven/com.xzixi/interceptable-websocket-demo@1.0
+- pkg:maven/com.xzixi/interceptable-websocket-demo@1.0?classifier=sources
+- pkg:maven/com.xzixi/interceptable-websocket-demo@2.0
+- pkg:maven/com.xzixi/interceptable-websocket-demo@2.0?classifier=sources

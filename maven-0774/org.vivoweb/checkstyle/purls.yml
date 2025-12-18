@@ -1,0 +1,2 @@
+- pkg:maven/org.vivoweb/checkstyle@1.11.0
+- pkg:maven/org.vivoweb/checkstyle@1.11.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.scalatestplus/scalacheck-1-14_sjs0.6_2.11@3.1.0.0-RC2
+- pkg:maven/org.scalatestplus/scalacheck-1-14_sjs0.6_2.11@3.1.0.0-RC2?classifier=sources
+- pkg:maven/org.scalatestplus/scalacheck-1-14_sjs0.6_2.11@3.1.0.0-RC3
+- pkg:maven/org.scalatestplus/scalacheck-1-14_sjs0.6_2.11@3.1.0.0-RC3?classifier=sources
+- pkg:maven/org.scalatestplus/scalacheck-1-14_sjs0.6_2.11@3.2.0.0-M1
+- pkg:maven/org.scalatestplus/scalacheck-1-14_sjs0.6_2.11@3.2.0.0-M1?classifier=sources
+- pkg:maven/org.scalatestplus/scalacheck-1-14_sjs0.6_2.11@3.2.0.1-M1
+- pkg:maven/org.scalatestplus/scalacheck-1-14_sjs0.6_2.11@3.2.0.1-M1?classifier=sources

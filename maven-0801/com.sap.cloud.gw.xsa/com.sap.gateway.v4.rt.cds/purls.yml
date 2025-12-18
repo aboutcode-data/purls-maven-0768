@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.cloud.gw.xsa/com.sap.gateway.v4.rt.cds@1.2.8
+- pkg:maven/com.sap.cloud.gw.xsa/com.sap.gateway.v4.rt.cds@1.2.8?classifier=sources

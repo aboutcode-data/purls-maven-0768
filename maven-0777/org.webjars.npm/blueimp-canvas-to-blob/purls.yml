@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/blueimp-canvas-to-blob@3.14.0
 - pkg:maven/org.webjars.npm/blueimp-canvas-to-blob@3.14.0?classifier=sources
+- pkg:maven/org.webjars.npm/blueimp-canvas-to-blob@3.16.0
+- pkg:maven/org.webjars.npm/blueimp-canvas-to-blob@3.16.0?classifier=sources
 - pkg:maven/org.webjars.npm/blueimp-canvas-to-blob@3.3.0
 - pkg:maven/org.webjars.npm/blueimp-canvas-to-blob@3.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/blueimp-canvas-to-blob@3.6.0

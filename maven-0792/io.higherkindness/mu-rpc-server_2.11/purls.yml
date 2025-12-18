@@ -10,3 +10,5 @@
 - pkg:maven/io.higherkindness/mu-rpc-server_2.11@0.18.0?classifier=sources
 - pkg:maven/io.higherkindness/mu-rpc-server_2.11@0.18.3
 - pkg:maven/io.higherkindness/mu-rpc-server_2.11@0.18.3?classifier=sources
+- pkg:maven/io.higherkindness/mu-rpc-server_2.11@0.18.4
+- pkg:maven/io.higherkindness/mu-rpc-server_2.11@0.18.4?classifier=sources

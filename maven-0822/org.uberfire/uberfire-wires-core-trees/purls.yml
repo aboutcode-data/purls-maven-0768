@@ -134,6 +134,14 @@
 - pkg:maven/org.uberfire/uberfire-wires-core-trees@2.2.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-wires-core-trees@2.20.0.Final
 - pkg:maven/org.uberfire/uberfire-wires-core-trees@2.20.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-wires-core-trees@2.21.0.Final
+- pkg:maven/org.uberfire/uberfire-wires-core-trees@2.21.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-wires-core-trees@2.22.0.Final
+- pkg:maven/org.uberfire/uberfire-wires-core-trees@2.22.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-wires-core-trees@2.23.0.Final
+- pkg:maven/org.uberfire/uberfire-wires-core-trees@2.23.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-wires-core-trees@2.24.0.Final
+- pkg:maven/org.uberfire/uberfire-wires-core-trees@2.24.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-wires-core-trees@2.3.0.Final
 - pkg:maven/org.uberfire/uberfire-wires-core-trees@2.3.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-wires-core-trees@2.4.0.Final
@@ -148,3 +156,5 @@
 - pkg:maven/org.uberfire/uberfire-wires-core-trees@2.8.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-wires-core-trees@2.9.0.Final
 - pkg:maven/org.uberfire/uberfire-wires-core-trees@2.9.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-wires-core-trees@7.28.0.Final
+- pkg:maven/org.uberfire/uberfire-wires-core-trees@7.28.0.Final?classifier=sources

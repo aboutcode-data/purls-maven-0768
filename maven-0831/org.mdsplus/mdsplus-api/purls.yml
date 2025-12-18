@@ -1,0 +1,10 @@
+- pkg:maven/org.mdsplus/mdsplus-api@7.82.1
+- pkg:maven/org.mdsplus/mdsplus-api@7.82.1?classifier=sources
+- pkg:maven/org.mdsplus/mdsplus-api@7.82.2
+- pkg:maven/org.mdsplus/mdsplus-api@7.82.2?classifier=sources
+- pkg:maven/org.mdsplus/mdsplus-api@7.82.3
+- pkg:maven/org.mdsplus/mdsplus-api@7.82.3?classifier=sources
+- pkg:maven/org.mdsplus/mdsplus-api@7.85.0
+- pkg:maven/org.mdsplus/mdsplus-api@7.85.0?classifier=sources
+- pkg:maven/org.mdsplus/mdsplus-api@7.85.1
+- pkg:maven/org.mdsplus/mdsplus-api@7.85.1?classifier=sources

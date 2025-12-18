@@ -161,6 +161,14 @@
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@1.3.11?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@1.3.12
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@1.3.12?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@1.3.13
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@1.3.13?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@1.3.14
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@1.3.14?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@1.3.15
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@1.3.15?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@1.3.16
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@1.3.16?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@1.3.1?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@1.3.2
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@1.3.2?classifier=sources
@@ -181,6 +189,10 @@
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc0%2Btest8
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc0%2Btest8?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc1
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc10
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc10?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc11
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc11?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc1?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc2
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc2?classifier=sources
@@ -188,3 +200,7 @@
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc3?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc4
 - pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc4?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc5
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc5?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc9
+- pkg:maven/io.dropwizard/dropwizard-views-mustache@2.0.0-rc9?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/io.thorntail/fraction-metadata@2.2.1.Final?classifier=sources
 - pkg:maven/io.thorntail/fraction-metadata@2.3.0.Final?classifier=sources
 - pkg:maven/io.thorntail/fraction-metadata@2.4.0.Final?classifier=sources
+- pkg:maven/io.thorntail/fraction-metadata@2.5.0.Final?classifier=sources

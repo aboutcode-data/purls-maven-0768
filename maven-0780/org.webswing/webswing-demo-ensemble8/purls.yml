@@ -21,4 +21,8 @@
 - pkg:maven/org.webswing/webswing-demo-ensemble8@2.6.1?classifier=sources
 - pkg:maven/org.webswing/webswing-demo-ensemble8@2.6.3
 - pkg:maven/org.webswing/webswing-demo-ensemble8@2.6.3?classifier=sources
+- pkg:maven/org.webswing/webswing-demo-ensemble8@2.6.4
+- pkg:maven/org.webswing/webswing-demo-ensemble8@2.6.4?classifier=sources
+- pkg:maven/org.webswing/webswing-demo-ensemble8@2.6.5
+- pkg:maven/org.webswing/webswing-demo-ensemble8@2.6.5?classifier=sources
 - pkg:maven/org.webswing/webswing-demo-ensemble8@2.6?classifier=sources

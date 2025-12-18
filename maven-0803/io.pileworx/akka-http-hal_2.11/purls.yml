@@ -1,2 +1,4 @@
 - pkg:maven/io.pileworx/akka-http-hal_2.11@1.2.3
 - pkg:maven/io.pileworx/akka-http-hal_2.11@1.2.3?classifier=sources
+- pkg:maven/io.pileworx/akka-http-hal_2.11@1.2.4
+- pkg:maven/io.pileworx/akka-http-hal_2.11@1.2.4?classifier=sources

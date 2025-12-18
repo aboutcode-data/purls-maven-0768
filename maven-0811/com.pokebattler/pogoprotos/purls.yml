@@ -24,3 +24,5 @@
 - pkg:maven/com.pokebattler/pogoprotos@2.43.0?classifier=sources
 - pkg:maven/com.pokebattler/pogoprotos@2.44.0
 - pkg:maven/com.pokebattler/pogoprotos@2.44.0?classifier=sources
+- pkg:maven/com.pokebattler/pogoprotos@2.46.0
+- pkg:maven/com.pokebattler/pogoprotos@2.46.0?classifier=sources

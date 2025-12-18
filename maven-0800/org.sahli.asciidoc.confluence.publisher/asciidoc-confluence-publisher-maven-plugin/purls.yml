@@ -12,3 +12,5 @@
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-maven-plugin@0.6.0?classifier=sources
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-maven-plugin@0.7.0
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-maven-plugin@0.7.0?classifier=sources
+- pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-maven-plugin@0.8.0
+- pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-maven-plugin@0.8.0?classifier=sources

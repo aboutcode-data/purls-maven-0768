@@ -36,3 +36,5 @@
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC8?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC9
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC9?classifier=sources
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-core@1.0.0
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-core@1.0.0?classifier=sources

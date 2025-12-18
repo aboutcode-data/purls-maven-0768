@@ -1,0 +1,2 @@
+- pkg:maven/com.yoti.mobile.android.sdk/key-sdk-ev2@1.4.1?classifier=sources
+- pkg:maven/com.yoti.mobile.android.sdk/key-sdk-ev2@1.4.1?type=aar

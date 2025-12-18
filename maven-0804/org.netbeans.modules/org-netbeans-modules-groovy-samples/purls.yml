@@ -1,2 +1,3 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-samples@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-samples@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-samples@RELEASE111?classifier=sources

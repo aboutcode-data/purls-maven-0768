@@ -1,1 +1,3 @@
 - pkg:maven/com.capitalone.dashboard/UI@2.0.4?classifier=src&type=tar.gz
+- pkg:maven/com.capitalone.dashboard/UI@3.0.2?classifier=src&type=tar.gz
+- pkg:maven/com.capitalone.dashboard/UI@3.1.0?classifier=src&type=tar.gz

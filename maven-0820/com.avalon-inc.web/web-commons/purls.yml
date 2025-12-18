@@ -1,0 +1,2 @@
+- pkg:maven/com.avalon-inc.web/web-commons@0.1.1
+- pkg:maven/com.avalon-inc.web/web-commons@0.1.1?classifier=sources

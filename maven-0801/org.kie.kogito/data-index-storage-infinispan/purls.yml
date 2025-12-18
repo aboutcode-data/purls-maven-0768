@@ -1,0 +1,6 @@
+- pkg:maven/org.kie.kogito/data-index-storage-infinispan@0.3.0
+- pkg:maven/org.kie.kogito/data-index-storage-infinispan@0.3.0?classifier=sources
+- pkg:maven/org.kie.kogito/data-index-storage-infinispan@0.4.0
+- pkg:maven/org.kie.kogito/data-index-storage-infinispan@0.4.0?classifier=sources
+- pkg:maven/org.kie.kogito/data-index-storage-infinispan@0.5.0
+- pkg:maven/org.kie.kogito/data-index-storage-infinispan@0.5.0?classifier=sources

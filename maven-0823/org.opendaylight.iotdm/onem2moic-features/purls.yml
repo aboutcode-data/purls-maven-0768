@@ -1,0 +1,5 @@
+- pkg:maven/org.opendaylight.iotdm/onem2moic-features@0.3.0-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.iotdm/onem2moic-features@0.3.1-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.iotdm/onem2moic-features@0.3.2-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.iotdm/onem2moic-features@0.3.3-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.iotdm/onem2moic-features@0.3.4-Carbon?classifier=sources

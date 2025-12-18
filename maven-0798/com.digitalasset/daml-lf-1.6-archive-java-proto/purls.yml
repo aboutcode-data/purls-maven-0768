@@ -1,0 +1,4 @@
+- pkg:maven/com.digitalasset/daml-lf-1.6-archive-java-proto@100.13.30
+- pkg:maven/com.digitalasset/daml-lf-1.6-archive-java-proto@100.13.30?classifier=sources
+- pkg:maven/com.digitalasset/daml-lf-1.6-archive-java-proto@100.13.31
+- pkg:maven/com.digitalasset/daml-lf-1.6-archive-java-proto@100.13.31?classifier=sources

@@ -39,3 +39,7 @@
 - pkg:maven/com.ryanharter.auto.value/auto-value-gson@0.8.0?classifier=sources
 - pkg:maven/com.ryanharter.auto.value/auto-value-gson@1.0.0
 - pkg:maven/com.ryanharter.auto.value/auto-value-gson@1.0.0?classifier=sources
+- pkg:maven/com.ryanharter.auto.value/auto-value-gson@1.1.0
+- pkg:maven/com.ryanharter.auto.value/auto-value-gson@1.1.0?classifier=sources
+- pkg:maven/com.ryanharter.auto.value/auto-value-gson@1.1.1
+- pkg:maven/com.ryanharter.auto.value/auto-value-gson@1.1.1?classifier=sources

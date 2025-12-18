@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tzfun/VMConsole-API-OracleJDK-Windows@1.2.0
+- pkg:maven/com.github.tzfun/VMConsole-API-OracleJDK-Windows@1.2.0?classifier=sources

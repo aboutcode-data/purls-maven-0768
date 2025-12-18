@@ -37,6 +37,8 @@
 - pkg:maven/org.jboss.byteman/byteman-sample@3.0.13?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman-sample@3.0.15
 - pkg:maven/org.jboss.byteman/byteman-sample@3.0.15?classifier=sources
+- pkg:maven/org.jboss.byteman/byteman-sample@3.0.16
+- pkg:maven/org.jboss.byteman/byteman-sample@3.0.16?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman-sample@3.0.1?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman-sample@3.0.2
 - pkg:maven/org.jboss.byteman/byteman-sample@3.0.2?classifier=sources
@@ -84,3 +86,5 @@
 - pkg:maven/org.jboss.byteman/byteman-sample@4.0.6?classifier=sources
 - pkg:maven/org.jboss.byteman/byteman-sample@4.0.7
 - pkg:maven/org.jboss.byteman/byteman-sample@4.0.7?classifier=sources
+- pkg:maven/org.jboss.byteman/byteman-sample@4.0.8
+- pkg:maven/org.jboss.byteman/byteman-sample@4.0.8?classifier=sources

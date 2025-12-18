@@ -1,5 +1,13 @@
 - pkg:maven/com.github.uw-pharm/bitsad-macros_2.12@0.5.0
+- pkg:maven/com.github.uw-pharm/bitsad-macros_2.12@0.5.0%2B3-b7f539a7
+- pkg:maven/com.github.uw-pharm/bitsad-macros_2.12@0.5.0%2B3-b7f539a7?classifier=sources
 - pkg:maven/com.github.uw-pharm/bitsad-macros_2.12@0.5.0?classifier=sources
+- pkg:maven/com.github.uw-pharm/bitsad-macros_2.12@0.5.1
+- pkg:maven/com.github.uw-pharm/bitsad-macros_2.12@0.5.1%2B1-f8eacaf3
+- pkg:maven/com.github.uw-pharm/bitsad-macros_2.12@0.5.1%2B1-f8eacaf3?classifier=sources
+- pkg:maven/com.github.uw-pharm/bitsad-macros_2.12@0.5.1?classifier=sources
+- pkg:maven/com.github.uw-pharm/bitsad-macros_2.12@0.5.2
+- pkg:maven/com.github.uw-pharm/bitsad-macros_2.12@0.5.2?classifier=sources
 - pkg:maven/com.github.uw-pharm/bitsad-macros_2.12@6608b68b
 - pkg:maven/com.github.uw-pharm/bitsad-macros_2.12@6608b68b?classifier=sources
 - pkg:maven/com.github.uw-pharm/bitsad-macros_2.12@6cb4c962

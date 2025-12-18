@@ -1,0 +1,8 @@
+- pkg:maven/org.opendaylight.netvirt/features-netvirt@1.2.3-Beryllium-SR2?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/features-netvirt@1.2.4-Beryllium-SR3?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/features-netvirt@1.2.5-Beryllium-SR4?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/features-netvirt@1.3.0-Boron?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/features-netvirt@1.3.1-Boron-SR1?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/features-netvirt@1.3.2-Boron-SR2?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/features-netvirt@1.3.3-Boron-SR3?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/features-netvirt@1.3.4-Boron-SR4?classifier=sources

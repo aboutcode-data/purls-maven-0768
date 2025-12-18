@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.storagecache.v2019_08_01/azure-mgmt-storagecache@1.0.0-beta
+- pkg:maven/com.microsoft.azure.storagecache.v2019_08_01/azure-mgmt-storagecache@1.0.0-beta?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jna-platform@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jna-platform@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-jna-platform@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jna-platform@RELEASE90?classifier=sources

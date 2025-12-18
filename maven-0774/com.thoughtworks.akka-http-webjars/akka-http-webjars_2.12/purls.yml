@@ -10,3 +10,5 @@
 - pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B95-fb3c0686?classifier=sources
 - pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B97-057fb77c
 - pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B97-057fb77c?classifier=sources
+- pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@2.0.0
+- pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@2.0.0?classifier=sources

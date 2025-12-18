@@ -1,0 +1,2 @@
+- pkg:maven/org.openprovenance.prov/prov-template-compiler@0.9.0
+- pkg:maven/org.openprovenance.prov/prov-template-compiler@0.9.0?classifier=sources

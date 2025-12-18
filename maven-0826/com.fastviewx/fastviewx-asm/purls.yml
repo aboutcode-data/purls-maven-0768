@@ -1,0 +1,4 @@
+- pkg:maven/com.fastviewx/fastviewx-asm@1.0
+- pkg:maven/com.fastviewx/fastviewx-asm@1.0?classifier=sources
+- pkg:maven/com.fastviewx/fastviewx-asm@1.1
+- pkg:maven/com.fastviewx/fastviewx-asm@1.1?classifier=sources

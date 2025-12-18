@@ -1,2 +1,4 @@
 - pkg:maven/ro.kuberam.libs.java/ft-client@1.1.1
 - pkg:maven/ro.kuberam.libs.java/ft-client@1.1.1?classifier=sources
+- pkg:maven/ro.kuberam.libs.java/ft-client@2.0.0
+- pkg:maven/ro.kuberam.libs.java/ft-client@2.0.0?classifier=sources

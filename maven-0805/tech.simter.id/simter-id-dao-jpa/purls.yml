@@ -1,0 +1,2 @@
+- pkg:maven/tech.simter.id/simter-id-dao-jpa@0.8.0
+- pkg:maven/tech.simter.id/simter-id-dao-jpa@0.8.0?classifier=sources

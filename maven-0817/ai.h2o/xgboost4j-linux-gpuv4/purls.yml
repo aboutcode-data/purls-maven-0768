@@ -28,3 +28,7 @@
 - pkg:maven/ai.h2o/xgboost4j-linux-gpuv4@0.82.21?classifier=sources
 - pkg:maven/ai.h2o/xgboost4j-linux-gpuv4@0.83.17
 - pkg:maven/ai.h2o/xgboost4j-linux-gpuv4@0.83.17?classifier=sources
+- pkg:maven/ai.h2o/xgboost4j-linux-gpuv4@0.90.3
+- pkg:maven/ai.h2o/xgboost4j-linux-gpuv4@0.90.3?classifier=sources
+- pkg:maven/ai.h2o/xgboost4j-linux-gpuv4@0.90.5
+- pkg:maven/ai.h2o/xgboost4j-linux-gpuv4@0.90.5?classifier=sources

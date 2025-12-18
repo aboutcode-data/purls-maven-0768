@@ -2,3 +2,5 @@
 - pkg:maven/br.eti.clairton/migrator-rest@1.0.0?classifier=sources
 - pkg:maven/br.eti.clairton/migrator-rest@1.1.0
 - pkg:maven/br.eti.clairton/migrator-rest@1.1.0?classifier=sources
+- pkg:maven/br.eti.clairton/migrator-rest@1.1.1
+- pkg:maven/br.eti.clairton/migrator-rest@1.1.1?classifier=sources

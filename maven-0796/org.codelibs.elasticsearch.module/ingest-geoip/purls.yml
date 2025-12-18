@@ -8,6 +8,10 @@
 - pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@6.8.0?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@6.8.1
 - pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@6.8.1?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@6.8.2
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@6.8.2?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@6.8.3
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@6.8.3?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.0.0
 - pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.0.0-beta1
 - pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.0.0-beta1?classifier=sources
@@ -24,3 +28,13 @@
 - pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.1.1?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.2.0
 - pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.2.0?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.2.1
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.2.1?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.3.0
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.3.0?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.3.1
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.3.1?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.3.2
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.3.2?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.4.0
+- pkg:maven/org.codelibs.elasticsearch.module/ingest-geoip@7.4.0?classifier=sources

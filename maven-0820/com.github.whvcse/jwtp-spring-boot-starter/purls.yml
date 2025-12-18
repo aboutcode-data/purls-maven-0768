@@ -1,0 +1,2 @@
+- pkg:maven/com.github.whvcse/jwtp-spring-boot-starter@2.0.3
+- pkg:maven/com.github.whvcse/jwtp-spring-boot-starter@2.0.3?classifier=sources

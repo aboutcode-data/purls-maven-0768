@@ -4,3 +4,5 @@
 - pkg:maven/com.sksamuel.kquants/kquants@0.81.0?classifier=sources
 - pkg:maven/com.sksamuel.kquants/kquants@0.82.0
 - pkg:maven/com.sksamuel.kquants/kquants@0.82.0?classifier=sources
+- pkg:maven/com.sksamuel.kquants/kquants@0.83.0
+- pkg:maven/com.sksamuel.kquants/kquants@0.83.0?classifier=sources

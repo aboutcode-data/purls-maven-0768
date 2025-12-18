@@ -1,0 +1,6 @@
+- pkg:maven/io.camassia.security/jwt4j@1.0.0
+- pkg:maven/io.camassia.security/jwt4j@1.0.0?classifier=sources
+- pkg:maven/io.camassia.security/jwt4j@1.1.0
+- pkg:maven/io.camassia.security/jwt4j@1.1.0?classifier=sources
+- pkg:maven/io.camassia.security/jwt4j@1.1.1
+- pkg:maven/io.camassia.security/jwt4j@1.1.1?classifier=sources

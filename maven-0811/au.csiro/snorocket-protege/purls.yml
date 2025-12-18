@@ -46,3 +46,5 @@
 - pkg:maven/au.csiro/snorocket-protege@3.2.0?classifier=sources
 - pkg:maven/au.csiro/snorocket-protege@4.0.0
 - pkg:maven/au.csiro/snorocket-protege@4.0.0?classifier=sources
+- pkg:maven/au.csiro/snorocket-protege@4.0.1
+- pkg:maven/au.csiro/snorocket-protege@4.0.1?classifier=sources

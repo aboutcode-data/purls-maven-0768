@@ -4,3 +4,5 @@
 - pkg:maven/com.gradecak.alfresco-mvc/alfresco-mvc-rest@5.0.1-RELEASE?classifier=sources
 - pkg:maven/com.gradecak.alfresco-mvc/alfresco-mvc-rest@6.0.0-RELEASE
 - pkg:maven/com.gradecak.alfresco-mvc/alfresco-mvc-rest@6.0.0-RELEASE?classifier=sources
+- pkg:maven/com.gradecak.alfresco-mvc/alfresco-mvc-rest@7.0.0-RELEASE
+- pkg:maven/com.gradecak.alfresco-mvc/alfresco-mvc-rest@7.0.0-RELEASE?classifier=sources

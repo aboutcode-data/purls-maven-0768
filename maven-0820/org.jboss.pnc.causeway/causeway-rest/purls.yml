@@ -22,3 +22,4 @@
 - pkg:maven/org.jboss.pnc.causeway/causeway-rest@1.6.2?classifier=sources
 - pkg:maven/org.jboss.pnc.causeway/causeway-rest@1.7.0?classifier=sources
 - pkg:maven/org.jboss.pnc.causeway/causeway-rest@1.7.1?classifier=sources
+- pkg:maven/org.jboss.pnc.causeway/causeway-rest@1.7.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.cognitect.aws/ec2-instance-connect@726.2.488.0
+- pkg:maven/com.cognitect.aws/ec2-instance-connect@726.2.488.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ec2-instance-connect@747.2.533.0
+- pkg:maven/com.cognitect.aws/ec2-instance-connect@747.2.533.0?classifier=sources

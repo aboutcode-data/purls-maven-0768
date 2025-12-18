@@ -1,3 +1,4 @@
+- pkg:maven/org.webpieces/plugin-documentation@1.9.1
 - pkg:maven/org.webpieces/plugin-documentation@1.9.109
 - pkg:maven/org.webpieces/plugin-documentation@1.9.109?classifier=sources
 - pkg:maven/org.webpieces/plugin-documentation@1.9.110
@@ -72,3 +73,10 @@
 - pkg:maven/org.webpieces/plugin-documentation@1.9.151?classifier=sources
 - pkg:maven/org.webpieces/plugin-documentation@1.9.152
 - pkg:maven/org.webpieces/plugin-documentation@1.9.152?classifier=sources
+- pkg:maven/org.webpieces/plugin-documentation@1.9.1?classifier=sources
+- pkg:maven/org.webpieces/plugin-documentation@2.0.1
+- pkg:maven/org.webpieces/plugin-documentation@2.0.1?classifier=sources
+- pkg:maven/org.webpieces/plugin-documentation@2.0.2
+- pkg:maven/org.webpieces/plugin-documentation@2.0.2?classifier=sources
+- pkg:maven/org.webpieces/plugin-documentation@2.0.3
+- pkg:maven/org.webpieces/plugin-documentation@2.0.3?classifier=sources

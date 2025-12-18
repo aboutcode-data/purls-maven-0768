@@ -1,0 +1,4 @@
+- pkg:maven/nl.thijsbroersen/scala-js-leaflet_sjs0.6_2.11@0.3.0
+- pkg:maven/nl.thijsbroersen/scala-js-leaflet_sjs0.6_2.11@0.3.0?classifier=sources
+- pkg:maven/nl.thijsbroersen/scala-js-leaflet_sjs0.6_2.11@0.3.1
+- pkg:maven/nl.thijsbroersen/scala-js-leaflet_sjs0.6_2.11@0.3.1?classifier=sources

@@ -164,10 +164,14 @@
 - pkg:maven/org.apache.camel/camel-http4@2.23.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-http4@2.23.3
 - pkg:maven/org.apache.camel/camel-http4@2.23.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-http4@2.23.4
+- pkg:maven/org.apache.camel/camel-http4@2.23.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-http4@2.24.0
 - pkg:maven/org.apache.camel/camel-http4@2.24.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-http4@2.24.1
 - pkg:maven/org.apache.camel/camel-http4@2.24.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-http4@2.24.2
+- pkg:maven/org.apache.camel/camel-http4@2.24.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-http4@2.3.0
 - pkg:maven/org.apache.camel/camel-http4@2.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-http4@2.4.0
@@ -227,3 +231,5 @@
 - pkg:maven/org.apache.camel/camel-http4@3.0.0-M2?classifier=sources
 - pkg:maven/org.apache.camel/camel-http4@3.0.0-M3
 - pkg:maven/org.apache.camel/camel-http4@3.0.0-M3?classifier=sources
+- pkg:maven/org.apache.camel/camel-http4@3.0.0-M4
+- pkg:maven/org.apache.camel/camel-http4@3.0.0-M4?classifier=sources

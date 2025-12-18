@@ -1,0 +1,4 @@
+- pkg:maven/io.getnelson.nelson/core_2.12@0.14.178
+- pkg:maven/io.getnelson.nelson/core_2.12@0.14.178?classifier=sources
+- pkg:maven/io.getnelson.nelson/core_2.12@0.14.179
+- pkg:maven/io.getnelson.nelson/core_2.12@0.14.179?classifier=sources

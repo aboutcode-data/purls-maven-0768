@@ -1,0 +1,8 @@
+- pkg:maven/org.opendaylight.vtn/manager.integrationtest@0.1.0
+- pkg:maven/org.opendaylight.vtn/manager.integrationtest@0.1.0?classifier=sources
+- pkg:maven/org.opendaylight.vtn/manager.integrationtest@0.2.0-Helium
+- pkg:maven/org.opendaylight.vtn/manager.integrationtest@0.2.1-Helium-SR1
+- pkg:maven/org.opendaylight.vtn/manager.integrationtest@0.2.1-Helium-SR1.1
+- pkg:maven/org.opendaylight.vtn/manager.integrationtest@0.2.2-Helium-SR2
+- pkg:maven/org.opendaylight.vtn/manager.integrationtest@0.2.3-Helium-SR3
+- pkg:maven/org.opendaylight.vtn/manager.integrationtest@0.2.4-Helium-SR4

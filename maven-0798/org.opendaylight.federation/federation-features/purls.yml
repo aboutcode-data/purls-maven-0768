@@ -1,0 +1,5 @@
+- pkg:maven/org.opendaylight.federation/federation-features@0.2.0-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.federation/federation-features@0.2.1-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.federation/federation-features@0.2.2-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.federation/federation-features@0.2.3-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.federation/federation-features@0.2.4-Carbon?classifier=sources

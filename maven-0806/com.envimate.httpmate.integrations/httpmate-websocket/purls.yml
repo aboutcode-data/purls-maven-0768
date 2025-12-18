@@ -8,3 +8,5 @@
 - pkg:maven/com.envimate.httpmate.integrations/httpmate-websocket@1.0.21?classifier=sources
 - pkg:maven/com.envimate.httpmate.integrations/httpmate-websocket@1.0.22
 - pkg:maven/com.envimate.httpmate.integrations/httpmate-websocket@1.0.22?classifier=sources
+- pkg:maven/com.envimate.httpmate.integrations/httpmate-websocket@1.0.25
+- pkg:maven/com.envimate.httpmate.integrations/httpmate-websocket@1.0.25?classifier=sources

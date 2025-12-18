@@ -1,6 +1,8 @@
 - pkg:maven/org.combinators/templating_2.12@1.0.0
 - pkg:maven/org.combinators/templating_2.12@1.0.0%2B1-50663dd6
 - pkg:maven/org.combinators/templating_2.12@1.0.0%2B1-50663dd6?classifier=sources
+- pkg:maven/org.combinators/templating_2.12@1.0.0%2B11-80fcb87d
+- pkg:maven/org.combinators/templating_2.12@1.0.0%2B11-80fcb87d?classifier=sources
 - pkg:maven/org.combinators/templating_2.12@1.0.0%2B2-2a8cbbb6
 - pkg:maven/org.combinators/templating_2.12@1.0.0%2B2-2a8cbbb6?classifier=sources
 - pkg:maven/org.combinators/templating_2.12@1.0.0%2B3-bee373e9
@@ -14,3 +16,5 @@
 - pkg:maven/org.combinators/templating_2.12@1.0.0-RC1%2B4-ca285511?classifier=sources
 - pkg:maven/org.combinators/templating_2.12@1.0.0-RC1?classifier=sources
 - pkg:maven/org.combinators/templating_2.12@1.0.0?classifier=sources
+- pkg:maven/org.combinators/templating_2.12@1.1.0
+- pkg:maven/org.combinators/templating_2.12@1.1.0?classifier=sources

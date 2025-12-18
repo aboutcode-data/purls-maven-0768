@@ -1,0 +1,2 @@
+- pkg:maven/com.github.axet/jlame@3.100
+- pkg:maven/com.github.axet/jlame@3.100?classifier=sources

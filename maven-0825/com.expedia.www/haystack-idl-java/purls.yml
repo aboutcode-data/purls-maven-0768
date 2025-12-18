@@ -14,3 +14,5 @@
 - pkg:maven/com.expedia.www/haystack-idl-java@1.0.63?classifier=sources
 - pkg:maven/com.expedia.www/haystack-idl-java@1.0.64
 - pkg:maven/com.expedia.www/haystack-idl-java@1.0.64?classifier=sources
+- pkg:maven/com.expedia.www/haystack-idl-java@1.0.65
+- pkg:maven/com.expedia.www/haystack-idl-java@1.0.65?classifier=sources

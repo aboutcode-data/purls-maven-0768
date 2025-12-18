@@ -74,3 +74,5 @@
 - pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-common@2.4.5?classifier=sources
 - pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-common@2.5.0
 - pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-common@2.5.0?classifier=sources
+- pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-common@2.5.2
+- pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-common@2.5.2?classifier=sources

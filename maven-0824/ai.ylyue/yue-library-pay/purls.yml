@@ -1,0 +1,8 @@
+- pkg:maven/ai.ylyue/yue-library-pay@Finchley.SR4
+- pkg:maven/ai.ylyue/yue-library-pay@Finchley.SR4.1
+- pkg:maven/ai.ylyue/yue-library-pay@Finchley.SR4.1?classifier=sources
+- pkg:maven/ai.ylyue/yue-library-pay@Finchley.SR4?classifier=sources
+- pkg:maven/ai.ylyue/yue-library-pay@Greenwich.SR2
+- pkg:maven/ai.ylyue/yue-library-pay@Greenwich.SR2.1
+- pkg:maven/ai.ylyue/yue-library-pay@Greenwich.SR2.1?classifier=sources
+- pkg:maven/ai.ylyue/yue-library-pay@Greenwich.SR2?classifier=sources

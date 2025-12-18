@@ -84,6 +84,9 @@
 - pkg:maven/com.google.gerrit/gerrit-war@2.15.12?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@2.15.13?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@2.15.14?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@2.15.15?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@2.15.16?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@2.15.17?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@2.15.1?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@2.15.2?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@2.15.3?type=war
@@ -98,6 +101,9 @@
 - pkg:maven/com.google.gerrit/gerrit-war@2.16-rc1?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@2.16-rc2?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@2.16-rc3?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@2.16.10?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@2.16.11.1?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@2.16.12?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@2.16.1?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@2.16.2?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@2.16.3?type=war
@@ -119,3 +125,6 @@
 - pkg:maven/com.google.gerrit/gerrit-war@3.0.0-rc3?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@3.0.0?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@3.0.1?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@3.0.2?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@3.0.3?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@3.1.0-rc0?type=war

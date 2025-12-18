@@ -1,0 +1,2 @@
+- pkg:maven/io.getquill/quill-sql_2.13@3.4.10
+- pkg:maven/io.getquill/quill-sql_2.13@3.4.10?classifier=sources

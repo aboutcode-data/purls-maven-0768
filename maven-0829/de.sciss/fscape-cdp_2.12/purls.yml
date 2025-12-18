@@ -64,6 +64,14 @@
 - pkg:maven/de.sciss/fscape-cdp_2.12@2.26.2?classifier=sources
 - pkg:maven/de.sciss/fscape-cdp_2.12@2.27.0
 - pkg:maven/de.sciss/fscape-cdp_2.12@2.27.0?classifier=sources
+- pkg:maven/de.sciss/fscape-cdp_2.12@2.28.0
+- pkg:maven/de.sciss/fscape-cdp_2.12@2.28.0?classifier=sources
+- pkg:maven/de.sciss/fscape-cdp_2.12@2.29.0
+- pkg:maven/de.sciss/fscape-cdp_2.12@2.29.0?classifier=sources
+- pkg:maven/de.sciss/fscape-cdp_2.12@2.30.0
+- pkg:maven/de.sciss/fscape-cdp_2.12@2.30.0?classifier=sources
+- pkg:maven/de.sciss/fscape-cdp_2.12@2.31.0
+- pkg:maven/de.sciss/fscape-cdp_2.12@2.31.0?classifier=sources
 - pkg:maven/de.sciss/fscape-cdp_2.12@2.6.2
 - pkg:maven/de.sciss/fscape-cdp_2.12@2.6.2?classifier=sources
 - pkg:maven/de.sciss/fscape-cdp_2.12@2.6.3

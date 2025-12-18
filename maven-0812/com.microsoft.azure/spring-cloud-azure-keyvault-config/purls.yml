@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-keyvault-config@1.1.0.M4
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-keyvault-config@1.1.0.M4?classifier=sources

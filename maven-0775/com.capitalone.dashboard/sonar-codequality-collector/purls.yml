@@ -12,3 +12,5 @@
 - pkg:maven/com.capitalone.dashboard/sonar-codequality-collector@2.0.4?classifier=sources
 - pkg:maven/com.capitalone.dashboard/sonar-codequality-collector@3.0.1
 - pkg:maven/com.capitalone.dashboard/sonar-codequality-collector@3.0.1?classifier=sources
+- pkg:maven/com.capitalone.dashboard/sonar-codequality-collector@3.1.0
+- pkg:maven/com.capitalone.dashboard/sonar-codequality-collector@3.1.0?classifier=sources

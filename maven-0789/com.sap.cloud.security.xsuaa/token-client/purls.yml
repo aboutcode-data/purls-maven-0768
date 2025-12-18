@@ -1,0 +1,6 @@
+- pkg:maven/com.sap.cloud.security.xsuaa/token-client@1.7.0
+- pkg:maven/com.sap.cloud.security.xsuaa/token-client@1.7.0?classifier=sources
+- pkg:maven/com.sap.cloud.security.xsuaa/token-client@2.0.0
+- pkg:maven/com.sap.cloud.security.xsuaa/token-client@2.0.0?classifier=sources
+- pkg:maven/com.sap.cloud.security.xsuaa/token-client@2.1.0
+- pkg:maven/com.sap.cloud.security.xsuaa/token-client@2.1.0?classifier=sources

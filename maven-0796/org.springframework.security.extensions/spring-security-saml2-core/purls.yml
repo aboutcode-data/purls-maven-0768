@@ -18,3 +18,5 @@
 - pkg:maven/org.springframework.security.extensions/spring-security-saml2-core@1.0.8.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security.extensions/spring-security-saml2-core@1.0.9.RELEASE
 - pkg:maven/org.springframework.security.extensions/spring-security-saml2-core@1.0.9.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security.extensions/spring-security-saml2-core@2.0.0.M31
+- pkg:maven/org.springframework.security.extensions/spring-security-saml2-core@2.0.0.M31?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.addc/seshat-jndi@3.7
+- pkg:maven/com.addc/seshat-jndi@3.7?classifier=sources
+- pkg:maven/com.addc/seshat-jndi@3.8
+- pkg:maven/com.addc/seshat-jndi@3.8?classifier=sources

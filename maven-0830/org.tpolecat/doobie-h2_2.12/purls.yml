@@ -76,5 +76,17 @@
 - pkg:maven/org.tpolecat/doobie-h2_2.12@0.7.0-M5
 - pkg:maven/org.tpolecat/doobie-h2_2.12@0.7.0-M5?classifier=sources
 - pkg:maven/org.tpolecat/doobie-h2_2.12@0.7.0?classifier=sources
+- pkg:maven/org.tpolecat/doobie-h2_2.12@0.7.1
+- pkg:maven/org.tpolecat/doobie-h2_2.12@0.7.1?classifier=sources
 - pkg:maven/org.tpolecat/doobie-h2_2.12@0.8.0-M1
 - pkg:maven/org.tpolecat/doobie-h2_2.12@0.8.0-M1?classifier=sources
+- pkg:maven/org.tpolecat/doobie-h2_2.12@0.8.0-M2
+- pkg:maven/org.tpolecat/doobie-h2_2.12@0.8.0-M2?classifier=sources
+- pkg:maven/org.tpolecat/doobie-h2_2.12@0.8.0-M3
+- pkg:maven/org.tpolecat/doobie-h2_2.12@0.8.0-M3?classifier=sources
+- pkg:maven/org.tpolecat/doobie-h2_2.12@0.8.0-RC1
+- pkg:maven/org.tpolecat/doobie-h2_2.12@0.8.0-RC1?classifier=sources
+- pkg:maven/org.tpolecat/doobie-h2_2.12@0.8.2
+- pkg:maven/org.tpolecat/doobie-h2_2.12@0.8.2?classifier=sources
+- pkg:maven/org.tpolecat/doobie-h2_2.12@0.8.4
+- pkg:maven/org.tpolecat/doobie-h2_2.12@0.8.4?classifier=sources

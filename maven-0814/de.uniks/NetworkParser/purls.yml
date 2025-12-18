@@ -60,3 +60,5 @@
 - pkg:maven/de.uniks/NetworkParser@4.7.1234?classifier=sources
 - pkg:maven/de.uniks/NetworkParser@4.7.1235
 - pkg:maven/de.uniks/NetworkParser@4.7.1235?classifier=sources
+- pkg:maven/de.uniks/NetworkParser@4.7.1260
+- pkg:maven/de.uniks/NetworkParser@4.7.1260?classifier=sources

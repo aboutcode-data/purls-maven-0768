@@ -2,3 +2,5 @@
 - pkg:maven/com.github.combineads/presto-hbase-testing-util-shaded@1.0-cdh5.11.2
 - pkg:maven/com.github.combineads/presto-hbase-testing-util-shaded@1.0-cdh5.11.2?classifier=sources
 - pkg:maven/com.github.combineads/presto-hbase-testing-util-shaded@1.0?classifier=sources
+- pkg:maven/com.github.combineads/presto-hbase-testing-util-shaded@5.0
+- pkg:maven/com.github.combineads/presto-hbase-testing-util-shaded@5.0?classifier=sources

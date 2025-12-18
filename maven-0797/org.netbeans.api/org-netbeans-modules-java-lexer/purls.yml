@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-lexer@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-lexer@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-java-lexer@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-lexer@RELEASE90?classifier=sources

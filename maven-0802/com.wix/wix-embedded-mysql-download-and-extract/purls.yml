@@ -26,3 +26,9 @@
 - pkg:maven/com.wix/wix-embedded-mysql-download-and-extract@4.1.3?classifier=sources
 - pkg:maven/com.wix/wix-embedded-mysql-download-and-extract@4.2.0
 - pkg:maven/com.wix/wix-embedded-mysql-download-and-extract@4.2.0?classifier=sources
+- pkg:maven/com.wix/wix-embedded-mysql-download-and-extract@4.4.0
+- pkg:maven/com.wix/wix-embedded-mysql-download-and-extract@4.4.0?classifier=sources
+- pkg:maven/com.wix/wix-embedded-mysql-download-and-extract@4.5.0
+- pkg:maven/com.wix/wix-embedded-mysql-download-and-extract@4.5.0?classifier=sources
+- pkg:maven/com.wix/wix-embedded-mysql-download-and-extract@4.6.0
+- pkg:maven/com.wix/wix-embedded-mysql-download-and-extract@4.6.0?classifier=sources

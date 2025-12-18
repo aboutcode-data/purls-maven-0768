@@ -4,3 +4,4 @@
 - pkg:maven/io.stryker-mutator/mutation-testing-elements@1.0.7
 - pkg:maven/io.stryker-mutator/mutation-testing-elements@1.0.8
 - pkg:maven/io.stryker-mutator/mutation-testing-elements@1.1.0
+- pkg:maven/io.stryker-mutator/mutation-testing-elements@1.1.1

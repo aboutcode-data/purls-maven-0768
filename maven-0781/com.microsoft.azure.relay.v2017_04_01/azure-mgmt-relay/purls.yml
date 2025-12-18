@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.relay.v2017_04_01/azure-mgmt-relay@1.0.0-beta
+- pkg:maven/com.microsoft.azure.relay.v2017_04_01/azure-mgmt-relay@1.0.0-beta?classifier=sources

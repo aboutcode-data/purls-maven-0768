@@ -2,6 +2,8 @@
 - pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@0.9.0?classifier=sources
 - pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@3.1.0
 - pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@3.1.0?classifier=sources
+- pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@3.10.0
+- pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@3.10.0?classifier=sources
 - pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@3.2.0
 - pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@3.2.0?classifier=sources
 - pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@3.3.0
@@ -14,3 +16,7 @@
 - pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@3.6.0?classifier=sources
 - pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@3.7.0
 - pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@3.7.0?classifier=sources
+- pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@3.8.1
+- pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@3.8.1?classifier=sources
+- pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@3.9.0
+- pkg:maven/com.shazam.chimprunner/chimprunner-gradle-plugin@3.9.0?classifier=sources

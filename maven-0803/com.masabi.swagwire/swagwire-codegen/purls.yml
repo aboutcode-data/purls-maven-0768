@@ -11,3 +11,5 @@
 - pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.26-rc5
 - pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.26-rc5?classifier=sources
 - pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.26?classifier=sources
+- pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.27
+- pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.27?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.seek-oss/lightgbm4j_2.12@2.2.2-1
+- pkg:maven/com.github.seek-oss/lightgbm4j_2.12@2.2.2-1?classifier=sources

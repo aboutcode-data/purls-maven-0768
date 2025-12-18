@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/cross-fetch@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/cross-fetch@2.2.2
 - pkg:maven/org.webjars.npm/cross-fetch@2.2.2?classifier=sources
+- pkg:maven/org.webjars.npm/cross-fetch@3.0.4

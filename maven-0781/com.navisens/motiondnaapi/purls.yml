@@ -13,9 +13,16 @@
 - pkg:maven/com.navisens/motiondnaapi@1.7.6?type=aar
 - pkg:maven/com.navisens/motiondnaapi@1.7.7?type=aar
 - pkg:maven/com.navisens/motiondnaapi@1.8.0?type=aar
+- pkg:maven/com.navisens/motiondnaapi@1.8.10?type=aar
+- pkg:maven/com.navisens/motiondnaapi@1.8.11?type=aar
+- pkg:maven/com.navisens/motiondnaapi@1.8.12?type=aar
+- pkg:maven/com.navisens/motiondnaapi@1.8.13?type=aar
+- pkg:maven/com.navisens/motiondnaapi@1.8.14?type=aar
+- pkg:maven/com.navisens/motiondnaapi@1.8.15?type=aar
 - pkg:maven/com.navisens/motiondnaapi@1.8.1?type=aar
 - pkg:maven/com.navisens/motiondnaapi@1.8.3?type=aar
 - pkg:maven/com.navisens/motiondnaapi@1.8.4?type=aar
 - pkg:maven/com.navisens/motiondnaapi@1.8.5?type=aar
 - pkg:maven/com.navisens/motiondnaapi@1.8.6?type=aar
 - pkg:maven/com.navisens/motiondnaapi@1.8.7?type=aar
+- pkg:maven/com.navisens/motiondnaapi@1.8.9?type=aar
