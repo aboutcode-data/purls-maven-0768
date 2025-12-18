@@ -1,2 +1,3 @@
 - pkg:maven/com.ixortalk/ixortalk-alertmanager@3.0.0
 - pkg:maven/com.ixortalk/ixortalk-alertmanager@3.0.1
+- pkg:maven/com.ixortalk/ixortalk-alertmanager@3.0.2

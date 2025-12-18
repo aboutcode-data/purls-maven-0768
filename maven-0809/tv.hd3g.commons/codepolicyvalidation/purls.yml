@@ -6,3 +6,7 @@
 - pkg:maven/tv.hd3g.commons/codepolicyvalidation@0.1.0?classifier=sources
 - pkg:maven/tv.hd3g.commons/codepolicyvalidation@0.2.0
 - pkg:maven/tv.hd3g.commons/codepolicyvalidation@0.2.0?classifier=sources
+- pkg:maven/tv.hd3g.commons/codepolicyvalidation@0.3.0
+- pkg:maven/tv.hd3g.commons/codepolicyvalidation@0.3.0?classifier=sources
+- pkg:maven/tv.hd3g.commons/codepolicyvalidation@0.4.0
+- pkg:maven/tv.hd3g.commons/codepolicyvalidation@0.4.0?classifier=sources

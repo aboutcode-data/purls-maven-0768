@@ -4,3 +4,7 @@
 - pkg:maven/org.kie.kogito/data-index-service-common@0.16.0?classifier=sources
 - pkg:maven/org.kie.kogito/data-index-service-common@0.17.0
 - pkg:maven/org.kie.kogito/data-index-service-common@0.17.0?classifier=sources
+- pkg:maven/org.kie.kogito/data-index-service-common@1.0.0.Final
+- pkg:maven/org.kie.kogito/data-index-service-common@1.0.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/data-index-service-common@1.1.0.Final
+- pkg:maven/org.kie.kogito/data-index-service-common@1.1.0.Final?classifier=sources

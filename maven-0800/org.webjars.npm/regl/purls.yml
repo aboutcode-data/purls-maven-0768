@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/regl@1.4.2?classifier=sources
 - pkg:maven/org.webjars.npm/regl@1.6.1
 - pkg:maven/org.webjars.npm/regl@1.6.1?classifier=sources
+- pkg:maven/org.webjars.npm/regl@1.7.0
+- pkg:maven/org.webjars.npm/regl@1.7.0?classifier=sources

@@ -8,9 +8,13 @@
 - pkg:maven/org.tentackle/tentackle-script-jsr@11.6.2.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-script-jsr@11.7.0.0
 - pkg:maven/org.tentackle/tentackle-script-jsr@11.7.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-script-jsr@11.7.1.0
+- pkg:maven/org.tentackle/tentackle-script-jsr@11.7.1.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-script-jsr@8.2.7.0
 - pkg:maven/org.tentackle/tentackle-script-jsr@8.2.7.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-script-jsr@8.2.7.4
 - pkg:maven/org.tentackle/tentackle-script-jsr@8.2.7.4?classifier=sources
 - pkg:maven/org.tentackle/tentackle-script-jsr@8.2.8.0
 - pkg:maven/org.tentackle/tentackle-script-jsr@8.2.8.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-script-jsr@8.3.0.0
+- pkg:maven/org.tentackle/tentackle-script-jsr@8.3.0.0?classifier=sources

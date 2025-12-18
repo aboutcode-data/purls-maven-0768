@@ -4,3 +4,5 @@
 - pkg:maven/com.playfab/gameserverSDK@0.2.181106?classifier=sources
 - pkg:maven/com.playfab/gameserverSDK@0.3.190104
 - pkg:maven/com.playfab/gameserverSDK@0.3.190104?classifier=sources
+- pkg:maven/com.playfab/gameserverSDK@0.4.201215
+- pkg:maven/com.playfab/gameserverSDK@0.4.201215?classifier=sources

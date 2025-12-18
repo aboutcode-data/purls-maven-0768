@@ -1,0 +1,2 @@
+- pkg:maven/de.rwth.swc.coffee4j/coffee4j-junit-engine@1.0.7
+- pkg:maven/de.rwth.swc.coffee4j/coffee4j-junit-engine@1.0.7?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.oracle.database.jdbc.debug/ojdbc10dms_g@19.7.0.0?classifier=sources
 - pkg:maven/com.oracle.database.jdbc.debug/ojdbc10dms_g@19.8.0.0
 - pkg:maven/com.oracle.database.jdbc.debug/ojdbc10dms_g@19.8.0.0?classifier=sources
+- pkg:maven/com.oracle.database.jdbc.debug/ojdbc10dms_g@19.9.0.0
+- pkg:maven/com.oracle.database.jdbc.debug/ojdbc10dms_g@19.9.0.0?classifier=sources

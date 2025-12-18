@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.skywalking/opencensus-receiver-plugin@8.1.0
+- pkg:maven/org.apache.skywalking/opencensus-receiver-plugin@8.2.0

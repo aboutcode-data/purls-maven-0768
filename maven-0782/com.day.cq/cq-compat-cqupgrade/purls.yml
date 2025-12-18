@@ -1,0 +1,2 @@
+- pkg:maven/com.day.cq/cq-compat-cqupgrade@1.0.0?classifier=sources
+- pkg:maven/com.day.cq/cq-compat-cqupgrade@1.0.4?classifier=sources

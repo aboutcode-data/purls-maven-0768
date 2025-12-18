@@ -1,3 +1,4 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-starter@4.0.0?type=war
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-starter@4.1.0?type=war
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-starter@4.2.0?type=war
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-starter@5.2.0?type=war

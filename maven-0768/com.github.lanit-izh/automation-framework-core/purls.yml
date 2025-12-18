@@ -11,6 +11,8 @@
 - pkg:maven/com.github.lanit-izh/automation-framework-core@4.0.12?classifier=sources
 - pkg:maven/com.github.lanit-izh/automation-framework-core@4.0.13
 - pkg:maven/com.github.lanit-izh/automation-framework-core@4.0.13?classifier=sources
+- pkg:maven/com.github.lanit-izh/automation-framework-core@4.0.16?classifier=sources
+- pkg:maven/com.github.lanit-izh/automation-framework-core@4.0.17?classifier=sources
 - pkg:maven/com.github.lanit-izh/automation-framework-core@4.0.1?classifier=sources
 - pkg:maven/com.github.lanit-izh/automation-framework-core@4.0.2
 - pkg:maven/com.github.lanit-izh/automation-framework-core@4.0.2?classifier=sources

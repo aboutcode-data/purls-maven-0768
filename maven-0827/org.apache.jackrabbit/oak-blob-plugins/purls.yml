@@ -48,6 +48,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.32.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.34.0
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.34.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.36
+- pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.36?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.7.0
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.7.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.7.1
@@ -109,6 +111,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.8.22?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.8.23
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.8.23?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.8.24
+- pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.8.24?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.8.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.8.3
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.8.3?classifier=sources

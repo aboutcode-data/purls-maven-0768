@@ -16,3 +16,5 @@
 - pkg:maven/com.movielabs/mddf-lib@1.8.0.2
 - pkg:maven/com.movielabs/mddf-lib@1.8.0.2?classifier=sources
 - pkg:maven/com.movielabs/mddf-lib@1.8?classifier=sources
+- pkg:maven/com.movielabs/mddf-lib@1.9
+- pkg:maven/com.movielabs/mddf-lib@1.9?classifier=sources

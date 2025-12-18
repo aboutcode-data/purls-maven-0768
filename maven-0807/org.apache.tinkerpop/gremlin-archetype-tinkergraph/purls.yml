@@ -78,3 +78,5 @@
 - pkg:maven/org.apache.tinkerpop/gremlin-archetype-tinkergraph@3.4.7?classifier=sources
 - pkg:maven/org.apache.tinkerpop/gremlin-archetype-tinkergraph@3.4.8
 - pkg:maven/org.apache.tinkerpop/gremlin-archetype-tinkergraph@3.4.8?classifier=sources
+- pkg:maven/org.apache.tinkerpop/gremlin-archetype-tinkergraph@3.4.9
+- pkg:maven/org.apache.tinkerpop/gremlin-archetype-tinkergraph@3.4.9?classifier=sources

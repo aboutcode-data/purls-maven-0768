@@ -1,1 +1,2 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-elasticsearch-6@5.1.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-elasticsearch-6@5.2.0

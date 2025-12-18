@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.equinox/org.gecko.eclipse.package-explorer-filter@1.0.3
+- pkg:maven/org.geckoprojects.equinox/org.gecko.eclipse.package-explorer-filter@1.0.3?classifier=sources

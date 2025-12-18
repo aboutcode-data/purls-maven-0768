@@ -209,8 +209,16 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.16?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.17
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.17?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.18
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.18?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.19
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.19?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.1?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.2
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.20
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.20?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.21
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.21?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.2?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.3
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml2/org.wso2.carbon.identity.sso.saml.stub@5.8.3?classifier=sources

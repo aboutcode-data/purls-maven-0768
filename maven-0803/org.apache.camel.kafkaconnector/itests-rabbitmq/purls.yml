@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.camel.kafkaconnector/itests-rabbitmq@0.6.0
+- pkg:maven/org.apache.camel.kafkaconnector/itests-rabbitmq@0.6.0?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/itests-rabbitmq@0.6.1
+- pkg:maven/org.apache.camel.kafkaconnector/itests-rabbitmq@0.6.1?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/itests-rabbitmq@0.7.0
+- pkg:maven/org.apache.camel.kafkaconnector/itests-rabbitmq@0.7.0?classifier=sources

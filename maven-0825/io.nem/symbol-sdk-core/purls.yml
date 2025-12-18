@@ -16,3 +16,7 @@
 - pkg:maven/io.nem/symbol-sdk-core@0.20.3?classifier=sources
 - pkg:maven/io.nem/symbol-sdk-core@0.21.0
 - pkg:maven/io.nem/symbol-sdk-core@0.21.0?classifier=sources
+- pkg:maven/io.nem/symbol-sdk-core@0.22.0
+- pkg:maven/io.nem/symbol-sdk-core@0.22.0?classifier=sources
+- pkg:maven/io.nem/symbol-sdk-core@0.22.1
+- pkg:maven/io.nem/symbol-sdk-core@0.22.1?classifier=sources

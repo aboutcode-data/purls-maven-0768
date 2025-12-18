@@ -47,6 +47,7 @@
 - pkg:maven/uk.modl/java-interpreter@0.1.20?classifier=sources
 - pkg:maven/uk.modl/java-interpreter@0.1.21?classifier=sources
 - pkg:maven/uk.modl/java-interpreter@0.1.22?classifier=sources
+- pkg:maven/uk.modl/java-interpreter@0.1.23?classifier=sources
 - pkg:maven/uk.modl/java-interpreter@0.1.2?classifier=sources
 - pkg:maven/uk.modl/java-interpreter@0.1.3?classifier=sources
 - pkg:maven/uk.modl/java-interpreter@0.1.4?classifier=sources

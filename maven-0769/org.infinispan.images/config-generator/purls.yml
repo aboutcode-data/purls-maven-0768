@@ -30,6 +30,8 @@
 - pkg:maven/org.infinispan.images/config-generator@2.0.1.Final?classifier=sources
 - pkg:maven/org.infinispan.images/config-generator@2.0.2.Final
 - pkg:maven/org.infinispan.images/config-generator@2.0.2.Final?classifier=sources
+- pkg:maven/org.infinispan.images/config-generator@2.0.3.Final
+- pkg:maven/org.infinispan.images/config-generator@2.0.3.Final?classifier=sources
 - pkg:maven/org.infinispan.images/config-generator@2.1.0.Dev01
 - pkg:maven/org.infinispan.images/config-generator@2.1.0.Dev01-1
 - pkg:maven/org.infinispan.images/config-generator@2.1.0.Dev01-1?classifier=sources

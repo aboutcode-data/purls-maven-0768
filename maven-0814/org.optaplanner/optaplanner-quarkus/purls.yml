@@ -24,5 +24,15 @@
 - pkg:maven/org.optaplanner/optaplanner-quarkus@7.45.0.t20201009?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus@7.45.0.t20201014
 - pkg:maven/org.optaplanner/optaplanner-quarkus@7.45.0.t20201014?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus@7.46.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus@7.46.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus@7.47.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus@7.47.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus@7.48.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus@7.48.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus@8.0.0.Beta1
 - pkg:maven/org.optaplanner/optaplanner-quarkus@8.0.0.Beta1?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus@8.0.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus@8.0.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus@8.1.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus@8.1.0.Final?classifier=sources

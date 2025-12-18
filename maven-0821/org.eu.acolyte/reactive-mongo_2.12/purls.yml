@@ -22,3 +22,5 @@
 - pkg:maven/org.eu.acolyte/reactive-mongo_2.12@1.0.55?classifier=sources
 - pkg:maven/org.eu.acolyte/reactive-mongo_2.12@1.0.56
 - pkg:maven/org.eu.acolyte/reactive-mongo_2.12@1.0.56?classifier=sources
+- pkg:maven/org.eu.acolyte/reactive-mongo_2.12@1.0.57
+- pkg:maven/org.eu.acolyte/reactive-mongo_2.12@1.0.57?classifier=sources

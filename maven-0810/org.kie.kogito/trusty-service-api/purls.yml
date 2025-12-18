@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.kogito/trusty-service-api@1.0.0.Final
+- pkg:maven/org.kie.kogito/trusty-service-api@1.0.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/trusty-service-api@1.1.0.Final
+- pkg:maven/org.kie.kogito/trusty-service-api@1.1.0.Final?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-solr@1.5.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-solr@1.5.0?classifier=sources

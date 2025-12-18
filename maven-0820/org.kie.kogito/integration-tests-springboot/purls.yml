@@ -11,3 +11,5 @@
 - pkg:maven/org.kie.kogito/integration-tests-springboot@0.16.0?classifier=sources
 - pkg:maven/org.kie.kogito/integration-tests-springboot@0.17.0
 - pkg:maven/org.kie.kogito/integration-tests-springboot@0.17.0?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-springboot@1.0.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-springboot@1.1.0.Final

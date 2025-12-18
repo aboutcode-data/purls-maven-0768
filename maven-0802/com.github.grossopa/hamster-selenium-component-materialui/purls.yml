@@ -1,0 +1,2 @@
+- pkg:maven/com.github.grossopa/hamster-selenium-component-materialui@1.0
+- pkg:maven/com.github.grossopa/hamster-selenium-component-materialui@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sdl.sdk/sdl-mt-sdk@1.0
+- pkg:maven/com.sdl.sdk/sdl-mt-sdk@1.0?classifier=sources

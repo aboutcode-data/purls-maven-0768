@@ -96,6 +96,14 @@
 - pkg:maven/com.google.cloud/google-cloud-language@1.101.3?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-language@1.101.4
 - pkg:maven/com.google.cloud/google-cloud-language@1.101.4?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-language@1.101.5
+- pkg:maven/com.google.cloud/google-cloud-language@1.101.5?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-language@1.101.6
+- pkg:maven/com.google.cloud/google-cloud-language@1.101.6?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-language@1.101.7
+- pkg:maven/com.google.cloud/google-cloud-language@1.101.7?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-language@1.101.9
+- pkg:maven/com.google.cloud/google-cloud-language@1.101.9?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-language@1.11.0
 - pkg:maven/com.google.cloud/google-cloud-language@1.11.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-language@1.12.0

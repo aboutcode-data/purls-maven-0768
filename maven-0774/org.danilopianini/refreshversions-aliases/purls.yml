@@ -9,4 +9,14 @@
 - pkg:maven/org.danilopianini/refreshversions-aliases@0.1.2-dev03%2Bdbc3155?classifier=sources
 - pkg:maven/org.danilopianini/refreshversions-aliases@0.1.2?classifier=sources
 - pkg:maven/org.danilopianini/refreshversions-aliases@0.1.4?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5-dev18%2B4b80f3e?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5-dev18%2Bde18194?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5-dev1b%2Baa1967a?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5-dev1b%2Bc756b8a?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5-dev1c%2B32252fb?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5-dev1c%2Bb786a93?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5-dev1d%2B7b8d4a6?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5-dev1d%2Bcb7eb5f?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5-dev1o%2Bb70a5f2?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5-dev1p%2B3cc88b8?classifier=sources
 - pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5?classifier=sources

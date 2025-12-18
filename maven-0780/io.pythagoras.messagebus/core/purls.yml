@@ -34,3 +34,5 @@
 - pkg:maven/io.pythagoras.messagebus/core@1.7.3?classifier=sources
 - pkg:maven/io.pythagoras.messagebus/core@1.8.0
 - pkg:maven/io.pythagoras.messagebus/core@1.8.0?classifier=sources
+- pkg:maven/io.pythagoras.messagebus/core@1.8.1
+- pkg:maven/io.pythagoras.messagebus/core@1.8.1?classifier=sources

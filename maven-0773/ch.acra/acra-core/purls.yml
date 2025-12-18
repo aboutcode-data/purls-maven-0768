@@ -23,3 +23,7 @@
 - pkg:maven/ch.acra/acra-core@5.6.1?type=aar
 - pkg:maven/ch.acra/acra-core@5.7.0?classifier=sources
 - pkg:maven/ch.acra/acra-core@5.7.0?type=aar
+- pkg:maven/ch.acra/acra-core@5.8.0-alpha1?classifier=sources
+- pkg:maven/ch.acra/acra-core@5.8.0-alpha1?type=aar
+- pkg:maven/ch.acra/acra-core@unspecified?classifier=sources
+- pkg:maven/ch.acra/acra-core@unspecified?type=aar

@@ -22,6 +22,10 @@
 - pkg:maven/com.google.api-ads/google-ads@1.0.1?classifier=sources
 - pkg:maven/com.google.api-ads/google-ads@1.1.0
 - pkg:maven/com.google.api-ads/google-ads@1.1.0?classifier=sources
+- pkg:maven/com.google.api-ads/google-ads@10.0.0
+- pkg:maven/com.google.api-ads/google-ads@10.0.0?classifier=sources
+- pkg:maven/com.google.api-ads/google-ads@10.1.0
+- pkg:maven/com.google.api-ads/google-ads@10.1.0?classifier=sources
 - pkg:maven/com.google.api-ads/google-ads@2.0.0
 - pkg:maven/com.google.api-ads/google-ads@2.0.0?classifier=sources
 - pkg:maven/com.google.api-ads/google-ads@3.0.0

@@ -1,2 +1,4 @@
 - pkg:maven/org.lastnpe.eea/eea-all@2.0.0
 - pkg:maven/org.lastnpe.eea/eea-all@2.1.0
+- pkg:maven/org.lastnpe.eea/eea-all@2.2.0
+- pkg:maven/org.lastnpe.eea/eea-all@2.2.1

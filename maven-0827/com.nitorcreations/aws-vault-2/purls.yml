@@ -1,0 +1,4 @@
+- pkg:maven/com.nitorcreations/aws-vault-2@0.15
+- pkg:maven/com.nitorcreations/aws-vault-2@0.15?classifier=sources
+- pkg:maven/com.nitorcreations/aws-vault-2@0.16
+- pkg:maven/com.nitorcreations/aws-vault-2@0.16?classifier=sources

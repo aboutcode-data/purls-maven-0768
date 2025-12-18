@@ -2,3 +2,6 @@
 - pkg:maven/dev.gitlive/firebase-auth-android-debug@0.1.0?classifier=sources
 - pkg:maven/dev.gitlive/firebase-auth-android-debug@0.2.0?classifier=sources
 - pkg:maven/dev.gitlive/firebase-auth-android-debug@0.4.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-auth-android-debug@1.0.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-auth-android-debug@1.1.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-auth-android-debug@1.2.0?classifier=sources

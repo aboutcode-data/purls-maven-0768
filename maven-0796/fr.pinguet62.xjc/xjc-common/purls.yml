@@ -6,3 +6,5 @@
 - pkg:maven/fr.pinguet62.xjc/xjc-common@1.2?classifier=sources
 - pkg:maven/fr.pinguet62.xjc/xjc-common@2.0
 - pkg:maven/fr.pinguet62.xjc/xjc-common@2.0?classifier=sources
+- pkg:maven/fr.pinguet62.xjc/xjc-common@3.0
+- pkg:maven/fr.pinguet62.xjc/xjc-common@3.0?classifier=sources

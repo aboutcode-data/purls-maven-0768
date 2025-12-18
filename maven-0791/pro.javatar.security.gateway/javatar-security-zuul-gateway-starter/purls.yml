@@ -6,3 +6,5 @@
 - pkg:maven/pro.javatar.security.gateway/javatar-security-zuul-gateway-starter@0.0.29?classifier=sources
 - pkg:maven/pro.javatar.security.gateway/javatar-security-zuul-gateway-starter@0.0.30
 - pkg:maven/pro.javatar.security.gateway/javatar-security-zuul-gateway-starter@0.0.30?classifier=sources
+- pkg:maven/pro.javatar.security.gateway/javatar-security-zuul-gateway-starter@0.0.31
+- pkg:maven/pro.javatar.security.gateway/javatar-security-zuul-gateway-starter@0.0.31?classifier=sources

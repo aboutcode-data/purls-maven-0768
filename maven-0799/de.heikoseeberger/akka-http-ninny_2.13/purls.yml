@@ -1,2 +1,4 @@
 - pkg:maven/de.heikoseeberger/akka-http-ninny_2.13@1.35.2
 - pkg:maven/de.heikoseeberger/akka-http-ninny_2.13@1.35.2?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-ninny_2.13@1.35.3
+- pkg:maven/de.heikoseeberger/akka-http-ninny_2.13@1.35.3?classifier=sources

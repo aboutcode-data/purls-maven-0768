@@ -1,0 +1,2 @@
+- pkg:maven/com.zachklipp.compose-richtext/slideshow@0.1.0%2Balpha06?classifier=sources
+- pkg:maven/com.zachklipp.compose-richtext/slideshow@0.1.0?classifier=sources

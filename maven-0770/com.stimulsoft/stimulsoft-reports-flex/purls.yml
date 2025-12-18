@@ -122,3 +122,5 @@
 - pkg:maven/com.stimulsoft/stimulsoft-reports-flex@2020.4.2?classifier=sources
 - pkg:maven/com.stimulsoft/stimulsoft-reports-flex@2020.4.2a
 - pkg:maven/com.stimulsoft/stimulsoft-reports-flex@2020.4.2a?classifier=sources
+- pkg:maven/com.stimulsoft/stimulsoft-reports-flex@2020.5.1
+- pkg:maven/com.stimulsoft/stimulsoft-reports-flex@2020.5.1?classifier=sources

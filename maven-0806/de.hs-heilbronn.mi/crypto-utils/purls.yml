@@ -12,3 +12,5 @@
 - pkg:maven/de.hs-heilbronn.mi/crypto-utils@2.7.0?classifier=sources
 - pkg:maven/de.hs-heilbronn.mi/crypto-utils@2.8.0
 - pkg:maven/de.hs-heilbronn.mi/crypto-utils@2.8.0?classifier=sources
+- pkg:maven/de.hs-heilbronn.mi/crypto-utils@2.9.0
+- pkg:maven/de.hs-heilbronn.mi/crypto-utils@2.9.0?classifier=sources

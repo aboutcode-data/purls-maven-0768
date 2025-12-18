@@ -1,2 +1,4 @@
 - pkg:maven/io.github.apimorphism/telegramium-core_2.13@2.49.0
 - pkg:maven/io.github.apimorphism/telegramium-core_2.13@2.49.0?classifier=sources
+- pkg:maven/io.github.apimorphism/telegramium-core_2.13@2.50.0
+- pkg:maven/io.github.apimorphism/telegramium-core_2.13@2.50.0?classifier=sources

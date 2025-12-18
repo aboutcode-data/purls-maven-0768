@@ -230,6 +230,8 @@
 - pkg:maven/no.nav.common/abac@1.2020.07.14_09.10-c90ff81f6194?classifier=sources
 - pkg:maven/no.nav.common/abac@1.2020.09.07_16.00-4f2f19a76bb2
 - pkg:maven/no.nav.common/abac@1.2020.09.07_16.00-4f2f19a76bb2?classifier=sources
+- pkg:maven/no.nav.common/abac@1.2020.11.16_14.52-3f16e0d8c867
+- pkg:maven/no.nav.common/abac@1.2020.11.16_14.52-3f16e0d8c867?classifier=sources
 - pkg:maven/no.nav.common/abac@2.2020.03.18_12.19-ac82e907ebc9
 - pkg:maven/no.nav.common/abac@2.2020.03.18_12.19-ac82e907ebc9?classifier=sources
 - pkg:maven/no.nav.common/abac@2.2020.03.18_14.42-31eaaaf8fa1c
@@ -356,3 +358,15 @@
 - pkg:maven/no.nav.common/abac@2.2020.10.13_14.48-80e4c2dc5856?classifier=sources
 - pkg:maven/no.nav.common/abac@2.2020.10.15_11.43-b1f02e7bd6ae
 - pkg:maven/no.nav.common/abac@2.2020.10.15_11.43-b1f02e7bd6ae?classifier=sources
+- pkg:maven/no.nav.common/abac@2.2020.10.27_15.17-901cc4cfbbe4
+- pkg:maven/no.nav.common/abac@2.2020.10.27_15.17-901cc4cfbbe4?classifier=sources
+- pkg:maven/no.nav.common/abac@2.2020.10.30_14.28-f4cf5f5efbe1
+- pkg:maven/no.nav.common/abac@2.2020.10.30_14.28-f4cf5f5efbe1?classifier=sources
+- pkg:maven/no.nav.common/abac@2.2020.11.04_12.14-2f2d89c3992e
+- pkg:maven/no.nav.common/abac@2.2020.11.04_12.14-2f2d89c3992e?classifier=sources
+- pkg:maven/no.nav.common/abac@2.2020.11.25_13.46-a7ba8251568a
+- pkg:maven/no.nav.common/abac@2.2020.11.25_13.46-a7ba8251568a?classifier=sources
+- pkg:maven/no.nav.common/abac@2.2021.01.04_07.54-f12e91e62d5b
+- pkg:maven/no.nav.common/abac@2.2021.01.04_07.54-f12e91e62d5b?classifier=sources
+- pkg:maven/no.nav.common/abac@2.2021.01.05_08.07-2c586ccadf95
+- pkg:maven/no.nav.common/abac@2.2021.01.05_08.07-2c586ccadf95?classifier=sources

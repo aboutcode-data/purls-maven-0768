@@ -54,3 +54,5 @@
 - pkg:maven/com.foxinmy/weixin4j-qy@1.8.1?classifier=sources
 - pkg:maven/com.foxinmy/weixin4j-qy@1.8.2
 - pkg:maven/com.foxinmy/weixin4j-qy@1.8.2?classifier=sources
+- pkg:maven/com.foxinmy/weixin4j-qy@1.9.0
+- pkg:maven/com.foxinmy/weixin4j-qy@1.9.0?classifier=sources

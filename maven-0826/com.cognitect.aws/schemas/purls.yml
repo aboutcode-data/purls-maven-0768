@@ -2,3 +2,5 @@
 - pkg:maven/com.cognitect.aws/schemas@776.2.582.0?classifier=sources
 - pkg:maven/com.cognitect.aws/schemas@796.2.667.0
 - pkg:maven/com.cognitect.aws/schemas@796.2.667.0?classifier=sources
+- pkg:maven/com.cognitect.aws/schemas@809.2.784.0
+- pkg:maven/com.cognitect.aws/schemas@809.2.784.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/pl.msitko/yt-api-scala_2.13@0.1.0-RC5
+- pkg:maven/pl.msitko/yt-api-scala_2.13@0.1.0-RC5?classifier=sources

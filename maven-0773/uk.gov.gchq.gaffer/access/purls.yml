@@ -8,3 +8,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/access@1.13.3?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/access@1.13.4
 - pkg:maven/uk.gov.gchq.gaffer/access@1.13.4?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/access@1.14.0
+- pkg:maven/uk.gov.gchq.gaffer/access@1.14.0?classifier=sources

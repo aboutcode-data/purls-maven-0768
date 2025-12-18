@@ -1,0 +1,4 @@
+- pkg:maven/be.atbash.jakarta.utils/utils-jsf@1.0.0
+- pkg:maven/be.atbash.jakarta.utils/utils-jsf@1.0.0?classifier=sources
+- pkg:maven/be.atbash.jakarta.utils/utils-jsf@1.0.1
+- pkg:maven/be.atbash.jakarta.utils/utils-jsf@1.0.1?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/com.disney.studio.cucumber.slices.plugin/cucumber-slices-maven-plugin@1.7.0?classifier=sources
 - pkg:maven/com.disney.studio.cucumber.slices.plugin/cucumber-slices-maven-plugin@1.8.0
 - pkg:maven/com.disney.studio.cucumber.slices.plugin/cucumber-slices-maven-plugin@1.8.0?classifier=sources
+- pkg:maven/com.disney.studio.cucumber.slices.plugin/cucumber-slices-maven-plugin@1.8.1
+- pkg:maven/com.disney.studio.cucumber.slices.plugin/cucumber-slices-maven-plugin@1.8.1?classifier=sources
+- pkg:maven/com.disney.studio.cucumber.slices.plugin/cucumber-slices-maven-plugin@1.8.2
+- pkg:maven/com.disney.studio.cucumber.slices.plugin/cucumber-slices-maven-plugin@1.8.2?classifier=sources

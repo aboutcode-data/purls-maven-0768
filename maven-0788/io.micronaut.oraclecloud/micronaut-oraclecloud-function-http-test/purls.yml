@@ -4,3 +4,5 @@
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-function-http-test@1.0.0.RC3?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-function-http-test@1.0.0.RC4?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-function-http-test@1.0.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-function-http-test@1.1.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-function-http-test@1.1.1?classifier=sources

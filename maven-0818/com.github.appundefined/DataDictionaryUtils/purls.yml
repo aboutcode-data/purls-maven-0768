@@ -3,3 +3,8 @@
 - pkg:maven/com.github.appundefined/DataDictionaryUtils@1.2-RELEASE
 - pkg:maven/com.github.appundefined/DataDictionaryUtils@1.2-RELEASE?classifier=sources
 - pkg:maven/com.github.appundefined/DataDictionaryUtils@1.3-RELEASE?classifier=sources
+- pkg:maven/com.github.appundefined/DataDictionaryUtils@1.4-RELEASE?classifier=sources
+- pkg:maven/com.github.appundefined/DataDictionaryUtils@1.5-RELEASE
+- pkg:maven/com.github.appundefined/DataDictionaryUtils@1.5-RELEASE?classifier=sources
+- pkg:maven/com.github.appundefined/DataDictionaryUtils@1.6-RELEASE
+- pkg:maven/com.github.appundefined/DataDictionaryUtils@1.6-RELEASE?classifier=sources

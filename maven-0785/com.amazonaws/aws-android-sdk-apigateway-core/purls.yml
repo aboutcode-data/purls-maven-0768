@@ -88,6 +88,12 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.19.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.19.1?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.19.1?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.19.2?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.19.2?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.19.3?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.19.3?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.19.4?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.19.4?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.2.10
 - pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.2.10?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.2.11
@@ -128,6 +134,12 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.2.8?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.2.9
 - pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.2.9?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.20.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.20.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.20.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.20.1?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.21.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.21.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.3.0
 - pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.3.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-apigateway-core@2.3.1

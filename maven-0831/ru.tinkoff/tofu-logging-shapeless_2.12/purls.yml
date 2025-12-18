@@ -8,3 +8,5 @@
 - pkg:maven/ru.tinkoff/tofu-logging-shapeless_2.12@0.7.9?classifier=sources
 - pkg:maven/ru.tinkoff/tofu-logging-shapeless_2.12@0.8.0
 - pkg:maven/ru.tinkoff/tofu-logging-shapeless_2.12@0.8.0?classifier=sources
+- pkg:maven/ru.tinkoff/tofu-logging-shapeless_2.12@0.9.0
+- pkg:maven/ru.tinkoff/tofu-logging-shapeless_2.12@0.9.0?classifier=sources

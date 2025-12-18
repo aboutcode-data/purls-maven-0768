@@ -4,5 +4,7 @@
 - pkg:maven/org.apache.karaf.examples/karaf-jaas-example-app@4.2.8?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-jaas-example-app@4.2.9
 - pkg:maven/org.apache.karaf.examples/karaf-jaas-example-app@4.2.9?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-jaas-example-app@4.3.0
 - pkg:maven/org.apache.karaf.examples/karaf-jaas-example-app@4.3.0.RC1
 - pkg:maven/org.apache.karaf.examples/karaf-jaas-example-app@4.3.0.RC1?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-jaas-example-app@4.3.0?classifier=sources

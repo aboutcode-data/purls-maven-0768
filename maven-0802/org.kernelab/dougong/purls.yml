@@ -13,6 +13,12 @@
 - pkg:maven/org.kernelab/dougong@0.0.15-RELEASE
 - pkg:maven/org.kernelab/dougong@0.0.15-RELEASE?classifier=sources
 - pkg:maven/org.kernelab/dougong@0.0.16-RELEASE?classifier=sources
+- pkg:maven/org.kernelab/dougong@0.0.17-RELEASE
+- pkg:maven/org.kernelab/dougong@0.0.17-RELEASE?classifier=sources
+- pkg:maven/org.kernelab/dougong@0.0.18-RELEASE
+- pkg:maven/org.kernelab/dougong@0.0.18-RELEASE?classifier=sources
+- pkg:maven/org.kernelab/dougong@0.0.19-RELEASE
+- pkg:maven/org.kernelab/dougong@0.0.19-RELEASE?classifier=sources
 - pkg:maven/org.kernelab/dougong@0.0.2-RELEASE
 - pkg:maven/org.kernelab/dougong@0.0.2-RELEASE?classifier=sources
 - pkg:maven/org.kernelab/dougong@0.0.3-RELEASE

@@ -14,3 +14,5 @@
 - pkg:maven/com.google.cloud.functions.invoker/java-function-invoker@1.0.0-beta2
 - pkg:maven/com.google.cloud.functions.invoker/java-function-invoker@1.0.0-beta2?classifier=sources
 - pkg:maven/com.google.cloud.functions.invoker/java-function-invoker@1.0.0?classifier=sources
+- pkg:maven/com.google.cloud.functions.invoker/java-function-invoker@1.0.1
+- pkg:maven/com.google.cloud.functions.invoker/java-function-invoker@1.0.1?classifier=sources

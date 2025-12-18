@@ -126,6 +126,8 @@
 - pkg:maven/com.liferay.plugins/fjord-theme@3.0.39?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@3.0.3?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@3.0.40?type=war
+- pkg:maven/com.liferay.plugins/fjord-theme@3.0.41?type=war
+- pkg:maven/com.liferay.plugins/fjord-theme@3.0.42?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@3.0.4?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@3.0.5?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@3.0.6?type=war

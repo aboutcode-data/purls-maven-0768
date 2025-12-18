@@ -1,0 +1,2 @@
+- pkg:maven/vip.yazilim/spring-vip@0.1.00.220
+- pkg:maven/vip.yazilim/spring-vip@0.1.00.220?classifier=sources

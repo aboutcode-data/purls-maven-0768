@@ -4,3 +4,4 @@
 - pkg:maven/com.alebit.jelsongname/jelsongname@1.1.1
 - pkg:maven/com.alebit.jelsongname/jelsongname@1.1.1?classifier=sources
 - pkg:maven/com.alebit.jelsongname/jelsongname@1.1?classifier=sources
+- pkg:maven/com.alebit.jelsongname/jelsongname@1.2?classifier=sources

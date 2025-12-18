@@ -64,3 +64,5 @@
 - pkg:maven/org.xtext/xtext-android-gradle-plugin@2.0.7?classifier=sources
 - pkg:maven/org.xtext/xtext-android-gradle-plugin@2.0.8
 - pkg:maven/org.xtext/xtext-android-gradle-plugin@2.0.8?classifier=sources
+- pkg:maven/org.xtext/xtext-android-gradle-plugin@2.0.9-alpha.3
+- pkg:maven/org.xtext/xtext-android-gradle-plugin@2.0.9-alpha.3?classifier=sources

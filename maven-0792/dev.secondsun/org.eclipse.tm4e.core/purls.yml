@@ -1,0 +1,6 @@
+- pkg:maven/dev.secondsun/org.eclipse.tm4e.core@0.4.6
+- pkg:maven/dev.secondsun/org.eclipse.tm4e.core@0.4.6?classifier=sources
+- pkg:maven/dev.secondsun/org.eclipse.tm4e.core@0.4.7
+- pkg:maven/dev.secondsun/org.eclipse.tm4e.core@0.4.7?classifier=sources
+- pkg:maven/dev.secondsun/org.eclipse.tm4e.core@0.4.8
+- pkg:maven/dev.secondsun/org.eclipse.tm4e.core@0.4.8?classifier=sources

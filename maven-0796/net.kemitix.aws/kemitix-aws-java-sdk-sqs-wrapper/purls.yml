@@ -1,0 +1,5 @@
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-sqs-wrapper@1.11.874
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-sqs-wrapper@1.11.902
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-sqs-wrapper@1.11.911
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-sqs-wrapper@1.11.922
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-sqs-wrapper@1.11.934

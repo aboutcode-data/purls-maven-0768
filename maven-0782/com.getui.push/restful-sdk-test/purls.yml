@@ -1,0 +1,2 @@
+- pkg:maven/com.getui.push/restful-sdk-test@1.0.0.1
+- pkg:maven/com.getui.push/restful-sdk-test@1.0.0.1?classifier=sources

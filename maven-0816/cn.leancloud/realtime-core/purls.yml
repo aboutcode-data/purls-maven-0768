@@ -117,6 +117,12 @@
 - pkg:maven/cn.leancloud/realtime-core@6.5.11?classifier=sources
 - pkg:maven/cn.leancloud/realtime-core@6.5.12
 - pkg:maven/cn.leancloud/realtime-core@6.5.12?classifier=sources
+- pkg:maven/cn.leancloud/realtime-core@6.5.13
+- pkg:maven/cn.leancloud/realtime-core@6.5.13?classifier=sources
+- pkg:maven/cn.leancloud/realtime-core@6.5.14
+- pkg:maven/cn.leancloud/realtime-core@6.5.14?classifier=sources
+- pkg:maven/cn.leancloud/realtime-core@6.5.15
+- pkg:maven/cn.leancloud/realtime-core@6.5.15?classifier=sources
 - pkg:maven/cn.leancloud/realtime-core@6.5.1?classifier=sources
 - pkg:maven/cn.leancloud/realtime-core@6.5.2
 - pkg:maven/cn.leancloud/realtime-core@6.5.2?classifier=sources
@@ -152,3 +158,5 @@
 - pkg:maven/cn.leancloud/realtime-core@7.0.7?classifier=sources
 - pkg:maven/cn.leancloud/realtime-core@7.0.8
 - pkg:maven/cn.leancloud/realtime-core@7.0.8?classifier=sources
+- pkg:maven/cn.leancloud/realtime-core@7.0.9
+- pkg:maven/cn.leancloud/realtime-core@7.0.9?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.codelibs.fess/fess-ingest-ndjson@13.10.0
+- pkg:maven/org.codelibs.fess/fess-ingest-ndjson@13.10.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ingest-ndjson@13.7.0
 - pkg:maven/org.codelibs.fess/fess-ingest-ndjson@13.7.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ingest-ndjson@13.8.0

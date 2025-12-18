@@ -10,3 +10,5 @@
 - pkg:maven/org.http4s/jawn-fs2_2.13@1.0.0-RC2
 - pkg:maven/org.http4s/jawn-fs2_2.13@1.0.0-RC2?classifier=sources
 - pkg:maven/org.http4s/jawn-fs2_2.13@1.0.0?classifier=sources
+- pkg:maven/org.http4s/jawn-fs2_2.13@2.0.0-M1
+- pkg:maven/org.http4s/jawn-fs2_2.13@2.0.0-M1?classifier=sources

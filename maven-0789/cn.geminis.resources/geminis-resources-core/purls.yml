@@ -1,0 +1,2 @@
+- pkg:maven/cn.geminis.resources/geminis-resources-core@1.1.0
+- pkg:maven/cn.geminis.resources/geminis-resources-core@1.1.0?classifier=sources

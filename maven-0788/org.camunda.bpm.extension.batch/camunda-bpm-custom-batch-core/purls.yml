@@ -10,3 +10,5 @@
 - pkg:maven/org.camunda.bpm.extension.batch/camunda-bpm-custom-batch-core@1.4.0?classifier=sources
 - pkg:maven/org.camunda.bpm.extension.batch/camunda-bpm-custom-batch-core@1.5.0
 - pkg:maven/org.camunda.bpm.extension.batch/camunda-bpm-custom-batch-core@1.5.0?classifier=sources
+- pkg:maven/org.camunda.bpm.extension.batch/camunda-bpm-custom-batch-core@1.5.1
+- pkg:maven/org.camunda.bpm.extension.batch/camunda-bpm-custom-batch-core@1.5.1?classifier=sources

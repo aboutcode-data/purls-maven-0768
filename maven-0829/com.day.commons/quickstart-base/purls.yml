@@ -1,0 +1,4 @@
+- pkg:maven/com.day.commons/quickstart-base@2.0.64
+- pkg:maven/com.day.commons/quickstart-base@2.0.64?classifier=sources
+- pkg:maven/com.day.commons/quickstart-base@2.0.82
+- pkg:maven/com.day.commons/quickstart-base@2.0.82?classifier=sources

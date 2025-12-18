@@ -1,2 +1,3 @@
 - pkg:maven/de.alpharogroup/gson-extensions@1.1?classifier=sources
+- pkg:maven/de.alpharogroup/gson-extensions@1.2?classifier=sources
 - pkg:maven/de.alpharogroup/gson-extensions@1?classifier=sources

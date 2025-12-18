@@ -1,0 +1,4 @@
+- pkg:maven/org.drools/drools-ecj@7.47.0.Final
+- pkg:maven/org.drools/drools-ecj@7.47.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-ecj@7.48.0.Final
+- pkg:maven/org.drools/drools-ecj@7.48.0.Final?classifier=sources

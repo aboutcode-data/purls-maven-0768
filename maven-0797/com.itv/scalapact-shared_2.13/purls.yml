@@ -12,3 +12,5 @@
 - pkg:maven/com.itv/scalapact-shared_2.13@2.3.18?classifier=sources
 - pkg:maven/com.itv/scalapact-shared_2.13@2.4.0
 - pkg:maven/com.itv/scalapact-shared_2.13@2.4.0?classifier=sources
+- pkg:maven/com.itv/scalapact-shared_2.13@3.0.0
+- pkg:maven/com.itv/scalapact-shared_2.13@3.0.0?classifier=sources

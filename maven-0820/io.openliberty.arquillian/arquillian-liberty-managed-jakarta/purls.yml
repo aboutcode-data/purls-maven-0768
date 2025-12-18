@@ -1,0 +1,2 @@
+- pkg:maven/io.openliberty.arquillian/arquillian-liberty-managed-jakarta@2.0.0-M1
+- pkg:maven/io.openliberty.arquillian/arquillian-liberty-managed-jakarta@2.0.0-M1?classifier=sources

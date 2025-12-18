@@ -103,6 +103,9 @@
 - pkg:maven/com.liferay/com.liferay.layout.impl@3.0.23
 - pkg:maven/com.liferay/com.liferay.layout.impl@3.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@3.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.impl@3.0.24
+- pkg:maven/com.liferay/com.liferay.layout.impl@3.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.impl@3.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.impl@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.impl@3.0.3
@@ -211,6 +214,12 @@
 - pkg:maven/com.liferay/com.liferay.layout.impl@4.0.34
 - pkg:maven/com.liferay/com.liferay.layout.impl@4.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@4.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.impl@4.0.35
+- pkg:maven/com.liferay/com.liferay.layout.impl@4.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.impl@4.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.impl@4.0.36
+- pkg:maven/com.liferay/com.liferay.layout.impl@4.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.impl@4.0.36?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.impl@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.impl@4.0.4
@@ -322,6 +331,12 @@
 - pkg:maven/com.liferay/com.liferay.layout.impl@5.0.36
 - pkg:maven/com.liferay/com.liferay.layout.impl@5.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@5.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.impl@5.0.37
+- pkg:maven/com.liferay/com.liferay.layout.impl@5.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.impl@5.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.impl@5.0.38
+- pkg:maven/com.liferay/com.liferay.layout.impl@5.0.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.impl@5.0.38?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.impl@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.impl@5.0.4

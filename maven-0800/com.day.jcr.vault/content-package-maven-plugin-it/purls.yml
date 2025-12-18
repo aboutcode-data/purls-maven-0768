@@ -1,0 +1,12 @@
+- pkg:maven/com.day.jcr.vault/content-package-maven-plugin-it@0.0.20
+- pkg:maven/com.day.jcr.vault/content-package-maven-plugin-it@0.0.20?classifier=sources
+- pkg:maven/com.day.jcr.vault/content-package-maven-plugin-it@0.0.21
+- pkg:maven/com.day.jcr.vault/content-package-maven-plugin-it@0.0.21?classifier=sources
+- pkg:maven/com.day.jcr.vault/content-package-maven-plugin-it@0.0.22
+- pkg:maven/com.day.jcr.vault/content-package-maven-plugin-it@0.0.22?classifier=sources
+- pkg:maven/com.day.jcr.vault/content-package-maven-plugin-it@0.0.23
+- pkg:maven/com.day.jcr.vault/content-package-maven-plugin-it@0.0.23?classifier=sources
+- pkg:maven/com.day.jcr.vault/content-package-maven-plugin-it@0.0.24
+- pkg:maven/com.day.jcr.vault/content-package-maven-plugin-it@0.0.24?classifier=sources
+- pkg:maven/com.day.jcr.vault/content-package-maven-plugin-it@0.5.1
+- pkg:maven/com.day.jcr.vault/content-package-maven-plugin-it@0.5.1?classifier=sources

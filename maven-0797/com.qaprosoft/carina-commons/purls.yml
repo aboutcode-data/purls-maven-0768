@@ -282,3 +282,11 @@
 - pkg:maven/com.qaprosoft/carina-commons@6.4.42?classifier=sources
 - pkg:maven/com.qaprosoft/carina-commons@6.4.43
 - pkg:maven/com.qaprosoft/carina-commons@6.4.43?classifier=sources
+- pkg:maven/com.qaprosoft/carina-commons@6.5.44
+- pkg:maven/com.qaprosoft/carina-commons@6.5.44?classifier=sources
+- pkg:maven/com.qaprosoft/carina-commons@6.5.45
+- pkg:maven/com.qaprosoft/carina-commons@6.5.45?classifier=sources
+- pkg:maven/com.qaprosoft/carina-commons@6.5.46
+- pkg:maven/com.qaprosoft/carina-commons@6.5.46?classifier=sources
+- pkg:maven/com.qaprosoft/carina-commons@7.0.0-beta1
+- pkg:maven/com.qaprosoft/carina-commons@7.0.0-beta1?classifier=sources

@@ -17,3 +17,5 @@
 - pkg:maven/org.kie.kogito/kogito-springboot-starter@0.8.1
 - pkg:maven/org.kie.kogito/kogito-springboot-starter@0.9.0
 - pkg:maven/org.kie.kogito/kogito-springboot-starter@0.9.1
+- pkg:maven/org.kie.kogito/kogito-springboot-starter@1.0.0.Final
+- pkg:maven/org.kie.kogito/kogito-springboot-starter@1.1.0.Final

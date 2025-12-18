@@ -9,6 +9,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@2.4.16
 - pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@2.4.16?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@2.4.16?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@2.4.18
+- pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@2.4.18?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@2.4.18?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@2.4.2
 - pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@2.4.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@2.4.2?classifier=sources
@@ -21,3 +24,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@2.4.8
 - pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@2.4.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@2.4.8?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@3.0.0
+- pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@3.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.core@3.0.0?classifier=sources

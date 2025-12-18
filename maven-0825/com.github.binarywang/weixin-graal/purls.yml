@@ -58,3 +58,17 @@
 - pkg:maven/com.github.binarywang/weixin-graal@3.9.5.B?classifier=sources
 - pkg:maven/com.github.binarywang/weixin-graal@3.9.6.B
 - pkg:maven/com.github.binarywang/weixin-graal@3.9.6.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-graal@3.9.7.B
+- pkg:maven/com.github.binarywang/weixin-graal@3.9.7.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-graal@3.9.8.B
+- pkg:maven/com.github.binarywang/weixin-graal@3.9.8.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-graal@3.9.9.B
+- pkg:maven/com.github.binarywang/weixin-graal@3.9.9.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-graal@4.0.0
+- pkg:maven/com.github.binarywang/weixin-graal@4.0.0?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-graal@4.0.1.B
+- pkg:maven/com.github.binarywang/weixin-graal@4.0.1.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-graal@4.0.2.B
+- pkg:maven/com.github.binarywang/weixin-graal@4.0.2.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-graal@4.0.3.B
+- pkg:maven/com.github.binarywang/weixin-graal@4.0.3.B?classifier=sources

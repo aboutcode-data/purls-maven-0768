@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.cq/cq-dialog-conversion@1.0.2?classifier=sources
+- pkg:maven/com.adobe.cq/cq-dialog-conversion@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.pinot/pinot-spark-connector@0.6.0
+- pkg:maven/org.apache.pinot/pinot-spark-connector@0.6.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.auryc/android-sdk-dev@0.1.0?classifier=sources
 - pkg:maven/com.auryc/android-sdk-dev@0.1.0?type=aar
+- pkg:maven/com.auryc/android-sdk-dev@2.0.1?classifier=sources
+- pkg:maven/com.auryc/android-sdk-dev@2.0.1?type=aar

@@ -244,3 +244,8 @@
 - pkg:maven/pl.allegro.tech.hermes/hermes-management@1.5.4?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-management@1.6.0
 - pkg:maven/pl.allegro.tech.hermes/hermes-management@1.6.0?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-management@1.6.1?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-management@1.6.2?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-management@1.7.0?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-management@1.8.0?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-management@1.8.1?classifier=sources

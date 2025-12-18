@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.soup/kie-soup-security-utils@7.47.0.Final
+- pkg:maven/org.kie.soup/kie-soup-security-utils@7.47.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-security-utils@7.48.0.Final
+- pkg:maven/org.kie.soup/kie-soup-security-utils@7.48.0.Final?classifier=sources

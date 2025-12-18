@@ -3,3 +3,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-registry@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-registry@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-registry@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-equinox-registry@RELEASE122?classifier=sources

@@ -62,3 +62,9 @@
 - pkg:maven/com.formdev/flatlaf@0.42?classifier=sources
 - pkg:maven/com.formdev/flatlaf@0.43
 - pkg:maven/com.formdev/flatlaf@0.43?classifier=sources
+- pkg:maven/com.formdev/flatlaf@0.44
+- pkg:maven/com.formdev/flatlaf@0.44?classifier=sources
+- pkg:maven/com.formdev/flatlaf@0.45
+- pkg:maven/com.formdev/flatlaf@0.45?classifier=sources
+- pkg:maven/com.formdev/flatlaf@0.46
+- pkg:maven/com.formdev/flatlaf@0.46?classifier=sources

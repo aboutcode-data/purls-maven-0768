@@ -1,0 +1,6 @@
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-io@4.5.19
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-io@4.5.19?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-io@4.5.20
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-io@4.5.20?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-io@4.5.21
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-io@4.5.21?classifier=sources

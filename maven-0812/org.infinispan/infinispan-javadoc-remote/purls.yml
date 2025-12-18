@@ -54,6 +54,7 @@
 - pkg:maven/org.infinispan/infinispan-javadoc-remote@9.4.19.Final
 - pkg:maven/org.infinispan/infinispan-javadoc-remote@9.4.2.Final
 - pkg:maven/org.infinispan/infinispan-javadoc-remote@9.4.20.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-remote@9.4.21.Final
 - pkg:maven/org.infinispan/infinispan-javadoc-remote@9.4.3.Final
 - pkg:maven/org.infinispan/infinispan-javadoc-remote@9.4.4.Final
 - pkg:maven/org.infinispan/infinispan-javadoc-remote@9.4.5.Final

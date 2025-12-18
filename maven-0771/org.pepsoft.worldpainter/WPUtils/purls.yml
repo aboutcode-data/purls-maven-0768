@@ -41,6 +41,8 @@
 - pkg:maven/org.pepsoft.worldpainter/WPUtils@2.7.15?classifier=sources
 - pkg:maven/org.pepsoft.worldpainter/WPUtils@2.7.16
 - pkg:maven/org.pepsoft.worldpainter/WPUtils@2.7.16?classifier=sources
+- pkg:maven/org.pepsoft.worldpainter/WPUtils@2.7.18
+- pkg:maven/org.pepsoft.worldpainter/WPUtils@2.7.18?classifier=sources
 - pkg:maven/org.pepsoft.worldpainter/WPUtils@2.7.1?classifier=sources
 - pkg:maven/org.pepsoft.worldpainter/WPUtils@2.7.2
 - pkg:maven/org.pepsoft.worldpainter/WPUtils@2.7.2?classifier=sources

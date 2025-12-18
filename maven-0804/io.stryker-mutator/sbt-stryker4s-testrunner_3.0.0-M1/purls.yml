@@ -1,0 +1,2 @@
+- pkg:maven/io.stryker-mutator/sbt-stryker4s-testrunner_3.0.0-M1@0.10.0-RC3
+- pkg:maven/io.stryker-mutator/sbt-stryker4s-testrunner_3.0.0-M1@0.10.0-RC3?classifier=sources

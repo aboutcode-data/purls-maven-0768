@@ -28,3 +28,7 @@
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@8.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@8.7
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@8.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@9.0
+- pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@9.0?classifier=sources
+- pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@9.1
+- pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@9.1?classifier=sources

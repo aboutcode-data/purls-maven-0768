@@ -8,6 +8,8 @@
 - pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.m2e.core.ui@1.15.0.20200310-1900?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.m2e.core.ui@1.16.1.20200710-1008
 - pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.m2e.core.ui@1.16.1.20200710-1008?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.m2e.core.ui@1.17.1.20201207-1012
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.m2e.core.ui@1.17.1.20201207-1012?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.m2e.core.ui@1.6.0.20150526-2032
 - pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.m2e.core.ui@1.6.0.20150526-2032?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.m2e.core.ui@1.7.0.20160603-1933

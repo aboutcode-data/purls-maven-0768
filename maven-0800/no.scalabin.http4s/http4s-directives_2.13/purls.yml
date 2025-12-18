@@ -10,6 +10,10 @@
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.13@0.18.0?classifier=sources
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.13@0.21.0
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.13@0.21.0?classifier=sources
+- pkg:maven/no.scalabin.http4s/http4s-directives_2.13@0.21.13
+- pkg:maven/no.scalabin.http4s/http4s-directives_2.13@0.21.13?classifier=sources
+- pkg:maven/no.scalabin.http4s/http4s-directives_2.13@0.21.14
+- pkg:maven/no.scalabin.http4s/http4s-directives_2.13@0.21.14?classifier=sources
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.13@0.21.4
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.13@0.21.4?classifier=sources
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.13@0.21.5

@@ -1,0 +1,4 @@
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-list@3.0-alpha-91
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-list@3.0-alpha-91?classifier=sources
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-list@3.0-alpha-92
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-list@3.0-alpha-92?classifier=sources

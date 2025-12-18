@@ -462,7 +462,15 @@
 - pkg:maven/com.nu-art-software/reflection@1.2.33?classifier=sources
 - pkg:maven/com.nu-art-software/reflection@1.2.34
 - pkg:maven/com.nu-art-software/reflection@1.2.34?classifier=sources
+- pkg:maven/com.nu-art-software/reflection@1.2.35
+- pkg:maven/com.nu-art-software/reflection@1.2.35?classifier=sources
+- pkg:maven/com.nu-art-software/reflection@1.2.39
+- pkg:maven/com.nu-art-software/reflection@1.2.39?classifier=sources
 - pkg:maven/com.nu-art-software/reflection@1.2.4
+- pkg:maven/com.nu-art-software/reflection@1.2.40
+- pkg:maven/com.nu-art-software/reflection@1.2.40?classifier=sources
+- pkg:maven/com.nu-art-software/reflection@1.2.41
+- pkg:maven/com.nu-art-software/reflection@1.2.41?classifier=sources
 - pkg:maven/com.nu-art-software/reflection@1.2.4?classifier=sources
 - pkg:maven/com.nu-art-software/reflection@1.2.5
 - pkg:maven/com.nu-art-software/reflection@1.2.5?classifier=sources

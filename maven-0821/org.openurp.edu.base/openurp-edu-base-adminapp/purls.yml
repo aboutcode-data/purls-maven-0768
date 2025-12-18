@@ -86,3 +86,5 @@
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.1.7?type=war
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.1.8?classifier=sources
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.1.8?type=war
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.1.9?classifier=sources
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.1.9?type=war

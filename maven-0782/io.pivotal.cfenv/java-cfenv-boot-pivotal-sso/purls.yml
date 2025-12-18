@@ -26,3 +26,7 @@
 - pkg:maven/io.pivotal.cfenv/java-cfenv-boot-pivotal-sso@2.2.1.RELEASE?classifier=sources
 - pkg:maven/io.pivotal.cfenv/java-cfenv-boot-pivotal-sso@2.2.2.RELEASE
 - pkg:maven/io.pivotal.cfenv/java-cfenv-boot-pivotal-sso@2.2.2.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.cfenv/java-cfenv-boot-pivotal-sso@2.2.3.RELEASE
+- pkg:maven/io.pivotal.cfenv/java-cfenv-boot-pivotal-sso@2.2.3.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.cfenv/java-cfenv-boot-pivotal-sso@2.2.4.RELEASE
+- pkg:maven/io.pivotal.cfenv/java-cfenv-boot-pivotal-sso@2.2.4.RELEASE?classifier=sources

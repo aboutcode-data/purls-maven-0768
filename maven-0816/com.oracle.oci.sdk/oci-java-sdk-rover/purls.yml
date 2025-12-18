@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-rover@1.28.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-rover@1.28.0?classifier=sources

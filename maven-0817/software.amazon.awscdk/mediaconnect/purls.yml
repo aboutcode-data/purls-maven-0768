@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awscdk/mediaconnect@1.85.0
+- pkg:maven/software.amazon.awscdk/mediaconnect@1.85.0?classifier=sources

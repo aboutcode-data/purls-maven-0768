@@ -1,0 +1,3 @@
+- pkg:maven/com.cyssxt/spring-boot-base@1.0.1?classifier=sources
+- pkg:maven/com.cyssxt/spring-boot-base@1.0.3
+- pkg:maven/com.cyssxt/spring-boot-base@1.0.3?classifier=sources

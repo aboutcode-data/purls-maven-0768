@@ -1,0 +1,2 @@
+- pkg:maven/cloud.piranha.servlet/server@20.12.0
+- pkg:maven/cloud.piranha.servlet/server@20.12.0?classifier=sources

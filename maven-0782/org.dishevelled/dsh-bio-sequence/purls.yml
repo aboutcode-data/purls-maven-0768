@@ -14,3 +14,7 @@
 - pkg:maven/org.dishevelled/dsh-bio-sequence@1.3.4
 - pkg:maven/org.dishevelled/dsh-bio-sequence@1.3.4?classifier=sources
 - pkg:maven/org.dishevelled/dsh-bio-sequence@1.3?classifier=sources
+- pkg:maven/org.dishevelled/dsh-bio-sequence@1.4
+- pkg:maven/org.dishevelled/dsh-bio-sequence@1.4?classifier=sources
+- pkg:maven/org.dishevelled/dsh-bio-sequence@2.0
+- pkg:maven/org.dishevelled/dsh-bio-sequence@2.0?classifier=sources

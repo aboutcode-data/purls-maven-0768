@@ -8,3 +8,5 @@
 - pkg:maven/com.quasiris.qsf/qsf-commons@0.4?classifier=sources
 - pkg:maven/com.quasiris.qsf/qsf-commons@0.5
 - pkg:maven/com.quasiris.qsf/qsf-commons@0.5?classifier=sources
+- pkg:maven/com.quasiris.qsf/qsf-commons@0.6
+- pkg:maven/com.quasiris.qsf/qsf-commons@0.6?classifier=sources

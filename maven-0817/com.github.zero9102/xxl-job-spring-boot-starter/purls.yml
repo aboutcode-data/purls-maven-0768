@@ -1,0 +1,6 @@
+- pkg:maven/com.github.zero9102/xxl-job-spring-boot-starter@1.0.0
+- pkg:maven/com.github.zero9102/xxl-job-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/com.github.zero9102/xxl-job-spring-boot-starter@1.0.1-RELEASE
+- pkg:maven/com.github.zero9102/xxl-job-spring-boot-starter@1.0.1-RELEASE?classifier=sources
+- pkg:maven/com.github.zero9102/xxl-job-spring-boot-starter@2.2.0
+- pkg:maven/com.github.zero9102/xxl-job-spring-boot-starter@2.2.0?classifier=sources

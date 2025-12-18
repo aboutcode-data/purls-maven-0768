@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.aws.clients.swf.flux/flux-spring@2.0.0
+- pkg:maven/software.amazon.aws.clients.swf.flux/flux-spring@2.0.0?classifier=sources

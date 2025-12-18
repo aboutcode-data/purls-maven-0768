@@ -1,3 +1,5 @@
+- pkg:maven/net.anotheria/moskito-javaagent@2.10.0
+- pkg:maven/net.anotheria/moskito-javaagent@2.10.0?classifier=sources
 - pkg:maven/net.anotheria/moskito-javaagent@2.8.7
 - pkg:maven/net.anotheria/moskito-javaagent@2.8.7?classifier=sources
 - pkg:maven/net.anotheria/moskito-javaagent@2.8.8

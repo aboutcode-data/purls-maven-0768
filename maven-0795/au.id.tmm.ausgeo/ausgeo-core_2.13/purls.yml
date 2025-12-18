@@ -4,3 +4,5 @@
 - pkg:maven/au.id.tmm.ausgeo/ausgeo-core_2.13@0.2.3?classifier=sources
 - pkg:maven/au.id.tmm.ausgeo/ausgeo-core_2.13@0.2.4
 - pkg:maven/au.id.tmm.ausgeo/ausgeo-core_2.13@0.2.4?classifier=sources
+- pkg:maven/au.id.tmm.ausgeo/ausgeo-core_2.13@0.2.6
+- pkg:maven/au.id.tmm.ausgeo/ausgeo-core_2.13@0.2.6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.logging/helidon-logging-common@2.2.0
+- pkg:maven/io.helidon.logging/helidon-logging-common@2.2.0?classifier=sources

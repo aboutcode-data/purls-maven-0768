@@ -24,6 +24,10 @@
 - pkg:maven/com.aliyun.datahub/aliyun-sdk-datahub@2.16.1-public?classifier=sources
 - pkg:maven/com.aliyun.datahub/aliyun-sdk-datahub@2.17.1-public
 - pkg:maven/com.aliyun.datahub/aliyun-sdk-datahub@2.17.1-public?classifier=sources
+- pkg:maven/com.aliyun.datahub/aliyun-sdk-datahub@2.18.0-public
+- pkg:maven/com.aliyun.datahub/aliyun-sdk-datahub@2.18.0-public?classifier=sources
+- pkg:maven/com.aliyun.datahub/aliyun-sdk-datahub@2.18.1-public
+- pkg:maven/com.aliyun.datahub/aliyun-sdk-datahub@2.18.1-public?classifier=sources
 - pkg:maven/com.aliyun.datahub/aliyun-sdk-datahub@2.3.0-public
 - pkg:maven/com.aliyun.datahub/aliyun-sdk-datahub@2.3.0-public?classifier=sources
 - pkg:maven/com.aliyun.datahub/aliyun-sdk-datahub@2.6.1-public

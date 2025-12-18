@@ -32,3 +32,17 @@
 - pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.27?classifier=sources
 - pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.28.0
 - pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.28.0?classifier=sources
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.29.0
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.29.0?classifier=sources
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.30.0
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.30.0?classifier=sources
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.32.0
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.32.0?classifier=sources
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.33
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.33?classifier=sources
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.34
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.34?classifier=sources
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.35
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.35?classifier=sources
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.36
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.36?classifier=sources

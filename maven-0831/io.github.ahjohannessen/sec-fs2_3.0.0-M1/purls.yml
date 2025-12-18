@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ahjohannessen/sec-fs2_3.0.0-M1@0.1.0-RC5
+- pkg:maven/io.github.ahjohannessen/sec-fs2_3.0.0-M1@0.1.0-RC5?classifier=sources

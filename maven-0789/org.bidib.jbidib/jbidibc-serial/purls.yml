@@ -28,6 +28,12 @@
 - pkg:maven/org.bidib.jbidib/jbidibc-serial@1.12.8?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-serial@1.12.9
 - pkg:maven/org.bidib.jbidib/jbidibc-serial@1.12.9?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-serial@1.13.0
+- pkg:maven/org.bidib.jbidib/jbidibc-serial@1.13.0?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-serial@1.13.1
+- pkg:maven/org.bidib.jbidib/jbidibc-serial@1.13.1?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-serial@1.13.2
+- pkg:maven/org.bidib.jbidib/jbidibc-serial@1.13.2?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-serial@1.6.0
 - pkg:maven/org.bidib.jbidib/jbidibc-serial@1.6.0?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-serial@1.7.0

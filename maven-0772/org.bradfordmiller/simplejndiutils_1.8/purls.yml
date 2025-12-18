@@ -1,0 +1,2 @@
+- pkg:maven/org.bradfordmiller/simplejndiutils_1.8@0.0.12?classifier=sources
+- pkg:maven/org.bradfordmiller/simplejndiutils_1.8@0.0.13?classifier=sources

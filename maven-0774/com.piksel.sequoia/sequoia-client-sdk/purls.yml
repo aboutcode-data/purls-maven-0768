@@ -22,3 +22,7 @@
 - pkg:maven/com.piksel.sequoia/sequoia-client-sdk@2.3.0?classifier=sources
 - pkg:maven/com.piksel.sequoia/sequoia-client-sdk@2.4.0
 - pkg:maven/com.piksel.sequoia/sequoia-client-sdk@2.4.0?classifier=sources
+- pkg:maven/com.piksel.sequoia/sequoia-client-sdk@2.4.1
+- pkg:maven/com.piksel.sequoia/sequoia-client-sdk@2.4.1?classifier=sources
+- pkg:maven/com.piksel.sequoia/sequoia-client-sdk@3.0.0
+- pkg:maven/com.piksel.sequoia/sequoia-client-sdk@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.n52.sensorweb-server.sos/sos-proxy-harvest-common@6.0.0-PR.1
+- pkg:maven/org.n52.sensorweb-server.sos/sos-proxy-harvest-common@6.0.0-PR.1?classifier=sources

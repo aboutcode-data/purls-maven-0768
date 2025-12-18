@@ -1,0 +1,2 @@
+- pkg:maven/org.keycloak/saml-broker-authentication@12.0.0?type=war
+- pkg:maven/org.keycloak/saml-broker-authentication@12.0.1?type=war

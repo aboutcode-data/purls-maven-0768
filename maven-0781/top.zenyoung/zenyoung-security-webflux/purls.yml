@@ -79,6 +79,8 @@
 - pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.0
 - pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.0?classifier=sources
 - pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.1
+- pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.10
+- pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.10?classifier=sources
 - pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.1?classifier=sources
 - pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.2
 - pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.2?classifier=sources
@@ -88,3 +90,11 @@
 - pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.4?classifier=sources
 - pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.5
 - pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.5?classifier=sources
+- pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.6
+- pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.6?classifier=sources
+- pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.7
+- pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.7?classifier=sources
+- pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.8
+- pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.8?classifier=sources
+- pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.9
+- pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.9?classifier=sources

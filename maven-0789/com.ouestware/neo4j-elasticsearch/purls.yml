@@ -5,6 +5,12 @@
 - pkg:maven/com.ouestware/neo4j-elasticsearch@3.5_1
 - pkg:maven/com.ouestware/neo4j-elasticsearch@3.5_15
 - pkg:maven/com.ouestware/neo4j-elasticsearch@3.5_15?classifier=sources
+- pkg:maven/com.ouestware/neo4j-elasticsearch@3.5_16
+- pkg:maven/com.ouestware/neo4j-elasticsearch@3.5_16?classifier=sources
+- pkg:maven/com.ouestware/neo4j-elasticsearch@3.5_17
+- pkg:maven/com.ouestware/neo4j-elasticsearch@3.5_17?classifier=sources
+- pkg:maven/com.ouestware/neo4j-elasticsearch@3.5_18
+- pkg:maven/com.ouestware/neo4j-elasticsearch@3.5_18?classifier=sources
 - pkg:maven/com.ouestware/neo4j-elasticsearch@3.5_1?classifier=sources
 - pkg:maven/com.ouestware/neo4j-elasticsearch@3.5_2
 - pkg:maven/com.ouestware/neo4j-elasticsearch@3.5_2?classifier=sources
@@ -20,5 +26,11 @@
 - pkg:maven/com.ouestware/neo4j-elasticsearch@4.0_3?classifier=sources
 - pkg:maven/com.ouestware/neo4j-elasticsearch@4.0_4
 - pkg:maven/com.ouestware/neo4j-elasticsearch@4.0_4?classifier=sources
+- pkg:maven/com.ouestware/neo4j-elasticsearch@4.0_5
+- pkg:maven/com.ouestware/neo4j-elasticsearch@4.0_5?classifier=sources
 - pkg:maven/com.ouestware/neo4j-elasticsearch@4.1_1
 - pkg:maven/com.ouestware/neo4j-elasticsearch@4.1_1?classifier=sources
+- pkg:maven/com.ouestware/neo4j-elasticsearch@4.1_2
+- pkg:maven/com.ouestware/neo4j-elasticsearch@4.1_2?classifier=sources
+- pkg:maven/com.ouestware/neo4j-elasticsearch@4.2_1
+- pkg:maven/com.ouestware/neo4j-elasticsearch@4.2_1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.tum.ei.lkn.eces/WebGraphGUI@3.0.0
+- pkg:maven/de.tum.ei.lkn.eces/WebGraphGUI@3.0.0?classifier=sources

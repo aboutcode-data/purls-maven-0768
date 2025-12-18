@@ -55,6 +55,8 @@
 - pkg:maven/com.github.charlemaznable/guardians-core@0.5.1
 - pkg:maven/com.github.charlemaznable/guardians-core@0.5.10
 - pkg:maven/com.github.charlemaznable/guardians-core@0.5.10?classifier=sources
+- pkg:maven/com.github.charlemaznable/guardians-core@0.5.11
+- pkg:maven/com.github.charlemaznable/guardians-core@0.5.11?classifier=sources
 - pkg:maven/com.github.charlemaznable/guardians-core@0.5.1?classifier=sources
 - pkg:maven/com.github.charlemaznable/guardians-core@0.5.2
 - pkg:maven/com.github.charlemaznable/guardians-core@0.5.2?classifier=sources
@@ -72,3 +74,5 @@
 - pkg:maven/com.github.charlemaznable/guardians-core@0.5.8?classifier=sources
 - pkg:maven/com.github.charlemaznable/guardians-core@0.5.9
 - pkg:maven/com.github.charlemaznable/guardians-core@0.5.9?classifier=sources
+- pkg:maven/com.github.charlemaznable/guardians-core@0.6.0
+- pkg:maven/com.github.charlemaznable/guardians-core@0.6.0?classifier=sources

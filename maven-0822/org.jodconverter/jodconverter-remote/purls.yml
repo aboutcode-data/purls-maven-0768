@@ -1,1 +1,2 @@
 - pkg:maven/org.jodconverter/jodconverter-remote@4.3.0?classifier=sources
+- pkg:maven/org.jodconverter/jodconverter-remote@4.4.0?classifier=sources

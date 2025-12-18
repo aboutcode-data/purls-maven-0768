@@ -14,3 +14,7 @@
 - pkg:maven/com.cognitect.aws/sns@802.2.713.0?classifier=sources
 - pkg:maven/com.cognitect.aws/sns@807.2.729.0
 - pkg:maven/com.cognitect.aws/sns@807.2.729.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sns@809.2.784.0
+- pkg:maven/com.cognitect.aws/sns@809.2.784.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sns@809.2.797.0
+- pkg:maven/com.cognitect.aws/sns@809.2.797.0?classifier=sources

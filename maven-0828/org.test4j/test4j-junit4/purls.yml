@@ -28,3 +28,5 @@
 - pkg:maven/org.test4j/test4j-junit4@2.6.9?classifier=sources
 - pkg:maven/org.test4j/test4j-junit4@2.7.0
 - pkg:maven/org.test4j/test4j-junit4@2.7.0?classifier=sources
+- pkg:maven/org.test4j/test4j-junit4@2.7.1
+- pkg:maven/org.test4j/test4j-junit4@2.7.1?classifier=sources

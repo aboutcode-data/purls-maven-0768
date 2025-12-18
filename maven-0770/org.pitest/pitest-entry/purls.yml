@@ -46,3 +46,7 @@
 - pkg:maven/org.pitest/pitest-entry@1.5.1?classifier=sources
 - pkg:maven/org.pitest/pitest-entry@1.5.2
 - pkg:maven/org.pitest/pitest-entry@1.5.2?classifier=sources
+- pkg:maven/org.pitest/pitest-entry@1.6.1
+- pkg:maven/org.pitest/pitest-entry@1.6.1?classifier=sources
+- pkg:maven/org.pitest/pitest-entry@1.6.2
+- pkg:maven/org.pitest/pitest-entry@1.6.2?classifier=sources

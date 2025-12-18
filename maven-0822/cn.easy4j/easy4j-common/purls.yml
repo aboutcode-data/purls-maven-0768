@@ -1,2 +1,4 @@
 - pkg:maven/cn.easy4j/easy4j-common@0.5.0.RELEASE
 - pkg:maven/cn.easy4j/easy4j-common@0.5.0.RELEASE?classifier=sources
+- pkg:maven/cn.easy4j/easy4j-common@0.5.1.RELEASE
+- pkg:maven/cn.easy4j/easy4j-common@0.5.1.RELEASE?classifier=sources

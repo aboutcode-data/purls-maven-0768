@@ -1,0 +1,4 @@
+- pkg:maven/io.dropwizard.metrics/metrics-benchmarks@4.1.17
+- pkg:maven/io.dropwizard.metrics/metrics-benchmarks@4.1.17?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-benchmarks@4.2.0-beta.1
+- pkg:maven/io.dropwizard.metrics/metrics-benchmarks@4.2.0-beta.1?classifier=sources

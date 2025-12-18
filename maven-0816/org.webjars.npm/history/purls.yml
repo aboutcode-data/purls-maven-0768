@@ -48,3 +48,5 @@
 - pkg:maven/org.webjars.npm/history@5.0.0-beta.3?classifier=sources
 - pkg:maven/org.webjars.npm/history@5.0.0-beta.4
 - pkg:maven/org.webjars.npm/history@5.0.0-beta.4?classifier=sources
+- pkg:maven/org.webjars.npm/history@5.0.0-beta.9
+- pkg:maven/org.webjars.npm/history@5.0.0-beta.9?classifier=sources

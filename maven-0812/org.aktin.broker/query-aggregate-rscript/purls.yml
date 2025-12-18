@@ -4,3 +4,5 @@
 - pkg:maven/org.aktin.broker/query-aggregate-rscript@0.8?classifier=sources
 - pkg:maven/org.aktin.broker/query-aggregate-rscript@0.9
 - pkg:maven/org.aktin.broker/query-aggregate-rscript@0.9?classifier=sources
+- pkg:maven/org.aktin.broker/query-aggregate-rscript@1.0.3
+- pkg:maven/org.aktin.broker/query-aggregate-rscript@1.0.3?classifier=sources

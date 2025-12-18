@@ -16,3 +16,5 @@
 - pkg:maven/org.langrid/jp.go.nict.langrid.servicecontainer.executor.soap@1.0.17?classifier=sources
 - pkg:maven/org.langrid/jp.go.nict.langrid.servicecontainer.executor.soap@1.1.1
 - pkg:maven/org.langrid/jp.go.nict.langrid.servicecontainer.executor.soap@1.1.1?classifier=sources
+- pkg:maven/org.langrid/jp.go.nict.langrid.servicecontainer.executor.soap@1.1.2
+- pkg:maven/org.langrid/jp.go.nict.langrid.servicecontainer.executor.soap@1.1.2?classifier=sources

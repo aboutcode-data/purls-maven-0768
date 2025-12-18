@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dpimkin.systemd/simple-watchdog-example@0.0.1
+- pkg:maven/com.github.dpimkin.systemd/simple-watchdog-example@0.0.1?classifier=sources

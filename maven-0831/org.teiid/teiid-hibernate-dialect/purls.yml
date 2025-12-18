@@ -112,5 +112,11 @@
 - pkg:maven/org.teiid/teiid-hibernate-dialect@14.0.0?classifier=sources
 - pkg:maven/org.teiid/teiid-hibernate-dialect@14.0.1
 - pkg:maven/org.teiid/teiid-hibernate-dialect@14.0.1?classifier=sources
+- pkg:maven/org.teiid/teiid-hibernate-dialect@14.0.2
+- pkg:maven/org.teiid/teiid-hibernate-dialect@14.0.2?classifier=sources
 - pkg:maven/org.teiid/teiid-hibernate-dialect@15.0.0
 - pkg:maven/org.teiid/teiid-hibernate-dialect@15.0.0?classifier=sources
+- pkg:maven/org.teiid/teiid-hibernate-dialect@15.0.1
+- pkg:maven/org.teiid/teiid-hibernate-dialect@15.0.1?classifier=sources
+- pkg:maven/org.teiid/teiid-hibernate-dialect@16.0.0
+- pkg:maven/org.teiid/teiid-hibernate-dialect@16.0.0?classifier=sources

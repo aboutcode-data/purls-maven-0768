@@ -8,5 +8,7 @@
 - pkg:maven/com.github.EmergentOrder/onnx-scala-common_2.13@0.6.0?classifier=sources
 - pkg:maven/com.github.EmergentOrder/onnx-scala-common_2.13@0.7.0
 - pkg:maven/com.github.EmergentOrder/onnx-scala-common_2.13@0.7.0?classifier=sources
+- pkg:maven/com.github.EmergentOrder/onnx-scala-common_2.13@0.8.0
+- pkg:maven/com.github.EmergentOrder/onnx-scala-common_2.13@0.8.0?classifier=sources
 - pkg:maven/com.github.EmergentOrder/onnx-scala-common_2.13@v0.1.0
 - pkg:maven/com.github.EmergentOrder/onnx-scala-common_2.13@v0.1.0?classifier=sources

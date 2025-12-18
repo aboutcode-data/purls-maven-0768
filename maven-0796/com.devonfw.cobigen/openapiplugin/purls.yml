@@ -12,3 +12,5 @@
 - pkg:maven/com.devonfw.cobigen/openapiplugin@2.4.0?classifier=sources
 - pkg:maven/com.devonfw.cobigen/openapiplugin@7.0.0
 - pkg:maven/com.devonfw.cobigen/openapiplugin@7.0.0?classifier=sources
+- pkg:maven/com.devonfw.cobigen/openapiplugin@7.1.0
+- pkg:maven/com.devonfw.cobigen/openapiplugin@7.1.0?classifier=sources
