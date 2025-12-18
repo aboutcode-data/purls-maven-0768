@@ -3,3 +3,7 @@
 - pkg:maven/video.pano/liveplayer@0.9.2?type=aar
 - pkg:maven/video.pano/liveplayer@0.9.3?classifier=sources
 - pkg:maven/video.pano/liveplayer@0.9.4?classifier=sources
+- pkg:maven/video.pano/liveplayer@0.9.5?classifier=sources
+- pkg:maven/video.pano/liveplayer@0.9.6?classifier=sources
+- pkg:maven/video.pano/liveplayer@0.9.7?classifier=sources
+- pkg:maven/video.pano/liveplayer@0.9.8?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.zmops/library-web@1.0.1-RELEASE
+- pkg:maven/com.zmops/library-web@1.0.1-RELEASE?classifier=sources
+- pkg:maven/com.zmops/library-web@1.0.1?classifier=sources

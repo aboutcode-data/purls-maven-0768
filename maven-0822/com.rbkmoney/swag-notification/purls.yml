@@ -1,0 +1,4 @@
+- pkg:maven/com.rbkmoney/swag-notification@1.8-99c80c8-client
+- pkg:maven/com.rbkmoney/swag-notification@1.8-99c80c8-client?classifier=sources
+- pkg:maven/com.rbkmoney/swag-notification@1.8-99c80c8-server
+- pkg:maven/com.rbkmoney/swag-notification@1.8-99c80c8-server?classifier=sources

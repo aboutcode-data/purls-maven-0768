@@ -24,6 +24,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-webflux@2.2.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-webflux@2.2.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-webflux@2.2.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-gateway-webflux@2.2.10.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-gateway-webflux@2.2.10.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-webflux@2.2.2.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-webflux@2.2.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-webflux@2.2.3.RELEASE
@@ -50,3 +52,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-webflux@3.0.3?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-webflux@3.0.4
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-webflux@3.0.4?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-gateway-webflux@3.0.5
+- pkg:maven/org.springframework.cloud/spring-cloud-gateway-webflux@3.0.5?classifier=sources

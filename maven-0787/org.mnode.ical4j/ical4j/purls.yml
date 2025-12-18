@@ -102,6 +102,7 @@
 - pkg:maven/org.mnode.ical4j/ical4j@3.0.9
 - pkg:maven/org.mnode.ical4j/ical4j@3.0.9?classifier=sources
 - pkg:maven/org.mnode.ical4j/ical4j@3.1.0?classifier=sources
+- pkg:maven/org.mnode.ical4j/ical4j@3.1.1?classifier=sources
 - pkg:maven/org.mnode.ical4j/ical4j@4.0.0-alpha10?classifier=sources
 - pkg:maven/org.mnode.ical4j/ical4j@4.0.0-alpha2
 - pkg:maven/org.mnode.ical4j/ical4j@4.0.0-alpha2?classifier=sources

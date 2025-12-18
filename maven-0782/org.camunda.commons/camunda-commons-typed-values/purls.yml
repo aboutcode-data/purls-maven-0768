@@ -70,6 +70,7 @@
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.15.0-alpha5
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.15.0-alpha5?classifier=sources
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.15.0?classifier=sources
+- pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.16.0
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.16.0-alpha1
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.16.0-alpha1?classifier=sources
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.16.0-alpha2
@@ -80,3 +81,6 @@
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.16.0-alpha4?classifier=sources
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.16.0-alpha5
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.16.0-alpha5?classifier=sources
+- pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.16.0?classifier=sources
+- pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.17.0-alpha1
+- pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.17.0-alpha1?classifier=sources

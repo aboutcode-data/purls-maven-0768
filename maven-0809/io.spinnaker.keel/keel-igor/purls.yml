@@ -21,3 +21,7 @@
 - pkg:maven/io.spinnaker.keel/keel-igor@0.200.0?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-igor@0.201.0?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-igor@0.202.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-igor@0.203.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-igor@0.204.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-igor@0.205.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-igor@0.206.0?classifier=sources

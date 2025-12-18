@@ -124,3 +124,11 @@
 - pkg:maven/org.ujorm/ujo-spring@2.14?classifier=sources
 - pkg:maven/org.ujorm/ujo-spring@2.15
 - pkg:maven/org.ujorm/ujo-spring@2.15?classifier=sources
+- pkg:maven/org.ujorm/ujo-spring@2.16
+- pkg:maven/org.ujorm/ujo-spring@2.16?classifier=sources
+- pkg:maven/org.ujorm/ujo-spring@2.17
+- pkg:maven/org.ujorm/ujo-spring@2.17?classifier=sources
+- pkg:maven/org.ujorm/ujo-spring@2.18
+- pkg:maven/org.ujorm/ujo-spring@2.18?classifier=sources
+- pkg:maven/org.ujorm/ujo-spring@2.20
+- pkg:maven/org.ujorm/ujo-spring@2.20?classifier=sources

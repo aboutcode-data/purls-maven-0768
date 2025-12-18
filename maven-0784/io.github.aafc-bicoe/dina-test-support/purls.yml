@@ -38,3 +38,13 @@
 - pkg:maven/io.github.aafc-bicoe/dina-test-support@0.67?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-test-support@0.68
 - pkg:maven/io.github.aafc-bicoe/dina-test-support@0.68?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-test-support@0.69
+- pkg:maven/io.github.aafc-bicoe/dina-test-support@0.69?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-test-support@0.70
+- pkg:maven/io.github.aafc-bicoe/dina-test-support@0.70?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-test-support@0.71
+- pkg:maven/io.github.aafc-bicoe/dina-test-support@0.71?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-test-support@0.72
+- pkg:maven/io.github.aafc-bicoe/dina-test-support@0.72?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-test-support@0.73
+- pkg:maven/io.github.aafc-bicoe/dina-test-support@0.73?classifier=sources

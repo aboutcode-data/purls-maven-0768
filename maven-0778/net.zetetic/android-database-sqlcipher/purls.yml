@@ -50,3 +50,5 @@
 - pkg:maven/net.zetetic/android-database-sqlcipher@4.4.2?type=aar
 - pkg:maven/net.zetetic/android-database-sqlcipher@4.4.3?classifier=sources
 - pkg:maven/net.zetetic/android-database-sqlcipher@4.4.3?type=aar
+- pkg:maven/net.zetetic/android-database-sqlcipher@4.5.0?classifier=sources
+- pkg:maven/net.zetetic/android-database-sqlcipher@4.5.0?type=aar

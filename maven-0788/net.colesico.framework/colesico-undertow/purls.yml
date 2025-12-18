@@ -94,3 +94,5 @@
 - pkg:maven/net.colesico.framework/colesico-undertow@4.6.0?classifier=sources
 - pkg:maven/net.colesico.framework/colesico-undertow@5.0.0
 - pkg:maven/net.colesico.framework/colesico-undertow@5.0.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-undertow@5.1.0
+- pkg:maven/net.colesico.framework/colesico-undertow@5.1.0?classifier=sources

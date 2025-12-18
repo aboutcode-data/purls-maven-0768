@@ -1,0 +1,2 @@
+- pkg:maven/edu.stanford.protege/webprotege-jackson@0.9.0
+- pkg:maven/edu.stanford.protege/webprotege-jackson@0.9.0?classifier=sources

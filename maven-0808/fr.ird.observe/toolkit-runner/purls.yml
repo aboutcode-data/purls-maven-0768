@@ -64,3 +64,13 @@
 - pkg:maven/fr.ird.observe/toolkit-runner@5.0.48?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-runner@5.0.49
 - pkg:maven/fr.ird.observe/toolkit-runner@5.0.49?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.50
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.50?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.51
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.51?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.52
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.52?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.53
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.53?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.54
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.54?classifier=sources

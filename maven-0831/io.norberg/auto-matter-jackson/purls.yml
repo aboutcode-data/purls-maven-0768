@@ -39,6 +39,12 @@
 - pkg:maven/io.norberg/auto-matter-jackson@0.2
 - pkg:maven/io.norberg/auto-matter-jackson@0.20.0
 - pkg:maven/io.norberg/auto-matter-jackson@0.20.0?classifier=sources
+- pkg:maven/io.norberg/auto-matter-jackson@0.21.0
+- pkg:maven/io.norberg/auto-matter-jackson@0.21.0?classifier=sources
+- pkg:maven/io.norberg/auto-matter-jackson@0.22.0
+- pkg:maven/io.norberg/auto-matter-jackson@0.22.0?classifier=sources
+- pkg:maven/io.norberg/auto-matter-jackson@0.23.0
+- pkg:maven/io.norberg/auto-matter-jackson@0.23.0?classifier=sources
 - pkg:maven/io.norberg/auto-matter-jackson@0.2?classifier=sources
 - pkg:maven/io.norberg/auto-matter-jackson@0.3
 - pkg:maven/io.norberg/auto-matter-jackson@0.3?classifier=sources

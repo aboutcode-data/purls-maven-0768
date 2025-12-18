@@ -1,5 +1,7 @@
 - pkg:maven/org.bedework.selfreg/bw-self-registration-war@4.0.10?classifier=sources
 - pkg:maven/org.bedework.selfreg/bw-self-registration-war@4.0.10?type=war
+- pkg:maven/org.bedework.selfreg/bw-self-registration-war@4.0.11?classifier=sources
+- pkg:maven/org.bedework.selfreg/bw-self-registration-war@4.0.11?type=war
 - pkg:maven/org.bedework.selfreg/bw-self-registration-war@4.0.3?classifier=sources
 - pkg:maven/org.bedework.selfreg/bw-self-registration-war@4.0.3?type=war
 - pkg:maven/org.bedework.selfreg/bw-self-registration-war@4.0.5?classifier=sources

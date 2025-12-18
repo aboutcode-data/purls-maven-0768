@@ -1,1 +1,2 @@
 - pkg:maven/io.bitbucket.sergiovl/web-helper-kt@1.0.7?classifier=sources
+- pkg:maven/io.bitbucket.sergiovl/web-helper-kt@1.0.8?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.apiaddicts.apitools.apigen/generator-rest@0.0.3
 - pkg:maven/org.apiaddicts.apitools.apigen/generator-rest@0.0.3?classifier=sources
+- pkg:maven/org.apiaddicts.apitools.apigen/generator-rest@0.1.0
+- pkg:maven/org.apiaddicts.apitools.apigen/generator-rest@0.1.0?classifier=sources
+- pkg:maven/org.apiaddicts.apitools.apigen/generator-rest@0.1.1
+- pkg:maven/org.apiaddicts.apitools.apigen/generator-rest@0.1.1?classifier=sources

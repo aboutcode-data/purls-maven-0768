@@ -4,5 +4,9 @@
 - pkg:maven/com.xnx3.wangmarket.wm/wm@1.26?classifier=sources
 - pkg:maven/com.xnx3.wangmarket.wm/wm@1.29
 - pkg:maven/com.xnx3.wangmarket.wm/wm@1.29?classifier=sources
+- pkg:maven/com.xnx3.wangmarket.wm/wm@2.10
+- pkg:maven/com.xnx3.wangmarket.wm/wm@2.10?classifier=sources
 - pkg:maven/com.xnx3.wangmarket.wm/wm@2.3
 - pkg:maven/com.xnx3.wangmarket.wm/wm@2.3?classifier=sources
+- pkg:maven/com.xnx3.wangmarket.wm/wm@2.9
+- pkg:maven/com.xnx3.wangmarket.wm/wm@2.9?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-sdk-1.11-autoconfigure@1.9.0-alpha?classifier=sources

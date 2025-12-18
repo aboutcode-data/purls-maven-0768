@@ -1,0 +1,4 @@
+- pkg:maven/org.openmole/mgo_3@3.52
+- pkg:maven/org.openmole/mgo_3@3.52?classifier=sources
+- pkg:maven/org.openmole/mgo_3@3.53
+- pkg:maven/org.openmole/mgo_3@3.53?classifier=sources

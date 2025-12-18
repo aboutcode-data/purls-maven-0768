@@ -1,0 +1,4 @@
+- pkg:maven/works.ideabank/rudolf_3@0.1.0
+- pkg:maven/works.ideabank/rudolf_3@0.1.0?classifier=sources
+- pkg:maven/works.ideabank/rudolf_3@0.1.1
+- pkg:maven/works.ideabank/rudolf_3@0.1.1?classifier=sources

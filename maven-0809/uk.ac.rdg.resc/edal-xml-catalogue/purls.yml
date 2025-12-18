@@ -54,3 +54,5 @@
 - pkg:maven/uk.ac.rdg.resc/edal-xml-catalogue@1.4.2?classifier=sources
 - pkg:maven/uk.ac.rdg.resc/edal-xml-catalogue@1.5.0
 - pkg:maven/uk.ac.rdg.resc/edal-xml-catalogue@1.5.0?classifier=sources
+- pkg:maven/uk.ac.rdg.resc/edal-xml-catalogue@1.5.1
+- pkg:maven/uk.ac.rdg.resc/edal-xml-catalogue@1.5.1?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.ranger/unixauthclient@1.2.0
 - pkg:maven/org.apache.ranger/unixauthclient@2.0.0
 - pkg:maven/org.apache.ranger/unixauthclient@2.1.0
+- pkg:maven/org.apache.ranger/unixauthclient@2.2.0

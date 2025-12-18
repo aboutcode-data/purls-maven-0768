@@ -1,0 +1,7 @@
+- pkg:maven/group.rxcloud/capa-spi-aws-infrastructure@1.0.1.RELEASE
+- pkg:maven/group.rxcloud/capa-spi-aws-infrastructure@1.0.2.RELEASE
+- pkg:maven/group.rxcloud/capa-spi-aws-infrastructure@1.0.3.RELEASE
+- pkg:maven/group.rxcloud/capa-spi-aws-infrastructure@1.0.4-alpha-1
+- pkg:maven/group.rxcloud/capa-spi-aws-infrastructure@1.0.4-alpha-1?classifier=sources
+- pkg:maven/group.rxcloud/capa-spi-aws-infrastructure@1.0.4.RELEASE
+- pkg:maven/group.rxcloud/capa-spi-aws-infrastructure@1.0.4.RELEASE?classifier=sources

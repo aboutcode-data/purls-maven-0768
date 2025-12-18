@@ -93,6 +93,9 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@2.0.39?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@2.0.4
+- pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@2.0.40
+- pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@2.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@2.0.40?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@2.0.5
 - pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@2.0.5?classifier=sources
@@ -253,3 +256,9 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@6.0.7
 - pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@6.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@6.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@6.0.8
+- pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@6.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@6.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@6.0.9
+- pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@6.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.directory.web@6.0.9?classifier=sources-commercial

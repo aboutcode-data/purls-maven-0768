@@ -12,3 +12,7 @@
 - pkg:maven/link.thingscloud/mobile-area@2021.09.30?classifier=sources
 - pkg:maven/link.thingscloud/mobile-area@2021.10.04
 - pkg:maven/link.thingscloud/mobile-area@2021.10.04?classifier=sources
+- pkg:maven/link.thingscloud/mobile-area@2021.10.30
+- pkg:maven/link.thingscloud/mobile-area@2021.10.30?classifier=sources
+- pkg:maven/link.thingscloud/mobile-area@2021.11.30
+- pkg:maven/link.thingscloud/mobile-area@2021.11.30?classifier=sources

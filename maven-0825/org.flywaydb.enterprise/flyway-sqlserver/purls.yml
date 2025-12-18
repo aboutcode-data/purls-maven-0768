@@ -1,0 +1,2 @@
+- pkg:maven/org.flywaydb.enterprise/flyway-sqlserver@8.1.0
+- pkg:maven/org.flywaydb.enterprise/flyway-sqlserver@8.1.0?classifier=sources

@@ -42,3 +42,4 @@
 - pkg:maven/com.arakelian/faker@3.7.0?classifier=sources
 - pkg:maven/com.arakelian/faker@3.8.0
 - pkg:maven/com.arakelian/faker@3.8.0?classifier=sources
+- pkg:maven/com.arakelian/faker@3.9.0?classifier=sources

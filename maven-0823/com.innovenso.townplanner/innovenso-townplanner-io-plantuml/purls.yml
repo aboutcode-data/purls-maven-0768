@@ -1,0 +1,2 @@
+- pkg:maven/com.innovenso.townplanner/innovenso-townplanner-io-plantuml@2.1.0?classifier=sources
+- pkg:maven/com.innovenso.townplanner/innovenso-townplanner-io-plantuml@3.0.1?classifier=sources

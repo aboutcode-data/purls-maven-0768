@@ -12,3 +12,5 @@
 - pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-correlation-count@2.1.2?classifier=sources
 - pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-correlation-count@2.2.0
 - pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-correlation-count@2.2.0?classifier=sources
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-correlation-count@4.0.0
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-correlation-count@4.0.0?classifier=sources

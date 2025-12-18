@@ -1,0 +1,4 @@
+- pkg:maven/org.projectfloodlight/openflowj-internal@3.6.605
+- pkg:maven/org.projectfloodlight/openflowj-internal@3.6.605?classifier=sources
+- pkg:maven/org.projectfloodlight/openflowj-internal@3.6.606
+- pkg:maven/org.projectfloodlight/openflowj-internal@3.6.606?classifier=sources

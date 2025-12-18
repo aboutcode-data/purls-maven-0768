@@ -122,6 +122,10 @@
 - pkg:maven/de.sciss/fscape-cdp_2.12@2.9.1?classifier=sources
 - pkg:maven/de.sciss/fscape-cdp_2.12@3.0.0
 - pkg:maven/de.sciss/fscape-cdp_2.12@3.0.0?classifier=sources
+- pkg:maven/de.sciss/fscape-cdp_2.12@3.10.0
+- pkg:maven/de.sciss/fscape-cdp_2.12@3.10.0?classifier=sources
+- pkg:maven/de.sciss/fscape-cdp_2.12@3.11.0
+- pkg:maven/de.sciss/fscape-cdp_2.12@3.11.0?classifier=sources
 - pkg:maven/de.sciss/fscape-cdp_2.12@3.2.0
 - pkg:maven/de.sciss/fscape-cdp_2.12@3.2.0?classifier=sources
 - pkg:maven/de.sciss/fscape-cdp_2.12@3.3.0
@@ -140,3 +144,5 @@
 - pkg:maven/de.sciss/fscape-cdp_2.12@3.7.1?classifier=sources
 - pkg:maven/de.sciss/fscape-cdp_2.12@3.8.0
 - pkg:maven/de.sciss/fscape-cdp_2.12@3.8.0?classifier=sources
+- pkg:maven/de.sciss/fscape-cdp_2.12@3.9.0
+- pkg:maven/de.sciss/fscape-cdp_2.12@3.9.0?classifier=sources

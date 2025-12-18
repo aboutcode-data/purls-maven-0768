@@ -4,6 +4,10 @@
 - pkg:maven/io.scalecube/scalecube-services-gateway-client-transport@2.10.11?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-gateway-client-transport@2.10.12
 - pkg:maven/io.scalecube/scalecube-services-gateway-client-transport@2.10.12?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-gateway-client-transport@2.10.13
+- pkg:maven/io.scalecube/scalecube-services-gateway-client-transport@2.10.13?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-gateway-client-transport@2.10.14
+- pkg:maven/io.scalecube/scalecube-services-gateway-client-transport@2.10.14?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-gateway-client-transport@2.10.4
 - pkg:maven/io.scalecube/scalecube-services-gateway-client-transport@2.10.4?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-gateway-client-transport@2.10.5

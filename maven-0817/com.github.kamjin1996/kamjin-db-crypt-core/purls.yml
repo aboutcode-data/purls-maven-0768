@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kamjin1996/kamjin-db-crypt-core@2.3.0
+- pkg:maven/com.github.kamjin1996/kamjin-db-crypt-core@2.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.wicp.tams/common-flink-module@3.6.18
+- pkg:maven/net.wicp.tams/common-flink-module@3.6.18?classifier=sources

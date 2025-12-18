@@ -68,3 +68,7 @@
 - pkg:maven/com.github.agourlay/cornichon-http-mock_2.12@0.19.8?classifier=sources
 - pkg:maven/com.github.agourlay/cornichon-http-mock_2.12@0.19.9
 - pkg:maven/com.github.agourlay/cornichon-http-mock_2.12@0.19.9?classifier=sources
+- pkg:maven/com.github.agourlay/cornichon-http-mock_2.12@0.20.0
+- pkg:maven/com.github.agourlay/cornichon-http-mock_2.12@0.20.0?classifier=sources
+- pkg:maven/com.github.agourlay/cornichon-http-mock_2.12@0.20.1
+- pkg:maven/com.github.agourlay/cornichon-http-mock_2.12@0.20.1?classifier=sources

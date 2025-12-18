@@ -16,6 +16,7 @@
 - pkg:maven/com.aliyun.hbase/alihbase-it@1.8.4
 - pkg:maven/com.aliyun.hbase/alihbase-it@1.8.5
 - pkg:maven/com.aliyun.hbase/alihbase-it@1.8.6
+- pkg:maven/com.aliyun.hbase/alihbase-it@1.8.7
 - pkg:maven/com.aliyun.hbase/alihbase-it@2.0.0
 - pkg:maven/com.aliyun.hbase/alihbase-it@2.0.10
 - pkg:maven/com.aliyun.hbase/alihbase-it@2.0.2
@@ -33,3 +34,4 @@
 - pkg:maven/com.aliyun.hbase/alihbase-it@2.8.4
 - pkg:maven/com.aliyun.hbase/alihbase-it@2.8.5
 - pkg:maven/com.aliyun.hbase/alihbase-it@2.8.6
+- pkg:maven/com.aliyun.hbase/alihbase-it@2.8.7

@@ -4,5 +4,7 @@
 - pkg:maven/org.webjars.bowergithub.summernote/summernote@0.8.12?classifier=sources
 - pkg:maven/org.webjars.bowergithub.summernote/summernote@0.8.15
 - pkg:maven/org.webjars.bowergithub.summernote/summernote@0.8.15?classifier=sources
+- pkg:maven/org.webjars.bowergithub.summernote/summernote@0.8.20
+- pkg:maven/org.webjars.bowergithub.summernote/summernote@0.8.20?classifier=sources
 - pkg:maven/org.webjars.bowergithub.summernote/summernote@0.8.8
 - pkg:maven/org.webjars.bowergithub.summernote/summernote@0.8.8?classifier=sources

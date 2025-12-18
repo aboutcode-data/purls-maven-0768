@@ -14,3 +14,5 @@
 - pkg:maven/org.scala-js/scalajs-cli_2.13@1.0.0-RC2
 - pkg:maven/org.scala-js/scalajs-cli_2.13@1.0.0-RC2?classifier=sources
 - pkg:maven/org.scala-js/scalajs-cli_2.13@1.0.0?classifier=sources
+- pkg:maven/org.scala-js/scalajs-cli_2.13@1.1.0
+- pkg:maven/org.scala-js/scalajs-cli_2.13@1.1.0?classifier=sources

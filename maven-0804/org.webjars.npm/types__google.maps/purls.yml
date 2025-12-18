@@ -10,3 +10,7 @@
 - pkg:maven/org.webjars.npm/types__google.maps@3.45.4?classifier=sources
 - pkg:maven/org.webjars.npm/types__google.maps@3.45.6
 - pkg:maven/org.webjars.npm/types__google.maps@3.45.6?classifier=sources
+- pkg:maven/org.webjars.npm/types__google.maps@3.46.0
+- pkg:maven/org.webjars.npm/types__google.maps@3.46.0?classifier=sources
+- pkg:maven/org.webjars.npm/types__google.maps@3.46.1
+- pkg:maven/org.webjars.npm/types__google.maps@3.46.1?classifier=sources

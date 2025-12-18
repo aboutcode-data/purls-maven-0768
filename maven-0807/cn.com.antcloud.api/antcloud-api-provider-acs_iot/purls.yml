@@ -1,0 +1,2 @@
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-acs_iot@1.0.1
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-acs_iot@1.0.1?classifier=sources

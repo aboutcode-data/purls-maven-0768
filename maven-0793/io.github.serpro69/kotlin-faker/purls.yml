@@ -10,3 +10,4 @@
 - pkg:maven/io.github.serpro69/kotlin-faker@1.7.1?classifier=sources
 - pkg:maven/io.github.serpro69/kotlin-faker@1.8.0-rc.0?classifier=sources
 - pkg:maven/io.github.serpro69/kotlin-faker@1.8.0?classifier=sources
+- pkg:maven/io.github.serpro69/kotlin-faker@1.9.0?classifier=sources

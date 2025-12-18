@@ -6,3 +6,9 @@
 - pkg:maven/io.github.arkinator/mockserver-core@5.11.5?classifier=sources
 - pkg:maven/io.github.arkinator/mockserver-core@5.11.6
 - pkg:maven/io.github.arkinator/mockserver-core@5.11.6?classifier=sources
+- pkg:maven/io.github.arkinator/mockserver-core@5.11.7
+- pkg:maven/io.github.arkinator/mockserver-core@5.11.7?classifier=sources
+- pkg:maven/io.github.arkinator/mockserver-core@5.11.8
+- pkg:maven/io.github.arkinator/mockserver-core@5.11.8?classifier=sources
+- pkg:maven/io.github.arkinator/mockserver-core@5.11.9
+- pkg:maven/io.github.arkinator/mockserver-core@5.11.9?classifier=sources

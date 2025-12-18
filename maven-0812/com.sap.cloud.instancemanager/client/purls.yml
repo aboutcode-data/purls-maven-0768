@@ -4,3 +4,7 @@
 - pkg:maven/com.sap.cloud.instancemanager/client@1.16.3?classifier=sources
 - pkg:maven/com.sap.cloud.instancemanager/client@1.17.2
 - pkg:maven/com.sap.cloud.instancemanager/client@1.17.2?classifier=sources
+- pkg:maven/com.sap.cloud.instancemanager/client@1.99.4
+- pkg:maven/com.sap.cloud.instancemanager/client@1.99.4?classifier=sources
+- pkg:maven/com.sap.cloud.instancemanager/client@1.99.7
+- pkg:maven/com.sap.cloud.instancemanager/client@1.99.7?classifier=sources

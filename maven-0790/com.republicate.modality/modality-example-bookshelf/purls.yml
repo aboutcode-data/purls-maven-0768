@@ -1,2 +1,4 @@
 - pkg:maven/com.republicate.modality/modality-example-bookshelf@1.0?classifier=sources
 - pkg:maven/com.republicate.modality/modality-example-bookshelf@1.0?type=war
+- pkg:maven/com.republicate.modality/modality-example-bookshelf@2.0?classifier=sources
+- pkg:maven/com.republicate.modality/modality-example-bookshelf@2.0?type=war

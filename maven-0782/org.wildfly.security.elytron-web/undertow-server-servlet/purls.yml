@@ -1,3 +1,5 @@
+- pkg:maven/org.wildfly.security.elytron-web/undertow-server-servlet@1.10.0.Final
+- pkg:maven/org.wildfly.security.elytron-web/undertow-server-servlet@1.10.0.Final?classifier=sources
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server-servlet@1.2.0.Final
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server-servlet@1.2.0.Final?classifier=sources
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server-servlet@1.2.1.Final
@@ -70,3 +72,5 @@
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server-servlet@2.0.0.Alpha5?classifier=sources
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server-servlet@2.0.0.Alpha6
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server-servlet@2.0.0.Alpha6?classifier=sources
+- pkg:maven/org.wildfly.security.elytron-web/undertow-server-servlet@2.0.0.Beta1
+- pkg:maven/org.wildfly.security.elytron-web/undertow-server-servlet@2.0.0.Beta1?classifier=sources

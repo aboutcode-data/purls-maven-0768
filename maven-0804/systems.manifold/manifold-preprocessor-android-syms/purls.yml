@@ -1,0 +1,4 @@
+- pkg:maven/systems.manifold/manifold-preprocessor-android-syms@2021.1.32
+- pkg:maven/systems.manifold/manifold-preprocessor-android-syms@2021.1.32?classifier=sources
+- pkg:maven/systems.manifold/manifold-preprocessor-android-syms@2021.1.33
+- pkg:maven/systems.manifold/manifold-preprocessor-android-syms@2021.1.33?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.barrybecker4/bb4-aikido-app@1.0?classifier=sources
+- pkg:maven/com.barrybecker4/bb4-aikido-app@1.6?classifier=sources

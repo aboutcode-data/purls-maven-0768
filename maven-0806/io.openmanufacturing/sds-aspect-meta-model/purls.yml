@@ -1,1 +1,2 @@
 - pkg:maven/io.openmanufacturing/sds-aspect-meta-model@1.0.0?classifier=sources
+- pkg:maven/io.openmanufacturing/sds-aspect-meta-model@2.0.0-M1?classifier=sources

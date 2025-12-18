@@ -36,6 +36,8 @@
 - pkg:maven/com.cognitect.aws/comprehend@811.2.865.0?classifier=sources
 - pkg:maven/com.cognitect.aws/comprehend@811.2.889.0
 - pkg:maven/com.cognitect.aws/comprehend@811.2.889.0?classifier=sources
+- pkg:maven/com.cognitect.aws/comprehend@814.2.1008.0
+- pkg:maven/com.cognitect.aws/comprehend@814.2.1008.0?classifier=sources
 - pkg:maven/com.cognitect.aws/comprehend@814.2.977.0
 - pkg:maven/com.cognitect.aws/comprehend@814.2.977.0?classifier=sources
 - pkg:maven/com.cognitect.aws/comprehend@814.2.991.0

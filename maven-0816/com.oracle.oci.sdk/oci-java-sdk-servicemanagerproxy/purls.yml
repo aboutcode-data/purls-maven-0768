@@ -1,0 +1,4 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@2.10.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@2.10.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@2.11.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@2.11.0?classifier=sources

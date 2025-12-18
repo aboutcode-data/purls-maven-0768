@@ -1,0 +1,2 @@
+- pkg:maven/org.qbicc/qbicc-plugin-patcher@0.1.0
+- pkg:maven/org.qbicc/qbicc-plugin-patcher@0.1.0?classifier=sources

@@ -26,3 +26,15 @@
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-13?classifier=sources
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-14
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-14?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-15
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-15?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-16
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-16?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-18
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-18?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-19
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-19?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-20
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-20?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-21
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-21?classifier=sources

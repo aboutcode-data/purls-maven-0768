@@ -1,1 +1,2 @@
 - pkg:maven/kr.jadekim/common-exception@2.0.0?classifier=sources
+- pkg:maven/kr.jadekim/common-exception@2.0.1?classifier=sources

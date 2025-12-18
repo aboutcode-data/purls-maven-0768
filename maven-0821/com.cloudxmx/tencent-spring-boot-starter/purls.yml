@@ -1,0 +1,6 @@
+- pkg:maven/com.cloudxmx/tencent-spring-boot-starter@1.0
+- pkg:maven/com.cloudxmx/tencent-spring-boot-starter@1.0-Releases
+- pkg:maven/com.cloudxmx/tencent-spring-boot-starter@1.0-Releases?classifier=sources
+- pkg:maven/com.cloudxmx/tencent-spring-boot-starter@1.0?classifier=sources
+- pkg:maven/com.cloudxmx/tencent-spring-boot-starter@1.2
+- pkg:maven/com.cloudxmx/tencent-spring-boot-starter@1.2?classifier=sources

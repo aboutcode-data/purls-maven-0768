@@ -2,6 +2,12 @@
 - pkg:maven/io.nitric/java-sdk@0.0.1?classifier=sources
 - pkg:maven/io.nitric/java-sdk@0.1.0
 - pkg:maven/io.nitric/java-sdk@0.1.0?classifier=sources
+- pkg:maven/io.nitric/java-sdk@0.10.0
+- pkg:maven/io.nitric/java-sdk@0.10.0?classifier=sources
+- pkg:maven/io.nitric/java-sdk@0.12.0
+- pkg:maven/io.nitric/java-sdk@0.12.0?classifier=sources
+- pkg:maven/io.nitric/java-sdk@0.12.3
+- pkg:maven/io.nitric/java-sdk@0.12.3?classifier=sources
 - pkg:maven/io.nitric/java-sdk@0.2.0
 - pkg:maven/io.nitric/java-sdk@0.2.0?classifier=sources
 - pkg:maven/io.nitric/java-sdk@0.5.0

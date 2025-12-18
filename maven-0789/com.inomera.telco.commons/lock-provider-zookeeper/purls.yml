@@ -1,0 +1,1 @@
+- pkg:maven/com.inomera.telco.commons/lock-provider-zookeeper@2.0.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/io.get-coursier/lm-coursier_2.13@2.0.7?classifier=sources
 - pkg:maven/io.get-coursier/lm-coursier_2.13@2.0.8
 - pkg:maven/io.get-coursier/lm-coursier_2.13@2.0.8?classifier=sources
+- pkg:maven/io.get-coursier/lm-coursier_2.13@2.0.9
+- pkg:maven/io.get-coursier/lm-coursier_2.13@2.0.9?classifier=sources

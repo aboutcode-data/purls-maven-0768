@@ -2,3 +2,5 @@
 - pkg:maven/com.latitech.android/whiteboard-private@0.12.69?classifier=sources
 - pkg:maven/com.latitech.android/whiteboard-private@0.12.70?classifier=sources
 - pkg:maven/com.latitech.android/whiteboard-private@0.12.71?classifier=sources
+- pkg:maven/com.latitech.android/whiteboard-private@0.12.72?classifier=sources
+- pkg:maven/com.latitech.android/whiteboard-private@0.12.73?classifier=sources

@@ -26,6 +26,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-runner@10.0.5?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-runner@10.0.6
 - pkg:maven/org.eclipse.jetty/jetty-runner@10.0.6?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-runner@10.0.7
+- pkg:maven/org.eclipse.jetty/jetty-runner@10.0.7?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-runner@11.0.0
 - pkg:maven/org.eclipse.jetty/jetty-runner@11.0.0-alpha0
 - pkg:maven/org.eclipse.jetty/jetty-runner@11.0.0-alpha0?classifier=sources
@@ -48,6 +50,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-runner@11.0.5?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-runner@11.0.6
 - pkg:maven/org.eclipse.jetty/jetty-runner@11.0.6?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-runner@11.0.7
+- pkg:maven/org.eclipse.jetty/jetty-runner@11.0.7?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-runner@9.0.0.M4
 - pkg:maven/org.eclipse.jetty/jetty-runner@9.0.0.M4?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-runner@9.0.0.M5

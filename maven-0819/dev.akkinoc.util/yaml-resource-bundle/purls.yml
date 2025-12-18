@@ -8,3 +8,5 @@
 - pkg:maven/dev.akkinoc.util/yaml-resource-bundle@2.0.3?classifier=sources
 - pkg:maven/dev.akkinoc.util/yaml-resource-bundle@2.1.0
 - pkg:maven/dev.akkinoc.util/yaml-resource-bundle@2.1.0?classifier=sources
+- pkg:maven/dev.akkinoc.util/yaml-resource-bundle@2.2.0
+- pkg:maven/dev.akkinoc.util/yaml-resource-bundle@2.2.0?classifier=sources

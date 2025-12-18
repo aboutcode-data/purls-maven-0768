@@ -1,0 +1,1 @@
+- pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-transaction-client-jakarta@1.1.9.Final?classifier=sources

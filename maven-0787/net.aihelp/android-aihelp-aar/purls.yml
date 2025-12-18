@@ -18,3 +18,5 @@
 - pkg:maven/net.aihelp/android-aihelp-aar@2.5.2?classifier=sources
 - pkg:maven/net.aihelp/android-aihelp-aar@2.5.3?classifier=sources
 - pkg:maven/net.aihelp/android-aihelp-aar@2.5.4?classifier=sources
+- pkg:maven/net.aihelp/android-aihelp-aar@2.6.0?classifier=sources
+- pkg:maven/net.aihelp/android-aihelp-aar@2.7.0?classifier=sources

@@ -208,3 +208,5 @@
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@6.0.0-M3?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@6.0.0-M4
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@6.0.0-M4?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@6.0.0-M5
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@6.0.0-M5?classifier=sources

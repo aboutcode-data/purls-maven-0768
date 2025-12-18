@@ -13,3 +13,4 @@
 - pkg:maven/cn.jiguang.sdk/jpush@4.2.4?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jpush@4.2.8?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jpush@4.3.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jpush@4.4.0?classifier=sources

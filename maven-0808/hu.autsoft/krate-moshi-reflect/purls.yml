@@ -4,3 +4,4 @@
 - pkg:maven/hu.autsoft/krate-moshi-reflect@1.0.0?classifier=sources
 - pkg:maven/hu.autsoft/krate-moshi-reflect@1.1.0?classifier=sources
 - pkg:maven/hu.autsoft/krate-moshi-reflect@1.2.0?classifier=sources
+- pkg:maven/hu.autsoft/krate-moshi-reflect@2.0.0?classifier=sources

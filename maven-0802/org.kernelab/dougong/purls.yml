@@ -32,6 +32,8 @@
 - pkg:maven/org.kernelab/dougong@0.0.24-RELEASE?classifier=sources
 - pkg:maven/org.kernelab/dougong@0.0.25-RELEASE
 - pkg:maven/org.kernelab/dougong@0.0.25-RELEASE?classifier=sources
+- pkg:maven/org.kernelab/dougong@0.0.26-RELEASE
+- pkg:maven/org.kernelab/dougong@0.0.26-RELEASE?classifier=sources
 - pkg:maven/org.kernelab/dougong@0.0.3-RELEASE
 - pkg:maven/org.kernelab/dougong@0.0.3-RELEASE?classifier=sources
 - pkg:maven/org.kernelab/dougong@0.0.4-RELEASE

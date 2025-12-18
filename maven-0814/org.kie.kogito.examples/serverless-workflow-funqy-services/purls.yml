@@ -4,6 +4,12 @@
 - pkg:maven/org.kie.kogito.examples/serverless-workflow-funqy-services@1.11.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito.examples/serverless-workflow-funqy-services@1.11.1.Final
 - pkg:maven/org.kie.kogito.examples/serverless-workflow-funqy-services@1.11.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito.examples/serverless-workflow-funqy-services@1.12.0.Final
+- pkg:maven/org.kie.kogito.examples/serverless-workflow-funqy-services@1.12.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito.examples/serverless-workflow-funqy-services@1.13.0.Final
+- pkg:maven/org.kie.kogito.examples/serverless-workflow-funqy-services@1.13.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito.examples/serverless-workflow-funqy-services@1.14.0.Final
+- pkg:maven/org.kie.kogito.examples/serverless-workflow-funqy-services@1.14.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito.examples/serverless-workflow-funqy-services@1.8.0.Final
 - pkg:maven/org.kie.kogito.examples/serverless-workflow-funqy-services@1.8.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito.examples/serverless-workflow-funqy-services@1.9.0.Final

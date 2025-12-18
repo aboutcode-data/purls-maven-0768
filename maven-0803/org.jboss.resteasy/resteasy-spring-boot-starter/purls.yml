@@ -96,3 +96,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@4.9.1.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@5.0.0.Alpha1
 - pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@5.0.0.Alpha1?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@5.0.0.Beta1
+- pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@5.0.0.Beta1?classifier=sources

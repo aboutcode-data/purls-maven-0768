@@ -24,3 +24,7 @@
 - pkg:maven/dev.inmo/tgbotapi.extensions.api-jvm@0.35.7?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.extensions.api-jvm@0.35.8?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.extensions.api-jvm@0.35.9?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.extensions.api-jvm@0.36.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.extensions.api-jvm@0.36.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.extensions.api-jvm@0.37.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.extensions.api-jvm@0.37.1?classifier=sources

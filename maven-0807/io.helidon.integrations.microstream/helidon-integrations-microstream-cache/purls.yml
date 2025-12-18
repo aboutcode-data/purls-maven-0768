@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.integrations.microstream/helidon-integrations-microstream-cache@2.4.0
+- pkg:maven/io.helidon.integrations.microstream/helidon-integrations-microstream-cache@2.4.0?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/com.ibm.cloud/dns-records@0.21.3
 - pkg:maven/com.ibm.cloud/dns-records@0.21.3?classifier=sources
+- pkg:maven/com.ibm.cloud/dns-records@0.22.3
+- pkg:maven/com.ibm.cloud/dns-records@0.22.3?classifier=sources
+- pkg:maven/com.ibm.cloud/dns-records@0.24.0
+- pkg:maven/com.ibm.cloud/dns-records@0.24.0?classifier=sources
+- pkg:maven/com.ibm.cloud/dns-records@0.24.1
+- pkg:maven/com.ibm.cloud/dns-records@0.24.1?classifier=sources

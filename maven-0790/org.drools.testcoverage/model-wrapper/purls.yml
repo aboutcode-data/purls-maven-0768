@@ -64,6 +64,9 @@
 - pkg:maven/org.drools.testcoverage/model-wrapper@7.59.0.Final
 - pkg:maven/org.drools.testcoverage/model-wrapper@7.6.0.Final
 - pkg:maven/org.drools.testcoverage/model-wrapper@7.6.0.t022
+- pkg:maven/org.drools.testcoverage/model-wrapper@7.60.0.Final
+- pkg:maven/org.drools.testcoverage/model-wrapper@7.61.0.Final
+- pkg:maven/org.drools.testcoverage/model-wrapper@7.62.0.Final
 - pkg:maven/org.drools.testcoverage/model-wrapper@7.7.0.Final
 - pkg:maven/org.drools.testcoverage/model-wrapper@7.8.0.Final
 - pkg:maven/org.drools.testcoverage/model-wrapper@7.9.0.Final

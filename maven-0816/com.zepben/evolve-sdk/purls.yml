@@ -30,3 +30,9 @@
 - pkg:maven/com.zepben/evolve-sdk@0.7.0-SNAPSHOT9
 - pkg:maven/com.zepben/evolve-sdk@0.7.0-SNAPSHOT9?classifier=sources
 - pkg:maven/com.zepben/evolve-sdk@0.7.0?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT1
+- pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT1?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT2
+- pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT2?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT3
+- pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT3?classifier=sources

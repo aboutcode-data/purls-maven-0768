@@ -37,3 +37,5 @@
 - pkg:maven/com.aceql/aceql-http@7.0?classifier=sources
 - pkg:maven/com.aceql/aceql-http@7.2?classifier=sources
 - pkg:maven/com.aceql/aceql-http@8.0?classifier=sources
+- pkg:maven/com.aceql/aceql-http@8.1?classifier=sources
+- pkg:maven/com.aceql/aceql-http@8.2?classifier=sources

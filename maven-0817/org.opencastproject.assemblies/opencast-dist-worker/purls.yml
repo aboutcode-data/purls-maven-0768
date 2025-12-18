@@ -2,6 +2,8 @@
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-worker@10.1?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-worker@10.2?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-worker@10.3?classifier=sources
+- pkg:maven/org.opencastproject.assemblies/opencast-dist-worker@10.4?classifier=sources
+- pkg:maven/org.opencastproject.assemblies/opencast-dist-worker@10.5?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-worker@6.6?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-worker@7.2?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-worker@7.3?classifier=sources
@@ -28,3 +30,4 @@
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-worker@9.4?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-worker@9.5?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-worker@9.6?classifier=sources
+- pkg:maven/org.opencastproject.assemblies/opencast-dist-worker@9.9?classifier=sources

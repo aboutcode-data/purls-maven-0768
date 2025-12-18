@@ -219,6 +219,8 @@
 - pkg:maven/org.imixs.workflow/imixs-workflow-jax-rs@5.2.11?classifier=sources
 - pkg:maven/org.imixs.workflow/imixs-workflow-jax-rs@5.2.12
 - pkg:maven/org.imixs.workflow/imixs-workflow-jax-rs@5.2.12?classifier=sources
+- pkg:maven/org.imixs.workflow/imixs-workflow-jax-rs@5.2.13
+- pkg:maven/org.imixs.workflow/imixs-workflow-jax-rs@5.2.13?classifier=sources
 - pkg:maven/org.imixs.workflow/imixs-workflow-jax-rs@5.2.1?classifier=sources
 - pkg:maven/org.imixs.workflow/imixs-workflow-jax-rs@5.2.2
 - pkg:maven/org.imixs.workflow/imixs-workflow-jax-rs@5.2.2?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/pl.setblack/kure-potlin@0.3.0?classifier=sources
 - pkg:maven/pl.setblack/kure-potlin@0.4.0?classifier=sources
 - pkg:maven/pl.setblack/kure-potlin@0.5.0?classifier=sources
+- pkg:maven/pl.setblack/kure-potlin@0.6.0?classifier=sources

@@ -84,3 +84,5 @@
 - pkg:maven/org.talend.esb/sam-server-war@7.2.1?type=war
 - pkg:maven/org.talend.esb/sam-server-war@7.3.1?classifier=sources
 - pkg:maven/org.talend.esb/sam-server-war@7.3.1?type=war
+- pkg:maven/org.talend.esb/sam-server-war@8.0.1?classifier=sources
+- pkg:maven/org.talend.esb/sam-server-war@8.0.1?type=war

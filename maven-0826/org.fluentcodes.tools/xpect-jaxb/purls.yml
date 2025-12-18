@@ -10,3 +10,7 @@
 - pkg:maven/org.fluentcodes.tools/xpect-jaxb@0.6.0?classifier=sources
 - pkg:maven/org.fluentcodes.tools/xpect-jaxb@0.7.0
 - pkg:maven/org.fluentcodes.tools/xpect-jaxb@0.7.0?classifier=sources
+- pkg:maven/org.fluentcodes.tools/xpect-jaxb@0.7.2
+- pkg:maven/org.fluentcodes.tools/xpect-jaxb@0.7.2?classifier=sources
+- pkg:maven/org.fluentcodes.tools/xpect-jaxb@0.8.0
+- pkg:maven/org.fluentcodes.tools/xpect-jaxb@0.8.0?classifier=sources

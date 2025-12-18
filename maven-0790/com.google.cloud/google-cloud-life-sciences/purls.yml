@@ -10,3 +10,5 @@
 - pkg:maven/com.google.cloud/google-cloud-life-sciences@0.2.2?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-life-sciences@0.3.0
 - pkg:maven/com.google.cloud/google-cloud-life-sciences@0.3.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-life-sciences@0.3.1
+- pkg:maven/com.google.cloud/google-cloud-life-sciences@0.3.1?classifier=sources

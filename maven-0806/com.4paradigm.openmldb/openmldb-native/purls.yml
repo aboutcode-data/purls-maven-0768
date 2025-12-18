@@ -30,3 +30,7 @@
 - pkg:maven/com.4paradigm.openmldb/openmldb-native@0.2.3-macos
 - pkg:maven/com.4paradigm.openmldb/openmldb-native@0.2.3-macos?classifier=sources
 - pkg:maven/com.4paradigm.openmldb/openmldb-native@0.2.3?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-native@0.3.0
+- pkg:maven/com.4paradigm.openmldb/openmldb-native@0.3.0-macos
+- pkg:maven/com.4paradigm.openmldb/openmldb-native@0.3.0-macos?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-native@0.3.0?classifier=sources

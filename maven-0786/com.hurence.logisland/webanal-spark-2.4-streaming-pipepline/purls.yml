@@ -1,0 +1,2 @@
+- pkg:maven/com.hurence.logisland/webanal-spark-2.4-streaming-pipepline@1.4.0
+- pkg:maven/com.hurence.logisland/webanal-spark-2.4-streaming-pipepline@1.4.0?classifier=sources

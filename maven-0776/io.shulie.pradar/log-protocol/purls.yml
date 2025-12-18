@@ -12,3 +12,7 @@
 - pkg:maven/io.shulie.pradar/log-protocol@2.0.4.3
 - pkg:maven/io.shulie.pradar/log-protocol@2.0.4.3?classifier=sources
 - pkg:maven/io.shulie.pradar/log-protocol@2.0.4?classifier=sources
+- pkg:maven/io.shulie.pradar/log-protocol@2.0.5.2
+- pkg:maven/io.shulie.pradar/log-protocol@2.0.5.2?classifier=sources
+- pkg:maven/io.shulie.pradar/log-protocol@2.0.5.3
+- pkg:maven/io.shulie.pradar/log-protocol@2.0.5.3?classifier=sources

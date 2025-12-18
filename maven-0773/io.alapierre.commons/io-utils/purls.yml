@@ -1,0 +1,2 @@
+- pkg:maven/io.alapierre.commons/io-utils@1.2
+- pkg:maven/io.alapierre.commons/io-utils@1.2?classifier=sources

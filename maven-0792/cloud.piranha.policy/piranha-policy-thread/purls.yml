@@ -2,6 +2,8 @@
 - pkg:maven/cloud.piranha.policy/piranha-policy-thread@20.12.0?classifier=sources
 - pkg:maven/cloud.piranha.policy/piranha-policy-thread@21.1.0
 - pkg:maven/cloud.piranha.policy/piranha-policy-thread@21.1.0?classifier=sources
+- pkg:maven/cloud.piranha.policy/piranha-policy-thread@21.10.0
+- pkg:maven/cloud.piranha.policy/piranha-policy-thread@21.10.0?classifier=sources
 - pkg:maven/cloud.piranha.policy/piranha-policy-thread@21.2.0
 - pkg:maven/cloud.piranha.policy/piranha-policy-thread@21.2.0?classifier=sources
 - pkg:maven/cloud.piranha.policy/piranha-policy-thread@21.3.0

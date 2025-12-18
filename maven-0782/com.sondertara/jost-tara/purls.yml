@@ -1,0 +1,2 @@
+- pkg:maven/com.sondertara/jost-tara@1.0.0
+- pkg:maven/com.sondertara/jost-tara@1.0.0?classifier=sources

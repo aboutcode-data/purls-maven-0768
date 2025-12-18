@@ -1,2 +1,6 @@
 - pkg:maven/org.beangle.serializer/beangle-serializer-protobuf_3@0.0.20
 - pkg:maven/org.beangle.serializer/beangle-serializer-protobuf_3@0.0.20?classifier=sources
+- pkg:maven/org.beangle.serializer/beangle-serializer-protobuf_3@0.0.21
+- pkg:maven/org.beangle.serializer/beangle-serializer-protobuf_3@0.0.21?classifier=sources
+- pkg:maven/org.beangle.serializer/beangle-serializer-protobuf_3@0.0.22
+- pkg:maven/org.beangle.serializer/beangle-serializer-protobuf_3@0.0.22?classifier=sources

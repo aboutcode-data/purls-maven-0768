@@ -2,3 +2,9 @@
 - pkg:maven/org.kie.kogito/kogito-spring-boot-test-utils@1.11.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-spring-boot-test-utils@1.11.1.Final
 - pkg:maven/org.kie.kogito/kogito-spring-boot-test-utils@1.11.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-spring-boot-test-utils@1.12.0.Final
+- pkg:maven/org.kie.kogito/kogito-spring-boot-test-utils@1.12.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-spring-boot-test-utils@1.13.0.Final
+- pkg:maven/org.kie.kogito/kogito-spring-boot-test-utils@1.13.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-spring-boot-test-utils@1.14.0.Final
+- pkg:maven/org.kie.kogito/kogito-spring-boot-test-utils@1.14.0.Final?classifier=sources

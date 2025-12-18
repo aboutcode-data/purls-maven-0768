@@ -8,6 +8,7 @@
 - pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.3.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.4.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.4.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.4.11?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.4.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.4.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.4.3?classifier=source-release&type=zip

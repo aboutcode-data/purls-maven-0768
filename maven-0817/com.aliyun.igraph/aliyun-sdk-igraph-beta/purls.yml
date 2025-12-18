@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.igraph/aliyun-sdk-igraph-beta@1.0.0
+- pkg:maven/com.aliyun.igraph/aliyun-sdk-igraph-beta@1.0.0?classifier=sources

@@ -62,3 +62,5 @@
 - pkg:maven/io.helidon.grpc/io.grpc@2.3.3?classifier=sources
 - pkg:maven/io.helidon.grpc/io.grpc@2.3.4
 - pkg:maven/io.helidon.grpc/io.grpc@2.3.4?classifier=sources
+- pkg:maven/io.helidon.grpc/io.grpc@2.4.0
+- pkg:maven/io.helidon.grpc/io.grpc@2.4.0?classifier=sources

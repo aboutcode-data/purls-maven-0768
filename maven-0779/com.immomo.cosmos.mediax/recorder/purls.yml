@@ -6,6 +6,8 @@
 - pkg:maven/com.immomo.cosmos.mediax/recorder@2.3.4_080400?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/recorder@2.3.4_081600?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/recorder@2.3.4_081600?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.4.0?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.4.0?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/recorder@2.4.0_082600?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/recorder@2.4.0_082600?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/recorder@2.4.0_082700?classifier=sources
@@ -26,3 +28,7 @@
 - pkg:maven/com.immomo.cosmos.mediax/recorder@2.4.0_083004?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/recorder@2.4.0_091301?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/recorder@2.4.0_091301?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.4.0_101500?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.4.0_101500?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.4.0_101800?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.4.0_101800?type=aar
