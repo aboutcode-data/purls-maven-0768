@@ -22,3 +22,5 @@
 - pkg:maven/eu.vaadinonkotlin/vok-framework@0.8.3?classifier=sources
 - pkg:maven/eu.vaadinonkotlin/vok-framework@0.9.0
 - pkg:maven/eu.vaadinonkotlin/vok-framework@0.9.0?classifier=sources
+- pkg:maven/eu.vaadinonkotlin/vok-framework@0.9.1
+- pkg:maven/eu.vaadinonkotlin/vok-framework@0.9.1?classifier=sources

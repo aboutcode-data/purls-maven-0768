@@ -1,2 +1,6 @@
 - pkg:maven/com.ibeetl/act-sample@3.0.0-M6
 - pkg:maven/com.ibeetl/act-sample@3.0.0-M6?classifier=sources
+- pkg:maven/com.ibeetl/act-sample@3.2.11-RELEASE
+- pkg:maven/com.ibeetl/act-sample@3.2.11-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/act-sample@3.2.12-RELEASE
+- pkg:maven/com.ibeetl/act-sample@3.2.12-RELEASE?classifier=sources

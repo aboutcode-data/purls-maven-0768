@@ -1,0 +1,2 @@
+- pkg:maven/de.julielab/julielab-ranklib-mallet@1.0.0
+- pkg:maven/de.julielab/julielab-ranklib-mallet@1.0.0?classifier=sources

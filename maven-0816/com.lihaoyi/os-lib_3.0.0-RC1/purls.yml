@@ -1,0 +1,4 @@
+- pkg:maven/com.lihaoyi/os-lib_3.0.0-RC1@0.7.2-19-0020e4
+- pkg:maven/com.lihaoyi/os-lib_3.0.0-RC1@0.7.2-19-0020e4?classifier=sources
+- pkg:maven/com.lihaoyi/os-lib_3.0.0-RC1@0.7.3
+- pkg:maven/com.lihaoyi/os-lib_3.0.0-RC1@0.7.3?classifier=sources

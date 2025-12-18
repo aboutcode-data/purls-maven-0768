@@ -30,3 +30,9 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-eci@1.1.16?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-eci@1.1.17
 - pkg:maven/com.aliyun/aliyun-java-sdk-eci@1.1.17?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-eci@1.1.18
+- pkg:maven/com.aliyun/aliyun-java-sdk-eci@1.1.18?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-eci@1.1.19
+- pkg:maven/com.aliyun/aliyun-java-sdk-eci@1.1.19?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-eci@1.2.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-eci@1.2.0?classifier=sources

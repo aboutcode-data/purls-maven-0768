@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/popoto@2.0.18
+- pkg:maven/org.webjars.npm/popoto@2.0.18?classifier=sources

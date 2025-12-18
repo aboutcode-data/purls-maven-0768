@@ -1,0 +1,2 @@
+- pkg:maven/eco.m1/m1@0.1
+- pkg:maven/eco.m1/m1@0.1?classifier=sources

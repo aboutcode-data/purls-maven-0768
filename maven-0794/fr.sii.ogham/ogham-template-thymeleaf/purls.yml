@@ -1,2 +1,3 @@
 - pkg:maven/fr.sii.ogham/ogham-template-thymeleaf@2.0.0
 - pkg:maven/fr.sii.ogham/ogham-template-thymeleaf@2.0.0?classifier=sources
+- pkg:maven/fr.sii.ogham/ogham-template-thymeleaf@3.0.0

@@ -4,3 +4,7 @@
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.test.extended.model@1.2.7?classifier=sources
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.test.extended.model@3.3.7
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.test.extended.model@3.3.7?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.test.extended.model@3.4.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.test.extended.model@3.4.0?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.test.extended.model@4.0.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.test.extended.model@4.0.0?classifier=sources

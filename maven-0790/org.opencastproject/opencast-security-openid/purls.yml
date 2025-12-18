@@ -14,6 +14,8 @@
 - pkg:maven/org.opencastproject/opencast-security-openid@7.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-security-openid@7.8
 - pkg:maven/org.opencastproject/opencast-security-openid@7.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-security-openid@7.9
+- pkg:maven/org.opencastproject/opencast-security-openid@7.9?classifier=sources
 - pkg:maven/org.opencastproject/opencast-security-openid@8.0
 - pkg:maven/org.opencastproject/opencast-security-openid@8.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-security-openid@8.1

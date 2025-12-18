@@ -1,0 +1,4 @@
+- pkg:maven/com.github.scopt/scopt_sjs1_3.0.0-RC1@4.0.0
+- pkg:maven/com.github.scopt/scopt_sjs1_3.0.0-RC1@4.0.0?classifier=sources
+- pkg:maven/com.github.scopt/scopt_sjs1_3.0.0-RC1@4.0.1
+- pkg:maven/com.github.scopt/scopt_sjs1_3.0.0-RC1@4.0.1?classifier=sources

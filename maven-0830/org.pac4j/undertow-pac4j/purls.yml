@@ -18,3 +18,5 @@
 - pkg:maven/org.pac4j/undertow-pac4j@3.0.0?classifier=sources
 - pkg:maven/org.pac4j/undertow-pac4j@4.0.0
 - pkg:maven/org.pac4j/undertow-pac4j@4.0.0?classifier=sources
+- pkg:maven/org.pac4j/undertow-pac4j@4.1.0
+- pkg:maven/org.pac4j/undertow-pac4j@4.1.0?classifier=sources

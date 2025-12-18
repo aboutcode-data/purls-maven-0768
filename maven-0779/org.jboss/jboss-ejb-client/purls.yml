@@ -383,6 +383,12 @@
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.37.Final
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.37.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.37.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.38.Final
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.38.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.38.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.39.Final
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.39.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.39.Final?classifier=sources
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.4.Final
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.4.Final?classifier=sources
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.5.Final

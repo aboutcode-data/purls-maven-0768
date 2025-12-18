@@ -78,3 +78,5 @@
 - pkg:maven/org.sakaiproject.basiclti/portlet-util@20.1?classifier=sources
 - pkg:maven/org.sakaiproject.basiclti/portlet-util@20.2
 - pkg:maven/org.sakaiproject.basiclti/portlet-util@20.2?classifier=sources
+- pkg:maven/org.sakaiproject.basiclti/portlet-util@21.0
+- pkg:maven/org.sakaiproject.basiclti/portlet-util@21.0?classifier=sources

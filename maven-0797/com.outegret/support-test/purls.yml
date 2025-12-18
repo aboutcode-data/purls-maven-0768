@@ -1,0 +1,2 @@
+- pkg:maven/com.outegret/support-test@1.6.0.RELEASE
+- pkg:maven/com.outegret/support-test@1.6.0.RELEASE?classifier=sources

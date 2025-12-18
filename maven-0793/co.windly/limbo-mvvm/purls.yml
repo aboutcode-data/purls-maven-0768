@@ -18,3 +18,7 @@
 - pkg:maven/co.windly/limbo-mvvm@4.0.2?type=aar
 - pkg:maven/co.windly/limbo-mvvm@4.0.3?classifier=sources
 - pkg:maven/co.windly/limbo-mvvm@4.0.3?type=aar
+- pkg:maven/co.windly/limbo-mvvm@4.1.1?classifier=sources
+- pkg:maven/co.windly/limbo-mvvm@4.1.1?type=aar
+- pkg:maven/co.windly/limbo-mvvm@4.2.0?classifier=sources
+- pkg:maven/co.windly/limbo-mvvm@4.2.0?type=aar

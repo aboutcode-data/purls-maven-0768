@@ -18,3 +18,5 @@
 - pkg:maven/com.masabi.swagwire/swagwire-codegen@1.0.1-openapi3?classifier=sources
 - pkg:maven/com.masabi.swagwire/swagwire-codegen@1.0.2-openapi3?classifier=sources
 - pkg:maven/com.masabi.swagwire/swagwire-codegen@1.0.3-openapi3?classifier=sources
+- pkg:maven/com.masabi.swagwire/swagwire-codegen@1.0.4-openapi3?classifier=sources
+- pkg:maven/com.masabi.swagwire/swagwire-codegen@1.0.5-openapi3?classifier=sources

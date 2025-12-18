@@ -1,0 +1,2 @@
+- pkg:maven/com.applovin.mediation/line-adapter@2020.11.25.2?classifier=sources
+- pkg:maven/com.applovin.mediation/line-adapter@2020.11.25.2?type=aar

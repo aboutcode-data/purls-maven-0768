@@ -84,3 +84,5 @@
 - pkg:maven/io.vlingo/vlingo-symbio-dynamodb@1.4.0?classifier=sources
 - pkg:maven/io.vlingo/vlingo-symbio-dynamodb@1.4.3
 - pkg:maven/io.vlingo/vlingo-symbio-dynamodb@1.4.3?classifier=sources
+- pkg:maven/io.vlingo/vlingo-symbio-dynamodb@1.5.0
+- pkg:maven/io.vlingo/vlingo-symbio-dynamodb@1.5.0?classifier=sources

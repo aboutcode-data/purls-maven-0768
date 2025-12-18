@@ -1,0 +1,4 @@
+- pkg:maven/com.mageddo.tobby-transactional-outbox/jdbi@1.0.0
+- pkg:maven/com.mageddo.tobby-transactional-outbox/jdbi@1.0.0?classifier=sources
+- pkg:maven/com.mageddo.tobby-transactional-outbox/jdbi@1.1.0
+- pkg:maven/com.mageddo.tobby-transactional-outbox/jdbi@1.1.0?classifier=sources

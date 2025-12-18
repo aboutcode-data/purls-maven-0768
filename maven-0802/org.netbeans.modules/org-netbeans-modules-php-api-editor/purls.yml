@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-editor@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-editor@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-editor@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-editor@RELEASE123?classifier=sources

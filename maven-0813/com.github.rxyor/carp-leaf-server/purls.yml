@@ -1,2 +1,4 @@
 - pkg:maven/com.github.rxyor/carp-leaf-server@1.0.14.13
 - pkg:maven/com.github.rxyor/carp-leaf-server@1.0.14.13?classifier=sources
+- pkg:maven/com.github.rxyor/carp-leaf-server@1.0.14.17
+- pkg:maven/com.github.rxyor/carp-leaf-server@1.0.14.17?classifier=sources

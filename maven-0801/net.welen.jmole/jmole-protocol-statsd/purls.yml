@@ -2,3 +2,5 @@
 - pkg:maven/net.welen.jmole/jmole-protocol-statsd@1.5.2?classifier=sources
 - pkg:maven/net.welen.jmole/jmole-protocol-statsd@1.5.3
 - pkg:maven/net.welen.jmole/jmole-protocol-statsd@1.5.3?classifier=sources
+- pkg:maven/net.welen.jmole/jmole-protocol-statsd@1.5.4
+- pkg:maven/net.welen.jmole/jmole-protocol-statsd@1.5.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.jvm123/meilisearch-spring-boot-starter@1.0
+- pkg:maven/com.jvm123/meilisearch-spring-boot-starter@1.0?classifier=sources
+- pkg:maven/com.jvm123/meilisearch-spring-boot-starter@1.1.0
+- pkg:maven/com.jvm123/meilisearch-spring-boot-starter@1.1.0?classifier=sources

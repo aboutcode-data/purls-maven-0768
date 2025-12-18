@@ -1,0 +1,2 @@
+- pkg:maven/com.deevvi/prometheus-exporter-for-aws-clients@1.0.0
+- pkg:maven/com.deevvi/prometheus-exporter-for-aws-clients@1.0.0?classifier=sources

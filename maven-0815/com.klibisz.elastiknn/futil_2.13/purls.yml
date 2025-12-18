@@ -1,0 +1,14 @@
+- pkg:maven/com.klibisz.elastiknn/futil_2.13@0.0.3-PRE6
+- pkg:maven/com.klibisz.elastiknn/futil_2.13@0.0.3-PRE6?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/futil_2.13@0.0.3-PRE7
+- pkg:maven/com.klibisz.elastiknn/futil_2.13@0.0.3-PRE7?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/futil_2.13@0.0.5-PRE1
+- pkg:maven/com.klibisz.elastiknn/futil_2.13@0.0.5-PRE1?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/futil_2.13@0.0.5-PRE7
+- pkg:maven/com.klibisz.elastiknn/futil_2.13@0.0.5-PRE7?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/futil_2.13@0.0.5-PRE8
+- pkg:maven/com.klibisz.elastiknn/futil_2.13@0.0.5-PRE8?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/futil_2.13@0.0.5-PRE9
+- pkg:maven/com.klibisz.elastiknn/futil_2.13@0.0.5-PRE9?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/futil_2.13@0.0.6
+- pkg:maven/com.klibisz.elastiknn/futil_2.13@0.0.6?classifier=sources

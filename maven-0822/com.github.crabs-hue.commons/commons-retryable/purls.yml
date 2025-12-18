@@ -16,3 +16,5 @@
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.7.0?classifier=sources
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.8.0
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.8.0?classifier=sources
+- pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.9.0
+- pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.9.0?classifier=sources

@@ -96,6 +96,10 @@
 - pkg:maven/com.zuunr.restbed/restbed-core@1.0.0.M51-bb122d7?classifier=sources
 - pkg:maven/com.zuunr.restbed/restbed-core@1.0.0.M52-5e16493
 - pkg:maven/com.zuunr.restbed/restbed-core@1.0.0.M52-5e16493?classifier=sources
+- pkg:maven/com.zuunr.restbed/restbed-core@1.0.0.M53-87aed73
+- pkg:maven/com.zuunr.restbed/restbed-core@1.0.0.M53-87aed73?classifier=sources
+- pkg:maven/com.zuunr.restbed/restbed-core@1.0.0.M54-bd5dd10
+- pkg:maven/com.zuunr.restbed/restbed-core@1.0.0.M54-bd5dd10?classifier=sources
 - pkg:maven/com.zuunr.restbed/restbed-core@1.0.0.M6-b2daa40
 - pkg:maven/com.zuunr.restbed/restbed-core@1.0.0.M6-b2daa40?classifier=sources
 - pkg:maven/com.zuunr.restbed/restbed-core@1.0.0.M7-3cd3271

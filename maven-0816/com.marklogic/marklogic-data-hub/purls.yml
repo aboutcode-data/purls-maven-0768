@@ -51,3 +51,4 @@
 - pkg:maven/com.marklogic/marklogic-data-hub@5.2.4?classifier=sources
 - pkg:maven/com.marklogic/marklogic-data-hub@5.2.5?classifier=sources
 - pkg:maven/com.marklogic/marklogic-data-hub@5.2.6?classifier=sources
+- pkg:maven/com.marklogic/marklogic-data-hub@5.4.0?classifier=sources

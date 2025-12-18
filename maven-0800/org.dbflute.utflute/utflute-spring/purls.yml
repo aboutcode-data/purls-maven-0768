@@ -254,3 +254,5 @@
 - pkg:maven/org.dbflute.utflute/utflute-spring@0.9.1-RC1
 - pkg:maven/org.dbflute.utflute/utflute-spring@0.9.1-RC1?classifier=sources
 - pkg:maven/org.dbflute.utflute/utflute-spring@0.9.1?classifier=sources
+- pkg:maven/org.dbflute.utflute/utflute-spring@0.9.2
+- pkg:maven/org.dbflute.utflute/utflute-spring@0.9.2?classifier=sources

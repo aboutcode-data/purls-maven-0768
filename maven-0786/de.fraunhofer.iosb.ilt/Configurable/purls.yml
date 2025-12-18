@@ -1,0 +1,2 @@
+- pkg:maven/de.fraunhofer.iosb.ilt/Configurable@0.30
+- pkg:maven/de.fraunhofer.iosb.ilt/Configurable@0.30?classifier=sources

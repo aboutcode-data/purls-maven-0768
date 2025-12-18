@@ -74,3 +74,5 @@
 - pkg:maven/com.blazebit/blaze-persistence-integration-hibernate-base@1.5.1?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-integration-hibernate-base@1.6.0-Alpha1
 - pkg:maven/com.blazebit/blaze-persistence-integration-hibernate-base@1.6.0-Alpha1?classifier=sources
+- pkg:maven/com.blazebit/blaze-persistence-integration-hibernate-base@1.6.0-Alpha2
+- pkg:maven/com.blazebit/blaze-persistence-integration-hibernate-base@1.6.0-Alpha2?classifier=sources

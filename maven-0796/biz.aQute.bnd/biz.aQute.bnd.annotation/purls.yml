@@ -34,3 +34,5 @@
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.annotation@5.1.2?classifier=sources
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.annotation@5.2.0
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.annotation@5.2.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.annotation@5.3.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.annotation@5.3.0?classifier=sources

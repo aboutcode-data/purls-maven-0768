@@ -6,3 +6,5 @@
 - pkg:maven/guru.nidi.maven.plugins/snippets-maven-plugin@0.0.3?classifier=sources
 - pkg:maven/guru.nidi.maven.plugins/snippets-maven-plugin@1.0.0
 - pkg:maven/guru.nidi.maven.plugins/snippets-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/guru.nidi.maven.plugins/snippets-maven-plugin@1.0.1
+- pkg:maven/guru.nidi.maven.plugins/snippets-maven-plugin@1.0.1?classifier=sources

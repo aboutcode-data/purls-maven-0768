@@ -5,3 +5,4 @@
 - pkg:maven/com.xenoamess/add-from-repo-maven-plugin@0.0.5
 - pkg:maven/com.xenoamess/add-from-repo-maven-plugin@0.0.6
 - pkg:maven/com.xenoamess/add-from-repo-maven-plugin@0.0.7
+- pkg:maven/com.xenoamess/add-from-repo-maven-plugin@0.0.8

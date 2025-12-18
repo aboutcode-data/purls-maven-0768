@@ -1,2 +1,4 @@
 - pkg:maven/cool.happycoding/happy-code-starter-web@1.0.0.RELEASE
 - pkg:maven/cool.happycoding/happy-code-starter-web@1.0.0.RELEASE?classifier=sources
+- pkg:maven/cool.happycoding/happy-code-starter-web@1.0.1.RELEASE
+- pkg:maven/cool.happycoding/happy-code-starter-web@1.0.1.RELEASE?classifier=sources

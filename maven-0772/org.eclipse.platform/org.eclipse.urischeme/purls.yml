@@ -18,3 +18,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.urischeme@1.1.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.urischeme@1.1.200
 - pkg:maven/org.eclipse.platform/org.eclipse.urischeme@1.1.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.urischeme@1.1.300
+- pkg:maven/org.eclipse.platform/org.eclipse.urischeme@1.1.300?classifier=sources

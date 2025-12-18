@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-core-nativeaccess@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-nativeaccess@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-nativeaccess@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-nativeaccess@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-nativeaccess@RELEASE90?classifier=sources

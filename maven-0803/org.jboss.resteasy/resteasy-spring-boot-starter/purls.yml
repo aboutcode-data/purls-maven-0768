@@ -46,6 +46,10 @@
 - pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@3.6.3.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@3.7.0.Final
 - pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@3.7.0.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@3.8.0.Final
+- pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@3.8.0.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@3.9.0.Final
+- pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@3.9.0.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@3.git%2520pu4.1.Final
 - pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@3.git%2520pu4.1.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@4.0.0.Final
@@ -74,3 +78,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@4.6.2.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@4.6.4.Final
 - pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@4.6.4.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@4.7.0.Final
+- pkg:maven/org.jboss.resteasy/resteasy-spring-boot-starter@4.7.0.Final?classifier=sources

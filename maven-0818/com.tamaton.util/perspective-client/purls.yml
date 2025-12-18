@@ -1,0 +1,2 @@
+- pkg:maven/com.tamaton.util/perspective-client@0.9.1
+- pkg:maven/com.tamaton.util/perspective-client@0.9.1?classifier=sources

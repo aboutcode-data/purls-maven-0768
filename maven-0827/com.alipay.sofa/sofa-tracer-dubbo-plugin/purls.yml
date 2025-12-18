@@ -34,3 +34,5 @@
 - pkg:maven/com.alipay.sofa/sofa-tracer-dubbo-plugin@3.0.8?classifier=sources
 - pkg:maven/com.alipay.sofa/sofa-tracer-dubbo-plugin@3.0.9
 - pkg:maven/com.alipay.sofa/sofa-tracer-dubbo-plugin@3.0.9?classifier=sources
+- pkg:maven/com.alipay.sofa/sofa-tracer-dubbo-plugin@3.1.0
+- pkg:maven/com.alipay.sofa/sofa-tracer-dubbo-plugin@3.1.0?classifier=sources

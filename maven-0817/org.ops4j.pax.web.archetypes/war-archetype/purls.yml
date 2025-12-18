@@ -120,6 +120,8 @@
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.2.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.2.20?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.2.21?classifier=sources
+- pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.2.22?classifier=sources
+- pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.2.23?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.2.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.2.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.2.4?classifier=sources
@@ -131,6 +133,8 @@
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.3.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.3.10?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.3.11?classifier=sources
+- pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.3.12?classifier=sources
+- pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.3.13?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.3.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.3.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.3.3?classifier=sources
@@ -140,3 +144,4 @@
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.3.7?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.3.8?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.3.9?classifier=sources
+- pkg:maven/org.ops4j.pax.web.archetypes/war-archetype@7.4.0?classifier=sources

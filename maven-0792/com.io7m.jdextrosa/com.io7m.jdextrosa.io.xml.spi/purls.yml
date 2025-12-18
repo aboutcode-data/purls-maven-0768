@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jdextrosa/com.io7m.jdextrosa.io.xml.spi@0.0.2
+- pkg:maven/com.io7m.jdextrosa/com.io7m.jdextrosa.io.xml.spi@0.0.2?classifier=sources

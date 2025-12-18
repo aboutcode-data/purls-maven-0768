@@ -1,0 +1,2 @@
+- pkg:maven/com.feiniaojin.grh/global-result-handler-example@1.0
+- pkg:maven/com.feiniaojin.grh/global-result-handler-example@1.0?classifier=sources

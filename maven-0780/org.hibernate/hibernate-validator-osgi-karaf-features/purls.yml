@@ -52,3 +52,4 @@
 - pkg:maven/org.hibernate/hibernate-validator-osgi-karaf-features@7.0.0.Alpha6
 - pkg:maven/org.hibernate/hibernate-validator-osgi-karaf-features@7.0.0.CR1
 - pkg:maven/org.hibernate/hibernate-validator-osgi-karaf-features@7.0.0.Final
+- pkg:maven/org.hibernate/hibernate-validator-osgi-karaf-features@7.0.1.Final

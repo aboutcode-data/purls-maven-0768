@@ -36,3 +36,5 @@
 - pkg:maven/org.webjars.npm/mime-db@1.44.0?classifier=sources
 - pkg:maven/org.webjars.npm/mime-db@1.45.0
 - pkg:maven/org.webjars.npm/mime-db@1.45.0?classifier=sources
+- pkg:maven/org.webjars.npm/mime-db@1.46.0
+- pkg:maven/org.webjars.npm/mime-db@1.46.0?classifier=sources

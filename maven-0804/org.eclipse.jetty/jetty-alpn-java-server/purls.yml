@@ -14,6 +14,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@10.0.0.beta3
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@10.0.0.beta3?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@10.0.0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@10.0.1
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@10.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@11.0.0
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@11.0.0-alpha0
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@11.0.0-alpha0?classifier=sources
@@ -24,6 +26,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@11.0.0.beta3
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@11.0.0.beta3?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@11.0.0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@11.0.1
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@11.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.3.21.RC0
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.3.21.RC0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.3.21.v20170918
@@ -108,6 +112,12 @@
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.34.v20201102?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.35.v20201120
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.35.v20201120?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.36.v20210114
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.36.v20210114?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.37.v20210219
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.37.v20210219?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.38.v20210224
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.38.v20210224?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.4.v20180619
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.4.v20180619?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.5.v20180619

@@ -48,3 +48,7 @@
 - pkg:maven/org.wso2.balana/org.wso2.balana@1.2.3?classifier=sources
 - pkg:maven/org.wso2.balana/org.wso2.balana@1.2.5
 - pkg:maven/org.wso2.balana/org.wso2.balana@1.2.5?classifier=sources
+- pkg:maven/org.wso2.balana/org.wso2.balana@1.2.6
+- pkg:maven/org.wso2.balana/org.wso2.balana@1.2.6?classifier=sources
+- pkg:maven/org.wso2.balana/org.wso2.balana@1.2.7
+- pkg:maven/org.wso2.balana/org.wso2.balana@1.2.7?classifier=sources

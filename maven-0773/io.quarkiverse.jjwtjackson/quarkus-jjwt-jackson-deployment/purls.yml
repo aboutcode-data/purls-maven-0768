@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.jjwtjackson/quarkus-jjwt-jackson-deployment@0.0.3
+- pkg:maven/io.quarkiverse.jjwtjackson/quarkus-jjwt-jackson-deployment@0.0.3?classifier=sources

@@ -52,6 +52,12 @@
 - pkg:maven/com.fireflysource/firefly-example@4.9.4?classifier=sources
 - pkg:maven/com.fireflysource/firefly-example@4.9.5
 - pkg:maven/com.fireflysource/firefly-example@4.9.5?classifier=sources
+- pkg:maven/com.fireflysource/firefly-example@5.0.0-alpha10
+- pkg:maven/com.fireflysource/firefly-example@5.0.0-alpha10?classifier=sources
+- pkg:maven/com.fireflysource/firefly-example@5.0.0-alpha8
+- pkg:maven/com.fireflysource/firefly-example@5.0.0-alpha8?classifier=sources
+- pkg:maven/com.fireflysource/firefly-example@5.0.0-alpha9
+- pkg:maven/com.fireflysource/firefly-example@5.0.0-alpha9?classifier=sources
 - pkg:maven/com.fireflysource/firefly-example@5.0.0-dev1
 - pkg:maven/com.fireflysource/firefly-example@5.0.0-dev1?classifier=sources
 - pkg:maven/com.fireflysource/firefly-example@5.0.0-dev2

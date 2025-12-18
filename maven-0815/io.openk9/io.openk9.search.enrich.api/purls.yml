@@ -1,0 +1,2 @@
+- pkg:maven/io.openk9/io.openk9.search.enrich.api@0.0.1-SNAPSHOTS
+- pkg:maven/io.openk9/io.openk9.search.enrich.api@0.0.1-SNAPSHOTS?classifier=sources

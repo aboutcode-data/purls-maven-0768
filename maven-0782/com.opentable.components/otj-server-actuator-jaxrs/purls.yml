@@ -64,3 +64,5 @@
 - pkg:maven/com.opentable.components/otj-server-actuator-jaxrs@5.2.3?classifier=sources
 - pkg:maven/com.opentable.components/otj-server-actuator-jaxrs@5.2.4
 - pkg:maven/com.opentable.components/otj-server-actuator-jaxrs@5.2.4?classifier=sources
+- pkg:maven/com.opentable.components/otj-server-actuator-jaxrs@5.2.5
+- pkg:maven/com.opentable.components/otj-server-actuator-jaxrs@5.2.5?classifier=sources

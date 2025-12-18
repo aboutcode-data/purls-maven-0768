@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.jackrabbit/oak-run-elastic@1.38.0
+- pkg:maven/org.apache.jackrabbit/oak-run-elastic@1.38.0?classifier=sources

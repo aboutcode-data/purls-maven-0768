@@ -1,0 +1,6 @@
+- pkg:maven/io.github.eaglesakura.workflowdispatcher/workflow-dispatcher-processor@1.1.2-beta01?classifier=sources
+- pkg:maven/io.github.eaglesakura.workflowdispatcher/workflow-dispatcher-processor@1.1.2?classifier=sources
+- pkg:maven/io.github.eaglesakura.workflowdispatcher/workflow-dispatcher-processor@1.1.3-beta01?classifier=sources
+- pkg:maven/io.github.eaglesakura.workflowdispatcher/workflow-dispatcher-processor@1.1.3?classifier=sources
+- pkg:maven/io.github.eaglesakura.workflowdispatcher/workflow-dispatcher-processor@1.2.0?classifier=sources
+- pkg:maven/io.github.eaglesakura.workflowdispatcher/workflow-dispatcher-processor@1.2.1?classifier=sources

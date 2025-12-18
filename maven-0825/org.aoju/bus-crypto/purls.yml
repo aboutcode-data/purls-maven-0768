@@ -208,3 +208,7 @@
 - pkg:maven/org.aoju/bus-crypto@6.1.6?classifier=sources
 - pkg:maven/org.aoju/bus-crypto@6.1.8
 - pkg:maven/org.aoju/bus-crypto@6.1.8?classifier=sources
+- pkg:maven/org.aoju/bus-crypto@6.1.9
+- pkg:maven/org.aoju/bus-crypto@6.1.9?classifier=sources
+- pkg:maven/org.aoju/bus-crypto@6.2.1
+- pkg:maven/org.aoju/bus-crypto@6.2.1?classifier=sources

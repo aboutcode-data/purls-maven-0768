@@ -1,0 +1,2 @@
+- pkg:maven/de.devpeak.ultra/logging@0.17.1?classifier=sources
+- pkg:maven/de.devpeak.ultra/logging@0.17.2?classifier=sources

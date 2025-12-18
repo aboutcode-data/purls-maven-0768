@@ -8,3 +8,7 @@
 - pkg:maven/com.kjetland.akka-http-tools/akka-http-tools-parent_2.12@0.4?classifier=sources
 - pkg:maven/com.kjetland.akka-http-tools/akka-http-tools-parent_2.12@0.5
 - pkg:maven/com.kjetland.akka-http-tools/akka-http-tools-parent_2.12@0.5?classifier=sources
+- pkg:maven/com.kjetland.akka-http-tools/akka-http-tools-parent_2.12@0.6
+- pkg:maven/com.kjetland.akka-http-tools/akka-http-tools-parent_2.12@0.6?classifier=sources
+- pkg:maven/com.kjetland.akka-http-tools/akka-http-tools-parent_2.12@0.7
+- pkg:maven/com.kjetland.akka-http-tools/akka-http-tools-parent_2.12@0.7?classifier=sources

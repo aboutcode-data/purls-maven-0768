@@ -1,0 +1,2 @@
+- pkg:maven/net.maffoo/jsonquote-lift_2.11@0.6.1
+- pkg:maven/net.maffoo/jsonquote-lift_2.11@0.6.1?classifier=sources

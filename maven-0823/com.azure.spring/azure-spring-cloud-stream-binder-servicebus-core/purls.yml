@@ -2,3 +2,7 @@
 - pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-servicebus-core@2.0.0-beta.1
 - pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-servicebus-core@2.0.0-beta.1?classifier=sources
 - pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-servicebus-core@2.0.0?classifier=sources
+- pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-servicebus-core@2.1.0
+- pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-servicebus-core@2.1.0?classifier=sources
+- pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-servicebus-core@2.2.0
+- pkg:maven/com.azure.spring/azure-spring-cloud-stream-binder-servicebus-core@2.2.0?classifier=sources

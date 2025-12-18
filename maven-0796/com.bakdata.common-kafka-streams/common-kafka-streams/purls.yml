@@ -60,3 +60,5 @@
 - pkg:maven/com.bakdata.common-kafka-streams/common-kafka-streams@1.5.3?classifier=sources
 - pkg:maven/com.bakdata.common-kafka-streams/common-kafka-streams@1.5.4
 - pkg:maven/com.bakdata.common-kafka-streams/common-kafka-streams@1.5.4?classifier=sources
+- pkg:maven/com.bakdata.common-kafka-streams/common-kafka-streams@1.5.5
+- pkg:maven/com.bakdata.common-kafka-streams/common-kafka-streams@1.5.5?classifier=sources

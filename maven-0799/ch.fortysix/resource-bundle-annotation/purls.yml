@@ -1,0 +1,2 @@
+- pkg:maven/ch.fortysix/resource-bundle-annotation@0.0.3
+- pkg:maven/ch.fortysix/resource-bundle-annotation@0.0.3?classifier=sources

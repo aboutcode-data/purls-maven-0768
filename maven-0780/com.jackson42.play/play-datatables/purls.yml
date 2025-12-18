@@ -1,0 +1,2 @@
+- pkg:maven/com.jackson42.play/play-datatables@21.03
+- pkg:maven/com.jackson42.play/play-datatables@21.03?classifier=sources

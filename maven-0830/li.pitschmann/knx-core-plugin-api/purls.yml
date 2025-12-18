@@ -10,3 +10,9 @@
 - pkg:maven/li.pitschmann/knx-core-plugin-api@0.1.0?classifier=sources
 - pkg:maven/li.pitschmann/knx-core-plugin-api@0.2.0
 - pkg:maven/li.pitschmann/knx-core-plugin-api@0.2.0?classifier=sources
+- pkg:maven/li.pitschmann/knx-core-plugin-api@0.2.1
+- pkg:maven/li.pitschmann/knx-core-plugin-api@0.2.1?classifier=sources
+- pkg:maven/li.pitschmann/knx-core-plugin-api@0.3.0
+- pkg:maven/li.pitschmann/knx-core-plugin-api@0.3.0?classifier=sources
+- pkg:maven/li.pitschmann/knx-core-plugin-api@0.4.0
+- pkg:maven/li.pitschmann/knx-core-plugin-api@0.4.0?classifier=sources

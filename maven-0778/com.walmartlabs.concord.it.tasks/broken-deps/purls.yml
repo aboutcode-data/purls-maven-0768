@@ -109,6 +109,13 @@
 - pkg:maven/com.walmartlabs.concord.it.tasks/broken-deps@1.76.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it.tasks/broken-deps@1.76.1?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it.tasks/broken-deps@1.77.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/broken-deps@1.78.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/broken-deps@1.79.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/broken-deps@1.79.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/broken-deps@1.79.2?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it.tasks/broken-deps@1.8.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it.tasks/broken-deps@1.8.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/broken-deps@1.80.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/broken-deps@1.81.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it.tasks/broken-deps@1.82.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it.tasks/broken-deps@1.9.0?classifier=sources

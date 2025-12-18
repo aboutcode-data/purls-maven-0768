@@ -1,0 +1,2 @@
+- pkg:maven/dev.sharek/handy-spark_2.12@2.4-1.0.0
+- pkg:maven/dev.sharek/handy-spark_2.12@2.4-1.0.0?classifier=sources

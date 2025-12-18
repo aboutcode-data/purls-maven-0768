@@ -1,2 +1,6 @@
 - pkg:maven/org.hpccsystems/jdbcdriver@1.0.0
 - pkg:maven/org.hpccsystems/jdbcdriver@1.0.0?classifier=sources
+- pkg:maven/org.hpccsystems/jdbcdriver@1.0.2
+- pkg:maven/org.hpccsystems/jdbcdriver@1.0.2?classifier=sources
+- pkg:maven/org.hpccsystems/jdbcdriver@1.0.4
+- pkg:maven/org.hpccsystems/jdbcdriver@1.0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.debezium/debezium-ide-configs@1.5.0.Beta2
+- pkg:maven/io.debezium/debezium-ide-configs@1.5.0.Beta2?classifier=sources

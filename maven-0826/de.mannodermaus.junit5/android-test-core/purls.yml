@@ -1,0 +1,2 @@
+- pkg:maven/de.mannodermaus.junit5/android-test-core@1.2.1?classifier=sources
+- pkg:maven/de.mannodermaus.junit5/android-test-core@1.2.2?classifier=sources

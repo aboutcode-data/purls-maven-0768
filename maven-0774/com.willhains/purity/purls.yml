@@ -6,3 +6,4 @@
 - pkg:maven/com.willhains/purity@0.16?classifier=sources
 - pkg:maven/com.willhains/purity@0.17
 - pkg:maven/com.willhains/purity@0.17?classifier=sources
+- pkg:maven/com.willhains/purity@0.18

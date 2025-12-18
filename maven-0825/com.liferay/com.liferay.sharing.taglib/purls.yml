@@ -74,6 +74,12 @@
 - pkg:maven/com.liferay/com.liferay.sharing.taglib@2.0.21
 - pkg:maven/com.liferay/com.liferay.sharing.taglib@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.taglib@2.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sharing.taglib@2.0.23
+- pkg:maven/com.liferay/com.liferay.sharing.taglib@2.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharing.taglib@2.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sharing.taglib@2.0.24
+- pkg:maven/com.liferay/com.liferay.sharing.taglib@2.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharing.taglib@2.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.taglib@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.taglib@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.taglib@2.0.3

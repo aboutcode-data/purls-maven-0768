@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.ide@3.17.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.ide@3.18.0
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.ide@3.18.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.ide@3.18.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.ide@3.18.100?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.embulk/embulk-util-guess@0.1.0?classifier=sources
+- pkg:maven/org.embulk/embulk-util-guess@0.1.1?classifier=sources

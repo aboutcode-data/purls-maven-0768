@@ -14,3 +14,5 @@
 - pkg:maven/com.github.bjansen/swagger-schema-validator@0.4.0?classifier=sources
 - pkg:maven/com.github.bjansen/swagger-schema-validator@0.4.1
 - pkg:maven/com.github.bjansen/swagger-schema-validator@0.4.1?classifier=sources
+- pkg:maven/com.github.bjansen/swagger-schema-validator@1.0.0
+- pkg:maven/com.github.bjansen/swagger-schema-validator@1.0.0?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/com.github.yaoguoh/common-exception@2.3.5.RELEASE?classifier=sources
 - pkg:maven/com.github.yaoguoh/common-exception@2.3.7.RELEASE
 - pkg:maven/com.github.yaoguoh/common-exception@2.3.7.RELEASE?classifier=sources
+- pkg:maven/com.github.yaoguoh/common-exception@2.4.3
+- pkg:maven/com.github.yaoguoh/common-exception@2.4.3?classifier=sources

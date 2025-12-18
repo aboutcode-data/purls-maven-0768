@@ -1,0 +1,2 @@
+- pkg:maven/com.applovin.mediation/google-adapter@19.7.0.2?classifier=sources
+- pkg:maven/com.applovin.mediation/google-adapter@19.7.0.2?type=aar

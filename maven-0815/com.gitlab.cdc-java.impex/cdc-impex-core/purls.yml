@@ -1,0 +1,4 @@
+- pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-core@0.3.0
+- pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-core@0.3.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-core@0.4.0
+- pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-core@0.4.0?classifier=sources

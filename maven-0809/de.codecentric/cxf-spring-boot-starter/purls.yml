@@ -36,3 +36,5 @@
 - pkg:maven/de.codecentric/cxf-spring-boot-starter@2.3.0.RELEASE?classifier=sources
 - pkg:maven/de.codecentric/cxf-spring-boot-starter@2.3.1-jaxb-jaxws-3.0.0-M4
 - pkg:maven/de.codecentric/cxf-spring-boot-starter@2.3.1-jaxb-jaxws-3.0.0-M4?classifier=sources
+- pkg:maven/de.codecentric/cxf-spring-boot-starter@2.4.1
+- pkg:maven/de.codecentric/cxf-spring-boot-starter@2.4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-secret-manager@0.5.0
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-secret-manager@0.5.0?classifier=sources

@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.api/org-openide-execution@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-execution@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-execution@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-execution@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-execution@RELEASE90?classifier=sources

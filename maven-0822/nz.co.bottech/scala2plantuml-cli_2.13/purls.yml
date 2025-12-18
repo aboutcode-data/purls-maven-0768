@@ -1,0 +1,8 @@
+- pkg:maven/nz.co.bottech/scala2plantuml-cli_2.13@0.1.12
+- pkg:maven/nz.co.bottech/scala2plantuml-cli_2.13@0.1.12?classifier=sources
+- pkg:maven/nz.co.bottech/scala2plantuml-cli_2.13@0.1.13
+- pkg:maven/nz.co.bottech/scala2plantuml-cli_2.13@0.1.13?classifier=sources
+- pkg:maven/nz.co.bottech/scala2plantuml-cli_2.13@0.2.0
+- pkg:maven/nz.co.bottech/scala2plantuml-cli_2.13@0.2.0?classifier=sources
+- pkg:maven/nz.co.bottech/scala2plantuml-cli_2.13@0.3.0
+- pkg:maven/nz.co.bottech/scala2plantuml-cli_2.13@0.3.0?classifier=sources

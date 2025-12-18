@@ -1,0 +1,4 @@
+- pkg:maven/de.tisoft.rsyntaxtextarea/rsyntaxtextarea-antlr4-extension@0.0.1
+- pkg:maven/de.tisoft.rsyntaxtextarea/rsyntaxtextarea-antlr4-extension@0.0.1?classifier=sources
+- pkg:maven/de.tisoft.rsyntaxtextarea/rsyntaxtextarea-antlr4-extension@0.0.2
+- pkg:maven/de.tisoft.rsyntaxtextarea/rsyntaxtextarea-antlr4-extension@0.0.2?classifier=sources

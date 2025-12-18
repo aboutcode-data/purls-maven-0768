@@ -1,0 +1,2 @@
+- pkg:maven/org.rationalityfrontline/jxtp@2.2.25.5-1.0.0?classifier=sources
+- pkg:maven/org.rationalityfrontline/jxtp@2.2.25.5-1.0.1?classifier=sources

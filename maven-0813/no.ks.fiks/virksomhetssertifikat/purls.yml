@@ -4,3 +4,5 @@
 - pkg:maven/no.ks.fiks/virksomhetssertifikat@1.0.11?classifier=sources
 - pkg:maven/no.ks.fiks/virksomhetssertifikat@1.1.0
 - pkg:maven/no.ks.fiks/virksomhetssertifikat@1.1.0?classifier=sources
+- pkg:maven/no.ks.fiks/virksomhetssertifikat@1.1.1
+- pkg:maven/no.ks.fiks/virksomhetssertifikat@1.1.1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.graphql-java/graphql-java-extended-validation@14.0.1?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-extended-validation@15.0.1
 - pkg:maven/com.graphql-java/graphql-java-extended-validation@15.0.1?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-extended-validation@16.0.0
+- pkg:maven/com.graphql-java/graphql-java-extended-validation@16.0.0?classifier=sources

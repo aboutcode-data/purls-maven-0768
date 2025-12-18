@@ -29,3 +29,4 @@
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-cma-feature@3.29.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-cma-feature@3.29.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-cma-feature@3.29.2-02?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-cma-feature@3.30.0-01?classifier=sources

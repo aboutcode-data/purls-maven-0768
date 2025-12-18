@@ -24,3 +24,13 @@
 - pkg:maven/com.google.cloud/google-cloud-memcache@0.2.7?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-memcache@0.2.8
 - pkg:maven/com.google.cloud/google-cloud-memcache@0.2.8?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-memcache@0.3.0
+- pkg:maven/com.google.cloud/google-cloud-memcache@0.3.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-memcache@0.4.0
+- pkg:maven/com.google.cloud/google-cloud-memcache@0.4.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-memcache@1.0.0
+- pkg:maven/com.google.cloud/google-cloud-memcache@1.0.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-memcache@1.0.1
+- pkg:maven/com.google.cloud/google-cloud-memcache@1.0.1?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-memcache@1.0.2
+- pkg:maven/com.google.cloud/google-cloud-memcache@1.0.2?classifier=sources

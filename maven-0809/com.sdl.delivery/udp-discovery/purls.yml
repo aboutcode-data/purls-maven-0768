@@ -1,0 +1,2 @@
+- pkg:maven/com.sdl.delivery/udp-discovery@11.0.1-1021
+- pkg:maven/com.sdl.delivery/udp-discovery@11.0.1-1021?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.st235/assertion-utils@1.1.0?classifier=sources
+- pkg:maven/com.github.st235/assertion-utils@1.1.0?type=aar

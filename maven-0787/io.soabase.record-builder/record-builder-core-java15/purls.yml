@@ -1,0 +1,2 @@
+- pkg:maven/io.soabase.record-builder/record-builder-core-java15@1.17
+- pkg:maven/io.soabase.record-builder/record-builder-core-java15@1.17?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/br.com.caelum.stella/faces-example-1x@2.1.4-beta1?type=war
 - pkg:maven/br.com.caelum.stella/faces-example-1x@2.1.4?classifier=sources
 - pkg:maven/br.com.caelum.stella/faces-example-1x@2.1.4?type=war
+- pkg:maven/br.com.caelum.stella/faces-example-1x@2.1.5?classifier=sources
+- pkg:maven/br.com.caelum.stella/faces-example-1x@2.1.5?type=war

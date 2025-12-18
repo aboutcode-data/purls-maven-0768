@@ -1,0 +1,2 @@
+- pkg:maven/com.github.piotrkot.takes/takes@1.19.1
+- pkg:maven/com.github.piotrkot.takes/takes@1.19.1?classifier=sources

@@ -14,3 +14,9 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-servlet@20.8.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-servlet@20.9.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-servlet@20.9.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-servlet@21.1.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-servlet@21.1.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-servlet@21.2.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-servlet@21.2.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-servlet@21.3.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-servlet@21.3.0?classifier=sources

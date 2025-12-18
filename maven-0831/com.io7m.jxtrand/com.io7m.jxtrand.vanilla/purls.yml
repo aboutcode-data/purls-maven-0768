@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jxtrand/com.io7m.jxtrand.vanilla@1.0.0
+- pkg:maven/com.io7m.jxtrand/com.io7m.jxtrand.vanilla@1.0.0?classifier=sources

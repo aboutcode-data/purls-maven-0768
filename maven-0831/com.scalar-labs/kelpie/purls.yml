@@ -1,3 +1,4 @@
 - pkg:maven/com.scalar-labs/kelpie@1.0.0?classifier=sources
 - pkg:maven/com.scalar-labs/kelpie@1.1.0?classifier=sources
 - pkg:maven/com.scalar-labs/kelpie@1.1.1?classifier=sources
+- pkg:maven/com.scalar-labs/kelpie@1.2.0?classifier=sources

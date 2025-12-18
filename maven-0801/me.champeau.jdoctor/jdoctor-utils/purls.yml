@@ -1,0 +1,2 @@
+- pkg:maven/me.champeau.jdoctor/jdoctor-utils@0.1.1?classifier=sources
+- pkg:maven/me.champeau.jdoctor/jdoctor-utils@0.1?classifier=sources

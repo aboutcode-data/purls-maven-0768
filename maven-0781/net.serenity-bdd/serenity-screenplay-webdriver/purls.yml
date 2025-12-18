@@ -491,9 +491,17 @@
 - pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.10?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.12
 - pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.12?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.13
+- pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.13?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.1?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.2
+- pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.26
+- pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.26?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.2?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.30
+- pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.30?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.31
+- pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.31?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.4
 - pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.4?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.3.5

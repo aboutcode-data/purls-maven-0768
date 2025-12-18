@@ -1,0 +1,2 @@
+- pkg:maven/dev.zio/zio-logging-slf4j_3.0.0-M3@0.5.7
+- pkg:maven/dev.zio/zio-logging-slf4j_3.0.0-M3@0.5.7?classifier=sources

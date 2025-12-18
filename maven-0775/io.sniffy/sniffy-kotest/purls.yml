@@ -1,4 +1,8 @@
+- pkg:maven/io.sniffy/sniffy-kotest@3.1.10
+- pkg:maven/io.sniffy/sniffy-kotest@3.1.10?classifier=sources
 - pkg:maven/io.sniffy/sniffy-kotest@3.1.7
 - pkg:maven/io.sniffy/sniffy-kotest@3.1.7?classifier=sources
 - pkg:maven/io.sniffy/sniffy-kotest@3.1.8
 - pkg:maven/io.sniffy/sniffy-kotest@3.1.8?classifier=sources
+- pkg:maven/io.sniffy/sniffy-kotest@3.1.9
+- pkg:maven/io.sniffy/sniffy-kotest@3.1.9?classifier=sources

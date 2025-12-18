@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/juqery@3.2.1
 - pkg:maven/org.webjars.bower/juqery@3.2.1?classifier=sources
+- pkg:maven/org.webjars.bower/juqery@3.3.1
+- pkg:maven/org.webjars.bower/juqery@3.3.1?classifier=sources

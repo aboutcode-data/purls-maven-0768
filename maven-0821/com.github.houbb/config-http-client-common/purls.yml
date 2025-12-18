@@ -1,0 +1,2 @@
+- pkg:maven/com.github.houbb/config-http-client-common@1.0.0
+- pkg:maven/com.github.houbb/config-http-client-common@1.0.0?classifier=sources

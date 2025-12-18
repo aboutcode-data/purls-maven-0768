@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.cloud/schematics-common@1.0.1
+- pkg:maven/com.ibm.cloud/schematics-common@1.0.1?classifier=sources

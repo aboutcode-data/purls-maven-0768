@@ -1,0 +1,2 @@
+- pkg:maven/com.heutelbeck/base64uuid@1.0.0
+- pkg:maven/com.heutelbeck/base64uuid@1.0.0?classifier=sources

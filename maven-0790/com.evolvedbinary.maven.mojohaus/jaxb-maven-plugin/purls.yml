@@ -1,0 +1,3 @@
+- pkg:maven/com.evolvedbinary.maven.mojohaus/jaxb-maven-plugin@3.0.0
+- pkg:maven/com.evolvedbinary.maven.mojohaus/jaxb-maven-plugin@3.0.0?classifier=source-release&type=zip
+- pkg:maven/com.evolvedbinary.maven.mojohaus/jaxb-maven-plugin@3.0.0?classifier=sources

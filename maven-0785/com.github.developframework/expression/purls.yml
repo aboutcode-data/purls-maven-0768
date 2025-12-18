@@ -22,3 +22,5 @@
 - pkg:maven/com.github.developframework/expression@1.4.0?classifier=sources
 - pkg:maven/com.github.developframework/expression@1.5.0
 - pkg:maven/com.github.developframework/expression@1.5.0?classifier=sources
+- pkg:maven/com.github.developframework/expression@1.5.1
+- pkg:maven/com.github.developframework/expression@1.5.1?classifier=sources

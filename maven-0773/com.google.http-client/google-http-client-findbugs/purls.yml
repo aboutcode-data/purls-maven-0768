@@ -60,3 +60,7 @@
 - pkg:maven/com.google.http-client/google-http-client-findbugs@1.37.0?classifier=sources
 - pkg:maven/com.google.http-client/google-http-client-findbugs@1.38.0
 - pkg:maven/com.google.http-client/google-http-client-findbugs@1.38.0?classifier=sources
+- pkg:maven/com.google.http-client/google-http-client-findbugs@1.38.1
+- pkg:maven/com.google.http-client/google-http-client-findbugs@1.38.1?classifier=sources
+- pkg:maven/com.google.http-client/google-http-client-findbugs@1.39.0
+- pkg:maven/com.google.http-client/google-http-client-findbugs@1.39.0?classifier=sources

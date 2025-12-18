@@ -1,1 +1,4 @@
 - pkg:maven/io.trino/trino-teradata-functions@351?classifier=sources
+- pkg:maven/io.trino/trino-teradata-functions@352?classifier=sources
+- pkg:maven/io.trino/trino-teradata-functions@353?classifier=sources
+- pkg:maven/io.trino/trino-teradata-functions@354?classifier=sources

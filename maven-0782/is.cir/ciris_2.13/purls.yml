@@ -18,3 +18,5 @@
 - pkg:maven/is.cir/ciris_2.13@1.2.0?classifier=sources
 - pkg:maven/is.cir/ciris_2.13@1.2.1
 - pkg:maven/is.cir/ciris_2.13@1.2.1?classifier=sources
+- pkg:maven/is.cir/ciris_2.13@2.0.0-RC1
+- pkg:maven/is.cir/ciris_2.13@2.0.0-RC1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.iceflower/rxjava-spring-boot-starter@3.0.2
+- pkg:maven/io.iceflower/rxjava-spring-boot-starter@3.0.2?classifier=sources

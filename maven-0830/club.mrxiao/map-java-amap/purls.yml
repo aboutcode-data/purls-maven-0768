@@ -1,0 +1,4 @@
+- pkg:maven/club.mrxiao/map-java-amap@2.0.3
+- pkg:maven/club.mrxiao/map-java-amap@2.0.3?classifier=sources
+- pkg:maven/club.mrxiao/map-java-amap@2.0.4
+- pkg:maven/club.mrxiao/map-java-amap@2.0.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.github.kozlovzxc/maven-central-test@1.0.0
+- pkg:maven/com.github.kozlovzxc/maven-central-test@1.0.0?classifier=sources
+- pkg:maven/com.github.kozlovzxc/maven-central-test@1.0.1?classifier=sources
+- pkg:maven/com.github.kozlovzxc/maven-central-test@1.0.3?classifier=sources
+- pkg:maven/com.github.kozlovzxc/maven-central-test@1.1.0?classifier=sources
+- pkg:maven/com.github.kozlovzxc/maven-central-test@1.1.1?classifier=sources

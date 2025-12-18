@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.resources@3.13.800?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.resources@3.13.900
 - pkg:maven/org.eclipse.platform/org.eclipse.core.resources@3.13.900?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.resources@3.14.0
+- pkg:maven/org.eclipse.platform/org.eclipse.core.resources@3.14.0?classifier=sources

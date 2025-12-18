@@ -18,6 +18,8 @@
 - pkg:maven/org.gridkit.jvmtool/hprof-heap@0.16
 - pkg:maven/org.gridkit.jvmtool/hprof-heap@0.16?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/hprof-heap@0.1?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/hprof-heap@0.2
+- pkg:maven/org.gridkit.jvmtool/hprof-heap@0.2?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/hprof-heap@0.3
 - pkg:maven/org.gridkit.jvmtool/hprof-heap@0.3.1
 - pkg:maven/org.gridkit.jvmtool/hprof-heap@0.3.1?classifier=sources

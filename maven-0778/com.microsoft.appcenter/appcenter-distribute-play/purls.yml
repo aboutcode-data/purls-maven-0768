@@ -1,0 +1,8 @@
+- pkg:maven/com.microsoft.appcenter/appcenter-distribute-play@3.3.0?classifier=sources
+- pkg:maven/com.microsoft.appcenter/appcenter-distribute-play@3.3.0?type=aar
+- pkg:maven/com.microsoft.appcenter/appcenter-distribute-play@3.3.1?classifier=sources
+- pkg:maven/com.microsoft.appcenter/appcenter-distribute-play@3.3.1?type=aar
+- pkg:maven/com.microsoft.appcenter/appcenter-distribute-play@4.0.0?classifier=sources
+- pkg:maven/com.microsoft.appcenter/appcenter-distribute-play@4.0.0?type=aar
+- pkg:maven/com.microsoft.appcenter/appcenter-distribute-play@4.1.0?classifier=sources
+- pkg:maven/com.microsoft.appcenter/appcenter-distribute-play@4.1.0?type=aar

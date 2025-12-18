@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-sun-dd@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-sun-dd@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-sun-dd@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-sun-dd@RELEASE123?classifier=sources

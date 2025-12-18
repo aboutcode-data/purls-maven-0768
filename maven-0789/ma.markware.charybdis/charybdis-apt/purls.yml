@@ -12,3 +12,7 @@
 - pkg:maven/ma.markware.charybdis/charybdis-apt@2.3.0?classifier=sources
 - pkg:maven/ma.markware.charybdis/charybdis-apt@2.3.1
 - pkg:maven/ma.markware.charybdis/charybdis-apt@2.3.1?classifier=sources
+- pkg:maven/ma.markware.charybdis/charybdis-apt@2.4.0
+- pkg:maven/ma.markware.charybdis/charybdis-apt@2.4.0?classifier=sources
+- pkg:maven/ma.markware.charybdis/charybdis-apt@2.4.1
+- pkg:maven/ma.markware.charybdis/charybdis-apt@2.4.1?classifier=sources
