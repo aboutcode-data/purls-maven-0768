@@ -30,3 +30,15 @@
 - pkg:maven/io.prestosql/presto-testing-docker@321?classifier=sources
 - pkg:maven/io.prestosql/presto-testing-docker@322
 - pkg:maven/io.prestosql/presto-testing-docker@322?classifier=sources
+- pkg:maven/io.prestosql/presto-testing-docker@323
+- pkg:maven/io.prestosql/presto-testing-docker@323?classifier=sources
+- pkg:maven/io.prestosql/presto-testing-docker@324
+- pkg:maven/io.prestosql/presto-testing-docker@324?classifier=sources
+- pkg:maven/io.prestosql/presto-testing-docker@325
+- pkg:maven/io.prestosql/presto-testing-docker@325?classifier=sources
+- pkg:maven/io.prestosql/presto-testing-docker@326
+- pkg:maven/io.prestosql/presto-testing-docker@326?classifier=sources
+- pkg:maven/io.prestosql/presto-testing-docker@327
+- pkg:maven/io.prestosql/presto-testing-docker@327?classifier=sources
+- pkg:maven/io.prestosql/presto-testing-docker@328
+- pkg:maven/io.prestosql/presto-testing-docker@328?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.dragonli.service/dragonli-jpa-tools@0.9.0
+- pkg:maven/org.dragonli.service/dragonli-jpa-tools@0.9.0?classifier=sources

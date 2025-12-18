@@ -1,2 +1,4 @@
+- pkg:maven/jp.dodododo/samurai-dao-dialect-mysql-8@1.2.0
 - pkg:maven/jp.dodododo/samurai-dao-dialect-mysql-8@1.2.0-RC1
 - pkg:maven/jp.dodododo/samurai-dao-dialect-mysql-8@1.2.0-RC1?classifier=sources
+- pkg:maven/jp.dodododo/samurai-dao-dialect-mysql-8@1.2.0?classifier=sources

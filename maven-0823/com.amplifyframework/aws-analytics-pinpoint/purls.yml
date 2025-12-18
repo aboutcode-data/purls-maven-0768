@@ -1,0 +1,2 @@
+- pkg:maven/com.amplifyframework/aws-analytics-pinpoint@0.9.0?classifier=sources
+- pkg:maven/com.amplifyframework/aws-analytics-pinpoint@0.9.0?type=aar

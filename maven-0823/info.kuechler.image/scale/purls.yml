@@ -1,0 +1,2 @@
+- pkg:maven/info.kuechler.image/scale@0.1.0
+- pkg:maven/info.kuechler.image/scale@0.1.0?classifier=sources

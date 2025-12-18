@@ -2,3 +2,5 @@
 - pkg:maven/se.mdh/mdh-maven-build-tools@27?classifier=sources
 - pkg:maven/se.mdh/mdh-maven-build-tools@28
 - pkg:maven/se.mdh/mdh-maven-build-tools@28?classifier=sources
+- pkg:maven/se.mdh/mdh-maven-build-tools@29
+- pkg:maven/se.mdh/mdh-maven-build-tools@29?classifier=sources

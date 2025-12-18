@@ -58,6 +58,8 @@
 - pkg:maven/io.zipkin.aws/zipkin-collector-kinesis@0.18.1?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-collector-kinesis@0.19.0
 - pkg:maven/io.zipkin.aws/zipkin-collector-kinesis@0.19.0?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-collector-kinesis@0.19.1
+- pkg:maven/io.zipkin.aws/zipkin-collector-kinesis@0.19.1?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-collector-kinesis@0.3.0
 - pkg:maven/io.zipkin.aws/zipkin-collector-kinesis@0.3.0?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-collector-kinesis@0.3.1

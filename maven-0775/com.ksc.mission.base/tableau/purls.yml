@@ -4,3 +4,5 @@
 - pkg:maven/com.ksc.mission.base/tableau@1.2.4.12?classifier=sources
 - pkg:maven/com.ksc.mission.base/tableau@1.2.4.9
 - pkg:maven/com.ksc.mission.base/tableau@1.2.4.9?classifier=sources
+- pkg:maven/com.ksc.mission.base/tableau@1.2.6
+- pkg:maven/com.ksc.mission.base/tableau@1.2.6?classifier=sources

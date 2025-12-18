@@ -1,2 +1,4 @@
 - pkg:maven/org.rapidpm.vaadin/i18n-page-title-for-flow@00.08.03-RPM
 - pkg:maven/org.rapidpm.vaadin/i18n-page-title-for-flow@00.08.03-RPM?classifier=sources
+- pkg:maven/org.rapidpm.vaadin/i18n-page-title-for-flow@00.08.04-RPM
+- pkg:maven/org.rapidpm.vaadin/i18n-page-title-for-flow@00.08.04-RPM?classifier=sources

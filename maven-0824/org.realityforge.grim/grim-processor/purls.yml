@@ -4,3 +4,5 @@
 - pkg:maven/org.realityforge.grim/grim-processor@0.02?classifier=sources
 - pkg:maven/org.realityforge.grim/grim-processor@0.03
 - pkg:maven/org.realityforge.grim/grim-processor@0.03?classifier=sources
+- pkg:maven/org.realityforge.grim/grim-processor@0.04
+- pkg:maven/org.realityforge.grim/grim-processor@0.04?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.bitbucket.inkytonik.kiama/kiama_2.12@2.2.0?classifier=sources
 - pkg:maven/org.bitbucket.inkytonik.kiama/kiama_2.12@2.2.1
 - pkg:maven/org.bitbucket.inkytonik.kiama/kiama_2.12@2.2.1?classifier=sources
+- pkg:maven/org.bitbucket.inkytonik.kiama/kiama_2.12@2.3.0
+- pkg:maven/org.bitbucket.inkytonik.kiama/kiama_2.12@2.3.0?classifier=sources

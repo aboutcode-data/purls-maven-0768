@@ -1,2 +1,5 @@
 - pkg:maven/io.siddhi.extension.map.protobuf/siddhi-map-protobuf-parent@1.0.0?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.map.protobuf/siddhi-map-protobuf-parent@1.0.1?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.map.protobuf/siddhi-map-protobuf-parent@1.0.2?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.map.protobuf/siddhi-map-protobuf-parent@1.0.3?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.map.protobuf/siddhi-map-protobuf-parent@1.0.4?classifier=source-release&type=zip

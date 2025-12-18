@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/tui-code-snippet@1.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/tui-code-snippet@1.5.2
 - pkg:maven/org.webjars.npm/tui-code-snippet@1.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/tui-code-snippet@2.2.0
+- pkg:maven/org.webjars.npm/tui-code-snippet@2.2.0?classifier=sources

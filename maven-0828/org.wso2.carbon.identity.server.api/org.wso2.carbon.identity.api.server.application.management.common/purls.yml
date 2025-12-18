@@ -1,0 +1,16 @@
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.52
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.52?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.53
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.53?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.54
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.54?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.55
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.55?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.56
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.56?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.57
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.57?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.58
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.58?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.59
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.59?classifier=sources

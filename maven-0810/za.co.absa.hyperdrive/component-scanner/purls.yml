@@ -1,2 +1,4 @@
 - pkg:maven/za.co.absa.hyperdrive/component-scanner@1.0.0
 - pkg:maven/za.co.absa.hyperdrive/component-scanner@1.0.0?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/component-scanner@2.0.0
+- pkg:maven/za.co.absa.hyperdrive/component-scanner@2.0.0?classifier=sources

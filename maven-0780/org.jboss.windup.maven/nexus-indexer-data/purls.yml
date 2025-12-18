@@ -4,6 +4,8 @@
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data@19.1.0.Final?type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data@19.10.23.Final?classifier=sources
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data@19.10.23.Final?type=zip
+- pkg:maven/org.jboss.windup.maven/nexus-indexer-data@19.11.14.Final?classifier=sources
+- pkg:maven/org.jboss.windup.maven/nexus-indexer-data@19.11.14.Final?type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data@6.0?classifier=sources
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data@6.0?type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data@6.1?classifier=sources

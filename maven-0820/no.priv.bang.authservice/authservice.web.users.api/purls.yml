@@ -22,3 +22,13 @@
 - pkg:maven/no.priv.bang.authservice/authservice.web.users.api@1.5.3?classifier=sources
 - pkg:maven/no.priv.bang.authservice/authservice.web.users.api@1.5.4
 - pkg:maven/no.priv.bang.authservice/authservice.web.users.api@1.5.4?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.web.users.api@1.6.0
+- pkg:maven/no.priv.bang.authservice/authservice.web.users.api@1.6.0?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.web.users.api@1.7.0
+- pkg:maven/no.priv.bang.authservice/authservice.web.users.api@1.7.0?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.web.users.api@1.7.1
+- pkg:maven/no.priv.bang.authservice/authservice.web.users.api@1.7.1?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.web.users.api@1.8.0
+- pkg:maven/no.priv.bang.authservice/authservice.web.users.api@1.8.0?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.web.users.api@1.9.0
+- pkg:maven/no.priv.bang.authservice/authservice.web.users.api@1.9.0?classifier=sources

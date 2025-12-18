@@ -4,3 +4,5 @@
 - pkg:maven/de.alpharogroup/silly-strings@5.3.1
 - pkg:maven/de.alpharogroup/silly-strings@5.3.1?classifier=sources
 - pkg:maven/de.alpharogroup/silly-strings@5.3?classifier=sources
+- pkg:maven/de.alpharogroup/silly-strings@5.4
+- pkg:maven/de.alpharogroup/silly-strings@5.4?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/fm.feed.android/player-sdk-exo281@5.2.7?type=aar
 - pkg:maven/fm.feed.android/player-sdk-exo281@5.2.8?type=aar
 - pkg:maven/fm.feed.android/player-sdk-exo281@5.2.9?type=aar
+- pkg:maven/fm.feed.android/player-sdk-exo281@5.3.0?type=aar
+- pkg:maven/fm.feed.android/player-sdk-exo281@5.3.1?type=aar
+- pkg:maven/fm.feed.android/player-sdk-exo281@5.3.2?type=aar
+- pkg:maven/fm.feed.android/player-sdk-exo281@5.3.3?type=aar

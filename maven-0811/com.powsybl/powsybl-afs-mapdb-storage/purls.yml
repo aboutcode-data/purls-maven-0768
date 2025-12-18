@@ -24,3 +24,7 @@
 - pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@2.6.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@2.6.1
 - pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@2.6.1?classifier=sources
+- pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@3.0.0
+- pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@3.0.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@3.1.0
+- pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@3.1.0?classifier=sources

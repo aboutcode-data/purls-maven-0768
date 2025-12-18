@@ -1,0 +1,4 @@
+- pkg:maven/com.flipkart.utils/jersey2-guice-impl@jersey2.25.1_guava24.0-jre_guice4.2.2_slf4j1.7.25
+- pkg:maven/com.flipkart.utils/jersey2-guice-impl@jersey2.25.1_guava24.0-jre_guice4.2.2_slf4j1.7.25?classifier=sources
+- pkg:maven/com.flipkart.utils/jersey2-guice-impl@jersey2.25.1_guava24.1.1-jre_guice4.2.2_slf4j1.7.26
+- pkg:maven/com.flipkart.utils/jersey2-guice-impl@jersey2.25.1_guava24.1.1-jre_guice4.2.2_slf4j1.7.26?classifier=sources

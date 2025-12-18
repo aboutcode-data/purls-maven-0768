@@ -79,6 +79,17 @@
 - pkg:maven/org.openjfx/javafx-fxml@13-ea%2B9?classifier=sources
 - pkg:maven/org.openjfx/javafx-fxml@13.0.1
 - pkg:maven/org.openjfx/javafx-fxml@13.0.1?classifier=sources
+- pkg:maven/org.openjfx/javafx-fxml@13.0.2
+- pkg:maven/org.openjfx/javafx-fxml@13.0.2?classifier=sources
 - pkg:maven/org.openjfx/javafx-fxml@13?classifier=sources
 - pkg:maven/org.openjfx/javafx-fxml@14-ea%2B1
 - pkg:maven/org.openjfx/javafx-fxml@14-ea%2B1?classifier=sources
+- pkg:maven/org.openjfx/javafx-fxml@14-ea%2B2
+- pkg:maven/org.openjfx/javafx-fxml@14-ea%2B2?classifier=sources
+- pkg:maven/org.openjfx/javafx-fxml@14-ea%2B4?classifier=sources
+- pkg:maven/org.openjfx/javafx-fxml@14-ea%2B6
+- pkg:maven/org.openjfx/javafx-fxml@14-ea%2B6?classifier=sources
+- pkg:maven/org.openjfx/javafx-fxml@14-ea%2B7
+- pkg:maven/org.openjfx/javafx-fxml@14-ea%2B7?classifier=sources
+- pkg:maven/org.openjfx/javafx-fxml@15-ea%2B1
+- pkg:maven/org.openjfx/javafx-fxml@15-ea%2B1?classifier=sources

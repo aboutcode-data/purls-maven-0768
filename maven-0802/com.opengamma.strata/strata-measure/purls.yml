@@ -72,3 +72,9 @@
 - pkg:maven/com.opengamma.strata/strata-measure@2.6.5?classifier=sources
 - pkg:maven/com.opengamma.strata/strata-measure@2.6.6
 - pkg:maven/com.opengamma.strata/strata-measure@2.6.6?classifier=sources
+- pkg:maven/com.opengamma.strata/strata-measure@2.6.7
+- pkg:maven/com.opengamma.strata/strata-measure@2.6.7?classifier=sources
+- pkg:maven/com.opengamma.strata/strata-measure@2.6.8
+- pkg:maven/com.opengamma.strata/strata-measure@2.6.8?classifier=sources
+- pkg:maven/com.opengamma.strata/strata-measure@2.6.9
+- pkg:maven/com.opengamma.strata/strata-measure@2.6.9?classifier=sources

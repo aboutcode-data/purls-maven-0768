@@ -1,0 +1,2 @@
+- pkg:maven/com.swipecrowd.captainhook/framework-plugins-selfdiagnose@0.1.0
+- pkg:maven/com.swipecrowd.captainhook/framework-plugins-selfdiagnose@0.1.0?classifier=sources

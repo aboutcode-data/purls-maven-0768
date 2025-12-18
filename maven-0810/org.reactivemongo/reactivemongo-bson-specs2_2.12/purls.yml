@@ -1,0 +1,8 @@
+- pkg:maven/org.reactivemongo/reactivemongo-bson-specs2_2.12@0.20.2
+- pkg:maven/org.reactivemongo/reactivemongo-bson-specs2_2.12@0.20.2-noshaded
+- pkg:maven/org.reactivemongo/reactivemongo-bson-specs2_2.12@0.20.2-noshaded?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-specs2_2.12@0.20.2?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-specs2_2.12@0.20.3
+- pkg:maven/org.reactivemongo/reactivemongo-bson-specs2_2.12@0.20.3-noshaded
+- pkg:maven/org.reactivemongo/reactivemongo-bson-specs2_2.12@0.20.3-noshaded?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-specs2_2.12@0.20.3?classifier=sources

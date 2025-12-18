@@ -766,6 +766,8 @@
 - pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev20190331-1.29.2?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev20190331-1.30.1
 - pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev20190331-1.30.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev20190331-1.30.3
+- pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev20190331-1.30.3?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev202-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev202-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev203-1.18.0-rc
@@ -1774,6 +1776,18 @@
 - pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev38-1.22.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev38-1.23.0
 - pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev38-1.23.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev381-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev381-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev381-1.25.0
+- pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev381-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev382-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev382-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev382-1.25.0
+- pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev382-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev383-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev383-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev383-1.25.0
+- pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev383-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev39-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev39-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-appsactivity@v1-rev39-1.21.0

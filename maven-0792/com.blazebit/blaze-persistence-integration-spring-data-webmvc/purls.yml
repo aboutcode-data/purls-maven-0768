@@ -1,0 +1,6 @@
+- pkg:maven/com.blazebit/blaze-persistence-integration-spring-data-webmvc@1.4.0
+- pkg:maven/com.blazebit/blaze-persistence-integration-spring-data-webmvc@1.4.0-Alpha4
+- pkg:maven/com.blazebit/blaze-persistence-integration-spring-data-webmvc@1.4.0-Alpha4?classifier=sources
+- pkg:maven/com.blazebit/blaze-persistence-integration-spring-data-webmvc@1.4.0?classifier=sources
+- pkg:maven/com.blazebit/blaze-persistence-integration-spring-data-webmvc@1.4.1
+- pkg:maven/com.blazebit/blaze-persistence-integration-spring-data-webmvc@1.4.1?classifier=sources

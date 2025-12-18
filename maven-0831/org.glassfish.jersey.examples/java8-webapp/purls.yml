@@ -90,3 +90,5 @@
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@2.29.1?type=war
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@2.29?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@2.29?type=war
+- pkg:maven/org.glassfish.jersey.examples/java8-webapp@2.30?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/java8-webapp@2.30?type=war

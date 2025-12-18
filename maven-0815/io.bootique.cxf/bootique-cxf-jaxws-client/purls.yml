@@ -1,0 +1,2 @@
+- pkg:maven/io.bootique.cxf/bootique-cxf-jaxws-client@1.1
+- pkg:maven/io.bootique.cxf/bootique-cxf-jaxws-client@1.1?classifier=sources

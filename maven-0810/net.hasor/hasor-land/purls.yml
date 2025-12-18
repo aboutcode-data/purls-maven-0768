@@ -3,4 +3,6 @@
 - pkg:maven/net.hasor/hasor-land@3.2.1
 - pkg:maven/net.hasor/hasor-land@3.2.1?classifier=sources
 - pkg:maven/net.hasor/hasor-land@3.2.2
+- pkg:maven/net.hasor/hasor-land@3.2.2-fix20191118
+- pkg:maven/net.hasor/hasor-land@3.2.2-fix20191118?classifier=sources
 - pkg:maven/net.hasor/hasor-land@3.2.2?classifier=sources

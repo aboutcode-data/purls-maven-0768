@@ -1,0 +1,2 @@
+- pkg:maven/com.envimate.mapmate.integrations/mapmate-yaml@1.6.26
+- pkg:maven/com.envimate.mapmate.integrations/mapmate-yaml@1.6.26?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/cn.smartdec.sdk/SmartDecSDKJavaV2@0.0.1-RELEASE
+- pkg:maven/cn.smartdec.sdk/SmartDecSDKJavaV2@0.0.1-RELEASE?classifier=sources
+- pkg:maven/cn.smartdec.sdk/SmartDecSDKJavaV2@1.0.0
+- pkg:maven/cn.smartdec.sdk/SmartDecSDKJavaV2@1.0.0?classifier=sources

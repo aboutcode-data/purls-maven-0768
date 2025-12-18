@@ -12,3 +12,5 @@
 - pkg:maven/io.rtr.alchemy/alchemy-client@0.1.15?classifier=sources
 - pkg:maven/io.rtr.alchemy/alchemy-client@0.1.9
 - pkg:maven/io.rtr.alchemy/alchemy-client@0.1.9?classifier=sources
+- pkg:maven/io.rtr.alchemy/alchemy-client@1.0.1
+- pkg:maven/io.rtr.alchemy/alchemy-client@1.0.1?classifier=sources

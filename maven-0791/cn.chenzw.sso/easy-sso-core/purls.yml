@@ -1,0 +1,2 @@
+- pkg:maven/cn.chenzw.sso/easy-sso-core@1.0.0
+- pkg:maven/cn.chenzw.sso/easy-sso-core@1.0.0?classifier=sources

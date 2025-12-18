@@ -1,0 +1,2 @@
+- pkg:maven/org.bidib.com.github.purejavacomm/purejavacomm@1.0.3.1
+- pkg:maven/org.bidib.com.github.purejavacomm/purejavacomm@1.0.3.1?classifier=sources

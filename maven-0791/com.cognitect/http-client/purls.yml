@@ -1,3 +1,5 @@
+- pkg:maven/com.cognitect/http-client@0.1.101
+- pkg:maven/com.cognitect/http-client@0.1.104
 - pkg:maven/com.cognitect/http-client@0.1.62
 - pkg:maven/com.cognitect/http-client@0.1.71
 - pkg:maven/com.cognitect/http-client@0.1.73

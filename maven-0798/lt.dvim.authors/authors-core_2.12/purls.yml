@@ -1,3 +1,5 @@
+- pkg:maven/lt.dvim.authors/authors-core_2.12@0.0.0%2B111-8ef3a37e
+- pkg:maven/lt.dvim.authors/authors-core_2.12@0.0.0%2B111-8ef3a37e?classifier=sources
 - pkg:maven/lt.dvim.authors/authors-core_2.12@0.1.0
 - pkg:maven/lt.dvim.authors/authors-core_2.12@0.1.0?classifier=sources
 - pkg:maven/lt.dvim.authors/authors-core_2.12@0.2.0
@@ -38,3 +40,17 @@
 - pkg:maven/lt.dvim.authors/authors-core_2.12@1.0.2%2B9-a8805d76
 - pkg:maven/lt.dvim.authors/authors-core_2.12@1.0.2%2B9-a8805d76?classifier=sources
 - pkg:maven/lt.dvim.authors/authors-core_2.12@1.0.2?classifier=sources
+- pkg:maven/lt.dvim.authors/authors-core_2.12@1.1
+- pkg:maven/lt.dvim.authors/authors-core_2.12@1.1%2B10-e84e25e2
+- pkg:maven/lt.dvim.authors/authors-core_2.12@1.1%2B10-e84e25e2?classifier=sources
+- pkg:maven/lt.dvim.authors/authors-core_2.12@1.1%2B14-ea0b8b9c
+- pkg:maven/lt.dvim.authors/authors-core_2.12@1.1%2B14-ea0b8b9c?classifier=sources
+- pkg:maven/lt.dvim.authors/authors-core_2.12@1.1%2B16-28a828ee
+- pkg:maven/lt.dvim.authors/authors-core_2.12@1.1%2B16-28a828ee?classifier=sources
+- pkg:maven/lt.dvim.authors/authors-core_2.12@1.1%2B2-e1b284dd
+- pkg:maven/lt.dvim.authors/authors-core_2.12@1.1%2B2-e1b284dd?classifier=sources
+- pkg:maven/lt.dvim.authors/authors-core_2.12@1.1%2B4-5931103f
+- pkg:maven/lt.dvim.authors/authors-core_2.12@1.1%2B4-5931103f?classifier=sources
+- pkg:maven/lt.dvim.authors/authors-core_2.12@1.1%2B8-733ab66f
+- pkg:maven/lt.dvim.authors/authors-core_2.12@1.1%2B8-733ab66f?classifier=sources
+- pkg:maven/lt.dvim.authors/authors-core_2.12@1.1?classifier=sources

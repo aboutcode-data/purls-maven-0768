@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/patternfly__patternfly@1.0.250
 - pkg:maven/org.webjars.npm/patternfly__patternfly@1.0.250?classifier=sources
+- pkg:maven/org.webjars.npm/patternfly__patternfly@2.46.1
+- pkg:maven/org.webjars.npm/patternfly__patternfly@2.46.1?classifier=sources

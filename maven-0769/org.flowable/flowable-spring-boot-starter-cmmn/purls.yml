@@ -7,3 +7,4 @@
 - pkg:maven/org.flowable/flowable-spring-boot-starter-cmmn@6.4.1
 - pkg:maven/org.flowable/flowable-spring-boot-starter-cmmn@6.4.1?classifier=sources
 - pkg:maven/org.flowable/flowable-spring-boot-starter-cmmn@6.4.2
+- pkg:maven/org.flowable/flowable-spring-boot-starter-cmmn@6.5.0

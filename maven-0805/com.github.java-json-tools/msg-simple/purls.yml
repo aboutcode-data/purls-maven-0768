@@ -1,0 +1,2 @@
+- pkg:maven/com.github.java-json-tools/msg-simple@1.2
+- pkg:maven/com.github.java-json-tools/msg-simple@1.2?classifier=sources

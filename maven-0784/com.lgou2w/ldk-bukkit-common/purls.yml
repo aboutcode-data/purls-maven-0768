@@ -22,3 +22,7 @@
 - pkg:maven/com.lgou2w/ldk-bukkit-common@0.1.8-rc2?classifier=sources
 - pkg:maven/com.lgou2w/ldk-bukkit-common@0.1.8-rc?classifier=sources
 - pkg:maven/com.lgou2w/ldk-bukkit-common@0.1.8?classifier=sources
+- pkg:maven/com.lgou2w/ldk-bukkit-common@0.1.9
+- pkg:maven/com.lgou2w/ldk-bukkit-common@0.1.9?classifier=sources
+- pkg:maven/com.lgou2w/ldk-bukkit-common@0.2.0
+- pkg:maven/com.lgou2w/ldk-bukkit-common@0.2.0?classifier=sources

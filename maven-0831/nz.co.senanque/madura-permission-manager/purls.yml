@@ -8,3 +8,5 @@
 - pkg:maven/nz.co.senanque/madura-permission-manager@3.3.0?classifier=sources
 - pkg:maven/nz.co.senanque/madura-permission-manager@3.4.0
 - pkg:maven/nz.co.senanque/madura-permission-manager@3.4.0?classifier=sources
+- pkg:maven/nz.co.senanque/madura-permission-manager@3.4.1
+- pkg:maven/nz.co.senanque/madura-permission-manager@3.4.1?classifier=sources

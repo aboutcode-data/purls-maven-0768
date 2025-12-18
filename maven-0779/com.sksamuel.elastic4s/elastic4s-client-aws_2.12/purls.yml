@@ -10,3 +10,9 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-aws_2.12@7.1.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-aws_2.12@7.1.2
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-aws_2.12@7.1.2?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-aws_2.12@7.1.4
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-aws_2.12@7.1.4?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-aws_2.12@7.3.4
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-aws_2.12@7.3.4?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-aws_2.12@7.3.5
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-aws_2.12@7.3.5?classifier=sources

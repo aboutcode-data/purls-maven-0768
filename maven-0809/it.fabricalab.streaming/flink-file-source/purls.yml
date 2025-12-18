@@ -1,0 +1,2 @@
+- pkg:maven/it.fabricalab.streaming/flink-file-source@1.0.0
+- pkg:maven/it.fabricalab.streaming/flink-file-source@1.0.0?classifier=sources

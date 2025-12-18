@@ -1,0 +1,6 @@
+- pkg:maven/com.softwaremill.sttp.client/finagle-backend_2.11@2.0.0-RC5
+- pkg:maven/com.softwaremill.sttp.client/finagle-backend_2.11@2.0.0-RC5?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client/finagle-backend_2.11@2.0.0-RC6
+- pkg:maven/com.softwaremill.sttp.client/finagle-backend_2.11@2.0.0-RC6?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client/finagle-backend_2.11@2.0.0-RC7
+- pkg:maven/com.softwaremill.sttp.client/finagle-backend_2.11@2.0.0-RC7?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-performance@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-performance@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-performance@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-performance@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-performance@RELEASE90?classifier=sources

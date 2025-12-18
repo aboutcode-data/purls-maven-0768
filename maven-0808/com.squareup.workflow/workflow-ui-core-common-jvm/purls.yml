@@ -1,0 +1,2 @@
+- pkg:maven/com.squareup.workflow/workflow-ui-core-common-jvm@0.23.0
+- pkg:maven/com.squareup.workflow/workflow-ui-core-common-jvm@0.23.0?classifier=sources

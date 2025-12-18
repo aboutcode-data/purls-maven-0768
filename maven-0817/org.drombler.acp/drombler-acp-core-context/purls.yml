@@ -4,3 +4,7 @@
 - pkg:maven/org.drombler.acp/drombler-acp-core-context@0.12?classifier=sources
 - pkg:maven/org.drombler.acp/drombler-acp-core-context@0.13
 - pkg:maven/org.drombler.acp/drombler-acp-core-context@0.13?classifier=sources
+- pkg:maven/org.drombler.acp/drombler-acp-core-context@0.14
+- pkg:maven/org.drombler.acp/drombler-acp-core-context@0.14?classifier=sources
+- pkg:maven/org.drombler.acp/drombler-acp-core-context@1.0
+- pkg:maven/org.drombler.acp/drombler-acp-core-context@1.0?classifier=sources

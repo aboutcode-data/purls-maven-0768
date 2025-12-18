@@ -16,6 +16,8 @@
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.18.23?classifier=sources
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.18.24
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.18.24?classifier=sources
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.18.25
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.18.25?classifier=sources
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.19.0
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.19.0-M2
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.19.0-M2?classifier=sources
@@ -47,6 +49,18 @@
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.20.10?classifier=sources
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.20.11
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.20.11?classifier=sources
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.20.12
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.20.12?classifier=sources
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.20.13
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.20.13?classifier=sources
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.20.14
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.20.14?classifier=sources
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.20.15
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.20.15?classifier=sources
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.20.16
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.20.16?classifier=sources
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.20.17
+- pkg:maven/org.http4s/http4s-play-json_2.11@0.20.17?classifier=sources
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.20.1?classifier=sources
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.20.2
 - pkg:maven/org.http4s/http4s-play-json_2.11@0.20.2?classifier=sources

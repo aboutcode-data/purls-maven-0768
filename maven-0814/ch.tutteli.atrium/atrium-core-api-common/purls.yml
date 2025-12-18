@@ -1,0 +1,4 @@
+- pkg:maven/ch.tutteli.atrium/atrium-core-api-common@0.9.0
+- pkg:maven/ch.tutteli.atrium/atrium-core-api-common@0.9.0-alpha2
+- pkg:maven/ch.tutteli.atrium/atrium-core-api-common@0.9.0-alpha2?classifier=sources
+- pkg:maven/ch.tutteli.atrium/atrium-core-api-common@0.9.0?classifier=sources

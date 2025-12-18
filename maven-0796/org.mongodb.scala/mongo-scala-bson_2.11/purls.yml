@@ -38,3 +38,6 @@
 - pkg:maven/org.mongodb.scala/mongo-scala-bson_2.11@2.6.0?classifier=sources
 - pkg:maven/org.mongodb.scala/mongo-scala-bson_2.11@2.7.0
 - pkg:maven/org.mongodb.scala/mongo-scala-bson_2.11@2.7.0?classifier=sources
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.11@2.8.0
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.11@2.8.0?classifier=sources
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.11@4.0.0-beta1?classifier=sources

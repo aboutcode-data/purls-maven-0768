@@ -1,0 +1,2 @@
+- pkg:maven/com.github.frtu.governance/library-generators@1.0.2
+- pkg:maven/com.github.frtu.governance/library-generators@1.0.2?classifier=sources

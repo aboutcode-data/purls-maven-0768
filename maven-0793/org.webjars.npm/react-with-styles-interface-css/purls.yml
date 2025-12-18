@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/react-with-styles-interface-css@4.0.3
 - pkg:maven/org.webjars.npm/react-with-styles-interface-css@4.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/react-with-styles-interface-css@6.0.0
+- pkg:maven/org.webjars.npm/react-with-styles-interface-css@6.0.0?classifier=sources

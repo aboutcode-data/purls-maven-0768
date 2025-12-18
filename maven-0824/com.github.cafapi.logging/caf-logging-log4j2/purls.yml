@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cafapi.logging/caf-logging-log4j2@1.1.0-39
+- pkg:maven/com.github.cafapi.logging/caf-logging-log4j2@1.1.0-39?classifier=sources

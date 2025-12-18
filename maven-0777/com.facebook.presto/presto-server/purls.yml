@@ -8,6 +8,10 @@
 - pkg:maven/com.facebook.presto/presto-server@0.225?classifier=sources
 - pkg:maven/com.facebook.presto/presto-server@0.226?classifier=sources
 - pkg:maven/com.facebook.presto/presto-server@0.227?classifier=sources
+- pkg:maven/com.facebook.presto/presto-server@0.228?classifier=sources
+- pkg:maven/com.facebook.presto/presto-server@0.229?classifier=sources
+- pkg:maven/com.facebook.presto/presto-server@0.230?classifier=sources
+- pkg:maven/com.facebook.presto/presto-server@0.231?classifier=sources
 - pkg:maven/com.facebook.presto/presto-server@0.52?classifier=sources
 - pkg:maven/com.facebook.presto/presto-server@0.53?classifier=sources
 - pkg:maven/com.facebook.presto/presto-server@0.54?classifier=sources

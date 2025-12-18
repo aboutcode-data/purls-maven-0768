@@ -28,3 +28,5 @@
 - pkg:maven/org.powermock/powermock-api-mockito2@2.0.2?classifier=sources
 - pkg:maven/org.powermock/powermock-api-mockito2@2.0.4
 - pkg:maven/org.powermock/powermock-api-mockito2@2.0.4?classifier=sources
+- pkg:maven/org.powermock/powermock-api-mockito2@2.0.5
+- pkg:maven/org.powermock/powermock-api-mockito2@2.0.5?classifier=sources

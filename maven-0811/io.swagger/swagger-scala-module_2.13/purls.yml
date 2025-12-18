@@ -1,0 +1,2 @@
+- pkg:maven/io.swagger/swagger-scala-module_2.13@1.0.6
+- pkg:maven/io.swagger/swagger-scala-module_2.13@1.0.6?classifier=sources

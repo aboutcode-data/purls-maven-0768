@@ -20,3 +20,7 @@
 - pkg:maven/com.cognitect.aws/codecommit@742.2.511.0?classifier=sources
 - pkg:maven/com.cognitect.aws/codecommit@746.2.533.0
 - pkg:maven/com.cognitect.aws/codecommit@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codecommit@770.2.568.0
+- pkg:maven/com.cognitect.aws/codecommit@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codecommit@773.2.576.0
+- pkg:maven/com.cognitect.aws/codecommit@773.2.576.0?classifier=sources

@@ -86,6 +86,8 @@
 - pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.14.14?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.14.15
 - pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.14.15?classifier=sources
+- pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.14.16
+- pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.14.16?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.14.1?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.14.2
 - pkg:maven/org.gosu-lang.gosu/gosu-maven-compiler@1.14.2?classifier=sources

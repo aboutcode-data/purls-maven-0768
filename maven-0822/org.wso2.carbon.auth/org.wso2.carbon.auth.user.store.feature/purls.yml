@@ -46,6 +46,8 @@
 - pkg:maven/org.wso2.carbon.auth/org.wso2.carbon.auth.user.store.feature@1.0.55?classifier=sources
 - pkg:maven/org.wso2.carbon.auth/org.wso2.carbon.auth.user.store.feature@1.0.56?classifier=sources
 - pkg:maven/org.wso2.carbon.auth/org.wso2.carbon.auth.user.store.feature@1.0.57?classifier=sources
+- pkg:maven/org.wso2.carbon.auth/org.wso2.carbon.auth.user.store.feature@1.0.58?classifier=sources
+- pkg:maven/org.wso2.carbon.auth/org.wso2.carbon.auth.user.store.feature@1.0.59?classifier=sources
 - pkg:maven/org.wso2.carbon.auth/org.wso2.carbon.auth.user.store.feature@1.0.7?classifier=sources
 - pkg:maven/org.wso2.carbon.auth/org.wso2.carbon.auth.user.store.feature@1.0.8?classifier=sources
 - pkg:maven/org.wso2.carbon.auth/org.wso2.carbon.auth.user.store.feature@1.0.9?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/bootswatch@4.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/bootswatch@4.3.1
 - pkg:maven/org.webjars.npm/bootswatch@4.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/bootswatch@4.4.1
+- pkg:maven/org.webjars.npm/bootswatch@4.4.1?classifier=sources

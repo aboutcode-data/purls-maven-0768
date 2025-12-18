@@ -16,3 +16,6 @@
 - pkg:maven/com.github.lanchon.dexpatcher/multidexlib2@2.2.6?classifier=sources
 - pkg:maven/com.github.lanchon.dexpatcher/multidexlib2@2.2.7
 - pkg:maven/com.github.lanchon.dexpatcher/multidexlib2@2.2.7?classifier=sources
+- pkg:maven/com.github.lanchon.dexpatcher/multidexlib2@2.3.4
+- pkg:maven/com.github.lanchon.dexpatcher/multidexlib2@2.3.4.r2?classifier=sources
+- pkg:maven/com.github.lanchon.dexpatcher/multidexlib2@2.3.4?classifier=sources

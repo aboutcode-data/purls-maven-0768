@@ -1,0 +1,4 @@
+- pkg:maven/net.pwall.xml/xtj@0.7
+- pkg:maven/net.pwall.xml/xtj@0.7?classifier=sources
+- pkg:maven/net.pwall.xml/xtj@0.8
+- pkg:maven/net.pwall.xml/xtj@0.8?classifier=sources

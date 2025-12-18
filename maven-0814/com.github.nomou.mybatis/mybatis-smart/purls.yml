@@ -1,0 +1,4 @@
+- pkg:maven/com.github.nomou.mybatis/mybatis-smart@1.0.0-BETA
+- pkg:maven/com.github.nomou.mybatis/mybatis-smart@1.0.0-BETA-1104001
+- pkg:maven/com.github.nomou.mybatis/mybatis-smart@1.0.0-BETA-1104001?classifier=sources
+- pkg:maven/com.github.nomou.mybatis/mybatis-smart@1.0.0-BETA?classifier=sources

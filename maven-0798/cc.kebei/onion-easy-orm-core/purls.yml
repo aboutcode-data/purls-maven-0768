@@ -1,0 +1,2 @@
+- pkg:maven/cc.kebei/onion-easy-orm-core@3.0.0
+- pkg:maven/cc.kebei/onion-easy-orm-core@3.0.0?classifier=sources

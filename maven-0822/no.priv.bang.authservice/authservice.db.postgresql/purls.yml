@@ -22,3 +22,5 @@
 - pkg:maven/no.priv.bang.authservice/authservice.db.postgresql@1.5.3?classifier=sources
 - pkg:maven/no.priv.bang.authservice/authservice.db.postgresql@1.5.4
 - pkg:maven/no.priv.bang.authservice/authservice.db.postgresql@1.5.4?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.db.postgresql@1.6.0
+- pkg:maven/no.priv.bang.authservice/authservice.db.postgresql@1.6.0?classifier=sources

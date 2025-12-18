@@ -42,6 +42,8 @@
 - pkg:maven/org.webjars/select2@4.0.0?classifier=sources
 - pkg:maven/org.webjars/select2@4.0.10
 - pkg:maven/org.webjars/select2@4.0.10?classifier=sources
+- pkg:maven/org.webjars/select2@4.0.12
+- pkg:maven/org.webjars/select2@4.0.12?classifier=sources
 - pkg:maven/org.webjars/select2@4.0.2
 - pkg:maven/org.webjars/select2@4.0.2?classifier=sources
 - pkg:maven/org.webjars/select2@4.0.3

@@ -220,6 +220,12 @@
 - pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev33-1.24.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev33-1.25.0
 - pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev33-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev35-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev35-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev35-1.25.0
+- pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev35-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev36-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev36-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev4-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev4-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sourcerepo@v1-rev4-1.20.0

@@ -6,3 +6,9 @@
 - pkg:maven/com.github.mvysny.vokorm/vok-orm@0.16?classifier=sources
 - pkg:maven/com.github.mvysny.vokorm/vok-orm@0.17
 - pkg:maven/com.github.mvysny.vokorm/vok-orm@0.17?classifier=sources
+- pkg:maven/com.github.mvysny.vokorm/vok-orm@1.0
+- pkg:maven/com.github.mvysny.vokorm/vok-orm@1.0?classifier=sources
+- pkg:maven/com.github.mvysny.vokorm/vok-orm@1.1
+- pkg:maven/com.github.mvysny.vokorm/vok-orm@1.1?classifier=sources
+- pkg:maven/com.github.mvysny.vokorm/vok-orm@1.2
+- pkg:maven/com.github.mvysny.vokorm/vok-orm@1.2?classifier=sources

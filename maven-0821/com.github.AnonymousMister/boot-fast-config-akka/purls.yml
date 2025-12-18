@@ -1,0 +1,2 @@
+- pkg:maven/com.github.AnonymousMister/boot-fast-config-akka@2.1.0.tentative
+- pkg:maven/com.github.AnonymousMister/boot-fast-config-akka@2.1.0.tentative?classifier=sources

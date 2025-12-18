@@ -117,3 +117,9 @@
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.5.20?classifier=sources
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.5.21
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.5.21?classifier=sources
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.5.28
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.5.28?classifier=sources
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.5.29
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.5.29?classifier=sources
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.5.30
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.application.mgt.bpel@4.5.30?classifier=sources

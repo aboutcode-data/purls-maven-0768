@@ -44,3 +44,7 @@
 - pkg:maven/org.webjars.npm/vertx3-eventbus-client@3.8.2?classifier=sources
 - pkg:maven/org.webjars.npm/vertx3-eventbus-client@3.8.3
 - pkg:maven/org.webjars.npm/vertx3-eventbus-client@3.8.3?classifier=sources
+- pkg:maven/org.webjars.npm/vertx3-eventbus-client@3.8.4
+- pkg:maven/org.webjars.npm/vertx3-eventbus-client@3.8.4?classifier=sources
+- pkg:maven/org.webjars.npm/vertx3-eventbus-client@3.8.5
+- pkg:maven/org.webjars.npm/vertx3-eventbus-client@3.8.5?classifier=sources

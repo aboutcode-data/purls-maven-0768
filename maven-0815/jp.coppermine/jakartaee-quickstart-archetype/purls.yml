@@ -1,1 +1,3 @@
 - pkg:maven/jp.coppermine/jakartaee-quickstart-archetype@1.0.0?classifier=sources
+- pkg:maven/jp.coppermine/jakartaee-quickstart-archetype@8.0.0?classifier=sources
+- pkg:maven/jp.coppermine/jakartaee-quickstart-archetype@8.0.1?classifier=sources

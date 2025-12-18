@@ -10,3 +10,5 @@
 - pkg:maven/com.github.rawls238/Scientist4JCore@0.5?classifier=sources
 - pkg:maven/com.github.rawls238/Scientist4JCore@0.6
 - pkg:maven/com.github.rawls238/Scientist4JCore@0.6?classifier=sources
+- pkg:maven/com.github.rawls238/Scientist4JCore@0.7
+- pkg:maven/com.github.rawls238/Scientist4JCore@0.7?classifier=sources

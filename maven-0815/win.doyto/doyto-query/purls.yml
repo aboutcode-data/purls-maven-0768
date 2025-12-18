@@ -12,3 +12,5 @@
 - pkg:maven/win.doyto/doyto-query@0.1.5-RELEASE?classifier=sources
 - pkg:maven/win.doyto/doyto-query@0.1.6-RELEASE
 - pkg:maven/win.doyto/doyto-query@0.1.6-RELEASE?classifier=sources
+- pkg:maven/win.doyto/doyto-query@0.1.7-RELEASE
+- pkg:maven/win.doyto/doyto-query@0.1.7-RELEASE?classifier=sources

@@ -72,8 +72,16 @@
 - pkg:maven/org.kie/kie-karaf-features@7.27.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-karaf-features@7.28.0.Final
 - pkg:maven/org.kie/kie-karaf-features@7.28.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-karaf-features@7.29.0.Final
+- pkg:maven/org.kie/kie-karaf-features@7.29.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-karaf-features@7.3.0.Final
 - pkg:maven/org.kie/kie-karaf-features@7.3.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-karaf-features@7.30.0.Final
+- pkg:maven/org.kie/kie-karaf-features@7.30.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-karaf-features@7.31.0.Final
+- pkg:maven/org.kie/kie-karaf-features@7.31.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-karaf-features@7.32.0.Final
+- pkg:maven/org.kie/kie-karaf-features@7.32.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-karaf-features@7.4.0.Final
 - pkg:maven/org.kie/kie-karaf-features@7.4.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-karaf-features@7.4.1.Final

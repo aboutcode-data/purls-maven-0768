@@ -1,0 +1,5 @@
+- pkg:maven/org.contextmapper/context-map-discovery@0.1.0?classifier=sources
+- pkg:maven/org.contextmapper/context-map-discovery@1.0.0?classifier=sources
+- pkg:maven/org.contextmapper/context-map-discovery@1.1.0?classifier=sources
+- pkg:maven/org.contextmapper/context-map-discovery@1.2.0?classifier=sources
+- pkg:maven/org.contextmapper/context-map-discovery@1.2.1?classifier=sources

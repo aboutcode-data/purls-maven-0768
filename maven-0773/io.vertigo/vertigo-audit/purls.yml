@@ -10,3 +10,5 @@
 - pkg:maven/io.vertigo/vertigo-audit@1.1.3?classifier=sources
 - pkg:maven/io.vertigo/vertigo-audit@2.0.0
 - pkg:maven/io.vertigo/vertigo-audit@2.0.0?classifier=sources
+- pkg:maven/io.vertigo/vertigo-audit@2.1.0
+- pkg:maven/io.vertigo/vertigo-audit@2.1.0?classifier=sources

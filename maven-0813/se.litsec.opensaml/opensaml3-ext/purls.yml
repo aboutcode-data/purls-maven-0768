@@ -42,3 +42,5 @@
 - pkg:maven/se.litsec.opensaml/opensaml3-ext@1.4.2?classifier=sources
 - pkg:maven/se.litsec.opensaml/opensaml3-ext@1.4.3
 - pkg:maven/se.litsec.opensaml/opensaml3-ext@1.4.3?classifier=sources
+- pkg:maven/se.litsec.opensaml/opensaml3-ext@1.4.4
+- pkg:maven/se.litsec.opensaml/opensaml3-ext@1.4.4?classifier=sources

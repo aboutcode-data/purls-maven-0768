@@ -14,4 +14,7 @@
 - pkg:maven/com.ucweb.wpk/crashsdk@2.3.3.1?type=aar
 - pkg:maven/com.ucweb.wpk/crashsdk@2.3.3.2?type=aar
 - pkg:maven/com.ucweb.wpk/crashsdk@2.4.0.0?type=aar
+- pkg:maven/com.ucweb.wpk/crashsdk@2.4.0.3?type=aar
 - pkg:maven/com.ucweb.wpk/crashsdk@3.0.0.2?type=aar
+- pkg:maven/com.ucweb.wpk/crashsdk@3.0.0.3?type=aar
+- pkg:maven/com.ucweb.wpk/crashsdk@3.1.0.0?type=aar

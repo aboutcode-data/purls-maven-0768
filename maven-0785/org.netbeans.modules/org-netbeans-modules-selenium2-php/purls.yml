@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-php@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-php@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-php@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-php@RELEASE112?classifier=sources

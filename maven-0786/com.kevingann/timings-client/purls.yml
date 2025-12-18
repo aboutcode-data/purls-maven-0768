@@ -4,3 +4,7 @@
 - pkg:maven/com.kevingann/timings-client@0.4?classifier=sources
 - pkg:maven/com.kevingann/timings-client@0.7
 - pkg:maven/com.kevingann/timings-client@0.7?classifier=sources
+- pkg:maven/com.kevingann/timings-client@0.8
+- pkg:maven/com.kevingann/timings-client@0.8?classifier=sources
+- pkg:maven/com.kevingann/timings-client@0.9
+- pkg:maven/com.kevingann/timings-client@0.9?classifier=sources

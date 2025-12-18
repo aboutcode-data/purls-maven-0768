@@ -1,0 +1,4 @@
+- pkg:maven/ltd.vastchain/vctc-java-sdk@1.0.0
+- pkg:maven/ltd.vastchain/vctc-java-sdk@1.0.0?classifier=sources
+- pkg:maven/ltd.vastchain/vctc-java-sdk@1.0.1
+- pkg:maven/ltd.vastchain/vctc-java-sdk@1.0.1?classifier=sources

@@ -10,3 +10,9 @@
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-spring@2.16.538?classifier=sources
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-spring@2.17.558
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-spring@2.17.558?classifier=sources
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-spring@2.18.565
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-spring@2.18.565?classifier=sources
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-spring@2.19.575
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-spring@2.19.575?classifier=sources
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-spring@2.19.577
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-spring@2.19.577?classifier=sources

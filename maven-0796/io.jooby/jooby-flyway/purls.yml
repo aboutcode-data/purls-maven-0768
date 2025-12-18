@@ -18,3 +18,15 @@
 - pkg:maven/io.jooby/jooby-flyway@2.2.0?classifier=sources
 - pkg:maven/io.jooby/jooby-flyway@2.2.1
 - pkg:maven/io.jooby/jooby-flyway@2.2.1?classifier=sources
+- pkg:maven/io.jooby/jooby-flyway@2.3.0
+- pkg:maven/io.jooby/jooby-flyway@2.3.0?classifier=sources
+- pkg:maven/io.jooby/jooby-flyway@2.3.1
+- pkg:maven/io.jooby/jooby-flyway@2.3.1?classifier=sources
+- pkg:maven/io.jooby/jooby-flyway@2.4.0
+- pkg:maven/io.jooby/jooby-flyway@2.4.0?classifier=sources
+- pkg:maven/io.jooby/jooby-flyway@2.5.0
+- pkg:maven/io.jooby/jooby-flyway@2.5.0?classifier=sources
+- pkg:maven/io.jooby/jooby-flyway@2.5.1
+- pkg:maven/io.jooby/jooby-flyway@2.5.1?classifier=sources
+- pkg:maven/io.jooby/jooby-flyway@2.6.0
+- pkg:maven/io.jooby/jooby-flyway@2.6.0?classifier=sources

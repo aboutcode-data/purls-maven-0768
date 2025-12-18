@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-metadata-model@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-metadata-model@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-metadata-model@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-db-metadata-model@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-metadata-model@RELEASE90?classifier=sources

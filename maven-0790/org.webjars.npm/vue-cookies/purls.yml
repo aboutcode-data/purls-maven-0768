@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vue-cookies@1.5.13
+- pkg:maven/org.webjars.npm/vue-cookies@1.5.13?classifier=sources

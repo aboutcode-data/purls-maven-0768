@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.wicket.experimental.wicket9/wicket-metrics@0.10
+- pkg:maven/org.apache.wicket.experimental.wicket9/wicket-metrics@0.10?classifier=sources
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-metrics@0.7
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-metrics@0.7?classifier=sources
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-metrics@0.8

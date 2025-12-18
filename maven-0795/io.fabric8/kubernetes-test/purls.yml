@@ -114,3 +114,8 @@
 - pkg:maven/io.fabric8/kubernetes-test@4.5.2
 - pkg:maven/io.fabric8/kubernetes-test@4.6.0
 - pkg:maven/io.fabric8/kubernetes-test@4.6.1
+- pkg:maven/io.fabric8/kubernetes-test@4.6.2
+- pkg:maven/io.fabric8/kubernetes-test@4.6.3
+- pkg:maven/io.fabric8/kubernetes-test@4.6.4
+- pkg:maven/io.fabric8/kubernetes-test@4.7.0
+- pkg:maven/io.fabric8/kubernetes-test@4.7.1

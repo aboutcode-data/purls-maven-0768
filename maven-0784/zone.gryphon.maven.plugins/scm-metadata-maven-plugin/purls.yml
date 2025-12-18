@@ -1,0 +1,16 @@
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1%2C3
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1%2C3?classifier=sources
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1.0
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1.0?classifier=sources
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1.1
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1.1?classifier=sources
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1.4
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1.4?classifier=sources
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1.5
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1.5?classifier=sources
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1.6
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1.6?classifier=sources
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1.7
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1.7?classifier=sources
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1.8
+- pkg:maven/zone.gryphon.maven.plugins/scm-metadata-maven-plugin@1.8?classifier=sources

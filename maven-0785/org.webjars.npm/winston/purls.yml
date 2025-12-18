@@ -2,6 +2,8 @@
 - pkg:maven/org.webjars.npm/winston@0.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/winston@0.8.3
 - pkg:maven/org.webjars.npm/winston@0.8.3?classifier=sources
+- pkg:maven/org.webjars.npm/winston@2.1.1
+- pkg:maven/org.webjars.npm/winston@2.1.1?classifier=sources
 - pkg:maven/org.webjars.npm/winston@2.3.1
 - pkg:maven/org.webjars.npm/winston@2.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/winston@3.0.0-rc1

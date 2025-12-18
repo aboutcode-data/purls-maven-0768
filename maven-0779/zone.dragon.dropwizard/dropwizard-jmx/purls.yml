@@ -1,0 +1,4 @@
+- pkg:maven/zone.dragon.dropwizard/dropwizard-jmx@1.0.14-0e652f
+- pkg:maven/zone.dragon.dropwizard/dropwizard-jmx@1.0.14-0e652f?classifier=sources
+- pkg:maven/zone.dragon.dropwizard/dropwizard-jmx@1.0.15-54a18a
+- pkg:maven/zone.dragon.dropwizard/dropwizard-jmx@1.0.15-54a18a?classifier=sources

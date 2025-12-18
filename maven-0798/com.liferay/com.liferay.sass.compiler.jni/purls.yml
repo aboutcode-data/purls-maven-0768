@@ -20,3 +20,5 @@
 - pkg:maven/com.liferay/com.liferay.sass.compiler.jni@2.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sass.compiler.jni@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sass.compiler.jni@2.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sass.compiler.jni@2.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sass.compiler.jni@2.0.9?classifier=sources-commercial

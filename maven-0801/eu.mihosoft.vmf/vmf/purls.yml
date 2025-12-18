@@ -39,4 +39,8 @@
 - pkg:maven/eu.mihosoft.vmf/vmf@0.2.7.0?classifier=sources
 - pkg:maven/eu.mihosoft.vmf/vmf@0.2.7.1
 - pkg:maven/eu.mihosoft.vmf/vmf@0.2.7.1?classifier=sources
+- pkg:maven/eu.mihosoft.vmf/vmf@0.2.7.5
+- pkg:maven/eu.mihosoft.vmf/vmf@0.2.7.5?classifier=sources
+- pkg:maven/eu.mihosoft.vmf/vmf@0.2.7.6
+- pkg:maven/eu.mihosoft.vmf/vmf@0.2.7.6?classifier=sources
 - pkg:maven/eu.mihosoft.vmf/vmf@0.2?classifier=sources

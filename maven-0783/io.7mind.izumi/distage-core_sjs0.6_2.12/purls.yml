@@ -1,0 +1,12 @@
+- pkg:maven/io.7mind.izumi/distage-core_sjs0.6_2.12@0.10.0
+- pkg:maven/io.7mind.izumi/distage-core_sjs0.6_2.12@0.10.0-M13
+- pkg:maven/io.7mind.izumi/distage-core_sjs0.6_2.12@0.10.0-M13-ZIORC16
+- pkg:maven/io.7mind.izumi/distage-core_sjs0.6_2.12@0.10.0-M13-ZIORC16?classifier=sources
+- pkg:maven/io.7mind.izumi/distage-core_sjs0.6_2.12@0.10.0-M13?classifier=sources
+- pkg:maven/io.7mind.izumi/distage-core_sjs0.6_2.12@0.10.0-ZIORC16
+- pkg:maven/io.7mind.izumi/distage-core_sjs0.6_2.12@0.10.0-ZIORC16?classifier=sources
+- pkg:maven/io.7mind.izumi/distage-core_sjs0.6_2.12@0.10.0?classifier=sources
+- pkg:maven/io.7mind.izumi/distage-core_sjs0.6_2.12@0.10.1
+- pkg:maven/io.7mind.izumi/distage-core_sjs0.6_2.12@0.10.1-ZIORC16
+- pkg:maven/io.7mind.izumi/distage-core_sjs0.6_2.12@0.10.1-ZIORC16?classifier=sources
+- pkg:maven/io.7mind.izumi/distage-core_sjs0.6_2.12@0.10.1?classifier=sources

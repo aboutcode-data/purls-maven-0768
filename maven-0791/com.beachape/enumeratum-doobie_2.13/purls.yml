@@ -1,0 +1,4 @@
+- pkg:maven/com.beachape/enumeratum-doobie_2.13@1.5.16
+- pkg:maven/com.beachape/enumeratum-doobie_2.13@1.5.16?classifier=sources
+- pkg:maven/com.beachape/enumeratum-doobie_2.13@1.5.17
+- pkg:maven/com.beachape/enumeratum-doobie_2.13@1.5.17?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/ru.oleg-cherednik.zip4jvm/zip4jvm@0.7?classifier=sources
 - pkg:maven/ru.oleg-cherednik.zip4jvm/zip4jvm@0.8?classifier=sources
+- pkg:maven/ru.oleg-cherednik.zip4jvm/zip4jvm@1.0?classifier=sources
+- pkg:maven/ru.oleg-cherednik.zip4jvm/zip4jvm@1.1?classifier=sources

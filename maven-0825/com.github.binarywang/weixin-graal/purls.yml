@@ -1,0 +1,2 @@
+- pkg:maven/com.github.binarywang/weixin-graal@3.6.8.B
+- pkg:maven/com.github.binarywang/weixin-graal@3.6.8.B?classifier=sources

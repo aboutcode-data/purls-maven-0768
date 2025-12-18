@@ -19,3 +19,5 @@
 - pkg:maven/org.linuxprobe/luava-spring-mvc@0.0.5.RS7?classifier=sources
 - pkg:maven/org.linuxprobe/luava-spring-mvc@0.0.5.RS8
 - pkg:maven/org.linuxprobe/luava-spring-mvc@0.0.5.RS8?classifier=sources
+- pkg:maven/org.linuxprobe/luava-spring-mvc@0.0.5.RS9
+- pkg:maven/org.linuxprobe/luava-spring-mvc@0.0.5.RS9?classifier=sources

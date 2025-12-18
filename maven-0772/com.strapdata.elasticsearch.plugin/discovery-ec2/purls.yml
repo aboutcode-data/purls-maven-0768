@@ -5,3 +5,4 @@
 - pkg:maven/com.strapdata.elasticsearch.plugin/discovery-ec2@6.2.3.17?classifier=sources
 - pkg:maven/com.strapdata.elasticsearch.plugin/discovery-ec2@6.2.3.19?classifier=sources
 - pkg:maven/com.strapdata.elasticsearch.plugin/discovery-ec2@6.2.3.20?classifier=sources
+- pkg:maven/com.strapdata.elasticsearch.plugin/discovery-ec2@6.2.3.24?classifier=sources

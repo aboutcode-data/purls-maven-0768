@@ -16,3 +16,5 @@
 - pkg:maven/org.sangria-graphql/sangria-slowlog_2.12@0.1.7?classifier=sources
 - pkg:maven/org.sangria-graphql/sangria-slowlog_2.12@0.1.8
 - pkg:maven/org.sangria-graphql/sangria-slowlog_2.12@0.1.8?classifier=sources
+- pkg:maven/org.sangria-graphql/sangria-slowlog_2.12@2.0.0-M1
+- pkg:maven/org.sangria-graphql/sangria-slowlog_2.12@2.0.0-M1?classifier=sources

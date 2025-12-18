@@ -1,0 +1,2 @@
+- pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.3.0_2.11@0.3.2
+- pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.3.0_2.11@0.3.2?classifier=sources

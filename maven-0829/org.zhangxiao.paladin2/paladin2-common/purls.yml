@@ -23,3 +23,5 @@
 - pkg:maven/org.zhangxiao.paladin2/paladin2-common@0.1.3?classifier=sources
 - pkg:maven/org.zhangxiao.paladin2/paladin2-common@0.1.4
 - pkg:maven/org.zhangxiao.paladin2/paladin2-common@0.1.4?classifier=sources
+- pkg:maven/org.zhangxiao.paladin2/paladin2-common@0.1.5
+- pkg:maven/org.zhangxiao.paladin2/paladin2-common@0.1.5?classifier=sources

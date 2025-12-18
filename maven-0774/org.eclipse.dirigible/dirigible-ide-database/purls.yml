@@ -31,3 +31,6 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-database@3.5.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-database@3.5.1
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-database@3.5.2
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-database@4.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-database@4.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-database@4.2.0

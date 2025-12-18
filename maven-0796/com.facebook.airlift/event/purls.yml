@@ -2,3 +2,9 @@
 - pkg:maven/com.facebook.airlift/event@0.185?classifier=sources
 - pkg:maven/com.facebook.airlift/event@0.186
 - pkg:maven/com.facebook.airlift/event@0.186?classifier=sources
+- pkg:maven/com.facebook.airlift/event@0.187
+- pkg:maven/com.facebook.airlift/event@0.187?classifier=sources
+- pkg:maven/com.facebook.airlift/event@0.188
+- pkg:maven/com.facebook.airlift/event@0.188?classifier=sources
+- pkg:maven/com.facebook.airlift/event@0.189
+- pkg:maven/com.facebook.airlift/event@0.189?classifier=sources

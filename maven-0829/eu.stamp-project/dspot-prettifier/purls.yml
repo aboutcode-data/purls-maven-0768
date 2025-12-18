@@ -8,3 +8,7 @@
 - pkg:maven/eu.stamp-project/dspot-prettifier@2.2.0?classifier=sources
 - pkg:maven/eu.stamp-project/dspot-prettifier@2.2.1
 - pkg:maven/eu.stamp-project/dspot-prettifier@2.2.1?classifier=sources
+- pkg:maven/eu.stamp-project/dspot-prettifier@3.0.0
+- pkg:maven/eu.stamp-project/dspot-prettifier@3.0.0?classifier=sources
+- pkg:maven/eu.stamp-project/dspot-prettifier@3.1.0
+- pkg:maven/eu.stamp-project/dspot-prettifier@3.1.0?classifier=sources

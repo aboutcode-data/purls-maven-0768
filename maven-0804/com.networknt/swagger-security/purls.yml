@@ -109,6 +109,14 @@
 - pkg:maven/com.networknt/swagger-security@1.6.0
 - pkg:maven/com.networknt/swagger-security@1.6.0?classifier=sources
 - pkg:maven/com.networknt/swagger-security@1.6.1
+- pkg:maven/com.networknt/swagger-security@1.6.10
+- pkg:maven/com.networknt/swagger-security@1.6.10?classifier=sources
+- pkg:maven/com.networknt/swagger-security@1.6.11
+- pkg:maven/com.networknt/swagger-security@1.6.11?classifier=sources
+- pkg:maven/com.networknt/swagger-security@1.6.13
+- pkg:maven/com.networknt/swagger-security@1.6.13?classifier=sources
+- pkg:maven/com.networknt/swagger-security@1.6.14
+- pkg:maven/com.networknt/swagger-security@1.6.14?classifier=sources
 - pkg:maven/com.networknt/swagger-security@1.6.1?classifier=sources
 - pkg:maven/com.networknt/swagger-security@1.6.2
 - pkg:maven/com.networknt/swagger-security@1.6.2?classifier=sources
@@ -129,6 +137,8 @@
 - pkg:maven/com.networknt/swagger-security@2.0.0-BETA2?classifier=sources
 - pkg:maven/com.networknt/swagger-security@2.0.0?classifier=sources
 - pkg:maven/com.networknt/swagger-security@2.0.1
+- pkg:maven/com.networknt/swagger-security@2.0.10
+- pkg:maven/com.networknt/swagger-security@2.0.10?classifier=sources
 - pkg:maven/com.networknt/swagger-security@2.0.1?classifier=sources
 - pkg:maven/com.networknt/swagger-security@2.0.2
 - pkg:maven/com.networknt/swagger-security@2.0.2?classifier=sources
@@ -140,3 +150,9 @@
 - pkg:maven/com.networknt/swagger-security@2.0.5?classifier=sources
 - pkg:maven/com.networknt/swagger-security@2.0.6
 - pkg:maven/com.networknt/swagger-security@2.0.6?classifier=sources
+- pkg:maven/com.networknt/swagger-security@2.0.7
+- pkg:maven/com.networknt/swagger-security@2.0.7?classifier=sources
+- pkg:maven/com.networknt/swagger-security@2.0.8
+- pkg:maven/com.networknt/swagger-security@2.0.8?classifier=sources
+- pkg:maven/com.networknt/swagger-security@2.0.9
+- pkg:maven/com.networknt/swagger-security@2.0.9?classifier=sources

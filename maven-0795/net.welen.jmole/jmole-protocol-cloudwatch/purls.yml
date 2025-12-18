@@ -1,0 +1,2 @@
+- pkg:maven/net.welen.jmole/jmole-protocol-cloudwatch@1.5.2
+- pkg:maven/net.welen.jmole/jmole-protocol-cloudwatch@1.5.2?classifier=sources

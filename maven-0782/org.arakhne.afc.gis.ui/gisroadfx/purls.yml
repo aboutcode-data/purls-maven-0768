@@ -6,3 +6,5 @@
 - pkg:maven/org.arakhne.afc.gis.ui/gisroadfx@15.2?classifier=sources
 - pkg:maven/org.arakhne.afc.gis.ui/gisroadfx@16.0
 - pkg:maven/org.arakhne.afc.gis.ui/gisroadfx@16.0?classifier=sources
+- pkg:maven/org.arakhne.afc.gis.ui/gisroadfx@17.0
+- pkg:maven/org.arakhne.afc.gis.ui/gisroadfx@17.0?classifier=sources

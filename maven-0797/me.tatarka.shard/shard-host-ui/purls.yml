@@ -12,3 +12,5 @@
 - pkg:maven/me.tatarka.shard/shard-host-ui@1.0.0-beta01?type=aar
 - pkg:maven/me.tatarka.shard/shard-host-ui@1.0.0-beta02?classifier=sources
 - pkg:maven/me.tatarka.shard/shard-host-ui@1.0.0-beta02?type=aar
+- pkg:maven/me.tatarka.shard/shard-host-ui@1.0.0-beta03?classifier=sources
+- pkg:maven/me.tatarka.shard/shard-host-ui@1.0.0-beta03?type=aar

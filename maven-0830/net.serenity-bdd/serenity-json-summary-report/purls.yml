@@ -1,0 +1,4 @@
+- pkg:maven/net.serenity-bdd/serenity-json-summary-report@2.1.2
+- pkg:maven/net.serenity-bdd/serenity-json-summary-report@2.1.2?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-json-summary-report@2.1.4
+- pkg:maven/net.serenity-bdd/serenity-json-summary-report@2.1.4?classifier=sources

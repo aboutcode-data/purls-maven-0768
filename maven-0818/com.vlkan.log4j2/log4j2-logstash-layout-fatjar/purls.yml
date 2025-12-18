@@ -38,3 +38,7 @@
 - pkg:maven/com.vlkan.log4j2/log4j2-logstash-layout-fatjar@0.8?classifier=sources
 - pkg:maven/com.vlkan.log4j2/log4j2-logstash-layout-fatjar@0.9
 - pkg:maven/com.vlkan.log4j2/log4j2-logstash-layout-fatjar@0.9?classifier=sources
+- pkg:maven/com.vlkan.log4j2/log4j2-logstash-layout-fatjar@1.0.0
+- pkg:maven/com.vlkan.log4j2/log4j2-logstash-layout-fatjar@1.0.0?classifier=sources
+- pkg:maven/com.vlkan.log4j2/log4j2-logstash-layout-fatjar@1.0.1
+- pkg:maven/com.vlkan.log4j2/log4j2-logstash-layout-fatjar@1.0.1?classifier=sources

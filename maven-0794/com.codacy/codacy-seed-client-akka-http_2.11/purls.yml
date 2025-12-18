@@ -1,0 +1,14 @@
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.0.1-bump.0ef8b9f_akka24Circe08
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.0.1-bump.0ef8b9f_akka24Circe08?classifier=sources
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.0.1-bump.0ef8b9f_akka25Circe08
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.0.1-bump.0ef8b9f_akka25Circe08?classifier=sources
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.0.1-master.448b197_akka24Circe08
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.0.1-master.448b197_akka24Circe08?classifier=sources
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.0.1-master.7c458b4_akka24Circe08
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.0.1-master.7c458b4_akka24Circe08?classifier=sources
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.0.1-master.7c458b4_akka25Circe08
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.0.1-master.7c458b4_akka25Circe08?classifier=sources
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.0.1-master.c6700b0_akka24Circe08
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.0.1-master.c6700b0_akka24Circe08?classifier=sources
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.0.1-master.c6700b0_akka25Circe08
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.0.1-master.c6700b0_akka25Circe08?classifier=sources

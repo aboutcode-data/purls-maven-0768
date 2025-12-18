@@ -22,3 +22,5 @@
 - pkg:maven/com.liferay.blade/com.liferay.blade.cli@3.7.4?classifier=sources
 - pkg:maven/com.liferay.blade/com.liferay.blade.cli@3.8.0
 - pkg:maven/com.liferay.blade/com.liferay.blade.cli@3.8.0?classifier=sources
+- pkg:maven/com.liferay.blade/com.liferay.blade.cli@3.9.0
+- pkg:maven/com.liferay.blade/com.liferay.blade.cli@3.9.0?classifier=sources

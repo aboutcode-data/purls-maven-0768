@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-testng@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-testng@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-testng@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-testng@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-testng@RELEASE90?classifier=sources

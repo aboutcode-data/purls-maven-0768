@@ -1,0 +1,4 @@
+- pkg:maven/me.lyh/parquet-types_2.12@0.3.0
+- pkg:maven/me.lyh/parquet-types_2.12@0.3.0?classifier=sources
+- pkg:maven/me.lyh/parquet-types_2.12@0.3.1
+- pkg:maven/me.lyh/parquet-types_2.12@0.3.1?classifier=sources

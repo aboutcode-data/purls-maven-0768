@@ -1,0 +1,4 @@
+- pkg:maven/com.zhaofujun.automapper/automapper@1.0.release
+- pkg:maven/com.zhaofujun.automapper/automapper@1.0.release?classifier=sources
+- pkg:maven/com.zhaofujun.automapper/automapper@1.2.RELEASE
+- pkg:maven/com.zhaofujun.automapper/automapper@1.2.RELEASE?classifier=sources

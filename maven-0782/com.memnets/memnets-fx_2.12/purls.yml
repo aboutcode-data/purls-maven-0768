@@ -1,0 +1,4 @@
+- pkg:maven/com.memnets/memnets-fx_2.12@1.0.0
+- pkg:maven/com.memnets/memnets-fx_2.12@1.0.0-12.0.2
+- pkg:maven/com.memnets/memnets-fx_2.12@1.0.0-12.0.2?classifier=sources
+- pkg:maven/com.memnets/memnets-fx_2.12@1.0.0?classifier=sources

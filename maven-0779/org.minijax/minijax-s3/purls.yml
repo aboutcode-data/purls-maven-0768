@@ -35,4 +35,6 @@
 - pkg:maven/org.minijax/minijax-s3@0.3.7
 - pkg:maven/org.minijax/minijax-s3@0.3.7?classifier=sources
 - pkg:maven/org.minijax/minijax-s3@0.4.1
+- pkg:maven/org.minijax/minijax-s3@0.4.13
+- pkg:maven/org.minijax/minijax-s3@0.4.13?classifier=sources
 - pkg:maven/org.minijax/minijax-s3@0.4.1?classifier=sources

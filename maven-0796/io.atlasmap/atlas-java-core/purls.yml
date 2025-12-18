@@ -85,6 +85,8 @@
 - pkg:maven/io.atlasmap/atlas-java-core@1.42.0
 - pkg:maven/io.atlasmap/atlas-java-core@1.42.0?classifier=sources
 - pkg:maven/io.atlasmap/atlas-java-core@1.42.1
+- pkg:maven/io.atlasmap/atlas-java-core@1.42.10
+- pkg:maven/io.atlasmap/atlas-java-core@1.42.10?classifier=sources
 - pkg:maven/io.atlasmap/atlas-java-core@1.42.1?classifier=sources
 - pkg:maven/io.atlasmap/atlas-java-core@1.42.2
 - pkg:maven/io.atlasmap/atlas-java-core@1.42.2?classifier=sources
@@ -102,3 +104,13 @@
 - pkg:maven/io.atlasmap/atlas-java-core@1.42.8?classifier=sources
 - pkg:maven/io.atlasmap/atlas-java-core@1.42.9
 - pkg:maven/io.atlasmap/atlas-java-core@1.42.9?classifier=sources
+- pkg:maven/io.atlasmap/atlas-java-core@1.43.0
+- pkg:maven/io.atlasmap/atlas-java-core@1.43.0?classifier=sources
+- pkg:maven/io.atlasmap/atlas-java-core@1.43.1
+- pkg:maven/io.atlasmap/atlas-java-core@1.43.1?classifier=sources
+- pkg:maven/io.atlasmap/atlas-java-core@1.43.2
+- pkg:maven/io.atlasmap/atlas-java-core@1.43.2?classifier=sources
+- pkg:maven/io.atlasmap/atlas-java-core@1.43.3
+- pkg:maven/io.atlasmap/atlas-java-core@1.43.3?classifier=sources
+- pkg:maven/io.atlasmap/atlas-java-core@1.43.4
+- pkg:maven/io.atlasmap/atlas-java-core@1.43.4?classifier=sources

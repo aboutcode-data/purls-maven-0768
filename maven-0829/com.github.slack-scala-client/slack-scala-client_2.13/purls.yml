@@ -1,0 +1,2 @@
+- pkg:maven/com.github.slack-scala-client/slack-scala-client_2.13@0.2.7
+- pkg:maven/com.github.slack-scala-client/slack-scala-client_2.13@0.2.7?classifier=sources

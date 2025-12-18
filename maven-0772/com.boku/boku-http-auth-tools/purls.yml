@@ -1,0 +1,2 @@
+- pkg:maven/com.boku/boku-http-auth-tools@1.1
+- pkg:maven/com.boku/boku-http-auth-tools@1.1?classifier=sources

@@ -4,6 +4,10 @@
 - pkg:maven/se.lovef/kotlin-assert-utils@0.1.0?classifier=sources
 - pkg:maven/se.lovef/kotlin-assert-utils@0.1.1
 - pkg:maven/se.lovef/kotlin-assert-utils@0.1.1?classifier=sources
+- pkg:maven/se.lovef/kotlin-assert-utils@0.10.0
+- pkg:maven/se.lovef/kotlin-assert-utils@0.10.0?classifier=sources
+- pkg:maven/se.lovef/kotlin-assert-utils@0.10.1
+- pkg:maven/se.lovef/kotlin-assert-utils@0.10.1?classifier=sources
 - pkg:maven/se.lovef/kotlin-assert-utils@0.2.0
 - pkg:maven/se.lovef/kotlin-assert-utils@0.2.0?classifier=sources
 - pkg:maven/se.lovef/kotlin-assert-utils@0.2.1

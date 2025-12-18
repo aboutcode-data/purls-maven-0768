@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.client/opentracing-backend_2.12@2.0.0-RC6
+- pkg:maven/com.softwaremill.sttp.client/opentracing-backend_2.12@2.0.0-RC6?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client/opentracing-backend_2.12@2.0.0-RC7
+- pkg:maven/com.softwaremill.sttp.client/opentracing-backend_2.12@2.0.0-RC7?classifier=sources

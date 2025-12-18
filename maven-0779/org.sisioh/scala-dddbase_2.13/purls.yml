@@ -1,0 +1,2 @@
+- pkg:maven/org.sisioh/scala-dddbase_2.13@0.2.12
+- pkg:maven/org.sisioh/scala-dddbase_2.13@0.2.12?classifier=sources

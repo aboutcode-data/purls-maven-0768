@@ -1,2 +1,4 @@
 - pkg:maven/me.jeffshaw.inotifywait/inotifywait_2.11@1.0
 - pkg:maven/me.jeffshaw.inotifywait/inotifywait_2.11@1.0?classifier=sources
+- pkg:maven/me.jeffshaw.inotifywait/inotifywait_2.11@2.0
+- pkg:maven/me.jeffshaw.inotifywait/inotifywait_2.11@2.0?classifier=sources

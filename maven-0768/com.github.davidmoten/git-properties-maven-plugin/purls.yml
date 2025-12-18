@@ -1,0 +1,2 @@
+- pkg:maven/com.github.davidmoten/git-properties-maven-plugin@0.1
+- pkg:maven/com.github.davidmoten/git-properties-maven-plugin@0.1?classifier=sources

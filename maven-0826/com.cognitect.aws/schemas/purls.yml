@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect.aws/schemas@776.2.582.0
+- pkg:maven/com.cognitect.aws/schemas@776.2.582.0?classifier=sources

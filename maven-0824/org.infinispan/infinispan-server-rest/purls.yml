@@ -22,6 +22,16 @@
 - pkg:maven/org.infinispan/infinispan-server-rest@10.0.0.CR3?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@10.0.0.Final
 - pkg:maven/org.infinispan/infinispan-server-rest@10.0.0.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@10.0.1.Final
+- pkg:maven/org.infinispan/infinispan-server-rest@10.0.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@10.1.0.Beta1
+- pkg:maven/org.infinispan/infinispan-server-rest@10.1.0.Beta1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@10.1.0.CR1
+- pkg:maven/org.infinispan/infinispan-server-rest@10.1.0.CR1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@10.1.0.Final
+- pkg:maven/org.infinispan/infinispan-server-rest@10.1.0.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@10.1.1.Final
+- pkg:maven/org.infinispan/infinispan-server-rest@10.1.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@5.0.0.FINAL?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@5.0.0.FINAL?type=war
 - pkg:maven/org.infinispan/infinispan-server-rest@5.0.1.FINAL?classifier=sources
@@ -293,6 +303,8 @@
 - pkg:maven/org.infinispan/infinispan-server-rest@8.2.10.Final?type=war
 - pkg:maven/org.infinispan/infinispan-server-rest@8.2.11.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@8.2.11.Final?type=war
+- pkg:maven/org.infinispan/infinispan-server-rest@8.2.12.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@8.2.12.Final?type=war
 - pkg:maven/org.infinispan/infinispan-server-rest@8.2.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@8.2.2.Final?type=war
 - pkg:maven/org.infinispan/infinispan-server-rest@8.2.3.Final?classifier=sources
@@ -403,6 +415,8 @@
 - pkg:maven/org.infinispan/infinispan-server-rest@9.3.5.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@9.3.6.Final
 - pkg:maven/org.infinispan/infinispan-server-rest@9.3.6.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@9.3.8.Final
+- pkg:maven/org.infinispan/infinispan-server-rest@9.3.8.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@9.4.0.Alpha1
 - pkg:maven/org.infinispan/infinispan-server-rest@9.4.0.Alpha1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@9.4.0.Beta1
@@ -431,6 +445,8 @@
 - pkg:maven/org.infinispan/infinispan-server-rest@9.4.15.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@9.4.16.Final
 - pkg:maven/org.infinispan/infinispan-server-rest@9.4.16.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-rest@9.4.17.Final
+- pkg:maven/org.infinispan/infinispan-server-rest@9.4.17.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@9.4.2.Final
 - pkg:maven/org.infinispan/infinispan-server-rest@9.4.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-rest@9.4.3.Final

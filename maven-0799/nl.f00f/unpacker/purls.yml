@@ -1,0 +1,2 @@
+- pkg:maven/nl.f00f/unpacker@1.0.0
+- pkg:maven/nl.f00f/unpacker@1.0.0?classifier=sources

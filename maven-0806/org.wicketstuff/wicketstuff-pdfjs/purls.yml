@@ -10,6 +10,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-pdfjs@7.14.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-pdfjs@7.15.0
 - pkg:maven/org.wicketstuff/wicketstuff-pdfjs@7.15.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-pdfjs@7.16.0
+- pkg:maven/org.wicketstuff/wicketstuff-pdfjs@7.16.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-pdfjs@7.6.0
 - pkg:maven/org.wicketstuff/wicketstuff-pdfjs@7.6.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-pdfjs@7.7.0

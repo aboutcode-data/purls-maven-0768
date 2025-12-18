@@ -1,4 +1,6 @@
 - pkg:maven/org.tentackle/tentackle-script-jsr@11.5.0.0
 - pkg:maven/org.tentackle/tentackle-script-jsr@11.5.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-script-jsr@11.6.0.0
+- pkg:maven/org.tentackle/tentackle-script-jsr@11.6.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-script-jsr@8.2.7.0
 - pkg:maven/org.tentackle/tentackle-script-jsr@8.2.7.0?classifier=sources

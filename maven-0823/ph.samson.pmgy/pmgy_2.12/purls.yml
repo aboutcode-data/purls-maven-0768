@@ -1,0 +1,2 @@
+- pkg:maven/ph.samson.pmgy/pmgy_2.12@1
+- pkg:maven/ph.samson.pmgy/pmgy_2.12@1?classifier=sources

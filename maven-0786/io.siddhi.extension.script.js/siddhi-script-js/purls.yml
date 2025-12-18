@@ -1,3 +1,5 @@
 - pkg:maven/io.siddhi.extension.script.js/siddhi-script-js@5.0.1
 - pkg:maven/io.siddhi.extension.script.js/siddhi-script-js@5.0.1?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.script.js/siddhi-script-js@5.0.2
+- pkg:maven/io.siddhi.extension.script.js/siddhi-script-js@5.0.3
+- pkg:maven/io.siddhi.extension.script.js/siddhi-script-js@5.0.3?classifier=source-release&type=zip

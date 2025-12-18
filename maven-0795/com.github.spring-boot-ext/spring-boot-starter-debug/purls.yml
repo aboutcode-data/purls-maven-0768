@@ -1,0 +1,2 @@
+- pkg:maven/com.github.spring-boot-ext/spring-boot-starter-debug@2.1.4
+- pkg:maven/com.github.spring-boot-ext/spring-boot-starter-debug@2.1.4?classifier=sources

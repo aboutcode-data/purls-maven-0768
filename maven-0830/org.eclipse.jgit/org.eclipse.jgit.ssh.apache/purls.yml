@@ -26,3 +26,5 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.ssh.apache@5.5.0.201909110433-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.ssh.apache@5.5.1.201910021850-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.ssh.apache@5.5.1.201910021850-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.ssh.apache@5.6.0.201912101111-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.ssh.apache@5.6.0.201912101111-r?classifier=sources

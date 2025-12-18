@@ -36,6 +36,8 @@
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.15.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.15.2-01
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.15.2-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.15.3-01
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.15.3-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.16.0-01
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.16.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.16.1-02
@@ -44,6 +46,8 @@
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.16.2-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.17.0-01
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.17.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.17.1-01
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.17.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.18.0-01
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.18.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.18.1-01
@@ -56,6 +60,16 @@
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.2.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.2.1-01
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.2.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.20.0-02
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.20.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.20.0-04
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.20.0-04?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.20.1-01
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.20.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.21.0-01
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.21.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.21.0-02
+- pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.21.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.3.0-01
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.3.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-blobstore-api@3.3.1-01

@@ -1,5 +1,14 @@
 - pkg:maven/com.liferay.commerce/minium-theme@2.0.0?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@2.0.10?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@2.0.11?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@2.0.12?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@2.0.13?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@2.0.14?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@2.0.15?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@2.0.16?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@2.0.17?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@2.0.18?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@2.0.19?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@2.0.1?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@2.0.2?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@2.0.3?type=war

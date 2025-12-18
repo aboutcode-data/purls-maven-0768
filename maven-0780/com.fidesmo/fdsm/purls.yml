@@ -12,3 +12,5 @@
 - pkg:maven/com.fidesmo/fdsm@19.04.11?classifier=sources
 - pkg:maven/com.fidesmo/fdsm@19.09.16
 - pkg:maven/com.fidesmo/fdsm@19.09.16?classifier=sources
+- pkg:maven/com.fidesmo/fdsm@20.01.09
+- pkg:maven/com.fidesmo/fdsm@20.01.09?classifier=sources

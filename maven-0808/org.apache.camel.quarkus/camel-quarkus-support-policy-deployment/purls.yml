@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy-deployment@1.0.0-M3
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy-deployment@1.0.0-M3?classifier=sources

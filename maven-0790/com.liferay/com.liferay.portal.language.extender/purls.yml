@@ -79,6 +79,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.16
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.17
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.2
@@ -114,3 +117,15 @@
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.3
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.4
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.5
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@5.0.1
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@5.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@5.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@5.0.2
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@5.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@5.0.2?classifier=sources-commercial

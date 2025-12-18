@@ -14,3 +14,5 @@
 - pkg:maven/ch.codeblock.qrinvoice.rest/qrinvoice-rest-webgui@1.3?classifier=sources
 - pkg:maven/ch.codeblock.qrinvoice.rest/qrinvoice-rest-webgui@1.4
 - pkg:maven/ch.codeblock.qrinvoice.rest/qrinvoice-rest-webgui@1.4?classifier=sources
+- pkg:maven/ch.codeblock.qrinvoice.rest/qrinvoice-rest-webgui@1.5
+- pkg:maven/ch.codeblock.qrinvoice.rest/qrinvoice-rest-webgui@1.5?classifier=sources

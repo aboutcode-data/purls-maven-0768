@@ -1,3 +1,6 @@
+- pkg:maven/org.apache.nifi/nifi-kerberos-credentials-service-nar@1.10.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-kerberos-credentials-service-nar@1.11.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-kerberos-credentials-service-nar@1.11.1?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-kerberos-credentials-service-nar@1.6.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-kerberos-credentials-service-nar@1.7.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-kerberos-credentials-service-nar@1.7.1?classifier=sources

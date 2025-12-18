@@ -18,3 +18,7 @@
 - pkg:maven/com.kumuluz.ee/kumuluzee-jax-ws-cxf@3.4.1?classifier=sources
 - pkg:maven/com.kumuluz.ee/kumuluzee-jax-ws-cxf@3.5.0
 - pkg:maven/com.kumuluz.ee/kumuluzee-jax-ws-cxf@3.5.0?classifier=sources
+- pkg:maven/com.kumuluz.ee/kumuluzee-jax-ws-cxf@3.6.0
+- pkg:maven/com.kumuluz.ee/kumuluzee-jax-ws-cxf@3.6.0?classifier=sources
+- pkg:maven/com.kumuluz.ee/kumuluzee-jax-ws-cxf@3.6.1
+- pkg:maven/com.kumuluz.ee/kumuluzee-jax-ws-cxf@3.6.1?classifier=sources

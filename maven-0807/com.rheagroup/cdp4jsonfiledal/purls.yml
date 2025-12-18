@@ -1,2 +1,4 @@
 - pkg:maven/com.rheagroup/cdp4jsonfiledal@1.0.0
 - pkg:maven/com.rheagroup/cdp4jsonfiledal@1.0.0?classifier=sources
+- pkg:maven/com.rheagroup/cdp4jsonfiledal@1.1.0
+- pkg:maven/com.rheagroup/cdp4jsonfiledal@1.1.0?classifier=sources
