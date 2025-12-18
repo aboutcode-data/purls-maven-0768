@@ -1,2 +1,4 @@
 - pkg:maven/com.github.tadukoo.database/TadukooMySQL@0.2.2-Alpha
 - pkg:maven/com.github.tadukoo.database/TadukooMySQL@0.2.2-Alpha?classifier=sources
+- pkg:maven/com.github.tadukoo.database/TadukooMySQL@0.3-Alpha
+- pkg:maven/com.github.tadukoo.database/TadukooMySQL@0.3-Alpha?classifier=sources

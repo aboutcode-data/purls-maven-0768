@@ -2,3 +2,5 @@
 - pkg:maven/com.rbkmoney.adapter-client-lib/fistful-client-withdrawal@2.1.27?classifier=sources
 - pkg:maven/com.rbkmoney.adapter-client-lib/fistful-client-withdrawal@2.1.28
 - pkg:maven/com.rbkmoney.adapter-client-lib/fistful-client-withdrawal@2.1.28?classifier=sources
+- pkg:maven/com.rbkmoney.adapter-client-lib/fistful-client-withdrawal@3.0.0
+- pkg:maven/com.rbkmoney.adapter-client-lib/fistful-client-withdrawal@3.0.0?classifier=sources

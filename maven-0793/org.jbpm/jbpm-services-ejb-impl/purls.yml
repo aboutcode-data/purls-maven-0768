@@ -214,6 +214,8 @@
 - pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.61.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.62.0.Final
 - pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.62.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.63.0.Final
+- pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.63.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.7.0.Final
 - pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.7.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.8.0.Final

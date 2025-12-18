@@ -1,2 +1,6 @@
 - pkg:maven/com.softicar.platform/platform-db-structure@10.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-structure@11.0.0%2Bpatch1?classifier=sources
 - pkg:maven/com.softicar.platform/platform-db-structure@11.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-structure@12.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-structure@12.1.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-structure@12.1.1?classifier=sources

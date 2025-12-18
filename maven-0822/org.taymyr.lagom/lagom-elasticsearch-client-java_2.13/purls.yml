@@ -1,5 +1,7 @@
 - pkg:maven/org.taymyr.lagom/lagom-elasticsearch-client-java_2.13@1.0.0-M10
 - pkg:maven/org.taymyr.lagom/lagom-elasticsearch-client-java_2.13@1.0.0-M10?classifier=sources
+- pkg:maven/org.taymyr.lagom/lagom-elasticsearch-client-java_2.13@1.0.0-M11
+- pkg:maven/org.taymyr.lagom/lagom-elasticsearch-client-java_2.13@1.0.0-M11?classifier=sources
 - pkg:maven/org.taymyr.lagom/lagom-elasticsearch-client-java_2.13@1.0.0-M6
 - pkg:maven/org.taymyr.lagom/lagom-elasticsearch-client-java_2.13@1.0.0-M6?classifier=sources
 - pkg:maven/org.taymyr.lagom/lagom-elasticsearch-client-java_2.13@1.0.0-M7

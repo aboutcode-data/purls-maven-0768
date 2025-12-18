@@ -1,0 +1,4 @@
+- pkg:maven/dev.zio/zio-concurrent_sjs1_2.11@1.0.13
+- pkg:maven/dev.zio/zio-concurrent_sjs1_2.11@1.0.13?classifier=sources
+- pkg:maven/dev.zio/zio-concurrent_sjs1_2.11@2.0.0-RC1
+- pkg:maven/dev.zio/zio-concurrent_sjs1_2.11@2.0.0-RC1?classifier=sources

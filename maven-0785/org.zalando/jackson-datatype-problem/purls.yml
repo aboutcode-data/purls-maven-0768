@@ -28,6 +28,10 @@
 - pkg:maven/org.zalando/jackson-datatype-problem@0.26.0-RC.0
 - pkg:maven/org.zalando/jackson-datatype-problem@0.26.0-RC.0?classifier=sources
 - pkg:maven/org.zalando/jackson-datatype-problem@0.26.0?classifier=sources
+- pkg:maven/org.zalando/jackson-datatype-problem@0.27.0
+- pkg:maven/org.zalando/jackson-datatype-problem@0.27.0?classifier=sources
+- pkg:maven/org.zalando/jackson-datatype-problem@0.27.1
+- pkg:maven/org.zalando/jackson-datatype-problem@0.27.1?classifier=sources
 - pkg:maven/org.zalando/jackson-datatype-problem@0.3.0
 - pkg:maven/org.zalando/jackson-datatype-problem@0.3.0?classifier=sources
 - pkg:maven/org.zalando/jackson-datatype-problem@0.4.0

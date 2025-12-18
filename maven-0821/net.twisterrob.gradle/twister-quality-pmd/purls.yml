@@ -2,5 +2,6 @@
 - pkg:maven/net.twisterrob.gradle/twister-quality-pmd@0.10?classifier=sources
 - pkg:maven/net.twisterrob.gradle/twister-quality-pmd@0.11?classifier=sources
 - pkg:maven/net.twisterrob.gradle/twister-quality-pmd@0.12?classifier=sources
+- pkg:maven/net.twisterrob.gradle/twister-quality-pmd@0.13?classifier=sources
 - pkg:maven/net.twisterrob.gradle/twister-quality-pmd@0.9
 - pkg:maven/net.twisterrob.gradle/twister-quality-pmd@0.9?classifier=sources

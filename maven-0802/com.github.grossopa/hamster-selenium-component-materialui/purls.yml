@@ -15,4 +15,8 @@
 - pkg:maven/com.github.grossopa/hamster-selenium-component-materialui@1.7
 - pkg:maven/com.github.grossopa/hamster-selenium-component-materialui@1.7?classifier=sources
 - pkg:maven/com.github.grossopa/hamster-selenium-component-materialui@1.8
+- pkg:maven/com.github.grossopa/hamster-selenium-component-materialui@1.8.2
+- pkg:maven/com.github.grossopa/hamster-selenium-component-materialui@1.8.2?classifier=sources
 - pkg:maven/com.github.grossopa/hamster-selenium-component-materialui@1.8?classifier=sources
+- pkg:maven/com.github.grossopa/hamster-selenium-component-materialui@1.9
+- pkg:maven/com.github.grossopa/hamster-selenium-component-materialui@1.9?classifier=sources

@@ -4,6 +4,7 @@
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-docker@0.13.0
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-docker@0.14.0
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-docker@0.15.0
+- pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-docker@0.15.1
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-docker@0.8.0
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-docker@0.9.0
 - pkg:maven/org.sahli.asciidoc.confluence.publisher/asciidoc-confluence-publisher-docker@0.9.1

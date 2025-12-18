@@ -1,0 +1,2 @@
+- pkg:maven/org.eobjects.metamodel/MetaModel-elasticsearch-common@5.3.4
+- pkg:maven/org.eobjects.metamodel/MetaModel-elasticsearch-common@5.3.4?classifier=sources

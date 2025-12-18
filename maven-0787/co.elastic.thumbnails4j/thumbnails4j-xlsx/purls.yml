@@ -1,0 +1,2 @@
+- pkg:maven/co.elastic.thumbnails4j/thumbnails4j-xlsx@1.0.0
+- pkg:maven/co.elastic.thumbnails4j/thumbnails4j-xlsx@1.0.0?classifier=sources

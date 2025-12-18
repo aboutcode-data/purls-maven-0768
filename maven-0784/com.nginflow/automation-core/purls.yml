@@ -1,2 +1,4 @@
 - pkg:maven/com.nginflow/automation-core@1.0.0
 - pkg:maven/com.nginflow/automation-core@1.0.0?classifier=sources
+- pkg:maven/com.nginflow/automation-core@2.0.0
+- pkg:maven/com.nginflow/automation-core@2.0.0?classifier=sources

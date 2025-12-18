@@ -76,6 +76,14 @@
 - pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.24.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.24.1
 - pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.24.1?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.25.0
+- pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.25.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.26.0
+- pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.26.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.26.1
+- pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.26.1?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.27.0
+- pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.27.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.3.0
 - pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.3.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-kotlin-sqlobject@3.4.0

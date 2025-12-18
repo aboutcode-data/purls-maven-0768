@@ -270,6 +270,8 @@
 - pkg:maven/org.gedcomx/gedcomx-date@2.141.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-date@2.142.0
 - pkg:maven/org.gedcomx/gedcomx-date@2.142.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-date@2.143.0
+- pkg:maven/org.gedcomx/gedcomx-date@2.143.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-date@2.15.0
 - pkg:maven/org.gedcomx/gedcomx-date@2.15.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-date@2.16.0

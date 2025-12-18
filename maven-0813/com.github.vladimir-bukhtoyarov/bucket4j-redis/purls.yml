@@ -1,2 +1,4 @@
+- pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-redis@7.0.0
 - pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-redis@7.0.0-beta-2020-04-18
 - pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-redis@7.0.0-beta-2020-04-18?classifier=sources
+- pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-redis@7.0.0?classifier=sources

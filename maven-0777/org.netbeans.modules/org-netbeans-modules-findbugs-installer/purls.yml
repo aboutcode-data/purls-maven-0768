@@ -11,4 +11,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-findbugs-installer@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-findbugs-installer@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-findbugs-installer@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-findbugs-installer@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-findbugs-installer@RELEASE90?classifier=sources

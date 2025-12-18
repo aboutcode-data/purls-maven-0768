@@ -38,3 +38,5 @@
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-20?classifier=sources
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-21
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-21?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-22
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-22?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/com.loftechs.sdk/lt@5.2.2.5?classifier=sources
 - pkg:maven/com.loftechs.sdk/lt@5.2.2?classifier=sources
 - pkg:maven/com.loftechs.sdk/lt@5.2.4.2?classifier=sources
+- pkg:maven/com.loftechs.sdk/lt@5.2.4.3?classifier=sources

@@ -24,3 +24,4 @@
 - pkg:maven/org.glassfish.main.common/glassfish-ee-api@6.2.1?classifier=sources
 - pkg:maven/org.glassfish.main.common/glassfish-ee-api@6.2.2?classifier=sources
 - pkg:maven/org.glassfish.main.common/glassfish-ee-api@6.2.3?classifier=sources
+- pkg:maven/org.glassfish.main.common/glassfish-ee-api@7.0.0-M1?classifier=sources

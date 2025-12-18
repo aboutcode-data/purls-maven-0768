@@ -1,0 +1,4 @@
+- pkg:maven/com.carrotsearch.progresso/progresso-jvmversion@1.7.3
+- pkg:maven/com.carrotsearch.progresso/progresso-jvmversion@1.7.3?classifier=sources
+- pkg:maven/com.carrotsearch.progresso/progresso-jvmversion@1.7.4
+- pkg:maven/com.carrotsearch.progresso/progresso-jvmversion@1.7.4?classifier=sources

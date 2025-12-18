@@ -29,4 +29,10 @@
 - pkg:maven/com.sondertara/excel-tara@0.0.3.306?classifier=sources
 - pkg:maven/com.sondertara/excel-tara@0.0.3.307
 - pkg:maven/com.sondertara/excel-tara@0.0.3.307?classifier=sources
+- pkg:maven/com.sondertara/excel-tara@0.0.3.308
+- pkg:maven/com.sondertara/excel-tara@0.0.3.308?classifier=sources
+- pkg:maven/com.sondertara/excel-tara@0.0.3.309
+- pkg:maven/com.sondertara/excel-tara@0.0.3.309?classifier=sources
 - pkg:maven/com.sondertara/excel-tara@0.0.3?classifier=sources
+- pkg:maven/com.sondertara/excel-tara@0.0.4.0
+- pkg:maven/com.sondertara/excel-tara@0.0.4.0?classifier=sources

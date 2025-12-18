@@ -1,2 +1,3 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee9-platform@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee9-platform@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee9-platform@RELEASE126?classifier=sources

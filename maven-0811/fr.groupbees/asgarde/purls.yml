@@ -1,2 +1,6 @@
+- pkg:maven/fr.groupbees/asgarde@0.13.0-alpha-1
+- pkg:maven/fr.groupbees/asgarde@0.13.0-alpha-1?classifier=sources
+- pkg:maven/fr.groupbees/asgarde@0.13.0-alpha1-
+- pkg:maven/fr.groupbees/asgarde@0.13.0-alpha1-?classifier=sources
 - pkg:maven/fr.groupbees/asgarde@0.7.0
 - pkg:maven/fr.groupbees/asgarde@0.7.0?classifier=sources

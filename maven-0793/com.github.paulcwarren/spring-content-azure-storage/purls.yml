@@ -8,5 +8,7 @@
 - pkg:maven/com.github.paulcwarren/spring-content-azure-storage@1.2.5?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-content-azure-storage@1.2.6
 - pkg:maven/com.github.paulcwarren/spring-content-azure-storage@1.2.6?classifier=sources
+- pkg:maven/com.github.paulcwarren/spring-content-azure-storage@1.2.7
+- pkg:maven/com.github.paulcwarren/spring-content-azure-storage@1.2.7?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-content-azure-storage@v1.2.3
 - pkg:maven/com.github.paulcwarren/spring-content-azure-storage@v1.2.3?classifier=sources

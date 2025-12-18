@@ -4,3 +4,4 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@1.5.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@1.5.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@1.5.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@1.5.4.Final?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.qinjie1314/common@1.1-RELEASE
+- pkg:maven/io.gitee.qinjie1314/common@1.1-RELEASE?classifier=sources

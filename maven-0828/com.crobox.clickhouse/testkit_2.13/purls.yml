@@ -50,3 +50,5 @@
 - pkg:maven/com.crobox.clickhouse/testkit_2.13@0.9.9?classifier=sources
 - pkg:maven/com.crobox.clickhouse/testkit_2.13@1.0.0
 - pkg:maven/com.crobox.clickhouse/testkit_2.13@1.0.0?classifier=sources
+- pkg:maven/com.crobox.clickhouse/testkit_2.13@1.0.1
+- pkg:maven/com.crobox.clickhouse/testkit_2.13@1.0.1?classifier=sources

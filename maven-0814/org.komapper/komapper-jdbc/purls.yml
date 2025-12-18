@@ -12,3 +12,6 @@
 - pkg:maven/org.komapper/komapper-jdbc@0.20.0?classifier=sources
 - pkg:maven/org.komapper/komapper-jdbc@0.21.0?classifier=sources
 - pkg:maven/org.komapper/komapper-jdbc@0.22.0?classifier=sources
+- pkg:maven/org.komapper/komapper-jdbc@0.23.0?classifier=sources
+- pkg:maven/org.komapper/komapper-jdbc@0.24.0?classifier=sources
+- pkg:maven/org.komapper/komapper-jdbc@0.25.0?classifier=sources

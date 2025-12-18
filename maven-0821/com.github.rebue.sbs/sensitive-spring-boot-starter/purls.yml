@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rebue.sbs/sensitive-spring-boot-starter@1.2.4
+- pkg:maven/com.github.rebue.sbs/sensitive-spring-boot-starter@1.2.4?classifier=sources

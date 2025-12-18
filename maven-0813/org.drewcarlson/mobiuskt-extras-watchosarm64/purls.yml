@@ -1,0 +1,7 @@
+- pkg:maven/org.drewcarlson/mobiuskt-extras-watchosarm64@0.2.0?classifier=sources
+- pkg:maven/org.drewcarlson/mobiuskt-extras-watchosarm64@0.2.1?classifier=sources
+- pkg:maven/org.drewcarlson/mobiuskt-extras-watchosarm64@0.3.0?classifier=sources
+- pkg:maven/org.drewcarlson/mobiuskt-extras-watchosarm64@0.3.1?classifier=sources
+- pkg:maven/org.drewcarlson/mobiuskt-extras-watchosarm64@0.4.0?classifier=sources
+- pkg:maven/org.drewcarlson/mobiuskt-extras-watchosarm64@0.4.1?classifier=sources
+- pkg:maven/org.drewcarlson/mobiuskt-extras-watchosarm64@v0.2.0?classifier=sources

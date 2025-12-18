@@ -1,0 +1,4 @@
+- pkg:maven/uk.m0nom/adif-processor@1.0.0
+- pkg:maven/uk.m0nom/adif-processor@1.0.0?classifier=sources
+- pkg:maven/uk.m0nom/adif-processor@1.0.1
+- pkg:maven/uk.m0nom/adif-processor@1.0.1?classifier=sources

@@ -16,6 +16,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@1.0.27
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@1.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@1.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@1.0.28
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@1.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@1.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@2.0.10
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@2.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@2.0.10?classifier=sources-commercial
@@ -34,6 +37,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@2.0.15
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@2.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@2.0.16
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@2.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@2.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@2.0.7
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@2.0.7?classifier=sources-commercial
@@ -67,6 +73,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@3.0.20
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@3.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@3.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@3.0.21
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@3.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@3.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@4.0.11
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@4.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@4.0.11?classifier=sources-commercial
@@ -91,6 +100,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@4.0.20
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@4.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@4.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@4.0.21
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@4.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@4.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@5.0.0
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.event.generators@5.0.0?classifier=sources-commercial

@@ -68,5 +68,9 @@
 - pkg:maven/io.lavagna/lavagna@1.1.6?type=war
 - pkg:maven/io.lavagna/lavagna@1.1.7?classifier=sources
 - pkg:maven/io.lavagna/lavagna@1.1.7?type=war
+- pkg:maven/io.lavagna/lavagna@1.1.8?classifier=sources
+- pkg:maven/io.lavagna/lavagna@1.1.8?type=war
+- pkg:maven/io.lavagna/lavagna@1.1.9?classifier=sources
+- pkg:maven/io.lavagna/lavagna@1.1.9?type=war
 - pkg:maven/io.lavagna/lavagna@1.1?classifier=sources
 - pkg:maven/io.lavagna/lavagna@1.1?type=war

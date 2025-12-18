@@ -82,3 +82,5 @@
 - pkg:maven/com.github.scullxbones/akka-persistence-mongo-rxmongo_2.12@3.0.6?classifier=sources
 - pkg:maven/com.github.scullxbones/akka-persistence-mongo-rxmongo_2.12@3.0.7
 - pkg:maven/com.github.scullxbones/akka-persistence-mongo-rxmongo_2.12@3.0.7?classifier=sources
+- pkg:maven/com.github.scullxbones/akka-persistence-mongo-rxmongo_2.12@3.0.8
+- pkg:maven/com.github.scullxbones/akka-persistence-mongo-rxmongo_2.12@3.0.8?classifier=sources

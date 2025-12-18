@@ -7,3 +7,5 @@
 - pkg:maven/com.github.grossopa/hamster-selenium-examples@1.6
 - pkg:maven/com.github.grossopa/hamster-selenium-examples@1.7
 - pkg:maven/com.github.grossopa/hamster-selenium-examples@1.8
+- pkg:maven/com.github.grossopa/hamster-selenium-examples@1.8.2
+- pkg:maven/com.github.grossopa/hamster-selenium-examples@1.9

@@ -52,3 +52,7 @@
 - pkg:maven/org.piangles.backbone.services/BackboneServices@2.6?classifier=sources
 - pkg:maven/org.piangles.backbone.services/BackboneServices@2.7
 - pkg:maven/org.piangles.backbone.services/BackboneServices@2.7?classifier=sources
+- pkg:maven/org.piangles.backbone.services/BackboneServices@2.8
+- pkg:maven/org.piangles.backbone.services/BackboneServices@2.8?classifier=sources
+- pkg:maven/org.piangles.backbone.services/BackboneServices@2.9
+- pkg:maven/org.piangles.backbone.services/BackboneServices@2.9?classifier=sources

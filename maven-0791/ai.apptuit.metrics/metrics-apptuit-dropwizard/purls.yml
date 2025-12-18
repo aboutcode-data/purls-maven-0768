@@ -1,0 +1,4 @@
+- pkg:maven/ai.apptuit.metrics/metrics-apptuit-dropwizard@0.9.6
+- pkg:maven/ai.apptuit.metrics/metrics-apptuit-dropwizard@0.9.6?classifier=sources
+- pkg:maven/ai.apptuit.metrics/metrics-apptuit-dropwizard@0.9.7
+- pkg:maven/ai.apptuit.metrics/metrics-apptuit-dropwizard@0.9.7?classifier=sources

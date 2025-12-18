@@ -10,3 +10,7 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-repl@1.44.1
 - pkg:maven/org.testingisdocumenting.webtau/webtau-repl@1.44.1?classifier=sources
 - pkg:maven/org.testingisdocumenting.webtau/webtau-repl@1.44?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-repl@1.45
+- pkg:maven/org.testingisdocumenting.webtau/webtau-repl@1.45.1
+- pkg:maven/org.testingisdocumenting.webtau/webtau-repl@1.45.1?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-repl@1.45?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/com.heanbian.block/heanbian-elasticsearch@1.1.8?classifier=sources
 - pkg:maven/com.heanbian.block/heanbian-elasticsearch@1.1.9
 - pkg:maven/com.heanbian.block/heanbian-elasticsearch@1.1.9?classifier=sources
+- pkg:maven/com.heanbian.block/heanbian-elasticsearch@2.0.0
+- pkg:maven/com.heanbian.block/heanbian-elasticsearch@2.0.0?classifier=sources

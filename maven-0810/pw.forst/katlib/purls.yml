@@ -3,3 +3,4 @@
 - pkg:maven/pw.forst/katlib@2.0.1?classifier=sources
 - pkg:maven/pw.forst/katlib@2.0.2?classifier=sources
 - pkg:maven/pw.forst/katlib@2.0.3?classifier=sources
+- pkg:maven/pw.forst/katlib@2.0.4?classifier=sources

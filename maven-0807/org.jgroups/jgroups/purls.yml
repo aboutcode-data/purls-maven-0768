@@ -386,6 +386,8 @@
 - pkg:maven/org.jgroups/jgroups@4.2.16.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@4.2.17.Final
 - pkg:maven/org.jgroups/jgroups@4.2.17.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@4.2.18.Final
+- pkg:maven/org.jgroups/jgroups@4.2.18.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@4.2.2.Final
 - pkg:maven/org.jgroups/jgroups@4.2.2.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@4.2.3.Final

@@ -1,1 +1,2 @@
+- pkg:maven/com.paysera.lib/kotlin-lib-common-sdk@1.0.0-LOCAL?classifier=sources
 - pkg:maven/com.paysera.lib/kotlin-lib-common-sdk@2.6.1?classifier=sources

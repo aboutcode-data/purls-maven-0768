@@ -24,3 +24,7 @@
 - pkg:maven/org.jboss.arquillian.graphene/arquillian-browser-screenshooter@2.3.2?classifier=sources
 - pkg:maven/org.jboss.arquillian.graphene/arquillian-browser-screenshooter@2.5.4
 - pkg:maven/org.jboss.arquillian.graphene/arquillian-browser-screenshooter@2.5.4?classifier=sources
+- pkg:maven/org.jboss.arquillian.graphene/arquillian-browser-screenshooter@3.0.0-alpha.1
+- pkg:maven/org.jboss.arquillian.graphene/arquillian-browser-screenshooter@3.0.0-alpha.1?classifier=sources
+- pkg:maven/org.jboss.arquillian.graphene/arquillian-browser-screenshooter@3.0.0-alpha.2
+- pkg:maven/org.jboss.arquillian.graphene/arquillian-browser-screenshooter@3.0.0-alpha.2?classifier=sources

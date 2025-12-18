@@ -12,3 +12,7 @@
 - pkg:maven/ru.i-novus.ms.rdm/rdm-n2o-api@3.3.0?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-n2o-api@3.3.1
 - pkg:maven/ru.i-novus.ms.rdm/rdm-n2o-api@3.3.1?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-n2o-api@3.3.2
+- pkg:maven/ru.i-novus.ms.rdm/rdm-n2o-api@3.3.2?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-n2o-api@4.0.0
+- pkg:maven/ru.i-novus.ms.rdm/rdm-n2o-api@4.0.0?classifier=sources

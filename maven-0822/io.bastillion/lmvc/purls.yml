@@ -1,0 +1,2 @@
+- pkg:maven/io.bastillion/lmvc@1.10.00
+- pkg:maven/io.bastillion/lmvc@1.10.00?classifier=sources

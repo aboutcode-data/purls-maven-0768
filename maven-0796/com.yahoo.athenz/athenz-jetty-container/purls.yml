@@ -61,6 +61,10 @@
 - pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.4
 - pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.40
 - pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.40?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.41
+- pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.41?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.42
+- pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.42?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.4?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.7
 - pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.7?classifier=sources

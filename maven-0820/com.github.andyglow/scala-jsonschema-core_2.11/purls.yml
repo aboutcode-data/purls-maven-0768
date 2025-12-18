@@ -64,3 +64,5 @@
 - pkg:maven/com.github.andyglow/scala-jsonschema-core_2.11@0.7.5?classifier=sources
 - pkg:maven/com.github.andyglow/scala-jsonschema-core_2.11@0.7.6
 - pkg:maven/com.github.andyglow/scala-jsonschema-core_2.11@0.7.6?classifier=sources
+- pkg:maven/com.github.andyglow/scala-jsonschema-core_2.11@0.7.7
+- pkg:maven/com.github.andyglow/scala-jsonschema-core_2.11@0.7.7?classifier=sources

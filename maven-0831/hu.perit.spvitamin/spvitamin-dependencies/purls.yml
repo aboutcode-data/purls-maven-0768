@@ -1,0 +1,2 @@
+- pkg:maven/hu.perit.spvitamin/spvitamin-dependencies@1.3.4-RELEASE
+- pkg:maven/hu.perit.spvitamin/spvitamin-dependencies@1.3.4-RELEASE?classifier=sources

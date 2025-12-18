@@ -52,3 +52,5 @@
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain-client@2.2.0?classifier=sources
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain-client@2.3.0
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain-client@2.3.0?classifier=sources
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain-client@2.4.0
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain-client@2.4.0?classifier=sources

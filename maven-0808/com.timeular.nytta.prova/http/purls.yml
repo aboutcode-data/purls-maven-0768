@@ -6,3 +6,7 @@
 - pkg:maven/com.timeular.nytta.prova/http@3.1.0?classifier=sources
 - pkg:maven/com.timeular.nytta.prova/http@4.0.0
 - pkg:maven/com.timeular.nytta.prova/http@4.0.0?classifier=sources
+- pkg:maven/com.timeular.nytta.prova/http@5.0.0
+- pkg:maven/com.timeular.nytta.prova/http@5.0.0?classifier=sources
+- pkg:maven/com.timeular.nytta.prova/http@5.1.0
+- pkg:maven/com.timeular.nytta.prova/http@5.1.0?classifier=sources

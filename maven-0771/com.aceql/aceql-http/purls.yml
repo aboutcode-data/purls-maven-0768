@@ -10,6 +10,7 @@
 - pkg:maven/com.aceql/aceql-http@1.0-beta-5
 - pkg:maven/com.aceql/aceql-http@1.0-beta-5?classifier=sources
 - pkg:maven/com.aceql/aceql-http@1.0?classifier=sources
+- pkg:maven/com.aceql/aceql-http@10.0?classifier=sources
 - pkg:maven/com.aceql/aceql-http@2.0
 - pkg:maven/com.aceql/aceql-http@2.0?classifier=sources
 - pkg:maven/com.aceql/aceql-http@2.1
@@ -39,3 +40,4 @@
 - pkg:maven/com.aceql/aceql-http@8.0?classifier=sources
 - pkg:maven/com.aceql/aceql-http@8.1?classifier=sources
 - pkg:maven/com.aceql/aceql-http@8.2?classifier=sources
+- pkg:maven/com.aceql/aceql-http@9.0?classifier=sources

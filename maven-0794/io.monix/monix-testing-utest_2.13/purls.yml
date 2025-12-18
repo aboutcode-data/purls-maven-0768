@@ -1,0 +1,4 @@
+- pkg:maven/io.monix/monix-testing-utest_2.13@0.3.0
+- pkg:maven/io.monix/monix-testing-utest_2.13@0.3.0-RC1
+- pkg:maven/io.monix/monix-testing-utest_2.13@0.3.0-RC1?classifier=sources
+- pkg:maven/io.monix/monix-testing-utest_2.13@0.3.0?classifier=sources

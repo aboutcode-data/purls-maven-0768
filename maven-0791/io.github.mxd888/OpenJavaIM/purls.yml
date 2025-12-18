@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mxd888/OpenJavaIM@1.0-RELEASES
+- pkg:maven/io.github.mxd888/OpenJavaIM@1.0-RELEASES?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/de.rub.nds.tlsscanner/TLS-Scanner-Core@4.1.0?classifier=sources
 - pkg:maven/de.rub.nds.tlsscanner/TLS-Scanner-Core@4.1.1
 - pkg:maven/de.rub.nds.tlsscanner/TLS-Scanner-Core@4.1.1?classifier=sources
+- pkg:maven/de.rub.nds.tlsscanner/TLS-Scanner-Core@4.1.3
+- pkg:maven/de.rub.nds.tlsscanner/TLS-Scanner-Core@4.1.3?classifier=sources

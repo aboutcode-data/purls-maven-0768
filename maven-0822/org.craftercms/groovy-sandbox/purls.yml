@@ -10,3 +10,7 @@
 - pkg:maven/org.craftercms/groovy-sandbox@1.27.5?classifier=sources
 - pkg:maven/org.craftercms/groovy-sandbox@1.27.6
 - pkg:maven/org.craftercms/groovy-sandbox@1.27.6?classifier=sources
+- pkg:maven/org.craftercms/groovy-sandbox@4.0.0-rc1
+- pkg:maven/org.craftercms/groovy-sandbox@4.0.0-rc1?classifier=sources
+- pkg:maven/org.craftercms/groovy-sandbox@4.0.0-rc1E
+- pkg:maven/org.craftercms/groovy-sandbox@4.0.0-rc1E?classifier=sources

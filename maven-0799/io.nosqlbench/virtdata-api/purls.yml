@@ -304,3 +304,7 @@
 - pkg:maven/io.nosqlbench/virtdata-api@4.15.63?classifier=sources
 - pkg:maven/io.nosqlbench/virtdata-api@4.15.64
 - pkg:maven/io.nosqlbench/virtdata-api@4.15.64?classifier=sources
+- pkg:maven/io.nosqlbench/virtdata-api@4.15.70
+- pkg:maven/io.nosqlbench/virtdata-api@4.15.70?classifier=sources
+- pkg:maven/io.nosqlbench/virtdata-api@4.15.72
+- pkg:maven/io.nosqlbench/virtdata-api@4.15.72?classifier=sources

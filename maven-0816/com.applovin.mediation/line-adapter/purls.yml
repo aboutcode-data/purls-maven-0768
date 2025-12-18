@@ -12,3 +12,9 @@
 - pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.5?type=aar
 - pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.6?classifier=sources
 - pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.6?type=aar
+- pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.7?classifier=sources
+- pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.7?type=aar
+- pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.8?classifier=sources
+- pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.8?type=aar
+- pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.9?classifier=sources
+- pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.9?type=aar

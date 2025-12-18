@@ -195,3 +195,16 @@
 - pkg:maven/com.yahoo.vespa/tenant-cd-api@7.502.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/tenant-cd-api@7.503.19?classifier=sources
 - pkg:maven/com.yahoo.vespa/tenant-cd-api@7.505.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@7.507.96?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@7.508.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@7.509.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@7.510.36?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@7.511.3?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@7.512.7?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@7.513.4?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@7.514.59?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@7.515.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@7.517.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@7.518.53?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@7.519.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@7.520.3?classifier=sources

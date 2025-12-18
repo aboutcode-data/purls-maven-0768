@@ -3,3 +3,6 @@
 - pkg:maven/io.getstream/stream-chat-android-pushprovider-huawei@4.21.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-pushprovider-huawei@4.22.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-pushprovider-huawei@4.23.0?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-pushprovider-huawei@4.24.0?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-pushprovider-huawei@4.25.0?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-pushprovider-huawei@4.25.1?classifier=sources

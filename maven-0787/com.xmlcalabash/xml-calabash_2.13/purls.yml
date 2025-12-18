@@ -1,4 +1,8 @@
 - pkg:maven/com.xmlcalabash/xml-calabash_2.13@2.99.1
+- pkg:maven/com.xmlcalabash/xml-calabash_2.13@2.99.10
+- pkg:maven/com.xmlcalabash/xml-calabash_2.13@2.99.10?classifier=sources
+- pkg:maven/com.xmlcalabash/xml-calabash_2.13@2.99.11
+- pkg:maven/com.xmlcalabash/xml-calabash_2.13@2.99.11?classifier=sources
 - pkg:maven/com.xmlcalabash/xml-calabash_2.13@2.99.1?classifier=sources
 - pkg:maven/com.xmlcalabash/xml-calabash_2.13@2.99.4
 - pkg:maven/com.xmlcalabash/xml-calabash_2.13@2.99.4?classifier=sources
@@ -10,3 +14,5 @@
 - pkg:maven/com.xmlcalabash/xml-calabash_2.13@2.99.7?classifier=sources
 - pkg:maven/com.xmlcalabash/xml-calabash_2.13@2.99.8
 - pkg:maven/com.xmlcalabash/xml-calabash_2.13@2.99.8?classifier=sources
+- pkg:maven/com.xmlcalabash/xml-calabash_2.13@2.99.9
+- pkg:maven/com.xmlcalabash/xml-calabash_2.13@2.99.9?classifier=sources

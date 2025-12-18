@@ -1,0 +1,2 @@
+- pkg:maven/com.ruimo/scoins_2.12@1.29
+- pkg:maven/com.ruimo/scoins_2.12@1.29?classifier=sources

@@ -24,3 +24,7 @@
 - pkg:maven/com.kaltura.playkit/broadpeakplugin@4.18.0?type=aar
 - pkg:maven/com.kaltura.playkit/broadpeakplugin@4.19.0?classifier=sources
 - pkg:maven/com.kaltura.playkit/broadpeakplugin@4.19.0?type=aar
+- pkg:maven/com.kaltura.playkit/broadpeakplugin@4.19.1?classifier=sources
+- pkg:maven/com.kaltura.playkit/broadpeakplugin@4.19.1?type=aar
+- pkg:maven/com.kaltura.playkit/broadpeakplugin@4.19.2?classifier=sources
+- pkg:maven/com.kaltura.playkit/broadpeakplugin@4.19.2?type=aar

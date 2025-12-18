@@ -14,3 +14,7 @@
 - pkg:maven/network.oxalis/oxalis-persistence@5.0.3?classifier=sources
 - pkg:maven/network.oxalis/oxalis-persistence@5.0.5
 - pkg:maven/network.oxalis/oxalis-persistence@5.0.5?classifier=sources
+- pkg:maven/network.oxalis/oxalis-persistence@5.0.6
+- pkg:maven/network.oxalis/oxalis-persistence@5.0.6?classifier=sources
+- pkg:maven/network.oxalis/oxalis-persistence@5.0.7
+- pkg:maven/network.oxalis/oxalis-persistence@5.0.7?classifier=sources

@@ -25,3 +25,5 @@
 - pkg:maven/dev.inmo/tgbotapi.extensions.behaviour_builder-jvm@0.36.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.extensions.behaviour_builder-jvm@0.37.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.extensions.behaviour_builder-jvm@0.37.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.extensions.behaviour_builder-jvm@0.37.2?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.extensions.behaviour_builder-jvm@0.37.3?classifier=sources

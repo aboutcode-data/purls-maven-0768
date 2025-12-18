@@ -1,0 +1,2 @@
+- pkg:maven/de.ikor.sip.foundation/sip-middle-component@1.0.0
+- pkg:maven/de.ikor.sip.foundation/sip-middle-component@1.0.0?classifier=sources

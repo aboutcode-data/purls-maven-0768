@@ -165,6 +165,14 @@
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1625170289.4e4665d?classifier=sources
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1630847570.668ef24
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1630847570.668ef24?classifier=sources
+- pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1640040319.da16142
+- pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1640040319.da16142?classifier=sources
+- pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1640043417.3d78f43
+- pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1640043417.3d78f43?classifier=sources
+- pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1640043420.96c793d
+- pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1640043420.96c793d?classifier=sources
+- pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1640073709.733712b
+- pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1640073709.733712b?classifier=sources
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1?classifier=sources
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.2
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.2?classifier=sources
@@ -176,3 +184,7 @@
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.4-RC2
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.4-RC2?classifier=sources
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.4?classifier=sources
+- pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.1.1640084102.9f3d109
+- pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.1.1640084102.9f3d109?classifier=sources
+- pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.1.1640084764.9f463a9
+- pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.1.1640084764.9f463a9?classifier=sources

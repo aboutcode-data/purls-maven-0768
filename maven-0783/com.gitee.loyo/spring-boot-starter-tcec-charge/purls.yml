@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.loyo/spring-boot-starter-tcec-charge@1.0.0
+- pkg:maven/com.gitee.loyo/spring-boot-starter-tcec-charge@1.0.0?classifier=sources
+- pkg:maven/com.gitee.loyo/spring-boot-starter-tcec-charge@1.0.1
+- pkg:maven/com.gitee.loyo/spring-boot-starter-tcec-charge@1.0.1?classifier=sources

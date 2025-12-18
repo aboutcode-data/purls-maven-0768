@@ -1,0 +1,2 @@
+- pkg:maven/io.venuu/vuu-ui-legacy@0.17
+- pkg:maven/io.venuu/vuu-ui-legacy@0.17?classifier=sources

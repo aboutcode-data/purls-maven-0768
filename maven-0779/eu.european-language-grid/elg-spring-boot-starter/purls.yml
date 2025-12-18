@@ -1,0 +1,2 @@
+- pkg:maven/eu.european-language-grid/elg-spring-boot-starter@1.0.0
+- pkg:maven/eu.european-language-grid/elg-spring-boot-starter@1.0.0?classifier=sources

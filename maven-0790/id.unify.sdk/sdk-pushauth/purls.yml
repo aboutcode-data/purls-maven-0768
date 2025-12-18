@@ -16,3 +16,5 @@
 - pkg:maven/id.unify.sdk/sdk-pushauth@1.4.7?type=aar
 - pkg:maven/id.unify.sdk/sdk-pushauth@1.4.9?classifier=sources
 - pkg:maven/id.unify.sdk/sdk-pushauth@1.4.9?type=aar
+- pkg:maven/id.unify.sdk/sdk-pushauth@1.7.6?classifier=sources
+- pkg:maven/id.unify.sdk/sdk-pushauth@1.7.6?type=aar

@@ -35,6 +35,9 @@
 - pkg:maven/com.liferay/com.liferay.application.list.api@2.2.15
 - pkg:maven/com.liferay/com.liferay.application.list.api@2.2.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.application.list.api@2.2.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.application.list.api@2.2.16
+- pkg:maven/com.liferay/com.liferay.application.list.api@2.2.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.application.list.api@2.2.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.application.list.api@2.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.application.list.api@2.2.2
 - pkg:maven/com.liferay/com.liferay.application.list.api@2.2.2?classifier=sources
@@ -94,6 +97,9 @@
 - pkg:maven/com.liferay/com.liferay.application.list.api@3.1.0
 - pkg:maven/com.liferay/com.liferay.application.list.api@3.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.application.list.api@3.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.application.list.api@3.1.1
+- pkg:maven/com.liferay/com.liferay.application.list.api@3.1.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.application.list.api@3.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.application.list.api@4.0.0
 - pkg:maven/com.liferay/com.liferay.application.list.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.application.list.api@4.0.0?classifier=sources-commercial
@@ -119,6 +125,9 @@
 - pkg:maven/com.liferay/com.liferay.application.list.api@4.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.application.list.api@4.2.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.application.list.api@4.2.1
+- pkg:maven/com.liferay/com.liferay.application.list.api@4.2.10
+- pkg:maven/com.liferay/com.liferay.application.list.api@4.2.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.application.list.api@4.2.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.application.list.api@4.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.application.list.api@4.2.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.application.list.api@4.2.2
@@ -190,6 +199,9 @@
 - pkg:maven/com.liferay/com.liferay.application.list.api@6.2.1
 - pkg:maven/com.liferay/com.liferay.application.list.api@6.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.application.list.api@6.2.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.application.list.api@6.2.2
+- pkg:maven/com.liferay/com.liferay.application.list.api@6.2.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.application.list.api@6.2.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.application.list.api@7.0.0
 - pkg:maven/com.liferay/com.liferay.application.list.api@7.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.application.list.api@7.0.0?classifier=sources-commercial

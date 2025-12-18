@@ -1,3 +1,5 @@
+- pkg:maven/org.linkedopenactors.code/loa-app-controller@0.0.10
+- pkg:maven/org.linkedopenactors.code/loa-app-controller@0.0.10?classifier=sources
 - pkg:maven/org.linkedopenactors.code/loa-app-controller@0.0.2
 - pkg:maven/org.linkedopenactors.code/loa-app-controller@0.0.2?classifier=sources
 - pkg:maven/org.linkedopenactors.code/loa-app-controller@0.0.3-documentation

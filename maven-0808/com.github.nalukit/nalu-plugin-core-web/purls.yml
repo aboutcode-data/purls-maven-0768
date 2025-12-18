@@ -62,5 +62,9 @@
 - pkg:maven/com.github.nalukit/nalu-plugin-core-web@2.7.0-gwt-2.8.2
 - pkg:maven/com.github.nalukit/nalu-plugin-core-web@2.7.0-gwt-2.8.2?classifier=sources
 - pkg:maven/com.github.nalukit/nalu-plugin-core-web@2.7.0?classifier=sources
+- pkg:maven/com.github.nalukit/nalu-plugin-core-web@2.7.1
+- pkg:maven/com.github.nalukit/nalu-plugin-core-web@2.7.1-gwt-2.8.2
+- pkg:maven/com.github.nalukit/nalu-plugin-core-web@2.7.1-gwt-2.8.2?classifier=sources
+- pkg:maven/com.github.nalukit/nalu-plugin-core-web@2.7.1?classifier=sources
 - pkg:maven/com.github.nalukit/nalu-plugin-core-web@HEAD-SNAPSHOT-gwt-2.8.2
 - pkg:maven/com.github.nalukit/nalu-plugin-core-web@HEAD-SNAPSHOT-gwt-2.8.2?classifier=sources

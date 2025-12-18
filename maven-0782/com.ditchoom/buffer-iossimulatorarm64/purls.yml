@@ -6,3 +6,4 @@
 - pkg:maven/com.ditchoom/buffer-iossimulatorarm64@1.0.47?classifier=sources
 - pkg:maven/com.ditchoom/buffer-iossimulatorarm64@1.0.50?classifier=sources
 - pkg:maven/com.ditchoom/buffer-iossimulatorarm64@1.0.51?classifier=sources
+- pkg:maven/com.ditchoom/buffer-iossimulatorarm64@1.0.53?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.parent@3.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.parent@3.1.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.parent@3.1.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.parent@3.2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.testing.osgi-mock.parent@3.2.2?classifier=source-release&type=zip

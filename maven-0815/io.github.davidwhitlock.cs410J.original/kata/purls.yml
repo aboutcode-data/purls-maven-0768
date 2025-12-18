@@ -8,3 +8,5 @@
 - pkg:maven/io.github.davidwhitlock.cs410J.original/kata@2021.2.0?classifier=sources
 - pkg:maven/io.github.davidwhitlock.cs410J.original/kata@2021.3.0
 - pkg:maven/io.github.davidwhitlock.cs410J.original/kata@2021.3.0?classifier=sources
+- pkg:maven/io.github.davidwhitlock.cs410J.original/kata@2022.0.0
+- pkg:maven/io.github.davidwhitlock.cs410J.original/kata@2022.0.0?classifier=sources

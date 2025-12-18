@@ -16,3 +16,5 @@
 - pkg:maven/io.zeebe/zeebe-script-worker@0.7.0?classifier=sources
 - pkg:maven/io.zeebe/zeebe-script-worker@1.0.0
 - pkg:maven/io.zeebe/zeebe-script-worker@1.0.0?classifier=sources
+- pkg:maven/io.zeebe/zeebe-script-worker@1.1.0
+- pkg:maven/io.zeebe/zeebe-script-worker@1.1.0?classifier=sources

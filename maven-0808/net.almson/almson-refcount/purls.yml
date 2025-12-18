@@ -1,0 +1,2 @@
+- pkg:maven/net.almson/almson-refcount@1.0.0
+- pkg:maven/net.almson/almson-refcount@1.0.0?classifier=sources

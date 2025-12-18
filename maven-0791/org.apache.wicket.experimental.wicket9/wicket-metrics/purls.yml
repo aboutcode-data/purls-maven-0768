@@ -16,6 +16,8 @@
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-metrics@0.17?classifier=sources
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-metrics@0.18
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-metrics@0.18?classifier=sources
+- pkg:maven/org.apache.wicket.experimental.wicket9/wicket-metrics@0.19
+- pkg:maven/org.apache.wicket.experimental.wicket9/wicket-metrics@0.19?classifier=sources
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-metrics@0.7
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-metrics@0.7?classifier=sources
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-metrics@0.8

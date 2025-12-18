@@ -241,6 +241,10 @@
 - pkg:maven/com.lightbend.cloudflow/cloudflow-maven-plugin@2.2.2-NIGHTLY20211018?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/cloudflow-maven-plugin@2.2.2-NIGHTLY20211025
 - pkg:maven/com.lightbend.cloudflow/cloudflow-maven-plugin@2.2.2-NIGHTLY20211025?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-maven-plugin@2.2.2-NIGHTLY20211220
+- pkg:maven/com.lightbend.cloudflow/cloudflow-maven-plugin@2.2.2-NIGHTLY20211220?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-maven-plugin@2.2.2-NIGHTLY20211227
+- pkg:maven/com.lightbend.cloudflow/cloudflow-maven-plugin@2.2.2-NIGHTLY20211227?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/cloudflow-maven-plugin@2.2.2?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/cloudflow-maven-plugin@2.3.0-RC1
 - pkg:maven/com.lightbend.cloudflow/cloudflow-maven-plugin@2.3.0-RC1?classifier=sources

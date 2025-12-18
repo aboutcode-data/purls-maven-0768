@@ -1,0 +1,2 @@
+- pkg:maven/org.kaleidofoundry/kaleido-javaee@0.10.1
+- pkg:maven/org.kaleidofoundry/kaleido-javaee@0.10.1?classifier=sources

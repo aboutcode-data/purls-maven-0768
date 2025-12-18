@@ -1,0 +1,4 @@
+- pkg:maven/biz.aQute/biz.aQute.foreign.python.provider@1.8.0
+- pkg:maven/biz.aQute/biz.aQute.foreign.python.provider@1.8.0?classifier=sources
+- pkg:maven/biz.aQute/biz.aQute.foreign.python.provider@1.9.0
+- pkg:maven/biz.aQute/biz.aQute.foreign.python.provider@1.9.0?classifier=sources

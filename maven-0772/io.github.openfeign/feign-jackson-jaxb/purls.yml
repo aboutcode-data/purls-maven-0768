@@ -56,6 +56,8 @@
 - pkg:maven/io.github.openfeign/feign-jackson-jaxb@11.6?classifier=sources
 - pkg:maven/io.github.openfeign/feign-jackson-jaxb@11.7
 - pkg:maven/io.github.openfeign/feign-jackson-jaxb@11.7?classifier=sources
+- pkg:maven/io.github.openfeign/feign-jackson-jaxb@11.8
+- pkg:maven/io.github.openfeign/feign-jackson-jaxb@11.8?classifier=sources
 - pkg:maven/io.github.openfeign/feign-jackson-jaxb@9.0.0
 - pkg:maven/io.github.openfeign/feign-jackson-jaxb@9.0.0?classifier=sources
 - pkg:maven/io.github.openfeign/feign-jackson-jaxb@9.1.0

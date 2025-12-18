@@ -1,1 +1,2 @@
+- pkg:maven/org.kodein.di/kodein-di-conf-macosarm64@7.10.0?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-conf-macosarm64@7.9.0?classifier=sources

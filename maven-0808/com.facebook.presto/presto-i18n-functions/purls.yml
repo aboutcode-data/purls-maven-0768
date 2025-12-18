@@ -56,3 +56,6 @@
 - pkg:maven/com.facebook.presto/presto-i18n-functions@0.264?classifier=sources
 - pkg:maven/com.facebook.presto/presto-i18n-functions@0.265.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-i18n-functions@0.265?classifier=sources
+- pkg:maven/com.facebook.presto/presto-i18n-functions@0.266.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-i18n-functions@0.266?classifier=sources
+- pkg:maven/com.facebook.presto/presto-i18n-functions@0.267?classifier=sources

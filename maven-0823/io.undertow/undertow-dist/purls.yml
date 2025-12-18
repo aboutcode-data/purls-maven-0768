@@ -62,6 +62,8 @@
 - pkg:maven/io.undertow/undertow-dist@2.2.12.Final?classifier=src&type=zip
 - pkg:maven/io.undertow/undertow-dist@2.2.13.Final?classifier=src&type=tar.gz
 - pkg:maven/io.undertow/undertow-dist@2.2.13.Final?classifier=src&type=zip
+- pkg:maven/io.undertow/undertow-dist@2.2.14.Final?classifier=src&type=tar.gz
+- pkg:maven/io.undertow/undertow-dist@2.2.14.Final?classifier=src&type=zip
 - pkg:maven/io.undertow/undertow-dist@2.2.2.Final?classifier=src&type=tar.gz
 - pkg:maven/io.undertow/undertow-dist@2.2.2.Final?classifier=src&type=zip
 - pkg:maven/io.undertow/undertow-dist@2.2.3.Final?classifier=src&type=tar.gz

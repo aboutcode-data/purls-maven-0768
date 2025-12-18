@@ -12,3 +12,6 @@
 - pkg:maven/io.trino/trino-example-http@362?classifier=sources
 - pkg:maven/io.trino/trino-example-http@363?classifier=sources
 - pkg:maven/io.trino/trino-example-http@364?classifier=sources
+- pkg:maven/io.trino/trino-example-http@365?classifier=sources
+- pkg:maven/io.trino/trino-example-http@366?classifier=sources
+- pkg:maven/io.trino/trino-example-http@367?classifier=sources

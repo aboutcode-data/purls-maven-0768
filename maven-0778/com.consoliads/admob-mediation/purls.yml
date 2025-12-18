@@ -1,1 +1,2 @@
 - pkg:maven/com.consoliads/admob-mediation@1.0.1?classifier=sources
+- pkg:maven/com.consoliads/admob-mediation@v20.5.0?classifier=sources

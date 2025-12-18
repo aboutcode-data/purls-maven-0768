@@ -1,0 +1,2 @@
+- pkg:maven/xin.altitude.code.local/auto-code-local@1.1.0
+- pkg:maven/xin.altitude.code.local/auto-code-local@1.1.0?classifier=sources

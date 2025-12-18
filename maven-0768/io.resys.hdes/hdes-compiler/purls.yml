@@ -34,3 +34,13 @@
 - pkg:maven/io.resys.hdes/hdes-compiler@0.1.8?classifier=sources
 - pkg:maven/io.resys.hdes/hdes-compiler@0.1.9
 - pkg:maven/io.resys.hdes/hdes-compiler@0.1.9?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-compiler@3.118
+- pkg:maven/io.resys.hdes/hdes-compiler@3.118?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-compiler@3.119
+- pkg:maven/io.resys.hdes/hdes-compiler@3.119?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-compiler@3.120
+- pkg:maven/io.resys.hdes/hdes-compiler@3.120?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-compiler@3.121
+- pkg:maven/io.resys.hdes/hdes-compiler@3.121?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-compiler@3.122
+- pkg:maven/io.resys.hdes/hdes-compiler@3.122?classifier=sources

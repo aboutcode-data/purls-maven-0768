@@ -32,3 +32,5 @@
 - pkg:maven/biz.aQute.bnd/biz.aQute.resolve@5.3.0?classifier=sources
 - pkg:maven/biz.aQute.bnd/biz.aQute.resolve@6.0.0
 - pkg:maven/biz.aQute.bnd/biz.aQute.resolve@6.0.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.resolve@6.1.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.resolve@6.1.0?classifier=sources

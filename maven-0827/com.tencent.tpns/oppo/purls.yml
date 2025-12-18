@@ -22,6 +22,8 @@
 - pkg:maven/com.tencent.tpns/oppo@1.2.5.7-release?type=aar
 - pkg:maven/com.tencent.tpns/oppo@1.2.5.8-release?classifier=sources
 - pkg:maven/com.tencent.tpns/oppo@1.2.5.8-release?type=aar
+- pkg:maven/com.tencent.tpns/oppo@1.2.5.8.1214-release?classifier=sources
+- pkg:maven/com.tencent.tpns/oppo@1.2.5.8.1214-release?type=aar
 - pkg:maven/com.tencent.tpns/oppo@1.2.6.0-release?classifier=sources
 - pkg:maven/com.tencent.tpns/oppo@1.2.6.0-release?type=aar
 - pkg:maven/com.tencent.tpns/oppo@1.2.7.0-release?classifier=sources
@@ -36,5 +38,11 @@
 - pkg:maven/com.tencent.tpns/oppo@1.2.7.4-release?type=aar
 - pkg:maven/com.tencent.tpns/oppo@1.2.7.5-release?classifier=sources
 - pkg:maven/com.tencent.tpns/oppo@1.2.7.5-release?type=aar
+- pkg:maven/com.tencent.tpns/oppo@1.2.7.6-release?classifier=sources
+- pkg:maven/com.tencent.tpns/oppo@1.2.7.6-release?type=aar
 - pkg:maven/com.tencent.tpns/oppo@1.2.9.0-release?classifier=sources
 - pkg:maven/com.tencent.tpns/oppo@1.2.9.0-release?type=aar
+- pkg:maven/com.tencent.tpns/oppo@1.2.9.1-release?classifier=sources
+- pkg:maven/com.tencent.tpns/oppo@1.2.9.1-release?type=aar
+- pkg:maven/com.tencent.tpns/oppo@1.2.9.2-release?classifier=sources
+- pkg:maven/com.tencent.tpns/oppo@1.2.9.2-release?type=aar

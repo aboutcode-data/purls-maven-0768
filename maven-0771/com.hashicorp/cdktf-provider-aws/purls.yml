@@ -2,3 +2,7 @@
 - pkg:maven/com.hashicorp/cdktf-provider-aws@2.0.12?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-aws@2.0.13
 - pkg:maven/com.hashicorp/cdktf-provider-aws@2.0.13?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-aws@3.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-aws@3.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-aws@3.0.1
+- pkg:maven/com.hashicorp/cdktf-provider-aws@3.0.1?classifier=sources
