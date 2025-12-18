@@ -1,1 +1,2 @@
 - pkg:maven/com.fyber.vamp/core-sdk@7.8.2?classifier=sources
+- pkg:maven/com.fyber.vamp/core-sdk@7.8.3?classifier=sources

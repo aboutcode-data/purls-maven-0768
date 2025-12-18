@@ -8,5 +8,9 @@
 - pkg:maven/com.saucelabs/sauce_bindings@1.0.2?classifier=sources
 - pkg:maven/com.saucelabs/sauce_bindings@1.0.4
 - pkg:maven/com.saucelabs/sauce_bindings@1.0.4?classifier=sources
+- pkg:maven/com.saucelabs/sauce_bindings@1.1.0
+- pkg:maven/com.saucelabs/sauce_bindings@1.1.0.beta3
+- pkg:maven/com.saucelabs/sauce_bindings@1.1.0.beta3?classifier=sources
+- pkg:maven/com.saucelabs/sauce_bindings@1.1.0?classifier=sources
 - pkg:maven/com.saucelabs/sauce_bindings@java-1.0.3
 - pkg:maven/com.saucelabs/sauce_bindings@java-1.0.3?classifier=sources

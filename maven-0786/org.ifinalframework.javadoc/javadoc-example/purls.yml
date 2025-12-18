@@ -1,0 +1,2 @@
+- pkg:maven/org.ifinalframework.javadoc/javadoc-example@0.0.1-alpha
+- pkg:maven/org.ifinalframework.javadoc/javadoc-example@0.0.1-alpha?classifier=sources

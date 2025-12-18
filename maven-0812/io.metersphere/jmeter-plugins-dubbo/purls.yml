@@ -4,6 +4,8 @@
 - pkg:maven/io.metersphere/jmeter-plugins-dubbo@2.7.11?classifier=sources
 - pkg:maven/io.metersphere/jmeter-plugins-dubbo@2.7.12
 - pkg:maven/io.metersphere/jmeter-plugins-dubbo@2.7.12?classifier=sources
+- pkg:maven/io.metersphere/jmeter-plugins-dubbo@2.7.13
+- pkg:maven/io.metersphere/jmeter-plugins-dubbo@2.7.13?classifier=sources
 - pkg:maven/io.metersphere/jmeter-plugins-dubbo@2.7.7
 - pkg:maven/io.metersphere/jmeter-plugins-dubbo@2.7.7?classifier=sources
 - pkg:maven/io.metersphere/jmeter-plugins-dubbo@2.7.8

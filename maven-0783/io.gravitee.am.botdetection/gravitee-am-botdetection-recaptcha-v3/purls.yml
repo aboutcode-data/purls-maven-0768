@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.9.0?classifier=sources
+- pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.9.1?classifier=sources

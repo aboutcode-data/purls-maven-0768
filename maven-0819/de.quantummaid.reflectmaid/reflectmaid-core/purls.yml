@@ -1,3 +1,13 @@
+- pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.10
+- pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.10?classifier=sources
+- pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.11
+- pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.11?classifier=sources
+- pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.12
+- pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.12?classifier=sources
+- pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.13
+- pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.13?classifier=sources
+- pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.14
+- pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.14?classifier=sources
 - pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.4
 - pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.4?classifier=sources
 - pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.5
@@ -8,3 +18,5 @@
 - pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.7?classifier=sources
 - pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.8
 - pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.8?classifier=sources
+- pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.9
+- pkg:maven/de.quantummaid.reflectmaid/reflectmaid-core@0.2.9?classifier=sources

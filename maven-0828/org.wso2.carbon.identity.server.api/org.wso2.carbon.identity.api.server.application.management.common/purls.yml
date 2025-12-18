@@ -246,6 +246,14 @@
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.224?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.225
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.225?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.226
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.226?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.227
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.227?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.228
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.228?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.229
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.229?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.52
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.52?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.application.management.common@1.0.53

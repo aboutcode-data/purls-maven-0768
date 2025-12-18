@@ -1,3 +1,5 @@
+- pkg:maven/org.odpi.egeria/files-integrator-api@2.10
+- pkg:maven/org.odpi.egeria/files-integrator-api@2.10?classifier=sources
 - pkg:maven/org.odpi.egeria/files-integrator-api@2.4
 - pkg:maven/org.odpi.egeria/files-integrator-api@2.4?classifier=sources
 - pkg:maven/org.odpi.egeria/files-integrator-api@2.5

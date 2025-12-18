@@ -84,3 +84,5 @@
 - pkg:maven/com.gitee.l0km/sql2java-generator@2.6.1?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-generator@2.6.2
 - pkg:maven/com.gitee.l0km/sql2java-generator@2.6.2?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-generator@2.6.3
+- pkg:maven/com.gitee.l0km/sql2java-generator@2.6.3?classifier=sources

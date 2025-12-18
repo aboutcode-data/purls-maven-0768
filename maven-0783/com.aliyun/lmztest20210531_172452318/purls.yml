@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun/lmztest20210531_172452318@1.0.0
+- pkg:maven/com.aliyun/lmztest20210531_172452318@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/lmztest20210531_172452318@5.0.0
+- pkg:maven/com.aliyun/lmztest20210531_172452318@5.0.0?classifier=sources

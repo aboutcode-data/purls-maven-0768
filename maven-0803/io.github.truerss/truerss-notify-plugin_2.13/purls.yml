@@ -1,0 +1,2 @@
+- pkg:maven/io.github.truerss/truerss-notify-plugin_2.13@1.0.0
+- pkg:maven/io.github.truerss/truerss-notify-plugin_2.13@1.0.0?classifier=sources

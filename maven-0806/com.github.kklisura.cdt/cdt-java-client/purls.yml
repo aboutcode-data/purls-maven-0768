@@ -20,3 +20,5 @@
 - pkg:maven/com.github.kklisura.cdt/cdt-java-client@2.1.0?classifier=sources
 - pkg:maven/com.github.kklisura.cdt/cdt-java-client@3.0.0
 - pkg:maven/com.github.kklisura.cdt/cdt-java-client@3.0.0?classifier=sources
+- pkg:maven/com.github.kklisura.cdt/cdt-java-client@4.0.0
+- pkg:maven/com.github.kklisura.cdt/cdt-java-client@4.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.raquo/waypoint_3.0.0-RC3@0.4.0
+- pkg:maven/com.raquo/waypoint_3.0.0-RC3@0.4.0?classifier=sources

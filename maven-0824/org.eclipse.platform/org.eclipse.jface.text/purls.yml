@@ -30,3 +30,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.jface.text@3.16.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.jface.text@3.17.0
 - pkg:maven/org.eclipse.platform/org.eclipse.jface.text@3.17.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.jface.text@3.18.0
+- pkg:maven/org.eclipse.platform/org.eclipse.jface.text@3.18.0?classifier=sources

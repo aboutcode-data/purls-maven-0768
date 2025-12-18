@@ -1,2 +1,4 @@
 - pkg:maven/io.github.grigory-rylov/android-instrumental-test-runner-core@1.6.15
 - pkg:maven/io.github.grigory-rylov/android-instrumental-test-runner-core@1.6.15?classifier=sources
+- pkg:maven/io.github.grigory-rylov/android-instrumental-test-runner-core@1.6.16?classifier=sources
+- pkg:maven/io.github.grigory-rylov/android-instrumental-test-runner-core@1.6.17?classifier=sources

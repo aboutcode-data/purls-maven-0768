@@ -42,6 +42,8 @@
 - pkg:maven/org.wso2.balana/org.wso2.balana@1.1.8?classifier=sources
 - pkg:maven/org.wso2.balana/org.wso2.balana@1.1.9
 - pkg:maven/org.wso2.balana/org.wso2.balana@1.1.9?classifier=sources
+- pkg:maven/org.wso2.balana/org.wso2.balana@1.2.10
+- pkg:maven/org.wso2.balana/org.wso2.balana@1.2.10?classifier=sources
 - pkg:maven/org.wso2.balana/org.wso2.balana@1.2.2
 - pkg:maven/org.wso2.balana/org.wso2.balana@1.2.2?classifier=sources
 - pkg:maven/org.wso2.balana/org.wso2.balana@1.2.3
@@ -52,3 +54,7 @@
 - pkg:maven/org.wso2.balana/org.wso2.balana@1.2.6?classifier=sources
 - pkg:maven/org.wso2.balana/org.wso2.balana@1.2.7
 - pkg:maven/org.wso2.balana/org.wso2.balana@1.2.7?classifier=sources
+- pkg:maven/org.wso2.balana/org.wso2.balana@1.2.8
+- pkg:maven/org.wso2.balana/org.wso2.balana@1.2.8?classifier=sources
+- pkg:maven/org.wso2.balana/org.wso2.balana@1.2.9
+- pkg:maven/org.wso2.balana/org.wso2.balana@1.2.9?classifier=sources

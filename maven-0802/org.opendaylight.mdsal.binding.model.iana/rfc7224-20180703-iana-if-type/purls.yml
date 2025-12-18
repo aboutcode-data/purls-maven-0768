@@ -103,6 +103,8 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@6.0.0
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@6.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@6.0.1
+- pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@6.0.10
+- pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@6.0.10?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@6.0.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@6.0.2
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@6.0.2?classifier=sources
@@ -134,3 +136,7 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@7.0.5?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@7.0.6
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@7.0.6?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@7.0.7
+- pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@7.0.7?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@8.0.0
+- pkg:maven/org.opendaylight.mdsal.binding.model.iana/rfc7224-20180703-iana-if-type@8.0.0?classifier=sources

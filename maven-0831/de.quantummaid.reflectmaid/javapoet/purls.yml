@@ -1,6 +1,14 @@
+- pkg:maven/de.quantummaid.reflectmaid/javapoet@0.2.10
+- pkg:maven/de.quantummaid.reflectmaid/javapoet@0.2.10?classifier=sources
+- pkg:maven/de.quantummaid.reflectmaid/javapoet@0.2.11
+- pkg:maven/de.quantummaid.reflectmaid/javapoet@0.2.11?classifier=sources
+- pkg:maven/de.quantummaid.reflectmaid/javapoet@0.2.12
+- pkg:maven/de.quantummaid.reflectmaid/javapoet@0.2.12?classifier=sources
 - pkg:maven/de.quantummaid.reflectmaid/javapoet@0.2.6
 - pkg:maven/de.quantummaid.reflectmaid/javapoet@0.2.6?classifier=sources
 - pkg:maven/de.quantummaid.reflectmaid/javapoet@0.2.7
 - pkg:maven/de.quantummaid.reflectmaid/javapoet@0.2.7?classifier=sources
 - pkg:maven/de.quantummaid.reflectmaid/javapoet@0.2.8
 - pkg:maven/de.quantummaid.reflectmaid/javapoet@0.2.8?classifier=sources
+- pkg:maven/de.quantummaid.reflectmaid/javapoet@0.2.9
+- pkg:maven/de.quantummaid.reflectmaid/javapoet@0.2.9?classifier=sources

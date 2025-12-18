@@ -1,4 +1,6 @@
 - pkg:maven/org.openidentityplatform.openig/openig-war@5.0.10?classifier=sources
 - pkg:maven/org.openidentityplatform.openig/openig-war@5.0.10?type=war
+- pkg:maven/org.openidentityplatform.openig/openig-war@5.0.11?classifier=sources
+- pkg:maven/org.openidentityplatform.openig/openig-war@5.0.11?type=war
 - pkg:maven/org.openidentityplatform.openig/openig-war@5.0.9?classifier=sources
 - pkg:maven/org.openidentityplatform.openig/openig-war@5.0.9?type=war

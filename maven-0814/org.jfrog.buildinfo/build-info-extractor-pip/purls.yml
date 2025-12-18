@@ -1,2 +1,14 @@
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.25.4
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.25.4?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.26.0
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.26.0?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.26.1
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.26.1?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.26.2
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.26.2?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.26.3
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.26.3?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.26.4
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.26.4?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.27.0
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.27.0?classifier=sources

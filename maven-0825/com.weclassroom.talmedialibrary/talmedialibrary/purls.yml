@@ -1,0 +1,4 @@
+- pkg:maven/com.weclassroom.talmedialibrary/talmedialibrary@0.0.1?classifier=sources
+- pkg:maven/com.weclassroom.talmedialibrary/talmedialibrary@0.1.1.teacher?classifier=sources
+- pkg:maven/com.weclassroom.talmedialibrary/talmedialibrary@0.4.7?classifier=sources
+- pkg:maven/com.weclassroom.talmedialibrary/talmedialibrary@0.4.8?classifier=sources

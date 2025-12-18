@@ -2,3 +2,5 @@
 - pkg:maven/com.tnkfactory/pub@7.11.2?type=aar
 - pkg:maven/com.tnkfactory/pub@7.12.2?classifier=sources
 - pkg:maven/com.tnkfactory/pub@7.12.2?type=aar
+- pkg:maven/com.tnkfactory/pub@7.13.2?classifier=sources
+- pkg:maven/com.tnkfactory/pub@7.13.2?type=aar

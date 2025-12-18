@@ -1,0 +1,2 @@
+- pkg:maven/com.sharetrace/sharetrace-android-sdk@2.1.0?classifier=sources
+- pkg:maven/com.sharetrace/sharetrace-android-sdk@2.1.0?type=aar

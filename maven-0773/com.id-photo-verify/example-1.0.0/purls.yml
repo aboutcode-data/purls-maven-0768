@@ -1,0 +1,2 @@
+- pkg:maven/com.id-photo-verify/example-1.0.0@1.0.0?classifier=sources
+- pkg:maven/com.id-photo-verify/example-1.0.0@1.0.0?type=aar

@@ -12,3 +12,7 @@
 - pkg:maven/com.github.manosbatsis.corda.testacles/corda-testacles-common@0.17?classifier=sources
 - pkg:maven/com.github.manosbatsis.corda.testacles/corda-testacles-common@0.18
 - pkg:maven/com.github.manosbatsis.corda.testacles/corda-testacles-common@0.18?classifier=sources
+- pkg:maven/com.github.manosbatsis.corda.testacles/corda-testacles-common@0.19
+- pkg:maven/com.github.manosbatsis.corda.testacles/corda-testacles-common@0.19?classifier=sources
+- pkg:maven/com.github.manosbatsis.corda.testacles/corda-testacles-common@0.20
+- pkg:maven/com.github.manosbatsis.corda.testacles/corda-testacles-common@0.20?classifier=sources

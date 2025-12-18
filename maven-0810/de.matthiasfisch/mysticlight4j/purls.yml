@@ -3,4 +3,6 @@
 - pkg:maven/de.matthiasfisch/mysticlight4j@0.2.1?classifier=sources
 - pkg:maven/de.matthiasfisch/mysticlight4j@0.2.2
 - pkg:maven/de.matthiasfisch/mysticlight4j@0.2.2?classifier=sources
+- pkg:maven/de.matthiasfisch/mysticlight4j@0.2.3
+- pkg:maven/de.matthiasfisch/mysticlight4j@0.2.3?classifier=sources
 - pkg:maven/de.matthiasfisch/mysticlight4j@0.2?classifier=sources

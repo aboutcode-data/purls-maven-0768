@@ -34,6 +34,8 @@
 - pkg:maven/com.instana/android-agent-plugin@1.5.4?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@1.5.5
 - pkg:maven/com.instana/android-agent-plugin@1.5.5?classifier=sources
+- pkg:maven/com.instana/android-agent-plugin@1.5.6
+- pkg:maven/com.instana/android-agent-plugin@1.5.6?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@2.1.1
 - pkg:maven/com.instana/android-agent-plugin@2.1.1?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@2.1.2
@@ -64,6 +66,7 @@
 - pkg:maven/com.instana/android-agent-plugin@2.5.3?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@2.5.4?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@2.5.5?classifier=sources
+- pkg:maven/com.instana/android-agent-plugin@2.5.6?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@3.3.0
 - pkg:maven/com.instana/android-agent-plugin@3.3.0?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@3.3.1
@@ -84,6 +87,7 @@
 - pkg:maven/com.instana/android-agent-plugin@3.5.3?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@3.5.4?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@3.5.5?classifier=sources
+- pkg:maven/com.instana/android-agent-plugin@3.5.6?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@4.5.0
 - pkg:maven/com.instana/android-agent-plugin@4.5.0?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@4.5.1
@@ -95,3 +99,4 @@
 - pkg:maven/com.instana/android-agent-plugin@4.5.4.1?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@4.5.4?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@4.5.5?classifier=sources
+- pkg:maven/com.instana/android-agent-plugin@4.5.6?classifier=sources

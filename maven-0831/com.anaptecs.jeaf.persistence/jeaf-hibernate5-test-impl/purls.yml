@@ -1,2 +1,6 @@
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-impl@1.5.13
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-impl@1.5.13?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-impl@1.5.14
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-impl@1.5.14?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-impl@1.6.0
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-impl@1.6.0?classifier=sources

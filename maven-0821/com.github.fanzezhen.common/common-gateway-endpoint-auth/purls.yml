@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fanzezhen.common/common-gateway-endpoint-auth@2.1.0
+- pkg:maven/com.github.fanzezhen.common/common-gateway-endpoint-auth@2.1.0?classifier=sources

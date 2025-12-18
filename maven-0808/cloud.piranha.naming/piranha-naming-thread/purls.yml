@@ -8,3 +8,7 @@
 - pkg:maven/cloud.piranha.naming/piranha-naming-thread@21.3.0?classifier=sources
 - pkg:maven/cloud.piranha.naming/piranha-naming-thread@21.4.0
 - pkg:maven/cloud.piranha.naming/piranha-naming-thread@21.4.0?classifier=sources
+- pkg:maven/cloud.piranha.naming/piranha-naming-thread@21.5.0
+- pkg:maven/cloud.piranha.naming/piranha-naming-thread@21.5.0?classifier=sources
+- pkg:maven/cloud.piranha.naming/piranha-naming-thread@21.6.0
+- pkg:maven/cloud.piranha.naming/piranha-naming-thread@21.6.0?classifier=sources

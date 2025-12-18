@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-api@1.4.36.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-api@1.4.36.Final?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/io.micronaut.discovery/micronaut-discovery-client@2.2.4?classifier=sources
 - pkg:maven/io.micronaut.discovery/micronaut-discovery-client@2.3.0?classifier=sources
 - pkg:maven/io.micronaut.discovery/micronaut-discovery-client@2.4.0?classifier=sources
+- pkg:maven/io.micronaut.discovery/micronaut-discovery-client@2.5.0?classifier=sources

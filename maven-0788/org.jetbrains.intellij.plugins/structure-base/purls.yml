@@ -12,3 +12,11 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.176?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.177
 - pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.177?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.182
+- pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.182?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.183
+- pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.183?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.184
+- pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.184?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.185
+- pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.185?classifier=sources

@@ -20,3 +20,4 @@
 - pkg:maven/com.backblaze.b2/b2-sdk-core@3.1.0?classifier=sources
 - pkg:maven/com.backblaze.b2/b2-sdk-core@4.0.0
 - pkg:maven/com.backblaze.b2/b2-sdk-core@4.0.0?classifier=sources
+- pkg:maven/com.backblaze.b2/b2-sdk-core@5.0.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.bowergithub.flatpickr/flatpickr@4.6.3?classifier=sources
 - pkg:maven/org.webjars.bowergithub.flatpickr/flatpickr@4.6.6
 - pkg:maven/org.webjars.bowergithub.flatpickr/flatpickr@4.6.6?classifier=sources
+- pkg:maven/org.webjars.bowergithub.flatpickr/flatpickr@4.6.9
+- pkg:maven/org.webjars.bowergithub.flatpickr/flatpickr@4.6.9?classifier=sources

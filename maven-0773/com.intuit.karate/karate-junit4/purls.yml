@@ -220,3 +220,9 @@
 - pkg:maven/com.intuit.karate/karate-junit4@1.0.0?classifier=sources
 - pkg:maven/com.intuit.karate/karate-junit4@1.0.1
 - pkg:maven/com.intuit.karate/karate-junit4@1.0.1?classifier=sources
+- pkg:maven/com.intuit.karate/karate-junit4@1.1.0.RC1
+- pkg:maven/com.intuit.karate/karate-junit4@1.1.0.RC1?classifier=sources
+- pkg:maven/com.intuit.karate/karate-junit4@1.1.0.RC2
+- pkg:maven/com.intuit.karate/karate-junit4@1.1.0.RC2?classifier=sources
+- pkg:maven/com.intuit.karate/karate-junit4@1.1.0.RC3
+- pkg:maven/com.intuit.karate/karate-junit4@1.1.0.RC3?classifier=sources

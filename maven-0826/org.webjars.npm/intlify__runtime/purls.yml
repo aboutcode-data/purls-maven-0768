@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/intlify__runtime@9.0.0-rc.9
+- pkg:maven/org.webjars.npm/intlify__runtime@9.0.0-rc.9?classifier=sources

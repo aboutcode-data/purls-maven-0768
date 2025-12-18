@@ -2,3 +2,5 @@
 - pkg:maven/de.flapdoodle.graph/de.flapdoodle.graph@1.0.0?classifier=sources
 - pkg:maven/de.flapdoodle.graph/de.flapdoodle.graph@1.1.0
 - pkg:maven/de.flapdoodle.graph/de.flapdoodle.graph@1.1.0?classifier=sources
+- pkg:maven/de.flapdoodle.graph/de.flapdoodle.graph@1.1.1
+- pkg:maven/de.flapdoodle.graph/de.flapdoodle.graph@1.1.1?classifier=sources

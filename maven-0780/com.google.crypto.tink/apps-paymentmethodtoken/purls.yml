@@ -34,3 +34,5 @@
 - pkg:maven/com.google.crypto.tink/apps-paymentmethodtoken@1.4.0?classifier=sources
 - pkg:maven/com.google.crypto.tink/apps-paymentmethodtoken@1.5.0
 - pkg:maven/com.google.crypto.tink/apps-paymentmethodtoken@1.5.0?classifier=sources
+- pkg:maven/com.google.crypto.tink/apps-paymentmethodtoken@1.6.0
+- pkg:maven/com.google.crypto.tink/apps-paymentmethodtoken@1.6.0?classifier=sources

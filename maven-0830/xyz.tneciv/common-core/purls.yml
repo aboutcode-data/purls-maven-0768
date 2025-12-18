@@ -14,6 +14,8 @@
 - pkg:maven/xyz.tneciv/common-core@2.0.4?classifier=sources
 - pkg:maven/xyz.tneciv/common-core@2.0.5
 - pkg:maven/xyz.tneciv/common-core@2.0.5?classifier=sources
+- pkg:maven/xyz.tneciv/common-core@Han.SR1
+- pkg:maven/xyz.tneciv/common-core@Han.SR1?classifier=sources
 - pkg:maven/xyz.tneciv/common-core@Qin.RC1
 - pkg:maven/xyz.tneciv/common-core@Qin.RC1?classifier=sources
 - pkg:maven/xyz.tneciv/common-core@Qin.RC3

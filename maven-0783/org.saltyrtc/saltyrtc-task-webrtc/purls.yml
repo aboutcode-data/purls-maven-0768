@@ -1,0 +1,2 @@
+- pkg:maven/org.saltyrtc/saltyrtc-task-webrtc@0.18.0?classifier=sources
+- pkg:maven/org.saltyrtc/saltyrtc-task-webrtc@0.18.1?classifier=sources

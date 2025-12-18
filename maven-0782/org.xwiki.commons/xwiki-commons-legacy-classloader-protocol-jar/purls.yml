@@ -11,6 +11,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@12.10.5?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@12.10.6
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@12.10.6?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@12.10.7
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@12.10.7?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@12.10.8
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@12.10.8?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@12.10?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@12.5
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@12.5-rc-1
@@ -64,3 +68,9 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@13.3-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@13.3-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@13.3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@13.4
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@13.4-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@13.4-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@13.4?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@13.5-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-classloader-protocol-jar@13.5-rc-1?classifier=sources

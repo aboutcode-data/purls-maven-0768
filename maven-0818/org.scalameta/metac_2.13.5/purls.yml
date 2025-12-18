@@ -10,3 +10,7 @@
 - pkg:maven/org.scalameta/metac_2.13.5@4.4.14?classifier=sources
 - pkg:maven/org.scalameta/metac_2.13.5@4.4.15
 - pkg:maven/org.scalameta/metac_2.13.5@4.4.15?classifier=sources
+- pkg:maven/org.scalameta/metac_2.13.5@4.4.16
+- pkg:maven/org.scalameta/metac_2.13.5@4.4.16?classifier=sources
+- pkg:maven/org.scalameta/metac_2.13.5@4.4.17
+- pkg:maven/org.scalameta/metac_2.13.5@4.4.17?classifier=sources

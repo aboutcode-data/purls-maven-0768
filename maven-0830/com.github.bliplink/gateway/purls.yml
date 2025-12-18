@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bliplink/gateway@0.1.0
+- pkg:maven/com.github.bliplink/gateway@0.1.0?classifier=sources

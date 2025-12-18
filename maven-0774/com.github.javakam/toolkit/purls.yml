@@ -3,3 +3,7 @@
 - pkg:maven/com.github.javakam/toolkit@3.0.0?classifier=sources
 - pkg:maven/com.github.javakam/toolkit@4.0.0?classifier=sources
 - pkg:maven/com.github.javakam/toolkit@5.0.0?classifier=sources
+- pkg:maven/com.github.javakam/toolkit@6.0.0?classifier=sources
+- pkg:maven/com.github.javakam/toolkit@7.0.0?classifier=sources
+- pkg:maven/com.github.javakam/toolkit@8.0.0?classifier=sources
+- pkg:maven/com.github.javakam/toolkit@8.8.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/me.youm.core/youm-cloud@2.5.0
+- pkg:maven/me.youm.core/youm-cloud@2.5.0?classifier=sources

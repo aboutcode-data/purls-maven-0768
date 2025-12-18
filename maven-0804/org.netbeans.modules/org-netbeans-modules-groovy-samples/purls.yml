@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-samples@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-samples@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-samples@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-samples@RELEASE124?classifier=sources

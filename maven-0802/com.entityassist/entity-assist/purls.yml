@@ -860,5 +860,9 @@
 - pkg:maven/com.entityassist/entity-assist@1.1.1.8-jre15?classifier=sources
 - pkg:maven/com.entityassist/entity-assist@1.1.1.8-jre16
 - pkg:maven/com.entityassist/entity-assist@1.1.1.8-jre16?classifier=sources
+- pkg:maven/com.entityassist/entity-assist@1.1.1.9-jre15
+- pkg:maven/com.entityassist/entity-assist@1.1.1.9-jre15?classifier=sources
+- pkg:maven/com.entityassist/entity-assist@1.1.1.9-jre16
+- pkg:maven/com.entityassist/entity-assist@1.1.1.9-jre16?classifier=sources
 - pkg:maven/com.entityassist/entity-assist@62
 - pkg:maven/com.entityassist/entity-assist@62?classifier=sources

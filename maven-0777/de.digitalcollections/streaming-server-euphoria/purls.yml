@@ -10,3 +10,5 @@
 - pkg:maven/de.digitalcollections/streaming-server-euphoria@3.0.0?classifier=sources
 - pkg:maven/de.digitalcollections/streaming-server-euphoria@4.0.0
 - pkg:maven/de.digitalcollections/streaming-server-euphoria@4.0.0?classifier=sources
+- pkg:maven/de.digitalcollections/streaming-server-euphoria@4.0.1
+- pkg:maven/de.digitalcollections/streaming-server-euphoria@4.0.1?classifier=sources

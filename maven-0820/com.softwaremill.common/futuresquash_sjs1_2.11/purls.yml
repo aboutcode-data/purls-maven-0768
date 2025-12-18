@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.common/futuresquash_sjs1_2.11@1.0.1
+- pkg:maven/com.softwaremill.common/futuresquash_sjs1_2.11@1.0.1?classifier=sources

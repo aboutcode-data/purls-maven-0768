@@ -1,0 +1,2 @@
+- pkg:maven/org.pageseeder.flint/pso-flint-berlioz-tika@5.2.20?classifier=sources
+- pkg:maven/org.pageseeder.flint/pso-flint-berlioz-tika@5.2.21?classifier=sources

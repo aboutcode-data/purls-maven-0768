@@ -84,6 +84,10 @@
 - pkg:maven/com.bluenimble.serverless/bluenimble-jvm-sdk@2.44.0?classifier=sources
 - pkg:maven/com.bluenimble.serverless/bluenimble-jvm-sdk@2.45.0
 - pkg:maven/com.bluenimble.serverless/bluenimble-jvm-sdk@2.45.0?classifier=sources
+- pkg:maven/com.bluenimble.serverless/bluenimble-jvm-sdk@2.46.0
+- pkg:maven/com.bluenimble.serverless/bluenimble-jvm-sdk@2.46.0?classifier=sources
+- pkg:maven/com.bluenimble.serverless/bluenimble-jvm-sdk@2.47.0
+- pkg:maven/com.bluenimble.serverless/bluenimble-jvm-sdk@2.47.0?classifier=sources
 - pkg:maven/com.bluenimble.serverless/bluenimble-jvm-sdk@2.5.0
 - pkg:maven/com.bluenimble.serverless/bluenimble-jvm-sdk@2.5.0?classifier=sources
 - pkg:maven/com.bluenimble.serverless/bluenimble-jvm-sdk@2.6.0

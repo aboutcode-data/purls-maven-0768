@@ -1,0 +1,2 @@
+- pkg:maven/com.github.shoothzj/distribute-impl-common@0.0.2
+- pkg:maven/com.github.shoothzj/distribute-impl-common@0.0.2?classifier=sources

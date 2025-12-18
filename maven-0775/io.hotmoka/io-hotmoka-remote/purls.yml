@@ -1,0 +1,2 @@
+- pkg:maven/io.hotmoka/io-hotmoka-remote@1.0.0
+- pkg:maven/io.hotmoka/io-hotmoka-remote@1.0.0?classifier=sources

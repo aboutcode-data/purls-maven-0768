@@ -1,0 +1,2 @@
+- pkg:maven/fr.groupbees/asgarde@0.7.0
+- pkg:maven/fr.groupbees/asgarde@0.7.0?classifier=sources

@@ -93,3 +93,7 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.2.3?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.2.4?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.3.0-m08?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@8.0.0-BDEV-16109-m02?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@8.0.0-m02?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@8.0.0-m03?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@8.0.0-rc1?classifier=sources

@@ -5,3 +5,10 @@
 - pkg:maven/org.elastos.did/didsdk@1.2
 - pkg:maven/org.elastos.did/didsdk@1.2?classifier=sources
 - pkg:maven/org.elastos.did/didsdk@1.3?classifier=sources
+- pkg:maven/org.elastos.did/didsdk@2.0.0-pre?classifier=sources
+- pkg:maven/org.elastos.did/didsdk@2.0.1-pre?classifier=sources
+- pkg:maven/org.elastos.did/didsdk@2.0.2-pre?classifier=sources
+- pkg:maven/org.elastos.did/didsdk@2.0.3-pre?classifier=sources
+- pkg:maven/org.elastos.did/didsdk@2.0.4-pre?classifier=sources
+- pkg:maven/org.elastos.did/didsdk@2.0.5-pre?classifier=sources
+- pkg:maven/org.elastos.did/didsdk@2.0.6-pre?classifier=sources

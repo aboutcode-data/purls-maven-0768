@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ice-zero-cat/component-mp-spring-boot-starter@2.0.0
+- pkg:maven/com.github.ice-zero-cat/component-mp-spring-boot-starter@2.0.0?classifier=sources

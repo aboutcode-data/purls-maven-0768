@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/axios-mock-adapter@1.10.0
 - pkg:maven/org.webjars.npm/axios-mock-adapter@1.10.0?classifier=sources
+- pkg:maven/org.webjars.npm/axios-mock-adapter@1.19.0
+- pkg:maven/org.webjars.npm/axios-mock-adapter@1.19.0?classifier=sources

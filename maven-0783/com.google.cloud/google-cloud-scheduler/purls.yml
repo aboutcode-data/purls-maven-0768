@@ -93,6 +93,10 @@
 - pkg:maven/com.google.cloud/google-cloud-scheduler@1.23.11?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler@1.23.12
 - pkg:maven/com.google.cloud/google-cloud-scheduler@1.23.12?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-scheduler@1.23.13
+- pkg:maven/com.google.cloud/google-cloud-scheduler@1.23.13?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-scheduler@1.23.14
+- pkg:maven/com.google.cloud/google-cloud-scheduler@1.23.14?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler@1.23.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler@1.23.2
 - pkg:maven/com.google.cloud/google-cloud-scheduler@1.23.2?classifier=sources
@@ -110,6 +114,16 @@
 - pkg:maven/com.google.cloud/google-cloud-scheduler@1.23.8?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler@1.23.9
 - pkg:maven/com.google.cloud/google-cloud-scheduler@1.23.9?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-scheduler@1.24.0
+- pkg:maven/com.google.cloud/google-cloud-scheduler@1.24.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-scheduler@1.24.1
+- pkg:maven/com.google.cloud/google-cloud-scheduler@1.24.1?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-scheduler@1.24.2
+- pkg:maven/com.google.cloud/google-cloud-scheduler@1.24.2?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-scheduler@1.24.3
+- pkg:maven/com.google.cloud/google-cloud-scheduler@1.24.3?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-scheduler@1.24.4
+- pkg:maven/com.google.cloud/google-cloud-scheduler@1.24.4?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler@1.3.0
 - pkg:maven/com.google.cloud/google-cloud-scheduler@1.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler@1.4.0

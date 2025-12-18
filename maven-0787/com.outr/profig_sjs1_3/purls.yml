@@ -1,0 +1,2 @@
+- pkg:maven/com.outr/profig_sjs1_3@3.2.3
+- pkg:maven/com.outr/profig_sjs1_3@3.2.3?classifier=sources

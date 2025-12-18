@@ -2,5 +2,9 @@
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey.multipart@0.0.0.202104221233
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey.multipart@0.0.0.202104221233?classifier=sources
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey.multipart@0.0.0?classifier=sources
+- pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey.multipart@4.0.10
+- pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey.multipart@4.0.10?classifier=sources
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey.multipart@4.0.8
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey.multipart@4.0.8?classifier=sources
+- pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey.multipart@4.0.9
+- pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey.multipart@4.0.9?classifier=sources

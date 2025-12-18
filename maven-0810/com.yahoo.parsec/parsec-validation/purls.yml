@@ -83,8 +83,16 @@
 - pkg:maven/com.yahoo.parsec/parsec-validation@1.0.17?classifier=sources
 - pkg:maven/com.yahoo.parsec/parsec-validation@1.0.18
 - pkg:maven/com.yahoo.parsec/parsec-validation@1.0.18?classifier=sources
+- pkg:maven/com.yahoo.parsec/parsec-validation@1.0.19
 - pkg:maven/com.yahoo.parsec/parsec-validation@1.0.19-RC1
 - pkg:maven/com.yahoo.parsec/parsec-validation@1.0.19-RC1?classifier=sources
+- pkg:maven/com.yahoo.parsec/parsec-validation@1.0.19-RC2
+- pkg:maven/com.yahoo.parsec/parsec-validation@1.0.19-RC2?classifier=sources
+- pkg:maven/com.yahoo.parsec/parsec-validation@1.0.19-RC3
+- pkg:maven/com.yahoo.parsec/parsec-validation@1.0.19-RC3?classifier=sources
+- pkg:maven/com.yahoo.parsec/parsec-validation@1.0.19-RC4
+- pkg:maven/com.yahoo.parsec/parsec-validation@1.0.19-RC4?classifier=sources
+- pkg:maven/com.yahoo.parsec/parsec-validation@1.0.19?classifier=sources
 - pkg:maven/com.yahoo.parsec/parsec-validation@1.0.1?classifier=sources
 - pkg:maven/com.yahoo.parsec/parsec-validation@1.0.2
 - pkg:maven/com.yahoo.parsec/parsec-validation@1.0.2?classifier=sources

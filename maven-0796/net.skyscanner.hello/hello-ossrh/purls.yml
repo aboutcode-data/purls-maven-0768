@@ -1,0 +1,1 @@
+- pkg:maven/net.skyscanner.hello/hello-ossrh@0.0.1?classifier=sources

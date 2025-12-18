@@ -36,3 +36,9 @@
 - pkg:maven/com.qudini/qudini-reactive-metrics@0.0.34?classifier=sources
 - pkg:maven/com.qudini/qudini-reactive-metrics@0.0.35
 - pkg:maven/com.qudini/qudini-reactive-metrics@0.0.35?classifier=sources
+- pkg:maven/com.qudini/qudini-reactive-metrics@0.0.36
+- pkg:maven/com.qudini/qudini-reactive-metrics@0.0.36?classifier=sources
+- pkg:maven/com.qudini/qudini-reactive-metrics@0.0.37
+- pkg:maven/com.qudini/qudini-reactive-metrics@0.0.37?classifier=sources
+- pkg:maven/com.qudini/qudini-reactive-metrics@0.0.38
+- pkg:maven/com.qudini/qudini-reactive-metrics@0.0.38?classifier=sources

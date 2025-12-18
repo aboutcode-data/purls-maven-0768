@@ -40,3 +40,7 @@
 - pkg:maven/org.coody.framework/coody-checker@alpha-1.7.7
 - pkg:maven/org.coody.framework/coody-checker@alpha-1.7.7?classifier=sources
 - pkg:maven/org.coody.framework/coody-checker@alpha-1.7?classifier=sources
+- pkg:maven/org.coody.framework/coody-checker@alpha-1.8.1
+- pkg:maven/org.coody.framework/coody-checker@alpha-1.8.1?classifier=sources
+- pkg:maven/org.coody.framework/coody-checker@alpha-1.8.2
+- pkg:maven/org.coody.framework/coody-checker@alpha-1.8.2?classifier=sources

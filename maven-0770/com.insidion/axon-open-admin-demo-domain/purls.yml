@@ -1,0 +1,2 @@
+- pkg:maven/com.insidion/axon-open-admin-demo-domain@0.0.3
+- pkg:maven/com.insidion/axon-open-admin-demo-domain@0.0.3?classifier=sources

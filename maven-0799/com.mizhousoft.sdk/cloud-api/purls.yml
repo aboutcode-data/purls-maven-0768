@@ -1,0 +1,2 @@
+- pkg:maven/com.mizhousoft.sdk/cloud-api@1.0.2
+- pkg:maven/com.mizhousoft.sdk/cloud-api@1.0.2?classifier=sources

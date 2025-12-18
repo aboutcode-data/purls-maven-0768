@@ -1,0 +1,4 @@
+- pkg:maven/io.argonaut/argonaut_3@6.3.3
+- pkg:maven/io.argonaut/argonaut_3@6.3.3?classifier=sources
+- pkg:maven/io.argonaut/argonaut_3@6.3.4
+- pkg:maven/io.argonaut/argonaut_3@6.3.4?classifier=sources

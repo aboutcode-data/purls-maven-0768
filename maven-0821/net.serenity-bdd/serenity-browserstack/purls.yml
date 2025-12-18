@@ -167,6 +167,8 @@
 - pkg:maven/net.serenity-bdd/serenity-browserstack@2.4.24?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-browserstack@2.4.2?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-browserstack@2.4.3
+- pkg:maven/net.serenity-bdd/serenity-browserstack@2.4.34
+- pkg:maven/net.serenity-bdd/serenity-browserstack@2.4.34?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-browserstack@2.4.3?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-browserstack@2.4.4
 - pkg:maven/net.serenity-bdd/serenity-browserstack@2.4.4?classifier=sources

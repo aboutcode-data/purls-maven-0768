@@ -56,6 +56,9 @@
 - pkg:maven/com.mparticle/android-responsys-kit@5.16.4?type=aar
 - pkg:maven/com.mparticle/android-responsys-kit@5.16.5?type=aar
 - pkg:maven/com.mparticle/android-responsys-kit@5.16.6?type=aar
+- pkg:maven/com.mparticle/android-responsys-kit@5.16.7?type=aar
+- pkg:maven/com.mparticle/android-responsys-kit@5.17.0?type=aar
+- pkg:maven/com.mparticle/android-responsys-kit@5.17.1?type=aar
 - pkg:maven/com.mparticle/android-responsys-kit@5.7.10?type=aar
 - pkg:maven/com.mparticle/android-responsys-kit@5.7.1?type=aar
 - pkg:maven/com.mparticle/android-responsys-kit@5.7.2?type=aar

@@ -1,2 +1,6 @@
 - pkg:maven/net.cactusthorn.config/compiler@0.10
 - pkg:maven/net.cactusthorn.config/compiler@0.10?classifier=sources
+- pkg:maven/net.cactusthorn.config/compiler@0.20
+- pkg:maven/net.cactusthorn.config/compiler@0.20?classifier=sources
+- pkg:maven/net.cactusthorn.config/compiler@0.30
+- pkg:maven/net.cactusthorn.config/compiler@0.30?classifier=sources

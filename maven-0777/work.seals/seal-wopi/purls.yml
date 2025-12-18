@@ -1,0 +1,2 @@
+- pkg:maven/work.seals/seal-wopi@3.5.4
+- pkg:maven/work.seals/seal-wopi@3.5.4?classifier=sources

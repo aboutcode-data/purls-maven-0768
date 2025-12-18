@@ -42,6 +42,8 @@
 - pkg:maven/com.google.apis/google-api-services-blogger@v2-rev20200801-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-blogger@v2-rev20200801-1.31.0
 - pkg:maven/com.google.apis/google-api-services-blogger@v2-rev20200801-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-blogger@v2-rev20200801-1.31.5
+- pkg:maven/com.google.apis/google-api-services-blogger@v2-rev20200801-1.31.5?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-blogger@v2-rev21-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-blogger@v2-rev21-1.13.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-blogger@v2-rev21-1.14.2-beta
@@ -536,6 +538,8 @@
 - pkg:maven/com.google.apis/google-api-services-blogger@v3-rev20200801-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-blogger@v3-rev20210227-1.31.0
 - pkg:maven/com.google.apis/google-api-services-blogger@v3-rev20210227-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-blogger@v3-rev20210227-1.31.5
+- pkg:maven/com.google.apis/google-api-services-blogger@v3-rev20210227-1.31.5?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-blogger@v3-rev21-1.14.2-beta
 - pkg:maven/com.google.apis/google-api-services-blogger@v3-rev21-1.14.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-blogger@v3-rev21-1.15.0-rc

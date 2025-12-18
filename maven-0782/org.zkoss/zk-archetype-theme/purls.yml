@@ -12,3 +12,4 @@
 - pkg:maven/org.zkoss/zk-archetype-theme@8.0.2.2?classifier=sources
 - pkg:maven/org.zkoss/zk-archetype-theme@8.5.0?classifier=sources
 - pkg:maven/org.zkoss/zk-archetype-theme@9.0.0?classifier=sources
+- pkg:maven/org.zkoss/zk-archetype-theme@9.5.0.3?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.skywalking/storage-zipkin-elasticsearch7-plugin@8.5.0
+- pkg:maven/org.apache.skywalking/storage-zipkin-elasticsearch7-plugin@8.6.0

@@ -9,3 +9,4 @@
 - pkg:maven/io.cdap.cdap/cdap-tms-tests@6.2.3
 - pkg:maven/io.cdap.cdap/cdap-tms-tests@6.3.0
 - pkg:maven/io.cdap.cdap/cdap-tms-tests@6.4.0
+- pkg:maven/io.cdap.cdap/cdap-tms-tests@6.4.1

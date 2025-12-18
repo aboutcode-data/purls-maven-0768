@@ -1,1 +1,2 @@
 - pkg:maven/com.dorkbox/Serializers@1.0?classifier=sources
+- pkg:maven/com.dorkbox/Serializers@1.2?classifier=sources

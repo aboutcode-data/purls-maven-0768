@@ -1,2 +1,10 @@
 - pkg:maven/org.specs2/xml_2.13@4.11.0
 - pkg:maven/org.specs2/xml_2.13@4.11.0?classifier=sources
+- pkg:maven/org.specs2/xml_2.13@4.12.0
+- pkg:maven/org.specs2/xml_2.13@4.12.0?classifier=sources
+- pkg:maven/org.specs2/xml_2.13@4.12.1
+- pkg:maven/org.specs2/xml_2.13@4.12.1-junit-5
+- pkg:maven/org.specs2/xml_2.13@4.12.1-junit-5?classifier=sources
+- pkg:maven/org.specs2/xml_2.13@4.12.1?classifier=sources
+- pkg:maven/org.specs2/xml_2.13@4.12.2
+- pkg:maven/org.specs2/xml_2.13@4.12.2?classifier=sources

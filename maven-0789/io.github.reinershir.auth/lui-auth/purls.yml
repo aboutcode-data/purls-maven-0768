@@ -22,3 +22,7 @@
 - pkg:maven/io.github.reinershir.auth/lui-auth@1.0.0-RELEASE?classifier=sources
 - pkg:maven/io.github.reinershir.auth/lui-auth@1.0.1-RELEASE
 - pkg:maven/io.github.reinershir.auth/lui-auth@1.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.reinershir.auth/lui-auth@1.1.0-RELEASE
+- pkg:maven/io.github.reinershir.auth/lui-auth@1.1.0-RELEASE?classifier=sources
+- pkg:maven/io.github.reinershir.auth/lui-auth@1.2.0-RELEASE
+- pkg:maven/io.github.reinershir.auth/lui-auth@1.2.0-RELEASE?classifier=sources

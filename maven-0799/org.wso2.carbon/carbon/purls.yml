@@ -52,3 +52,4 @@
 - pkg:maven/org.wso2.carbon/carbon@4.6.2-m9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon/carbon@4.6.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon/carbon@4.6.3-m1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon/carbon@4.6.3-m2?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/com.undabot.izzy-json-api-android/jackson-adapter@0.5.0?classifier=sources
+- pkg:maven/com.undabot.izzy-json-api-android/jackson-adapter@1.0.0?classifier=sources

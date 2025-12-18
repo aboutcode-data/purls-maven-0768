@@ -260,6 +260,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.20.1?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.20.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.20.2?type=war
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.20.3?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.20.3?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.21.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.21.0?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.21.1?classifier=sources

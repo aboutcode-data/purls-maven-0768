@@ -1,0 +1,5 @@
+- pkg:maven/com.github.malkomich/release-workflow-poc@1.0.0
+- pkg:maven/com.github.malkomich/release-workflow-poc@5.2.4
+- pkg:maven/com.github.malkomich/release-workflow-poc@5.2.4?classifier=sources
+- pkg:maven/com.github.malkomich/release-workflow-poc@6.5.4
+- pkg:maven/com.github.malkomich/release-workflow-poc@6.5.4?classifier=sources

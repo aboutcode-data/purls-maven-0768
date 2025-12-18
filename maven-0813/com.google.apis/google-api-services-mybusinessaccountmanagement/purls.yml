@@ -2,3 +2,7 @@
 - pkg:maven/com.google.apis/google-api-services-mybusinessaccountmanagement@v1-rev20210217-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-mybusinessaccountmanagement@v1-rev20210329-1.31.0
 - pkg:maven/com.google.apis/google-api-services-mybusinessaccountmanagement@v1-rev20210329-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-mybusinessaccountmanagement@v1-rev20210504-1.31.0
+- pkg:maven/com.google.apis/google-api-services-mybusinessaccountmanagement@v1-rev20210504-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-mybusinessaccountmanagement@v1-rev20210504-1.31.5
+- pkg:maven/com.google.apis/google-api-services-mybusinessaccountmanagement@v1-rev20210504-1.31.5?classifier=sources

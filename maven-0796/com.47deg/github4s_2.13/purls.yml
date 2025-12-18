@@ -24,3 +24,5 @@
 - pkg:maven/com.47deg/github4s_2.13@0.28.3?classifier=sources
 - pkg:maven/com.47deg/github4s_2.13@0.28.4
 - pkg:maven/com.47deg/github4s_2.13@0.28.4?classifier=sources
+- pkg:maven/com.47deg/github4s_2.13@0.28.5
+- pkg:maven/com.47deg/github4s_2.13@0.28.5?classifier=sources

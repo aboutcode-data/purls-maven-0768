@@ -18,3 +18,5 @@
 - pkg:maven/com.dropbox.mobile.store/multicast@4.0.0?classifier=sources
 - pkg:maven/com.dropbox.mobile.store/multicast@4.0.1
 - pkg:maven/com.dropbox.mobile.store/multicast@4.0.1?classifier=sources
+- pkg:maven/com.dropbox.mobile.store/multicast@4.0.2-KT15
+- pkg:maven/com.dropbox.mobile.store/multicast@4.0.2-KT15?classifier=sources

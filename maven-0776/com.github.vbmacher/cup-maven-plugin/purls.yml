@@ -5,4 +5,6 @@
 - pkg:maven/com.github.vbmacher/cup-maven-plugin@11b-20151001
 - pkg:maven/com.github.vbmacher/cup-maven-plugin@11b-20151001?classifier=sources
 - pkg:maven/com.github.vbmacher/cup-maven-plugin@11b-20160615
+- pkg:maven/com.github.vbmacher/cup-maven-plugin@11b-20160615-1
+- pkg:maven/com.github.vbmacher/cup-maven-plugin@11b-20160615-1?classifier=sources
 - pkg:maven/com.github.vbmacher/cup-maven-plugin@11b-20160615?classifier=sources

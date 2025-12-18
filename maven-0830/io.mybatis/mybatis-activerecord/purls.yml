@@ -1,2 +1,6 @@
 - pkg:maven/io.mybatis/mybatis-activerecord@1.0.0-Preview
 - pkg:maven/io.mybatis/mybatis-activerecord@1.0.0-Preview?classifier=sources
+- pkg:maven/io.mybatis/mybatis-activerecord@1.0.0-RC
+- pkg:maven/io.mybatis/mybatis-activerecord@1.0.0-RC2
+- pkg:maven/io.mybatis/mybatis-activerecord@1.0.0-RC2?classifier=sources
+- pkg:maven/io.mybatis/mybatis-activerecord@1.0.0-RC?classifier=sources

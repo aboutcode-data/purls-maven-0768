@@ -1,0 +1,6 @@
+- pkg:maven/dev.brachtendorf/UtilityCode@1.0.0
+- pkg:maven/dev.brachtendorf/UtilityCode@1.0.0?classifier=sources
+- pkg:maven/dev.brachtendorf/UtilityCode@2.0.0
+- pkg:maven/dev.brachtendorf/UtilityCode@2.0.0?classifier=sources
+- pkg:maven/dev.brachtendorf/UtilityCode@2.0.1
+- pkg:maven/dev.brachtendorf/UtilityCode@2.0.1?classifier=sources

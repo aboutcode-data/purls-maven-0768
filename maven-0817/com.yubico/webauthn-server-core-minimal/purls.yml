@@ -2,3 +2,6 @@
 - pkg:maven/com.yubico/webauthn-server-core-minimal@1.9.0-RC1?classifier=sources
 - pkg:maven/com.yubico/webauthn-server-core-minimal@1.9.0-RC2?classifier=sources
 - pkg:maven/com.yubico/webauthn-server-core-minimal@1.9.0?classifier=sources
+- pkg:maven/com.yubico/webauthn-server-core-minimal@1.9.1-RC1?classifier=sources
+- pkg:maven/com.yubico/webauthn-server-core-minimal@1.9.1-RC2?classifier=sources
+- pkg:maven/com.yubico/webauthn-server-core-minimal@1.9.1?classifier=sources

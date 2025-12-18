@@ -1,0 +1,2 @@
+- pkg:maven/dev.koubic/zio-ubench_2.11@0.2.3
+- pkg:maven/dev.koubic/zio-ubench_2.11@0.2.3?classifier=sources

@@ -157,6 +157,10 @@
 - pkg:maven/org.reaktivity/nukleus-ws@0.80?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-ws@0.81
 - pkg:maven/org.reaktivity/nukleus-ws@0.81?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-ws@0.82
+- pkg:maven/org.reaktivity/nukleus-ws@0.82?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-ws@0.83
+- pkg:maven/org.reaktivity/nukleus-ws@0.83?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-ws@0.8?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-ws@0.9
 - pkg:maven/org.reaktivity/nukleus-ws@0.9?classifier=sources

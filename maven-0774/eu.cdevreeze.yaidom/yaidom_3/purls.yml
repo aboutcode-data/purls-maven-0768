@@ -1,0 +1,4 @@
+- pkg:maven/eu.cdevreeze.yaidom/yaidom_3@1.12.0
+- pkg:maven/eu.cdevreeze.yaidom/yaidom_3@1.12.0?classifier=sources
+- pkg:maven/eu.cdevreeze.yaidom/yaidom_3@1.13.0
+- pkg:maven/eu.cdevreeze.yaidom/yaidom_3@1.13.0?classifier=sources

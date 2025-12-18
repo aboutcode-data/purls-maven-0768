@@ -1,0 +1,2 @@
+- pkg:maven/name.remal.gradle-plugins.toolkit/remal-gradle-plugins-toolkit@0.1.0-rc-3?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/remal-gradle-plugins-toolkit@0.1.0?classifier=sources

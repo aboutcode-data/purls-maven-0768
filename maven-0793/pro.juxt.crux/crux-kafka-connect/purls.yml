@@ -1,0 +1,2 @@
+- pkg:maven/pro.juxt.crux/crux-kafka-connect@1.17.1-rc1
+- pkg:maven/pro.juxt.crux/crux-kafka-connect@1.17.1-rc1?classifier=sources

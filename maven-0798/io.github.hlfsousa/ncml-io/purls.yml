@@ -10,3 +10,5 @@
 - pkg:maven/io.github.hlfsousa/ncml-io@0.5.1-downgraded
 - pkg:maven/io.github.hlfsousa/ncml-io@0.5.1-downgraded?classifier=sources
 - pkg:maven/io.github.hlfsousa/ncml-io@0.5.1?classifier=sources
+- pkg:maven/io.github.hlfsousa/ncml-io@0.5.2-downgraded
+- pkg:maven/io.github.hlfsousa/ncml-io@0.5.2-downgraded?classifier=sources

@@ -21,6 +21,7 @@
 - pkg:maven/com.javiersc.gradle-plugins/nexus@0.1.0-alpha.29?classifier=sources
 - pkg:maven/com.javiersc.gradle-plugins/nexus@0.1.0-alpha.2?classifier=sources
 - pkg:maven/com.javiersc.gradle-plugins/nexus@0.1.0-alpha.30?classifier=sources
+- pkg:maven/com.javiersc.gradle-plugins/nexus@0.1.0-alpha.31?classifier=sources
 - pkg:maven/com.javiersc.gradle-plugins/nexus@0.1.0-alpha.3?classifier=sources
 - pkg:maven/com.javiersc.gradle-plugins/nexus@0.1.0-alpha.4?classifier=sources
 - pkg:maven/com.javiersc.gradle-plugins/nexus@0.1.0-alpha.5?classifier=sources

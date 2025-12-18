@@ -26,3 +26,5 @@
 - pkg:maven/com.offerready/xslt-library@2.6.0?classifier=sources
 - pkg:maven/com.offerready/xslt-library@2.7.1
 - pkg:maven/com.offerready/xslt-library@2.7.1?classifier=sources
+- pkg:maven/com.offerready/xslt-library@4.0.0
+- pkg:maven/com.offerready/xslt-library@4.0.0?classifier=sources

@@ -17,3 +17,10 @@
 - pkg:maven/com.thegoate/rest@0.15.8.202104290141
 - pkg:maven/com.thegoate/rest@0.15.8.202104290141?classifier=sources
 - pkg:maven/com.thegoate/rest@0.15.8.202104300242?classifier=sources
+- pkg:maven/com.thegoate/rest@0.15.8.202105061656?classifier=sources
+- pkg:maven/com.thegoate/rest@0.15.8.202105061957?classifier=sources
+- pkg:maven/com.thegoate/rest@0.15.8.202105110140?classifier=sources
+- pkg:maven/com.thegoate/rest@0.15.8.202105180119?classifier=sources
+- pkg:maven/com.thegoate/rest@0.15.8.202105182024?classifier=sources
+- pkg:maven/com.thegoate/rest@0.15.8.202106171546?classifier=sources
+- pkg:maven/com.thegoate/rest@0.15.8.202106211140?classifier=sources

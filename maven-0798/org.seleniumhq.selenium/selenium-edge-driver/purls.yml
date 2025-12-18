@@ -100,3 +100,5 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.0.0-beta-2?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.0.0-beta-3
 - pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.0.0-beta-3?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.0.0-beta-4
+- pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.0.0-beta-4?classifier=sources

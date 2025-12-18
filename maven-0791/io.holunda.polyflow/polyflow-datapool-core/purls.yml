@@ -1,0 +1,2 @@
+- pkg:maven/io.holunda.polyflow/polyflow-datapool-core@3.0.0
+- pkg:maven/io.holunda.polyflow/polyflow-datapool-core@3.0.0?classifier=sources

@@ -280,3 +280,5 @@
 - pkg:maven/io.airlift/http-server@204?classifier=sources
 - pkg:maven/io.airlift/http-server@205
 - pkg:maven/io.airlift/http-server@205?classifier=sources
+- pkg:maven/io.airlift/http-server@206
+- pkg:maven/io.airlift/http-server@206?classifier=sources

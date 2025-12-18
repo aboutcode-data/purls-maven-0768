@@ -1,0 +1,2 @@
+- pkg:maven/org.odpi.egeria/security-manager-api@2.10
+- pkg:maven/org.odpi.egeria/security-manager-api@2.10?classifier=sources

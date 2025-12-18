@@ -4,3 +4,7 @@
 - pkg:maven/org.amshove.kluent/kluent@1.64?classifier=sources
 - pkg:maven/org.amshove.kluent/kluent@1.65
 - pkg:maven/org.amshove.kluent/kluent@1.65?classifier=sources
+- pkg:maven/org.amshove.kluent/kluent@1.66
+- pkg:maven/org.amshove.kluent/kluent@1.66?classifier=sources
+- pkg:maven/org.amshove.kluent/kluent@1.67
+- pkg:maven/org.amshove.kluent/kluent@1.67?classifier=sources

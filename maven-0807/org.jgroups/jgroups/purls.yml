@@ -380,6 +380,8 @@
 - pkg:maven/org.jgroups/jgroups@4.2.13.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@4.2.14.Final
 - pkg:maven/org.jgroups/jgroups@4.2.14.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@4.2.15.Final
+- pkg:maven/org.jgroups/jgroups@4.2.15.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@4.2.2.Final
 - pkg:maven/org.jgroups/jgroups@4.2.2.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@4.2.3.Final
@@ -436,3 +438,7 @@
 - pkg:maven/org.jgroups/jgroups@5.1.5.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@5.1.6.Final
 - pkg:maven/org.jgroups/jgroups@5.1.6.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@5.1.7.Final
+- pkg:maven/org.jgroups/jgroups@5.1.7.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@5.1.8.Final
+- pkg:maven/org.jgroups/jgroups@5.1.8.Final?classifier=sources

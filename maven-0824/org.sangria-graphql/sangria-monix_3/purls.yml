@@ -1,0 +1,2 @@
+- pkg:maven/org.sangria-graphql/sangria-monix_3@2.0.1
+- pkg:maven/org.sangria-graphql/sangria-monix_3@2.0.1?classifier=sources

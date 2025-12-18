@@ -11,6 +11,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views.log@1.2.1300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views.log@1.2.1400
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views.log@1.2.1400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.views.log@1.2.1500
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.views.log@1.2.1500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views.log@1.2.1?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views.log@1.2.200
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views.log@1.2.200?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.yehebl/spring-jdbc-ds-orm@0.0.8?classifier=sources
 - pkg:maven/com.yehebl/spring-jdbc-ds-orm@0.0.9
 - pkg:maven/com.yehebl/spring-jdbc-ds-orm@0.0.9?classifier=sources
+- pkg:maven/com.yehebl/spring-jdbc-ds-orm@2.0.0?classifier=sources
+- pkg:maven/com.yehebl/spring-jdbc-ds-orm@2.0.1?classifier=sources

@@ -63,6 +63,12 @@
 - pkg:maven/com.ibm.cloud/usage-reports@0.18.0
 - pkg:maven/com.ibm.cloud/usage-reports@0.18.0?classifier=sources
 - pkg:maven/com.ibm.cloud/usage-reports@0.18.1
+- pkg:maven/com.ibm.cloud/usage-reports@0.18.10
+- pkg:maven/com.ibm.cloud/usage-reports@0.18.10?classifier=sources
+- pkg:maven/com.ibm.cloud/usage-reports@0.18.11
+- pkg:maven/com.ibm.cloud/usage-reports@0.18.11?classifier=sources
+- pkg:maven/com.ibm.cloud/usage-reports@0.18.12
+- pkg:maven/com.ibm.cloud/usage-reports@0.18.12?classifier=sources
 - pkg:maven/com.ibm.cloud/usage-reports@0.18.1?classifier=sources
 - pkg:maven/com.ibm.cloud/usage-reports@0.18.4
 - pkg:maven/com.ibm.cloud/usage-reports@0.18.4?classifier=sources

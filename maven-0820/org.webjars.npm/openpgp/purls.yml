@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/openpgp@1.4.1
 - pkg:maven/org.webjars.npm/openpgp@1.4.1?classifier=sources
+- pkg:maven/org.webjars.npm/openpgp@4.10.10
+- pkg:maven/org.webjars.npm/openpgp@4.10.10?classifier=sources
 - pkg:maven/org.webjars.npm/openpgp@4.4.10
 - pkg:maven/org.webjars.npm/openpgp@4.4.10?classifier=sources
 - pkg:maven/org.webjars.npm/openpgp@4.4.9

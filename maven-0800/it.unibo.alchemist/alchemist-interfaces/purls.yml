@@ -10,6 +10,7 @@
 - pkg:maven/it.unibo.alchemist/alchemist-interfaces@10.0.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-interfaces@11.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-interfaces@11.1.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-interfaces@11.2.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-interfaces@2.0.0
 - pkg:maven/it.unibo.alchemist/alchemist-interfaces@2.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-interfaces@2.0.1

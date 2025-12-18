@@ -1,0 +1,2 @@
+- pkg:maven/com.id-photo-verify/hzsmk-idphotosdk-1.2.8@1.2.8?classifier=sources
+- pkg:maven/com.id-photo-verify/hzsmk-idphotosdk-1.2.8@1.2.8?type=aar

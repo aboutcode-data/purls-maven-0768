@@ -390,6 +390,12 @@
 - pkg:maven/io.muserver/mu-server@0.61.2?classifier=sources
 - pkg:maven/io.muserver/mu-server@0.61.3
 - pkg:maven/io.muserver/mu-server@0.61.3?classifier=sources
+- pkg:maven/io.muserver/mu-server@0.61.4
+- pkg:maven/io.muserver/mu-server@0.61.4?classifier=sources
+- pkg:maven/io.muserver/mu-server@0.61.5
+- pkg:maven/io.muserver/mu-server@0.61.5?classifier=sources
+- pkg:maven/io.muserver/mu-server@0.61.9
+- pkg:maven/io.muserver/mu-server@0.61.9?classifier=sources
 - pkg:maven/io.muserver/mu-server@0.7.0
 - pkg:maven/io.muserver/mu-server@0.7.0?classifier=sources
 - pkg:maven/io.muserver/mu-server@0.8.0
