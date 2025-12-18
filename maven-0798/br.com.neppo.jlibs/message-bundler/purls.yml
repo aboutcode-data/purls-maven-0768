@@ -1,0 +1,2 @@
+- pkg:maven/br.com.neppo.jlibs/message-bundler@0.0.1
+- pkg:maven/br.com.neppo.jlibs/message-bundler@0.0.1?classifier=sources

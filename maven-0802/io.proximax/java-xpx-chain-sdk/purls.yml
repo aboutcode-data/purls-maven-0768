@@ -1,0 +1,2 @@
+- pkg:maven/io.proximax/java-xpx-chain-sdk@0.3.1
+- pkg:maven/io.proximax/java-xpx-chain-sdk@0.3.1?classifier=sources

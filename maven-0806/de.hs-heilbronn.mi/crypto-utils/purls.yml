@@ -1,0 +1,2 @@
+- pkg:maven/de.hs-heilbronn.mi/crypto-utils@2.2.0
+- pkg:maven/de.hs-heilbronn.mi/crypto-utils@2.2.0?classifier=sources

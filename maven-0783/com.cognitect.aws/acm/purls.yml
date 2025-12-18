@@ -2,3 +2,7 @@
 - pkg:maven/com.cognitect.aws/acm@668.2.364.0?classifier=sources
 - pkg:maven/com.cognitect.aws/acm@697.2.391.0
 - pkg:maven/com.cognitect.aws/acm@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/acm@712.2.422.0
+- pkg:maven/com.cognitect.aws/acm@712.2.422.0?classifier=sources
+- pkg:maven/com.cognitect.aws/acm@715.2.434.0
+- pkg:maven/com.cognitect.aws/acm@715.2.434.0?classifier=sources

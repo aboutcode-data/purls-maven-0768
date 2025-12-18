@@ -116,3 +116,7 @@
 - pkg:maven/com.graphaware.neo4j.example/friendship-strength-counter@3.5.2.53?classifier=sources
 - pkg:maven/com.graphaware.neo4j.example/friendship-strength-counter@3.5.3.53
 - pkg:maven/com.graphaware.neo4j.example/friendship-strength-counter@3.5.3.53?classifier=sources
+- pkg:maven/com.graphaware.neo4j.example/friendship-strength-counter@3.5.4.53
+- pkg:maven/com.graphaware.neo4j.example/friendship-strength-counter@3.5.4.53?classifier=sources
+- pkg:maven/com.graphaware.neo4j.example/friendship-strength-counter@3.5.5.53
+- pkg:maven/com.graphaware.neo4j.example/friendship-strength-counter@3.5.5.53?classifier=sources

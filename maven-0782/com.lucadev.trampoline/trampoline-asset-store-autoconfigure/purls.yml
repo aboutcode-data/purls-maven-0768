@@ -1,0 +1,8 @@
+- pkg:maven/com.lucadev.trampoline/trampoline-asset-store-autoconfigure@20190308
+- pkg:maven/com.lucadev.trampoline/trampoline-asset-store-autoconfigure@20190308?classifier=sources
+- pkg:maven/com.lucadev.trampoline/trampoline-asset-store-autoconfigure@20190329
+- pkg:maven/com.lucadev.trampoline/trampoline-asset-store-autoconfigure@20190329?classifier=sources
+- pkg:maven/com.lucadev.trampoline/trampoline-asset-store-autoconfigure@20190507
+- pkg:maven/com.lucadev.trampoline/trampoline-asset-store-autoconfigure@20190507?classifier=sources
+- pkg:maven/com.lucadev.trampoline/trampoline-asset-store-autoconfigure@20190509
+- pkg:maven/com.lucadev.trampoline/trampoline-asset-store-autoconfigure@20190509?classifier=sources

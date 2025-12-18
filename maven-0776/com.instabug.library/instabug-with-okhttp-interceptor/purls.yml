@@ -156,3 +156,15 @@
 - pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.1.1?type=aar
 - pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.1.2?classifier=sources
 - pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.1.2?type=aar
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.2.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.2.0?type=aar
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.2.1?classifier=sources
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.2.1?type=aar
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.2.2?classifier=sources
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.2.2?type=aar
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.3.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.3.0?type=aar
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.3.1?classifier=sources
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.3.1?type=aar
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.4.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-with-okhttp-interceptor@8.4.0?type=aar

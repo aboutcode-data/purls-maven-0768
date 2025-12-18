@@ -1,2 +1,4 @@
 - pkg:maven/io.devbench.uibuilder.i18n/test-tools@1.0.0
 - pkg:maven/io.devbench.uibuilder.i18n/test-tools@1.0.0?classifier=sources
+- pkg:maven/io.devbench.uibuilder.i18n/test-tools@1.1.0
+- pkg:maven/io.devbench.uibuilder.i18n/test-tools@1.1.0?classifier=sources

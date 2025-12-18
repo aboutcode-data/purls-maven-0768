@@ -4,3 +4,5 @@
 - pkg:maven/it.uniroma2.art.sheet2rdf/sheet2rdf-core@2.1.1
 - pkg:maven/it.uniroma2.art.sheet2rdf/sheet2rdf-core@2.1.1?classifier=sources
 - pkg:maven/it.uniroma2.art.sheet2rdf/sheet2rdf-core@2.1?classifier=sources
+- pkg:maven/it.uniroma2.art.sheet2rdf/sheet2rdf-core@3.0
+- pkg:maven/it.uniroma2.art.sheet2rdf/sheet2rdf-core@3.0?classifier=sources

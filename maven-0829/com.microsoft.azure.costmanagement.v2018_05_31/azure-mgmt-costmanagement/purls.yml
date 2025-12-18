@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.costmanagement.v2018_05_31/azure-mgmt-costmanagement@1.0.0-beta
+- pkg:maven/com.microsoft.azure.costmanagement.v2018_05_31/azure-mgmt-costmanagement@1.0.0-beta?classifier=sources

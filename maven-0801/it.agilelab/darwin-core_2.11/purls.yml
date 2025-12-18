@@ -8,3 +8,7 @@
 - pkg:maven/it.agilelab/darwin-core_2.11@1.0.6?classifier=sources
 - pkg:maven/it.agilelab/darwin-core_2.11@1.0.7
 - pkg:maven/it.agilelab/darwin-core_2.11@1.0.7?classifier=sources
+- pkg:maven/it.agilelab/darwin-core_2.11@1.0.8
+- pkg:maven/it.agilelab/darwin-core_2.11@1.0.8?classifier=sources
+- pkg:maven/it.agilelab/darwin-core_2.11@1.0.9
+- pkg:maven/it.agilelab/darwin-core_2.11@1.0.9?classifier=sources

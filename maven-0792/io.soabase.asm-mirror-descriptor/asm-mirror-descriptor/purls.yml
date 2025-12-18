@@ -1,0 +1,2 @@
+- pkg:maven/io.soabase.asm-mirror-descriptor/asm-mirror-descriptor@1
+- pkg:maven/io.soabase.asm-mirror-descriptor/asm-mirror-descriptor@1?classifier=sources

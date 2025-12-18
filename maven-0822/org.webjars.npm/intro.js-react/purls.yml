@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/intro.js-react@0.2.0
+- pkg:maven/org.webjars.npm/intro.js-react@0.2.0?classifier=sources

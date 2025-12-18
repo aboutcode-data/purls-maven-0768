@@ -1,0 +1,2 @@
+- pkg:maven/cc.kebei/i18n@1.1
+- pkg:maven/cc.kebei/i18n@1.1?classifier=sources

@@ -4,3 +4,9 @@
 - pkg:maven/org.jboss.openjdk-orb/openjdk-orb-jdk9-supplement@1.0.1.Final
 - pkg:maven/org.jboss.openjdk-orb/openjdk-orb-jdk9-supplement@1.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.openjdk-orb/openjdk-orb-jdk9-supplement@1.0.1.Final?classifier=sources
+- pkg:maven/org.jboss.openjdk-orb/openjdk-orb-jdk9-supplement@1.0.2.Final
+- pkg:maven/org.jboss.openjdk-orb/openjdk-orb-jdk9-supplement@1.0.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.openjdk-orb/openjdk-orb-jdk9-supplement@1.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.openjdk-orb/openjdk-orb-jdk9-supplement@1.0.3.Final
+- pkg:maven/org.jboss.openjdk-orb/openjdk-orb-jdk9-supplement@1.0.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.openjdk-orb/openjdk-orb-jdk9-supplement@1.0.3.Final?classifier=sources

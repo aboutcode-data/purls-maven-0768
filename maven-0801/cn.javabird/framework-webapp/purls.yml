@@ -1,0 +1,4 @@
+- pkg:maven/cn.javabird/framework-webapp@1.0.0.MIN
+- pkg:maven/cn.javabird/framework-webapp@1.0.0.MIN?classifier=sources
+- pkg:maven/cn.javabird/framework-webapp@1.0.1.MIN
+- pkg:maven/cn.javabird/framework-webapp@1.0.1.MIN?classifier=sources

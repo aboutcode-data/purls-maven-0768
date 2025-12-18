@@ -1,2 +1,6 @@
 - pkg:maven/com.worldturner.medeia/medeia-validator-gson@0.8.3
 - pkg:maven/com.worldturner.medeia/medeia-validator-gson@0.8.3?classifier=sources
+- pkg:maven/com.worldturner.medeia/medeia-validator-gson@1.0.0
+- pkg:maven/com.worldturner.medeia/medeia-validator-gson@1.0.0?classifier=sources
+- pkg:maven/com.worldturner.medeia/medeia-validator-gson@1.1.0
+- pkg:maven/com.worldturner.medeia/medeia-validator-gson@1.1.0?classifier=sources

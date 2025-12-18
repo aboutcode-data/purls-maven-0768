@@ -4,3 +4,4 @@
 - pkg:maven/se.l4.crayon/crayon-core@0.7?classifier=sources
 - pkg:maven/se.l4.crayon/crayon-core@1.0.0
 - pkg:maven/se.l4.crayon/crayon-core@1.0.0?classifier=sources
+- pkg:maven/se.l4.crayon/crayon-core@1.1.0?classifier=sources

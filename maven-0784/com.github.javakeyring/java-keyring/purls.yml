@@ -1,0 +1,2 @@
+- pkg:maven/com.github.javakeyring/java-keyring@0.1
+- pkg:maven/com.github.javakeyring/java-keyring@0.1?classifier=sources

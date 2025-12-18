@@ -1,0 +1,14 @@
+- pkg:maven/it.cnr.si.cool/cool-common-api@3.1.53
+- pkg:maven/it.cnr.si.cool/cool-common-api@3.1.53?classifier=sources
+- pkg:maven/it.cnr.si.cool/cool-common-api@3.1.54
+- pkg:maven/it.cnr.si.cool/cool-common-api@3.1.54?classifier=sources
+- pkg:maven/it.cnr.si.cool/cool-common-api@3.1.55
+- pkg:maven/it.cnr.si.cool/cool-common-api@3.1.55?classifier=sources
+- pkg:maven/it.cnr.si.cool/cool-common-api@3.1.56
+- pkg:maven/it.cnr.si.cool/cool-common-api@3.1.56?classifier=sources
+- pkg:maven/it.cnr.si.cool/cool-common-api@3.1.57
+- pkg:maven/it.cnr.si.cool/cool-common-api@3.1.57?classifier=sources
+- pkg:maven/it.cnr.si.cool/cool-common-api@3.1.58
+- pkg:maven/it.cnr.si.cool/cool-common-api@3.1.58?classifier=sources
+- pkg:maven/it.cnr.si.cool/cool-common-api@3.1.59
+- pkg:maven/it.cnr.si.cool/cool-common-api@3.1.59?classifier=sources

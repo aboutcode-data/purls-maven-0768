@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__babylon@6.16.3
 - pkg:maven/org.webjars.npm/types__babylon@6.16.3?classifier=sources
+- pkg:maven/org.webjars.npm/types__babylon@6.16.5
+- pkg:maven/org.webjars.npm/types__babylon@6.16.5?classifier=sources

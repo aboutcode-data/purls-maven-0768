@@ -10,3 +10,11 @@
 - pkg:maven/com.cognitect.aws/sagemaker@693.2.386.0?classifier=sources
 - pkg:maven/com.cognitect.aws/sagemaker@697.2.391.0
 - pkg:maven/com.cognitect.aws/sagemaker@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sagemaker@712.2.418.0
+- pkg:maven/com.cognitect.aws/sagemaker@712.2.418.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sagemaker@712.2.422.0
+- pkg:maven/com.cognitect.aws/sagemaker@712.2.422.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sagemaker@718.2.452.0
+- pkg:maven/com.cognitect.aws/sagemaker@718.2.452.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sagemaker@723.2.473.0
+- pkg:maven/com.cognitect.aws/sagemaker@723.2.473.0?classifier=sources

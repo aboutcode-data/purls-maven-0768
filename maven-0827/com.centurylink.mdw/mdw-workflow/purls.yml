@@ -46,3 +46,15 @@
 - pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.14?classifier=sources
 - pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.15
 - pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.15?classifier=sources
+- pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.16
+- pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.16?classifier=sources
+- pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.17
+- pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.17?classifier=sources
+- pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.18
+- pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.18?classifier=sources
+- pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.19
+- pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.19?classifier=sources
+- pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.20
+- pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.20?classifier=sources
+- pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.21
+- pkg:maven/com.centurylink.mdw/mdw-workflow@6.1.21?classifier=sources

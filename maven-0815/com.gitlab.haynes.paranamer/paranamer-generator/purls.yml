@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.haynes.paranamer/paranamer-generator@2.9.0
+- pkg:maven/com.gitlab.haynes.paranamer/paranamer-generator@2.9.0?classifier=sources

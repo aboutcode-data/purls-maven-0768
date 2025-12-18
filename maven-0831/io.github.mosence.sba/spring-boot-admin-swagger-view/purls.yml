@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mosence.sba/spring-boot-admin-swagger-view@2.1.4-RELEASE
+- pkg:maven/io.github.mosence.sba/spring-boot-admin-swagger-view@2.1.4-RELEASE?classifier=sources

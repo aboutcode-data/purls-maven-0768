@@ -98,3 +98,9 @@
 - pkg:maven/com.hack23.cia/model.external.riksdagen.documentcontent.impl@2019.1.26?classifier=sources
 - pkg:maven/com.hack23.cia/model.external.riksdagen.documentcontent.impl@2019.2.23
 - pkg:maven/com.hack23.cia/model.external.riksdagen.documentcontent.impl@2019.2.23?classifier=sources
+- pkg:maven/com.hack23.cia/model.external.riksdagen.documentcontent.impl@2019.3.24
+- pkg:maven/com.hack23.cia/model.external.riksdagen.documentcontent.impl@2019.3.24?classifier=sources
+- pkg:maven/com.hack23.cia/model.external.riksdagen.documentcontent.impl@2019.6.13
+- pkg:maven/com.hack23.cia/model.external.riksdagen.documentcontent.impl@2019.6.13?classifier=sources
+- pkg:maven/com.hack23.cia/model.external.riksdagen.documentcontent.impl@2019.6.23
+- pkg:maven/com.hack23.cia/model.external.riksdagen.documentcontent.impl@2019.6.23?classifier=sources

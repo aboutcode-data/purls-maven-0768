@@ -1,4 +1,6 @@
 - pkg:maven/com.github.h-thurow/q2o@3.11
 - pkg:maven/com.github.h-thurow/q2o@3.11?classifier=sources
+- pkg:maven/com.github.h-thurow/q2o@3.12
+- pkg:maven/com.github.h-thurow/q2o@3.12?classifier=sources
 - pkg:maven/com.github.h-thurow/q2o@3.9
 - pkg:maven/com.github.h-thurow/q2o@3.9?classifier=sources

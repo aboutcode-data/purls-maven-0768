@@ -16,7 +16,13 @@
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC17?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC18
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC18?classifier=sources
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC19
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC19?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC2
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC20
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC20?classifier=sources
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC21
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC21?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC2?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC3
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-core@0.0.1-RC3?classifier=sources

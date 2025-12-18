@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.ei/micro-integrator-integration-test@1.0.0
+- pkg:maven/org.wso2.ei/micro-integrator-integration-test@1.0.0-m6
+- pkg:maven/org.wso2.ei/micro-integrator-integration-test@1.0.0-m6?classifier=sources
+- pkg:maven/org.wso2.ei/micro-integrator-integration-test@1.0.0-m7
+- pkg:maven/org.wso2.ei/micro-integrator-integration-test@1.0.0-m7?classifier=sources
+- pkg:maven/org.wso2.ei/micro-integrator-integration-test@1.0.0?classifier=sources

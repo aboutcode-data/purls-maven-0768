@@ -8,3 +8,5 @@
 - pkg:maven/com.zaxxer/jnb-ping@0.9.4?classifier=sources
 - pkg:maven/com.zaxxer/jnb-ping@1.0.0
 - pkg:maven/com.zaxxer/jnb-ping@1.0.0?classifier=sources
+- pkg:maven/com.zaxxer/jnb-ping@1.1.0
+- pkg:maven/com.zaxxer/jnb-ping@1.1.0?classifier=sources

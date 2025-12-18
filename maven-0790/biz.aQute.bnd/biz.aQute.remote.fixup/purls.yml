@@ -1,0 +1,2 @@
+- pkg:maven/biz.aQute.bnd/biz.aQute.remote.fixup@4.2.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.remote.fixup@4.2.0?classifier=sources

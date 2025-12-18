@@ -6,3 +6,7 @@
 - pkg:maven/com.fidesmo/fdsm@19.01.31?classifier=sources
 - pkg:maven/com.fidesmo/fdsm@19.02.22
 - pkg:maven/com.fidesmo/fdsm@19.02.22?classifier=sources
+- pkg:maven/com.fidesmo/fdsm@19.03.29
+- pkg:maven/com.fidesmo/fdsm@19.03.29?classifier=sources
+- pkg:maven/com.fidesmo/fdsm@19.04.11
+- pkg:maven/com.fidesmo/fdsm@19.04.11?classifier=sources

@@ -14,5 +14,7 @@
 - pkg:maven/org.webjars.npm/redux-form@6.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/redux-form@6.8.0
 - pkg:maven/org.webjars.npm/redux-form@6.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/redux-form@7.4.2
+- pkg:maven/org.webjars.npm/redux-form@7.4.2?classifier=sources
 - pkg:maven/org.webjars.npm/redux-form@8.1.0
 - pkg:maven/org.webjars.npm/redux-form@8.1.0?classifier=sources

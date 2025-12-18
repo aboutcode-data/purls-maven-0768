@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.smc/generator@7.0.0
 - pkg:maven/net.sf.smc/generator@7.0.0?classifier=sources
+- pkg:maven/net.sf.smc/generator@7.0.2
+- pkg:maven/net.sf.smc/generator@7.0.2?classifier=sources

@@ -20,3 +20,7 @@
 - pkg:maven/kz.greetgo.depinject/greetgo.depinject.testng@2.1.7?classifier=sources
 - pkg:maven/kz.greetgo.depinject/greetgo.depinject.testng@2.1.8
 - pkg:maven/kz.greetgo.depinject/greetgo.depinject.testng@2.1.8?classifier=sources
+- pkg:maven/kz.greetgo.depinject/greetgo.depinject.testng@2.2.0
+- pkg:maven/kz.greetgo.depinject/greetgo.depinject.testng@2.2.0?classifier=sources
+- pkg:maven/kz.greetgo.depinject/greetgo.depinject.testng@2.2.1
+- pkg:maven/kz.greetgo.depinject/greetgo.depinject.testng@2.2.1?classifier=sources

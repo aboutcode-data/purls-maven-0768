@@ -1,0 +1,14 @@
+- pkg:maven/weixinkeji.vip/jweb.power@1.0
+- pkg:maven/weixinkeji.vip/jweb.power@1.0?classifier=sources
+- pkg:maven/weixinkeji.vip/jweb.power@1.1
+- pkg:maven/weixinkeji.vip/jweb.power@1.1?classifier=sources
+- pkg:maven/weixinkeji.vip/jweb.power@1.2
+- pkg:maven/weixinkeji.vip/jweb.power@1.2.1test
+- pkg:maven/weixinkeji.vip/jweb.power@1.2.1test?classifier=sources
+- pkg:maven/weixinkeji.vip/jweb.power@1.2?classifier=sources
+- pkg:maven/weixinkeji.vip/jweb.power@2.0
+- pkg:maven/weixinkeji.vip/jweb.power@2.0?classifier=sources
+- pkg:maven/weixinkeji.vip/jweb.power@2.1
+- pkg:maven/weixinkeji.vip/jweb.power@2.1?classifier=sources
+- pkg:maven/weixinkeji.vip/jweb.power@test-001
+- pkg:maven/weixinkeji.vip/jweb.power@test-001?classifier=sources

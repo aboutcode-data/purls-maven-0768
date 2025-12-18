@@ -6,3 +6,5 @@
 - pkg:maven/com.whiteclarkegroup/liquibase-linter@0.2.1?classifier=sources
 - pkg:maven/com.whiteclarkegroup/liquibase-linter@0.3.0
 - pkg:maven/com.whiteclarkegroup/liquibase-linter@0.3.0?classifier=sources
+- pkg:maven/com.whiteclarkegroup/liquibase-linter@0.4.0
+- pkg:maven/com.whiteclarkegroup/liquibase-linter@0.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/jp.co.bizreach/play-zipkin-tracing-play_2.13.0-M5@2.2.0
+- pkg:maven/jp.co.bizreach/play-zipkin-tracing-play_2.13.0-M5@2.2.0?classifier=sources

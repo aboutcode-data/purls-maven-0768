@@ -20,6 +20,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-heroku-connector@1.2.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-heroku-connector@1.2.7.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-heroku-connector@1.2.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-heroku-connector@1.2.8.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-heroku-connector@1.2.8.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-heroku-connector@2.0.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-heroku-connector@2.0.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-heroku-connector@2.0.1.RELEASE
@@ -30,3 +32,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-heroku-connector@2.0.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-heroku-connector@2.0.4.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-heroku-connector@2.0.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-heroku-connector@2.0.5.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-heroku-connector@2.0.5.RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.v1ok/modelmapper-jdbc@0.1.0
+- pkg:maven/com.v1ok/modelmapper-jdbc@0.1.0?classifier=sources

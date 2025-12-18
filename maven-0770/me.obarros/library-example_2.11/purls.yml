@@ -1,0 +1,4 @@
+- pkg:maven/me.obarros/library-example_2.11@0.0.1-rc0
+- pkg:maven/me.obarros/library-example_2.11@0.0.1-rc0?classifier=sources
+- pkg:maven/me.obarros/library-example_2.11@0.0.1-rc2
+- pkg:maven/me.obarros/library-example_2.11@0.0.1-rc2?classifier=sources

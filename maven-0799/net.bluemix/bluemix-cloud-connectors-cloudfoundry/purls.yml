@@ -10,3 +10,5 @@
 - pkg:maven/net.bluemix/bluemix-cloud-connectors-cloudfoundry@0.0.1.RC5?classifier=sources
 - pkg:maven/net.bluemix/bluemix-cloud-connectors-cloudfoundry@0.0.1.RC6
 - pkg:maven/net.bluemix/bluemix-cloud-connectors-cloudfoundry@0.0.1.RC6?classifier=sources
+- pkg:maven/net.bluemix/bluemix-cloud-connectors-cloudfoundry@0.0.3
+- pkg:maven/net.bluemix/bluemix-cloud-connectors-cloudfoundry@0.0.3?classifier=sources

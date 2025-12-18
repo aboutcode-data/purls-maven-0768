@@ -1,3 +1,4 @@
 - pkg:maven/de.dfki.cos.basys.platform.wrapper-bundle-settings/org.apache.curator.framework@0.2.0
 - pkg:maven/de.dfki.cos.basys.platform.wrapper-bundle-settings/org.apache.curator.framework@0.2.3
 - pkg:maven/de.dfki.cos.basys.platform.wrapper-bundle-settings/org.apache.curator.framework@0.2.4
+- pkg:maven/de.dfki.cos.basys.platform.wrapper-bundle-settings/org.apache.curator.framework@0.2.6

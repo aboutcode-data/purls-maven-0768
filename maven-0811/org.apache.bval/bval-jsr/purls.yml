@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.bval/bval-jsr@1.1.2?classifier=sources
 - pkg:maven/org.apache.bval/bval-jsr@2.0.0
 - pkg:maven/org.apache.bval/bval-jsr@2.0.0?classifier=sources
+- pkg:maven/org.apache.bval/bval-jsr@2.0.2
+- pkg:maven/org.apache.bval/bval-jsr@2.0.2?classifier=sources

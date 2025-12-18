@@ -36,6 +36,7 @@
 - pkg:maven/com.lordofthejars/nosqlunit-redis@0.8.1?classifier=sources
 - pkg:maven/com.lordofthejars/nosqlunit-redis@0.9.0
 - pkg:maven/com.lordofthejars/nosqlunit-redis@0.9.0?classifier=sources
+- pkg:maven/com.lordofthejars/nosqlunit-redis@1.0.0
 - pkg:maven/com.lordofthejars/nosqlunit-redis@1.0.0-rc.1
 - pkg:maven/com.lordofthejars/nosqlunit-redis@1.0.0-rc.1?classifier=sources
 - pkg:maven/com.lordofthejars/nosqlunit-redis@1.0.0-rc.2
@@ -46,3 +47,4 @@
 - pkg:maven/com.lordofthejars/nosqlunit-redis@1.0.0-rc.4?classifier=sources
 - pkg:maven/com.lordofthejars/nosqlunit-redis@1.0.0-rc.5
 - pkg:maven/com.lordofthejars/nosqlunit-redis@1.0.0-rc.5?classifier=sources
+- pkg:maven/com.lordofthejars/nosqlunit-redis@1.0.0?classifier=sources

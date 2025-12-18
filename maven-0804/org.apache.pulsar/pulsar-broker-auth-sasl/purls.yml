@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.pulsar/pulsar-broker-auth-sasl@2.4.0
+- pkg:maven/org.apache.pulsar/pulsar-broker-auth-sasl@2.4.0?classifier=sources

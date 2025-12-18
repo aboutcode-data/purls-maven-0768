@@ -1,0 +1,4 @@
+- pkg:maven/net.dongliu/cute-http-jackson@1.1.2
+- pkg:maven/net.dongliu/cute-http-jackson@1.1.2?classifier=sources
+- pkg:maven/net.dongliu/cute-http-jackson@1.2.0
+- pkg:maven/net.dongliu/cute-http-jackson@1.2.0?classifier=sources

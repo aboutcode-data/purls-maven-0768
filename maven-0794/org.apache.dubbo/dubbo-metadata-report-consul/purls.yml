@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.dubbo/dubbo-metadata-report-consul@2.7.1
+- pkg:maven/org.apache.dubbo/dubbo-metadata-report-consul@2.7.1?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-metadata-report-consul@2.7.2
+- pkg:maven/org.apache.dubbo/dubbo-metadata-report-consul@2.7.2?classifier=sources

@@ -108,3 +108,7 @@
 - pkg:maven/org.jboss.narayana.blacktie/blacktie-jatmibroker-xatmi@5.9.2.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.blacktie/blacktie-jatmibroker-xatmi@5.9.3.Final
 - pkg:maven/org.jboss.narayana.blacktie/blacktie-jatmibroker-xatmi@5.9.3.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.blacktie/blacktie-jatmibroker-xatmi@5.9.4.Final
+- pkg:maven/org.jboss.narayana.blacktie/blacktie-jatmibroker-xatmi@5.9.4.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.blacktie/blacktie-jatmibroker-xatmi@5.9.5.Final
+- pkg:maven/org.jboss.narayana.blacktie/blacktie-jatmibroker-xatmi@5.9.5.Final?classifier=sources

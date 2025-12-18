@@ -1,0 +1,12 @@
+- pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B93-b4a7b010
+- pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B93-b4a7b010?classifier=sources
+- pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B94-c81fc864
+- pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B94-c81fc864?classifier=sources
+- pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B95-4e7bb624
+- pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B95-4e7bb624?classifier=sources
+- pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B95-97299c01
+- pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B95-97299c01?classifier=sources
+- pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B95-fb3c0686
+- pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B95-fb3c0686?classifier=sources
+- pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B97-057fb77c
+- pkg:maven/com.thoughtworks.akka-http-webjars/akka-http-webjars_2.12@1.0.0%2B97-057fb77c?classifier=sources

@@ -30,3 +30,9 @@
 - pkg:maven/com.dorkbox/MessageBus@1.8?classifier=sources
 - pkg:maven/com.dorkbox/MessageBus@1.9
 - pkg:maven/com.dorkbox/MessageBus@1.9?classifier=sources
+- pkg:maven/com.dorkbox/MessageBus@2.0
+- pkg:maven/com.dorkbox/MessageBus@2.0?classifier=sources
+- pkg:maven/com.dorkbox/MessageBus@2.1
+- pkg:maven/com.dorkbox/MessageBus@2.1?classifier=sources
+- pkg:maven/com.dorkbox/MessageBus@2.2
+- pkg:maven/com.dorkbox/MessageBus@2.2?classifier=sources

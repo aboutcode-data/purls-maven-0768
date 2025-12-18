@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.300
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.4
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.400
+- pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.500
+- pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.600

@@ -17,4 +17,6 @@
 - pkg:maven/org.sonarsource.scanner.gradle/sonarqube-gradle-plugin@2.7
 - pkg:maven/org.sonarsource.scanner.gradle/sonarqube-gradle-plugin@2.7.0.1622
 - pkg:maven/org.sonarsource.scanner.gradle/sonarqube-gradle-plugin@2.7.0.1622?classifier=sources
+- pkg:maven/org.sonarsource.scanner.gradle/sonarqube-gradle-plugin@2.7.1
+- pkg:maven/org.sonarsource.scanner.gradle/sonarqube-gradle-plugin@2.7.1?classifier=sources
 - pkg:maven/org.sonarsource.scanner.gradle/sonarqube-gradle-plugin@2.7?classifier=sources

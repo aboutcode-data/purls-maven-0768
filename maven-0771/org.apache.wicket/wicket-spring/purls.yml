@@ -240,6 +240,10 @@
 - pkg:maven/org.apache.wicket/wicket-spring@7.11.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-spring@7.12.0
 - pkg:maven/org.apache.wicket/wicket-spring@7.12.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-spring@7.13.0
+- pkg:maven/org.apache.wicket/wicket-spring@7.13.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-spring@7.14.0
+- pkg:maven/org.apache.wicket/wicket-spring@7.14.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-spring@7.2.0
 - pkg:maven/org.apache.wicket/wicket-spring@7.2.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-spring@7.3.0
@@ -282,3 +286,11 @@
 - pkg:maven/org.apache.wicket/wicket-spring@8.2.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-spring@8.3.0
 - pkg:maven/org.apache.wicket/wicket-spring@8.3.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-spring@8.4.0
+- pkg:maven/org.apache.wicket/wicket-spring@8.4.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-spring@8.5.0
+- pkg:maven/org.apache.wicket/wicket-spring@8.5.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-spring@9.0.0-M1
+- pkg:maven/org.apache.wicket/wicket-spring@9.0.0-M1?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-spring@9.0.0-M2
+- pkg:maven/org.apache.wicket/wicket-spring@9.0.0-M2?classifier=sources

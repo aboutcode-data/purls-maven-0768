@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix/mantis-rxnetty@0.4.19.1
+- pkg:maven/com.netflix/mantis-rxnetty@0.4.19.1?classifier=sources

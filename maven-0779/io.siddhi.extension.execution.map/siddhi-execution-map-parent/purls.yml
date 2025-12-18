@@ -1,0 +1,2 @@
+- pkg:maven/io.siddhi.extension.execution.map/siddhi-execution-map-parent@5.0.1?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.execution.map/siddhi-execution-map-parent@5.0.2?classifier=source-release&type=zip

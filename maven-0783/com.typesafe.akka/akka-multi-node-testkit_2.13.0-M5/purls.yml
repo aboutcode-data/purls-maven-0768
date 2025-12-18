@@ -4,3 +4,9 @@
 - pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.13.0-M5@2.5.20?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.13.0-M5@2.5.21
 - pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.13.0-M5@2.5.21?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.13.0-M5@2.5.22
+- pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.13.0-M5@2.5.22?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.13.0-M5@2.5.23
+- pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.13.0-M5@2.5.23?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.13.0-M5@2.6.0-M1
+- pkg:maven/com.typesafe.akka/akka-multi-node-testkit_2.13.0-M5@2.6.0-M1?classifier=sources

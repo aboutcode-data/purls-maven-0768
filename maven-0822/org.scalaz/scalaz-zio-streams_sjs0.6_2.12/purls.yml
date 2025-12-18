@@ -1,0 +1,4 @@
+- pkg:maven/org.scalaz/scalaz-zio-streams_sjs0.6_2.12@1.0-RC4
+- pkg:maven/org.scalaz/scalaz-zio-streams_sjs0.6_2.12@1.0-RC4?classifier=sources
+- pkg:maven/org.scalaz/scalaz-zio-streams_sjs0.6_2.12@1.0-RC5
+- pkg:maven/org.scalaz/scalaz-zio-streams_sjs0.6_2.12@1.0-RC5?classifier=sources

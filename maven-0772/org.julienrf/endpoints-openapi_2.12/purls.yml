@@ -10,3 +10,5 @@
 - pkg:maven/org.julienrf/endpoints-openapi_2.12@0.7.0?classifier=sources
 - pkg:maven/org.julienrf/endpoints-openapi_2.12@0.8.0
 - pkg:maven/org.julienrf/endpoints-openapi_2.12@0.8.0?classifier=sources
+- pkg:maven/org.julienrf/endpoints-openapi_2.12@0.9.0
+- pkg:maven/org.julienrf/endpoints-openapi_2.12@0.9.0?classifier=sources

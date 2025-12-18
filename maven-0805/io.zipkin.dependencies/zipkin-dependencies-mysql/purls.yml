@@ -90,3 +90,9 @@
 - pkg:maven/io.zipkin.dependencies/zipkin-dependencies-mysql@2.0.7?classifier=sources
 - pkg:maven/io.zipkin.dependencies/zipkin-dependencies-mysql@2.0.8
 - pkg:maven/io.zipkin.dependencies/zipkin-dependencies-mysql@2.0.8?classifier=sources
+- pkg:maven/io.zipkin.dependencies/zipkin-dependencies-mysql@2.1.0
+- pkg:maven/io.zipkin.dependencies/zipkin-dependencies-mysql@2.1.0?classifier=sources
+- pkg:maven/io.zipkin.dependencies/zipkin-dependencies-mysql@2.3.0
+- pkg:maven/io.zipkin.dependencies/zipkin-dependencies-mysql@2.3.0?classifier=sources
+- pkg:maven/io.zipkin.dependencies/zipkin-dependencies-mysql@2.3.1
+- pkg:maven/io.zipkin.dependencies/zipkin-dependencies-mysql@2.3.1?classifier=sources

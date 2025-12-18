@@ -12,5 +12,7 @@
 - pkg:maven/org.webjars.npm/types__angular@1.6.2?classifier=sources
 - pkg:maven/org.webjars.npm/types__angular@1.6.48
 - pkg:maven/org.webjars.npm/types__angular@1.6.48?classifier=sources
+- pkg:maven/org.webjars.npm/types__angular@1.6.54
+- pkg:maven/org.webjars.npm/types__angular@1.6.54?classifier=sources
 - pkg:maven/org.webjars.npm/types__angular@1.6.7
 - pkg:maven/org.webjars.npm/types__angular@1.6.7?classifier=sources

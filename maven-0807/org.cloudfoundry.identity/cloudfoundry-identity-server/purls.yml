@@ -122,6 +122,8 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@4.27.0?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@4.3.0
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@4.3.0?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@4.30.0
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@4.30.0?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@4.4.0
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@4.4.0?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-server@4.5.0

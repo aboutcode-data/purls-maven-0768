@@ -8,3 +8,5 @@
 - pkg:maven/com.uber.autodispose/autodispose-android-archcomponents-test-ktx@1.0.0?type=aar
 - pkg:maven/com.uber.autodispose/autodispose-android-archcomponents-test-ktx@1.1.0?classifier=sources
 - pkg:maven/com.uber.autodispose/autodispose-android-archcomponents-test-ktx@1.1.0?type=aar
+- pkg:maven/com.uber.autodispose/autodispose-android-archcomponents-test-ktx@1.2.0?classifier=sources
+- pkg:maven/com.uber.autodispose/autodispose-android-archcomponents-test-ktx@1.2.0?type=aar

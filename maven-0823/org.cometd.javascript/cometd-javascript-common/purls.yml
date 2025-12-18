@@ -81,6 +81,7 @@
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@3.1.0-RC0?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@3.1.0-RC1?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@3.1.0?type=war
+- pkg:maven/org.cometd.javascript/cometd-javascript-common@3.1.10?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@3.1.1?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@3.1.2-BETA0?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@3.1.2-BETA1?type=war
@@ -92,9 +93,11 @@
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@3.1.6?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@3.1.7?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@3.1.8?type=war
+- pkg:maven/org.cometd.javascript/cometd-javascript-common@3.1.9?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@4.0.0-BETA0?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@4.0.0-BETA1?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@4.0.0?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@4.0.1?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@4.0.2?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@4.0.3?type=war
+- pkg:maven/org.cometd.javascript/cometd-javascript-common@4.0.4?type=war

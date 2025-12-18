@@ -27,6 +27,12 @@
 - pkg:maven/org.knowm.xchange/xchange-cryptonit@4.3.15?classifier=sources
 - pkg:maven/org.knowm.xchange/xchange-cryptonit@4.3.16
 - pkg:maven/org.knowm.xchange/xchange-cryptonit@4.3.16?classifier=sources
+- pkg:maven/org.knowm.xchange/xchange-cryptonit@4.3.17
+- pkg:maven/org.knowm.xchange/xchange-cryptonit@4.3.17?classifier=sources
+- pkg:maven/org.knowm.xchange/xchange-cryptonit@4.3.18
+- pkg:maven/org.knowm.xchange/xchange-cryptonit@4.3.18?classifier=sources
+- pkg:maven/org.knowm.xchange/xchange-cryptonit@4.3.19
+- pkg:maven/org.knowm.xchange/xchange-cryptonit@4.3.19?classifier=sources
 - pkg:maven/org.knowm.xchange/xchange-cryptonit@4.3.1?classifier=sources
 - pkg:maven/org.knowm.xchange/xchange-cryptonit@4.3.2
 - pkg:maven/org.knowm.xchange/xchange-cryptonit@4.3.2?classifier=sources

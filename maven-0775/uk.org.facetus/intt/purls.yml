@@ -12,3 +12,5 @@
 - pkg:maven/uk.org.facetus/intt@0.8.6?classifier=sources
 - pkg:maven/uk.org.facetus/intt@0.8.7
 - pkg:maven/uk.org.facetus/intt@0.8.7?classifier=sources
+- pkg:maven/uk.org.facetus/intt@0.8.8
+- pkg:maven/uk.org.facetus/intt@0.8.8?classifier=sources

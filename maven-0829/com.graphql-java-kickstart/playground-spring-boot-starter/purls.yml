@@ -1,0 +1,2 @@
+- pkg:maven/com.graphql-java-kickstart/playground-spring-boot-starter@5.10.0
+- pkg:maven/com.graphql-java-kickstart/playground-spring-boot-starter@5.10.0?classifier=sources

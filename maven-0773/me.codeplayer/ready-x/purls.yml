@@ -1,0 +1,2 @@
+- pkg:maven/me.codeplayer/ready-x@2.5.1-RELEASE
+- pkg:maven/me.codeplayer/ready-x@2.5.1-RELEASE?classifier=sources

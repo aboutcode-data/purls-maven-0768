@@ -1,0 +1,2 @@
+- pkg:maven/com.xxcore.code/jvm@2019.3.0-RELEASE
+- pkg:maven/com.xxcore.code/jvm@2019.3.0-RELEASE?classifier=sources

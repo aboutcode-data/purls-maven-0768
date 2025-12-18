@@ -50,6 +50,8 @@
 - pkg:maven/de.adorsys.cryptoutils/jtstamp@0.23.10?classifier=sources
 - pkg:maven/de.adorsys.cryptoutils/jtstamp@0.23.12
 - pkg:maven/de.adorsys.cryptoutils/jtstamp@0.23.12?classifier=sources
+- pkg:maven/de.adorsys.cryptoutils/jtstamp@0.23.13
+- pkg:maven/de.adorsys.cryptoutils/jtstamp@0.23.13?classifier=sources
 - pkg:maven/de.adorsys.cryptoutils/jtstamp@0.23.2
 - pkg:maven/de.adorsys.cryptoutils/jtstamp@0.23.2?classifier=sources
 - pkg:maven/de.adorsys.cryptoutils/jtstamp@0.23.3
@@ -66,6 +68,8 @@
 - pkg:maven/de.adorsys.cryptoutils/jtstamp@0.23.8?classifier=sources
 - pkg:maven/de.adorsys.cryptoutils/jtstamp@0.23.9
 - pkg:maven/de.adorsys.cryptoutils/jtstamp@0.23.9?classifier=sources
+- pkg:maven/de.adorsys.cryptoutils/jtstamp@0.25.1
+- pkg:maven/de.adorsys.cryptoutils/jtstamp@0.25.1?classifier=sources
 - pkg:maven/de.adorsys.cryptoutils/jtstamp@0.5
 - pkg:maven/de.adorsys.cryptoutils/jtstamp@0.5?classifier=sources
 - pkg:maven/de.adorsys.cryptoutils/jtstamp@0.6

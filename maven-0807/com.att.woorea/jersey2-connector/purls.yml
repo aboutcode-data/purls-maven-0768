@@ -6,3 +6,7 @@
 - pkg:maven/com.att.woorea/jersey2-connector@3.3.27?classifier=sources
 - pkg:maven/com.att.woorea/jersey2-connector@3.3.28-oss
 - pkg:maven/com.att.woorea/jersey2-connector@3.3.28-oss?classifier=sources
+- pkg:maven/com.att.woorea/jersey2-connector@3.3.29-oss
+- pkg:maven/com.att.woorea/jersey2-connector@3.3.29-oss?classifier=sources
+- pkg:maven/com.att.woorea/jersey2-connector@3.3.30-oss
+- pkg:maven/com.att.woorea/jersey2-connector@3.3.30-oss?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/github-com-baianat-vee-validate@2.0.0-rc.17?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-baianat-vee-validate@2.0.0-rc.19
 - pkg:maven/org.webjars.npm/github-com-baianat-vee-validate@2.0.0-rc.19?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-baianat-vee-validate@2.1.7
+- pkg:maven/org.webjars.npm/github-com-baianat-vee-validate@2.1.7?classifier=sources

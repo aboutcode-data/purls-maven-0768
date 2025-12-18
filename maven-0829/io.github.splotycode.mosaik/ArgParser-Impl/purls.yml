@@ -20,5 +20,9 @@
 - pkg:maven/io.github.splotycode.mosaik/ArgParser-Impl@2.2.7.2?classifier=sources
 - pkg:maven/io.github.splotycode.mosaik/ArgParser-Impl@2.2.7?classifier=sources
 - pkg:maven/io.github.splotycode.mosaik/ArgParser-Impl@2.2.8-PreRelease
+- pkg:maven/io.github.splotycode.mosaik/ArgParser-Impl@2.2.8-PreRelease2
+- pkg:maven/io.github.splotycode.mosaik/ArgParser-Impl@2.2.8-PreRelease2?classifier=sources
 - pkg:maven/io.github.splotycode.mosaik/ArgParser-Impl@2.2.8-PreRelease?classifier=sources
+- pkg:maven/io.github.splotycode.mosaik/ArgParser-Impl@2.2.9
+- pkg:maven/io.github.splotycode.mosaik/ArgParser-Impl@2.2.9?classifier=sources
 - pkg:maven/io.github.splotycode.mosaik/ArgParser-Impl@2.2?classifier=sources

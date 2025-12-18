@@ -22,3 +22,17 @@
 - pkg:maven/br.com.moip.mpos/mpos-android-sdk@4.0.9?type=aar
 - pkg:maven/br.com.moip.mpos/mpos-android-sdk@4.1.0?classifier=sources
 - pkg:maven/br.com.moip.mpos/mpos-android-sdk@4.1.0?type=aar
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@5.0.0?classifier=sources
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@5.0.0?type=aar
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@5.0.1?classifier=sources
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@5.0.1?type=aar
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@5.1.0?classifier=sources
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@5.1.0?type=aar
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@5.2.0?classifier=sources
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@5.2.0?type=aar
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@5.3.0?classifier=sources
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@5.3.0?type=aar
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@5.4.0?classifier=sources
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@5.4.0?type=aar
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@5.5.0?classifier=sources
+- pkg:maven/br.com.moip.mpos/mpos-android-sdk@5.5.0?type=aar

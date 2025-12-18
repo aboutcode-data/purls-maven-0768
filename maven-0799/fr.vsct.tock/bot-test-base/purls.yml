@@ -1,3 +1,7 @@
+- pkg:maven/fr.vsct.tock/bot-test-base@19.3.0
+- pkg:maven/fr.vsct.tock/bot-test-base@19.3.0?classifier=sources
+- pkg:maven/fr.vsct.tock/bot-test-base@19.3.1
+- pkg:maven/fr.vsct.tock/bot-test-base@19.3.1?classifier=sources
 - pkg:maven/fr.vsct.tock/bot-test-base@2.0.1
 - pkg:maven/fr.vsct.tock/bot-test-base@2.0.1?classifier=sources
 - pkg:maven/fr.vsct.tock/bot-test-base@2.0.2

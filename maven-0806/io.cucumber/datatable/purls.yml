@@ -8,6 +8,8 @@
 - pkg:maven/io.cucumber/datatable@1.0.3?classifier=sources
 - pkg:maven/io.cucumber/datatable@1.1.12
 - pkg:maven/io.cucumber/datatable@1.1.12?classifier=sources
+- pkg:maven/io.cucumber/datatable@1.1.14
+- pkg:maven/io.cucumber/datatable@1.1.14?classifier=sources
 - pkg:maven/io.cucumber/datatable@1.1.2
 - pkg:maven/io.cucumber/datatable@1.1.2?classifier=sources
 - pkg:maven/io.cucumber/datatable@1.1.3

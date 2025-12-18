@@ -1,0 +1,8 @@
+- pkg:maven/com.expediagroup.apiary/apiary-ranger-metastore-plugin@3.0.0
+- pkg:maven/com.expediagroup.apiary/apiary-ranger-metastore-plugin@3.0.0?classifier=sources
+- pkg:maven/com.expediagroup.apiary/apiary-ranger-metastore-plugin@3.1.0
+- pkg:maven/com.expediagroup.apiary/apiary-ranger-metastore-plugin@3.1.0?classifier=sources
+- pkg:maven/com.expediagroup.apiary/apiary-ranger-metastore-plugin@4.0.0
+- pkg:maven/com.expediagroup.apiary/apiary-ranger-metastore-plugin@4.0.0?classifier=sources
+- pkg:maven/com.expediagroup.apiary/apiary-ranger-metastore-plugin@4.1.0
+- pkg:maven/com.expediagroup.apiary/apiary-ranger-metastore-plugin@4.1.0?classifier=sources

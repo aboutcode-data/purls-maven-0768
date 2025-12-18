@@ -10,3 +10,7 @@
 - pkg:maven/org.apache.nifi/nifi-kafka-1-0-processors@1.8.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-kafka-1-0-processors@1.9.0
 - pkg:maven/org.apache.nifi/nifi-kafka-1-0-processors@1.9.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-kafka-1-0-processors@1.9.1
+- pkg:maven/org.apache.nifi/nifi-kafka-1-0-processors@1.9.1?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-kafka-1-0-processors@1.9.2
+- pkg:maven/org.apache.nifi/nifi-kafka-1-0-processors@1.9.2?classifier=sources

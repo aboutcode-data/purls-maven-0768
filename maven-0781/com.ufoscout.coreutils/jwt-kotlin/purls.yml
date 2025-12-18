@@ -46,3 +46,9 @@
 - pkg:maven/com.ufoscout.coreutils/jwt-kotlin@3.8.0?classifier=sources
 - pkg:maven/com.ufoscout.coreutils/jwt-kotlin@3.8.1
 - pkg:maven/com.ufoscout.coreutils/jwt-kotlin@3.8.1?classifier=sources
+- pkg:maven/com.ufoscout.coreutils/jwt-kotlin@3.9.0
+- pkg:maven/com.ufoscout.coreutils/jwt-kotlin@3.9.0?classifier=sources
+- pkg:maven/com.ufoscout.coreutils/jwt-kotlin@3.9.1
+- pkg:maven/com.ufoscout.coreutils/jwt-kotlin@3.9.1?classifier=sources
+- pkg:maven/com.ufoscout.coreutils/jwt-kotlin@3.9.2
+- pkg:maven/com.ufoscout.coreutils/jwt-kotlin@3.9.2?classifier=sources

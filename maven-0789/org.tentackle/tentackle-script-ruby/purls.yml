@@ -1,5 +1,9 @@
 - pkg:maven/org.tentackle/tentackle-script-ruby@11.2.3.0
 - pkg:maven/org.tentackle/tentackle-script-ruby@11.2.3.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-script-ruby@11.3.0.0
+- pkg:maven/org.tentackle/tentackle-script-ruby@11.3.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-script-ruby@11.4.0.0
+- pkg:maven/org.tentackle/tentackle-script-ruby@11.4.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-script-ruby@2.0.4
 - pkg:maven/org.tentackle/tentackle-script-ruby@2.0.4?classifier=sources
 - pkg:maven/org.tentackle/tentackle-script-ruby@2.0.5
@@ -24,3 +28,9 @@
 - pkg:maven/org.tentackle/tentackle-script-ruby@2.2.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-script-ruby@8.2.2.0
 - pkg:maven/org.tentackle/tentackle-script-ruby@8.2.2.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-script-ruby@8.2.3.0
+- pkg:maven/org.tentackle/tentackle-script-ruby@8.2.3.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-script-ruby@8.2.4.0
+- pkg:maven/org.tentackle/tentackle-script-ruby@8.2.4.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-script-ruby@8.2.5.0
+- pkg:maven/org.tentackle/tentackle-script-ruby@8.2.5.0?classifier=sources

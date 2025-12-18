@@ -1,5 +1,13 @@
 - pkg:maven/io.debezium/debezium-core@0.1.0
 - pkg:maven/io.debezium/debezium-core@0.1.0?classifier=sources
+- pkg:maven/io.debezium/debezium-core@0.10.0.Alpha1
+- pkg:maven/io.debezium/debezium-core@0.10.0.Alpha1?classifier=sources
+- pkg:maven/io.debezium/debezium-core@0.10.0.Alpha2
+- pkg:maven/io.debezium/debezium-core@0.10.0.Alpha2?classifier=sources
+- pkg:maven/io.debezium/debezium-core@0.10.0.Beta1
+- pkg:maven/io.debezium/debezium-core@0.10.0.Beta1?classifier=sources
+- pkg:maven/io.debezium/debezium-core@0.10.0.Beta2
+- pkg:maven/io.debezium/debezium-core@0.10.0.Beta2?classifier=sources
 - pkg:maven/io.debezium/debezium-core@0.2.0
 - pkg:maven/io.debezium/debezium-core@0.2.0?classifier=sources
 - pkg:maven/io.debezium/debezium-core@0.2.1
@@ -80,3 +88,9 @@
 - pkg:maven/io.debezium/debezium-core@0.9.1.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-core@0.9.2.Final
 - pkg:maven/io.debezium/debezium-core@0.9.2.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-core@0.9.3.Final
+- pkg:maven/io.debezium/debezium-core@0.9.3.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-core@0.9.4.Final
+- pkg:maven/io.debezium/debezium-core@0.9.4.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-core@0.9.5.Final
+- pkg:maven/io.debezium/debezium-core@0.9.5.Final?classifier=sources

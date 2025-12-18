@@ -4,3 +4,7 @@
 - pkg:maven/org.streampipes/streampipes-messaging-jms@0.60.0?classifier=sources
 - pkg:maven/org.streampipes/streampipes-messaging-jms@0.60.1
 - pkg:maven/org.streampipes/streampipes-messaging-jms@0.60.1?classifier=sources
+- pkg:maven/org.streampipes/streampipes-messaging-jms@0.61.0
+- pkg:maven/org.streampipes/streampipes-messaging-jms@0.61.0?classifier=sources
+- pkg:maven/org.streampipes/streampipes-messaging-jms@0.62.0
+- pkg:maven/org.streampipes/streampipes-messaging-jms@0.62.0?classifier=sources

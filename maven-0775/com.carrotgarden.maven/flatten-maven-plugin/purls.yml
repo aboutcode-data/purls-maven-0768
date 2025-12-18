@@ -8,3 +8,7 @@
 - pkg:maven/com.carrotgarden.maven/flatten-maven-plugin@1.3.20180210195103?classifier=sources
 - pkg:maven/com.carrotgarden.maven/flatten-maven-plugin@1.4.20180402132337
 - pkg:maven/com.carrotgarden.maven/flatten-maven-plugin@1.4.20180402132337?classifier=sources
+- pkg:maven/com.carrotgarden.maven/flatten-maven-plugin@1.5.20190427220340
+- pkg:maven/com.carrotgarden.maven/flatten-maven-plugin@1.5.20190427220340?classifier=sources
+- pkg:maven/com.carrotgarden.maven/flatten-maven-plugin@1.6.20190428102750
+- pkg:maven/com.carrotgarden.maven/flatten-maven-plugin@1.6.20190428102750?classifier=sources

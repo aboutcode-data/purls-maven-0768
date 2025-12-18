@@ -6,3 +6,5 @@
 - pkg:maven/com.github.salesforce-marketingcloud/fuelsdk@1.2.2?classifier=sources
 - pkg:maven/com.github.salesforce-marketingcloud/fuelsdk@1.3.2
 - pkg:maven/com.github.salesforce-marketingcloud/fuelsdk@1.3.2?classifier=sources
+- pkg:maven/com.github.salesforce-marketingcloud/fuelsdk@1.4.0
+- pkg:maven/com.github.salesforce-marketingcloud/fuelsdk@1.4.0?classifier=sources

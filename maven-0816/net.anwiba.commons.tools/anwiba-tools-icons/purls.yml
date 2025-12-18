@@ -6,6 +6,8 @@
 - pkg:maven/net.anwiba.commons.tools/anwiba-tools-icons@1.0.154?classifier=sources
 - pkg:maven/net.anwiba.commons.tools/anwiba-tools-icons@1.0.180
 - pkg:maven/net.anwiba.commons.tools/anwiba-tools-icons@1.0.180?classifier=sources
+- pkg:maven/net.anwiba.commons.tools/anwiba-tools-icons@1.0.185
+- pkg:maven/net.anwiba.commons.tools/anwiba-tools-icons@1.0.185?classifier=sources
 - pkg:maven/net.anwiba.commons.tools/anwiba-tools-icons@1.0.24
 - pkg:maven/net.anwiba.commons.tools/anwiba-tools-icons@1.0.24?classifier=sources
 - pkg:maven/net.anwiba.commons.tools/anwiba-tools-icons@1.0.25

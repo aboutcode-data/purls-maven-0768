@@ -1,0 +1,2 @@
+- pkg:maven/org.rewedigital.voice.dialog/ssml-plugin@1.0.2
+- pkg:maven/org.rewedigital.voice.dialog/ssml-plugin@1.0.2?classifier=sources

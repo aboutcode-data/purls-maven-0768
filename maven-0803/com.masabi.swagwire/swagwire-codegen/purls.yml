@@ -2,8 +2,12 @@
 - pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.24?classifier=sources
 - pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.25
 - pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.25?classifier=sources
+- pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.26
 - pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.26-rc1?classifier=sources
 - pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.26-rc2
 - pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.26-rc2?classifier=sources
 - pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.26-rc3
 - pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.26-rc3?classifier=sources
+- pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.26-rc5
+- pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.26-rc5?classifier=sources
+- pkg:maven/com.masabi.swagwire/swagwire-codegen@0.0.26?classifier=sources

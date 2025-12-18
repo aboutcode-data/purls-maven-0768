@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.vorto/hono-java@0.10.0.M9
 - pkg:maven/org.eclipse.vorto/hono-java@0.10.0.M9?classifier=sources
 - pkg:maven/org.eclipse.vorto/hono-java@0.10.0?classifier=sources
+- pkg:maven/org.eclipse.vorto/hono-java@0.10.1
+- pkg:maven/org.eclipse.vorto/hono-java@0.10.1?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.daisy.braille/braille-utils.impl@5.1.0?classifier=sources
 - pkg:maven/org.daisy.braille/braille-utils.impl@6.0.0
 - pkg:maven/org.daisy.braille/braille-utils.impl@6.0.0?classifier=sources
+- pkg:maven/org.daisy.braille/braille-utils.impl@7.0.0
+- pkg:maven/org.daisy.braille/braille-utils.impl@7.0.0?classifier=sources

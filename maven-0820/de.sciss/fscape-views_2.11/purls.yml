@@ -1,0 +1,12 @@
+- pkg:maven/de.sciss/fscape-views_2.11@2.24.0
+- pkg:maven/de.sciss/fscape-views_2.11@2.24.0?classifier=sources
+- pkg:maven/de.sciss/fscape-views_2.11@2.25.0
+- pkg:maven/de.sciss/fscape-views_2.11@2.25.0?classifier=sources
+- pkg:maven/de.sciss/fscape-views_2.11@2.26.0
+- pkg:maven/de.sciss/fscape-views_2.11@2.26.0?classifier=sources
+- pkg:maven/de.sciss/fscape-views_2.11@2.26.1
+- pkg:maven/de.sciss/fscape-views_2.11@2.26.1?classifier=sources
+- pkg:maven/de.sciss/fscape-views_2.11@2.26.2
+- pkg:maven/de.sciss/fscape-views_2.11@2.26.2?classifier=sources
+- pkg:maven/de.sciss/fscape-views_2.11@2.27.0
+- pkg:maven/de.sciss/fscape-views_2.11@2.27.0?classifier=sources

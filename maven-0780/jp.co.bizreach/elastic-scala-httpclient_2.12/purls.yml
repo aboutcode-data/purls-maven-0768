@@ -20,3 +20,5 @@
 - pkg:maven/jp.co.bizreach/elastic-scala-httpclient_2.12@3.2.3?classifier=sources
 - pkg:maven/jp.co.bizreach/elastic-scala-httpclient_2.12@3.2.4
 - pkg:maven/jp.co.bizreach/elastic-scala-httpclient_2.12@3.2.4?classifier=sources
+- pkg:maven/jp.co.bizreach/elastic-scala-httpclient_2.12@4.0.0
+- pkg:maven/jp.co.bizreach/elastic-scala-httpclient_2.12@4.0.0?classifier=sources

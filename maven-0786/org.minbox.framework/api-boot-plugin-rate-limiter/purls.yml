@@ -1,0 +1,10 @@
+- pkg:maven/org.minbox.framework/api-boot-plugin-rate-limiter@2.0.6.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-plugin-rate-limiter@2.0.6.RELEASE?classifier=sources
+- pkg:maven/org.minbox.framework/api-boot-plugin-rate-limiter@2.0.7.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-plugin-rate-limiter@2.0.7.RELEASE?classifier=sources
+- pkg:maven/org.minbox.framework/api-boot-plugin-rate-limiter@2.0.8.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-plugin-rate-limiter@2.0.8.RELEASE?classifier=sources
+- pkg:maven/org.minbox.framework/api-boot-plugin-rate-limiter@2.0.9.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-plugin-rate-limiter@2.0.9.RELEASE?classifier=sources
+- pkg:maven/org.minbox.framework/api-boot-plugin-rate-limiter@2.1.0.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-plugin-rate-limiter@2.1.0.RELEASE?classifier=sources

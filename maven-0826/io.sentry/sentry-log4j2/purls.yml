@@ -81,6 +81,10 @@
 - pkg:maven/io.sentry/sentry-log4j2@1.7.20?classifier=sources
 - pkg:maven/io.sentry/sentry-log4j2@1.7.21
 - pkg:maven/io.sentry/sentry-log4j2@1.7.21?classifier=sources
+- pkg:maven/io.sentry/sentry-log4j2@1.7.22
+- pkg:maven/io.sentry/sentry-log4j2@1.7.22?classifier=sources
+- pkg:maven/io.sentry/sentry-log4j2@1.7.23
+- pkg:maven/io.sentry/sentry-log4j2@1.7.23?classifier=sources
 - pkg:maven/io.sentry/sentry-log4j2@1.7.2?classifier=sources
 - pkg:maven/io.sentry/sentry-log4j2@1.7.3
 - pkg:maven/io.sentry/sentry-log4j2@1.7.3?classifier=sources

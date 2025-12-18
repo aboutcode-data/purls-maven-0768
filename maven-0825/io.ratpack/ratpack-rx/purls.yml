@@ -106,3 +106,5 @@
 - pkg:maven/io.ratpack/ratpack-rx@1.6.0-rc-4
 - pkg:maven/io.ratpack/ratpack-rx@1.6.0-rc-4?classifier=sources
 - pkg:maven/io.ratpack/ratpack-rx@1.6.0?classifier=sources
+- pkg:maven/io.ratpack/ratpack-rx@1.6.1
+- pkg:maven/io.ratpack/ratpack-rx@1.6.1?classifier=sources

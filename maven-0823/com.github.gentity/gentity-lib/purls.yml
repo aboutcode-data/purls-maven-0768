@@ -6,3 +6,7 @@
 - pkg:maven/com.github.gentity/gentity-lib@0.15?classifier=sources
 - pkg:maven/com.github.gentity/gentity-lib@0.16
 - pkg:maven/com.github.gentity/gentity-lib@0.16?classifier=sources
+- pkg:maven/com.github.gentity/gentity-lib@0.17
+- pkg:maven/com.github.gentity/gentity-lib@0.17?classifier=sources
+- pkg:maven/com.github.gentity/gentity-lib@0.18
+- pkg:maven/com.github.gentity/gentity-lib@0.18?classifier=sources

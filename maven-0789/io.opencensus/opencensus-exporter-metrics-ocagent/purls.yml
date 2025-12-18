@@ -1,0 +1,10 @@
+- pkg:maven/io.opencensus/opencensus-exporter-metrics-ocagent@0.20.0
+- pkg:maven/io.opencensus/opencensus-exporter-metrics-ocagent@0.20.0?classifier=sources
+- pkg:maven/io.opencensus/opencensus-exporter-metrics-ocagent@0.21.0
+- pkg:maven/io.opencensus/opencensus-exporter-metrics-ocagent@0.21.0?classifier=sources
+- pkg:maven/io.opencensus/opencensus-exporter-metrics-ocagent@0.22.0
+- pkg:maven/io.opencensus/opencensus-exporter-metrics-ocagent@0.22.0?classifier=sources
+- pkg:maven/io.opencensus/opencensus-exporter-metrics-ocagent@0.22.1
+- pkg:maven/io.opencensus/opencensus-exporter-metrics-ocagent@0.22.1?classifier=sources
+- pkg:maven/io.opencensus/opencensus-exporter-metrics-ocagent@0.23.0
+- pkg:maven/io.opencensus/opencensus-exporter-metrics-ocagent@0.23.0?classifier=sources

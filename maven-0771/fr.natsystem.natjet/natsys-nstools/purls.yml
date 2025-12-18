@@ -1,0 +1,2 @@
+- pkg:maven/fr.natsystem.natjet/natsys-nstools@7.0.15
+- pkg:maven/fr.natsystem.natjet/natsys-nstools@7.0.15?classifier=sources

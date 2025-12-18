@@ -310,8 +310,12 @@
 - pkg:maven/org.jgroups/jgroups@4.0.17.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@4.0.18.Final
 - pkg:maven/org.jgroups/jgroups@4.0.18.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@4.0.19.Final
+- pkg:maven/org.jgroups/jgroups@4.0.19.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@4.0.2.Final
 - pkg:maven/org.jgroups/jgroups@4.0.2.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@4.0.20.Final
+- pkg:maven/org.jgroups/jgroups@4.0.20.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@4.0.3.Final
 - pkg:maven/org.jgroups/jgroups@4.0.3.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@4.0.4.Final
@@ -326,3 +330,7 @@
 - pkg:maven/org.jgroups/jgroups@4.0.8.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@4.0.9.Final
 - pkg:maven/org.jgroups/jgroups@4.0.9.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@4.1.0.Final
+- pkg:maven/org.jgroups/jgroups@4.1.0.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@4.1.1.Final
+- pkg:maven/org.jgroups/jgroups@4.1.1.Final?classifier=sources

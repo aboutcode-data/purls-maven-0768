@@ -1,0 +1,2 @@
+- pkg:maven/com.zendesk.jazon/jazon-spock@0.3.0
+- pkg:maven/com.zendesk.jazon/jazon-spock@0.3.0?classifier=sources

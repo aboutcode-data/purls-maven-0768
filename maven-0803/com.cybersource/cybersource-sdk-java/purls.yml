@@ -16,3 +16,5 @@
 - pkg:maven/com.cybersource/cybersource-sdk-java@6.2.5?classifier=sources
 - pkg:maven/com.cybersource/cybersource-sdk-java@6.2.6
 - pkg:maven/com.cybersource/cybersource-sdk-java@6.2.6?classifier=sources
+- pkg:maven/com.cybersource/cybersource-sdk-java@6.2.7
+- pkg:maven/com.cybersource/cybersource-sdk-java@6.2.7?classifier=sources

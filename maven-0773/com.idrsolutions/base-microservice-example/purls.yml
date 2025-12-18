@@ -8,3 +8,11 @@
 - pkg:maven/com.idrsolutions/base-microservice-example@2.1.0-alpha?classifier=sources
 - pkg:maven/com.idrsolutions/base-microservice-example@2.2.0-alpha
 - pkg:maven/com.idrsolutions/base-microservice-example@2.2.0-alpha?classifier=sources
+- pkg:maven/com.idrsolutions/base-microservice-example@3.0.0-alpha
+- pkg:maven/com.idrsolutions/base-microservice-example@3.0.0-alpha?classifier=sources
+- pkg:maven/com.idrsolutions/base-microservice-example@4.0.0-alpha
+- pkg:maven/com.idrsolutions/base-microservice-example@4.0.0-alpha?classifier=sources
+- pkg:maven/com.idrsolutions/base-microservice-example@4.0.1-alpha
+- pkg:maven/com.idrsolutions/base-microservice-example@4.0.1-alpha?classifier=sources
+- pkg:maven/com.idrsolutions/base-microservice-example@5.0.0-alpha
+- pkg:maven/com.idrsolutions/base-microservice-example@5.0.0-alpha?classifier=sources

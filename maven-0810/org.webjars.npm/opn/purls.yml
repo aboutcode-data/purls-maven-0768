@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/opn@5.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/opn@5.4.0
 - pkg:maven/org.webjars.npm/opn@5.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/opn@5.5.0
+- pkg:maven/org.webjars.npm/opn@5.5.0?classifier=sources

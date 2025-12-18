@@ -47,6 +47,8 @@
 - pkg:maven/org.commonjava.maven.galley/galley-test-harness-api@0.16.0
 - pkg:maven/org.commonjava.maven.galley/galley-test-harness-api@0.16.0?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-test-harness-api@0.16.1
+- pkg:maven/org.commonjava.maven.galley/galley-test-harness-api@0.16.10
+- pkg:maven/org.commonjava.maven.galley/galley-test-harness-api@0.16.10?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-test-harness-api@0.16.1?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-test-harness-api@0.16.2
 - pkg:maven/org.commonjava.maven.galley/galley-test-harness-api@0.16.2?classifier=sources

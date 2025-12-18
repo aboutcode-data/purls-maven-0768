@@ -56,3 +56,7 @@
 - pkg:maven/io.vertx/vertx-web-templ-thymeleaf@3.6.2?classifier=sources
 - pkg:maven/io.vertx/vertx-web-templ-thymeleaf@3.6.3
 - pkg:maven/io.vertx/vertx-web-templ-thymeleaf@3.6.3?classifier=sources
+- pkg:maven/io.vertx/vertx-web-templ-thymeleaf@3.7.0
+- pkg:maven/io.vertx/vertx-web-templ-thymeleaf@3.7.0?classifier=sources
+- pkg:maven/io.vertx/vertx-web-templ-thymeleaf@3.7.1
+- pkg:maven/io.vertx/vertx-web-templ-thymeleaf@3.7.1?classifier=sources

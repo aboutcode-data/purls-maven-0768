@@ -2,3 +2,5 @@
 - pkg:maven/com.cognitect.aws/sns@669.2.364.0?classifier=sources
 - pkg:maven/com.cognitect.aws/sns@697.2.391.0
 - pkg:maven/com.cognitect.aws/sns@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sns@718.2.444.0
+- pkg:maven/com.cognitect.aws/sns@718.2.444.0?classifier=sources

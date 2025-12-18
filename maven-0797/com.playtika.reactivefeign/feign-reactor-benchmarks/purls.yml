@@ -14,3 +14,13 @@
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-benchmarks@1.0.19?classifier=sources
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-benchmarks@1.0.20
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-benchmarks@1.0.20?classifier=sources
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-benchmarks@1.0.21
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-benchmarks@1.0.21?classifier=sources
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-benchmarks@1.0.22
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-benchmarks@1.0.22?classifier=sources
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-benchmarks@1.0.26
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-benchmarks@1.0.26?classifier=sources
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-benchmarks@1.0.28
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-benchmarks@1.0.28?classifier=sources
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-benchmarks@1.0.30
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-benchmarks@1.0.30?classifier=sources

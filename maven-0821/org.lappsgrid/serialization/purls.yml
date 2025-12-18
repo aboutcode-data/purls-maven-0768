@@ -10,3 +10,5 @@
 - pkg:maven/org.lappsgrid/serialization@2.5.0?classifier=sources
 - pkg:maven/org.lappsgrid/serialization@2.6.0
 - pkg:maven/org.lappsgrid/serialization@2.6.0?classifier=sources
+- pkg:maven/org.lappsgrid/serialization@2.7.0
+- pkg:maven/org.lappsgrid/serialization@2.7.0?classifier=sources

@@ -4,3 +4,13 @@
 - pkg:maven/org.bom4v.ti/sql-to-csv-spark_2.11@0.0.1?classifier=sources
 - pkg:maven/org.bom4v.ti/sql-to-csv-spark_2.11@0.0.2-spark2.3
 - pkg:maven/org.bom4v.ti/sql-to-csv-spark_2.11@0.0.2-spark2.3?classifier=sources
+- pkg:maven/org.bom4v.ti/sql-to-csv-spark_2.11@0.0.3-spark2.3
+- pkg:maven/org.bom4v.ti/sql-to-csv-spark_2.11@0.0.3-spark2.3-hive3hdp
+- pkg:maven/org.bom4v.ti/sql-to-csv-spark_2.11@0.0.3-spark2.3-hive3hdp?classifier=sources
+- pkg:maven/org.bom4v.ti/sql-to-csv-spark_2.11@0.0.3-spark2.3?classifier=sources
+- pkg:maven/org.bom4v.ti/sql-to-csv-spark_2.11@0.0.4-spark2.3-hive3hdp
+- pkg:maven/org.bom4v.ti/sql-to-csv-spark_2.11@0.0.4-spark2.3-hive3hdp?classifier=sources
+- pkg:maven/org.bom4v.ti/sql-to-csv-spark_2.11@0.0.5-spark2.3-hive3hdp
+- pkg:maven/org.bom4v.ti/sql-to-csv-spark_2.11@0.0.5-spark2.3-hive3hdp?classifier=sources
+- pkg:maven/org.bom4v.ti/sql-to-csv-spark_2.11@0.0.5-spark2.4-hive3hdp
+- pkg:maven/org.bom4v.ti/sql-to-csv-spark_2.11@0.0.5-spark2.4-hive3hdp?classifier=sources

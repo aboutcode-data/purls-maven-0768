@@ -8,3 +8,4 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.tensorflow/siddhi-execution-tensorflow-parent@1.0.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.tensorflow/siddhi-execution-tensorflow-parent@1.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.tensorflow/siddhi-execution-tensorflow-parent@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.tensorflow/siddhi-execution-tensorflow-parent@2.0.0?classifier=source-release&type=zip

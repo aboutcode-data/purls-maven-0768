@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jest__reporters@24.8.0
+- pkg:maven/org.webjars.npm/jest__reporters@24.8.0?classifier=sources

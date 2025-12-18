@@ -7,5 +7,10 @@
 - pkg:maven/org.jbpm.contrib/repository-wildfly@7.16.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository-wildfly@7.17.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository-wildfly@7.18.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-wildfly@7.19.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-wildfly@7.20.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-wildfly@7.21.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-wildfly@7.22.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-wildfly@7.23.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository-wildfly@7.8.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository-wildfly@7.9.0.Final?classifier=sources

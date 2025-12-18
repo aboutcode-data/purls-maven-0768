@@ -10,3 +10,13 @@
 - pkg:maven/org.antframework.configcenter/configcenter-client@1.3.0.RELEASE?classifier=sources
 - pkg:maven/org.antframework.configcenter/configcenter-client@1.4.0.RELEASE
 - pkg:maven/org.antframework.configcenter/configcenter-client@1.4.0.RELEASE?classifier=sources
+- pkg:maven/org.antframework.configcenter/configcenter-client@1.5.0.RELEASE
+- pkg:maven/org.antframework.configcenter/configcenter-client@1.5.0.RELEASE?classifier=sources
+- pkg:maven/org.antframework.configcenter/configcenter-client@1.5.1.RELEASE
+- pkg:maven/org.antframework.configcenter/configcenter-client@1.5.1.RELEASE?classifier=sources
+- pkg:maven/org.antframework.configcenter/configcenter-client@1.5.2.RELEASE
+- pkg:maven/org.antframework.configcenter/configcenter-client@1.5.2.RELEASE?classifier=sources
+- pkg:maven/org.antframework.configcenter/configcenter-client@1.5.3.RELEASE
+- pkg:maven/org.antframework.configcenter/configcenter-client@1.5.3.RELEASE?classifier=sources
+- pkg:maven/org.antframework.configcenter/configcenter-client@1.5.4.RELEASE
+- pkg:maven/org.antframework.configcenter/configcenter-client@1.5.4.RELEASE?classifier=sources

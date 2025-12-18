@@ -68,6 +68,8 @@
 - pkg:maven/com.github.shyiko.ktlint/ktlint-ruleset-standard@0.3.1?classifier=sources
 - pkg:maven/com.github.shyiko.ktlint/ktlint-ruleset-standard@0.30.0
 - pkg:maven/com.github.shyiko.ktlint/ktlint-ruleset-standard@0.30.0?classifier=sources
+- pkg:maven/com.github.shyiko.ktlint/ktlint-ruleset-standard@0.31.0
+- pkg:maven/com.github.shyiko.ktlint/ktlint-ruleset-standard@0.31.0?classifier=sources
 - pkg:maven/com.github.shyiko.ktlint/ktlint-ruleset-standard@0.4.0
 - pkg:maven/com.github.shyiko.ktlint/ktlint-ruleset-standard@0.4.0?classifier=sources
 - pkg:maven/com.github.shyiko.ktlint/ktlint-ruleset-standard@0.5.0

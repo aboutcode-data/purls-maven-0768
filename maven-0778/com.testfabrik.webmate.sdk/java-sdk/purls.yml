@@ -22,3 +22,7 @@
 - pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.22?classifier=sources
 - pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.23
 - pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.23?classifier=sources
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.24
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.24?classifier=sources
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.25
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.25?classifier=sources

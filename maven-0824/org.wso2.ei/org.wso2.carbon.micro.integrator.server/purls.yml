@@ -1,3 +1,9 @@
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.server@1.0.0
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.server@1.0.0-m6
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.server@1.0.0-m6?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.server@1.0.0-m7
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.server@1.0.0-m7?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.server@1.0.0?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.server@6.3.0
 - pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.server@6.3.0-m11
 - pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.server@6.3.0-m11?classifier=sources
@@ -26,3 +32,5 @@
 - pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.server@6.5.0-m1?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.server@6.5.0-m2
 - pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.server@6.5.0-m2?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.server@6.5.0-m3
+- pkg:maven/org.wso2.ei/org.wso2.carbon.micro.integrator.server@6.5.0-m3?classifier=sources

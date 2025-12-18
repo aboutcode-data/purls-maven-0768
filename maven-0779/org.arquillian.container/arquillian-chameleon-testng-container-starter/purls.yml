@@ -3,3 +3,4 @@
 - pkg:maven/org.arquillian.container/arquillian-chameleon-testng-container-starter@1.0.0.CR3
 - pkg:maven/org.arquillian.container/arquillian-chameleon-testng-container-starter@1.0.0.CR4
 - pkg:maven/org.arquillian.container/arquillian-chameleon-testng-container-starter@1.0.0.CR5
+- pkg:maven/org.arquillian.container/arquillian-chameleon-testng-container-starter@1.0.0.CR6

@@ -1,5 +1,9 @@
 - pkg:maven/org.tentackle/tentackle-persistence-wurblets@11.2.3.0
 - pkg:maven/org.tentackle/tentackle-persistence-wurblets@11.2.3.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-persistence-wurblets@11.3.0.0
+- pkg:maven/org.tentackle/tentackle-persistence-wurblets@11.3.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-persistence-wurblets@11.4.0.0
+- pkg:maven/org.tentackle/tentackle-persistence-wurblets@11.4.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-persistence-wurblets@2.0.4
 - pkg:maven/org.tentackle/tentackle-persistence-wurblets@2.0.4?classifier=sources
 - pkg:maven/org.tentackle/tentackle-persistence-wurblets@2.0.5
@@ -24,3 +28,9 @@
 - pkg:maven/org.tentackle/tentackle-persistence-wurblets@2.2.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-persistence-wurblets@8.2.2.0
 - pkg:maven/org.tentackle/tentackle-persistence-wurblets@8.2.2.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-persistence-wurblets@8.2.3.0
+- pkg:maven/org.tentackle/tentackle-persistence-wurblets@8.2.3.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-persistence-wurblets@8.2.4.0
+- pkg:maven/org.tentackle/tentackle-persistence-wurblets@8.2.4.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-persistence-wurblets@8.2.5.0
+- pkg:maven/org.tentackle/tentackle-persistence-wurblets@8.2.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-refactoring@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-refactoring@RELEASE110?classifier=sources

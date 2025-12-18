@@ -2,3 +2,5 @@
 - pkg:maven/com.sneakxy/spring-data-mybatis@1.0.0-RELEASE?classifier=sources
 - pkg:maven/com.sneakxy/spring-data-mybatis@1.0.1-RELEASE
 - pkg:maven/com.sneakxy/spring-data-mybatis@1.0.1-RELEASE?classifier=sources
+- pkg:maven/com.sneakxy/spring-data-mybatis@2.0.0-RELEASE
+- pkg:maven/com.sneakxy/spring-data-mybatis@2.0.0-RELEASE?classifier=sources

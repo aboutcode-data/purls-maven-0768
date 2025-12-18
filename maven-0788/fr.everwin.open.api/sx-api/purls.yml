@@ -1,0 +1,2 @@
+- pkg:maven/fr.everwin.open.api/sx-api@0.1.2
+- pkg:maven/fr.everwin.open.api/sx-api@0.1.2?classifier=sources

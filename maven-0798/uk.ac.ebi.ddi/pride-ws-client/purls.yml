@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.ebi.ddi/pride-ws-client@1.0
+- pkg:maven/uk.ac.ebi.ddi/pride-ws-client@1.0?classifier=sources

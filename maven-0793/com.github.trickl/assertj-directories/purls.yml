@@ -1,0 +1,8 @@
+- pkg:maven/com.github.trickl/assertj-directories@0.1.1
+- pkg:maven/com.github.trickl/assertj-directories@0.1.1?classifier=sources
+- pkg:maven/com.github.trickl/assertj-directories@untagged-4c3f498ef4f2b5027858
+- pkg:maven/com.github.trickl/assertj-directories@untagged-4c3f498ef4f2b5027858?classifier=sources
+- pkg:maven/com.github.trickl/assertj-directories@untagged-93b989bb2625ae85eee3
+- pkg:maven/com.github.trickl/assertj-directories@untagged-93b989bb2625ae85eee3?classifier=sources
+- pkg:maven/com.github.trickl/assertj-directories@untagged-cc643a6c961efe538e2f
+- pkg:maven/com.github.trickl/assertj-directories@untagged-cc643a6c961efe538e2f?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.scalameta/testkit_2.13.0-RC1@4.1.11
+- pkg:maven/org.scalameta/testkit_2.13.0-RC1@4.1.11?classifier=sources

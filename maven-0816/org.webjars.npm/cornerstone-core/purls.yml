@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/cornerstone-core@2.2.8
+- pkg:maven/org.webjars.npm/cornerstone-core@2.2.8?classifier=sources

@@ -4,3 +4,13 @@
 - pkg:maven/io.prestosql/presto-resource-group-managers@303?classifier=sources
 - pkg:maven/io.prestosql/presto-resource-group-managers@304?classifier=sources
 - pkg:maven/io.prestosql/presto-resource-group-managers@305?classifier=sources
+- pkg:maven/io.prestosql/presto-resource-group-managers@306?classifier=sources
+- pkg:maven/io.prestosql/presto-resource-group-managers@307?classifier=sources
+- pkg:maven/io.prestosql/presto-resource-group-managers@308?classifier=sources
+- pkg:maven/io.prestosql/presto-resource-group-managers@309?classifier=sources
+- pkg:maven/io.prestosql/presto-resource-group-managers@310?classifier=sources
+- pkg:maven/io.prestosql/presto-resource-group-managers@311?classifier=sources
+- pkg:maven/io.prestosql/presto-resource-group-managers@312?classifier=sources
+- pkg:maven/io.prestosql/presto-resource-group-managers@313?classifier=sources
+- pkg:maven/io.prestosql/presto-resource-group-managers@314?classifier=sources
+- pkg:maven/io.prestosql/presto-resource-group-managers@315?classifier=sources

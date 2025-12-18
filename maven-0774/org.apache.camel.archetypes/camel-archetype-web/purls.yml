@@ -75,8 +75,14 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.22.1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.22.2?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.22.3?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.22.4?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.22.5?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.23.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.23.1?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.23.2?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.23.3?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.24.0?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.24.1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.7.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.7.1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.7.2?classifier=sources
@@ -101,3 +107,5 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.9.7?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@2.9.8?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-web@3.0.0-M1?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@3.0.0-M2?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-web@3.0.0-M3?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.xiaomi.infra.galaxy/galaxy-talos-sdk@1.2.1?classifier=sources
 - pkg:maven/com.xiaomi.infra.galaxy/galaxy-talos-sdk@2.0.2
 - pkg:maven/com.xiaomi.infra.galaxy/galaxy-talos-sdk@2.0.2?classifier=sources
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-talos-sdk@2.4.0
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-talos-sdk@2.4.0?classifier=sources

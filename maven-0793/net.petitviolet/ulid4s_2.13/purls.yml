@@ -1,0 +1,2 @@
+- pkg:maven/net.petitviolet/ulid4s_2.13@0.4.0
+- pkg:maven/net.petitviolet/ulid4s_2.13@0.4.0?classifier=sources

@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/compressible@2.0.13?classifier=sources
 - pkg:maven/org.webjars.npm/compressible@2.0.14
 - pkg:maven/org.webjars.npm/compressible@2.0.14?classifier=sources
+- pkg:maven/org.webjars.npm/compressible@2.0.16
+- pkg:maven/org.webjars.npm/compressible@2.0.16?classifier=sources
 - pkg:maven/org.webjars.npm/compressible@2.0.8
 - pkg:maven/org.webjars.npm/compressible@2.0.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/br.jus.tst/test-unit-jaxrs@1.0.0
+- pkg:maven/br.jus.tst/test-unit-jaxrs@1.0.0?classifier=sources

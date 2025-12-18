@@ -1,0 +1,2 @@
+- pkg:maven/com.github.gekomad/scala-regex-collection_2.13.0-RC2@1.0.0-RC1
+- pkg:maven/com.github.gekomad/scala-regex-collection_2.13.0-RC2@1.0.0-RC1?classifier=sources

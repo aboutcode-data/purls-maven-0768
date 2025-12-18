@@ -1,2 +1,4 @@
 - pkg:maven/com.sdl.delivery/udp-model@11.0.0-1020
 - pkg:maven/com.sdl.delivery/udp-model@11.0.0-1020?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-model@11.0.0-1037
+- pkg:maven/com.sdl.delivery/udp-model@11.0.0-1037?classifier=sources

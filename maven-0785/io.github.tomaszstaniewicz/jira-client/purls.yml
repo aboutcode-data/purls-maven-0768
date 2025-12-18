@@ -10,3 +10,5 @@
 - pkg:maven/io.github.tomaszstaniewicz/jira-client@0.7.3-RELEASE?classifier=sources
 - pkg:maven/io.github.tomaszstaniewicz/jira-client@0.7.4-RELEASE
 - pkg:maven/io.github.tomaszstaniewicz/jira-client@0.7.4-RELEASE?classifier=sources
+- pkg:maven/io.github.tomaszstaniewicz/jira-client@0.7.5-RELEASE
+- pkg:maven/io.github.tomaszstaniewicz/jira-client@0.7.5-RELEASE?classifier=sources

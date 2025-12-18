@@ -1,0 +1,14 @@
+- pkg:maven/ch.timo-schmid/slf4s-api_2.13@1.7.20
+- pkg:maven/ch.timo-schmid/slf4s-api_2.13@1.7.20?classifier=sources
+- pkg:maven/ch.timo-schmid/slf4s-api_2.13@1.7.21
+- pkg:maven/ch.timo-schmid/slf4s-api_2.13@1.7.21?classifier=sources
+- pkg:maven/ch.timo-schmid/slf4s-api_2.13@1.7.22
+- pkg:maven/ch.timo-schmid/slf4s-api_2.13@1.7.22?classifier=sources
+- pkg:maven/ch.timo-schmid/slf4s-api_2.13@1.7.23
+- pkg:maven/ch.timo-schmid/slf4s-api_2.13@1.7.23?classifier=sources
+- pkg:maven/ch.timo-schmid/slf4s-api_2.13@1.7.24
+- pkg:maven/ch.timo-schmid/slf4s-api_2.13@1.7.24?classifier=sources
+- pkg:maven/ch.timo-schmid/slf4s-api_2.13@1.7.25
+- pkg:maven/ch.timo-schmid/slf4s-api_2.13@1.7.25?classifier=sources
+- pkg:maven/ch.timo-schmid/slf4s-api_2.13@1.7.26
+- pkg:maven/ch.timo-schmid/slf4s-api_2.13@1.7.26?classifier=sources

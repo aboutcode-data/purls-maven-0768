@@ -118,3 +118,5 @@
 - pkg:maven/com.cedarsoft.commons.swing/common@8.7.0?classifier=sources
 - pkg:maven/com.cedarsoft.commons.swing/common@8.8.0
 - pkg:maven/com.cedarsoft.commons.swing/common@8.8.0?classifier=sources
+- pkg:maven/com.cedarsoft.commons.swing/common@8.8.1
+- pkg:maven/com.cedarsoft.commons.swing/common@8.8.1?classifier=sources

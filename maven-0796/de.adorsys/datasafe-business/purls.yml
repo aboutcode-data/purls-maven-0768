@@ -1,0 +1,14 @@
+- pkg:maven/de.adorsys/datasafe-business@0.0.10
+- pkg:maven/de.adorsys/datasafe-business@0.0.10?classifier=sources
+- pkg:maven/de.adorsys/datasafe-business@0.0.11
+- pkg:maven/de.adorsys/datasafe-business@0.0.11?classifier=sources
+- pkg:maven/de.adorsys/datasafe-business@0.0.12
+- pkg:maven/de.adorsys/datasafe-business@0.0.12?classifier=sources
+- pkg:maven/de.adorsys/datasafe-business@0.0.13
+- pkg:maven/de.adorsys/datasafe-business@0.0.13?classifier=sources
+- pkg:maven/de.adorsys/datasafe-business@0.0.14
+- pkg:maven/de.adorsys/datasafe-business@0.0.14?classifier=sources
+- pkg:maven/de.adorsys/datasafe-business@0.0.8
+- pkg:maven/de.adorsys/datasafe-business@0.0.8?classifier=sources
+- pkg:maven/de.adorsys/datasafe-business@0.1.0
+- pkg:maven/de.adorsys/datasafe-business@0.1.0?classifier=sources

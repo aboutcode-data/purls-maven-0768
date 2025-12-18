@@ -1,0 +1,2 @@
+- pkg:maven/io.mantisrx/mantis-runtime@1.2.2
+- pkg:maven/io.mantisrx/mantis-runtime@1.2.2?classifier=sources

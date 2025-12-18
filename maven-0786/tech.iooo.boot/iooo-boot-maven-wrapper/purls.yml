@@ -5,3 +5,4 @@
 - pkg:maven/tech.iooo.boot/iooo-boot-maven-wrapper@1.1.4?classifier=sources
 - pkg:maven/tech.iooo.boot/iooo-boot-maven-wrapper@1.1.5
 - pkg:maven/tech.iooo.boot/iooo-boot-maven-wrapper@1.1.6
+- pkg:maven/tech.iooo.boot/iooo-boot-maven-wrapper@1.1.7

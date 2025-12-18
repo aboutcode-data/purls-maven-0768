@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.appserver/sso-quickstart@6.0.0-m3
+- pkg:maven/org.wso2.appserver/sso-quickstart@6.0.0-m3?classifier=sources
+- pkg:maven/org.wso2.appserver/sso-quickstart@6.0.0-m4
+- pkg:maven/org.wso2.appserver/sso-quickstart@6.0.0-m4?classifier=sources

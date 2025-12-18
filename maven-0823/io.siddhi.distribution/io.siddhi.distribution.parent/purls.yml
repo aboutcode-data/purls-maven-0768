@@ -1,0 +1,4 @@
+- pkg:maven/io.siddhi.distribution/io.siddhi.distribution.parent@0.1.0?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.distribution/io.siddhi.distribution.parent@1.0.0-m1?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.distribution/io.siddhi.distribution.parent@1.0.0-m2?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.distribution/io.siddhi.distribution.parent@1.0.0-m3?classifier=source-release&type=zip

@@ -1,0 +1,8 @@
+- pkg:maven/com.nhaarman.acorn.ext/acorn-experimental@0.12.0
+- pkg:maven/com.nhaarman.acorn.ext/acorn-experimental@0.12.0?classifier=sources
+- pkg:maven/com.nhaarman.acorn.ext/acorn-experimental@1.0.0
+- pkg:maven/com.nhaarman.acorn.ext/acorn-experimental@1.0.0-rc01
+- pkg:maven/com.nhaarman.acorn.ext/acorn-experimental@1.0.0-rc01?classifier=sources
+- pkg:maven/com.nhaarman.acorn.ext/acorn-experimental@1.0.0-rc02
+- pkg:maven/com.nhaarman.acorn.ext/acorn-experimental@1.0.0-rc02?classifier=sources
+- pkg:maven/com.nhaarman.acorn.ext/acorn-experimental@1.0.0?classifier=sources

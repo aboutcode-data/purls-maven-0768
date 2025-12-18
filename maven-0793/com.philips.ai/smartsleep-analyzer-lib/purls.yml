@@ -1,0 +1,4 @@
+- pkg:maven/com.philips.ai/smartsleep-analyzer-lib@1.0.0
+- pkg:maven/com.philips.ai/smartsleep-analyzer-lib@1.0.0-deprecated
+- pkg:maven/com.philips.ai/smartsleep-analyzer-lib@1.0.0-deprecated?classifier=sources
+- pkg:maven/com.philips.ai/smartsleep-analyzer-lib@1.0.0?classifier=sources

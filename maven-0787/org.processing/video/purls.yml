@@ -22,3 +22,5 @@
 - pkg:maven/org.processing/video@3.0b7?classifier=sources
 - pkg:maven/org.processing/video@3.2.3
 - pkg:maven/org.processing/video@3.2.3?classifier=sources
+- pkg:maven/org.processing/video@3.3.7
+- pkg:maven/org.processing/video@3.3.7?classifier=sources

@@ -40,6 +40,8 @@
 - pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.0.32?classifier=sources
 - pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.0.33
 - pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.0.33?classifier=sources
+- pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.0.34
+- pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.0.34?classifier=sources
 - pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.0.4
 - pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.0.4?classifier=sources
 - pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.0.6
@@ -48,3 +50,9 @@
 - pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.0.7?classifier=sources
 - pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.0.8
 - pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.0.8?classifier=sources
+- pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.2.1
+- pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.2.1?classifier=sources
+- pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.2.2
+- pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.2.2?classifier=sources
+- pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.2.3
+- pkg:maven/org.symphonyoss.s2.canon/canon-launch@0.2.3?classifier=sources

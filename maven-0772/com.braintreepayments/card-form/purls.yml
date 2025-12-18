@@ -52,3 +52,5 @@
 - pkg:maven/com.braintreepayments/card-form@4.0.0?type=aar
 - pkg:maven/com.braintreepayments/card-form@4.1.0?classifier=sources
 - pkg:maven/com.braintreepayments/card-form@4.1.0?type=aar
+- pkg:maven/com.braintreepayments/card-form@4.2.0?classifier=sources
+- pkg:maven/com.braintreepayments/card-form@4.2.0?type=aar

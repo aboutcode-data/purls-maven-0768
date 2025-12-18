@@ -34,3 +34,9 @@
 - pkg:maven/org.tinymediamanager.plugins/scraper-imdb@1.8?classifier=sources
 - pkg:maven/org.tinymediamanager.plugins/scraper-imdb@1.9
 - pkg:maven/org.tinymediamanager.plugins/scraper-imdb@1.9?classifier=sources
+- pkg:maven/org.tinymediamanager.plugins/scraper-imdb@3.0
+- pkg:maven/org.tinymediamanager.plugins/scraper-imdb@3.0?classifier=sources
+- pkg:maven/org.tinymediamanager.plugins/scraper-imdb@3.1
+- pkg:maven/org.tinymediamanager.plugins/scraper-imdb@3.1?classifier=sources
+- pkg:maven/org.tinymediamanager.plugins/scraper-imdb@3.2
+- pkg:maven/org.tinymediamanager.plugins/scraper-imdb@3.2?classifier=sources

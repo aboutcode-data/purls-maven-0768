@@ -1,0 +1,10 @@
+- pkg:maven/com.daml.scala/bindings-akka_2.12@100.13.10
+- pkg:maven/com.daml.scala/bindings-akka_2.12@100.13.10?classifier=sources
+- pkg:maven/com.daml.scala/bindings-akka_2.12@100.13.3
+- pkg:maven/com.daml.scala/bindings-akka_2.12@100.13.3?classifier=sources
+- pkg:maven/com.daml.scala/bindings-akka_2.12@100.13.5
+- pkg:maven/com.daml.scala/bindings-akka_2.12@100.13.5?classifier=sources
+- pkg:maven/com.daml.scala/bindings-akka_2.12@100.13.7
+- pkg:maven/com.daml.scala/bindings-akka_2.12@100.13.7?classifier=sources
+- pkg:maven/com.daml.scala/bindings-akka_2.12@100.13.8
+- pkg:maven/com.daml.scala/bindings-akka_2.12@100.13.8?classifier=sources

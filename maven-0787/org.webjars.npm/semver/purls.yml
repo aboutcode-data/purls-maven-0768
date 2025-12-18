@@ -42,3 +42,7 @@
 - pkg:maven/org.webjars.npm/semver@5.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/semver@5.6.0
 - pkg:maven/org.webjars.npm/semver@5.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/semver@5.7.0
+- pkg:maven/org.webjars.npm/semver@5.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/semver@6.0.0
+- pkg:maven/org.webjars.npm/semver@6.0.0?classifier=sources

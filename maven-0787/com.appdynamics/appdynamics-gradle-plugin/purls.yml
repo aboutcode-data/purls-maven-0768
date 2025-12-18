@@ -98,3 +98,11 @@
 - pkg:maven/com.appdynamics/appdynamics-gradle-plugin@4.5.6.1384?classifier=sources
 - pkg:maven/com.appdynamics/appdynamics-gradle-plugin@5.0.1437
 - pkg:maven/com.appdynamics/appdynamics-gradle-plugin@5.0.1437?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-gradle-plugin@5.1.1478
+- pkg:maven/com.appdynamics/appdynamics-gradle-plugin@5.1.1478?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-gradle-plugin@5.1.1521
+- pkg:maven/com.appdynamics/appdynamics-gradle-plugin@5.1.1521?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-gradle-plugin@5.1.1524
+- pkg:maven/com.appdynamics/appdynamics-gradle-plugin@5.1.1524?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-gradle-plugin@5.1.1535
+- pkg:maven/com.appdynamics/appdynamics-gradle-plugin@5.1.1535?classifier=sources

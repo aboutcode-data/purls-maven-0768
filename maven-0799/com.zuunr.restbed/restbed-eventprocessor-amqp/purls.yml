@@ -1,0 +1,2 @@
+- pkg:maven/com.zuunr.restbed/restbed-eventprocessor-amqp@1.0.0.M1-bd0994c
+- pkg:maven/com.zuunr.restbed/restbed-eventprocessor-amqp@1.0.0.M1-bd0994c?classifier=sources

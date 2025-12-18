@@ -8,3 +8,7 @@
 - pkg:maven/com.cognitect.aws/codecommit@704.2.396.0?classifier=sources
 - pkg:maven/com.cognitect.aws/codecommit@707.2.407.0
 - pkg:maven/com.cognitect.aws/codecommit@707.2.407.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codecommit@722.2.466.0
+- pkg:maven/com.cognitect.aws/codecommit@722.2.466.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codecommit@723.2.472.0
+- pkg:maven/com.cognitect.aws/codecommit@723.2.472.0?classifier=sources

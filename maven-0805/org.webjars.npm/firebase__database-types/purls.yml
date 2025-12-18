@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/firebase__database-types@0.3.8
+- pkg:maven/org.webjars.npm/firebase__database-types@0.3.8?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/serverlessrepo@675.2.367.0?classifier=sources
 - pkg:maven/com.cognitect.aws/serverlessrepo@697.2.391.0
 - pkg:maven/com.cognitect.aws/serverlessrepo@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/serverlessrepo@712.2.420.0
+- pkg:maven/com.cognitect.aws/serverlessrepo@712.2.420.0?classifier=sources

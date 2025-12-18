@@ -8,3 +8,5 @@
 - pkg:maven/io.swagger/swagger-scala-module_2.10@1.0.3?classifier=sources
 - pkg:maven/io.swagger/swagger-scala-module_2.10@1.0.4
 - pkg:maven/io.swagger/swagger-scala-module_2.10@1.0.4?classifier=sources
+- pkg:maven/io.swagger/swagger-scala-module_2.10@1.0.5
+- pkg:maven/io.swagger/swagger-scala-module_2.10@1.0.5?classifier=sources

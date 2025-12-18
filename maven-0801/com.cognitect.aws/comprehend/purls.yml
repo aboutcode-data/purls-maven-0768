@@ -4,3 +4,11 @@
 - pkg:maven/com.cognitect.aws/comprehend@684.2.381.0?classifier=sources
 - pkg:maven/com.cognitect.aws/comprehend@697.2.391.0
 - pkg:maven/com.cognitect.aws/comprehend@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/comprehend@715.2.432.0
+- pkg:maven/com.cognitect.aws/comprehend@715.2.432.0?classifier=sources
+- pkg:maven/com.cognitect.aws/comprehend@715.2.435.0
+- pkg:maven/com.cognitect.aws/comprehend@715.2.435.0?classifier=sources
+- pkg:maven/com.cognitect.aws/comprehend@715.2.437.0
+- pkg:maven/com.cognitect.aws/comprehend@715.2.437.0?classifier=sources
+- pkg:maven/com.cognitect.aws/comprehend@718.2.455.0
+- pkg:maven/com.cognitect.aws/comprehend@718.2.455.0?classifier=sources

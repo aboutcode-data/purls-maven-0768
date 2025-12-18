@@ -2,5 +2,11 @@
 - pkg:maven/org.webjars.bowergithub.snapappointments/bootstrap-select@1.10.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.snapappointments/bootstrap-select@1.12.4
 - pkg:maven/org.webjars.bowergithub.snapappointments/bootstrap-select@1.12.4?classifier=sources
+- pkg:maven/org.webjars.bowergithub.snapappointments/bootstrap-select@1.13.10
+- pkg:maven/org.webjars.bowergithub.snapappointments/bootstrap-select@1.13.10?classifier=sources
 - pkg:maven/org.webjars.bowergithub.snapappointments/bootstrap-select@1.13.2
 - pkg:maven/org.webjars.bowergithub.snapappointments/bootstrap-select@1.13.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.snapappointments/bootstrap-select@1.13.5
+- pkg:maven/org.webjars.bowergithub.snapappointments/bootstrap-select@1.13.5?classifier=sources
+- pkg:maven/org.webjars.bowergithub.snapappointments/bootstrap-select@1.13.9
+- pkg:maven/org.webjars.bowergithub.snapappointments/bootstrap-select@1.13.9?classifier=sources

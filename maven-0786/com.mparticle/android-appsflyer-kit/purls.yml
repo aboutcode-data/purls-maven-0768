@@ -109,6 +109,7 @@
 - pkg:maven/com.mparticle/android-appsflyer-kit@5.6.5?type=aar
 - pkg:maven/com.mparticle/android-appsflyer-kit@5.6.6?type=aar
 - pkg:maven/com.mparticle/android-appsflyer-kit@5.7.0?type=aar
+- pkg:maven/com.mparticle/android-appsflyer-kit@5.7.10?type=aar
 - pkg:maven/com.mparticle/android-appsflyer-kit@5.7.1?type=aar
 - pkg:maven/com.mparticle/android-appsflyer-kit@5.7.2?type=aar
 - pkg:maven/com.mparticle/android-appsflyer-kit@5.7.3?type=aar
@@ -117,3 +118,11 @@
 - pkg:maven/com.mparticle/android-appsflyer-kit@5.7.6?type=aar
 - pkg:maven/com.mparticle/android-appsflyer-kit@5.7.7?type=aar
 - pkg:maven/com.mparticle/android-appsflyer-kit@5.7.8?type=aar
+- pkg:maven/com.mparticle/android-appsflyer-kit@5.7.9?type=aar
+- pkg:maven/com.mparticle/android-appsflyer-kit@5.8.0?type=aar
+- pkg:maven/com.mparticle/android-appsflyer-kit@5.8.1?type=aar
+- pkg:maven/com.mparticle/android-appsflyer-kit@5.8.2?type=aar
+- pkg:maven/com.mparticle/android-appsflyer-kit@5.9.0?type=aar
+- pkg:maven/com.mparticle/android-appsflyer-kit@5.9.1?type=aar
+- pkg:maven/com.mparticle/android-appsflyer-kit@5.9.2?type=aar
+- pkg:maven/com.mparticle/android-appsflyer-kit@5.9.3?type=aar

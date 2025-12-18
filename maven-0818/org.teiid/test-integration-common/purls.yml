@@ -34,3 +34,4 @@
 - pkg:maven/org.teiid/test-integration-common@11.2.0
 - pkg:maven/org.teiid/test-integration-common@11.2.1
 - pkg:maven/org.teiid/test-integration-common@11.2.2
+- pkg:maven/org.teiid/test-integration-common@11.2.3

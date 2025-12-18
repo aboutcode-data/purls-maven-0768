@@ -8,3 +8,5 @@
 - pkg:maven/io.thorntail/microprofile-health@2.2.1.Final?classifier=sources
 - pkg:maven/io.thorntail/microprofile-health@2.3.0.Final
 - pkg:maven/io.thorntail/microprofile-health@2.3.0.Final?classifier=sources
+- pkg:maven/io.thorntail/microprofile-health@2.4.0.Final
+- pkg:maven/io.thorntail/microprofile-health@2.4.0.Final?classifier=sources

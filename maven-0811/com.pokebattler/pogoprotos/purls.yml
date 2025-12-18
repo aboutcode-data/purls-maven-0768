@@ -6,6 +6,8 @@
 - pkg:maven/com.pokebattler/pogoprotos@2.36.0?classifier=sources
 - pkg:maven/com.pokebattler/pogoprotos@2.38.0
 - pkg:maven/com.pokebattler/pogoprotos@2.38.0?classifier=sources
+- pkg:maven/com.pokebattler/pogoprotos@2.38.10
+- pkg:maven/com.pokebattler/pogoprotos@2.38.10?classifier=sources
 - pkg:maven/com.pokebattler/pogoprotos@2.38.3
 - pkg:maven/com.pokebattler/pogoprotos@2.38.3?classifier=sources
 - pkg:maven/com.pokebattler/pogoprotos@2.38.5
@@ -14,3 +16,11 @@
 - pkg:maven/com.pokebattler/pogoprotos@2.38.6?classifier=sources
 - pkg:maven/com.pokebattler/pogoprotos@2.38.7
 - pkg:maven/com.pokebattler/pogoprotos@2.38.7?classifier=sources
+- pkg:maven/com.pokebattler/pogoprotos@2.38.8
+- pkg:maven/com.pokebattler/pogoprotos@2.38.8?classifier=sources
+- pkg:maven/com.pokebattler/pogoprotos@2.38.9
+- pkg:maven/com.pokebattler/pogoprotos@2.38.9?classifier=sources
+- pkg:maven/com.pokebattler/pogoprotos@2.43.0
+- pkg:maven/com.pokebattler/pogoprotos@2.43.0?classifier=sources
+- pkg:maven/com.pokebattler/pogoprotos@2.44.0
+- pkg:maven/com.pokebattler/pogoprotos@2.44.0?classifier=sources

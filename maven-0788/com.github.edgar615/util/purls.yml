@@ -34,3 +34,7 @@
 - pkg:maven/com.github.edgar615/util@1.1.1.BETA6?classifier=sources
 - pkg:maven/com.github.edgar615/util@1.1.1.BETA7
 - pkg:maven/com.github.edgar615/util@1.1.1.BETA7?classifier=sources
+- pkg:maven/com.github.edgar615/util@1.1.1.BETA8
+- pkg:maven/com.github.edgar615/util@1.1.1.BETA8?classifier=sources
+- pkg:maven/com.github.edgar615/util@1.1.1.BETA9
+- pkg:maven/com.github.edgar615/util@1.1.1.BETA9?classifier=sources

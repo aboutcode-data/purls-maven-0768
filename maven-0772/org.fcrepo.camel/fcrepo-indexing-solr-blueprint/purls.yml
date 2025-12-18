@@ -6,3 +6,5 @@
 - pkg:maven/org.fcrepo.camel/fcrepo-indexing-solr-blueprint@4.7.2?classifier=sources
 - pkg:maven/org.fcrepo.camel/fcrepo-indexing-solr-blueprint@4.8.0
 - pkg:maven/org.fcrepo.camel/fcrepo-indexing-solr-blueprint@4.8.0?classifier=sources
+- pkg:maven/org.fcrepo.camel/fcrepo-indexing-solr-blueprint@5.0.0
+- pkg:maven/org.fcrepo.camel/fcrepo-indexing-solr-blueprint@5.0.0?classifier=sources

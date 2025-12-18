@@ -2,3 +2,9 @@
 - pkg:maven/de.sciss/fscape-lucre_2.13.0-M5@2.20.0?classifier=sources
 - pkg:maven/de.sciss/fscape-lucre_2.13.0-M5@2.21.0
 - pkg:maven/de.sciss/fscape-lucre_2.13.0-M5@2.21.0?classifier=sources
+- pkg:maven/de.sciss/fscape-lucre_2.13.0-M5@2.22.0
+- pkg:maven/de.sciss/fscape-lucre_2.13.0-M5@2.22.0?classifier=sources
+- pkg:maven/de.sciss/fscape-lucre_2.13.0-M5@2.23.0
+- pkg:maven/de.sciss/fscape-lucre_2.13.0-M5@2.23.0?classifier=sources
+- pkg:maven/de.sciss/fscape-lucre_2.13.0-M5@2.24.0
+- pkg:maven/de.sciss/fscape-lucre_2.13.0-M5@2.24.0?classifier=sources

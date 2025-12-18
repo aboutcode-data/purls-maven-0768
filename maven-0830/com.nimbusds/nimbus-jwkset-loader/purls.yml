@@ -16,3 +16,7 @@
 - pkg:maven/com.nimbusds/nimbus-jwkset-loader@3.0?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jwkset-loader@3.1
 - pkg:maven/com.nimbusds/nimbus-jwkset-loader@3.1?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jwkset-loader@4.0
+- pkg:maven/com.nimbusds/nimbus-jwkset-loader@4.0?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jwkset-loader@4.1
+- pkg:maven/com.nimbusds/nimbus-jwkset-loader@4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.kotlintest/kotlintest-datagen@0.10.0
+- pkg:maven/io.kotlintest/kotlintest-datagen@0.10.0?classifier=sources

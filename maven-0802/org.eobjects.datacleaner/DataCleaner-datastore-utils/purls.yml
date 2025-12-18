@@ -1,0 +1,2 @@
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-datastore-utils@5.7.0
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-datastore-utils@5.7.0?classifier=sources

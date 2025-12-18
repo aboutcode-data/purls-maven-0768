@@ -1,0 +1,6 @@
+- pkg:maven/org.linuxprobe/luava-spring-mvc@0.0.1.RELEASE
+- pkg:maven/org.linuxprobe/luava-spring-mvc@0.0.1.RELEASE?classifier=sources
+- pkg:maven/org.linuxprobe/luava-spring-mvc@0.0.2.RELEASE
+- pkg:maven/org.linuxprobe/luava-spring-mvc@0.0.2.RELEASE?classifier=sources
+- pkg:maven/org.linuxprobe/luava-spring-mvc@0.0.3.RELEASE
+- pkg:maven/org.linuxprobe/luava-spring-mvc@0.0.3.RELEASE?classifier=sources

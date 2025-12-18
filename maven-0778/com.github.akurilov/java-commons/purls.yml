@@ -108,3 +108,5 @@
 - pkg:maven/com.github.akurilov/java-commons@2.3.4?classifier=sources
 - pkg:maven/com.github.akurilov/java-commons@2.3.5
 - pkg:maven/com.github.akurilov/java-commons@2.3.5?classifier=sources
+- pkg:maven/com.github.akurilov/java-commons@2.3.6
+- pkg:maven/com.github.akurilov/java-commons@2.3.6?classifier=sources

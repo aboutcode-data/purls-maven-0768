@@ -1,0 +1,6 @@
+- pkg:maven/com.github.devswork/rt@1.0.0RELEASE
+- pkg:maven/com.github.devswork/rt@1.0.0RELEASE?classifier=sources
+- pkg:maven/com.github.devswork/rt@1.0.1RELEASE
+- pkg:maven/com.github.devswork/rt@1.0.1RELEASE?classifier=sources
+- pkg:maven/com.github.devswork/rt@1.0.2
+- pkg:maven/com.github.devswork/rt@1.0.2?classifier=sources

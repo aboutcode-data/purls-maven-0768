@@ -18,3 +18,9 @@
 - pkg:maven/com.rabidgremlin/mutters-ink-bot@4.3.0?classifier=sources
 - pkg:maven/com.rabidgremlin/mutters-ink-bot@4.4.0
 - pkg:maven/com.rabidgremlin/mutters-ink-bot@4.4.0?classifier=sources
+- pkg:maven/com.rabidgremlin/mutters-ink-bot@4.4.2
+- pkg:maven/com.rabidgremlin/mutters-ink-bot@4.4.2?classifier=sources
+- pkg:maven/com.rabidgremlin/mutters-ink-bot@5.0.0
+- pkg:maven/com.rabidgremlin/mutters-ink-bot@5.0.0?classifier=sources
+- pkg:maven/com.rabidgremlin/mutters-ink-bot@5.0.1
+- pkg:maven/com.rabidgremlin/mutters-ink-bot@5.0.1?classifier=sources

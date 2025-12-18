@@ -141,6 +141,8 @@
 - pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.base.model@1.0.196?classifier=sources
 - pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.base.model@1.0.197
 - pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.base.model@1.0.197?classifier=sources
+- pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.base.model@1.0.198
+- pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.base.model@1.0.198?classifier=sources
 - pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.base.model@1.0.19?classifier=sources
 - pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.base.model@1.0.20
 - pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.base.model@1.0.20?classifier=sources

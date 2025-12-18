@@ -1,0 +1,2 @@
+- pkg:maven/org.bytedeco/ngraph-platform@0.15.0-1.5
+- pkg:maven/org.bytedeco/ngraph-platform@0.15.0-1.5?classifier=sources

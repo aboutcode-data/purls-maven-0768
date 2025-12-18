@@ -4,3 +4,9 @@
 - pkg:maven/org.fudaa.framework.ebli/ebli-visuallibrary@1.0?classifier=sources
 - pkg:maven/org.fudaa.framework.ebli/ebli-visuallibrary@2.0
 - pkg:maven/org.fudaa.framework.ebli/ebli-visuallibrary@2.0?classifier=sources
+- pkg:maven/org.fudaa.framework.ebli/ebli-visuallibrary@2.1
+- pkg:maven/org.fudaa.framework.ebli/ebli-visuallibrary@2.1?classifier=sources
+- pkg:maven/org.fudaa.framework.ebli/ebli-visuallibrary@2.2
+- pkg:maven/org.fudaa.framework.ebli/ebli-visuallibrary@2.2?classifier=sources
+- pkg:maven/org.fudaa.framework.ebli/ebli-visuallibrary@2.5
+- pkg:maven/org.fudaa.framework.ebli/ebli-visuallibrary@2.5?classifier=sources
