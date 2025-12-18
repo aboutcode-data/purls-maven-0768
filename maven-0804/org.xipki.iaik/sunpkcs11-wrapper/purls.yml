@@ -14,3 +14,5 @@
 - pkg:maven/org.xipki.iaik/sunpkcs11-wrapper@1.4.6?classifier=sources
 - pkg:maven/org.xipki.iaik/sunpkcs11-wrapper@1.4.7
 - pkg:maven/org.xipki.iaik/sunpkcs11-wrapper@1.4.7?classifier=sources
+- pkg:maven/org.xipki.iaik/sunpkcs11-wrapper@1.4.8
+- pkg:maven/org.xipki.iaik/sunpkcs11-wrapper@1.4.8?classifier=sources

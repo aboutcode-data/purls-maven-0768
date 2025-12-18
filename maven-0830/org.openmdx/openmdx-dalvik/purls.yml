@@ -8,3 +8,5 @@
 - pkg:maven/org.openmdx/openmdx-dalvik@2.17.7?classifier=sources
 - pkg:maven/org.openmdx/openmdx-dalvik@2.17.8
 - pkg:maven/org.openmdx/openmdx-dalvik@2.17.8?classifier=sources
+- pkg:maven/org.openmdx/openmdx-dalvik@2.17.9
+- pkg:maven/org.openmdx/openmdx-dalvik@2.17.9?classifier=sources

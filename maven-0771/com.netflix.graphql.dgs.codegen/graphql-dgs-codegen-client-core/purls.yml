@@ -1,0 +1,4 @@
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-client-core@5.0.2?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-client-core@5.0.3?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-client-core@5.0.4?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-client-core@5.0.5?classifier=sources

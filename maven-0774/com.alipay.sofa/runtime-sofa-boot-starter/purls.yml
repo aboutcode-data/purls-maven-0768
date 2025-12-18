@@ -71,3 +71,4 @@
 - pkg:maven/com.alipay.sofa/runtime-sofa-boot-starter@3.4.6
 - pkg:maven/com.alipay.sofa/runtime-sofa-boot-starter@3.6.0
 - pkg:maven/com.alipay.sofa/runtime-sofa-boot-starter@3.7.0
+- pkg:maven/com.alipay.sofa/runtime-sofa-boot-starter@3.8.0

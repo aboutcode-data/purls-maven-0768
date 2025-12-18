@@ -22,3 +22,9 @@
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc@4.0.1?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc@4.1.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc@4.2.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc@4.3.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc@4.3.1?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc@4.3.2?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc@4.4.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc@4.5.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc@4.5.1?classifier=sources

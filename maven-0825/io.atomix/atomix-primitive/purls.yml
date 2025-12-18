@@ -65,6 +65,8 @@
 - pkg:maven/io.atomix/atomix-primitive@3.1.0-rc2?classifier=sources
 - pkg:maven/io.atomix/atomix-primitive@3.1.0?classifier=sources
 - pkg:maven/io.atomix/atomix-primitive@3.1.1
+- pkg:maven/io.atomix/atomix-primitive@3.1.10
+- pkg:maven/io.atomix/atomix-primitive@3.1.10?classifier=sources
 - pkg:maven/io.atomix/atomix-primitive@3.1.1?classifier=sources
 - pkg:maven/io.atomix/atomix-primitive@3.1.2
 - pkg:maven/io.atomix/atomix-primitive@3.1.2?classifier=sources

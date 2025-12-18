@@ -21,3 +21,6 @@
 - pkg:maven/io.fabric8/volumesnapshot-tests@5.3.1
 - pkg:maven/io.fabric8/volumesnapshot-tests@5.4.0
 - pkg:maven/io.fabric8/volumesnapshot-tests@5.4.1
+- pkg:maven/io.fabric8/volumesnapshot-tests@5.5.0
+- pkg:maven/io.fabric8/volumesnapshot-tests@5.6.0
+- pkg:maven/io.fabric8/volumesnapshot-tests@5.7.0

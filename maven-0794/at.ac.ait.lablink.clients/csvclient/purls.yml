@@ -1,0 +1,2 @@
+- pkg:maven/at.ac.ait.lablink.clients/csvclient@0.0.1
+- pkg:maven/at.ac.ait.lablink.clients/csvclient@0.0.1?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/com.github.zhongl/akka-stream-netty-kqueue_2.12@0.1.10
 - pkg:maven/com.github.zhongl/akka-stream-netty-kqueue_2.12@0.1.10?classifier=sources
+- pkg:maven/com.github.zhongl/akka-stream-netty-kqueue_2.12@0.1.11
+- pkg:maven/com.github.zhongl/akka-stream-netty-kqueue_2.12@0.1.11?classifier=sources
 - pkg:maven/com.github.zhongl/akka-stream-netty-kqueue_2.12@0.1.2
 - pkg:maven/com.github.zhongl/akka-stream-netty-kqueue_2.12@0.1.2?classifier=sources
 - pkg:maven/com.github.zhongl/akka-stream-netty-kqueue_2.12@0.1.3

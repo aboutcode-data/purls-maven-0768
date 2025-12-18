@@ -40,3 +40,5 @@
 - pkg:maven/org.scala-lang.modules/scala-collection-migrations_2.12@2.4.3?classifier=sources
 - pkg:maven/org.scala-lang.modules/scala-collection-migrations_2.12@2.4.4
 - pkg:maven/org.scala-lang.modules/scala-collection-migrations_2.12@2.4.4?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-collection-migrations_2.12@2.5.0
+- pkg:maven/org.scala-lang.modules/scala-collection-migrations_2.12@2.5.0?classifier=sources

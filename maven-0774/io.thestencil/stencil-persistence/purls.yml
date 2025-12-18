@@ -1,0 +1,8 @@
+- pkg:maven/io.thestencil/stencil-persistence@1.010
+- pkg:maven/io.thestencil/stencil-persistence@1.010?classifier=sources
+- pkg:maven/io.thestencil/stencil-persistence@1.011
+- pkg:maven/io.thestencil/stencil-persistence@1.011?classifier=sources
+- pkg:maven/io.thestencil/stencil-persistence@1.012
+- pkg:maven/io.thestencil/stencil-persistence@1.012?classifier=sources
+- pkg:maven/io.thestencil/stencil-persistence@1.013
+- pkg:maven/io.thestencil/stencil-persistence@1.013?classifier=sources

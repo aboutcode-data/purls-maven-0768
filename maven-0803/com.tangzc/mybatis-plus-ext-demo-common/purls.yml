@@ -1,0 +1,2 @@
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-common@1.2.2
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-common@1.2.2?classifier=sources

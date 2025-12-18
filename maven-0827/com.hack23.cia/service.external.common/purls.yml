@@ -146,3 +146,5 @@
 - pkg:maven/com.hack23.cia/service.external.common@2021.5.23?classifier=sources
 - pkg:maven/com.hack23.cia/service.external.common@2021.6.20
 - pkg:maven/com.hack23.cia/service.external.common@2021.6.20?classifier=sources
+- pkg:maven/com.hack23.cia/service.external.common@2021.7.20
+- pkg:maven/com.hack23.cia/service.external.common@2021.7.20?classifier=sources

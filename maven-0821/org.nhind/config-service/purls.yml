@@ -26,3 +26,7 @@
 - pkg:maven/org.nhind/config-service@2.2?type=war
 - pkg:maven/org.nhind/config-service@6.0
 - pkg:maven/org.nhind/config-service@6.0?classifier=sources
+- pkg:maven/org.nhind/config-service@8.0.0
+- pkg:maven/org.nhind/config-service@8.0.0?classifier=sources
+- pkg:maven/org.nhind/config-service@8.0.1
+- pkg:maven/org.nhind/config-service@8.0.1?classifier=sources

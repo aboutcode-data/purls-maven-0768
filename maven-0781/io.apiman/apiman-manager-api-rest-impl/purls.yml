@@ -116,3 +116,5 @@
 - pkg:maven/io.apiman/apiman-manager-api-rest-impl@1.5.7.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-manager-api-rest-impl@2.0.0.Final
 - pkg:maven/io.apiman/apiman-manager-api-rest-impl@2.0.0.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-manager-api-rest-impl@2.1.0.Final
+- pkg:maven/io.apiman/apiman-manager-api-rest-impl@2.1.0.Final?classifier=sources

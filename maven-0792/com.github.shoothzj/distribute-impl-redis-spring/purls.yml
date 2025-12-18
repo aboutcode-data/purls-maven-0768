@@ -1,0 +1,2 @@
+- pkg:maven/com.github.shoothzj/distribute-impl-redis-spring@0.0.3
+- pkg:maven/com.github.shoothzj/distribute-impl-redis-spring@0.0.3?classifier=sources

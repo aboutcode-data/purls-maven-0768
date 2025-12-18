@@ -1,0 +1,2 @@
+- pkg:maven/com.commercetools.rmf/node-model@0.2.0-20210816072901?classifier=sources
+- pkg:maven/com.commercetools.rmf/node-model@0.2.0-20210816200031?classifier=sources

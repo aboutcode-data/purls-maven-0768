@@ -1,0 +1,2 @@
+- pkg:maven/com.aoapps/ao-dao-dbc-book@3.0.0
+- pkg:maven/com.aoapps/ao-dao-dbc-book@3.0.0?classifier=sources

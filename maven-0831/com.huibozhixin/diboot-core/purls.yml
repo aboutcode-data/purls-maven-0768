@@ -2,4 +2,8 @@
 - pkg:maven/com.huibozhixin/diboot-core@2.1.2-hbzx1?classifier=sources
 - pkg:maven/com.huibozhixin/diboot-core@2.1.2-hbzx2
 - pkg:maven/com.huibozhixin/diboot-core@2.1.2-hbzx2?classifier=sources
+- pkg:maven/com.huibozhixin/diboot-core@2.1.2-hbzx3
+- pkg:maven/com.huibozhixin/diboot-core@2.1.2-hbzx3?classifier=sources
+- pkg:maven/com.huibozhixin/diboot-core@2.1.2-hbzx4
+- pkg:maven/com.huibozhixin/diboot-core@2.1.2-hbzx4?classifier=sources
 - pkg:maven/com.huibozhixin/diboot-core@2.1.2-hbzx?classifier=sources

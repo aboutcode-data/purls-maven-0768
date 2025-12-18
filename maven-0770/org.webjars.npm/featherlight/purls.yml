@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/featherlight@1.7.14
+- pkg:maven/org.webjars.npm/featherlight@1.7.14?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.grails.profiles/react@5.0.0.RC1
+- pkg:maven/org.grails.profiles/react@5.0.0.RC1?classifier=sources

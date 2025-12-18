@@ -70,3 +70,5 @@
 - pkg:maven/org.mdsplus/devicebeans@7.131.2?classifier=sources
 - pkg:maven/org.mdsplus/devicebeans@7.132.0
 - pkg:maven/org.mdsplus/devicebeans@7.132.0?classifier=sources
+- pkg:maven/org.mdsplus/devicebeans@7.133.1
+- pkg:maven/org.mdsplus/devicebeans@7.133.1?classifier=sources

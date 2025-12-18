@@ -68,3 +68,13 @@
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-cli@3.45.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-cli@3.46.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-cli@3.46.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-cli@3.47.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-cli@3.47.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-cli@3.48.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-cli@3.48.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-cli@3.49.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-cli@3.49.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-cli@3.50.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-cli@3.50.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-cli@3.51.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-cli@3.51.0?classifier=sources

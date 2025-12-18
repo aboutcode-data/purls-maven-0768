@@ -37,3 +37,5 @@
 - pkg:maven/com.navisens/motiondnaapi@2.0.1?type=aar
 - pkg:maven/com.navisens/motiondnaapi@2.0.2?type=aar
 - pkg:maven/com.navisens/motiondnaapi@2.0.3?type=aar
+- pkg:maven/com.navisens/motiondnaapi@3.0.0?type=aar
+- pkg:maven/com.navisens/motiondnaapi@3.0.1?type=aar

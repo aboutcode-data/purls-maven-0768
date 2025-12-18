@@ -56,6 +56,7 @@
 - pkg:maven/com.liferay.plugins/fjord-theme@1.0.5?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@1.0.60?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@1.0.61?type=war
+- pkg:maven/com.liferay.plugins/fjord-theme@1.0.62?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@1.0.6?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@1.0.7?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@1.0.8?type=war
@@ -92,7 +93,9 @@
 - pkg:maven/com.liferay.plugins/fjord-theme@2.0.36?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@2.0.37?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@2.0.38?type=war
+- pkg:maven/com.liferay.plugins/fjord-theme@2.0.39?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@2.0.3?type=war
+- pkg:maven/com.liferay.plugins/fjord-theme@2.0.40?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@2.0.4?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@2.0.5?type=war
 - pkg:maven/com.liferay.plugins/fjord-theme@2.0.6?type=war

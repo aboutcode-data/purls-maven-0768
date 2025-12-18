@@ -34,5 +34,6 @@
 - pkg:maven/ch.acra/acra-core@5.8.1?classifier=sources
 - pkg:maven/ch.acra/acra-core@5.8.2?classifier=sources
 - pkg:maven/ch.acra/acra-core@5.8.3?classifier=sources
+- pkg:maven/ch.acra/acra-core@5.8.4?classifier=sources
 - pkg:maven/ch.acra/acra-core@unspecified?classifier=sources
 - pkg:maven/ch.acra/acra-core@unspecified?type=aar

@@ -6,3 +6,5 @@
 - pkg:maven/com.yugabyte/java-driver-mapper-processor@4.6.0-yb-5-RC2?classifier=sources
 - pkg:maven/com.yugabyte/java-driver-mapper-processor@4.6.0-yb-6
 - pkg:maven/com.yugabyte/java-driver-mapper-processor@4.6.0-yb-6?classifier=sources
+- pkg:maven/com.yugabyte/java-driver-mapper-processor@4.6.0-yb-9
+- pkg:maven/com.yugabyte/java-driver-mapper-processor@4.6.0-yb-9?classifier=sources

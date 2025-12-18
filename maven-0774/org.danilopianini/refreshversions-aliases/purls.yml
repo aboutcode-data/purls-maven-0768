@@ -20,3 +20,6 @@
 - pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5-dev1o%2Bb70a5f2?classifier=sources
 - pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5-dev1p%2B3cc88b8?classifier=sources
 - pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.6?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.7?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.8?classifier=sources

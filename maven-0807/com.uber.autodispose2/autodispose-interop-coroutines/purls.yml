@@ -4,3 +4,4 @@
 - pkg:maven/com.uber.autodispose2/autodispose-interop-coroutines@2.0.0-RC2
 - pkg:maven/com.uber.autodispose2/autodispose-interop-coroutines@2.0.0-RC2?classifier=sources
 - pkg:maven/com.uber.autodispose2/autodispose-interop-coroutines@2.0.0?classifier=sources
+- pkg:maven/com.uber.autodispose2/autodispose-interop-coroutines@2.1.0?classifier=sources

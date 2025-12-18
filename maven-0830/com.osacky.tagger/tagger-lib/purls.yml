@@ -1,0 +1,2 @@
+- pkg:maven/com.osacky.tagger/tagger-lib@0.1?classifier=sources
+- pkg:maven/com.osacky.tagger/tagger-lib@0.2?classifier=sources

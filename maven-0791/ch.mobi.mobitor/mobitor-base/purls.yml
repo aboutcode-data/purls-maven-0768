@@ -54,6 +54,8 @@
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.248?classifier=sources
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.256
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.256?classifier=sources
+- pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.260
+- pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.260?classifier=sources
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.37
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.37?classifier=sources
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.64

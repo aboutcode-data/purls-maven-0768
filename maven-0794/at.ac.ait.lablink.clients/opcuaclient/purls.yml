@@ -1,0 +1,2 @@
+- pkg:maven/at.ac.ait.lablink.clients/opcuaclient@0.0.2
+- pkg:maven/at.ac.ait.lablink.clients/opcuaclient@0.0.2?classifier=sources

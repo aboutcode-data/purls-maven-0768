@@ -81,3 +81,5 @@
 - pkg:maven/com.baidu.hugegraph/hugegraph-common@1.8.5?classifier=sources
 - pkg:maven/com.baidu.hugegraph/hugegraph-common@1.8.8
 - pkg:maven/com.baidu.hugegraph/hugegraph-common@1.8.8?classifier=sources
+- pkg:maven/com.baidu.hugegraph/hugegraph-common@1.8.9
+- pkg:maven/com.baidu.hugegraph/hugegraph-common@1.8.9?classifier=sources

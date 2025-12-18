@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/get-uri@2.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/get-uri@2.0.4
 - pkg:maven/org.webjars.npm/get-uri@2.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/get-uri@3.0.2
+- pkg:maven/org.webjars.npm/get-uri@3.0.2?classifier=sources

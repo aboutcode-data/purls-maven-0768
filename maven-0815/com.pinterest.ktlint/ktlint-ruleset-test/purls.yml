@@ -1,2 +1,4 @@
 - pkg:maven/com.pinterest.ktlint/ktlint-ruleset-test@0.40.0?classifier=sources
 - pkg:maven/com.pinterest.ktlint/ktlint-ruleset-test@0.41.0?classifier=sources
+- pkg:maven/com.pinterest.ktlint/ktlint-ruleset-test@0.42.0?classifier=sources
+- pkg:maven/com.pinterest.ktlint/ktlint-ruleset-test@0.42.1?classifier=sources

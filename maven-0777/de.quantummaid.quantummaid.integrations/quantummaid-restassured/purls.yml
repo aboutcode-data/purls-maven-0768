@@ -14,6 +14,10 @@
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.0.106?classifier=sources
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.0.107
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.0.107?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.0.108
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.0.108?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.0.109
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.0.109?classifier=sources
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.0.16
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.0.16?classifier=sources
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.0.17
@@ -170,3 +174,7 @@
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.0.98?classifier=sources
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.0.99
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.0.99?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.1.0
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.1.0?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.1.1
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-restassured@1.1.1?classifier=sources

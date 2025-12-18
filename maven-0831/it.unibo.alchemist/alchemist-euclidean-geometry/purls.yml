@@ -7,6 +7,8 @@
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@11.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@11.1.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@11.2.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@11.3.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@11.3.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@9.3.0-dev197%2B283eea26e?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@9.3.0-dev198%2Bb6c1cfaa1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@9.3.0-dev1bc%2Bfd2c3a1c0?classifier=sources

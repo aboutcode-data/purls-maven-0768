@@ -82,3 +82,7 @@
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-core@3.0.0?classifier=sources
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-core@3.0.3
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-core@3.0.3?classifier=sources
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-core@3.0.4
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-core@3.0.4?classifier=sources
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-core@3.1.0
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-core@3.1.0?classifier=sources

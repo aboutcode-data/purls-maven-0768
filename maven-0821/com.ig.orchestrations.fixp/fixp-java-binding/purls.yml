@@ -16,3 +16,5 @@
 - pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.3?classifier=sources
 - pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.4
 - pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.4?classifier=sources
+- pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.5
+- pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.5?classifier=sources

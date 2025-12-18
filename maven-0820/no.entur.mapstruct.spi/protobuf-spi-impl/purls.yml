@@ -10,6 +10,8 @@
 - pkg:maven/no.entur.mapstruct.spi/protobuf-spi-impl@1.13?classifier=sources
 - pkg:maven/no.entur.mapstruct.spi/protobuf-spi-impl@1.14
 - pkg:maven/no.entur.mapstruct.spi/protobuf-spi-impl@1.14?classifier=sources
+- pkg:maven/no.entur.mapstruct.spi/protobuf-spi-impl@1.15
+- pkg:maven/no.entur.mapstruct.spi/protobuf-spi-impl@1.15?classifier=sources
 - pkg:maven/no.entur.mapstruct.spi/protobuf-spi-impl@1.2
 - pkg:maven/no.entur.mapstruct.spi/protobuf-spi-impl@1.2?classifier=sources
 - pkg:maven/no.entur.mapstruct.spi/protobuf-spi-impl@1.3

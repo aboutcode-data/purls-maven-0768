@@ -86,6 +86,10 @@
 - pkg:maven/com.codacy/seat-service-client-akka-http_2.11@0.21.1_akka24Circe08?classifier=sources
 - pkg:maven/com.codacy/seat-service-client-akka-http_2.11@0.21.1_akka25Circe08
 - pkg:maven/com.codacy/seat-service-client-akka-http_2.11@0.21.1_akka25Circe08?classifier=sources
+- pkg:maven/com.codacy/seat-service-client-akka-http_2.11@0.21.2_akka24Circe08
+- pkg:maven/com.codacy/seat-service-client-akka-http_2.11@0.21.2_akka24Circe08?classifier=sources
+- pkg:maven/com.codacy/seat-service-client-akka-http_2.11@0.21.2_akka25Circe08
+- pkg:maven/com.codacy/seat-service-client-akka-http_2.11@0.21.2_akka25Circe08?classifier=sources
 - pkg:maven/com.codacy/seat-service-client-akka-http_2.11@0.3.1_akka24Circe08
 - pkg:maven/com.codacy/seat-service-client-akka-http_2.11@0.3.1_akka24Circe08?classifier=sources
 - pkg:maven/com.codacy/seat-service-client-akka-http_2.11@0.3.1_akka25Circe08

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/cloudinary-jquery@2.6.3
+- pkg:maven/org.webjars.bower/cloudinary-jquery@2.6.3?classifier=sources

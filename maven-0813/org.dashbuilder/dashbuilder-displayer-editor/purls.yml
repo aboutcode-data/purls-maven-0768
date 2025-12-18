@@ -230,3 +230,7 @@
 - pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@7.55.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@7.56.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@7.56.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@7.57.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@7.57.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@7.58.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-displayer-editor@7.58.0.Final?classifier=sources

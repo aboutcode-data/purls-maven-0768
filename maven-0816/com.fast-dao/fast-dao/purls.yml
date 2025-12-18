@@ -52,3 +52,5 @@
 - pkg:maven/com.fast-dao/fast-dao@8.7?classifier=sources
 - pkg:maven/com.fast-dao/fast-dao@8.8
 - pkg:maven/com.fast-dao/fast-dao@8.8?classifier=sources
+- pkg:maven/com.fast-dao/fast-dao@9.0
+- pkg:maven/com.fast-dao/fast-dao@9.0?classifier=sources

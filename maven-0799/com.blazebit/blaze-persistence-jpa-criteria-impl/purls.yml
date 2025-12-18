@@ -60,3 +60,5 @@
 - pkg:maven/com.blazebit/blaze-persistence-jpa-criteria-impl@1.6.0-Alpha2
 - pkg:maven/com.blazebit/blaze-persistence-jpa-criteria-impl@1.6.0-Alpha2?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-jpa-criteria-impl@1.6.0?classifier=sources
+- pkg:maven/com.blazebit/blaze-persistence-jpa-criteria-impl@1.6.1
+- pkg:maven/com.blazebit/blaze-persistence-jpa-criteria-impl@1.6.1?classifier=sources

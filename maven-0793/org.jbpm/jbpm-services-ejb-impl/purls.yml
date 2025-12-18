@@ -198,6 +198,10 @@
 - pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.55.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.56.0.Final
 - pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.56.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.57.0.Final
+- pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.57.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.58.0.Final
+- pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.58.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.6.0.Final
 - pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.6.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-services-ejb-impl@7.6.0.t022

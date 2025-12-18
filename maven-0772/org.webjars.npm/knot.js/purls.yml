@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/knot.js@1.1.5
+- pkg:maven/org.webjars.npm/knot.js@1.1.5?classifier=sources

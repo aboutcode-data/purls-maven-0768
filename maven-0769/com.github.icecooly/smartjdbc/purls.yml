@@ -1,0 +1,2 @@
+- pkg:maven/com.github.icecooly/smartjdbc@2.0.37
+- pkg:maven/com.github.icecooly/smartjdbc@2.0.37?classifier=sources

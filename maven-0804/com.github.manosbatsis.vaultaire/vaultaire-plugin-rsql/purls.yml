@@ -12,3 +12,15 @@
 - pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.40?classifier=sources
 - pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.41
 - pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.41?classifier=sources
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.42
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.42?classifier=sources
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.43
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.43?classifier=sources
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.44
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.44?classifier=sources
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.45
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.45?classifier=sources
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.46
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.46?classifier=sources
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.47
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-rsql@0.47?classifier=sources

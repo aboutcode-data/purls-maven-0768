@@ -4,3 +4,7 @@
 - pkg:maven/com.sap.cloud.connectivity/sap-cloud-connectivity-httpdestination@2.12.0?classifier=sources
 - pkg:maven/com.sap.cloud.connectivity/sap-cloud-connectivity-httpdestination@2.13.0
 - pkg:maven/com.sap.cloud.connectivity/sap-cloud-connectivity-httpdestination@2.13.0?classifier=sources
+- pkg:maven/com.sap.cloud.connectivity/sap-cloud-connectivity-httpdestination@2.14.0
+- pkg:maven/com.sap.cloud.connectivity/sap-cloud-connectivity-httpdestination@2.14.0?classifier=sources
+- pkg:maven/com.sap.cloud.connectivity/sap-cloud-connectivity-httpdestination@2.15.0
+- pkg:maven/com.sap.cloud.connectivity/sap-cloud-connectivity-httpdestination@2.15.0?classifier=sources

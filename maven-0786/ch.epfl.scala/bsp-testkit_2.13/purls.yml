@@ -4,3 +4,5 @@
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.0.0-M13?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.0.0-M14
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.0.0-M14?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.0.0-M15
+- pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.0.0-M15?classifier=sources

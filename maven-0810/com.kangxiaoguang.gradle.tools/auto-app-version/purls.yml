@@ -1,0 +1,4 @@
+- pkg:maven/com.kangxiaoguang.gradle.tools/auto-app-version@0.0.1
+- pkg:maven/com.kangxiaoguang.gradle.tools/auto-app-version@0.0.1?classifier=sources
+- pkg:maven/com.kangxiaoguang.gradle.tools/auto-app-version@2.0.0
+- pkg:maven/com.kangxiaoguang.gradle.tools/auto-app-version@2.0.0?classifier=sources

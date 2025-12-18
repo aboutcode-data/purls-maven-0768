@@ -1,2 +1,5 @@
 - pkg:maven/org.paradisehell.convex/convex-booster@0.0.2-debug2?classifier=sources
 - pkg:maven/org.paradisehell.convex/convex-booster@0.0.3?classifier=sources
+- pkg:maven/org.paradisehell.convex/convex-booster@0.0.4?classifier=sources
+- pkg:maven/org.paradisehell.convex/convex-booster@0.0.j?classifier=sources
+- pkg:maven/org.paradisehell.convex/convex-booster@1.0.0?classifier=sources

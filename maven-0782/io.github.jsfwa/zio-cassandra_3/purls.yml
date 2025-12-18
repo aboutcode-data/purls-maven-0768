@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jsfwa/zio-cassandra_3@1.0.1
+- pkg:maven/io.github.jsfwa/zio-cassandra_3@1.0.1?classifier=sources

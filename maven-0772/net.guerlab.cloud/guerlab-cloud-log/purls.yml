@@ -1,0 +1,2 @@
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-log@21.10.0
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-log@21.10.0?classifier=sources

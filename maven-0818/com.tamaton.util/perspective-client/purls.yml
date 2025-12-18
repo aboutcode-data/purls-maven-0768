@@ -1,2 +1,4 @@
 - pkg:maven/com.tamaton.util/perspective-client@0.9.1
 - pkg:maven/com.tamaton.util/perspective-client@0.9.1?classifier=sources
+- pkg:maven/com.tamaton.util/perspective-client@1.0.3
+- pkg:maven/com.tamaton.util/perspective-client@1.0.3?classifier=sources

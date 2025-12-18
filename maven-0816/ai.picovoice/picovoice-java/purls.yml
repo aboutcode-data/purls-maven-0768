@@ -1,0 +1,2 @@
+- pkg:maven/ai.picovoice/picovoice-java@1.1.2?classifier=sources
+- pkg:maven/ai.picovoice/picovoice-java@1.1.3?classifier=sources

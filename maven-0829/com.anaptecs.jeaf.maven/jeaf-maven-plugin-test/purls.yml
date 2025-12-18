@@ -29,3 +29,5 @@
 - pkg:maven/com.anaptecs.jeaf.maven/jeaf-maven-plugin-test@1.5.9
 - pkg:maven/com.anaptecs.jeaf.maven/jeaf-maven-plugin-test@1.6.0
 - pkg:maven/com.anaptecs.jeaf.maven/jeaf-maven-plugin-test@1.6.0?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.maven/jeaf-maven-plugin-test@1.6.1
+- pkg:maven/com.anaptecs.jeaf.maven/jeaf-maven-plugin-test@1.6.1?classifier=sources

@@ -1,2 +1,10 @@
 - pkg:maven/io.github.jbock-java/jbock-compiler@5.0?classifier=sources
 - pkg:maven/io.github.jbock-java/jbock-compiler@5.1?classifier=sources
+- pkg:maven/io.github.jbock-java/jbock-compiler@5.2?classifier=sources
+- pkg:maven/io.github.jbock-java/jbock-compiler@5.3?classifier=sources
+- pkg:maven/io.github.jbock-java/jbock-compiler@5.4?classifier=sources
+- pkg:maven/io.github.jbock-java/jbock-compiler@5.5?classifier=sources
+- pkg:maven/io.github.jbock-java/jbock-compiler@5.6?classifier=sources
+- pkg:maven/io.github.jbock-java/jbock-compiler@5.7?classifier=sources
+- pkg:maven/io.github.jbock-java/jbock-compiler@5.8?classifier=sources
+- pkg:maven/io.github.jbock-java/jbock-compiler@5.9?classifier=sources

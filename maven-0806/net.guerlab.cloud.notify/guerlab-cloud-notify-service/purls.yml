@@ -1,0 +1,2 @@
+- pkg:maven/net.guerlab.cloud.notify/guerlab-cloud-notify-service@21.7.2
+- pkg:maven/net.guerlab.cloud.notify/guerlab-cloud-notify-service@21.7.2?classifier=sources

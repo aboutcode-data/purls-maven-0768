@@ -89,6 +89,8 @@
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.0.10.90?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.0.10.91?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.0.10.92?type=war
+- pkg:maven/com.liferay.plugins/powwow-portlet@7.0.10.93?type=war
+- pkg:maven/com.liferay.plugins/powwow-portlet@7.0.10.94?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.1.0.10?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.1.0.11?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.1.0.12?type=war
@@ -165,6 +167,8 @@
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.1.10.74?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.1.10.75?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.1.10.76?type=war
+- pkg:maven/com.liferay.plugins/powwow-portlet@7.1.10.77?type=war
+- pkg:maven/com.liferay.plugins/powwow-portlet@7.1.10.78?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.2.0.10?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.2.0.11?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.2.0.12?type=war
@@ -219,6 +223,7 @@
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.2.10.53?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.2.10.54?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.2.10.55?type=war
+- pkg:maven/com.liferay.plugins/powwow-portlet@7.2.10.56?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.10?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.11?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.12?type=war
@@ -247,6 +252,7 @@
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.34?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.35?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.36?type=war
+- pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.37?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.3?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.4?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.5?type=war

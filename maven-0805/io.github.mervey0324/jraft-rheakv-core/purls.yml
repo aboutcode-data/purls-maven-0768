@@ -4,3 +4,7 @@
 - pkg:maven/io.github.mervey0324/jraft-rheakv-core@1.3.6-mt-0.2?classifier=sources
 - pkg:maven/io.github.mervey0324/jraft-rheakv-core@1.3.6-mt-0.3
 - pkg:maven/io.github.mervey0324/jraft-rheakv-core@1.3.6-mt-0.3?classifier=sources
+- pkg:maven/io.github.mervey0324/jraft-rheakv-core@1.3.6-mt-0.4
+- pkg:maven/io.github.mervey0324/jraft-rheakv-core@1.3.6-mt-0.4?classifier=sources
+- pkg:maven/io.github.mervey0324/jraft-rheakv-core@1.3.6-mt-0.5
+- pkg:maven/io.github.mervey0324/jraft-rheakv-core@1.3.6-mt-0.5?classifier=sources

@@ -36,6 +36,8 @@
 - pkg:maven/com.graphql-java-generator/graphql-java-runtime@1.15?classifier=sources
 - pkg:maven/com.graphql-java-generator/graphql-java-runtime@1.16
 - pkg:maven/com.graphql-java-generator/graphql-java-runtime@1.16?classifier=sources
+- pkg:maven/com.graphql-java-generator/graphql-java-runtime@1.17
+- pkg:maven/com.graphql-java-generator/graphql-java-runtime@1.17?classifier=sources
 - pkg:maven/com.graphql-java-generator/graphql-java-runtime@1.2
 - pkg:maven/com.graphql-java-generator/graphql-java-runtime@1.2?classifier=sources
 - pkg:maven/com.graphql-java-generator/graphql-java-runtime@1.3

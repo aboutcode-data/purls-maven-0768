@@ -1,0 +1,8 @@
+- pkg:maven/io.github.implistarry/hotfix-sdk@1.12-RELEASE?classifier=sources
+- pkg:maven/io.github.implistarry/hotfix-sdk@1.12-RELEASE?type=aar
+- pkg:maven/io.github.implistarry/hotfix-sdk@1.13-RELEASE?classifier=sources
+- pkg:maven/io.github.implistarry/hotfix-sdk@1.13-RELEASE?type=aar
+- pkg:maven/io.github.implistarry/hotfix-sdk@1.14-RELEASE?classifier=sources
+- pkg:maven/io.github.implistarry/hotfix-sdk@1.14-RELEASE?type=aar
+- pkg:maven/io.github.implistarry/hotfix-sdk@1.15-RELEASE?classifier=sources
+- pkg:maven/io.github.implistarry/hotfix-sdk@1.15-RELEASE?type=aar

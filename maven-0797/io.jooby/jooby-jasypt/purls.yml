@@ -1,3 +1,5 @@
+- pkg:maven/io.jooby/jooby-jasypt@2.10.0
+- pkg:maven/io.jooby/jooby-jasypt@2.10.0?classifier=sources
 - pkg:maven/io.jooby/jooby-jasypt@2.9.4
 - pkg:maven/io.jooby/jooby-jasypt@2.9.4?classifier=sources
 - pkg:maven/io.jooby/jooby-jasypt@2.9.5

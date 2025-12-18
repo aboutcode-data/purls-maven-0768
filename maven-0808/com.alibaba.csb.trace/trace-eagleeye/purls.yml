@@ -1,3 +1,5 @@
+- pkg:maven/com.alibaba.csb.trace/trace-eagleeye@1.1.5.11
+- pkg:maven/com.alibaba.csb.trace/trace-eagleeye@1.1.5.11?classifier=sources
 - pkg:maven/com.alibaba.csb.trace/trace-eagleeye@1.1.5.7
 - pkg:maven/com.alibaba.csb.trace/trace-eagleeye@1.1.5.7?classifier=sources
 - pkg:maven/com.alibaba.csb.trace/trace-eagleeye@1.1.5.8

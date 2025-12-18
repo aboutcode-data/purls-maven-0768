@@ -84,6 +84,10 @@
 - pkg:maven/com.google.cloud/google-cloud-resourcemanager@0.119.6-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-resourcemanager@0.119.7-alpha
 - pkg:maven/com.google.cloud/google-cloud-resourcemanager@0.119.7-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-resourcemanager@0.119.8-alpha
+- pkg:maven/com.google.cloud/google-cloud-resourcemanager@0.119.8-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-resourcemanager@0.119.9-alpha
+- pkg:maven/com.google.cloud/google-cloud-resourcemanager@0.119.9-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-resourcemanager@0.12.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-resourcemanager@0.12.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-resourcemanager@0.13.0-alpha
@@ -308,3 +312,7 @@
 - pkg:maven/com.google.cloud/google-cloud-resourcemanager@0.98.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-resourcemanager@0.99.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-resourcemanager@0.99.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-resourcemanager@1.0.0
+- pkg:maven/com.google.cloud/google-cloud-resourcemanager@1.0.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-resourcemanager@1.0.1
+- pkg:maven/com.google.cloud/google-cloud-resourcemanager@1.0.1?classifier=sources

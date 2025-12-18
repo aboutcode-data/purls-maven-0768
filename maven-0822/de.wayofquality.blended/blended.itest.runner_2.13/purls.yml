@@ -21,4 +21,6 @@
 - pkg:maven/de.wayofquality.blended/blended.itest.runner_2.13@3.2.8?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.itest.runner_2.13@3.2?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.itest.runner_2.13@3.3
+- pkg:maven/de.wayofquality.blended/blended.itest.runner_2.13@3.3.1
+- pkg:maven/de.wayofquality.blended/blended.itest.runner_2.13@3.3.1?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.itest.runner_2.13@3.3?classifier=sources

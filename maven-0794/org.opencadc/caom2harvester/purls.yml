@@ -1,1 +1,2 @@
 - pkg:maven/org.opencadc/caom2harvester@2.5.4?classifier=sources
+- pkg:maven/org.opencadc/caom2harvester@2.5.5?classifier=sources

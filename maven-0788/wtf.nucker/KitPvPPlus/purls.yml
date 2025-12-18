@@ -1,0 +1,10 @@
+- pkg:maven/wtf.nucker/KitPvPPlus@0.2
+- pkg:maven/wtf.nucker/KitPvPPlus@0.2.1
+- pkg:maven/wtf.nucker/KitPvPPlus@0.2.1-HOTFIX
+- pkg:maven/wtf.nucker/KitPvPPlus@0.2.1-HOTFIX?classifier=sources
+- pkg:maven/wtf.nucker/KitPvPPlus@0.2.1?classifier=sources
+- pkg:maven/wtf.nucker/KitPvPPlus@0.2.2
+- pkg:maven/wtf.nucker/KitPvPPlus@0.2.2?classifier=sources
+- pkg:maven/wtf.nucker/KitPvPPlus@0.2?classifier=sources
+- pkg:maven/wtf.nucker/KitPvPPlus@0.3.0
+- pkg:maven/wtf.nucker/KitPvPPlus@0.3.0?classifier=sources

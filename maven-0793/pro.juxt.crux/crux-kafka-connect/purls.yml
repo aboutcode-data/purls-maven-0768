@@ -1,2 +1,12 @@
+- pkg:maven/pro.juxt.crux/crux-kafka-connect@1.17.1
 - pkg:maven/pro.juxt.crux/crux-kafka-connect@1.17.1-rc1
 - pkg:maven/pro.juxt.crux/crux-kafka-connect@1.17.1-rc1?classifier=sources
+- pkg:maven/pro.juxt.crux/crux-kafka-connect@1.17.1?classifier=sources
+- pkg:maven/pro.juxt.crux/crux-kafka-connect@1.18.0
+- pkg:maven/pro.juxt.crux/crux-kafka-connect@1.18.0-rc1
+- pkg:maven/pro.juxt.crux/crux-kafka-connect@1.18.0-rc1?classifier=sources
+- pkg:maven/pro.juxt.crux/crux-kafka-connect@1.18.0?classifier=sources
+- pkg:maven/pro.juxt.crux/crux-kafka-connect@1.18.1
+- pkg:maven/pro.juxt.crux/crux-kafka-connect@1.18.1-beta1
+- pkg:maven/pro.juxt.crux/crux-kafka-connect@1.18.1-beta1?classifier=sources
+- pkg:maven/pro.juxt.crux/crux-kafka-connect@1.18.1?classifier=sources

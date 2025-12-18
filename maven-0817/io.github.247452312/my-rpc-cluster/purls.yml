@@ -1,0 +1,4 @@
+- pkg:maven/io.github.247452312/my-rpc-cluster@1.0.0.my
+- pkg:maven/io.github.247452312/my-rpc-cluster@1.0.0.my?classifier=sources
+- pkg:maven/io.github.247452312/my-rpc-cluster@1.0.2.my
+- pkg:maven/io.github.247452312/my-rpc-cluster@1.0.2.my?classifier=sources

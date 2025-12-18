@@ -147,3 +147,11 @@
 - pkg:maven/com.didiglobal.booster/booster-transform-spi@3.3.1-rc2?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-spi@3.3.1-rc3?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-spi@3.3.1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-spi@3.4.0-alpha1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-spi@3.4.0-alpha2?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-spi@3.4.0-alpha3?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-spi@3.4.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-spi@3.5.0-alpha1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-spi@3.5.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-spi@4.0.0-alpha1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-spi@4.0.0-alpha2?classifier=sources

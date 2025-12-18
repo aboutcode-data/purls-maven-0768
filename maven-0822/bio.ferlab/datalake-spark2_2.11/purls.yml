@@ -30,3 +30,17 @@
 - pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.44?classifier=sources
 - pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.45
 - pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.45?classifier=sources
+- pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.46
+- pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.46?classifier=sources
+- pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.49
+- pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.49?classifier=sources
+- pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.50
+- pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.50?classifier=sources
+- pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.51
+- pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.51?classifier=sources
+- pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.52
+- pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.52?classifier=sources
+- pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.53
+- pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.53?classifier=sources
+- pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.54
+- pkg:maven/bio.ferlab/datalake-spark2_2.11@0.0.54?classifier=sources

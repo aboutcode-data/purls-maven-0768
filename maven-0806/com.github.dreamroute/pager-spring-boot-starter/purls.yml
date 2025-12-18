@@ -20,3 +20,7 @@
 - pkg:maven/com.github.dreamroute/pager-spring-boot-starter@1.9-RELEASE?classifier=sources
 - pkg:maven/com.github.dreamroute/pager-spring-boot-starter@2.0-RELEASE
 - pkg:maven/com.github.dreamroute/pager-spring-boot-starter@2.0-RELEASE?classifier=sources
+- pkg:maven/com.github.dreamroute/pager-spring-boot-starter@2.1-RELEASE
+- pkg:maven/com.github.dreamroute/pager-spring-boot-starter@2.1-RELEASE?classifier=sources
+- pkg:maven/com.github.dreamroute/pager-spring-boot-starter@2.2-RELEASE
+- pkg:maven/com.github.dreamroute/pager-spring-boot-starter@2.2-RELEASE?classifier=sources

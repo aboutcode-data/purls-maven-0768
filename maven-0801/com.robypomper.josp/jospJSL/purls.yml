@@ -1,0 +1,2 @@
+- pkg:maven/com.robypomper.josp/jospJSL@2.2.0-alpha?classifier=sources
+- pkg:maven/com.robypomper.josp/jospJSL@2.2.0?classifier=sources

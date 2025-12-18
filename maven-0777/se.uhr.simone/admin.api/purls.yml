@@ -26,3 +26,5 @@
 - pkg:maven/se.uhr.simone/admin.api@3.1.2?classifier=sources
 - pkg:maven/se.uhr.simone/admin.api@3.2.0
 - pkg:maven/se.uhr.simone/admin.api@3.2.0?classifier=sources
+- pkg:maven/se.uhr.simone/admin.api@3.3.0
+- pkg:maven/se.uhr.simone/admin.api@3.3.0?classifier=sources

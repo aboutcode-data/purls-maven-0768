@@ -9,3 +9,5 @@
 - pkg:maven/fish.payara.arquillian/payara-client-ee8@2.4
 - pkg:maven/fish.payara.arquillian/payara-client-ee8@2.4.1
 - pkg:maven/fish.payara.arquillian/payara-client-ee8@2.4.2
+- pkg:maven/fish.payara.arquillian/payara-client-ee8@2.4.3
+- pkg:maven/fish.payara.arquillian/payara-client-ee8@2.4.4

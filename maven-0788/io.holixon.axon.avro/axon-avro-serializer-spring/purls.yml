@@ -1,0 +1,2 @@
+- pkg:maven/io.holixon.axon.avro/axon-avro-serializer-spring@0.0.4
+- pkg:maven/io.holixon.axon.avro/axon-avro-serializer-spring@0.0.4?classifier=sources

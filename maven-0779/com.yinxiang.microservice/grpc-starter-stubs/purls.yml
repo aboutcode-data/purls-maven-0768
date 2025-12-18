@@ -1,0 +1,2 @@
+- pkg:maven/com.yinxiang.microservice/grpc-starter-stubs@1.0.0
+- pkg:maven/com.yinxiang.microservice/grpc-starter-stubs@1.0.0?classifier=sources

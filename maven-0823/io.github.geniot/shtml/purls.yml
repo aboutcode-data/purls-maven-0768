@@ -1,0 +1,2 @@
+- pkg:maven/io.github.geniot/shtml@1.0
+- pkg:maven/io.github.geniot/shtml@1.0?classifier=sources

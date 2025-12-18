@@ -2,3 +2,9 @@
 - pkg:maven/com.datastax.oss/pulsar-jms-all@1.0.0-ALPHA
 - pkg:maven/com.datastax.oss/pulsar-jms-all@1.0.0-ALPHA?classifier=sources
 - pkg:maven/com.datastax.oss/pulsar-jms-all@1.0.0?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-all@1.1.0
+- pkg:maven/com.datastax.oss/pulsar-jms-all@1.1.0?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-all@1.2.0
+- pkg:maven/com.datastax.oss/pulsar-jms-all@1.2.0?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-all@1.2.1
+- pkg:maven/com.datastax.oss/pulsar-jms-all@1.2.1?classifier=sources

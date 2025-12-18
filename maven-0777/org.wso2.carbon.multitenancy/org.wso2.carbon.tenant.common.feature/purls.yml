@@ -22,6 +22,9 @@
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.common.feature@4.9.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.common.feature@4.9.11?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.common.feature@4.9.12?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.common.feature@4.9.13?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.common.feature@4.9.14?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.common.feature@4.9.15?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.common.feature@4.9.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.common.feature@4.9.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.common.feature@4.9.3?classifier=source-release&type=zip

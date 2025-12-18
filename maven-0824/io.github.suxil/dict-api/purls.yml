@@ -1,0 +1,4 @@
+- pkg:maven/io.github.suxil/dict-api@0.0.8
+- pkg:maven/io.github.suxil/dict-api@0.0.8?classifier=sources
+- pkg:maven/io.github.suxil/dict-api@1.0.1
+- pkg:maven/io.github.suxil/dict-api@1.0.1?classifier=sources

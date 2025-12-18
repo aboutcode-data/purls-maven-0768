@@ -1,2 +1,6 @@
 - pkg:maven/de.sciss/lucre-synth_3@4.7.6
 - pkg:maven/de.sciss/lucre-synth_3@4.7.6?classifier=sources
+- pkg:maven/de.sciss/lucre-synth_3@4.7.7
+- pkg:maven/de.sciss/lucre-synth_3@4.7.7?classifier=sources
+- pkg:maven/de.sciss/lucre-synth_3@4.8.0
+- pkg:maven/de.sciss/lucre-synth_3@4.8.0?classifier=sources

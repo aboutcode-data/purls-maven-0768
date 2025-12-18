@@ -92,6 +92,7 @@
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.12@2.7.4?classifier=sources
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.12@2.7.5
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.12@2.7.5?classifier=sources
+- pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.0.0
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.0.0-RC1
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.0.0-RC1?classifier=sources
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.0.0-RC2
@@ -102,3 +103,8 @@
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.0.0-RC4?classifier=sources
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.0.0-RC5
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.0.0-RC5?classifier=sources
+- pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.0.0-RC6
+- pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.0.0-RC6?classifier=sources
+- pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.0.0-RC7
+- pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.0.0-RC7?classifier=sources
+- pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.0.0?classifier=sources

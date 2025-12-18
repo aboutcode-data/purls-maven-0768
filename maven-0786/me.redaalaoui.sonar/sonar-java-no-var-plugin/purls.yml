@@ -1,0 +1,2 @@
+- pkg:maven/me.redaalaoui.sonar/sonar-java-no-var-plugin@1.0?classifier=sources
+- pkg:maven/me.redaalaoui.sonar/sonar-java-no-var-plugin@1.1?classifier=sources

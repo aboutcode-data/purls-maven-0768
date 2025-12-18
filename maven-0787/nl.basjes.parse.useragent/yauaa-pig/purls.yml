@@ -100,3 +100,5 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-pig@5.8?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-pig@5.9
 - pkg:maven/nl.basjes.parse.useragent/yauaa-pig@5.9?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-pig@6.0
+- pkg:maven/nl.basjes.parse.useragent/yauaa-pig@6.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.suxil/spring-boot-starter-dict-server@0.0.8
+- pkg:maven/io.github.suxil/spring-boot-starter-dict-server@0.0.8?classifier=sources
+- pkg:maven/io.github.suxil/spring-boot-starter-dict-server@1.0.1
+- pkg:maven/io.github.suxil/spring-boot-starter-dict-server@1.0.1?classifier=sources

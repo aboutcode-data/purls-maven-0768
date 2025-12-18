@@ -1,0 +1,4 @@
+- pkg:maven/tech.grasshopper/extentreports-merge-cli@1.0
+- pkg:maven/tech.grasshopper/extentreports-merge-cli@1.0?classifier=sources
+- pkg:maven/tech.grasshopper/extentreports-merge-cli@1.1
+- pkg:maven/tech.grasshopper/extentreports-merge-cli@1.1?classifier=sources

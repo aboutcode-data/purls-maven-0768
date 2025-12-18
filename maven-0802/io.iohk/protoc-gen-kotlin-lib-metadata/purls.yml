@@ -1,0 +1,1 @@
+- pkg:maven/io.iohk/protoc-gen-kotlin-lib-metadata@0.20.1?classifier=sources

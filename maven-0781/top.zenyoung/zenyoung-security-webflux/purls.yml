@@ -100,3 +100,5 @@
 - pkg:maven/top.zenyoung/zenyoung-security-webflux@1.9.9?classifier=sources
 - pkg:maven/top.zenyoung/zenyoung-security-webflux@2.0.0
 - pkg:maven/top.zenyoung/zenyoung-security-webflux@2.0.0?classifier=sources
+- pkg:maven/top.zenyoung/zenyoung-security-webflux@2.0.1
+- pkg:maven/top.zenyoung/zenyoung-security-webflux@2.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.minlessika.incubator/takes-utils@0.1.2
+- pkg:maven/com.minlessika.incubator/takes-utils@0.1.2?classifier=sources

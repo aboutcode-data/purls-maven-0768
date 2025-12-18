@@ -2,3 +2,11 @@
 - pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.1.15?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.1.16
 - pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.1.16?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.2.0
+- pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.2.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.2.1
+- pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.2.1?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.2.2
+- pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.2.2?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.3.0
+- pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.3.0?classifier=sources

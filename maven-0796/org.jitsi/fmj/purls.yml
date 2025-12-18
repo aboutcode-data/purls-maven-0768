@@ -2,3 +2,5 @@
 - pkg:maven/org.jitsi/fmj@1.0.0-jitsi?classifier=sources
 - pkg:maven/org.jitsi/fmj@1.0.1-jitsi
 - pkg:maven/org.jitsi/fmj@1.0.1-jitsi?classifier=sources
+- pkg:maven/org.jitsi/fmj@1.0.2-jitsi
+- pkg:maven/org.jitsi/fmj@1.0.2-jitsi?classifier=sources

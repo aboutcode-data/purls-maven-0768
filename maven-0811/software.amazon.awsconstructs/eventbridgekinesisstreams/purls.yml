@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisstreams@1.115.0
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisstreams@1.115.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisstreams@1.116.0
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisstreams@1.116.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisstreams@1.117.0
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisstreams@1.117.0?classifier=sources

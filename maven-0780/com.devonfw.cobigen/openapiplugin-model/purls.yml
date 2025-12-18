@@ -10,6 +10,8 @@
 - pkg:maven/com.devonfw.cobigen/openapiplugin-model@2.3.0?classifier=sources
 - pkg:maven/com.devonfw.cobigen/openapiplugin-model@2.4.0
 - pkg:maven/com.devonfw.cobigen/openapiplugin-model@2.4.0?classifier=sources
+- pkg:maven/com.devonfw.cobigen/openapiplugin-model@2021.08.001
+- pkg:maven/com.devonfw.cobigen/openapiplugin-model@2021.08.001?classifier=sources
 - pkg:maven/com.devonfw.cobigen/openapiplugin-model@7.0.0
 - pkg:maven/com.devonfw.cobigen/openapiplugin-model@7.0.0?classifier=sources
 - pkg:maven/com.devonfw.cobigen/openapiplugin-model@7.1.0

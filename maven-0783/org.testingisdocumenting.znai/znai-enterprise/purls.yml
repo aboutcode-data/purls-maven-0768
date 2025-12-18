@@ -36,3 +36,5 @@
 - pkg:maven/org.testingisdocumenting.znai/znai-enterprise@1.49?classifier=sources
 - pkg:maven/org.testingisdocumenting.znai/znai-enterprise@1.50
 - pkg:maven/org.testingisdocumenting.znai/znai-enterprise@1.50?classifier=sources
+- pkg:maven/org.testingisdocumenting.znai/znai-enterprise@1.51
+- pkg:maven/org.testingisdocumenting.znai/znai-enterprise@1.51?classifier=sources

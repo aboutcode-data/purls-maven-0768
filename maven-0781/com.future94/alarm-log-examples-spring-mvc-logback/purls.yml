@@ -1,0 +1,2 @@
+- pkg:maven/com.future94/alarm-log-examples-spring-mvc-logback@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.future94/alarm-log-examples-spring-mvc-logback@1.0.0.RELEASE?type=war

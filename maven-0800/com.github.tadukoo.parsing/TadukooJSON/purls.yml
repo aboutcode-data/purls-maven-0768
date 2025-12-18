@@ -6,3 +6,5 @@
 - pkg:maven/com.github.tadukoo.parsing/TadukooJSON@0.2.3-Alpha?classifier=sources
 - pkg:maven/com.github.tadukoo.parsing/TadukooJSON@0.3-Alpha
 - pkg:maven/com.github.tadukoo.parsing/TadukooJSON@0.3-Alpha?classifier=sources
+- pkg:maven/com.github.tadukoo.parsing/TadukooJSON@0.3.1-Alpha
+- pkg:maven/com.github.tadukoo.parsing/TadukooJSON@0.3.1-Alpha?classifier=sources

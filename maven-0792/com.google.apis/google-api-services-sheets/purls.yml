@@ -254,6 +254,10 @@
 - pkg:maven/com.google.apis/google-api-services-sheets@v4-rev20210527-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sheets@v4-rev20210527-1.31.5
 - pkg:maven/com.google.apis/google-api-services-sheets@v4-rev20210527-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sheets@v4-rev20210527-1.32.1
+- pkg:maven/com.google.apis/google-api-services-sheets@v4-rev20210527-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sheets@v4-rev20210629-1.32.1
+- pkg:maven/com.google.apis/google-api-services-sheets@v4-rev20210629-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sheets@v4-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-sheets@v4-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sheets@v4-rev21-1.20.0
