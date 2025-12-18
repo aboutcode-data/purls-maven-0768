@@ -1,0 +1,4 @@
+- pkg:maven/com.github.hushengte/disciples-spring-boot-autoconfigure@1.4.1.RELEASE
+- pkg:maven/com.github.hushengte/disciples-spring-boot-autoconfigure@1.4.1.RELEASE?classifier=sources
+- pkg:maven/com.github.hushengte/disciples-spring-boot-autoconfigure@1.5.22.RELEASE
+- pkg:maven/com.github.hushengte/disciples-spring-boot-autoconfigure@1.5.22.RELEASE?classifier=sources

@@ -12,3 +12,9 @@
 - pkg:maven/com.github.psi-probe/psi-probe-web@3.3.1?type=war
 - pkg:maven/com.github.psi-probe/psi-probe-web@3.4.2?classifier=sources
 - pkg:maven/com.github.psi-probe/psi-probe-web@3.4.2?type=war
+- pkg:maven/com.github.psi-probe/psi-probe-web@3.4.3?classifier=sources
+- pkg:maven/com.github.psi-probe/psi-probe-web@3.4.3?type=war
+- pkg:maven/com.github.psi-probe/psi-probe-web@3.4.4?classifier=sources
+- pkg:maven/com.github.psi-probe/psi-probe-web@3.4.4?type=war
+- pkg:maven/com.github.psi-probe/psi-probe-web@3.4.5?classifier=sources
+- pkg:maven/com.github.psi-probe/psi-probe-web@3.4.5?type=war

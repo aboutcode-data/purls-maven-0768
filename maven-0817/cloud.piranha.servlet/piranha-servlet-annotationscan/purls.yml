@@ -1,0 +1,6 @@
+- pkg:maven/cloud.piranha.servlet/piranha-servlet-annotationscan@20.2.0
+- pkg:maven/cloud.piranha.servlet/piranha-servlet-annotationscan@20.2.0?classifier=sources
+- pkg:maven/cloud.piranha.servlet/piranha-servlet-annotationscan@20.3.0
+- pkg:maven/cloud.piranha.servlet/piranha-servlet-annotationscan@20.3.0?classifier=sources
+- pkg:maven/cloud.piranha.servlet/piranha-servlet-annotationscan@20.4.0
+- pkg:maven/cloud.piranha.servlet/piranha-servlet-annotationscan@20.4.0?classifier=sources

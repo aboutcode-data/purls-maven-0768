@@ -13,3 +13,4 @@
 - pkg:maven/org.jboss.da/communication@1.4.1?classifier=sources
 - pkg:maven/org.jboss.da/communication@1.5.0?classifier=sources
 - pkg:maven/org.jboss.da/communication@1.7.0?classifier=sources
+- pkg:maven/org.jboss.da/communication@1.8.0?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/com.yesql4j/yesql4j-maven-plugin@0.1-beta
+- pkg:maven/com.yesql4j/yesql4j-maven-plugin@0.1-beta?classifier=sources
+- pkg:maven/com.yesql4j/yesql4j-maven-plugin@0.1.1-beta
+- pkg:maven/com.yesql4j/yesql4j-maven-plugin@0.1.1-beta?classifier=sources
+- pkg:maven/com.yesql4j/yesql4j-maven-plugin@0.1.2-beta
+- pkg:maven/com.yesql4j/yesql4j-maven-plugin@0.1.2-beta?classifier=sources
+- pkg:maven/com.yesql4j/yesql4j-maven-plugin@0.1.3-beta
+- pkg:maven/com.yesql4j/yesql4j-maven-plugin@0.1.3-beta?classifier=sources
+- pkg:maven/com.yesql4j/yesql4j-maven-plugin@0.1.4-beta
+- pkg:maven/com.yesql4j/yesql4j-maven-plugin@0.1.4-beta?classifier=sources
+- pkg:maven/com.yesql4j/yesql4j-maven-plugin@0.1.5-beta
+- pkg:maven/com.yesql4j/yesql4j-maven-plugin@0.1.5-beta?classifier=sources
+- pkg:maven/com.yesql4j/yesql4j-maven-plugin@0.1.6-beta
+- pkg:maven/com.yesql4j/yesql4j-maven-plugin@0.1.6-beta?classifier=sources

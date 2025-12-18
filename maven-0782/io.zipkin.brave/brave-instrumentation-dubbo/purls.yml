@@ -1,3 +1,15 @@
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.10.0
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.10.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.10.1
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.10.1?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.10.2
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.10.2?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.11.0
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.11.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.11.1
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.11.1?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.11.2
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.11.2?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.8.0
 - pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.8.0?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.9.0
@@ -8,3 +20,7 @@
 - pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.9.2?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.9.3
 - pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.9.3?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.9.4
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.9.4?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.9.5
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@5.9.5?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.gu.play-googleauth/play-v26_2.12@1.0.2?classifier=sources
 - pkg:maven/com.gu.play-googleauth/play-v26_2.12@1.0.3
 - pkg:maven/com.gu.play-googleauth/play-v26_2.12@1.0.3?classifier=sources
+- pkg:maven/com.gu.play-googleauth/play-v26_2.12@1.0.4
+- pkg:maven/com.gu.play-googleauth/play-v26_2.12@1.0.4?classifier=sources

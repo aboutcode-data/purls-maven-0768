@@ -98,3 +98,13 @@
 - pkg:maven/com.google.javascript/closure-compiler-unshaded@v20200101?classifier=sources
 - pkg:maven/com.google.javascript/closure-compiler-unshaded@v20200112
 - pkg:maven/com.google.javascript/closure-compiler-unshaded@v20200112?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20200204
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20200204?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20200224
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20200224?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20200315
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20200315?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20200406
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20200406?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20200426
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20200426?classifier=sources

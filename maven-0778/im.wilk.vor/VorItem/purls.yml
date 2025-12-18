@@ -1,0 +1,2 @@
+- pkg:maven/im.wilk.vor/VorItem@1.0
+- pkg:maven/im.wilk.vor/VorItem@1.0?classifier=sources

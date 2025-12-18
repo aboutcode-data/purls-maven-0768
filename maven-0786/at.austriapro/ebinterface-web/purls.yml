@@ -2,3 +2,5 @@
 - pkg:maven/at.austriapro/ebinterface-web@1.0.7?type=war
 - pkg:maven/at.austriapro/ebinterface-web@1.0.8?classifier=sources
 - pkg:maven/at.austriapro/ebinterface-web@1.0.8?type=war
+- pkg:maven/at.austriapro/ebinterface-web@1.0.9?classifier=sources
+- pkg:maven/at.austriapro/ebinterface-web@1.0.9?type=war

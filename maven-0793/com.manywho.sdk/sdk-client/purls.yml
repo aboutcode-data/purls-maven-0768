@@ -22,6 +22,7 @@
 - pkg:maven/com.manywho.sdk/sdk-client@1.24.0?classifier=sources
 - pkg:maven/com.manywho.sdk/sdk-client@1.25.0
 - pkg:maven/com.manywho.sdk/sdk-client@1.25.0?classifier=sources
+- pkg:maven/com.manywho.sdk/sdk-client@2.0.0
 - pkg:maven/com.manywho.sdk/sdk-client@2.0.0-SNAPSHOT-66
 - pkg:maven/com.manywho.sdk/sdk-client@2.0.0-SNAPSHOT-66?classifier=sources
 - pkg:maven/com.manywho.sdk/sdk-client@2.0.0-beta-01
@@ -42,3 +43,14 @@
 - pkg:maven/com.manywho.sdk/sdk-client@2.0.0-beta-08?classifier=sources
 - pkg:maven/com.manywho.sdk/sdk-client@2.0.0-beta-09
 - pkg:maven/com.manywho.sdk/sdk-client@2.0.0-beta-09?classifier=sources
+- pkg:maven/com.manywho.sdk/sdk-client@2.0.0-beta-10
+- pkg:maven/com.manywho.sdk/sdk-client@2.0.0-beta-10?classifier=sources
+- pkg:maven/com.manywho.sdk/sdk-client@2.0.0-beta-11
+- pkg:maven/com.manywho.sdk/sdk-client@2.0.0-beta-11?classifier=sources
+- pkg:maven/com.manywho.sdk/sdk-client@2.0.0-beta-12
+- pkg:maven/com.manywho.sdk/sdk-client@2.0.0-beta-12?classifier=sources
+- pkg:maven/com.manywho.sdk/sdk-client@2.0.0-beta-13
+- pkg:maven/com.manywho.sdk/sdk-client@2.0.0-beta-13?classifier=sources
+- pkg:maven/com.manywho.sdk/sdk-client@2.0.0?classifier=sources
+- pkg:maven/com.manywho.sdk/sdk-client@2.0.1
+- pkg:maven/com.manywho.sdk/sdk-client@2.0.1?classifier=sources

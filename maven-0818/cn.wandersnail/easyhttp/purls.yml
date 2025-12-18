@@ -12,3 +12,9 @@
 - pkg:maven/cn.wandersnail/easyhttp@1.0.6?type=aar
 - pkg:maven/cn.wandersnail/easyhttp@1.0.8?classifier=sources
 - pkg:maven/cn.wandersnail/easyhttp@1.0.8?type=aar
+- pkg:maven/cn.wandersnail/easyhttp@1.1.0?classifier=sources
+- pkg:maven/cn.wandersnail/easyhttp@1.1.0?type=aar
+- pkg:maven/cn.wandersnail/easyhttp@1.1.1?classifier=sources
+- pkg:maven/cn.wandersnail/easyhttp@1.1.1?type=aar
+- pkg:maven/cn.wandersnail/easyhttp@1.1.2?classifier=sources
+- pkg:maven/cn.wandersnail/easyhttp@1.1.2?type=aar

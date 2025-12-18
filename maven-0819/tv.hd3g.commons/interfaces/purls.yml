@@ -1,2 +1,6 @@
 - pkg:maven/tv.hd3g.commons/interfaces@0.0.1
 - pkg:maven/tv.hd3g.commons/interfaces@0.0.1?classifier=sources
+- pkg:maven/tv.hd3g.commons/interfaces@0.1.0
+- pkg:maven/tv.hd3g.commons/interfaces@0.1.0?classifier=sources
+- pkg:maven/tv.hd3g.commons/interfaces@0.2.0
+- pkg:maven/tv.hd3g.commons/interfaces@0.2.0?classifier=sources

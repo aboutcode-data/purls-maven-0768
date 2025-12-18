@@ -28,3 +28,6 @@
 - pkg:maven/io.prestosql/presto-thrift@327?classifier=sources
 - pkg:maven/io.prestosql/presto-thrift@328?classifier=sources
 - pkg:maven/io.prestosql/presto-thrift@329?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift@330?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift@331?classifier=sources
+- pkg:maven/io.prestosql/presto-thrift@332?classifier=sources

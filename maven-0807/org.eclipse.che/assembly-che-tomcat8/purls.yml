@@ -1,3 +1,7 @@
+- pkg:maven/org.eclipse.che/assembly-che-tomcat8@7.10.0?type=zip
+- pkg:maven/org.eclipse.che/assembly-che-tomcat8@7.11.0?type=zip
+- pkg:maven/org.eclipse.che/assembly-che-tomcat8@7.12.0?type=zip
+- pkg:maven/org.eclipse.che/assembly-che-tomcat8@7.12.1?type=zip
 - pkg:maven/org.eclipse.che/assembly-che-tomcat8@7.3.0?type=zip
 - pkg:maven/org.eclipse.che/assembly-che-tomcat8@7.3.1?type=zip
 - pkg:maven/org.eclipse.che/assembly-che-tomcat8@7.3.2?type=zip
@@ -10,3 +14,7 @@
 - pkg:maven/org.eclipse.che/assembly-che-tomcat8@7.7.1?type=zip
 - pkg:maven/org.eclipse.che/assembly-che-tomcat8@7.7.1b?type=zip
 - pkg:maven/org.eclipse.che/assembly-che-tomcat8@7.8.0?type=zip
+- pkg:maven/org.eclipse.che/assembly-che-tomcat8@7.9.0?type=zip
+- pkg:maven/org.eclipse.che/assembly-che-tomcat8@7.9.1?type=zip
+- pkg:maven/org.eclipse.che/assembly-che-tomcat8@7.9.2?type=zip
+- pkg:maven/org.eclipse.che/assembly-che-tomcat8@7.9.3?type=zip

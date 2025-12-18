@@ -1,0 +1,2 @@
+- pkg:maven/org.bedework.bwwebcl/bw-calendar-client-util@3.13.2
+- pkg:maven/org.bedework.bwwebcl/bw-calendar-client-util@3.13.2?classifier=sources

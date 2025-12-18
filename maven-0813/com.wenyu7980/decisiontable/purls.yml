@@ -1,0 +1,2 @@
+- pkg:maven/com.wenyu7980/decisiontable@2.0.0
+- pkg:maven/com.wenyu7980/decisiontable@2.0.0?classifier=sources

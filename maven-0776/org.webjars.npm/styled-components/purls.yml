@@ -10,6 +10,8 @@
 - pkg:maven/org.webjars.npm/styled-components@3.4.5?classifier=sources
 - pkg:maven/org.webjars.npm/styled-components@3.4.8
 - pkg:maven/org.webjars.npm/styled-components@3.4.8?classifier=sources
+- pkg:maven/org.webjars.npm/styled-components@3.4.9
+- pkg:maven/org.webjars.npm/styled-components@3.4.9?classifier=sources
 - pkg:maven/org.webjars.npm/styled-components@4.0.0
 - pkg:maven/org.webjars.npm/styled-components@4.0.0-beta.0
 - pkg:maven/org.webjars.npm/styled-components@4.0.0-beta.0?classifier=sources
@@ -48,3 +50,5 @@
 - pkg:maven/org.webjars.npm/styled-components@5.0.0-beta.8?classifier=sources
 - pkg:maven/org.webjars.npm/styled-components@5.0.0-regexrehydrate
 - pkg:maven/org.webjars.npm/styled-components@5.0.0-regexrehydrate?classifier=sources
+- pkg:maven/org.webjars.npm/styled-components@5.0.1
+- pkg:maven/org.webjars.npm/styled-components@5.0.1?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.webjars.bower/webrtc-adapter@7.2.8?classifier=sources
 - pkg:maven/org.webjars.bower/webrtc-adapter@7.2.9
 - pkg:maven/org.webjars.bower/webrtc-adapter@7.2.9?classifier=sources
+- pkg:maven/org.webjars.bower/webrtc-adapter@7.4.0
+- pkg:maven/org.webjars.bower/webrtc-adapter@7.4.0?classifier=sources

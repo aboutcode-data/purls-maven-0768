@@ -38,3 +38,9 @@
 - pkg:maven/com.github.biticcf/mountain-core@7.1.RELEASE?classifier=sources
 - pkg:maven/com.github.biticcf/mountain-core@7.2.RELEASE
 - pkg:maven/com.github.biticcf/mountain-core@7.2.RELEASE?classifier=sources
+- pkg:maven/com.github.biticcf/mountain-core@7.3.RELEASE
+- pkg:maven/com.github.biticcf/mountain-core@7.3.RELEASE?classifier=sources
+- pkg:maven/com.github.biticcf/mountain-core@7.4.RELEASE
+- pkg:maven/com.github.biticcf/mountain-core@7.4.RELEASE?classifier=sources
+- pkg:maven/com.github.biticcf/mountain-core@7.5.RELEASE
+- pkg:maven/com.github.biticcf/mountain-core@7.5.RELEASE?classifier=sources

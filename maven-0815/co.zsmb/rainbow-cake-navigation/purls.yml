@@ -12,3 +12,4 @@
 - pkg:maven/co.zsmb/rainbow-cake-navigation@0.4.4?type=aar
 - pkg:maven/co.zsmb/rainbow-cake-navigation@0.5.0?classifier=sources
 - pkg:maven/co.zsmb/rainbow-cake-navigation@0.5.0?type=aar
+- pkg:maven/co.zsmb/rainbow-cake-navigation@0.6.0?classifier=sources

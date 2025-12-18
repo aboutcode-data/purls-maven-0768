@@ -14,3 +14,5 @@
 - pkg:maven/com.busymachines/pureharm-db-core-flyway_2.13@0.0.4?classifier=sources
 - pkg:maven/com.busymachines/pureharm-db-core-flyway_2.13@0.0.5-RC1
 - pkg:maven/com.busymachines/pureharm-db-core-flyway_2.13@0.0.5-RC1?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-core-flyway_2.13@0.0.5-RC2
+- pkg:maven/com.busymachines/pureharm-db-core-flyway_2.13@0.0.5-RC2?classifier=sources

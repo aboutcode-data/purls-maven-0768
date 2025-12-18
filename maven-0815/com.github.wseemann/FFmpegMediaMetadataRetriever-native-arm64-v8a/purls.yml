@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wseemann/FFmpegMediaMetadataRetriever-native-arm64-v8a@1.0.15?classifier=sources
+- pkg:maven/com.github.wseemann/FFmpegMediaMetadataRetriever-native-arm64-v8a@1.0.15?type=aar

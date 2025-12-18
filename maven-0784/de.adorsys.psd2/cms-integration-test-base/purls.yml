@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.psd2/cms-integration-test-base@7.3
+- pkg:maven/de.adorsys.psd2/cms-integration-test-base@7.3?classifier=sources

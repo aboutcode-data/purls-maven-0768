@@ -10,3 +10,7 @@
 - pkg:maven/tk.labyrinth/jaap-testing@0.2.2c?classifier=sources
 - pkg:maven/tk.labyrinth/jaap-testing@0.2.3
 - pkg:maven/tk.labyrinth/jaap-testing@0.2.3?classifier=sources
+- pkg:maven/tk.labyrinth/jaap-testing@0.2.4
+- pkg:maven/tk.labyrinth/jaap-testing@0.2.4?classifier=sources
+- pkg:maven/tk.labyrinth/jaap-testing@0.2.5
+- pkg:maven/tk.labyrinth/jaap-testing@0.2.5?classifier=sources

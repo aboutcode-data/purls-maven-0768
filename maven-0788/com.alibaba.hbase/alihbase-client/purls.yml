@@ -1,0 +1,4 @@
+- pkg:maven/com.alibaba.hbase/alihbase-client@1.0.0
+- pkg:maven/com.alibaba.hbase/alihbase-client@1.0.0?classifier=sources
+- pkg:maven/com.alibaba.hbase/alihbase-client@2.0.0
+- pkg:maven/com.alibaba.hbase/alihbase-client@2.0.0?classifier=sources

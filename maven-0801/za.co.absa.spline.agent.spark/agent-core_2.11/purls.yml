@@ -1,0 +1,2 @@
+- pkg:maven/za.co.absa.spline.agent.spark/agent-core_2.11@0.5.0
+- pkg:maven/za.co.absa.spline.agent.spark/agent-core_2.11@0.5.0?classifier=sources

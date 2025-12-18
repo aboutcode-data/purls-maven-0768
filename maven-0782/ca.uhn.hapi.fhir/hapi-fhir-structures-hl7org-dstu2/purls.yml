@@ -50,3 +50,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-hl7org-dstu2@4.0.3?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-hl7org-dstu2@4.1.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-hl7org-dstu2@4.1.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-hl7org-dstu2@4.2.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-hl7org-dstu2@4.2.0?classifier=sources

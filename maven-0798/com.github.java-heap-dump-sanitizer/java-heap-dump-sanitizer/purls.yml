@@ -1,0 +1,2 @@
+- pkg:maven/com.github.java-heap-dump-sanitizer/java-heap-dump-sanitizer@1.0.0-M1
+- pkg:maven/com.github.java-heap-dump-sanitizer/java-heap-dump-sanitizer@1.0.0-M1?classifier=sources

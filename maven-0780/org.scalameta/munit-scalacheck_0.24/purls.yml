@@ -1,0 +1,4 @@
+- pkg:maven/org.scalameta/munit-scalacheck_0.24@0.7.4
+- pkg:maven/org.scalameta/munit-scalacheck_0.24@0.7.4?classifier=sources
+- pkg:maven/org.scalameta/munit-scalacheck_0.24@0.7.5
+- pkg:maven/org.scalameta/munit-scalacheck_0.24@0.7.5?classifier=sources

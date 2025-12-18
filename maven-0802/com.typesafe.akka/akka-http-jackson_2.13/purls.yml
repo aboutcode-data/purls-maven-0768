@@ -6,3 +6,5 @@
 - pkg:maven/com.typesafe.akka/akka-http-jackson_2.13@10.1.8?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-http-jackson_2.13@10.1.9
 - pkg:maven/com.typesafe.akka/akka-http-jackson_2.13@10.1.9?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-http-jackson_2.13@10.2.0-M1
+- pkg:maven/com.typesafe.akka/akka-http-jackson_2.13@10.2.0-M1?classifier=sources

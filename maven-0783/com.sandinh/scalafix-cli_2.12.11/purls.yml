@@ -1,0 +1,4 @@
+- pkg:maven/com.sandinh/scalafix-cli_2.12.11@0.9.14.1
+- pkg:maven/com.sandinh/scalafix-cli_2.12.11@0.9.14.1?classifier=sources
+- pkg:maven/com.sandinh/scalafix-cli_2.12.11@0.9.15.1
+- pkg:maven/com.sandinh/scalafix-cli_2.12.11@0.9.15.1?classifier=sources

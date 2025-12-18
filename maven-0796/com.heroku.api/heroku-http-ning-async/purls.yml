@@ -65,6 +65,8 @@
 - pkg:maven/com.heroku.api/heroku-http-ning-async@0.4
 - pkg:maven/com.heroku.api/heroku-http-ning-async@0.40
 - pkg:maven/com.heroku.api/heroku-http-ning-async@0.40?classifier=sources
+- pkg:maven/com.heroku.api/heroku-http-ning-async@0.43
+- pkg:maven/com.heroku.api/heroku-http-ning-async@0.43?classifier=sources
 - pkg:maven/com.heroku.api/heroku-http-ning-async@0.4?classifier=sources
 - pkg:maven/com.heroku.api/heroku-http-ning-async@0.5
 - pkg:maven/com.heroku.api/heroku-http-ning-async@0.5?classifier=sources

@@ -1,2 +1,14 @@
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-router-core@1.0.0
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-router-core@1.0.0?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router-core@1.2.0
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router-core@1.2.0-Edgware
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router-core@1.2.0-Edgware?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router-core@1.2.0-Finchley
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router-core@1.2.0-Finchley?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router-core@1.2.0?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router-core@1.3.0
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router-core@1.3.0?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router-core@1.3.1
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router-core@1.3.1-Greenwich
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router-core@1.3.1-Greenwich?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router-core@1.3.1?classifier=sources

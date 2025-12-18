@@ -2,3 +2,5 @@
 - pkg:maven/com.microsoft.azure/azure-relay@0.0.1-PREVIEW?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-relay@0.0.2-PREVIEW
 - pkg:maven/com.microsoft.azure/azure-relay@0.0.2-PREVIEW?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-relay@0.0.3
+- pkg:maven/com.microsoft.azure/azure-relay@0.0.3?classifier=sources

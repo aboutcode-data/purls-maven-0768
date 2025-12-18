@@ -49,6 +49,10 @@
 - pkg:maven/com.gu/fapi-client-play26_2.12@3.0.2
 - pkg:maven/com.gu/fapi-client-play26_2.12@3.0.20
 - pkg:maven/com.gu/fapi-client-play26_2.12@3.0.20?classifier=sources
+- pkg:maven/com.gu/fapi-client-play26_2.12@3.0.21
+- pkg:maven/com.gu/fapi-client-play26_2.12@3.0.21?classifier=sources
+- pkg:maven/com.gu/fapi-client-play26_2.12@3.0.22
+- pkg:maven/com.gu/fapi-client-play26_2.12@3.0.22?classifier=sources
 - pkg:maven/com.gu/fapi-client-play26_2.12@3.0.2?classifier=sources
 - pkg:maven/com.gu/fapi-client-play26_2.12@3.0.5
 - pkg:maven/com.gu/fapi-client-play26_2.12@3.0.5?classifier=sources
@@ -60,3 +64,5 @@
 - pkg:maven/com.gu/fapi-client-play26_2.12@3.0.8?classifier=sources
 - pkg:maven/com.gu/fapi-client-play26_2.12@3.0.9
 - pkg:maven/com.gu/fapi-client-play26_2.12@3.0.9?classifier=sources
+- pkg:maven/com.gu/fapi-client-play26_2.12@3.1.0
+- pkg:maven/com.gu/fapi-client-play26_2.12@3.1.0?classifier=sources

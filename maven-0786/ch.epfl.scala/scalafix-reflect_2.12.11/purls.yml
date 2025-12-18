@@ -1,0 +1,8 @@
+- pkg:maven/ch.epfl.scala/scalafix-reflect_2.12.11@0.9.12
+- pkg:maven/ch.epfl.scala/scalafix-reflect_2.12.11@0.9.12?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-reflect_2.12.11@0.9.13
+- pkg:maven/ch.epfl.scala/scalafix-reflect_2.12.11@0.9.13?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-reflect_2.12.11@0.9.14
+- pkg:maven/ch.epfl.scala/scalafix-reflect_2.12.11@0.9.14?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-reflect_2.12.11@0.9.15
+- pkg:maven/ch.epfl.scala/scalafix-reflect_2.12.11@0.9.15?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/com.9ls/bank-account@1.0.2?classifier=sources
 - pkg:maven/com.9ls/bank-account@1.0.3
 - pkg:maven/com.9ls/bank-account@1.0.3?classifier=sources
+- pkg:maven/com.9ls/bank-account@1.0.4
+- pkg:maven/com.9ls/bank-account@1.0.4?classifier=sources
+- pkg:maven/com.9ls/bank-account@1.6.1
+- pkg:maven/com.9ls/bank-account@1.6.1?classifier=sources

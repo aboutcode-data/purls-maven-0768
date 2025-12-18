@@ -1,0 +1,3 @@
+- pkg:maven/com.vaadin/vaadin-grid-pro-flow-demo@2.0.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-grid-pro-flow-demo@3.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-grid-pro-flow-demo@3.0.1?classifier=sources

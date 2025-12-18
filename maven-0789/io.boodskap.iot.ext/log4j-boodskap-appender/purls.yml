@@ -1,0 +1,2 @@
+- pkg:maven/io.boodskap.iot.ext/log4j-boodskap-appender@1.0.0
+- pkg:maven/io.boodskap.iot.ext/log4j-boodskap-appender@1.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/be.ceau/nace@1.0.0
 - pkg:maven/be.ceau/nace@1.0.0?classifier=sources
+- pkg:maven/be.ceau/nace@1.1.0
+- pkg:maven/be.ceau/nace@1.1.0?classifier=sources

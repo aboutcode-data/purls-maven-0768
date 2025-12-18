@@ -10,6 +10,8 @@
 - pkg:maven/org.springframework.geode/spring-geode-starter-test@1.1.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.geode/spring-geode-starter-test@1.1.5.RELEASE
 - pkg:maven/org.springframework.geode/spring-geode-starter-test@1.1.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.geode/spring-geode-starter-test@1.1.6.RELEASE
+- pkg:maven/org.springframework.geode/spring-geode-starter-test@1.1.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.geode/spring-geode-starter-test@1.2.0.RELEASE
 - pkg:maven/org.springframework.geode/spring-geode-starter-test@1.2.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.geode/spring-geode-starter-test@1.2.1.RELEASE
@@ -20,3 +22,7 @@
 - pkg:maven/org.springframework.geode/spring-geode-starter-test@1.2.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.geode/spring-geode-starter-test@1.2.4.RELEASE
 - pkg:maven/org.springframework.geode/spring-geode-starter-test@1.2.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.geode/spring-geode-starter-test@1.2.5.RELEASE
+- pkg:maven/org.springframework.geode/spring-geode-starter-test@1.2.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.geode/spring-geode-starter-test@1.2.6.RELEASE
+- pkg:maven/org.springframework.geode/spring-geode-starter-test@1.2.6.RELEASE?classifier=sources

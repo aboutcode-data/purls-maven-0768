@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.csp/sentinel-zuul2-adapter@1.7.2
+- pkg:maven/com.alibaba.csp/sentinel-zuul2-adapter@1.7.2?classifier=sources

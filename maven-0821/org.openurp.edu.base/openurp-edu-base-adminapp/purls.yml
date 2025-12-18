@@ -44,6 +44,18 @@
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.30?type=war
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.31?classifier=sources
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.31?type=war
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.32?classifier=sources
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.32?type=war
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.33?classifier=sources
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.33?type=war
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.34?classifier=sources
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.34?type=war
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.35?classifier=sources
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.35?type=war
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.36?classifier=sources
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.36?type=war
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.37?classifier=sources
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.37?type=war
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.3?classifier=sources
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.3?type=war
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.4?classifier=sources
@@ -58,3 +70,5 @@
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.8?type=war
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.9?classifier=sources
 - pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.0.9?type=war
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.1.0?classifier=sources
+- pkg:maven/org.openurp.edu.base/openurp-edu-base-adminapp@0.1.0?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/com.aoindustries/ao-servlet-subrequest@1.0.0
+- pkg:maven/com.aoindustries/ao-servlet-subrequest@1.0.0?classifier=sources

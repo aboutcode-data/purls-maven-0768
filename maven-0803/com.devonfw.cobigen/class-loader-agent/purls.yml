@@ -1,0 +1,2 @@
+- pkg:maven/com.devonfw.cobigen/class-loader-agent@1.2.0
+- pkg:maven/com.devonfw.cobigen/class-loader-agent@1.2.0?classifier=sources

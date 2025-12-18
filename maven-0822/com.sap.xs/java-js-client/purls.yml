@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.xs/java-js-client@1.5.13
+- pkg:maven/com.sap.xs/java-js-client@1.5.13?classifier=sources

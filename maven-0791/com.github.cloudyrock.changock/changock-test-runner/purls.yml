@@ -1,0 +1,4 @@
+- pkg:maven/com.github.cloudyrock.changock/changock-test-runner@0.0.3-BETA
+- pkg:maven/com.github.cloudyrock.changock/changock-test-runner@0.0.3-BETA?classifier=sources
+- pkg:maven/com.github.cloudyrock.changock/changock-test-runner@0.0.4-BETA
+- pkg:maven/com.github.cloudyrock.changock/changock-test-runner@0.0.4-BETA?classifier=sources

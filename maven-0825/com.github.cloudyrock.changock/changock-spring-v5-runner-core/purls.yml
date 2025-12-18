@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner-core@0.0.5-BETA
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner-core@0.0.5-BETA?classifier=sources

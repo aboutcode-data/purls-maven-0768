@@ -50,6 +50,8 @@
 - pkg:maven/org.webjars.npm/postcss@7.0.20?classifier=sources
 - pkg:maven/org.webjars.npm/postcss@7.0.26
 - pkg:maven/org.webjars.npm/postcss@7.0.26?classifier=sources
+- pkg:maven/org.webjars.npm/postcss@7.0.27
+- pkg:maven/org.webjars.npm/postcss@7.0.27?classifier=sources
 - pkg:maven/org.webjars.npm/postcss@7.0.5
 - pkg:maven/org.webjars.npm/postcss@7.0.5?classifier=sources
 - pkg:maven/org.webjars.npm/postcss@7.0.6

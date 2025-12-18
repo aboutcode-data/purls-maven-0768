@@ -14,3 +14,15 @@
 - pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.5.1-P26?classifier=sources
 - pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.5.1-P27
 - pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.5.1-P27?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.6-P26
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.6-P26?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.6-P27
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.6-P27?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.6-P28
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.6-P28?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.6.1-P26
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.6.1-P26?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.6.1-P27
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.6.1-P27?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.6.1-P28
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.12@1.6.1-P28?classifier=sources

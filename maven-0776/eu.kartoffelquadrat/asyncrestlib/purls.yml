@@ -1,0 +1,2 @@
+- pkg:maven/eu.kartoffelquadrat/asyncrestlib@1.5.1
+- pkg:maven/eu.kartoffelquadrat/asyncrestlib@1.5.1?classifier=sources

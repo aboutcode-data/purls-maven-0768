@@ -1,0 +1,2 @@
+- pkg:maven/de.carne.common/java-mcd-default@0.1.0
+- pkg:maven/de.carne.common/java-mcd-default@0.1.0?classifier=sources

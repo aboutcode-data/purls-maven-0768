@@ -1,0 +1,2 @@
+- pkg:maven/com.lalafo.conductor/conductor-autodispose@1.0.0-beta01?classifier=sources
+- pkg:maven/com.lalafo.conductor/conductor-autodispose@1.0.0-beta01?type=aar

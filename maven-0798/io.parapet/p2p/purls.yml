@@ -1,0 +1,2 @@
+- pkg:maven/io.parapet/p2p@1.0.0
+- pkg:maven/io.parapet/p2p@1.0.0?classifier=sources

@@ -1,1 +1,5 @@
 - pkg:maven/com.hotels.styx/styx-e2e-suite@0.0.1.beta6
+- pkg:maven/com.hotels.styx/styx-e2e-suite@1.0.0-rc1
+- pkg:maven/com.hotels.styx/styx-e2e-suite@1.0.0-rc2
+- pkg:maven/com.hotels.styx/styx-e2e-suite@1.0.0-rc3
+- pkg:maven/com.hotels.styx/styx-e2e-suite@v0.0.5

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.kafkaconnector/camel-sap-netweaver-kafka-connector@0.1.0
+- pkg:maven/org.apache.camel.kafkaconnector/camel-sap-netweaver-kafka-connector@0.1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.yoti.mobile.android.sdk/yoti-liveness-internal@7.0.14?classifier=sources
 - pkg:maven/com.yoti.mobile.android.sdk/yoti-liveness-internal@7.0.14?type=aar
+- pkg:maven/com.yoti.mobile.android.sdk/yoti-liveness-internal@8.4.0?type=aar
+- pkg:maven/com.yoti.mobile.android.sdk/yoti-liveness-internal@8.6.0?type=aar

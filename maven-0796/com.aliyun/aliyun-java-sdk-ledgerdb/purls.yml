@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-ledgerdb@0.7.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-ledgerdb@0.7.0?classifier=sources

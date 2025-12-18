@@ -108,3 +108,11 @@
 - pkg:maven/org.sonarsource.java/java-surefire@6.0.0.20538?classifier=sources
 - pkg:maven/org.sonarsource.java/java-surefire@6.0.1.20589
 - pkg:maven/org.sonarsource.java/java-surefire@6.0.1.20589?classifier=sources
+- pkg:maven/org.sonarsource.java/java-surefire@6.0.2.20657
+- pkg:maven/org.sonarsource.java/java-surefire@6.0.2.20657?classifier=sources
+- pkg:maven/org.sonarsource.java/java-surefire@6.1.0.20866
+- pkg:maven/org.sonarsource.java/java-surefire@6.1.0.20866?classifier=sources
+- pkg:maven/org.sonarsource.java/java-surefire@6.2.0.21135
+- pkg:maven/org.sonarsource.java/java-surefire@6.2.0.21135?classifier=sources
+- pkg:maven/org.sonarsource.java/java-surefire@6.3.0.21585
+- pkg:maven/org.sonarsource.java/java-surefire@6.3.0.21585?classifier=sources

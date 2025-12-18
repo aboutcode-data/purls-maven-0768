@@ -2,3 +2,5 @@
 - pkg:maven/io.waylay.kairosdb/kairosdb-scala_2.13@4.0.0?classifier=sources
 - pkg:maven/io.waylay.kairosdb/kairosdb-scala_2.13@4.1.0
 - pkg:maven/io.waylay.kairosdb/kairosdb-scala_2.13@4.1.0?classifier=sources
+- pkg:maven/io.waylay.kairosdb/kairosdb-scala_2.13@5.0.0
+- pkg:maven/io.waylay.kairosdb/kairosdb-scala_2.13@5.0.0?classifier=sources

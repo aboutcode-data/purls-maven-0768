@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.plc4x/plc4j-logstash-plugin@0.6.0
+- pkg:maven/org.apache.plc4x/plc4j-logstash-plugin@0.6.0?classifier=sources

@@ -20,3 +20,11 @@
 - pkg:maven/com.sap.cloud.servicesdk/odatav2-connectivity-sdk3@1.36.2?classifier=sources
 - pkg:maven/com.sap.cloud.servicesdk/odatav2-connectivity-sdk3@1.37.0
 - pkg:maven/com.sap.cloud.servicesdk/odatav2-connectivity-sdk3@1.37.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk/odatav2-connectivity-sdk3@1.37.1
+- pkg:maven/com.sap.cloud.servicesdk/odatav2-connectivity-sdk3@1.37.1?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk/odatav2-connectivity-sdk3@1.38.0
+- pkg:maven/com.sap.cloud.servicesdk/odatav2-connectivity-sdk3@1.38.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk/odatav2-connectivity-sdk3@1.39.0
+- pkg:maven/com.sap.cloud.servicesdk/odatav2-connectivity-sdk3@1.39.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk/odatav2-connectivity-sdk3@1.39.3
+- pkg:maven/com.sap.cloud.servicesdk/odatav2-connectivity-sdk3@1.39.3?classifier=sources

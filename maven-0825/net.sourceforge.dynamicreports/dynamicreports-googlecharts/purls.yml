@@ -64,3 +64,7 @@
 - pkg:maven/net.sourceforge.dynamicreports/dynamicreports-googlecharts@6.0.0?classifier=sources
 - pkg:maven/net.sourceforge.dynamicreports/dynamicreports-googlecharts@6.1.0
 - pkg:maven/net.sourceforge.dynamicreports/dynamicreports-googlecharts@6.1.0?classifier=sources
+- pkg:maven/net.sourceforge.dynamicreports/dynamicreports-googlecharts@6.11.0
+- pkg:maven/net.sourceforge.dynamicreports/dynamicreports-googlecharts@6.11.0?classifier=sources
+- pkg:maven/net.sourceforge.dynamicreports/dynamicreports-googlecharts@6.11.1
+- pkg:maven/net.sourceforge.dynamicreports/dynamicreports-googlecharts@6.11.1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/normalize-url@3.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/normalize-url@3.3.0
 - pkg:maven/org.webjars.npm/normalize-url@3.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/normalize-url@4.5.0
+- pkg:maven/org.webjars.npm/normalize-url@4.5.0?classifier=sources

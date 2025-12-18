@@ -7,3 +7,6 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.janusgraph-core@0.4.0_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.janusgraph-core@0.4.0_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.janusgraph-core@0.4.0_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.janusgraph-core@0.4.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.janusgraph-core@0.4.1_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.janusgraph-core@0.4.1_1?classifier=src&type=zip

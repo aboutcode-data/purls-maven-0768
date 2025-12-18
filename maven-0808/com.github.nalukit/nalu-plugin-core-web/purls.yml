@@ -22,3 +22,5 @@
 - pkg:maven/com.github.nalukit/nalu-plugin-core-web@2.0.0-rc-3
 - pkg:maven/com.github.nalukit/nalu-plugin-core-web@2.0.0-rc-3?classifier=sources
 - pkg:maven/com.github.nalukit/nalu-plugin-core-web@2.0.0?classifier=sources
+- pkg:maven/com.github.nalukit/nalu-plugin-core-web@2.0.1
+- pkg:maven/com.github.nalukit/nalu-plugin-core-web@2.0.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.beachape/enumeratum-cats_sjs0.6_2.13@1.5.16
 - pkg:maven/com.beachape/enumeratum-cats_sjs0.6_2.13@1.5.16?classifier=sources
+- pkg:maven/com.beachape/enumeratum-cats_sjs0.6_2.13@1.6.0
+- pkg:maven/com.beachape/enumeratum-cats_sjs0.6_2.13@1.6.0?classifier=sources

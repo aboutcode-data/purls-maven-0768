@@ -11,6 +11,7 @@
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-x86_64@1.0.0.CR4
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-x86_64@1.0.0.CR5
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-x86_64@1.0.0.Final
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-x86_64@1.0.10.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-x86_64@1.0.2.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-x86_64@1.0.3.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-x86_64@1.0.4.Final

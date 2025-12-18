@@ -20,3 +20,9 @@
 - pkg:maven/org.webjars.npm/tinymce@5.0.12?classifier=sources
 - pkg:maven/org.webjars.npm/tinymce@5.0.15
 - pkg:maven/org.webjars.npm/tinymce@5.0.15?classifier=sources
+- pkg:maven/org.webjars.npm/tinymce@5.1.6
+- pkg:maven/org.webjars.npm/tinymce@5.1.6?classifier=sources
+- pkg:maven/org.webjars.npm/tinymce@5.2.0
+- pkg:maven/org.webjars.npm/tinymce@5.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/tinymce@5.2.1
+- pkg:maven/org.webjars.npm/tinymce@5.2.1?classifier=sources

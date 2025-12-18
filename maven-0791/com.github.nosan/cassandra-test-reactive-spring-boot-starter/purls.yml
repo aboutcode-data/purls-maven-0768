@@ -3,3 +3,4 @@
 - pkg:maven/com.github.nosan/cassandra-test-reactive-spring-boot-starter@2.0.2
 - pkg:maven/com.github.nosan/cassandra-test-reactive-spring-boot-starter@2.0.3
 - pkg:maven/com.github.nosan/cassandra-test-reactive-spring-boot-starter@2.0.4
+- pkg:maven/com.github.nosan/cassandra-test-reactive-spring-boot-starter@2.0.5

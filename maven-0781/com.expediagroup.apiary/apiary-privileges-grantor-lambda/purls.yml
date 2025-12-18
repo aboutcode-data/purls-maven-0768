@@ -3,3 +3,7 @@
 - pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-lambda@5.0.0?classifier=sources
 - pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-lambda@5.0.1?classifier=sources
 - pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-lambda@5.0.2?classifier=sources
+- pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-lambda@6.0.0?classifier=sources
+- pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-lambda@6.0.1?classifier=sources
+- pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-lambda@6.0.2?classifier=sources
+- pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-lambda@7.0.0?classifier=sources

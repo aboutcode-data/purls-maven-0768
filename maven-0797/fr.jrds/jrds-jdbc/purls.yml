@@ -1,0 +1,2 @@
+- pkg:maven/fr.jrds/jrds-jdbc@2020.1
+- pkg:maven/fr.jrds/jrds-jdbc@2020.1?classifier=sources

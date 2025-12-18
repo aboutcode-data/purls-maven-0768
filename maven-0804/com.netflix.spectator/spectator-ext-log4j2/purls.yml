@@ -1,4 +1,10 @@
 - pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.101.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.102.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.103.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.104.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.105.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.106.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.107.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.17
 - pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.17?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-log4j2@0.18

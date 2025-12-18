@@ -256,3 +256,13 @@
 - pkg:maven/com.qaprosoft/carina-commons@6.2.29?classifier=sources
 - pkg:maven/com.qaprosoft/carina-commons@6.3.30
 - pkg:maven/com.qaprosoft/carina-commons@6.3.30?classifier=sources
+- pkg:maven/com.qaprosoft/carina-commons@6.3.31
+- pkg:maven/com.qaprosoft/carina-commons@6.3.31?classifier=sources
+- pkg:maven/com.qaprosoft/carina-commons@6.3.32
+- pkg:maven/com.qaprosoft/carina-commons@6.3.32?classifier=sources
+- pkg:maven/com.qaprosoft/carina-commons@6.4.33
+- pkg:maven/com.qaprosoft/carina-commons@6.4.33?classifier=sources
+- pkg:maven/com.qaprosoft/carina-commons@6.4.34
+- pkg:maven/com.qaprosoft/carina-commons@6.4.34?classifier=sources
+- pkg:maven/com.qaprosoft/carina-commons@6.4.35
+- pkg:maven/com.qaprosoft/carina-commons@6.4.35?classifier=sources

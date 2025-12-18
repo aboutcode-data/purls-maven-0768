@@ -1,0 +1,2 @@
+- pkg:maven/org.ojbc.bundles.intermediaries/criminal-history-consolidation-reporting-service-intermediary@1.0.1
+- pkg:maven/org.ojbc.bundles.intermediaries/criminal-history-consolidation-reporting-service-intermediary@1.0.1?classifier=sources

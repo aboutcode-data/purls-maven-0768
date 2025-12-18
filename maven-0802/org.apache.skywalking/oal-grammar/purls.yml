@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.skywalking/oal-grammar@6.4.0
 - pkg:maven/org.apache.skywalking/oal-grammar@6.5.0
 - pkg:maven/org.apache.skywalking/oal-grammar@6.6.0
+- pkg:maven/org.apache.skywalking/oal-grammar@7.0.0

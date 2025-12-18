@@ -1,0 +1,5 @@
+- pkg:maven/org.opencds.cqf/cqf-ruler-dstu3@0.1.14.1?type=war
+- pkg:maven/org.opencds.cqf/cqf-ruler-dstu3@0.1.14.2?type=war
+- pkg:maven/org.opencds.cqf/cqf-ruler-dstu3@0.1.14.3?type=war
+- pkg:maven/org.opencds.cqf/cqf-ruler-dstu3@0.1.14.4?type=war
+- pkg:maven/org.opencds.cqf/cqf-ruler-dstu3@0.1.14?type=war

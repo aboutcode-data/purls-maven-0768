@@ -13,6 +13,10 @@
 - pkg:maven/com.opentable.components/otj-metrics-core@4.0.12?classifier=sources
 - pkg:maven/com.opentable.components/otj-metrics-core@4.0.13
 - pkg:maven/com.opentable.components/otj-metrics-core@4.0.13?classifier=sources
+- pkg:maven/com.opentable.components/otj-metrics-core@4.0.14
+- pkg:maven/com.opentable.components/otj-metrics-core@4.0.14?classifier=sources
+- pkg:maven/com.opentable.components/otj-metrics-core@4.0.15
+- pkg:maven/com.opentable.components/otj-metrics-core@4.0.15?classifier=sources
 - pkg:maven/com.opentable.components/otj-metrics-core@4.0.1?classifier=sources
 - pkg:maven/com.opentable.components/otj-metrics-core@4.0.2
 - pkg:maven/com.opentable.components/otj-metrics-core@4.0.2?classifier=sources

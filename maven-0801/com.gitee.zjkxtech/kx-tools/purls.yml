@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.zjkxtech/kx-tools@1.0
+- pkg:maven/com.gitee.zjkxtech/kx-tools@1.0?classifier=sources

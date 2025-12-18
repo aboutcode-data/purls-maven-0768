@@ -1,0 +1,2 @@
+- pkg:maven/com.sdl.tridion.connectorframework/tcf-archetype@11.1.0-1004?classifier=sources
+- pkg:maven/com.sdl.tridion.connectorframework/tcf-archetype@11.1.0-1005?classifier=sources

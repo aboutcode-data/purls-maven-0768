@@ -1,0 +1,4 @@
+- pkg:maven/com.rabobank.argos/argos-service@0.0.1-RC3
+- pkg:maven/com.rabobank.argos/argos-service@0.0.1-RC3?classifier=sources
+- pkg:maven/com.rabobank.argos/argos-service@0.0.1-RC4
+- pkg:maven/com.rabobank.argos/argos-service@0.0.1-RC4?classifier=sources

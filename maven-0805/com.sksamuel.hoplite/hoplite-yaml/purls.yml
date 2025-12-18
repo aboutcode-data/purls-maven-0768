@@ -32,3 +32,5 @@
 - pkg:maven/com.sksamuel.hoplite/hoplite-yaml@1.1.4?classifier=sources
 - pkg:maven/com.sksamuel.hoplite/hoplite-yaml@1.1.5
 - pkg:maven/com.sksamuel.hoplite/hoplite-yaml@1.1.5?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-yaml@1.2.0?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-yaml@1.2.2?classifier=sources

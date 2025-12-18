@@ -4,3 +4,5 @@
 - pkg:maven/jakarta.resource/jakarta.resource-api@1.7.3?classifier=sources
 - pkg:maven/jakarta.resource/jakarta.resource-api@1.7.4
 - pkg:maven/jakarta.resource/jakarta.resource-api@1.7.4?classifier=sources
+- pkg:maven/jakarta.resource/jakarta.resource-api@2.0.0-RC1
+- pkg:maven/jakarta.resource/jakarta.resource-api@2.0.0-RC1?classifier=sources

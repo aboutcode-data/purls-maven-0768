@@ -15,6 +15,8 @@
 - pkg:maven/com.github.emc-mongoose/mongoose-load-step-weighted@4.2.1
 - pkg:maven/com.github.emc-mongoose/mongoose-load-step-weighted@4.2.10
 - pkg:maven/com.github.emc-mongoose/mongoose-load-step-weighted@4.2.10?classifier=sources
+- pkg:maven/com.github.emc-mongoose/mongoose-load-step-weighted@4.2.11
+- pkg:maven/com.github.emc-mongoose/mongoose-load-step-weighted@4.2.11?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-load-step-weighted@4.2.1?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-load-step-weighted@4.2.2
 - pkg:maven/com.github.emc-mongoose/mongoose-load-step-weighted@4.2.2?classifier=sources

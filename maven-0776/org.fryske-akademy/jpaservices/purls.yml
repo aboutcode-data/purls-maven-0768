@@ -31,6 +31,10 @@
 - pkg:maven/org.fryske-akademy/jpaservices@12.23?classifier=sources
 - pkg:maven/org.fryske-akademy/jpaservices@12.24
 - pkg:maven/org.fryske-akademy/jpaservices@12.24?classifier=sources
+- pkg:maven/org.fryske-akademy/jpaservices@12.25
+- pkg:maven/org.fryske-akademy/jpaservices@12.25?classifier=sources
+- pkg:maven/org.fryske-akademy/jpaservices@12.26
+- pkg:maven/org.fryske-akademy/jpaservices@12.26?classifier=sources
 - pkg:maven/org.fryske-akademy/jpaservices@12.2?classifier=sources
 - pkg:maven/org.fryske-akademy/jpaservices@12.3
 - pkg:maven/org.fryske-akademy/jpaservices@12.3?classifier=sources
@@ -40,3 +44,13 @@
 - pkg:maven/org.fryske-akademy/jpaservices@12.7?classifier=sources
 - pkg:maven/org.fryske-akademy/jpaservices@12.9
 - pkg:maven/org.fryske-akademy/jpaservices@12.9?classifier=sources
+- pkg:maven/org.fryske-akademy/jpaservices@13.0
+- pkg:maven/org.fryske-akademy/jpaservices@13.0?classifier=sources
+- pkg:maven/org.fryske-akademy/jpaservices@13.2
+- pkg:maven/org.fryske-akademy/jpaservices@13.2?classifier=sources
+- pkg:maven/org.fryske-akademy/jpaservices@13.3
+- pkg:maven/org.fryske-akademy/jpaservices@13.3?classifier=sources
+- pkg:maven/org.fryske-akademy/jpaservices@13.4
+- pkg:maven/org.fryske-akademy/jpaservices@13.4?classifier=sources
+- pkg:maven/org.fryske-akademy/jpaservices@13.5
+- pkg:maven/org.fryske-akademy/jpaservices@13.5?classifier=sources

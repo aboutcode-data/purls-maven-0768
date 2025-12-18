@@ -8,3 +8,11 @@
 - pkg:maven/guru.nidi/graphviz-rough@0.14.0?classifier=sources
 - pkg:maven/guru.nidi/graphviz-rough@0.14.1
 - pkg:maven/guru.nidi/graphviz-rough@0.14.1?classifier=sources
+- pkg:maven/guru.nidi/graphviz-rough@0.14.2
+- pkg:maven/guru.nidi/graphviz-rough@0.14.2?classifier=sources
+- pkg:maven/guru.nidi/graphviz-rough@0.15.0
+- pkg:maven/guru.nidi/graphviz-rough@0.15.0?classifier=sources
+- pkg:maven/guru.nidi/graphviz-rough@0.15.1
+- pkg:maven/guru.nidi/graphviz-rough@0.15.1?classifier=sources
+- pkg:maven/guru.nidi/graphviz-rough@0.16.0
+- pkg:maven/guru.nidi/graphviz-rough@0.16.0?classifier=sources

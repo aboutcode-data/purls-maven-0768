@@ -14,3 +14,5 @@
 - pkg:maven/se.uhr.simone/extension.api@2.4.0?classifier=sources
 - pkg:maven/se.uhr.simone/extension.api@2.5.0
 - pkg:maven/se.uhr.simone/extension.api@2.5.0?classifier=sources
+- pkg:maven/se.uhr.simone/extension.api@3.0.0
+- pkg:maven/se.uhr.simone/extension.api@3.0.0?classifier=sources

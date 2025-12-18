@@ -1,0 +1,2 @@
+- pkg:maven/fm.finch/fm.finch-json@1.0.0
+- pkg:maven/fm.finch/fm.finch-json@1.0.0?classifier=sources

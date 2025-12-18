@@ -1,3 +1,4 @@
 - pkg:maven/net.bbmsoft/bbmsoft-osgi-launch-dependencies@3.0.0
 - pkg:maven/net.bbmsoft/bbmsoft-osgi-launch-dependencies@3.0.1
 - pkg:maven/net.bbmsoft/bbmsoft-osgi-launch-dependencies@4.0.0
+- pkg:maven/net.bbmsoft/bbmsoft-osgi-launch-dependencies@4.1.0

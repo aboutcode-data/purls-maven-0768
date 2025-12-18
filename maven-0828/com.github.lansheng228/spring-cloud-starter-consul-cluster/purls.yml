@@ -1,0 +1,11 @@
+- pkg:maven/com.github.lansheng228/spring-cloud-starter-consul-cluster@2.1.2.1.RELEASE
+- pkg:maven/com.github.lansheng228/spring-cloud-starter-consul-cluster@2.1.2.2.RELEASE
+- pkg:maven/com.github.lansheng228/spring-cloud-starter-consul-cluster@2.1.2.3.RELEASE
+- pkg:maven/com.github.lansheng228/spring-cloud-starter-consul-cluster@2.1.2.RELEASE
+- pkg:maven/com.github.lansheng228/spring-cloud-starter-consul-cluster@2.1.2.RELEASE?classifier=sources
+- pkg:maven/com.github.lansheng228/spring-cloud-starter-consul-cluster@2.1.3.RELEASE
+- pkg:maven/com.github.lansheng228/spring-cloud-starter-consul-cluster@2.1.3.RELEASE?classifier=sources
+- pkg:maven/com.github.lansheng228/spring-cloud-starter-consul-cluster@2.2.1.1.RELEASE
+- pkg:maven/com.github.lansheng228/spring-cloud-starter-consul-cluster@2.2.1.2.RELEASE
+- pkg:maven/com.github.lansheng228/spring-cloud-starter-consul-cluster@2.2.1.3.RELEASE
+- pkg:maven/com.github.lansheng228/spring-cloud-starter-consul-cluster@2.2.1.RELEASE

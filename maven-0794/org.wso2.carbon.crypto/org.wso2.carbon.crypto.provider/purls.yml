@@ -6,3 +6,7 @@
 - pkg:maven/org.wso2.carbon.crypto/org.wso2.carbon.crypto.provider@1.0.2?classifier=sources
 - pkg:maven/org.wso2.carbon.crypto/org.wso2.carbon.crypto.provider@1.0.3
 - pkg:maven/org.wso2.carbon.crypto/org.wso2.carbon.crypto.provider@1.0.3?classifier=sources
+- pkg:maven/org.wso2.carbon.crypto/org.wso2.carbon.crypto.provider@1.1.4
+- pkg:maven/org.wso2.carbon.crypto/org.wso2.carbon.crypto.provider@1.1.4?classifier=sources
+- pkg:maven/org.wso2.carbon.crypto/org.wso2.carbon.crypto.provider@1.1.5
+- pkg:maven/org.wso2.carbon.crypto/org.wso2.carbon.crypto.provider@1.1.5?classifier=sources

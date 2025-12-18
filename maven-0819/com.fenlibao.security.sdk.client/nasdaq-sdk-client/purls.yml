@@ -1,0 +1,2 @@
+- pkg:maven/com.fenlibao.security.sdk.client/nasdaq-sdk-client@0.0.1
+- pkg:maven/com.fenlibao.security.sdk.client/nasdaq-sdk-client@0.0.1?classifier=sources

@@ -131,3 +131,8 @@
 - pkg:maven/com.appsflyer/af-android-sdk-beta@5.1.1-rc1?type=aar
 - pkg:maven/com.appsflyer/af-android-sdk-beta@5.2.0-rc1?type=aar
 - pkg:maven/com.appsflyer/af-android-sdk-beta@5.2.0-rc2?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@5.2.0-rc3?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@5.2.0-rc4?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@5.3.0-rc1?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@5.3.0-rc2?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-beta@5.3.0-rc3?type=aar

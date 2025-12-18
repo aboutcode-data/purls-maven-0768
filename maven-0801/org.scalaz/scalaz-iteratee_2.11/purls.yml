@@ -122,6 +122,7 @@
 - pkg:maven/org.scalaz/scalaz-iteratee_2.11@7.2.8?classifier=sources
 - pkg:maven/org.scalaz/scalaz-iteratee_2.11@7.2.9
 - pkg:maven/org.scalaz/scalaz-iteratee_2.11@7.2.9?classifier=sources
+- pkg:maven/org.scalaz/scalaz-iteratee_2.11@7.3.0
 - pkg:maven/org.scalaz/scalaz-iteratee_2.11@7.3.0-M1
 - pkg:maven/org.scalaz/scalaz-iteratee_2.11@7.3.0-M10
 - pkg:maven/org.scalaz/scalaz-iteratee_2.11@7.3.0-M10?classifier=sources
@@ -186,3 +187,4 @@
 - pkg:maven/org.scalaz/scalaz-iteratee_2.11@7.3.0-M8?classifier=sources
 - pkg:maven/org.scalaz/scalaz-iteratee_2.11@7.3.0-M9
 - pkg:maven/org.scalaz/scalaz-iteratee_2.11@7.3.0-M9?classifier=sources
+- pkg:maven/org.scalaz/scalaz-iteratee_2.11@7.3.0?classifier=sources

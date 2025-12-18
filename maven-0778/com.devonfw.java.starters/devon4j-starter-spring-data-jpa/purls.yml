@@ -1,3 +1,5 @@
+- pkg:maven/com.devonfw.java.starters/devon4j-starter-spring-data-jpa@2020.04.001
+- pkg:maven/com.devonfw.java.starters/devon4j-starter-spring-data-jpa@2020.04.001?classifier=sources
 - pkg:maven/com.devonfw.java.starters/devon4j-starter-spring-data-jpa@3.0.0
 - pkg:maven/com.devonfw.java.starters/devon4j-starter-spring-data-jpa@3.0.0-alpha.1
 - pkg:maven/com.devonfw.java.starters/devon4j-starter-spring-data-jpa@3.0.0-alpha.1?classifier=sources

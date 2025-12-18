@@ -1,0 +1,2 @@
+- pkg:maven/org.frekele.demo/data-analyzer-demo@1.0.0
+- pkg:maven/org.frekele.demo/data-analyzer-demo@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-yuku-textcomplete@0.18.1
+- pkg:maven/org.webjars.npm/github-com-yuku-textcomplete@0.18.1?classifier=sources

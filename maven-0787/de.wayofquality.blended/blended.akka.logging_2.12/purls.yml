@@ -1,2 +1,4 @@
 - pkg:maven/de.wayofquality.blended/blended.akka.logging_2.12@3.0.13
 - pkg:maven/de.wayofquality.blended/blended.akka.logging_2.12@3.0.13?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.akka.logging_2.12@3.1-RC2
+- pkg:maven/de.wayofquality.blended/blended.akka.logging_2.12@3.1-RC2?classifier=sources

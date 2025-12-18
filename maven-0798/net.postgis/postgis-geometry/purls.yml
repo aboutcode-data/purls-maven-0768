@@ -1,0 +1,2 @@
+- pkg:maven/net.postgis/postgis-geometry@2.5.0
+- pkg:maven/net.postgis/postgis-geometry@2.5.0?classifier=sources

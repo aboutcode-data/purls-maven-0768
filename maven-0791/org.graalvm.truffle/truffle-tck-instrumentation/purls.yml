@@ -36,3 +36,5 @@
 - pkg:maven/org.graalvm.truffle/truffle-tck-instrumentation@19.3.0?classifier=sources
 - pkg:maven/org.graalvm.truffle/truffle-tck-instrumentation@19.3.1
 - pkg:maven/org.graalvm.truffle/truffle-tck-instrumentation@19.3.1?classifier=sources
+- pkg:maven/org.graalvm.truffle/truffle-tck-instrumentation@20.0.0
+- pkg:maven/org.graalvm.truffle/truffle-tck-instrumentation@20.0.0?classifier=sources

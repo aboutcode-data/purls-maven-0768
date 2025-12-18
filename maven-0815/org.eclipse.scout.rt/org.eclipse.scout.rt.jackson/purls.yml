@@ -2,6 +2,14 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@10.0.2-alpha.1
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@10.0.2-alpha.1?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@10.0.2?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@10.0.3
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@10.0.3?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@10.0.6
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@10.0.6?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@10.0.7
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@10.0.7?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@10.0.8
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@10.0.8?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@7.0.0.001_M7
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@7.0.0.001_M7?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@7.0.0.003_RC1

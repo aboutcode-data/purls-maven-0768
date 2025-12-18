@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-primefaces@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-primefaces@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-primefaces@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-primefaces@RELEASE113?classifier=sources

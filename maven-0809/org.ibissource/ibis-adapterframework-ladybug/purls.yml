@@ -10,3 +10,7 @@
 - pkg:maven/org.ibissource/ibis-adapterframework-ladybug@7.3?classifier=sources
 - pkg:maven/org.ibissource/ibis-adapterframework-ladybug@7.4
 - pkg:maven/org.ibissource/ibis-adapterframework-ladybug@7.4?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-ladybug@7.5-RC1
+- pkg:maven/org.ibissource/ibis-adapterframework-ladybug@7.5-RC1?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-ladybug@7.5-RC2
+- pkg:maven/org.ibissource/ibis-adapterframework-ladybug@7.5-RC2?classifier=sources

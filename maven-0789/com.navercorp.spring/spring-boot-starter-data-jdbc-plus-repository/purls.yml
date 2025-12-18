@@ -1,0 +1,2 @@
+- pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@2.0.0.RC1-PRE4
+- pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@2.0.0.RC1-PRE4?classifier=sources

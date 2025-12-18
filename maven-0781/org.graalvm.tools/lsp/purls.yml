@@ -1,0 +1,2 @@
+- pkg:maven/org.graalvm.tools/lsp@20.0.0
+- pkg:maven/org.graalvm.tools/lsp@20.0.0?classifier=sources

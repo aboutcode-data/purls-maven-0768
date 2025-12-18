@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.bowergithub.jashkenas/underscore@1.2.4
+- pkg:maven/org.webjars.bowergithub.jashkenas/underscore@1.2.4?classifier=sources
 - pkg:maven/org.webjars.bowergithub.jashkenas/underscore@1.7.0
 - pkg:maven/org.webjars.bowergithub.jashkenas/underscore@1.7.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.jashkenas/underscore@1.8.3

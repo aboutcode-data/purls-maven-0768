@@ -14,3 +14,5 @@
 - pkg:maven/org.ow2.authzforce/authzforce-ce-restful-pdp-jaxrs@1.6.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-restful-pdp-jaxrs@2.0.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-restful-pdp-jaxrs@2.0.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-restful-pdp-jaxrs@3.0.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-restful-pdp-jaxrs@3.0.0?classifier=sources

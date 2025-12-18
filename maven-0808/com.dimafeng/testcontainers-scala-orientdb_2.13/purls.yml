@@ -1,0 +1,4 @@
+- pkg:maven/com.dimafeng/testcontainers-scala-orientdb_2.13@0.36.0
+- pkg:maven/com.dimafeng/testcontainers-scala-orientdb_2.13@0.36.0?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-orientdb_2.13@0.36.1
+- pkg:maven/com.dimafeng/testcontainers-scala-orientdb_2.13@0.36.1?classifier=sources

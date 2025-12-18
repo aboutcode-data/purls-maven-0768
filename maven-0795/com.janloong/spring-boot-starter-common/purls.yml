@@ -1,0 +1,2 @@
+- pkg:maven/com.janloong/spring-boot-starter-common@0.0.1.RELEASE
+- pkg:maven/com.janloong/spring-boot-starter-common@0.0.1.RELEASE?classifier=sources

@@ -4,5 +4,7 @@
 - pkg:maven/com.github.terran4j/terran4j-commons-api2doc@1.0.1?classifier=sources
 - pkg:maven/com.github.terran4j/terran4j-commons-api2doc@1.0.2
 - pkg:maven/com.github.terran4j/terran4j-commons-api2doc@1.0.2?classifier=sources
+- pkg:maven/com.github.terran4j/terran4j-commons-api2doc@1.0.4
+- pkg:maven/com.github.terran4j/terran4j-commons-api2doc@1.0.4?classifier=sources
 - pkg:maven/com.github.terran4j/terran4j-commons-api2doc@Virgo.0.1
 - pkg:maven/com.github.terran4j/terran4j-commons-api2doc@Virgo.0.1?classifier=sources

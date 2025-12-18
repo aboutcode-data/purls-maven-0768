@@ -7,4 +7,6 @@
 - pkg:maven/com.github.heyi-core/generator@4.1
 - pkg:maven/com.github.heyi-core/generator@4.1.1
 - pkg:maven/com.github.heyi-core/generator@4.1.1?classifier=sources
+- pkg:maven/com.github.heyi-core/generator@4.1.2
+- pkg:maven/com.github.heyi-core/generator@4.1.2?classifier=sources
 - pkg:maven/com.github.heyi-core/generator@4.1?classifier=sources

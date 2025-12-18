@@ -49,7 +49,10 @@
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.3.1
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.3.1?classifier=sources
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.1
+- pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.10
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.10-RC1
+- pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.10-RC11
+- pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.10-RC11?classifier=sources
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.10-RC1?classifier=sources
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.10-RC2
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.10-RC2?classifier=sources
@@ -63,6 +66,11 @@
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.10-RC8?classifier=sources
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.10-RC9
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.10-RC9?classifier=sources
+- pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.10?classifier=sources
+- pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.11
+- pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.11-RC2
+- pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.11-RC2?classifier=sources
+- pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.11?classifier=sources
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.1?classifier=sources
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.2
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.4.2?classifier=sources

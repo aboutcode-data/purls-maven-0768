@@ -24,3 +24,5 @@
 - pkg:maven/org.antframework.configcenter/configcenter-client@1.5.5.RELEASE?classifier=sources
 - pkg:maven/org.antframework.configcenter/configcenter-client@1.6.0.RELEASE
 - pkg:maven/org.antframework.configcenter/configcenter-client@1.6.0.RELEASE?classifier=sources
+- pkg:maven/org.antframework.configcenter/configcenter-client@1.6.1.RELEASE
+- pkg:maven/org.antframework.configcenter/configcenter-client@1.6.1.RELEASE?classifier=sources

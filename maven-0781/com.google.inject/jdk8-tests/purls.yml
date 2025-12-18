@@ -1,3 +1,4 @@
 - pkg:maven/com.google.inject/jdk8-tests@4.1.0
 - pkg:maven/com.google.inject/jdk8-tests@4.2.1
 - pkg:maven/com.google.inject/jdk8-tests@4.2.2
+- pkg:maven/com.google.inject/jdk8-tests@4.2.3

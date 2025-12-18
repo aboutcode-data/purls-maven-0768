@@ -1,0 +1,2 @@
+- pkg:maven/dev.gitlive/firebase-auth-android@0.1.0-beta?classifier=sources
+- pkg:maven/dev.gitlive/firebase-auth-android@0.1.0?classifier=sources

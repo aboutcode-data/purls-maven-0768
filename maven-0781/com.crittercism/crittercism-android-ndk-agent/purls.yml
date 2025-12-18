@@ -57,6 +57,8 @@
 - pkg:maven/com.crittercism/crittercism-android-ndk-agent@5.8.11-rc-12
 - pkg:maven/com.crittercism/crittercism-android-ndk-agent@5.8.11-rc-12?classifier=sources
 - pkg:maven/com.crittercism/crittercism-android-ndk-agent@5.8.11?classifier=sources
+- pkg:maven/com.crittercism/crittercism-android-ndk-agent@5.8.12
+- pkg:maven/com.crittercism/crittercism-android-ndk-agent@5.8.12?classifier=sources
 - pkg:maven/com.crittercism/crittercism-android-ndk-agent@5.8.1?classifier=sources
 - pkg:maven/com.crittercism/crittercism-android-ndk-agent@5.8.7
 - pkg:maven/com.crittercism/crittercism-android-ndk-agent@5.8.7?classifier=sources

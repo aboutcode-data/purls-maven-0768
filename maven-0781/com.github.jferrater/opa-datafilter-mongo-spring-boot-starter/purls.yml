@@ -1,0 +1,4 @@
+- pkg:maven/com.github.jferrater/opa-datafilter-mongo-spring-boot-starter@0.4.4
+- pkg:maven/com.github.jferrater/opa-datafilter-mongo-spring-boot-starter@0.4.4?classifier=sources
+- pkg:maven/com.github.jferrater/opa-datafilter-mongo-spring-boot-starter@0.4.5
+- pkg:maven/com.github.jferrater/opa-datafilter-mongo-spring-boot-starter@0.4.5?classifier=sources

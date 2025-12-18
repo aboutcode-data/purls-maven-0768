@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.kogito/kogito-quarkus-integration-test-hot-reload@0.10.0
+- pkg:maven/org.kie.kogito/kogito-quarkus-integration-test-hot-reload@0.10.0?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-integration-test-hot-reload@0.10.1
+- pkg:maven/org.kie.kogito/kogito-quarkus-integration-test-hot-reload@0.10.1?classifier=sources

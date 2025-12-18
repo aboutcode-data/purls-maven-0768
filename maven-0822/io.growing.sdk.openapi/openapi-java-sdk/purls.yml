@@ -1,0 +1,2 @@
+- pkg:maven/io.growing.sdk.openapi/openapi-java-sdk@1.0
+- pkg:maven/io.growing.sdk.openapi/openapi-java-sdk@1.0?classifier=sources

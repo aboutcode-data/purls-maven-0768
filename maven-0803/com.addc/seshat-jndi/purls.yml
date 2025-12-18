@@ -4,3 +4,5 @@
 - pkg:maven/com.addc/seshat-jndi@3.8.1
 - pkg:maven/com.addc/seshat-jndi@3.8.1?classifier=sources
 - pkg:maven/com.addc/seshat-jndi@3.8?classifier=sources
+- pkg:maven/com.addc/seshat-jndi@3.9
+- pkg:maven/com.addc/seshat-jndi@3.9?classifier=sources

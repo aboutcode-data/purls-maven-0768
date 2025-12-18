@@ -61,4 +61,8 @@
 - pkg:maven/com.thoughtworks.sde/comprehension-monad_2.10@3.3.2%2B32-d9d95922?classifier=sources
 - pkg:maven/com.thoughtworks.sde/comprehension-monad_2.10@3.3.2%2B34-c7aa0e55
 - pkg:maven/com.thoughtworks.sde/comprehension-monad_2.10@3.3.2%2B34-c7aa0e55?classifier=sources
+- pkg:maven/com.thoughtworks.sde/comprehension-monad_2.10@3.3.2%2B36-d166f8ad
+- pkg:maven/com.thoughtworks.sde/comprehension-monad_2.10@3.3.2%2B36-d166f8ad?classifier=sources
+- pkg:maven/com.thoughtworks.sde/comprehension-monad_2.10@3.3.2%2B46-017c7aca
+- pkg:maven/com.thoughtworks.sde/comprehension-monad_2.10@3.3.2%2B46-017c7aca?classifier=sources
 - pkg:maven/com.thoughtworks.sde/comprehension-monad_2.10@3.3.2?classifier=sources

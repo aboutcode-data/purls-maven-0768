@@ -1,0 +1,2 @@
+- pkg:maven/com.malliina/play-json-joda_2.13@2.8.1
+- pkg:maven/com.malliina/play-json-joda_2.13@2.8.1?classifier=sources

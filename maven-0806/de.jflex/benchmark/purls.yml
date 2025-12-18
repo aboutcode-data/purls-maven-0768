@@ -1,0 +1,6 @@
+- pkg:maven/de.jflex/benchmark@1.8.0
+- pkg:maven/de.jflex/benchmark@1.8.0?classifier=sources
+- pkg:maven/de.jflex/benchmark@1.8.1
+- pkg:maven/de.jflex/benchmark@1.8.1?classifier=sources
+- pkg:maven/de.jflex/benchmark@1.8.2
+- pkg:maven/de.jflex/benchmark@1.8.2?classifier=sources

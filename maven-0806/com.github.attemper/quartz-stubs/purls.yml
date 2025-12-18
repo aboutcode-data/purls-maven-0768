@@ -1,4 +1,6 @@
 - pkg:maven/com.github.attemper/quartz-stubs@2.3.2.1
 - pkg:maven/com.github.attemper/quartz-stubs@2.3.2.1?classifier=sources
+- pkg:maven/com.github.attemper/quartz-stubs@2.3.2.2
+- pkg:maven/com.github.attemper/quartz-stubs@2.3.2.2?classifier=sources
 - pkg:maven/com.github.attemper/quartz-stubs@2.9.6
 - pkg:maven/com.github.attemper/quartz-stubs@2.9.6?classifier=sources

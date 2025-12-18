@@ -1,0 +1,2 @@
+- pkg:maven/eu.benschroeder/test-suite-junit4@0.1
+- pkg:maven/eu.benschroeder/test-suite-junit4@0.1?classifier=sources

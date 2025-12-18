@@ -16,3 +16,5 @@
 - pkg:maven/org.activiti.cloud.notifications.graphql/activiti-cloud-services-notifications-graphql-subscriptions@7.1.0.M4?classifier=sources
 - pkg:maven/org.activiti.cloud.notifications.graphql/activiti-cloud-services-notifications-graphql-subscriptions@7.1.0.M5
 - pkg:maven/org.activiti.cloud.notifications.graphql/activiti-cloud-services-notifications-graphql-subscriptions@7.1.0.M5?classifier=sources
+- pkg:maven/org.activiti.cloud.notifications.graphql/activiti-cloud-services-notifications-graphql-subscriptions@7.1.0.M6
+- pkg:maven/org.activiti.cloud.notifications.graphql/activiti-cloud-services-notifications-graphql-subscriptions@7.1.0.M6?classifier=sources

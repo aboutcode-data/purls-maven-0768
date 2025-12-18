@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/ob1@0.55.0
+- pkg:maven/org.webjars.npm/ob1@0.55.0?classifier=sources

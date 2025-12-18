@@ -5,5 +5,7 @@
 - pkg:maven/br.com.jarch.dsfnet/javaee-archetype@19.1.14?classifier=sources
 - pkg:maven/br.com.jarch.dsfnet/javaee-archetype@19.1.15?classifier=sources
 - pkg:maven/br.com.jarch.dsfnet/javaee-archetype@19.1.2?classifier=sources
+- pkg:maven/br.com.jarch.dsfnet/javaee-archetype@19.12.0?classifier=sources
 - pkg:maven/br.com.jarch.dsfnet/javaee-archetype@19.3.0?classifier=sources
 - pkg:maven/br.com.jarch.dsfnet/javaee-archetype@19.9.0?classifier=sources
+- pkg:maven/br.com.jarch.dsfnet/javaee-archetype@20.2.0?classifier=sources

@@ -67,6 +67,7 @@
 - pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.7.0
 - pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.7.0?classifier=sources
 - pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.7.10
+- pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.7.11
 - pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.7.2
 - pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.7.2?classifier=sources
 - pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.7.3
@@ -77,3 +78,5 @@
 - pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.7.7
 - pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.7.8
 - pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.7.9
+- pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.8.0
+- pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.8.1

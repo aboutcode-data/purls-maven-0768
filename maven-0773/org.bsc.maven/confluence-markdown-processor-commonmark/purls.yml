@@ -1,0 +1,2 @@
+- pkg:maven/org.bsc.maven/confluence-markdown-processor-commonmark@6.8
+- pkg:maven/org.bsc.maven/confluence-markdown-processor-commonmark@6.8?classifier=sources

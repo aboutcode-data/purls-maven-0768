@@ -1,0 +1,2 @@
+- pkg:maven/io.zeebe.zeeqs/app@1.0.0-alpha1
+- pkg:maven/io.zeebe.zeeqs/app@1.0.0-alpha1?classifier=sources

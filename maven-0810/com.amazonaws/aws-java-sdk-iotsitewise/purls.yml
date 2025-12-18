@@ -1,0 +1,6 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-iotsitewise@1.11.772
+- pkg:maven/com.amazonaws/aws-java-sdk-iotsitewise@1.11.772?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-iotsitewise@1.11.773
+- pkg:maven/com.amazonaws/aws-java-sdk-iotsitewise@1.11.773?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-iotsitewise@1.11.774
+- pkg:maven/com.amazonaws/aws-java-sdk-iotsitewise@1.11.774?classifier=sources

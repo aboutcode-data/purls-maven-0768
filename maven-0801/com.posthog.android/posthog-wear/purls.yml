@@ -1,0 +1,2 @@
+- pkg:maven/com.posthog.android/posthog-wear@1.0.0?classifier=sources
+- pkg:maven/com.posthog.android/posthog-wear@1.0.0?type=aar

@@ -36,3 +36,5 @@
 - pkg:maven/com.goldmansachs.obevo/obevo-db-oracle@7.2.0?classifier=sources
 - pkg:maven/com.goldmansachs.obevo/obevo-db-oracle@8.0.0
 - pkg:maven/com.goldmansachs.obevo/obevo-db-oracle@8.0.0?classifier=sources
+- pkg:maven/com.goldmansachs.obevo/obevo-db-oracle@8.1.0
+- pkg:maven/com.goldmansachs.obevo/obevo-db-oracle@8.1.0?classifier=sources

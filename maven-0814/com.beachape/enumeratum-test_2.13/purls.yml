@@ -4,3 +4,5 @@
 - pkg:maven/com.beachape/enumeratum-test_2.13@1.5.14?classifier=sources
 - pkg:maven/com.beachape/enumeratum-test_2.13@1.5.15
 - pkg:maven/com.beachape/enumeratum-test_2.13@1.5.15?classifier=sources
+- pkg:maven/com.beachape/enumeratum-test_2.13@1.6.0
+- pkg:maven/com.beachape/enumeratum-test_2.13@1.6.0?classifier=sources

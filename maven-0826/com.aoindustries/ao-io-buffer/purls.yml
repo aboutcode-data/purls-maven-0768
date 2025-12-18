@@ -22,3 +22,5 @@
 - pkg:maven/com.aoindustries/ao-io-buffer@3.0.1?classifier=sources
 - pkg:maven/com.aoindustries/ao-io-buffer@3.1.0
 - pkg:maven/com.aoindustries/ao-io-buffer@3.1.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-io-buffer@3.2.0
+- pkg:maven/com.aoindustries/ao-io-buffer@3.2.0?classifier=sources

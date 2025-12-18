@@ -4,6 +4,8 @@
 - pkg:maven/com.geirsson/junit-interface@0.11.1-scalatest?classifier=sources
 - pkg:maven/com.geirsson/junit-interface@0.11.10
 - pkg:maven/com.geirsson/junit-interface@0.11.10?classifier=sources
+- pkg:maven/com.geirsson/junit-interface@0.11.11
+- pkg:maven/com.geirsson/junit-interface@0.11.11?classifier=sources
 - pkg:maven/com.geirsson/junit-interface@0.11.2
 - pkg:maven/com.geirsson/junit-interface@0.11.2?classifier=sources
 - pkg:maven/com.geirsson/junit-interface@0.11.3

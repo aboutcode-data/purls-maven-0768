@@ -123,3 +123,5 @@
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.attachment.mgt@4.5.29?classifier=sources
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.attachment.mgt@4.5.30
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.attachment.mgt@4.5.30?classifier=sources
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.attachment.mgt@4.5.32
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.attachment.mgt@4.5.32?classifier=sources

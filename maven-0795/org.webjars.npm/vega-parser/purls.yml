@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/vega-parser@2.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/vega-parser@3.9.0
 - pkg:maven/org.webjars.npm/vega-parser@3.9.0?classifier=sources
+- pkg:maven/org.webjars.npm/vega-parser@5.13.0
+- pkg:maven/org.webjars.npm/vega-parser@5.13.0?classifier=sources

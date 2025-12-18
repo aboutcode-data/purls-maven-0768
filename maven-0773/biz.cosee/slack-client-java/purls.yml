@@ -1,0 +1,4 @@
+- pkg:maven/biz.cosee/slack-client-java@1.0
+- pkg:maven/biz.cosee/slack-client-java@1.0?classifier=sources
+- pkg:maven/biz.cosee/slack-client-java@1.1
+- pkg:maven/biz.cosee/slack-client-java@1.1?classifier=sources

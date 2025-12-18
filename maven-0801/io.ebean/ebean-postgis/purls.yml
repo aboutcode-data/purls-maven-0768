@@ -4,3 +4,5 @@
 - pkg:maven/io.ebean/ebean-postgis@11.1.1?classifier=sources
 - pkg:maven/io.ebean/ebean-postgis@12.1.1
 - pkg:maven/io.ebean/ebean-postgis@12.1.1?classifier=sources
+- pkg:maven/io.ebean/ebean-postgis@12.2.1
+- pkg:maven/io.ebean/ebean-postgis@12.2.1?classifier=sources
