@@ -1,3 +1,4 @@
+- pkg:maven/eu.toop/tc-jetty@2.0.0
 - pkg:maven/eu.toop/tc-jetty@2.0.0-beta5
 - pkg:maven/eu.toop/tc-jetty@2.0.0-beta5?classifier=sources
 - pkg:maven/eu.toop/tc-jetty@2.0.0-rc1
@@ -6,3 +7,6 @@
 - pkg:maven/eu.toop/tc-jetty@2.0.0-rc2?classifier=sources
 - pkg:maven/eu.toop/tc-jetty@2.0.0-rc3
 - pkg:maven/eu.toop/tc-jetty@2.0.0-rc3?classifier=sources
+- pkg:maven/eu.toop/tc-jetty@2.0.0?classifier=sources
+- pkg:maven/eu.toop/tc-jetty@2.0.1
+- pkg:maven/eu.toop/tc-jetty@2.0.1?classifier=sources

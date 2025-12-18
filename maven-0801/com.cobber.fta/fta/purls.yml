@@ -153,6 +153,8 @@
 - pkg:maven/com.cobber.fta/fta@2.3.8?classifier=sources
 - pkg:maven/com.cobber.fta/fta@2.3.9?classifier=sources
 - pkg:maven/com.cobber.fta/fta@3.0.0?classifier=sources
+- pkg:maven/com.cobber.fta/fta@3.0.10?classifier=sources
+- pkg:maven/com.cobber.fta/fta@3.0.11?classifier=sources
 - pkg:maven/com.cobber.fta/fta@3.0.1?classifier=sources
 - pkg:maven/com.cobber.fta/fta@3.0.2?classifier=sources
 - pkg:maven/com.cobber.fta/fta@3.0.3?classifier=sources
@@ -161,3 +163,4 @@
 - pkg:maven/com.cobber.fta/fta@3.0.6?classifier=sources
 - pkg:maven/com.cobber.fta/fta@3.0.7?classifier=sources
 - pkg:maven/com.cobber.fta/fta@3.0.8?classifier=sources
+- pkg:maven/com.cobber.fta/fta@3.0.9?classifier=sources

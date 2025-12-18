@@ -14,3 +14,11 @@
 - pkg:maven/io.orangebeard/java-client@1.0.6?classifier=sources
 - pkg:maven/io.orangebeard/java-client@1.0.7
 - pkg:maven/io.orangebeard/java-client@1.0.7?classifier=sources
+- pkg:maven/io.orangebeard/java-client@1.0.8
+- pkg:maven/io.orangebeard/java-client@1.0.8?classifier=sources
+- pkg:maven/io.orangebeard/java-client@1.1.0
+- pkg:maven/io.orangebeard/java-client@1.1.0-BETA
+- pkg:maven/io.orangebeard/java-client@1.1.0-BETA-2
+- pkg:maven/io.orangebeard/java-client@1.1.0-BETA-2?classifier=sources
+- pkg:maven/io.orangebeard/java-client@1.1.0-BETA?classifier=sources
+- pkg:maven/io.orangebeard/java-client@1.1.0?classifier=sources

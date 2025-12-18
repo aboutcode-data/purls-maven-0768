@@ -1,0 +1,2 @@
+- pkg:maven/co.luminositylabs.payara.arquillian/payara-micro-remote@2.4-ll-20200930.01
+- pkg:maven/co.luminositylabs.payara.arquillian/payara-micro-remote@2.4-ll-20200930.01?classifier=sources

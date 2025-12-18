@@ -1,2 +1,8 @@
 - pkg:maven/de.picturesafe.search/picturesafe-search-spring-boot-autoconfigure@3.4.1
 - pkg:maven/de.picturesafe.search/picturesafe-search-spring-boot-autoconfigure@3.4.1?classifier=sources
+- pkg:maven/de.picturesafe.search/picturesafe-search-spring-boot-autoconfigure@3.5.0
+- pkg:maven/de.picturesafe.search/picturesafe-search-spring-boot-autoconfigure@3.5.0?classifier=sources
+- pkg:maven/de.picturesafe.search/picturesafe-search-spring-boot-autoconfigure@3.5.1
+- pkg:maven/de.picturesafe.search/picturesafe-search-spring-boot-autoconfigure@3.5.1?classifier=sources
+- pkg:maven/de.picturesafe.search/picturesafe-search-spring-boot-autoconfigure@3.5.2
+- pkg:maven/de.picturesafe.search/picturesafe-search-spring-boot-autoconfigure@3.5.2?classifier=sources

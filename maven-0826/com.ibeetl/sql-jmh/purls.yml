@@ -1,0 +1,7 @@
+- pkg:maven/com.ibeetl/sql-jmh@3.0.0-M1
+- pkg:maven/com.ibeetl/sql-jmh@3.0.0-M2
+- pkg:maven/com.ibeetl/sql-jmh@3.0.0-M2?classifier=sources
+- pkg:maven/com.ibeetl/sql-jmh@3.0.0-M3
+- pkg:maven/com.ibeetl/sql-jmh@3.0.0-M3?classifier=sources
+- pkg:maven/com.ibeetl/sql-jmh@3.0.5-RELEASE
+- pkg:maven/com.ibeetl/sql-jmh@3.0.5-RELEASE?classifier=sources

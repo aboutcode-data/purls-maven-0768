@@ -54,3 +54,7 @@
 - pkg:maven/com.cognitect.aws/glue@801.2.705.0?classifier=sources
 - pkg:maven/com.cognitect.aws/glue@803.2.719.0
 - pkg:maven/com.cognitect.aws/glue@803.2.719.0?classifier=sources
+- pkg:maven/com.cognitect.aws/glue@807.2.729.0
+- pkg:maven/com.cognitect.aws/glue@807.2.729.0?classifier=sources
+- pkg:maven/com.cognitect.aws/glue@809.2.734.0
+- pkg:maven/com.cognitect.aws/glue@809.2.734.0?classifier=sources

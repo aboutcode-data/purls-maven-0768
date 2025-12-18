@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/nifi-oauth2-provider-nar@1.12.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-oauth2-provider-nar@1.12.1?classifier=sources

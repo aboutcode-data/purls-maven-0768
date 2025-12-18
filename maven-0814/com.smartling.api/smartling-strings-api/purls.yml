@@ -1,0 +1,6 @@
+- pkg:maven/com.smartling.api/smartling-strings-api@0.14.0
+- pkg:maven/com.smartling.api/smartling-strings-api@0.14.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-strings-api@0.14.2
+- pkg:maven/com.smartling.api/smartling-strings-api@0.14.2?classifier=sources
+- pkg:maven/com.smartling.api/smartling-strings-api@0.15.0
+- pkg:maven/com.smartling.api/smartling-strings-api@0.15.0?classifier=sources

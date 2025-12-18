@@ -117,6 +117,8 @@
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@2.0.12?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@2.0.13
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@2.0.13?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@2.0.14
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@2.0.14?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@2.0.1?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@2.0.2
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@2.0.2?classifier=sources
@@ -147,6 +149,8 @@
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@3.0.0-M15?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@3.0.0-M16
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@3.0.0-M16?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@3.0.0-M17
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@3.0.0-M17?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@3.0.0-M1?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@3.0.0-M2
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@3.0.0-M2?classifier=sources
@@ -168,9 +172,15 @@
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@4.0.0-M5
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@4.0.0-M5?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@4.0.0?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@4.0.1
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@4.0.1?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@5.0.0
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@5.0.0-M1
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@5.0.0-M1?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@5.0.0-M2
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@5.0.0-M2?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@5.0.0?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@5.0.1
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@5.0.1?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@5.0.2
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-extensions@5.0.2?classifier=sources

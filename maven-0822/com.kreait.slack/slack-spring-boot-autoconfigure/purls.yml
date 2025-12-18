@@ -1,2 +1,4 @@
 - pkg:maven/com.kreait.slack/slack-spring-boot-autoconfigure@1.0.0
 - pkg:maven/com.kreait.slack/slack-spring-boot-autoconfigure@1.0.0?classifier=sources
+- pkg:maven/com.kreait.slack/slack-spring-boot-autoconfigure@2.0.0
+- pkg:maven/com.kreait.slack/slack-spring-boot-autoconfigure@2.0.0?classifier=sources

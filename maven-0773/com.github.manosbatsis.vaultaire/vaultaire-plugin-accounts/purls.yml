@@ -1,0 +1,12 @@
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-accounts@0.26
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-accounts@0.26?classifier=sources
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-accounts@0.27
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-accounts@0.27?classifier=sources
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-accounts@0.28
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-accounts@0.28?classifier=sources
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-accounts@0.29
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-accounts@0.29?classifier=sources
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-accounts@0.30
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-accounts@0.30?classifier=sources
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-accounts@0.31
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire-plugin-accounts@0.31?classifier=sources

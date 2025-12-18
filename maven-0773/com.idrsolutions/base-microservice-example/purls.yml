@@ -26,3 +26,5 @@
 - pkg:maven/com.idrsolutions/base-microservice-example@6.0.1-alpha?classifier=sources
 - pkg:maven/com.idrsolutions/base-microservice-example@7.0.0-alpha
 - pkg:maven/com.idrsolutions/base-microservice-example@7.0.0-alpha?classifier=sources
+- pkg:maven/com.idrsolutions/base-microservice-example@8.0.0
+- pkg:maven/com.idrsolutions/base-microservice-example@8.0.0?classifier=sources

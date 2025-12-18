@@ -1,0 +1,2 @@
+- pkg:maven/org.teiid.connectors/file-hdfs@15.0.0
+- pkg:maven/org.teiid.connectors/file-hdfs@15.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/dev.zio/izumi-reflect_0.26@1.0.0-M5
 - pkg:maven/dev.zio/izumi-reflect_0.26@1.0.0-M5?classifier=sources
+- pkg:maven/dev.zio/izumi-reflect_0.26@1.0.0-M6
+- pkg:maven/dev.zio/izumi-reflect_0.26@1.0.0-M6?classifier=sources

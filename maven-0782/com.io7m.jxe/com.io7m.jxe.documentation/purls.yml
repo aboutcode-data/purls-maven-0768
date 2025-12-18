@@ -2,3 +2,5 @@
 - pkg:maven/com.io7m.jxe/com.io7m.jxe.documentation@0.0.1?type=zip
 - pkg:maven/com.io7m.jxe/com.io7m.jxe.documentation@0.0.2?classifier=sources
 - pkg:maven/com.io7m.jxe/com.io7m.jxe.documentation@0.0.2?type=zip
+- pkg:maven/com.io7m.jxe/com.io7m.jxe.documentation@1.0.0?classifier=sources
+- pkg:maven/com.io7m.jxe/com.io7m.jxe.documentation@1.0.0?type=zip

@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/vega-expression@2.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/vega-expression@2.6.3
 - pkg:maven/org.webjars.npm/vega-expression@2.6.3?classifier=sources
+- pkg:maven/org.webjars.npm/vega-expression@2.7.0
+- pkg:maven/org.webjars.npm/vega-expression@2.7.0?classifier=sources

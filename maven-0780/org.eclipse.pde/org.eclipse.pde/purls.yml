@@ -5,6 +5,7 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.100
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.1000
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.1100
+- pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.1200
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.2
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.3
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.300

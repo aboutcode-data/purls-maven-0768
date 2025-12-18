@@ -1,0 +1,4 @@
+- pkg:maven/net.consensys.quorum.tessera/tessera-core@0.11.0
+- pkg:maven/net.consensys.quorum.tessera/tessera-core@0.11.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/tessera-core@1.0.0
+- pkg:maven/net.consensys.quorum.tessera/tessera-core@1.0.0?classifier=sources

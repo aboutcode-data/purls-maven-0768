@@ -10,3 +10,5 @@
 - pkg:maven/cd.connect.common/connect-opentracing-logging-wrapper@1.5?classifier=sources
 - pkg:maven/cd.connect.common/connect-opentracing-logging-wrapper@1.6
 - pkg:maven/cd.connect.common/connect-opentracing-logging-wrapper@1.6?classifier=sources
+- pkg:maven/cd.connect.common/connect-opentracing-logging-wrapper@2.1
+- pkg:maven/cd.connect.common/connect-opentracing-logging-wrapper@2.1?classifier=sources

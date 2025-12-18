@@ -1,0 +1,2 @@
+- pkg:maven/com.beachape/enumeratum-argonaut_sjs1_2.13@1.6.1
+- pkg:maven/com.beachape/enumeratum-argonaut_sjs1_2.13@1.6.1?classifier=sources

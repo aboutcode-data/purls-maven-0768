@@ -8,3 +8,5 @@
 - pkg:maven/io.github.kilmajster/minimal-blog-spring-boot-starter@0.2-09072020?classifier=sources
 - pkg:maven/io.github.kilmajster/minimal-blog-spring-boot-starter@0.2-poc
 - pkg:maven/io.github.kilmajster/minimal-blog-spring-boot-starter@0.2-poc?classifier=sources
+- pkg:maven/io.github.kilmajster/minimal-blog-spring-boot-starter@0.3
+- pkg:maven/io.github.kilmajster/minimal-blog-spring-boot-starter@0.3?classifier=sources

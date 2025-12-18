@@ -1,2 +1,3 @@
 - pkg:maven/com.javiersc.resources/resource-jvm@1.0.0?classifier=sources
 - pkg:maven/com.javiersc.resources/resource-jvm@2.0.0?classifier=sources
+- pkg:maven/com.javiersc.resources/resource-jvm@3.1.0?classifier=sources

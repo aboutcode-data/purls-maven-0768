@@ -1,3 +1,7 @@
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.0.Beta10
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.0.Beta10?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.0.Beta11
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.0.Beta11?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.0.Beta2
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.0.Beta2?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.0.Beta3

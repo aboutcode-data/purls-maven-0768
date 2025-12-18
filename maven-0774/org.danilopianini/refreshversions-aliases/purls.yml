@@ -8,3 +8,5 @@
 - pkg:maven/org.danilopianini/refreshversions-aliases@0.1.1?classifier=sources
 - pkg:maven/org.danilopianini/refreshversions-aliases@0.1.2-dev03%2Bdbc3155?classifier=sources
 - pkg:maven/org.danilopianini/refreshversions-aliases@0.1.2?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.4?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.5?classifier=sources

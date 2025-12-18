@@ -1,3 +1,4 @@
+- pkg:maven/org.kaazing/specification.turn@3.0.0
 - pkg:maven/org.kaazing/specification.turn@3.0.0-alpha-085
 - pkg:maven/org.kaazing/specification.turn@3.0.0-alpha-085?classifier=sources
 - pkg:maven/org.kaazing/specification.turn@3.0.0-alpha-100
@@ -138,3 +139,6 @@
 - pkg:maven/org.kaazing/specification.turn@3.0.0-alpha-98?classifier=sources
 - pkg:maven/org.kaazing/specification.turn@3.0.0-alpha-99
 - pkg:maven/org.kaazing/specification.turn@3.0.0-alpha-99?classifier=sources
+- pkg:maven/org.kaazing/specification.turn@3.0.0?classifier=sources
+- pkg:maven/org.kaazing/specification.turn@3.1.0
+- pkg:maven/org.kaazing/specification.turn@3.1.0?classifier=sources

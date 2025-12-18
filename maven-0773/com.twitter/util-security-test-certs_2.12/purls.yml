@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter/util-security-test-certs_2.12@20.9.0
+- pkg:maven/com.twitter/util-security-test-certs_2.12@20.9.0?classifier=sources

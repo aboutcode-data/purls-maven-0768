@@ -15,3 +15,5 @@
 - pkg:maven/org.jboss.windup/windup-openshift-parent@5.0.0.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.windup/windup-openshift-parent@5.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.windup/windup-openshift-parent@5.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.windup/windup-openshift-parent@5.0.1.Alpha1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.windup/windup-openshift-parent@5.0.1.Final?classifier=source-release&type=zip

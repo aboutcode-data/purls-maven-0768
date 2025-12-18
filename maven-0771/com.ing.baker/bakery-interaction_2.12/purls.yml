@@ -1,0 +1,4 @@
+- pkg:maven/com.ing.baker/bakery-interaction_2.12@3.0.7
+- pkg:maven/com.ing.baker/bakery-interaction_2.12@3.0.7?classifier=sources
+- pkg:maven/com.ing.baker/bakery-interaction_2.12@3.1.0
+- pkg:maven/com.ing.baker/bakery-interaction_2.12@3.1.0?classifier=sources

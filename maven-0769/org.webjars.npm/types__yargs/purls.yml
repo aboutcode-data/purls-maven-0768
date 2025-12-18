@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/types__yargs@12.0.10?classifier=sources
 - pkg:maven/org.webjars.npm/types__yargs@12.0.12
 - pkg:maven/org.webjars.npm/types__yargs@12.0.12?classifier=sources
+- pkg:maven/org.webjars.npm/types__yargs@15.0.7
+- pkg:maven/org.webjars.npm/types__yargs@15.0.7?classifier=sources
+- pkg:maven/org.webjars.npm/types__yargs@15.0.8
+- pkg:maven/org.webjars.npm/types__yargs@15.0.8?classifier=sources

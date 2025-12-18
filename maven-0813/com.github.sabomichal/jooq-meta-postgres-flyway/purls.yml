@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sabomichal/jooq-meta-postgres-flyway@1.0.1
+- pkg:maven/com.github.sabomichal/jooq-meta-postgres-flyway@1.0.1?classifier=sources

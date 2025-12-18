@@ -42,3 +42,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@2.3-Beta-3
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@2.3-Beta-3?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@2.3?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@2.4-Alpha-2
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-agreement-client@2.4-Alpha-2?classifier=sources

@@ -11,3 +11,5 @@
 - pkg:maven/com.github.ichelon/framework-core@1.0.1.RELEASE?classifier=sources
 - pkg:maven/com.github.ichelon/framework-core@1.0.2.RELEASE
 - pkg:maven/com.github.ichelon/framework-core@1.0.2.RELEASE?classifier=sources
+- pkg:maven/com.github.ichelon/framework-core@2.0.0.RELEASE
+- pkg:maven/com.github.ichelon/framework-core@2.0.0.RELEASE?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@5.0?classifier=sources
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@5.1
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@5.1?classifier=sources
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@5.2
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-schemas@5.2?classifier=sources

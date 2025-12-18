@@ -1,0 +1,10 @@
+- pkg:maven/com.github.huifer/template@0.0.1-Releases
+- pkg:maven/com.github.huifer/template@0.0.1-Releases?classifier=sources
+- pkg:maven/com.github.huifer/template@0.0.2-Releases
+- pkg:maven/com.github.huifer/template@0.0.2-Releases?classifier=sources
+- pkg:maven/com.github.huifer/template@0.0.3-Releases
+- pkg:maven/com.github.huifer/template@0.0.3-Releases?classifier=sources
+- pkg:maven/com.github.huifer/template@0.0.4-Releases
+- pkg:maven/com.github.huifer/template@0.0.4-Releases-hotfix
+- pkg:maven/com.github.huifer/template@0.0.4-Releases-hotfix?classifier=sources
+- pkg:maven/com.github.huifer/template@0.0.4-Releases?classifier=sources

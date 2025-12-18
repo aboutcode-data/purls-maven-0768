@@ -1,0 +1,2 @@
+- pkg:maven/org.modelmapper/modelmapper-module-java8-datatypes@1.2.2
+- pkg:maven/org.modelmapper/modelmapper-module-java8-datatypes@1.2.2?classifier=sources

@@ -20,3 +20,11 @@
 - pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_native0.4.0-M2_2.11@1.0.0-M4?classifier=sources
 - pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_native0.4.0-M2_2.11@1.0.0-M5
 - pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_native0.4.0-M2_2.11@1.0.0-M5?classifier=sources
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_native0.4.0-M2_2.11@1.0.0-M6
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_native0.4.0-M2_2.11@1.0.0-M6?classifier=sources
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_native0.4.0-M2_2.11@1.0.0-M7
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_native0.4.0-M2_2.11@1.0.0-M7?classifier=sources
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_native0.4.0-M2_2.11@1.0.0-M8
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_native0.4.0-M2_2.11@1.0.0-M8?classifier=sources
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_native0.4.0-M2_2.11@1.0.0-M9
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_native0.4.0-M2_2.11@1.0.0-M9?classifier=sources

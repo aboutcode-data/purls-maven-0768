@@ -22,3 +22,5 @@
 - pkg:maven/xyz.tneciv/common-core@Qin.RELEASE?classifier=sources
 - pkg:maven/xyz.tneciv/common-core@Qin.SR1
 - pkg:maven/xyz.tneciv/common-core@Qin.SR1?classifier=sources
+- pkg:maven/xyz.tneciv/common-core@Qin.SR2
+- pkg:maven/xyz.tneciv/common-core@Qin.SR2?classifier=sources

@@ -196,6 +196,8 @@
 - pkg:maven/io.airlift/http-server@0.197?classifier=sources
 - pkg:maven/io.airlift/http-server@0.198
 - pkg:maven/io.airlift/http-server@0.198?classifier=sources
+- pkg:maven/io.airlift/http-server@0.199
+- pkg:maven/io.airlift/http-server@0.199?classifier=sources
 - pkg:maven/io.airlift/http-server@0.65
 - pkg:maven/io.airlift/http-server@0.65?classifier=sources
 - pkg:maven/io.airlift/http-server@0.66
@@ -266,3 +268,7 @@
 - pkg:maven/io.airlift/http-server@0.98?classifier=sources
 - pkg:maven/io.airlift/http-server@0.99
 - pkg:maven/io.airlift/http-server@0.99?classifier=sources
+- pkg:maven/io.airlift/http-server@200
+- pkg:maven/io.airlift/http-server@200?classifier=sources
+- pkg:maven/io.airlift/http-server@201
+- pkg:maven/io.airlift/http-server@201?classifier=sources

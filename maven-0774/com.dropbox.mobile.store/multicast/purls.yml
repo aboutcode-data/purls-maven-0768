@@ -10,3 +10,7 @@
 - pkg:maven/com.dropbox.mobile.store/multicast@4.0.0-alpha05?classifier=sources
 - pkg:maven/com.dropbox.mobile.store/multicast@4.0.0-alpha06
 - pkg:maven/com.dropbox.mobile.store/multicast@4.0.0-alpha06?classifier=sources
+- pkg:maven/com.dropbox.mobile.store/multicast@4.0.0-alpha07
+- pkg:maven/com.dropbox.mobile.store/multicast@4.0.0-alpha07?classifier=sources
+- pkg:maven/com.dropbox.mobile.store/multicast@4.0.0-beta01
+- pkg:maven/com.dropbox.mobile.store/multicast@4.0.0-beta01?classifier=sources

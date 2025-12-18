@@ -43,3 +43,9 @@
 - pkg:maven/pt.lightweightform.plugins/lf-kotlin-common-js@4.0.0-alpha.57?classifier=sources
 - pkg:maven/pt.lightweightform.plugins/lf-kotlin-common-js@4.0.0-alpha.58
 - pkg:maven/pt.lightweightform.plugins/lf-kotlin-common-js@4.0.0-alpha.58?classifier=sources
+- pkg:maven/pt.lightweightform.plugins/lf-kotlin-common-js@4.0.0-alpha.61
+- pkg:maven/pt.lightweightform.plugins/lf-kotlin-common-js@4.0.0-alpha.61?classifier=sources
+- pkg:maven/pt.lightweightform.plugins/lf-kotlin-common-js@4.0.0-alpha.62
+- pkg:maven/pt.lightweightform.plugins/lf-kotlin-common-js@4.0.0-alpha.62?classifier=sources
+- pkg:maven/pt.lightweightform.plugins/lf-kotlin-common-js@4.0.0-alpha.63
+- pkg:maven/pt.lightweightform.plugins/lf-kotlin-common-js@4.0.0-alpha.63?classifier=sources

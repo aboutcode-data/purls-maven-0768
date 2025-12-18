@@ -20,3 +20,9 @@
 - pkg:maven/tk.labyrinth/jaap@0.2.6b?classifier=sources
 - pkg:maven/tk.labyrinth/jaap@0.2.7
 - pkg:maven/tk.labyrinth/jaap@0.2.7?classifier=sources
+- pkg:maven/tk.labyrinth/jaap@0.3.0
+- pkg:maven/tk.labyrinth/jaap@0.3.0?classifier=sources
+- pkg:maven/tk.labyrinth/jaap@0.3.0b
+- pkg:maven/tk.labyrinth/jaap@0.3.0b?classifier=sources
+- pkg:maven/tk.labyrinth/jaap@0.3.1
+- pkg:maven/tk.labyrinth/jaap@0.3.1?classifier=sources

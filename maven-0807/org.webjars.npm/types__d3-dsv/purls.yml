@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/types__d3-dsv@1.0.31?classifier=sources
 - pkg:maven/org.webjars.npm/types__d3-dsv@1.0.36
 - pkg:maven/org.webjars.npm/types__d3-dsv@1.0.36?classifier=sources
+- pkg:maven/org.webjars.npm/types__d3-dsv@1.2.1
+- pkg:maven/org.webjars.npm/types__d3-dsv@1.2.1?classifier=sources

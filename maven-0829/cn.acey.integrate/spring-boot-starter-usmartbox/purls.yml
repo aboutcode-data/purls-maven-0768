@@ -1,0 +1,15 @@
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate1
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate1?classifier=sources
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate2
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate2?classifier=sources
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate3
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate3?classifier=sources
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate4
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate4?classifier=sources
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate6
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate6?classifier=sources
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate7?classifier=sources
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate8
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate8?classifier=sources
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate9
+- pkg:maven/cn.acey.integrate/spring-boot-starter-usmartbox@1.0.0-bate9?classifier=sources

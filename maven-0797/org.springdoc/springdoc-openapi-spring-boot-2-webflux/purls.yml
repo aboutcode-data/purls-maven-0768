@@ -1,0 +1,2 @@
+- pkg:maven/org.springdoc/springdoc-openapi-spring-boot-2-webflux@3.1.4
+- pkg:maven/org.springdoc/springdoc-openapi-spring-boot-2-webflux@3.1.4?classifier=sources

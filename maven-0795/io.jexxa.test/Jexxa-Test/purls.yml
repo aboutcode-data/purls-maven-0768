@@ -1,0 +1,2 @@
+- pkg:maven/io.jexxa.test/Jexxa-Test@2.4.0
+- pkg:maven/io.jexxa.test/Jexxa-Test@2.4.0?classifier=sources

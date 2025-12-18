@@ -1,0 +1,2 @@
+- pkg:maven/io.bootique.jetty/bootique-jetty-docs@1.2
+- pkg:maven/io.bootique.jetty/bootique-jetty-docs@2.0.M1

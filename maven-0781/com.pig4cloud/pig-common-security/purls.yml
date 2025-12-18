@@ -1,0 +1,2 @@
+- pkg:maven/com.pig4cloud/pig-common-security@2.8.1
+- pkg:maven/com.pig4cloud/pig-common-security@2.8.1?classifier=sources

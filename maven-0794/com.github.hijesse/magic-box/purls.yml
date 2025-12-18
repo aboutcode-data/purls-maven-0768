@@ -4,3 +4,7 @@
 - pkg:maven/com.github.hijesse/magic-box@0.5.1?type=aar
 - pkg:maven/com.github.hijesse/magic-box@1.0.0?classifier=sources
 - pkg:maven/com.github.hijesse/magic-box@1.0.0?type=aar
+- pkg:maven/com.github.hijesse/magic-box@1.1.0?classifier=sources
+- pkg:maven/com.github.hijesse/magic-box@1.1.0?type=aar
+- pkg:maven/com.github.hijesse/magic-box@1.1.1?classifier=sources
+- pkg:maven/com.github.hijesse/magic-box@1.1.1?type=aar

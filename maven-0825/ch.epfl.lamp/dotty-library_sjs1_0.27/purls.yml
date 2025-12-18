@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.lamp/dotty-library_sjs1_0.27@0.27.0-RC1
+- pkg:maven/ch.epfl.lamp/dotty-library_sjs1_0.27@0.27.0-RC1?classifier=sources

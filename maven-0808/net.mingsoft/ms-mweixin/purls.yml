@@ -1,5 +1,7 @@
 - pkg:maven/net.mingsoft/ms-mweixin@1.0.10
 - pkg:maven/net.mingsoft/ms-mweixin@1.0.10?classifier=sources
+- pkg:maven/net.mingsoft/ms-mweixin@1.0.11
+- pkg:maven/net.mingsoft/ms-mweixin@1.0.11?classifier=sources
 - pkg:maven/net.mingsoft/ms-mweixin@1.0.7?type=war
 - pkg:maven/net.mingsoft/ms-mweixin@1.0.8
 - pkg:maven/net.mingsoft/ms-mweixin@1.0.8?classifier=sources

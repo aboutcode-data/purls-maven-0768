@@ -1,0 +1,2 @@
+- pkg:maven/com.github.paganini2008.springworld/jdbc-spring-boot-starter@2.0-RC4
+- pkg:maven/com.github.paganini2008.springworld/jdbc-spring-boot-starter@2.0-RC4?classifier=sources

@@ -1,3 +1,7 @@
+- pkg:maven/dev.galasa/dev.galasa.core.manager.ivt@0.10.0
+- pkg:maven/dev.galasa/dev.galasa.core.manager.ivt@0.10.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.core.manager.ivt@0.11.0
+- pkg:maven/dev.galasa/dev.galasa.core.manager.ivt@0.11.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.core.manager.ivt@0.3.0
 - pkg:maven/dev.galasa/dev.galasa.core.manager.ivt@0.3.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.core.manager.ivt@0.4.0

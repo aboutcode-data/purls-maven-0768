@@ -42,3 +42,5 @@
 - pkg:maven/com.github.markozajc/akiwrapper@1.4.3.2?classifier=sources
 - pkg:maven/com.github.markozajc/akiwrapper@1.4.3?classifier=sources
 - pkg:maven/com.github.markozajc/akiwrapper@1.4?classifier=sources
+- pkg:maven/com.github.markozajc/akiwrapper@1.5
+- pkg:maven/com.github.markozajc/akiwrapper@1.5?classifier=sources

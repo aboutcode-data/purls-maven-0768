@@ -1,0 +1,2 @@
+- pkg:maven/org.openforis.calc/calc-control-panel@2.1.a16
+- pkg:maven/org.openforis.calc/calc-control-panel@2.1.a16?classifier=sources

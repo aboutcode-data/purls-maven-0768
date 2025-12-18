@@ -1,3 +1,5 @@
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-xmlrpc@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-xmlrpc@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-xmlrpc@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-xmlrpc@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-xmlrpc@RELEASE121?classifier=sources

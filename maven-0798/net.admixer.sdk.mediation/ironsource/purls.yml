@@ -2,3 +2,4 @@
 - pkg:maven/net.admixer.sdk.mediation/ironsource@0.0.2?type=aar
 - pkg:maven/net.admixer.sdk.mediation/ironsource@0.0.3?type=aar
 - pkg:maven/net.admixer.sdk.mediation/ironsource@0.0.4?type=aar
+- pkg:maven/net.admixer.sdk.mediation/ironsource@1.1.2.0?type=aar

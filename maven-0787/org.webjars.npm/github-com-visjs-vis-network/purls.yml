@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-visjs-vis-network@0.0.0-no-version
+- pkg:maven/org.webjars.npm/github-com-visjs-vis-network@0.0.0-no-version?classifier=sources

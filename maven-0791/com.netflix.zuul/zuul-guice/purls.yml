@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.zuul/zuul-guice@2.1.8?classifier=sources
+- pkg:maven/com.netflix.zuul/zuul-guice@2.1.9?classifier=sources

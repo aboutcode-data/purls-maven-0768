@@ -1,3 +1,4 @@
+- pkg:maven/com.rabobank.argos/argos-service@0.0.1
 - pkg:maven/com.rabobank.argos/argos-service@0.0.1-RC3
 - pkg:maven/com.rabobank.argos/argos-service@0.0.1-RC3?classifier=sources
 - pkg:maven/com.rabobank.argos/argos-service@0.0.1-RC4
@@ -8,3 +9,8 @@
 - pkg:maven/com.rabobank.argos/argos-service@0.0.1-RC6?classifier=sources
 - pkg:maven/com.rabobank.argos/argos-service@0.0.1-RC8
 - pkg:maven/com.rabobank.argos/argos-service@0.0.1-RC8?classifier=sources
+- pkg:maven/com.rabobank.argos/argos-service@0.0.1-RC9
+- pkg:maven/com.rabobank.argos/argos-service@0.0.1-RC9?classifier=sources
+- pkg:maven/com.rabobank.argos/argos-service@0.0.1?classifier=sources
+- pkg:maven/com.rabobank.argos/argos-service@0.1.0
+- pkg:maven/com.rabobank.argos/argos-service@0.1.0?classifier=sources

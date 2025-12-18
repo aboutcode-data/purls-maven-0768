@@ -1,0 +1,4 @@
+- pkg:maven/vip.efactory/embp@1.0.0
+- pkg:maven/vip.efactory/embp@1.0.0?classifier=sources
+- pkg:maven/vip.efactory/embp@1.1.0
+- pkg:maven/vip.efactory/embp@1.1.0?classifier=sources

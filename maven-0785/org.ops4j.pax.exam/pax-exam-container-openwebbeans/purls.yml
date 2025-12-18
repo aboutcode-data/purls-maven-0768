@@ -42,6 +42,8 @@
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-openwebbeans@4.13.2?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-openwebbeans@4.13.3
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-openwebbeans@4.13.3?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/pax-exam-container-openwebbeans@4.13.4
+- pkg:maven/org.ops4j.pax.exam/pax-exam-container-openwebbeans@4.13.4?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-openwebbeans@4.6.0
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-openwebbeans@4.6.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-openwebbeans@4.7.0

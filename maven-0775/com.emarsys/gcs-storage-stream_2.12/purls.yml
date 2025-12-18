@@ -1,6 +1,10 @@
 - pkg:maven/com.emarsys/gcs-storage-stream_2.12@1.3.0
 - pkg:maven/com.emarsys/gcs-storage-stream_2.12@1.3.0%2B1-ae66565c
 - pkg:maven/com.emarsys/gcs-storage-stream_2.12@1.3.0%2B1-ae66565c?classifier=sources
+- pkg:maven/com.emarsys/gcs-storage-stream_2.12@1.3.0%2B9-b98755b1
+- pkg:maven/com.emarsys/gcs-storage-stream_2.12@1.3.0%2B9-b98755b1?classifier=sources
 - pkg:maven/com.emarsys/gcs-storage-stream_2.12@1.3.0?classifier=sources
 - pkg:maven/com.emarsys/gcs-storage-stream_2.12@1839abe7
 - pkg:maven/com.emarsys/gcs-storage-stream_2.12@1839abe7?classifier=sources
+- pkg:maven/com.emarsys/gcs-storage-stream_2.12@2.0.0
+- pkg:maven/com.emarsys/gcs-storage-stream_2.12@2.0.0?classifier=sources

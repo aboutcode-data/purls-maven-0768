@@ -1,0 +1,2 @@
+- pkg:maven/com.rbkmoney/adapter-cashreg-spring-boot-starter@1.0.2
+- pkg:maven/com.rbkmoney/adapter-cashreg-spring-boot-starter@1.0.2?classifier=sources

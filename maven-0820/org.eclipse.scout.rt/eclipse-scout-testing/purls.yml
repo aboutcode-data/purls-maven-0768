@@ -6,7 +6,12 @@
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@10.0.21
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@10.0.26
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@10.0.27
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@10.0.28
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@10.0.3
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@10.0.30
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@10.0.31
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@10.0.33
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@10.0.37
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@10.0.6
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@10.0.7
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@10.0.8
@@ -16,3 +21,4 @@
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@11.0.0-alpha.3
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@11.0.0-alpha.4
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@11.0.0-alpha.5
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-testing@11.0.0-alpha.6

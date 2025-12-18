@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/bootstrap-input-spinner@1.11.4?classifier=sources
 - pkg:maven/org.webjars.npm/bootstrap-input-spinner@1.13.3
 - pkg:maven/org.webjars.npm/bootstrap-input-spinner@1.13.3?classifier=sources
+- pkg:maven/org.webjars.npm/bootstrap-input-spinner@1.16.5
+- pkg:maven/org.webjars.npm/bootstrap-input-spinner@1.16.5?classifier=sources

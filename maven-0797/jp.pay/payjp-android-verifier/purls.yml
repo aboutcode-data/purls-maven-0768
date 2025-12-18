@@ -4,3 +4,5 @@
 - pkg:maven/jp.pay/payjp-android-verifier@1.2.1?type=aar
 - pkg:maven/jp.pay/payjp-android-verifier@1.2.2?classifier=sources
 - pkg:maven/jp.pay/payjp-android-verifier@1.2.2?type=aar
+- pkg:maven/jp.pay/payjp-android-verifier@1.3.0?classifier=sources
+- pkg:maven/jp.pay/payjp-android-verifier@1.3.0?type=aar

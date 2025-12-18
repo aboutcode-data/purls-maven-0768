@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/v-calendar@0.9.7?classifier=sources
 - pkg:maven/org.webjars.npm/v-calendar@1.0.0-beta.22
 - pkg:maven/org.webjars.npm/v-calendar@1.0.0-beta.22?classifier=sources
+- pkg:maven/org.webjars.npm/v-calendar@1.0.8
+- pkg:maven/org.webjars.npm/v-calendar@1.0.8?classifier=sources

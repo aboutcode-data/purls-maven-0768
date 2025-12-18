@@ -12,3 +12,5 @@
 - pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-coherence@4.8.0?classifier=sources
 - pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-coherence@4.9.0
 - pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-coherence@4.9.0?classifier=sources
+- pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-coherence@5.0.0-beta.01-09-2020
+- pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-coherence@5.0.0-beta.01-09-2020?classifier=sources

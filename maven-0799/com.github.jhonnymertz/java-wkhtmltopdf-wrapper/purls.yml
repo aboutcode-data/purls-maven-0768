@@ -4,6 +4,8 @@
 - pkg:maven/com.github.jhonnymertz/java-wkhtmltopdf-wrapper@1.1.11-RELEASE?classifier=sources
 - pkg:maven/com.github.jhonnymertz/java-wkhtmltopdf-wrapper@1.1.12-RELEASE
 - pkg:maven/com.github.jhonnymertz/java-wkhtmltopdf-wrapper@1.1.12-RELEASE?classifier=sources
+- pkg:maven/com.github.jhonnymertz/java-wkhtmltopdf-wrapper@1.1.13-RELEASE
+- pkg:maven/com.github.jhonnymertz/java-wkhtmltopdf-wrapper@1.1.13-RELEASE?classifier=sources
 - pkg:maven/com.github.jhonnymertz/java-wkhtmltopdf-wrapper@1.1.6-RELEASE
 - pkg:maven/com.github.jhonnymertz/java-wkhtmltopdf-wrapper@1.1.6-RELEASE?classifier=sources
 - pkg:maven/com.github.jhonnymertz/java-wkhtmltopdf-wrapper@1.1.7-RELEASE

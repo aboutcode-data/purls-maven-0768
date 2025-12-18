@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zouchongjin/spring-boot-starter-huafon-module-system@1.0.0
+- pkg:maven/com.github.zouchongjin/spring-boot-starter-huafon-module-system@1.0.0?classifier=sources

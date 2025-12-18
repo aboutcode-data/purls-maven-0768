@@ -28,3 +28,5 @@
 - pkg:maven/xyz.tneciv/minio-starter@Qin.SR1.1
 - pkg:maven/xyz.tneciv/minio-starter@Qin.SR1.1?classifier=sources
 - pkg:maven/xyz.tneciv/minio-starter@Qin.SR1?classifier=sources
+- pkg:maven/xyz.tneciv/minio-starter@Qin.SR2
+- pkg:maven/xyz.tneciv/minio-starter@Qin.SR2?classifier=sources

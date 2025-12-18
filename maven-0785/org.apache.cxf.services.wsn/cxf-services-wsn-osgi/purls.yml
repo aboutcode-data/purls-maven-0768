@@ -218,3 +218,5 @@
 - pkg:maven/org.apache.cxf.services.wsn/cxf-services-wsn-osgi@3.3.6?classifier=sources
 - pkg:maven/org.apache.cxf.services.wsn/cxf-services-wsn-osgi@3.3.7
 - pkg:maven/org.apache.cxf.services.wsn/cxf-services-wsn-osgi@3.3.7?classifier=sources
+- pkg:maven/org.apache.cxf.services.wsn/cxf-services-wsn-osgi@3.4.0
+- pkg:maven/org.apache.cxf.services.wsn/cxf-services-wsn-osgi@3.4.0?classifier=sources

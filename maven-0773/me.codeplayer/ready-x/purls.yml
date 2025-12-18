@@ -6,3 +6,11 @@
 - pkg:maven/me.codeplayer/ready-x@2.6-RELEASE?classifier=sources
 - pkg:maven/me.codeplayer/ready-x@2.7-RELEASE
 - pkg:maven/me.codeplayer/ready-x@2.7-RELEASE?classifier=sources
+- pkg:maven/me.codeplayer/ready-x@2.8-RELEASE
+- pkg:maven/me.codeplayer/ready-x@2.8-RELEASE?classifier=sources
+- pkg:maven/me.codeplayer/ready-x@2.8.0-RELEASE
+- pkg:maven/me.codeplayer/ready-x@2.8.0-RELEASE?classifier=sources
+- pkg:maven/me.codeplayer/ready-x@3.0.0-RELEASE
+- pkg:maven/me.codeplayer/ready-x@3.0.0-RELEASE?classifier=sources
+- pkg:maven/me.codeplayer/ready-x@3.0.1-RELEASE
+- pkg:maven/me.codeplayer/ready-x@3.0.1-RELEASE?classifier=sources

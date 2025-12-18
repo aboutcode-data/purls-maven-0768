@@ -8,3 +8,11 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.24?classifier=sources
 - pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.25
 - pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.25?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.26
+- pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.26?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.27
+- pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.27?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.28
+- pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.28?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.29
+- pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.29?classifier=sources

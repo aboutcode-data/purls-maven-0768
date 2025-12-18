@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.cxf/cxf-rt-rs-extension-rx@3.3.6?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-extension-rx@3.3.7
 - pkg:maven/org.apache.cxf/cxf-rt-rs-extension-rx@3.3.7?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-extension-rx@3.4.0
+- pkg:maven/org.apache.cxf/cxf-rt-rs-extension-rx@3.4.0?classifier=sources

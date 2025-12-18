@@ -47,3 +47,5 @@
 - pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-starter@0.5.4
 - pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-starter@0.5.5
 - pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-starter@0.5.6
+- pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-starter@0.5.7
+- pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-starter@0.5.8

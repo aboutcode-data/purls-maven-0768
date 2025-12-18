@@ -6,3 +6,7 @@
 - pkg:maven/org.beangle.serializer/beangle-serializer-text_2.13@0.0.13?classifier=sources
 - pkg:maven/org.beangle.serializer/beangle-serializer-text_2.13@0.0.14
 - pkg:maven/org.beangle.serializer/beangle-serializer-text_2.13@0.0.14?classifier=sources
+- pkg:maven/org.beangle.serializer/beangle-serializer-text_2.13@0.0.15
+- pkg:maven/org.beangle.serializer/beangle-serializer-text_2.13@0.0.15?classifier=sources
+- pkg:maven/org.beangle.serializer/beangle-serializer-text_2.13@0.0.16
+- pkg:maven/org.beangle.serializer/beangle-serializer-text_2.13@0.0.16?classifier=sources

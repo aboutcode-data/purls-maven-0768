@@ -1,0 +1,2 @@
+- pkg:maven/co.com.sofka/redis-cache@1.0.1
+- pkg:maven/co.com.sofka/redis-cache@1.0.1?classifier=sources

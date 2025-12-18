@@ -16,5 +16,7 @@
 - pkg:maven/org.teiid.wildfly/test-integration-common@13.0.3
 - pkg:maven/org.teiid.wildfly/test-integration-common@13.1.0
 - pkg:maven/org.teiid.wildfly/test-integration-common@13.1.1
+- pkg:maven/org.teiid.wildfly/test-integration-common@13.1.2
 - pkg:maven/org.teiid.wildfly/test-integration-common@14.0.0
 - pkg:maven/org.teiid.wildfly/test-integration-common@14.0.1
+- pkg:maven/org.teiid.wildfly/test-integration-common@15.0.0

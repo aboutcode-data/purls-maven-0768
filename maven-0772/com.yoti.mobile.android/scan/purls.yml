@@ -3,3 +3,5 @@
 - pkg:maven/com.yoti.mobile.android/scan@2.0.1?type=aar
 - pkg:maven/com.yoti.mobile.android/scan@2.0.2?type=aar
 - pkg:maven/com.yoti.mobile.android/scan@2.0.3?type=aar
+- pkg:maven/com.yoti.mobile.android/scan@2.0.4?type=aar
+- pkg:maven/com.yoti.mobile.android/scan@2.1.0?type=aar

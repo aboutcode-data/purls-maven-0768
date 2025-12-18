@@ -1,0 +1,2 @@
+- pkg:maven/com.krux/hyperion_2.13@7.0.0-RC1
+- pkg:maven/com.krux/hyperion_2.13@7.0.0-RC1?classifier=sources

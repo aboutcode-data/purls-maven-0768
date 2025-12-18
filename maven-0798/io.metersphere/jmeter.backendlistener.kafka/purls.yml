@@ -1,0 +1,2 @@
+- pkg:maven/io.metersphere/jmeter.backendlistener.kafka@1.0.1
+- pkg:maven/io.metersphere/jmeter.backendlistener.kafka@1.0.1?classifier=sources

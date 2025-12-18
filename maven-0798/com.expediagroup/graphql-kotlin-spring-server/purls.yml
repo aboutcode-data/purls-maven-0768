@@ -39,6 +39,7 @@
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-server@2.0.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-server@2.1.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-server@2.1.1?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@2.1.2?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-server@3.0.0-RC2?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-server@3.0.0-RC5?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-server@3.0.0-RC6?classifier=sources
@@ -53,3 +54,18 @@
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-server@3.3.1?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-server@3.4.1?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-server@3.4.2?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@3.5.0?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@3.5.1?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@3.6.0?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@3.6.1?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@3.6.2?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@3.6.4?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@3.6.5?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@4.0.0-alpha.0?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@4.0.0-alpha.1?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@4.0.0-alpha.2?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@4.0.0-alpha.3?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@4.0.0-alpha.4?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@4.0.0-alpha.5?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@4.0.0-alpha.6?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@4.0.0-alpha.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/tech.cryptonomic/tezos-micheline-to-michelson-conversion_2.12@0.1.0
+- pkg:maven/tech.cryptonomic/tezos-micheline-to-michelson-conversion_2.12@0.1.0?classifier=sources

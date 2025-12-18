@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.hybridcompute.v2020_08_02/azure-mgmt-hybridcompute@1.0.0-beta
+- pkg:maven/com.microsoft.azure.hybridcompute.v2020_08_02/azure-mgmt-hybridcompute@1.0.0-beta?classifier=sources

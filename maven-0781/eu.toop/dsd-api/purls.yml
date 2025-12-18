@@ -1,3 +1,4 @@
+- pkg:maven/eu.toop/dsd-api@2.0.0
 - pkg:maven/eu.toop/dsd-api@2.0.0-beta3
 - pkg:maven/eu.toop/dsd-api@2.0.0-beta3?classifier=sources
 - pkg:maven/eu.toop/dsd-api@2.0.0-beta4
@@ -10,3 +11,6 @@
 - pkg:maven/eu.toop/dsd-api@2.0.0-rc2?classifier=sources
 - pkg:maven/eu.toop/dsd-api@2.0.0-rc3
 - pkg:maven/eu.toop/dsd-api@2.0.0-rc3?classifier=sources
+- pkg:maven/eu.toop/dsd-api@2.0.0?classifier=sources
+- pkg:maven/eu.toop/dsd-api@2.0.1
+- pkg:maven/eu.toop/dsd-api@2.0.1?classifier=sources

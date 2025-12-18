@@ -58,3 +58,5 @@
 - pkg:maven/com.site24x7.apminsight.java/apminsight-javaagent-api@4.8.1
 - pkg:maven/com.site24x7.apminsight.java/apminsight-javaagent-api@4.8.1?classifier=sources
 - pkg:maven/com.site24x7.apminsight.java/apminsight-javaagent-api@4.8?classifier=sources
+- pkg:maven/com.site24x7.apminsight.java/apminsight-javaagent-api@4.9
+- pkg:maven/com.site24x7.apminsight.java/apminsight-javaagent-api@4.9?classifier=sources

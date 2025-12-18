@@ -109,6 +109,7 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.0
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.1
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.10
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.10?classifier=sources-commercial
@@ -124,6 +125,8 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.14
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.2
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@3.0.2?classifier=sources-commercial
@@ -173,6 +176,12 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.16
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.17
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.18
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.2
@@ -199,6 +208,9 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.9
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@4.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.0
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.1
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.10
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.10?classifier=sources
@@ -209,6 +221,15 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.12
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.13
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.14
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.15
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.exportimport.resources.importer@5.0.2

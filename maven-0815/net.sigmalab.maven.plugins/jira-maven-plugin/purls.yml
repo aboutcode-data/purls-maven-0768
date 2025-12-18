@@ -12,3 +12,9 @@
 - pkg:maven/net.sigmalab.maven.plugins/jira-maven-plugin@0.7?classifier=sources
 - pkg:maven/net.sigmalab.maven.plugins/jira-maven-plugin@0.8
 - pkg:maven/net.sigmalab.maven.plugins/jira-maven-plugin@0.8?classifier=sources
+- pkg:maven/net.sigmalab.maven.plugins/jira-maven-plugin@0.9
+- pkg:maven/net.sigmalab.maven.plugins/jira-maven-plugin@0.9.1
+- pkg:maven/net.sigmalab.maven.plugins/jira-maven-plugin@0.9.1?classifier=sources
+- pkg:maven/net.sigmalab.maven.plugins/jira-maven-plugin@0.9.2
+- pkg:maven/net.sigmalab.maven.plugins/jira-maven-plugin@0.9.2?classifier=sources
+- pkg:maven/net.sigmalab.maven.plugins/jira-maven-plugin@0.9?classifier=sources

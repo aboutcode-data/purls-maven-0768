@@ -1,2 +1,4 @@
 - pkg:maven/io.zeebe/kafka-connect-zeebe@0.22.0
 - pkg:maven/io.zeebe/kafka-connect-zeebe@0.22.0?classifier=sources
+- pkg:maven/io.zeebe/kafka-connect-zeebe@0.24.0
+- pkg:maven/io.zeebe/kafka-connect-zeebe@0.24.0?classifier=sources

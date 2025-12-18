@@ -1,0 +1,2 @@
+- pkg:maven/org.marketdesignresearch/mechlib@0.1.0
+- pkg:maven/org.marketdesignresearch/mechlib@0.1.0?classifier=sources

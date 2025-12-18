@@ -1,0 +1,2 @@
+- pkg:maven/org.scalatest/scalatest-core_0.27@3.2.2
+- pkg:maven/org.scalatest/scalatest-core_0.27@3.2.2?classifier=sources

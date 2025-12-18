@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-api-ejbmodule@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-api-ejbmodule@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-api-ejbmodule@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-api-ejbmodule@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-api-ejbmodule@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-api-ejbmodule@RELEASE121?classifier=sources

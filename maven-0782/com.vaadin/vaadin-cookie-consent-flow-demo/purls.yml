@@ -1,4 +1,6 @@
 - pkg:maven/com.vaadin/vaadin-cookie-consent-flow-demo@2.1.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-cookie-consent-flow-demo@2.2.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-cookie-consent-flow-demo@3.0.0
 - pkg:maven/com.vaadin/vaadin-cookie-consent-flow-demo@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-cookie-consent-flow-demo@3.1.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-cookie-consent-flow-demo@4.0.0?classifier=sources

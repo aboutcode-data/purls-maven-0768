@@ -78,3 +78,5 @@
 - pkg:maven/org.eu.acolyte/jdbc-scala_2.11@1.0.54?classifier=sources
 - pkg:maven/org.eu.acolyte/jdbc-scala_2.11@1.0.55
 - pkg:maven/org.eu.acolyte/jdbc-scala_2.11@1.0.55?classifier=sources
+- pkg:maven/org.eu.acolyte/jdbc-scala_2.11@1.0.56
+- pkg:maven/org.eu.acolyte/jdbc-scala_2.11@1.0.56?classifier=sources

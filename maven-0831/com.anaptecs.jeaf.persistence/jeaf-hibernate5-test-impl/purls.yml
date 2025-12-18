@@ -1,0 +1,2 @@
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-impl@1.5.13
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-impl@1.5.13?classifier=sources

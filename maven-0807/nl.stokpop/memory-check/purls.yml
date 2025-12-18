@@ -1,2 +1,3 @@
 - pkg:maven/nl.stokpop/memory-check@1.0.0?classifier=sources
 - pkg:maven/nl.stokpop/memory-check@1.1.0?classifier=sources
+- pkg:maven/nl.stokpop/memory-check@1.1.1?classifier=sources

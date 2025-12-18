@@ -1,0 +1,12 @@
+- pkg:maven/com.segmeno/kodo@0.0.1-RELEASE
+- pkg:maven/com.segmeno/kodo@0.0.1-RELEASE?classifier=sources
+- pkg:maven/com.segmeno/kodo@1.0.0-RELEASE
+- pkg:maven/com.segmeno/kodo@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.segmeno/kodo@1.0.1-RELEASE
+- pkg:maven/com.segmeno/kodo@1.0.1-RELEASE?classifier=sources
+- pkg:maven/com.segmeno/kodo@1.0.2-RELEASE
+- pkg:maven/com.segmeno/kodo@1.0.2-RELEASE?classifier=sources
+- pkg:maven/com.segmeno/kodo@1.1.0-RELEASE
+- pkg:maven/com.segmeno/kodo@1.1.0-RELEASE?classifier=sources
+- pkg:maven/com.segmeno/kodo@1.1.1-RELEASE
+- pkg:maven/com.segmeno/kodo@1.1.1-RELEASE?classifier=sources

@@ -36,3 +36,7 @@
 - pkg:maven/kz.greetgo.kafka/greetgo.str-converter@1.5.8?classifier=sources
 - pkg:maven/kz.greetgo.kafka/greetgo.str-converter@1.5.9
 - pkg:maven/kz.greetgo.kafka/greetgo.str-converter@1.5.9?classifier=sources
+- pkg:maven/kz.greetgo.kafka/greetgo.str-converter@1.7.0
+- pkg:maven/kz.greetgo.kafka/greetgo.str-converter@1.7.0?classifier=sources
+- pkg:maven/kz.greetgo.kafka/greetgo.str-converter@1.7.3
+- pkg:maven/kz.greetgo.kafka/greetgo.str-converter@1.7.3?classifier=sources

@@ -80,3 +80,5 @@
 - pkg:maven/com.arakelian/jackson-utils@3.2.0?classifier=sources
 - pkg:maven/com.arakelian/jackson-utils@3.3.0
 - pkg:maven/com.arakelian/jackson-utils@3.3.0?classifier=sources
+- pkg:maven/com.arakelian/jackson-utils@3.4.0
+- pkg:maven/com.arakelian/jackson-utils@3.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.grpc/grpc-kotlin-stub-lite@0.1.5
+- pkg:maven/io.grpc/grpc-kotlin-stub-lite@0.2.0

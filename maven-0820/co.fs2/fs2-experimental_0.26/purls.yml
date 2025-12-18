@@ -1,0 +1,12 @@
+- pkg:maven/co.fs2/fs2-experimental_0.26@2.4-4ed62ae
+- pkg:maven/co.fs2/fs2-experimental_0.26@2.4-4ed62ae?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_0.26@2.4-8fa361a
+- pkg:maven/co.fs2/fs2-experimental_0.26@2.4-8fa361a?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_0.26@2.4-d455ec8
+- pkg:maven/co.fs2/fs2-experimental_0.26@2.4-d455ec8?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_0.26@2.4-d6ca5da
+- pkg:maven/co.fs2/fs2-experimental_0.26@2.4-d6ca5da?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_0.26@2.4.3
+- pkg:maven/co.fs2/fs2-experimental_0.26@2.4.3?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_0.26@2.4.4
+- pkg:maven/co.fs2/fs2-experimental_0.26@2.4.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.spiderwiz/spiderwiz-websocket-server@1.2
+- pkg:maven/org.spiderwiz/spiderwiz-websocket-server@1.2?classifier=sources

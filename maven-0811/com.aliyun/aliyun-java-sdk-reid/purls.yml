@@ -23,4 +23,10 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-reid@1.1.8.1?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-reid@1.1.8.2
 - pkg:maven/com.aliyun/aliyun-java-sdk-reid@1.1.8.2?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-reid@1.1.8.3
+- pkg:maven/com.aliyun/aliyun-java-sdk-reid@1.1.8.3?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-reid@1.1.8.4
+- pkg:maven/com.aliyun/aliyun-java-sdk-reid@1.1.8.4?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-reid@1.1.8.5
+- pkg:maven/com.aliyun/aliyun-java-sdk-reid@1.1.8.5?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-reid@1.1.8?classifier=sources

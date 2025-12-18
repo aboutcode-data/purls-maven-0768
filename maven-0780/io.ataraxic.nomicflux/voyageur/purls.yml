@@ -1,0 +1,2 @@
+- pkg:maven/io.ataraxic.nomicflux/voyageur@0.3
+- pkg:maven/io.ataraxic.nomicflux/voyageur@0.3?classifier=sources

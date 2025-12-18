@@ -50,7 +50,17 @@
 - pkg:maven/org.eclipse.che/che-parent@7.16.0?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.che/che-parent@7.16.1?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.che/che-parent@7.16.2?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che/che-parent@7.17.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che/che-parent@7.17.1?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che/che-parent@7.17.2?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che/che-parent@7.18.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che/che-parent@7.18.1?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che/che-parent@7.18.2?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che/che-parent@7.19.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che/che-parent@7.19.1?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che/che-parent@7.19.2?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.che/che-parent@7.2.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che/che-parent@7.20.0?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.che/che-parent@7.3.0?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.che/che-parent@7.3.1?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.che/che-parent@7.3.2?classifier=source-release&type=zip

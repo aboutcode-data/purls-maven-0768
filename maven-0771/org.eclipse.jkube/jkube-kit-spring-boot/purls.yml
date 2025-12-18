@@ -4,6 +4,7 @@
 - pkg:maven/org.eclipse.jkube/jkube-kit-spring-boot@0.1.1?classifier=sources
 - pkg:maven/org.eclipse.jkube/jkube-kit-spring-boot@0.2.0
 - pkg:maven/org.eclipse.jkube/jkube-kit-spring-boot@0.2.0?classifier=sources
+- pkg:maven/org.eclipse.jkube/jkube-kit-spring-boot@1.0.0
 - pkg:maven/org.eclipse.jkube/jkube-kit-spring-boot@1.0.0-alpha-1
 - pkg:maven/org.eclipse.jkube/jkube-kit-spring-boot@1.0.0-alpha-1?classifier=sources
 - pkg:maven/org.eclipse.jkube/jkube-kit-spring-boot@1.0.0-alpha-2
@@ -14,3 +15,6 @@
 - pkg:maven/org.eclipse.jkube/jkube-kit-spring-boot@1.0.0-alpha-4?classifier=sources
 - pkg:maven/org.eclipse.jkube/jkube-kit-spring-boot@1.0.0-rc-1
 - pkg:maven/org.eclipse.jkube/jkube-kit-spring-boot@1.0.0-rc-1?classifier=sources
+- pkg:maven/org.eclipse.jkube/jkube-kit-spring-boot@1.0.0?classifier=sources
+- pkg:maven/org.eclipse.jkube/jkube-kit-spring-boot@1.0.1
+- pkg:maven/org.eclipse.jkube/jkube-kit-spring-boot@1.0.1?classifier=sources

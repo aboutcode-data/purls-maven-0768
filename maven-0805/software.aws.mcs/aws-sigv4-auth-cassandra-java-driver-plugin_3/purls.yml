@@ -1,0 +1,2 @@
+- pkg:maven/software.aws.mcs/aws-sigv4-auth-cassandra-java-driver-plugin_3@3.0.3
+- pkg:maven/software.aws.mcs/aws-sigv4-auth-cassandra-java-driver-plugin_3@3.0.3?classifier=sources

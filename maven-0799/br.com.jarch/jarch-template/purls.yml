@@ -80,3 +80,9 @@
 - pkg:maven/br.com.jarch/jarch-template@20.5.0?type=war
 - pkg:maven/br.com.jarch/jarch-template@20.6.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-template@20.6.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@20.7.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@20.7.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@20.8.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@20.8.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@20.9.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@20.9.0?type=war

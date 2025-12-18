@@ -1,2 +1,4 @@
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@0.17
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@0.17?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@0.18
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@0.18?classifier=sources

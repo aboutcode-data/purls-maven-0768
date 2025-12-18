@@ -75,6 +75,12 @@
 - pkg:maven/com.networknt/codegen-fwk@1.6.23?classifier=sources
 - pkg:maven/com.networknt/codegen-fwk@1.6.24
 - pkg:maven/com.networknt/codegen-fwk@1.6.24?classifier=sources
+- pkg:maven/com.networknt/codegen-fwk@1.6.26
+- pkg:maven/com.networknt/codegen-fwk@1.6.26?classifier=sources
+- pkg:maven/com.networknt/codegen-fwk@1.6.27
+- pkg:maven/com.networknt/codegen-fwk@1.6.27?classifier=sources
+- pkg:maven/com.networknt/codegen-fwk@1.6.28
+- pkg:maven/com.networknt/codegen-fwk@1.6.28?classifier=sources
 - pkg:maven/com.networknt/codegen-fwk@1.6.2?classifier=sources
 - pkg:maven/com.networknt/codegen-fwk@1.6.4
 - pkg:maven/com.networknt/codegen-fwk@1.6.4?classifier=sources
@@ -101,6 +107,12 @@
 - pkg:maven/com.networknt/codegen-fwk@2.0.14?classifier=sources
 - pkg:maven/com.networknt/codegen-fwk@2.0.15
 - pkg:maven/com.networknt/codegen-fwk@2.0.15?classifier=sources
+- pkg:maven/com.networknt/codegen-fwk@2.0.16
+- pkg:maven/com.networknt/codegen-fwk@2.0.16?classifier=sources
+- pkg:maven/com.networknt/codegen-fwk@2.0.17
+- pkg:maven/com.networknt/codegen-fwk@2.0.17?classifier=sources
+- pkg:maven/com.networknt/codegen-fwk@2.0.18
+- pkg:maven/com.networknt/codegen-fwk@2.0.18?classifier=sources
 - pkg:maven/com.networknt/codegen-fwk@2.0.1?classifier=sources
 - pkg:maven/com.networknt/codegen-fwk@2.0.2
 - pkg:maven/com.networknt/codegen-fwk@2.0.2?classifier=sources

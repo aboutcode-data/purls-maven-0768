@@ -14,6 +14,8 @@
 - pkg:maven/io.github.scouter-project/scouter-webapp@1.9.0?classifier=sources
 - pkg:maven/io.github.scouter-project/scouter-webapp@2.0.0
 - pkg:maven/io.github.scouter-project/scouter-webapp@2.0.0?classifier=sources
+- pkg:maven/io.github.scouter-project/scouter-webapp@2.10.0
+- pkg:maven/io.github.scouter-project/scouter-webapp@2.10.0?classifier=sources
 - pkg:maven/io.github.scouter-project/scouter-webapp@2.5.0
 - pkg:maven/io.github.scouter-project/scouter-webapp@2.5.0?classifier=sources
 - pkg:maven/io.github.scouter-project/scouter-webapp@2.6.0

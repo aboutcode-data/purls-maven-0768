@@ -309,3 +309,6 @@
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.oauth.ui@4.7.60
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.oauth.ui@4.7.60?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.oauth.ui@4.7.60?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.oauth.ui@4.7.61
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.oauth.ui@4.7.61?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.oauth.ui@4.7.61?classifier=sources

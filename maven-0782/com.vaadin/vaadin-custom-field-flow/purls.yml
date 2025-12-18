@@ -18,7 +18,11 @@
 - pkg:maven/com.vaadin/vaadin-custom-field-flow@3.0.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-custom-field-flow@3.1.0
 - pkg:maven/com.vaadin/vaadin-custom-field-flow@3.1.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-custom-field-flow@3.2.0
+- pkg:maven/com.vaadin/vaadin-custom-field-flow@3.2.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-custom-field-flow@4.0.0
 - pkg:maven/com.vaadin/vaadin-custom-field-flow@4.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-custom-field-flow@4.1.0
 - pkg:maven/com.vaadin/vaadin-custom-field-flow@4.1.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-custom-field-flow@5.0.0
+- pkg:maven/com.vaadin/vaadin-custom-field-flow@5.0.0?classifier=sources

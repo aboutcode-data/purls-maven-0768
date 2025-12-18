@@ -13,3 +13,4 @@
 - pkg:maven/co.zsmb/rainbow-cake-dagger@0.6.0?classifier=sources
 - pkg:maven/co.zsmb/rainbow-cake-dagger@0.7.0?classifier=sources
 - pkg:maven/co.zsmb/rainbow-cake-dagger@1.0.0?classifier=sources
+- pkg:maven/co.zsmb/rainbow-cake-dagger@1.1.0?classifier=sources

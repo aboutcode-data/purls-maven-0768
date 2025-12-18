@@ -1,0 +1,2 @@
+- pkg:maven/io.litterat/pep-java@0.5.0
+- pkg:maven/io.litterat/pep-java@0.5.0?classifier=sources

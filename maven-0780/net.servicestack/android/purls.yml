@@ -1,1 +1,2 @@
 - pkg:maven/net.servicestack/android@1.0.29?type=aar
+- pkg:maven/net.servicestack/android@1.0.43?type=aar

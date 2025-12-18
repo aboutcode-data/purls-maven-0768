@@ -2,4 +2,6 @@
 - pkg:maven/org.netbeans.external/ValidationAPI@RELEASE110
 - pkg:maven/org.netbeans.external/ValidationAPI@RELEASE120
 - pkg:maven/org.netbeans.external/ValidationAPI@RELEASE120-1
+- pkg:maven/org.netbeans.external/ValidationAPI@RELEASE120-u1
+- pkg:maven/org.netbeans.external/ValidationAPI@RELEASE121
 - pkg:maven/org.netbeans.external/ValidationAPI@RELEASE90

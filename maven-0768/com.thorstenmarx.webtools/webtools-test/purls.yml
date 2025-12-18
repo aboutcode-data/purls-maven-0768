@@ -28,3 +28,5 @@
 - pkg:maven/com.thorstenmarx.webtools/webtools-test@5.2.2?classifier=sources
 - pkg:maven/com.thorstenmarx.webtools/webtools-test@5.2.4
 - pkg:maven/com.thorstenmarx.webtools/webtools-test@5.2.4?classifier=sources
+- pkg:maven/com.thorstenmarx.webtools/webtools-test@5.3.0
+- pkg:maven/com.thorstenmarx.webtools/webtools-test@5.3.0?classifier=sources

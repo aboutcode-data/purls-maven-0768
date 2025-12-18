@@ -8,3 +8,5 @@
 - pkg:maven/org.nuiton/nuiton-config-io-ini@3.3?classifier=sources
 - pkg:maven/org.nuiton/nuiton-config-io-ini@3.4
 - pkg:maven/org.nuiton/nuiton-config-io-ini@3.4?classifier=sources
+- pkg:maven/org.nuiton/nuiton-config-io-ini@3.5
+- pkg:maven/org.nuiton/nuiton-config-io-ini@3.5?classifier=sources

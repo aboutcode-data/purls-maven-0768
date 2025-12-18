@@ -4,3 +4,5 @@
 - pkg:maven/ru.i-novus.components/liquibase-core@3.6.2.2.inovus?classifier=sources
 - pkg:maven/ru.i-novus.components/liquibase-core@3.6.2.3.inovus
 - pkg:maven/ru.i-novus.components/liquibase-core@3.6.2.3.inovus?classifier=sources
+- pkg:maven/ru.i-novus.components/liquibase-core@3.6.2.4.inovus
+- pkg:maven/ru.i-novus.components/liquibase-core@3.6.2.4.inovus?classifier=sources

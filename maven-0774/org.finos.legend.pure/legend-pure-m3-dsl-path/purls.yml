@@ -1,0 +1,2 @@
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-path@0.0.8
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-path@0.0.8?classifier=sources

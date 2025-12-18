@@ -2,3 +2,6 @@
 - pkg:maven/net.enilink.komma/org.slf4j.logback@1.4.0?classifier=sources
 - pkg:maven/net.enilink.komma/org.slf4j.logback@1.4.1
 - pkg:maven/net.enilink.komma/org.slf4j.logback@1.4.1?classifier=sources
+- pkg:maven/net.enilink.komma/org.slf4j.logback@1.4.2
+- pkg:maven/net.enilink.komma/org.slf4j.logback@1.5.0
+- pkg:maven/net.enilink.komma/org.slf4j.logback@1.5.1

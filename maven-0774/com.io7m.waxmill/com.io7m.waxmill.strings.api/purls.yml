@@ -1,6 +1,14 @@
 - pkg:maven/com.io7m.waxmill/com.io7m.waxmill.strings.api@0.0.1
+- pkg:maven/com.io7m.waxmill/com.io7m.waxmill.strings.api@0.0.11
+- pkg:maven/com.io7m.waxmill/com.io7m.waxmill.strings.api@0.0.11?classifier=sources
+- pkg:maven/com.io7m.waxmill/com.io7m.waxmill.strings.api@0.0.12
+- pkg:maven/com.io7m.waxmill/com.io7m.waxmill.strings.api@0.0.12?classifier=sources
 - pkg:maven/com.io7m.waxmill/com.io7m.waxmill.strings.api@0.0.1?classifier=sources
 - pkg:maven/com.io7m.waxmill/com.io7m.waxmill.strings.api@0.0.2
 - pkg:maven/com.io7m.waxmill/com.io7m.waxmill.strings.api@0.0.2?classifier=sources
 - pkg:maven/com.io7m.waxmill/com.io7m.waxmill.strings.api@0.0.3
 - pkg:maven/com.io7m.waxmill/com.io7m.waxmill.strings.api@0.0.3?classifier=sources
+- pkg:maven/com.io7m.waxmill/com.io7m.waxmill.strings.api@0.0.5
+- pkg:maven/com.io7m.waxmill/com.io7m.waxmill.strings.api@0.0.5?classifier=sources
+- pkg:maven/com.io7m.waxmill/com.io7m.waxmill.strings.api@0.0.6
+- pkg:maven/com.io7m.waxmill/com.io7m.waxmill.strings.api@0.0.6?classifier=sources

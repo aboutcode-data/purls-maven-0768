@@ -1,2 +1,3 @@
 - pkg:maven/io.gamioo/gamioo-orm@0.0.1?classifier=sources
+- pkg:maven/io.gamioo/gamioo-orm@0.2.9?classifier=sources
 - pkg:maven/io.gamioo/gamioo-orm@1.0.0?classifier=sources

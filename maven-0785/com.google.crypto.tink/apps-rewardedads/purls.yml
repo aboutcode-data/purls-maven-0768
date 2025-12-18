@@ -30,3 +30,5 @@
 - pkg:maven/com.google.crypto.tink/apps-rewardedads@1.4.0-rc2
 - pkg:maven/com.google.crypto.tink/apps-rewardedads@1.4.0-rc2?classifier=sources
 - pkg:maven/com.google.crypto.tink/apps-rewardedads@1.4.0?classifier=sources
+- pkg:maven/com.google.crypto.tink/apps-rewardedads@1.5.0
+- pkg:maven/com.google.crypto.tink/apps-rewardedads@1.5.0?classifier=sources

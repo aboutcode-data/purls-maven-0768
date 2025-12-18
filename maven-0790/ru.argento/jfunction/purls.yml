@@ -1,0 +1,4 @@
+- pkg:maven/ru.argento/jfunction@0.1
+- pkg:maven/ru.argento/jfunction@0.1?classifier=sources
+- pkg:maven/ru.argento/jfunction@1.0
+- pkg:maven/ru.argento/jfunction@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.liftwizard/liftwizard-graphql-operation-fetcher@0.6.0
+- pkg:maven/io.liftwizard/liftwizard-graphql-operation-fetcher@0.6.0?classifier=sources

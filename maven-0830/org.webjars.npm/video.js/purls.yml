@@ -60,6 +60,8 @@
 - pkg:maven/org.webjars.npm/video.js@7.0.5?classifier=sources
 - pkg:maven/org.webjars.npm/video.js@7.1.0
 - pkg:maven/org.webjars.npm/video.js@7.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/video.js@7.10.1
+- pkg:maven/org.webjars.npm/video.js@7.10.1?classifier=sources
 - pkg:maven/org.webjars.npm/video.js@7.2.2
 - pkg:maven/org.webjars.npm/video.js@7.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/video.js@7.3.0
@@ -76,3 +78,9 @@
 - pkg:maven/org.webjars.npm/video.js@7.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/video.js@7.6.5
 - pkg:maven/org.webjars.npm/video.js@7.6.5?classifier=sources
+- pkg:maven/org.webjars.npm/video.js@7.9.2
+- pkg:maven/org.webjars.npm/video.js@7.9.2?classifier=sources
+- pkg:maven/org.webjars.npm/video.js@7.9.3
+- pkg:maven/org.webjars.npm/video.js@7.9.3?classifier=sources
+- pkg:maven/org.webjars.npm/video.js@7.9.7
+- pkg:maven/org.webjars.npm/video.js@7.9.7?classifier=sources

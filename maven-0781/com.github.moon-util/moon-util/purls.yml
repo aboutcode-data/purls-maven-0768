@@ -42,3 +42,9 @@
 - pkg:maven/com.github.moon-util/moon-util@0.0.32?classifier=sources
 - pkg:maven/com.github.moon-util/moon-util@0.0.33
 - pkg:maven/com.github.moon-util/moon-util@0.0.33?classifier=sources
+- pkg:maven/com.github.moon-util/moon-util@0.0.39
+- pkg:maven/com.github.moon-util/moon-util@0.0.39?classifier=sources
+- pkg:maven/com.github.moon-util/moon-util@0.0.40
+- pkg:maven/com.github.moon-util/moon-util@0.0.40?classifier=sources
+- pkg:maven/com.github.moon-util/moon-util@0.0.41
+- pkg:maven/com.github.moon-util/moon-util@0.0.41?classifier=sources

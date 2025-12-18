@@ -11,3 +11,5 @@
 - pkg:maven/fr.jetoile.hadoop/confluent-integrationtest@3.6?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/confluent-integrationtest@3.7
 - pkg:maven/fr.jetoile.hadoop/confluent-integrationtest@3.7?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/confluent-integrationtest@3.8
+- pkg:maven/fr.jetoile.hadoop/confluent-integrationtest@3.8?classifier=sources

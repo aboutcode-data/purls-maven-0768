@@ -102,6 +102,7 @@
 - pkg:maven/io.get-coursier/coursier_2.12@1.1.0-M6?classifier=sources
 - pkg:maven/io.get-coursier/coursier_2.12@1.1.0-M7
 - pkg:maven/io.get-coursier/coursier_2.12@1.1.0-M7?classifier=sources
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.0
 - pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC1
 - pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC1?classifier=sources
 - pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC2
@@ -180,6 +181,12 @@
 - pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6-23?classifier=sources
 - pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6-24
 - pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6-24?classifier=sources
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6-25
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6-25?classifier=sources
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6-26
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6-26?classifier=sources
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6-27
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6-27?classifier=sources
 - pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6-2?classifier=sources
 - pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6-3
 - pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6-3?classifier=sources
@@ -196,3 +203,14 @@
 - pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6-9
 - pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6-9?classifier=sources
 - pkg:maven/io.get-coursier/coursier_2.12@2.0.0-RC6?classifier=sources
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.0?classifier=sources
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.1
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.1?classifier=sources
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.2
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.2?classifier=sources
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.3
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.3?classifier=sources
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.4
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.4?classifier=sources
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.5
+- pkg:maven/io.get-coursier/coursier_2.12@2.0.5?classifier=sources

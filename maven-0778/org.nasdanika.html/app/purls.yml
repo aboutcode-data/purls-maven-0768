@@ -1,0 +1,2 @@
+- pkg:maven/org.nasdanika.html/app@2020.8.2
+- pkg:maven/org.nasdanika.html/app@2020.8.2?classifier=sources

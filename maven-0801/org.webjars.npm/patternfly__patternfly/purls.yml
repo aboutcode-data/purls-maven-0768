@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/patternfly__patternfly@4.23.3?classifier=sources
 - pkg:maven/org.webjars.npm/patternfly__patternfly@4.24.4
 - pkg:maven/org.webjars.npm/patternfly__patternfly@4.24.4?classifier=sources
+- pkg:maven/org.webjars.npm/patternfly__patternfly@4.50.2
+- pkg:maven/org.webjars.npm/patternfly__patternfly@4.50.2?classifier=sources

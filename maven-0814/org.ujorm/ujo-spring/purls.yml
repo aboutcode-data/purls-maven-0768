@@ -106,3 +106,5 @@
 - pkg:maven/org.ujorm/ujo-spring@2.02?classifier=sources
 - pkg:maven/org.ujorm/ujo-spring@2.03
 - pkg:maven/org.ujorm/ujo-spring@2.03?classifier=sources
+- pkg:maven/org.ujorm/ujo-spring@2.04
+- pkg:maven/org.ujorm/ujo-spring@2.04?classifier=sources
