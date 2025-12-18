@@ -1,1 +1,6 @@
+- pkg:maven/net.dreamlu/mica-prometheus@2.4.10
+- pkg:maven/net.dreamlu/mica-prometheus@2.4.10?classifier=sources
+- pkg:maven/net.dreamlu/mica-prometheus@2.4.11?classifier=sources
 - pkg:maven/net.dreamlu/mica-prometheus@2.5.4
+- pkg:maven/net.dreamlu/mica-prometheus@2.5.4?classifier=sources
+- pkg:maven/net.dreamlu/mica-prometheus@2.5.5?classifier=sources

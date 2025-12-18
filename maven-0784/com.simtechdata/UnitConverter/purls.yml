@@ -1,0 +1,2 @@
+- pkg:maven/com.simtechdata/UnitConverter@1.0.0
+- pkg:maven/com.simtechdata/UnitConverter@1.0.0?classifier=sources

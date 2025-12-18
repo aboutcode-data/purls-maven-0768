@@ -13,3 +13,5 @@
 - pkg:maven/org.glassfish.main.ldapbp/ldapbp@6.0.0-RC4?classifier=sources
 - pkg:maven/org.glassfish.main.ldapbp/ldapbp@6.0.0?classifier=sources
 - pkg:maven/org.glassfish.main.ldapbp/ldapbp@6.2.0?classifier=sources
+- pkg:maven/org.glassfish.main.ldapbp/ldapbp@6.2.1?classifier=sources
+- pkg:maven/org.glassfish.main.ldapbp/ldapbp@6.2.2?classifier=sources

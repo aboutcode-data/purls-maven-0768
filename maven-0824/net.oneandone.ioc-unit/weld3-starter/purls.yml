@@ -69,6 +69,9 @@
 - pkg:maven/net.oneandone.ioc-unit/weld3-starter@2.0.39?classifier=sources
 - pkg:maven/net.oneandone.ioc-unit/weld3-starter@2.0.3?classifier=sources
 - pkg:maven/net.oneandone.ioc-unit/weld3-starter@2.0.4
+- pkg:maven/net.oneandone.ioc-unit/weld3-starter@2.0.40
+- pkg:maven/net.oneandone.ioc-unit/weld3-starter@2.0.40?classifier=sources
+- pkg:maven/net.oneandone.ioc-unit/weld3-starter@2.0.42?classifier=sources
 - pkg:maven/net.oneandone.ioc-unit/weld3-starter@2.0.4?classifier=sources
 - pkg:maven/net.oneandone.ioc-unit/weld3-starter@2.0.5
 - pkg:maven/net.oneandone.ioc-unit/weld3-starter@2.0.5?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/link.thingscloud/mobile-area@1.4.0-RELEASE?classifier=sources
 - pkg:maven/link.thingscloud/mobile-area@1.5.0-RELEASE
 - pkg:maven/link.thingscloud/mobile-area@1.5.0-RELEASE?classifier=sources
+- pkg:maven/link.thingscloud/mobile-area@2021.09.30
+- pkg:maven/link.thingscloud/mobile-area@2021.09.30?classifier=sources
+- pkg:maven/link.thingscloud/mobile-area@2021.10.04
+- pkg:maven/link.thingscloud/mobile-area@2021.10.04?classifier=sources

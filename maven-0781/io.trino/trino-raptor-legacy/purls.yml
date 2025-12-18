@@ -8,3 +8,6 @@
 - pkg:maven/io.trino/trino-raptor-legacy@358?classifier=sources
 - pkg:maven/io.trino/trino-raptor-legacy@359?classifier=sources
 - pkg:maven/io.trino/trino-raptor-legacy@360?classifier=sources
+- pkg:maven/io.trino/trino-raptor-legacy@361?classifier=sources
+- pkg:maven/io.trino/trino-raptor-legacy@362?classifier=sources
+- pkg:maven/io.trino/trino-raptor-legacy@363?classifier=sources

@@ -9,3 +9,5 @@
 - pkg:maven/com.my.target/mytarget-sdk@5.13.1?type=aar
 - pkg:maven/com.my.target/mytarget-sdk@5.13.2?type=aar
 - pkg:maven/com.my.target/mytarget-sdk@5.13.3?type=aar
+- pkg:maven/com.my.target/mytarget-sdk@5.13.4?type=aar
+- pkg:maven/com.my.target/mytarget-sdk@5.14.1?type=aar

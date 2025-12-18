@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-netserver@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-netserver@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-netserver@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-netserver@RELEASE125?classifier=sources

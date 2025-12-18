@@ -1,0 +1,2 @@
+- pkg:maven/org.bspfsystems/basic-mojang-api@1.0.0
+- pkg:maven/org.bspfsystems/basic-mojang-api@1.0.0?classifier=sources

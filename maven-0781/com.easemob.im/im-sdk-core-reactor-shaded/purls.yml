@@ -1,0 +1,2 @@
+- pkg:maven/com.easemob.im/im-sdk-core-reactor-shaded@0.0.2
+- pkg:maven/com.easemob.im/im-sdk-core-reactor-shaded@0.0.2?classifier=sources

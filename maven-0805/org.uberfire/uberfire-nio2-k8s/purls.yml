@@ -76,3 +76,5 @@
 - pkg:maven/org.uberfire/uberfire-nio2-k8s@7.57.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-nio2-k8s@7.58.0.Final
 - pkg:maven/org.uberfire/uberfire-nio2-k8s@7.58.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-nio2-k8s@7.59.0.Final
+- pkg:maven/org.uberfire/uberfire-nio2-k8s@7.59.0.Final?classifier=sources

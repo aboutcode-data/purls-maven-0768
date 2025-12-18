@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.submarine/submarine-server-rpc@0.4.0
+- pkg:maven/org.apache.submarine/submarine-server-rpc@0.6.0

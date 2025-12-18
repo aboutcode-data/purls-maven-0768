@@ -7,3 +7,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.service@1.1.45
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.service@1.1.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.service@1.1.45?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.service@1.1.46
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.service@1.1.46?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.service@1.1.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.service@1.1.47
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.service@1.1.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.designer.service@1.1.47?classifier=sources-commercial

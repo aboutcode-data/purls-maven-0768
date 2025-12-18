@@ -1,2 +1,4 @@
 - pkg:maven/it.uniroma2.art.semanticturkey/st-dataeu-connector@10.0
 - pkg:maven/it.uniroma2.art.semanticturkey/st-dataeu-connector@10.0?classifier=sources
+- pkg:maven/it.uniroma2.art.semanticturkey/st-dataeu-connector@10.1
+- pkg:maven/it.uniroma2.art.semanticturkey/st-dataeu-connector@10.1?classifier=sources

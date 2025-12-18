@@ -4,3 +4,11 @@
 - pkg:maven/com.souher/fastapi@1.0.0?classifier=sources
 - pkg:maven/com.souher/fastapi@1.1.0
 - pkg:maven/com.souher/fastapi@1.1.0?classifier=sources
+- pkg:maven/com.souher/fastapi@1.2.12
+- pkg:maven/com.souher/fastapi@1.2.12?classifier=sources
+- pkg:maven/com.souher/fastapi@1.2.18
+- pkg:maven/com.souher/fastapi@1.2.18?classifier=sources
+- pkg:maven/com.souher/fastapi@1.2.19
+- pkg:maven/com.souher/fastapi@1.2.19?classifier=sources
+- pkg:maven/com.souher/fastapi@1.2.21
+- pkg:maven/com.souher/fastapi@1.2.21?classifier=sources

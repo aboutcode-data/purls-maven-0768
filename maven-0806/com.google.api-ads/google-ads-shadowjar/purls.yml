@@ -1,1 +1,2 @@
 - pkg:maven/com.google.api-ads/google-ads-shadowjar@0.0.1-alpha?classifier=sources
+- pkg:maven/com.google.api-ads/google-ads-shadowjar@15.0.0?classifier=sources

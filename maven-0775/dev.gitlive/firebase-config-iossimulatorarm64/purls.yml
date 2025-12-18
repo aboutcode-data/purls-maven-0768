@@ -1,0 +1,2 @@
+- pkg:maven/dev.gitlive/firebase-config-iossimulatorarm64@1.4.3-alpha?classifier=sources
+- pkg:maven/dev.gitlive/firebase-config-iossimulatorarm64@1.4.3?classifier=sources

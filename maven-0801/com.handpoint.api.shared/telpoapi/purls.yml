@@ -60,3 +60,5 @@
 - pkg:maven/com.handpoint.api.shared/telpoapi@6.2.1?type=aar
 - pkg:maven/com.handpoint.api.shared/telpoapi@6.2.2?classifier=sources
 - pkg:maven/com.handpoint.api.shared/telpoapi@6.2.2?type=aar
+- pkg:maven/com.handpoint.api.shared/telpoapi@6.3.0?classifier=sources
+- pkg:maven/com.handpoint.api.shared/telpoapi@6.3.0?type=aar

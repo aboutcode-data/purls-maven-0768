@@ -12,3 +12,11 @@
 - pkg:maven/com.fastjrun.codeg/sdkg-plugin@2.1?classifier=sources
 - pkg:maven/com.fastjrun.codeg/sdkg-plugin@3.0
 - pkg:maven/com.fastjrun.codeg/sdkg-plugin@3.0?classifier=sources
+- pkg:maven/com.fastjrun.codeg/sdkg-plugin@3.1
+- pkg:maven/com.fastjrun.codeg/sdkg-plugin@3.1?classifier=sources
+- pkg:maven/com.fastjrun.codeg/sdkg-plugin@3.2
+- pkg:maven/com.fastjrun.codeg/sdkg-plugin@3.2.1
+- pkg:maven/com.fastjrun.codeg/sdkg-plugin@3.2.1?classifier=sources
+- pkg:maven/com.fastjrun.codeg/sdkg-plugin@3.2.2
+- pkg:maven/com.fastjrun.codeg/sdkg-plugin@3.2.2?classifier=sources
+- pkg:maven/com.fastjrun.codeg/sdkg-plugin@3.2?classifier=sources

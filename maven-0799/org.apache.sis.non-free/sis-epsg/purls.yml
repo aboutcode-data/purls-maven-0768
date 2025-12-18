@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.sis.non-free/sis-epsg@0.8?classifier=sources
 - pkg:maven/org.apache.sis.non-free/sis-epsg@1.0
 - pkg:maven/org.apache.sis.non-free/sis-epsg@1.0?classifier=sources
+- pkg:maven/org.apache.sis.non-free/sis-epsg@1.1

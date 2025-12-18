@@ -1,0 +1,6 @@
+- pkg:maven/io.github.vigoo/zio-aws-chimesdkmessaging_3@3.17.42.8
+- pkg:maven/io.github.vigoo/zio-aws-chimesdkmessaging_3@3.17.42.8?classifier=sources
+- pkg:maven/io.github.vigoo/zio-aws-chimesdkmessaging_3@3.17.42.9
+- pkg:maven/io.github.vigoo/zio-aws-chimesdkmessaging_3@3.17.42.9?classifier=sources
+- pkg:maven/io.github.vigoo/zio-aws-chimesdkmessaging_3@3.17.56.1
+- pkg:maven/io.github.vigoo/zio-aws-chimesdkmessaging_3@3.17.56.1?classifier=sources

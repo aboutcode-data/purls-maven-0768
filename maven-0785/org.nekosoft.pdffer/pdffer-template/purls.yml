@@ -1,0 +1,4 @@
+- pkg:maven/org.nekosoft.pdffer/pdffer-template@1.0-PLURALSIGHT
+- pkg:maven/org.nekosoft.pdffer/pdffer-template@1.0-PLURALSIGHT?classifier=sources
+- pkg:maven/org.nekosoft.pdffer/pdffer-template@1.0.0
+- pkg:maven/org.nekosoft.pdffer/pdffer-template@1.0.0?classifier=sources

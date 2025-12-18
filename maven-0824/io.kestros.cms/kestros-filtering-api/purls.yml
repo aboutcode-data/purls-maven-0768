@@ -1,0 +1,2 @@
+- pkg:maven/io.kestros.cms/kestros-filtering-api@0.0.2
+- pkg:maven/io.kestros.cms/kestros-filtering-api@0.0.2?classifier=sources

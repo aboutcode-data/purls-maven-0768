@@ -1,0 +1,2 @@
+- pkg:maven/in.hocg.boot/arthas-spring-boot-autoconfigure@1.0.17
+- pkg:maven/in.hocg.boot/arthas-spring-boot-autoconfigure@1.0.17?classifier=sources

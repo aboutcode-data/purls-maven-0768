@@ -102,3 +102,7 @@
 - pkg:maven/br.com.jarch/jarch-template@21.6.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-template@21.6.0?type=war
 - pkg:maven/br.com.jarch/jarch-template@21.7.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@21.8.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@21.8.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@21.9.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@21.9.0?type=war

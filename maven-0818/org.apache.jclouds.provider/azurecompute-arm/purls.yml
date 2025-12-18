@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.jclouds.provider/azurecompute-arm@2.2.1?classifier=sources
 - pkg:maven/org.apache.jclouds.provider/azurecompute-arm@2.3.0
 - pkg:maven/org.apache.jclouds.provider/azurecompute-arm@2.3.0?classifier=sources
+- pkg:maven/org.apache.jclouds.provider/azurecompute-arm@2.4.0
+- pkg:maven/org.apache.jclouds.provider/azurecompute-arm@2.4.0?classifier=sources

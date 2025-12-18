@@ -6,3 +6,5 @@
 - pkg:maven/com.colisweb/scala-distances-provider-here_2.13@7.1.0?classifier=sources
 - pkg:maven/com.colisweb/scala-distances-provider-here_2.13@7.2.0
 - pkg:maven/com.colisweb/scala-distances-provider-here_2.13@7.2.0?classifier=sources
+- pkg:maven/com.colisweb/scala-distances-provider-here_2.13@7.3.0
+- pkg:maven/com.colisweb/scala-distances-provider-here_2.13@7.3.0?classifier=sources

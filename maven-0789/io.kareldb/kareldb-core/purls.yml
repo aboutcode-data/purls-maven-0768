@@ -24,3 +24,5 @@
 - pkg:maven/io.kareldb/kareldb-core@1.0.3?classifier=sources
 - pkg:maven/io.kareldb/kareldb-core@1.0.4
 - pkg:maven/io.kareldb/kareldb-core@1.0.4?classifier=sources
+- pkg:maven/io.kareldb/kareldb-core@2.0.0
+- pkg:maven/io.kareldb/kareldb-core@2.0.0?classifier=sources

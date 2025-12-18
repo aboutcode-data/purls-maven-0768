@@ -22,3 +22,7 @@
 - pkg:maven/com.cognitect.aws/iotsitewise@811.2.958.0?classifier=sources
 - pkg:maven/com.cognitect.aws/iotsitewise@813.2.963.0
 - pkg:maven/com.cognitect.aws/iotsitewise@813.2.963.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iotsitewise@813.2.972.0
+- pkg:maven/com.cognitect.aws/iotsitewise@813.2.972.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iotsitewise@814.2.977.0
+- pkg:maven/com.cognitect.aws/iotsitewise@814.2.977.0?classifier=sources

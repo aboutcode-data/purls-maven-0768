@@ -1,0 +1,2 @@
+- pkg:maven/com.sksamuel.hoplite/hoplite-watcher-consul@1.4.8?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-watcher-consul@1.4.9?classifier=sources

@@ -163,6 +163,8 @@
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1625169232.12812d5?classifier=sources
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1625170289.4e4665d
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1625170289.4e4665d?classifier=sources
+- pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1630847570.668ef24
+- pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1630847570.668ef24?classifier=sources
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.1?classifier=sources
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.2
 - pkg:maven/org.antipathy/mvn-scalafmt_2.12@1.0.2?classifier=sources

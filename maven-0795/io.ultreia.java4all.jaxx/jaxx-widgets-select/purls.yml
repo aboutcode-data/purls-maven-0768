@@ -169,6 +169,10 @@
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0-alpha-92?classifier=sources
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0-alpha-9?classifier=sources
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-1
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-10
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-10?classifier=sources
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-11
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-11?classifier=sources
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-1?classifier=sources
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-2
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-2?classifier=sources
@@ -180,3 +184,9 @@
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-5?classifier=sources
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-6
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-6?classifier=sources
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-7
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-7?classifier=sources
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-8
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-8?classifier=sources
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-9
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-widgets-select@3.0.0-RC-9?classifier=sources

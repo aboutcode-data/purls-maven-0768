@@ -7,3 +7,5 @@
 - pkg:maven/com.huibozhixin/diboot-core@2.1.2-hbzx4
 - pkg:maven/com.huibozhixin/diboot-core@2.1.2-hbzx4?classifier=sources
 - pkg:maven/com.huibozhixin/diboot-core@2.1.2-hbzx?classifier=sources
+- pkg:maven/com.huibozhixin/diboot-core@2.3.0-hbzx4
+- pkg:maven/com.huibozhixin/diboot-core@2.3.0-hbzx4?classifier=sources

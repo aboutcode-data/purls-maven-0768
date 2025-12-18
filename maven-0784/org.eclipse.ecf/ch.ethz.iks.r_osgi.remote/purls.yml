@@ -3,3 +3,4 @@
 - pkg:maven/org.eclipse.ecf/ch.ethz.iks.r_osgi.remote@1.2.201?classifier=sources
 - pkg:maven/org.eclipse.ecf/ch.ethz.iks.r_osgi.remote@1.2.203?classifier=sources
 - pkg:maven/org.eclipse.ecf/ch.ethz.iks.r_osgi.remote@1.2.300?classifier=sources
+- pkg:maven/org.eclipse.ecf/ch.ethz.iks.r_osgi.remote@1.2.400?classifier=sources

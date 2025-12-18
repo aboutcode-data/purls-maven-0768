@@ -294,7 +294,17 @@
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.15.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.16.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.17.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.18.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.19.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.2.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.20.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.21.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.22.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.23.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.24.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.25.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.27.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.28.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.3.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.4.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.5.0?classifier=sources

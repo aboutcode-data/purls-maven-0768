@@ -66,3 +66,5 @@
 - pkg:maven/org.togglz/togglz-shiro@2.9.8?classifier=sources
 - pkg:maven/org.togglz/togglz-shiro@2.9.9
 - pkg:maven/org.togglz/togglz-shiro@2.9.9?classifier=sources
+- pkg:maven/org.togglz/togglz-shiro@3.0.0
+- pkg:maven/org.togglz/togglz-shiro@3.0.0?classifier=sources

@@ -4,3 +4,11 @@
 - pkg:maven/io.github.thebesteric.framework.mocker/mocker-unit-case@0.0.9?classifier=sources
 - pkg:maven/io.github.thebesteric.framework.mocker/mocker-unit-case@1.0.0-RELEASE
 - pkg:maven/io.github.thebesteric.framework.mocker/mocker-unit-case@1.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.mocker/mocker-unit-case@1.0.1
+- pkg:maven/io.github.thebesteric.framework.mocker/mocker-unit-case@1.0.1?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.mocker/mocker-unit-case@1.0.2
+- pkg:maven/io.github.thebesteric.framework.mocker/mocker-unit-case@1.0.2?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.mocker/mocker-unit-case@1.0.3
+- pkg:maven/io.github.thebesteric.framework.mocker/mocker-unit-case@1.0.3?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.mocker/mocker-unit-case@1.0.4
+- pkg:maven/io.github.thebesteric.framework.mocker/mocker-unit-case@1.0.4?classifier=sources

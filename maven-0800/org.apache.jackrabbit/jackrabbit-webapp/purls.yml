@@ -134,6 +134,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.13.7?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.14.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.14.0?type=war
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.14.10?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.14.10?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.14.1?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.14.1?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.14.2?classifier=sources
@@ -280,6 +282,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.21.6?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.21.7?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.21.7?type=war
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.21.8?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.21.8?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.3.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.3.0?type=war
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webapp@2.3.2?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@1.0.0-beta.09?classifier=sources
 - pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@1.0.0-beta.10?classifier=sources
 - pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@1.0.0-beta.11?classifier=sources
+- pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@1.0.0-beta.12?classifier=sources
+- pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@1.0.0?classifier=sources
+- pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@1.1.0?classifier=sources
+- pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@1.2.0?classifier=sources

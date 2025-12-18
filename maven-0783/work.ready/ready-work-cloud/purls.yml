@@ -1,0 +1,2 @@
+- pkg:maven/work.ready/ready-work-cloud@0.6.6.rc6
+- pkg:maven/work.ready/ready-work-cloud@0.6.6.rc6?classifier=sources

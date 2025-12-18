@@ -1,0 +1,4 @@
+- pkg:maven/org.javaweb/javaweb-javassist@3.28.0-GA
+- pkg:maven/org.javaweb/javaweb-javassist@3.28.0-GA?classifier=sources
+- pkg:maven/org.javaweb/javaweb-javassist@3.28.01
+- pkg:maven/org.javaweb/javaweb-javassist@3.28.01?classifier=sources

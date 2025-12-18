@@ -10,3 +10,5 @@
 - pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.2.2?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.3.0
 - pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.3.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.3.1
+- pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@3.3.1?classifier=sources

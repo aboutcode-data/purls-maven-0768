@@ -4,3 +4,5 @@
 - pkg:maven/com.github.p2m2/discovery_2.13@0.2.0?classifier=sources
 - pkg:maven/com.github.p2m2/discovery_2.13@v0.2.0
 - pkg:maven/com.github.p2m2/discovery_2.13@v0.2.0?classifier=sources
+- pkg:maven/com.github.p2m2/discovery_2.13@v0.3.0-alpha.6
+- pkg:maven/com.github.p2m2/discovery_2.13@v0.3.0-alpha.6?classifier=sources

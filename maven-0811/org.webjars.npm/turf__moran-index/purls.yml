@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/turf__moran-index@6.2.0-alpha.2
 - pkg:maven/org.webjars.npm/turf__moran-index@6.2.0-alpha.2?classifier=sources
+- pkg:maven/org.webjars.npm/turf__moran-index@6.5.0
+- pkg:maven/org.webjars.npm/turf__moran-index@6.5.0?classifier=sources

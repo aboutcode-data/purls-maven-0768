@@ -38,6 +38,12 @@
 - pkg:maven/org.webjars.npm/three@0.131.1?classifier=sources
 - pkg:maven/org.webjars.npm/three@0.131.3
 - pkg:maven/org.webjars.npm/three@0.131.3?classifier=sources
+- pkg:maven/org.webjars.npm/three@0.132.0
+- pkg:maven/org.webjars.npm/three@0.132.0?classifier=sources
+- pkg:maven/org.webjars.npm/three@0.132.2
+- pkg:maven/org.webjars.npm/three@0.132.2?classifier=sources
+- pkg:maven/org.webjars.npm/three@0.133.1
+- pkg:maven/org.webjars.npm/three@0.133.1?classifier=sources
 - pkg:maven/org.webjars.npm/three@0.82.1
 - pkg:maven/org.webjars.npm/three@0.82.1?classifier=sources
 - pkg:maven/org.webjars.npm/three@0.83.0

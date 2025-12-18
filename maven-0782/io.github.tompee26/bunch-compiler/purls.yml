@@ -1,2 +1,3 @@
 - pkg:maven/io.github.tompee26/bunch-compiler@0.3.1?classifier=sources
 - pkg:maven/io.github.tompee26/bunch-compiler@0.4.0?classifier=sources
+- pkg:maven/io.github.tompee26/bunch-compiler@0.5.0?classifier=sources

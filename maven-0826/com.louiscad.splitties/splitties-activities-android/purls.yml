@@ -6,3 +6,4 @@
 - pkg:maven/com.louiscad.splitties/splitties-activities-android@3.0.0-rc01?classifier=sources
 - pkg:maven/com.louiscad.splitties/splitties-activities-android@3.0.0-rc02?classifier=sources
 - pkg:maven/com.louiscad.splitties/splitties-activities-android@3.0.0-rc03?classifier=sources
+- pkg:maven/com.louiscad.splitties/splitties-activities-android@3.0.0?classifier=sources

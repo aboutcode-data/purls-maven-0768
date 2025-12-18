@@ -1,0 +1,4 @@
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.23
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.23?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.24
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.24?classifier=sources

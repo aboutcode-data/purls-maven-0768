@@ -16,3 +16,5 @@
 - pkg:maven/org.wvlet.airframe/airframe-canvas_3@21.8.0?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-canvas_3@21.8.1
 - pkg:maven/org.wvlet.airframe/airframe-canvas_3@21.8.1?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-canvas_3@21.9.0
+- pkg:maven/org.wvlet.airframe/airframe-canvas_3@21.9.0?classifier=sources

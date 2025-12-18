@@ -150,6 +150,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.42.v20210604?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.43.v20210629
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.43.v20210629?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.44.v20210927
+- pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.44.v20210927?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.5.v20180619
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.5.v20180619?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-java-server@9.4.6.v20180619

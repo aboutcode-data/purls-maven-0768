@@ -2,3 +2,6 @@
 - pkg:maven/de.trbnb/mvvmbase-core@2.1.1?classifier=sources
 - pkg:maven/de.trbnb/mvvmbase-core@3.0.0-alpha01?classifier=sources
 - pkg:maven/de.trbnb/mvvmbase-core@3.0.0-alpha02?classifier=sources
+- pkg:maven/de.trbnb/mvvmbase-core@3.0.0?classifier=sources
+- pkg:maven/de.trbnb/mvvmbase-core@3.0.1?classifier=sources
+- pkg:maven/de.trbnb/mvvmbase-core@3.0.2?classifier=sources

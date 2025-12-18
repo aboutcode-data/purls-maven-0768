@@ -78,3 +78,5 @@
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.16.0-alpha3?classifier=sources
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.16.0-alpha4
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.16.0-alpha4?classifier=sources
+- pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.16.0-alpha5
+- pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.16.0-alpha5?classifier=sources

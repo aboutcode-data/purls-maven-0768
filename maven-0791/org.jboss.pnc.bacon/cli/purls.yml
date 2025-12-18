@@ -5,6 +5,8 @@
 - pkg:maven/org.jboss.pnc.bacon/cli@2.0.2
 - pkg:maven/org.jboss.pnc.bacon/cli@2.0.2?classifier=sources
 - pkg:maven/org.jboss.pnc.bacon/cli@2.1.1
+- pkg:maven/org.jboss.pnc.bacon/cli@2.1.10
+- pkg:maven/org.jboss.pnc.bacon/cli@2.1.10?classifier=sources
 - pkg:maven/org.jboss.pnc.bacon/cli@2.1.1?classifier=sources
 - pkg:maven/org.jboss.pnc.bacon/cli@2.1.2
 - pkg:maven/org.jboss.pnc.bacon/cli@2.1.2?classifier=sources

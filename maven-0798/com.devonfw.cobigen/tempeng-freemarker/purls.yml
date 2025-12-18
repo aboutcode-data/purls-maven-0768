@@ -6,5 +6,7 @@
 - pkg:maven/com.devonfw.cobigen/tempeng-freemarker@2.1.0?classifier=sources
 - pkg:maven/com.devonfw.cobigen/tempeng-freemarker@2021.08.001
 - pkg:maven/com.devonfw.cobigen/tempeng-freemarker@2021.08.001?classifier=sources
+- pkg:maven/com.devonfw.cobigen/tempeng-freemarker@2021.08.002
+- pkg:maven/com.devonfw.cobigen/tempeng-freemarker@2021.08.002?classifier=sources
 - pkg:maven/com.devonfw.cobigen/tempeng-freemarker@7.0.0
 - pkg:maven/com.devonfw.cobigen/tempeng-freemarker@7.0.0?classifier=sources

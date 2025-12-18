@@ -387,6 +387,8 @@
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.4.31?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.4.32
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.4.32?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-jersey@2.4.33
+- pkg:maven/org.atmosphere/atmosphere-jersey@2.4.33?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.4.3?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.4.4
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.4.4?classifier=sources
@@ -415,6 +417,8 @@
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.5.14?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.5.15
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.5.15?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-jersey@2.5.16
+- pkg:maven/org.atmosphere/atmosphere-jersey@2.5.16?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.5.1?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.5.2
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.5.2?classifier=sources
@@ -440,6 +444,8 @@
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.6.3?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.6.4
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.6.4?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-jersey@2.6.5
+- pkg:maven/org.atmosphere/atmosphere-jersey@2.6.5?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.7.0
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.7.0?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-jersey@2.7.1

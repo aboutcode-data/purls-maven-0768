@@ -4,3 +4,4 @@
 - pkg:maven/com.jongsoft.finance/domain@2.2.0?classifier=sources
 - pkg:maven/com.jongsoft.finance/domain@2.3.0?classifier=sources
 - pkg:maven/com.jongsoft.finance/domain@2.3.1?classifier=sources
+- pkg:maven/com.jongsoft.finance/domain@2.4.0?classifier=sources

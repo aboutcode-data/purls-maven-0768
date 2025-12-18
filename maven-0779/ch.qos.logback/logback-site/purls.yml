@@ -134,6 +134,7 @@
 - pkg:maven/ch.qos.logback/logback-site@1.2.4
 - pkg:maven/ch.qos.logback/logback-site@1.2.4-groovyless
 - pkg:maven/ch.qos.logback/logback-site@1.2.5
+- pkg:maven/ch.qos.logback/logback-site@1.2.6
 - pkg:maven/ch.qos.logback/logback-site@1.3.0-alpha0
 - pkg:maven/ch.qos.logback/logback-site@1.3.0-alpha0?classifier=sources
 - pkg:maven/ch.qos.logback/logback-site@1.3.0-alpha1

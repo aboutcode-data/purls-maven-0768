@@ -29,3 +29,5 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql-datacatalog@2.29.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql-datacatalog@2.30.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql-datacatalog@2.31.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql-datacatalog@2.32.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql-datacatalog@2.33.0?classifier=sources

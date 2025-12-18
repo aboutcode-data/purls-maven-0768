@@ -82,3 +82,9 @@
 - pkg:maven/org.biojava/biojava-structure@6.0.0-alpha3?classifier=sources
 - pkg:maven/org.biojava/biojava-structure@6.0.0-alpha4
 - pkg:maven/org.biojava/biojava-structure@6.0.0-alpha4?classifier=sources
+- pkg:maven/org.biojava/biojava-structure@6.0.0-alpha5
+- pkg:maven/org.biojava/biojava-structure@6.0.0-alpha5?classifier=sources
+- pkg:maven/org.biojava/biojava-structure@6.0.0-alpha6
+- pkg:maven/org.biojava/biojava-structure@6.0.0-alpha6?classifier=sources
+- pkg:maven/org.biojava/biojava-structure@6.0.0-alpha7
+- pkg:maven/org.biojava/biojava-structure@6.0.0-alpha7?classifier=sources

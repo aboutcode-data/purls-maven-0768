@@ -578,3 +578,5 @@
 - pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.5.7?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.5.8
 - pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.5.8?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.6.0
+- pkg:maven/net.serenity-bdd/serenity-screenplay-webdriver@2.6.0?classifier=sources

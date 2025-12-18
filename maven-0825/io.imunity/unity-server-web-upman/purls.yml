@@ -30,5 +30,13 @@
 - pkg:maven/io.imunity/unity-server-web-upman@3.5.1?classifier=sources
 - pkg:maven/io.imunity/unity-server-web-upman@3.5.2
 - pkg:maven/io.imunity/unity-server-web-upman@3.5.2?classifier=sources
+- pkg:maven/io.imunity/unity-server-web-upman@3.5.3
+- pkg:maven/io.imunity/unity-server-web-upman@3.5.3?classifier=sources
+- pkg:maven/io.imunity/unity-server-web-upman@3.5.4
+- pkg:maven/io.imunity/unity-server-web-upman@3.5.4?classifier=sources
+- pkg:maven/io.imunity/unity-server-web-upman@3.6.0
 - pkg:maven/io.imunity/unity-server-web-upman@3.6.0-m1
 - pkg:maven/io.imunity/unity-server-web-upman@3.6.0-m1?classifier=sources
+- pkg:maven/io.imunity/unity-server-web-upman@3.6.0-m2
+- pkg:maven/io.imunity/unity-server-web-upman@3.6.0-m2?classifier=sources
+- pkg:maven/io.imunity/unity-server-web-upman@3.6.0?classifier=sources

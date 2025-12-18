@@ -1,0 +1,2 @@
+- pkg:maven/com.fizzgate/fizz-demo-plugin@2.3.0-xxx
+- pkg:maven/com.fizzgate/fizz-demo-plugin@2.3.0-xxx?classifier=sources

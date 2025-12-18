@@ -56,3 +56,5 @@
 - pkg:maven/ch.exense.step/step-functions-plugins-java-handler@3.16.3?classifier=sources
 - pkg:maven/ch.exense.step/step-functions-plugins-java-handler@3.17.0
 - pkg:maven/ch.exense.step/step-functions-plugins-java-handler@3.17.0?classifier=sources
+- pkg:maven/ch.exense.step/step-functions-plugins-java-handler@3.17.1
+- pkg:maven/ch.exense.step/step-functions-plugins-java-handler@3.17.1?classifier=sources

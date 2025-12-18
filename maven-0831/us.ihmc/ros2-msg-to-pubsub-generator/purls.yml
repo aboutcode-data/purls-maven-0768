@@ -1,2 +1,4 @@
 - pkg:maven/us.ihmc/ros2-msg-to-pubsub-generator@0.19.4?classifier=sources
 - pkg:maven/us.ihmc/ros2-msg-to-pubsub-generator@0.20.3?classifier=sources
+- pkg:maven/us.ihmc/ros2-msg-to-pubsub-generator@0.20.4?classifier=sources
+- pkg:maven/us.ihmc/ros2-msg-to-pubsub-generator@0.20.5?classifier=sources

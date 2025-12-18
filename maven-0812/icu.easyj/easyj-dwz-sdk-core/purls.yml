@@ -1,0 +1,4 @@
+- pkg:maven/icu.easyj/easyj-dwz-sdk-core@0.1.8
+- pkg:maven/icu.easyj/easyj-dwz-sdk-core@0.1.8?classifier=sources
+- pkg:maven/icu.easyj/easyj-dwz-sdk-core@0.1.9
+- pkg:maven/icu.easyj/easyj-dwz-sdk-core@0.1.9?classifier=sources

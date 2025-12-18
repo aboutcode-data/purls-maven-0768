@@ -32,6 +32,8 @@
 - pkg:maven/com.microsoft.azure/azure-maven-plugin-lib@1.12.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-maven-plugin-lib@1.13.0
 - pkg:maven/com.microsoft.azure/azure-maven-plugin-lib@1.13.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-maven-plugin-lib@1.14.0
+- pkg:maven/com.microsoft.azure/azure-maven-plugin-lib@1.14.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-maven-plugin-lib@1.2.0
 - pkg:maven/com.microsoft.azure/azure-maven-plugin-lib@1.2.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-maven-plugin-lib@1.2.1

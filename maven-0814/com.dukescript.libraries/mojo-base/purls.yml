@@ -1,0 +1,2 @@
+- pkg:maven/com.dukescript.libraries/mojo-base@0.15
+- pkg:maven/com.dukescript.libraries/mojo-base@0.15?classifier=sources

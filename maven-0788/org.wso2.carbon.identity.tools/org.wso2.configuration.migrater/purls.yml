@@ -1,2 +1,4 @@
 - pkg:maven/org.wso2.carbon.identity.tools/org.wso2.configuration.migrater@1.0.4
 - pkg:maven/org.wso2.carbon.identity.tools/org.wso2.configuration.migrater@1.0.4?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.tools/org.wso2.configuration.migrater@1.0.5
+- pkg:maven/org.wso2.carbon.identity.tools/org.wso2.configuration.migrater@1.0.5?classifier=sources

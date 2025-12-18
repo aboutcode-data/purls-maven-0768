@@ -20,3 +20,5 @@
 - pkg:maven/com.applovin.mediation/google-adapter@20.2.0.3?type=aar
 - pkg:maven/com.applovin.mediation/google-adapter@20.2.0.4?classifier=sources
 - pkg:maven/com.applovin.mediation/google-adapter@20.2.0.4?type=aar
+- pkg:maven/com.applovin.mediation/google-adapter@20.3.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/google-adapter@20.3.0.0?type=aar

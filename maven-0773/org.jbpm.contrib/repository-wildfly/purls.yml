@@ -52,5 +52,6 @@
 - pkg:maven/org.jbpm.contrib/repository-wildfly@7.56.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository-wildfly@7.57.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository-wildfly@7.58.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-wildfly@7.59.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository-wildfly@7.8.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository-wildfly@7.9.0.Final?classifier=sources

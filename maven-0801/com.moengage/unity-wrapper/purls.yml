@@ -4,3 +4,4 @@
 - pkg:maven/com.moengage/unity-wrapper@2.0.00?classifier=sources
 - pkg:maven/com.moengage/unity-wrapper@2.1.00?classifier=sources
 - pkg:maven/com.moengage/unity-wrapper@2.1.01?classifier=sources
+- pkg:maven/com.moengage/unity-wrapper@2.2.0?classifier=sources

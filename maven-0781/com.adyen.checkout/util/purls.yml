@@ -12,6 +12,8 @@
 - pkg:maven/com.adyen.checkout/util@2.4.10?type=aar
 - pkg:maven/com.adyen.checkout/util@2.4.11?type=aar
 - pkg:maven/com.adyen.checkout/util@2.4.12?type=aar
+- pkg:maven/com.adyen.checkout/util@2.4.13?classifier=sources
+- pkg:maven/com.adyen.checkout/util@2.4.13?type=aar
 - pkg:maven/com.adyen.checkout/util@2.4.1?type=aar
 - pkg:maven/com.adyen.checkout/util@2.4.2?type=aar
 - pkg:maven/com.adyen.checkout/util@2.4.3?type=aar

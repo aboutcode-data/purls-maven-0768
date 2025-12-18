@@ -1,0 +1,2 @@
+- pkg:maven/org.alexn/my-typelevel-library-core_sjs1_3@0.0.13
+- pkg:maven/org.alexn/my-typelevel-library-core_sjs1_3@0.0.13?classifier=sources

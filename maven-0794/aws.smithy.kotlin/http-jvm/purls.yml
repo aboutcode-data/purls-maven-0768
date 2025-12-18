@@ -1,0 +1,2 @@
+- pkg:maven/aws.smithy.kotlin/http-jvm@0.4.0-alpha?classifier=sources
+- pkg:maven/aws.smithy.kotlin/http-jvm@0.4.1-alpha?classifier=sources

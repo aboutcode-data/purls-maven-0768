@@ -92,3 +92,5 @@
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-server@4.2.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-server@5.0.0-alpha.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-spring-server@5.0.0-alpha.3?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@5.0.0-alpha.4?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-spring-server@5.0.0?classifier=sources

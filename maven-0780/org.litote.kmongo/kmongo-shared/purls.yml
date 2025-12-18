@@ -104,3 +104,5 @@
 - pkg:maven/org.litote.kmongo/kmongo-shared@4.2.7?classifier=sources
 - pkg:maven/org.litote.kmongo/kmongo-shared@4.2.8
 - pkg:maven/org.litote.kmongo/kmongo-shared@4.2.8?classifier=sources
+- pkg:maven/org.litote.kmongo/kmongo-shared@4.3.0
+- pkg:maven/org.litote.kmongo/kmongo-shared@4.3.0?classifier=sources

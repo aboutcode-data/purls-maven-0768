@@ -2,3 +2,4 @@
 - pkg:maven/com.mparticle/smartype-mparticle@1.0.3?classifier=sources
 - pkg:maven/com.mparticle/smartype-mparticle@1.2.2?classifier=sources
 - pkg:maven/com.mparticle/smartype-mparticle@1.2.3?classifier=sources
+- pkg:maven/com.mparticle/smartype-mparticle@1.2.4?classifier=sources

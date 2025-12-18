@@ -30,6 +30,10 @@
 - pkg:maven/org.http4k/http4k-connect-amazon-sns@3.1.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-sns@3.1.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-sns@3.1.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sns@3.10.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sns@3.10.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sns@3.11.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sns@3.11.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-sns@3.2.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-sns@3.2.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-sns@3.3.0.0?classifier=sources
@@ -47,3 +51,11 @@
 - pkg:maven/org.http4k/http4k-connect-amazon-sns@3.6.3.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-sns@3.6.3.1?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-sns@3.6.3.2?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sns@3.6.4.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sns@3.7.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sns@3.8.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sns@3.8.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sns@3.8.1.1?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sns@3.8.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sns@3.8.3.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-sns@3.9.0.0?classifier=sources

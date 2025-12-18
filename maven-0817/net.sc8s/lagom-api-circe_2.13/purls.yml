@@ -56,6 +56,14 @@
 - pkg:maven/net.sc8s/lagom-api-circe_2.13@0.34.0?classifier=sources
 - pkg:maven/net.sc8s/lagom-api-circe_2.13@0.34.1
 - pkg:maven/net.sc8s/lagom-api-circe_2.13@0.34.1?classifier=sources
+- pkg:maven/net.sc8s/lagom-api-circe_2.13@0.35.0
+- pkg:maven/net.sc8s/lagom-api-circe_2.13@0.35.0?classifier=sources
+- pkg:maven/net.sc8s/lagom-api-circe_2.13@0.35.1
+- pkg:maven/net.sc8s/lagom-api-circe_2.13@0.35.1?classifier=sources
+- pkg:maven/net.sc8s/lagom-api-circe_2.13@0.36.0
+- pkg:maven/net.sc8s/lagom-api-circe_2.13@0.36.0?classifier=sources
+- pkg:maven/net.sc8s/lagom-api-circe_2.13@0.37.0
+- pkg:maven/net.sc8s/lagom-api-circe_2.13@0.37.0?classifier=sources
 - pkg:maven/net.sc8s/lagom-api-circe_2.13@0.8.1
 - pkg:maven/net.sc8s/lagom-api-circe_2.13@0.8.1?classifier=sources
 - pkg:maven/net.sc8s/lagom-api-circe_2.13@0.8.2

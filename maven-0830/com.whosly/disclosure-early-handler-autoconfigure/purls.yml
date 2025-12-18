@@ -1,0 +1,2 @@
+- pkg:maven/com.whosly/disclosure-early-handler-autoconfigure@0.0.1
+- pkg:maven/com.whosly/disclosure-early-handler-autoconfigure@0.0.1?classifier=sources

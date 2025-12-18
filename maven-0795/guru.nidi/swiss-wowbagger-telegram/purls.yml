@@ -1,0 +1,2 @@
+- pkg:maven/guru.nidi/swiss-wowbagger-telegram@0.0.2
+- pkg:maven/guru.nidi/swiss-wowbagger-telegram@0.0.2?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.1?type=aar
 - pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.2?classifier=sources
 - pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.2?type=aar
+- pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.4?classifier=sources
+- pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.4?type=aar
+- pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.5?classifier=sources
+- pkg:maven/com.applovin.mediation/line-adapter@2021.5.11.5?type=aar

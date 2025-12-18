@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zawn.retrofit2/retrofit-mock@2.10.4?classifier=sources
+- pkg:maven/io.github.zawn.retrofit2/retrofit-mock@2.10.6?classifier=sources

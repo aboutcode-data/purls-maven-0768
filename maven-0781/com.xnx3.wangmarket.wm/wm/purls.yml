@@ -1,0 +1,8 @@
+- pkg:maven/com.xnx3.wangmarket.wm/wm@1.25
+- pkg:maven/com.xnx3.wangmarket.wm/wm@1.25?classifier=sources
+- pkg:maven/com.xnx3.wangmarket.wm/wm@1.26
+- pkg:maven/com.xnx3.wangmarket.wm/wm@1.26?classifier=sources
+- pkg:maven/com.xnx3.wangmarket.wm/wm@1.29
+- pkg:maven/com.xnx3.wangmarket.wm/wm@1.29?classifier=sources
+- pkg:maven/com.xnx3.wangmarket.wm/wm@2.3
+- pkg:maven/com.xnx3.wangmarket.wm/wm@2.3?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.kevinlee/just-sysprocess_3@0.8.0
 - pkg:maven/io.kevinlee/just-sysprocess_3@0.8.0?classifier=sources
+- pkg:maven/io.kevinlee/just-sysprocess_3@1.0.0
+- pkg:maven/io.kevinlee/just-sysprocess_3@1.0.0?classifier=sources

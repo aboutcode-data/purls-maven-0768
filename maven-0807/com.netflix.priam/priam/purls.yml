@@ -96,6 +96,7 @@
 - pkg:maven/com.netflix.priam/priam@3.1.10?classifier=sources
 - pkg:maven/com.netflix.priam/priam@3.1.11
 - pkg:maven/com.netflix.priam/priam@3.1.110?classifier=sources
+- pkg:maven/com.netflix.priam/priam@3.1.111?classifier=sources
 - pkg:maven/com.netflix.priam/priam@3.1.11?classifier=sources
 - pkg:maven/com.netflix.priam/priam@3.1.12
 - pkg:maven/com.netflix.priam/priam@3.1.12?classifier=sources
@@ -402,6 +403,8 @@
 - pkg:maven/com.netflix.priam/priam@3.11.81?classifier=sources
 - pkg:maven/com.netflix.priam/priam@3.11.82?classifier=sources
 - pkg:maven/com.netflix.priam/priam@3.11.83?classifier=sources
+- pkg:maven/com.netflix.priam/priam@3.11.84?classifier=sources
+- pkg:maven/com.netflix.priam/priam@3.11.85?classifier=sources
 - pkg:maven/com.netflix.priam/priam@3.11.8?classifier=sources
 - pkg:maven/com.netflix.priam/priam@3.11.9
 - pkg:maven/com.netflix.priam/priam@3.11.9?classifier=sources

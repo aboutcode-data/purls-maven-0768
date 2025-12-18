@@ -2,3 +2,5 @@
 - pkg:maven/io.trino.benchto/benchto-service@0.13?classifier=sources
 - pkg:maven/io.trino.benchto/benchto-service@0.14
 - pkg:maven/io.trino.benchto/benchto-service@0.14?classifier=sources
+- pkg:maven/io.trino.benchto/benchto-service@0.15
+- pkg:maven/io.trino.benchto/benchto-service@0.15?classifier=sources

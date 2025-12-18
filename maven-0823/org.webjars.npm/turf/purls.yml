@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/turf@3.0.14
+- pkg:maven/org.webjars.npm/turf@3.0.14?classifier=sources

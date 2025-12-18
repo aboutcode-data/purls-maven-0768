@@ -242,6 +242,8 @@
 - pkg:maven/net.openhft/chronicle-map@3.20.84?classifier=sources
 - pkg:maven/net.openhft/chronicle-map@3.21.85
 - pkg:maven/net.openhft/chronicle-map@3.21.85?classifier=sources
+- pkg:maven/net.openhft/chronicle-map@3.21.86
+- pkg:maven/net.openhft/chronicle-map@3.21.86?classifier=sources
 - pkg:maven/net.openhft/chronicle-map@3.21ea0
 - pkg:maven/net.openhft/chronicle-map@3.21ea0?classifier=sources
 - pkg:maven/net.openhft/chronicle-map@3.21ea1
@@ -278,6 +280,14 @@
 - pkg:maven/net.openhft/chronicle-map@3.21ea82?classifier=sources
 - pkg:maven/net.openhft/chronicle-map@3.21ea83
 - pkg:maven/net.openhft/chronicle-map@3.21ea83?classifier=sources
+- pkg:maven/net.openhft/chronicle-map@3.22ea1
+- pkg:maven/net.openhft/chronicle-map@3.22ea1?classifier=sources
+- pkg:maven/net.openhft/chronicle-map@3.22ea2
+- pkg:maven/net.openhft/chronicle-map@3.22ea2?classifier=sources
+- pkg:maven/net.openhft/chronicle-map@3.22ea3
+- pkg:maven/net.openhft/chronicle-map@3.22ea3?classifier=sources
+- pkg:maven/net.openhft/chronicle-map@3.22ea4
+- pkg:maven/net.openhft/chronicle-map@3.22ea4?classifier=sources
 - pkg:maven/net.openhft/chronicle-map@3.3.0-beta
 - pkg:maven/net.openhft/chronicle-map@3.3.0-beta?classifier=sources
 - pkg:maven/net.openhft/chronicle-map@3.4.0-beta

@@ -1,0 +1,3 @@
+- pkg:maven/net.oneandone.ioc-unit/discovery-runner@2.0.40
+- pkg:maven/net.oneandone.ioc-unit/discovery-runner@2.0.40?classifier=sources
+- pkg:maven/net.oneandone.ioc-unit/discovery-runner@2.0.42?classifier=sources

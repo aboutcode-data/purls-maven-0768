@@ -6,3 +6,5 @@
 - pkg:maven/de.sonallux.spotify/spotify-web-api-java-generator@2.2.0-beta.0
 - pkg:maven/de.sonallux.spotify/spotify-web-api-java-generator@2.2.0-beta.0?classifier=sources
 - pkg:maven/de.sonallux.spotify/spotify-web-api-java-generator@2.2.0?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-java-generator@2.3.0
+- pkg:maven/de.sonallux.spotify/spotify-web-api-java-generator@2.3.0?classifier=sources

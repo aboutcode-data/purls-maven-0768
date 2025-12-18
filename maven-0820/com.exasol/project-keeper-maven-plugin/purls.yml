@@ -30,3 +30,9 @@
 - pkg:maven/com.exasol/project-keeper-maven-plugin@0.8.0?classifier=sources
 - pkg:maven/com.exasol/project-keeper-maven-plugin@0.9.0
 - pkg:maven/com.exasol/project-keeper-maven-plugin@0.9.0?classifier=sources
+- pkg:maven/com.exasol/project-keeper-maven-plugin@1.0.0
+- pkg:maven/com.exasol/project-keeper-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/com.exasol/project-keeper-maven-plugin@1.1.0
+- pkg:maven/com.exasol/project-keeper-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/com.exasol/project-keeper-maven-plugin@1.2.0
+- pkg:maven/com.exasol/project-keeper-maven-plugin@1.2.0?classifier=sources

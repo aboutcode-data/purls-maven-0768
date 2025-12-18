@@ -1,0 +1,2 @@
+- pkg:maven/io.streamthoughts/kafka-connect-filepulse-plugin@2.4.0
+- pkg:maven/io.streamthoughts/kafka-connect-filepulse-plugin@2.4.0?classifier=sources

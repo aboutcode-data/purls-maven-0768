@@ -1,5 +1,6 @@
 - pkg:maven/net.dreamlu/mica-qrcode@2.4.10
 - pkg:maven/net.dreamlu/mica-qrcode@2.4.10?classifier=sources
+- pkg:maven/net.dreamlu/mica-qrcode@2.4.11?classifier=sources
 - pkg:maven/net.dreamlu/mica-qrcode@2.4.4-GA
 - pkg:maven/net.dreamlu/mica-qrcode@2.4.4-GA?classifier=sources
 - pkg:maven/net.dreamlu/mica-qrcode@2.4.5
@@ -26,3 +27,4 @@
 - pkg:maven/net.dreamlu/mica-qrcode@2.5.3?classifier=sources
 - pkg:maven/net.dreamlu/mica-qrcode@2.5.4
 - pkg:maven/net.dreamlu/mica-qrcode@2.5.4?classifier=sources
+- pkg:maven/net.dreamlu/mica-qrcode@2.5.5?classifier=sources

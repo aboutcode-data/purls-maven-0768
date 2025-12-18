@@ -1,0 +1,2 @@
+- pkg:maven/com.redis/calcite-redisearch@1.26.0?classifier=sources
+- pkg:maven/com.redis/calcite-redisearch@1.27.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.spt-development/spt-development-cid@1.0.0?classifier=sources
 - pkg:maven/com.spt-development/spt-development-cid@1.1.0
 - pkg:maven/com.spt-development/spt-development-cid@1.1.0?classifier=sources
+- pkg:maven/com.spt-development/spt-development-cid@2.0.0
+- pkg:maven/com.spt-development/spt-development-cid@2.0.0?classifier=sources

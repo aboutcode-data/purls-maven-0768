@@ -1,0 +1,2 @@
+- pkg:maven/tech.kronicle/kronicle-metadata@0.1.32?classifier=sources
+- pkg:maven/tech.kronicle/kronicle-metadata@0.1.45?classifier=sources

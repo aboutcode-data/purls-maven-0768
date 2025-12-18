@@ -2,3 +2,5 @@
 - pkg:maven/io.liquer.pencil/pencil-spring-boot-autoconfigure@1.0.0?classifier=sources
 - pkg:maven/io.liquer.pencil/pencil-spring-boot-autoconfigure@1.1.0
 - pkg:maven/io.liquer.pencil/pencil-spring-boot-autoconfigure@1.1.0?classifier=sources
+- pkg:maven/io.liquer.pencil/pencil-spring-boot-autoconfigure@2.0.0
+- pkg:maven/io.liquer.pencil/pencil-spring-boot-autoconfigure@2.0.0?classifier=sources

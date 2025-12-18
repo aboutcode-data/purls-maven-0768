@@ -18,6 +18,16 @@
 - pkg:maven/org.typelevel/literally_sjs1_3@1.0-23-f528985?classifier=sources
 - pkg:maven/org.typelevel/literally_sjs1_3@1.0-25-2266d45
 - pkg:maven/org.typelevel/literally_sjs1_3@1.0-25-2266d45?classifier=sources
+- pkg:maven/org.typelevel/literally_sjs1_3@1.0-28-45dd9be
+- pkg:maven/org.typelevel/literally_sjs1_3@1.0-28-45dd9be?classifier=sources
+- pkg:maven/org.typelevel/literally_sjs1_3@1.0-30-9f23ed5
+- pkg:maven/org.typelevel/literally_sjs1_3@1.0-30-9f23ed5?classifier=sources
+- pkg:maven/org.typelevel/literally_sjs1_3@1.0-33-3b6c0b3
+- pkg:maven/org.typelevel/literally_sjs1_3@1.0-33-3b6c0b3?classifier=sources
+- pkg:maven/org.typelevel/literally_sjs1_3@1.0-35-cc73836
+- pkg:maven/org.typelevel/literally_sjs1_3@1.0-35-cc73836?classifier=sources
+- pkg:maven/org.typelevel/literally_sjs1_3@1.0-37-a7dcd75
+- pkg:maven/org.typelevel/literally_sjs1_3@1.0-37-a7dcd75?classifier=sources
 - pkg:maven/org.typelevel/literally_sjs1_3@1.0-4-88a3ecd
 - pkg:maven/org.typelevel/literally_sjs1_3@1.0-4-88a3ecd?classifier=sources
 - pkg:maven/org.typelevel/literally_sjs1_3@1.0-5-1374164

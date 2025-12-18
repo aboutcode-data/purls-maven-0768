@@ -6,5 +6,11 @@
 - pkg:maven/org.webpieces/libraries@2.0.150?classifier=sources
 - pkg:maven/org.webpieces/libraries@2.0.151
 - pkg:maven/org.webpieces/libraries@2.0.151?classifier=sources
+- pkg:maven/org.webpieces/libraries@2.0.152
+- pkg:maven/org.webpieces/libraries@2.0.152?classifier=sources
+- pkg:maven/org.webpieces/libraries@2.0.153
+- pkg:maven/org.webpieces/libraries@2.0.153?classifier=sources
+- pkg:maven/org.webpieces/libraries@2.0.154
+- pkg:maven/org.webpieces/libraries@2.0.154?classifier=sources
 - pkg:maven/org.webpieces/libraries@2.1.0?classifier=sources
 - pkg:maven/org.webpieces/libraries@2.1.1?classifier=sources

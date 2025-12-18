@@ -22,3 +22,17 @@
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.56?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.57
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.57?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.58
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.58-pre1
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.58-pre1?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.58?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.70
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.70?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.71
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.71-pre1
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.71-pre1?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.71-pre2
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.71-pre2?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.71?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.72
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mail@0.72?classifier=sources

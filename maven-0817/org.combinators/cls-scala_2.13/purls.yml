@@ -1,4 +1,12 @@
+- pkg:maven/org.combinators/cls-scala_2.13@0.0.0%2B1-0a36ab7c
+- pkg:maven/org.combinators/cls-scala_2.13@0.0.0%2B1-0a36ab7c?classifier=sources
 - pkg:maven/org.combinators/cls-scala_2.13@0.0.0%2B1-3e3bbd18
 - pkg:maven/org.combinators/cls-scala_2.13@0.0.0%2B1-3e3bbd18?classifier=sources
 - pkg:maven/org.combinators/cls-scala_2.13@3.0.0
+- pkg:maven/org.combinators/cls-scala_2.13@3.0.0%2B15-db7f9552
+- pkg:maven/org.combinators/cls-scala_2.13@3.0.0%2B15-db7f9552?classifier=sources
+- pkg:maven/org.combinators/cls-scala_2.13@3.0.0%2B19-31f44f47
+- pkg:maven/org.combinators/cls-scala_2.13@3.0.0%2B19-31f44f47?classifier=sources
 - pkg:maven/org.combinators/cls-scala_2.13@3.0.0?classifier=sources
+- pkg:maven/org.combinators/cls-scala_2.13@3.0.1
+- pkg:maven/org.combinators/cls-scala_2.13@3.0.1?classifier=sources

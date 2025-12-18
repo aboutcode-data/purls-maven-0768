@@ -90,3 +90,7 @@
 - pkg:maven/net.colesico.framework/colesico-jdbi@4.4.1?classifier=sources
 - pkg:maven/net.colesico.framework/colesico-jdbi@4.5.0
 - pkg:maven/net.colesico.framework/colesico-jdbi@4.5.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-jdbi@4.6.0
+- pkg:maven/net.colesico.framework/colesico-jdbi@4.6.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-jdbi@5.0.0
+- pkg:maven/net.colesico.framework/colesico-jdbi@5.0.0?classifier=sources

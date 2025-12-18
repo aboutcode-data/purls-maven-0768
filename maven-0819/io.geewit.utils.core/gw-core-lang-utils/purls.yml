@@ -26,6 +26,8 @@
 - pkg:maven/io.geewit.utils.core/gw-core-lang-utils@2.0.30?classifier=sources
 - pkg:maven/io.geewit.utils.core/gw-core-lang-utils@2.0.31
 - pkg:maven/io.geewit.utils.core/gw-core-lang-utils@2.0.31?classifier=sources
+- pkg:maven/io.geewit.utils.core/gw-core-lang-utils@2.0.32
+- pkg:maven/io.geewit.utils.core/gw-core-lang-utils@2.0.32?classifier=sources
 - pkg:maven/io.geewit.utils.core/gw-core-lang-utils@2.0.3?classifier=sources
 - pkg:maven/io.geewit.utils.core/gw-core-lang-utils@2.0.4?classifier=sources
 - pkg:maven/io.geewit.utils.core/gw-core-lang-utils@2.0.5?classifier=sources
