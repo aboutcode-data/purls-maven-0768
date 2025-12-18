@@ -24,3 +24,15 @@
 - pkg:maven/io.prestosql.tempto/tempto-core@173?classifier=sources
 - pkg:maven/io.prestosql.tempto/tempto-core@174
 - pkg:maven/io.prestosql.tempto/tempto-core@174?classifier=sources
+- pkg:maven/io.prestosql.tempto/tempto-core@175
+- pkg:maven/io.prestosql.tempto/tempto-core@175?classifier=sources
+- pkg:maven/io.prestosql.tempto/tempto-core@176
+- pkg:maven/io.prestosql.tempto/tempto-core@176?classifier=sources
+- pkg:maven/io.prestosql.tempto/tempto-core@177
+- pkg:maven/io.prestosql.tempto/tempto-core@177?classifier=sources
+- pkg:maven/io.prestosql.tempto/tempto-core@178
+- pkg:maven/io.prestosql.tempto/tempto-core@178?classifier=sources
+- pkg:maven/io.prestosql.tempto/tempto-core@179
+- pkg:maven/io.prestosql.tempto/tempto-core@179?classifier=sources
+- pkg:maven/io.prestosql.tempto/tempto-core@180
+- pkg:maven/io.prestosql.tempto/tempto-core@180?classifier=sources

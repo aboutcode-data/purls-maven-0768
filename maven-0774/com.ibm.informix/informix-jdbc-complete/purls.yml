@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.informix/informix-jdbc-complete@4.50.4.1
+- pkg:maven/com.ibm.informix/informix-jdbc-complete@4.50.4.1?classifier=sources

@@ -22,6 +22,8 @@
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.27.1-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.27.2-public
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.27.2-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-graph-local@0.27.7-public-java8
+- pkg:maven/com.aliyun.odps/odps-graph-local@0.27.7-public-java8?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.28.4-public
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.28.4-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.29.10-public
@@ -52,3 +54,7 @@
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.33.7-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.34.4-public
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.34.4-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-graph-local@0.34.5-public
+- pkg:maven/com.aliyun.odps/odps-graph-local@0.34.5-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-graph-local@0.34.6-public
+- pkg:maven/com.aliyun.odps/odps-graph-local@0.34.6-public?classifier=sources

@@ -110,5 +110,7 @@
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.11@2.2.0?classifier=sources
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.11@2.2.1
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.11@2.2.1?classifier=sources
+- pkg:maven/io.hydrosphere/serving-grpc-scala_2.11@2.3.0
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.11@2.3.0-dev1
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.11@2.3.0-dev1?classifier=sources
+- pkg:maven/io.hydrosphere/serving-grpc-scala_2.11@2.3.0?classifier=sources

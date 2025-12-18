@@ -18,3 +18,5 @@
 - pkg:maven/com.strapdata.elasticsearch.test/framework@6.2.3.25?classifier=sources
 - pkg:maven/com.strapdata.elasticsearch.test/framework@6.2.3.27
 - pkg:maven/com.strapdata.elasticsearch.test/framework@6.2.3.27?classifier=sources
+- pkg:maven/com.strapdata.elasticsearch.test/framework@6.2.3.28
+- pkg:maven/com.strapdata.elasticsearch.test/framework@6.2.3.28?classifier=sources

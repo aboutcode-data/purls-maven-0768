@@ -1,0 +1,2 @@
+- pkg:maven/de.mhus.osgi/osgi-api@7.0.0
+- pkg:maven/de.mhus.osgi/osgi-api@7.0.0?classifier=sources

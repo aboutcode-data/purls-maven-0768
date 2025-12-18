@@ -30,3 +30,7 @@
 - pkg:maven/com.yoti/yoti-sdk-impl@2.7.0?classifier=sources
 - pkg:maven/com.yoti/yoti-sdk-impl@2.7.1
 - pkg:maven/com.yoti/yoti-sdk-impl@2.7.1?classifier=sources
+- pkg:maven/com.yoti/yoti-sdk-impl@2.8.0
+- pkg:maven/com.yoti/yoti-sdk-impl@2.8.0?classifier=sources
+- pkg:maven/com.yoti/yoti-sdk-impl@2.9.0
+- pkg:maven/com.yoti/yoti-sdk-impl@2.9.0?classifier=sources

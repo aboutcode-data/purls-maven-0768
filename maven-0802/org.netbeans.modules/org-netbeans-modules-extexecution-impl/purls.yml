@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-impl@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-impl@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-impl@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-impl@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-impl@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-impl@RELEASE90?classifier=sources

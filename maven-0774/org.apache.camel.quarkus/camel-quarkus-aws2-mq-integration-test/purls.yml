@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-mq-integration-test@1.0.0-CR2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-mq-integration-test@1.0.0-CR2?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-mq-integration-test@1.0.0-M6
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-mq-integration-test@1.0.0-M6?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-mq-integration-test@1.0.0-M7

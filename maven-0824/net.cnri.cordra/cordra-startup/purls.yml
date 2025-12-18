@@ -1,2 +1,4 @@
 - pkg:maven/net.cnri.cordra/cordra-startup@2.0.0
 - pkg:maven/net.cnri.cordra/cordra-startup@2.0.0?classifier=sources
+- pkg:maven/net.cnri.cordra/cordra-startup@2.1.0
+- pkg:maven/net.cnri.cordra/cordra-startup@2.1.0?classifier=sources

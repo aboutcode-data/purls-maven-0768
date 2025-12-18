@@ -1,0 +1,2 @@
+- pkg:maven/org.jitsi/fmj@1.0.0-jitsi
+- pkg:maven/org.jitsi/fmj@1.0.0-jitsi?classifier=sources

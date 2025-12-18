@@ -31,6 +31,8 @@
 - pkg:maven/com.github.manosbatsis.vaultaire/vaultaire@0.23?classifier=sources
 - pkg:maven/com.github.manosbatsis.vaultaire/vaultaire@0.24
 - pkg:maven/com.github.manosbatsis.vaultaire/vaultaire@0.24?classifier=sources
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire@0.25
+- pkg:maven/com.github.manosbatsis.vaultaire/vaultaire@0.25?classifier=sources
 - pkg:maven/com.github.manosbatsis.vaultaire/vaultaire@0.2?classifier=sources
 - pkg:maven/com.github.manosbatsis.vaultaire/vaultaire@0.3
 - pkg:maven/com.github.manosbatsis.vaultaire/vaultaire@0.3?classifier=sources

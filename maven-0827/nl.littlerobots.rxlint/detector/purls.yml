@@ -26,3 +26,5 @@
 - pkg:maven/nl.littlerobots.rxlint/detector@1.7.4?classifier=sources
 - pkg:maven/nl.littlerobots.rxlint/detector@1.7.5
 - pkg:maven/nl.littlerobots.rxlint/detector@1.7.5?classifier=sources
+- pkg:maven/nl.littlerobots.rxlint/detector@1.7.6
+- pkg:maven/nl.littlerobots.rxlint/detector@1.7.6?classifier=sources

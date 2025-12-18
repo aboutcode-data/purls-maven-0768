@@ -20,6 +20,8 @@
 - pkg:maven/com.entitystream/identiza@1.0.19a?classifier=sources
 - pkg:maven/com.entitystream/identiza@1.0.20
 - pkg:maven/com.entitystream/identiza@1.0.20?classifier=sources
+- pkg:maven/com.entitystream/identiza@1.0.22
+- pkg:maven/com.entitystream/identiza@1.0.22?classifier=sources
 - pkg:maven/com.entitystream/identiza@1.0.8
 - pkg:maven/com.entitystream/identiza@1.0.8?classifier=sources
 - pkg:maven/com.entitystream/identiza@1.0.9

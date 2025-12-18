@@ -1,0 +1,4 @@
+- pkg:maven/net.guerlab.smart.dingtalk/smart-dingtalk-internal@20.1.0
+- pkg:maven/net.guerlab.smart.dingtalk/smart-dingtalk-internal@20.1.0?classifier=sources
+- pkg:maven/net.guerlab.smart.dingtalk/smart-dingtalk-internal@20.2.0
+- pkg:maven/net.guerlab.smart.dingtalk/smart-dingtalk-internal@20.2.0?classifier=sources

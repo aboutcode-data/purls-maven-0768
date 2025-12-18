@@ -1,0 +1,2 @@
+- pkg:maven/cc.protea.platform/forms@0.5.0
+- pkg:maven/cc.protea.platform/forms@0.5.0?classifier=sources

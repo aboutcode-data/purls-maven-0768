@@ -1,0 +1,2 @@
+- pkg:maven/io.github.spafka.p3c/p3c-pmd@alibaba.2.0.1.0
+- pkg:maven/io.github.spafka.p3c/p3c-pmd@alibaba.2.0.1.0?classifier=sources

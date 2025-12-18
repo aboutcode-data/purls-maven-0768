@@ -1,0 +1,2 @@
+- pkg:maven/com.linecorp.armeria/armeria-junit5@0.99.8
+- pkg:maven/com.linecorp.armeria/armeria-junit5@0.99.8?classifier=sources

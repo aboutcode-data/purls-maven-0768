@@ -15,4 +15,6 @@
 - pkg:maven/org.datavec/datavec-spark-inference-client@1.0.0-beta5?classifier=sources
 - pkg:maven/org.datavec/datavec-spark-inference-client@1.0.0-beta6
 - pkg:maven/org.datavec/datavec-spark-inference-client@1.0.0-beta6?classifier=sources
+- pkg:maven/org.datavec/datavec-spark-inference-client@1.0.0-beta7
+- pkg:maven/org.datavec/datavec-spark-inference-client@1.0.0-beta7?classifier=sources
 - pkg:maven/org.datavec/datavec-spark-inference-client@1.0.0-beta?classifier=sources

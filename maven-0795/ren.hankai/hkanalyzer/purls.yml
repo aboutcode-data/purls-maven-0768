@@ -1,0 +1,2 @@
+- pkg:maven/ren.hankai/hkanalyzer@0.0.1.RELEASE
+- pkg:maven/ren.hankai/hkanalyzer@0.0.1.RELEASE?classifier=sources

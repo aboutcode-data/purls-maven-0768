@@ -32,6 +32,10 @@
 - pkg:maven/com.spotify/apollo-jetty-http-server@1.15.2?classifier=sources
 - pkg:maven/com.spotify/apollo-jetty-http-server@1.15.5
 - pkg:maven/com.spotify/apollo-jetty-http-server@1.15.5?classifier=sources
+- pkg:maven/com.spotify/apollo-jetty-http-server@1.15.6
+- pkg:maven/com.spotify/apollo-jetty-http-server@1.15.6?classifier=sources
+- pkg:maven/com.spotify/apollo-jetty-http-server@1.15.7
+- pkg:maven/com.spotify/apollo-jetty-http-server@1.15.7?classifier=sources
 - pkg:maven/com.spotify/apollo-jetty-http-server@1.2.0
 - pkg:maven/com.spotify/apollo-jetty-http-server@1.2.0?classifier=sources
 - pkg:maven/com.spotify/apollo-jetty-http-server@1.2.1

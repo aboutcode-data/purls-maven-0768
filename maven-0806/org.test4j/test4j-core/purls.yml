@@ -14,3 +14,11 @@
 - pkg:maven/org.test4j/test4j-core@2.6.2?classifier=sources
 - pkg:maven/org.test4j/test4j-core@2.6.3
 - pkg:maven/org.test4j/test4j-core@2.6.3?classifier=sources
+- pkg:maven/org.test4j/test4j-core@2.6.4
+- pkg:maven/org.test4j/test4j-core@2.6.4?classifier=sources
+- pkg:maven/org.test4j/test4j-core@2.6.5
+- pkg:maven/org.test4j/test4j-core@2.6.5?classifier=sources
+- pkg:maven/org.test4j/test4j-core@2.6.6
+- pkg:maven/org.test4j/test4j-core@2.6.6?classifier=sources
+- pkg:maven/org.test4j/test4j-core@2.6.7
+- pkg:maven/org.test4j/test4j-core@2.6.7?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.typelevel/cats-mtl_sjs1_2.12@1.0-9b8941d
+- pkg:maven/org.typelevel/cats-mtl_sjs1_2.12@1.0-9b8941d?classifier=sources
+- pkg:maven/org.typelevel/cats-mtl_sjs1_2.12@1.0-bc23017
+- pkg:maven/org.typelevel/cats-mtl_sjs1_2.12@1.0-bc23017?classifier=sources

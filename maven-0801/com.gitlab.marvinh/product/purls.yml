@@ -1,0 +1,4 @@
+- pkg:maven/com.gitlab.marvinh/product@0.4
+- pkg:maven/com.gitlab.marvinh/product@0.4?classifier=sources
+- pkg:maven/com.gitlab.marvinh/product@0.5
+- pkg:maven/com.gitlab.marvinh/product@0.5?classifier=sources

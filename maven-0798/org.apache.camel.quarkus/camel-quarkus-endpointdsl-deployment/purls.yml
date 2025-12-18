@@ -1,3 +1,7 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-endpointdsl-deployment@1.0.0-CR2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-endpointdsl-deployment@1.0.0-CR2?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-endpointdsl-deployment@1.0.0-CR3
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-endpointdsl-deployment@1.0.0-CR3?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-endpointdsl-deployment@1.0.0-M3
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-endpointdsl-deployment@1.0.0-M3?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-endpointdsl-deployment@1.0.0-M4

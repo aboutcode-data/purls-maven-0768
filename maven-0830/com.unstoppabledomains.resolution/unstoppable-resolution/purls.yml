@@ -1,0 +1,4 @@
+- pkg:maven/com.unstoppabledomains.resolution/unstoppable-resolution@1.0.0
+- pkg:maven/com.unstoppabledomains.resolution/unstoppable-resolution@1.0.0?classifier=sources
+- pkg:maven/com.unstoppabledomains.resolution/unstoppable-resolution@1.0.0u
+- pkg:maven/com.unstoppabledomains.resolution/unstoppable-resolution@1.0.0u?classifier=sources

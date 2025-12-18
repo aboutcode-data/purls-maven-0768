@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/read-pkg-up@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/read-pkg-up@4.0.0
 - pkg:maven/org.webjars.npm/read-pkg-up@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/read-pkg-up@7.0.1
+- pkg:maven/org.webjars.npm/read-pkg-up@7.0.1?classifier=sources

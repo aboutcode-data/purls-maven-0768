@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.tuweni/tuweni-concurrent-coroutines@0.8.2?classifier=sources
 - pkg:maven/org.apache.tuweni/tuweni-concurrent-coroutines@0.9.0?classifier=sources
 - pkg:maven/org.apache.tuweni/tuweni-concurrent-coroutines@1.0.0?classifier=sources
+- pkg:maven/org.apache.tuweni/tuweni-concurrent-coroutines@1.1.0?classifier=sources

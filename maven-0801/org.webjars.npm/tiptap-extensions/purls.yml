@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/tiptap-extensions@1.29.1
+- pkg:maven/org.webjars.npm/tiptap-extensions@1.29.1?classifier=sources

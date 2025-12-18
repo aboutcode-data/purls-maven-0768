@@ -90,8 +90,15 @@
 - pkg:maven/org.jbpm/jbpm-docs@7.35.0.Final?type=zip
 - pkg:maven/org.jbpm/jbpm-docs@7.36.0.Final?type=zip
 - pkg:maven/org.jbpm/jbpm-docs@7.36.1.Final?type=zip
+- pkg:maven/org.jbpm/jbpm-docs@7.37.0.Final?type=zip
+- pkg:maven/org.jbpm/jbpm-docs@7.38.0.Final?type=zip
+- pkg:maven/org.jbpm/jbpm-docs@7.39.0.Final?type=zip
 - pkg:maven/org.jbpm/jbpm-docs@7.4.0.Final?type=zip
 - pkg:maven/org.jbpm/jbpm-docs@7.4.1.Final?type=zip
+- pkg:maven/org.jbpm/jbpm-docs@7.40.0.20200703?type=zip
+- pkg:maven/org.jbpm/jbpm-docs@7.40.0.Final?type=zip
+- pkg:maven/org.jbpm/jbpm-docs@7.41.0.Final?type=zip
+- pkg:maven/org.jbpm/jbpm-docs@7.41.0.t20200723?type=zip
 - pkg:maven/org.jbpm/jbpm-docs@7.5.0.Final?type=zip
 - pkg:maven/org.jbpm/jbpm-docs@7.6.0.Final?type=zip
 - pkg:maven/org.jbpm/jbpm-docs@7.7.0.Final?type=zip

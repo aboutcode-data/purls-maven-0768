@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-bracesmatching@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-bracesmatching@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-bracesmatching@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-bracesmatching@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-bracesmatching@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-bracesmatching@RELEASE90?classifier=sources

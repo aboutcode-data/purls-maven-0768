@@ -1,0 +1,1 @@
+- pkg:maven/org.caffinitas.gradle.testrerun/gradle-test-rerun@0.1?classifier=sources

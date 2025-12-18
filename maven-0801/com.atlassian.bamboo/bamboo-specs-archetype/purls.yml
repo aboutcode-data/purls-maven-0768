@@ -70,3 +70,12 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.0.2?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.0.3?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.0.4-BDEV-15887-1?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.0.4?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.1.0-BAM-14321-webhooks-2?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.1.0-BAM-14321-webhooks?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.1.0-BAM-19753-1?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.1.0-m04?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.1.0-m05?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.1.0-m06?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.1.0-rc1?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@7.1.1?classifier=sources

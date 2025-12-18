@@ -22,3 +22,11 @@
 - pkg:maven/org.infinispan.images/config-generator@1.1.2.Final?classifier=sources
 - pkg:maven/org.infinispan.images/config-generator@1.1.3.Final
 - pkg:maven/org.infinispan.images/config-generator@1.1.3.Final?classifier=sources
+- pkg:maven/org.infinispan.images/config-generator@2.0.0.Dev01
+- pkg:maven/org.infinispan.images/config-generator@2.0.0.Dev01?classifier=sources
+- pkg:maven/org.infinispan.images/config-generator@2.0.0.Final
+- pkg:maven/org.infinispan.images/config-generator@2.0.0.Final?classifier=sources
+- pkg:maven/org.infinispan.images/config-generator@2.1.0.Dev01
+- pkg:maven/org.infinispan.images/config-generator@2.1.0.Dev01-1
+- pkg:maven/org.infinispan.images/config-generator@2.1.0.Dev01-1?classifier=sources
+- pkg:maven/org.infinispan.images/config-generator@2.1.0.Dev01?classifier=sources

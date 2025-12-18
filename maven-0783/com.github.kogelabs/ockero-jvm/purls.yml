@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kogelabs/ockero-jvm@0.1.1.5
+- pkg:maven/com.github.kogelabs/ockero-jvm@0.1.1.5?classifier=sources

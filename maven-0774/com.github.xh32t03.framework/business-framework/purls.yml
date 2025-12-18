@@ -10,3 +10,7 @@
 - pkg:maven/com.github.xh32t03.framework/business-framework@2.3.RELEASE?classifier=sources
 - pkg:maven/com.github.xh32t03.framework/business-framework@2.4.RELEASE
 - pkg:maven/com.github.xh32t03.framework/business-framework@2.4.RELEASE?classifier=sources
+- pkg:maven/com.github.xh32t03.framework/business-framework@2.5.RELEASE
+- pkg:maven/com.github.xh32t03.framework/business-framework@2.5.RELEASE?classifier=sources
+- pkg:maven/com.github.xh32t03.framework/business-framework@2.6.RELEASE
+- pkg:maven/com.github.xh32t03.framework/business-framework@2.6.RELEASE?classifier=sources

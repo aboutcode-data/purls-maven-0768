@@ -60,3 +60,5 @@
 - pkg:maven/com.indix/util-core_2.10@v0.7.1?classifier=sources
 - pkg:maven/com.indix/util-core_2.10@v0.8.0
 - pkg:maven/com.indix/util-core_2.10@v0.8.0?classifier=sources
+- pkg:maven/com.indix/util-core_2.10@v0.9.0
+- pkg:maven/com.indix/util-core_2.10@v0.9.0?classifier=sources

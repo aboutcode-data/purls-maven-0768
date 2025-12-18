@@ -78,3 +78,9 @@
 - pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-shadow@0.19.0?classifier=sources
 - pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-shadow@0.20.0
 - pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-shadow@0.20.0?classifier=sources
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-shadow@0.20.1
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-shadow@0.20.1?classifier=sources
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-shadow@0.30.0
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-shadow@0.30.0?classifier=sources
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-shadow@0.30.1
+- pkg:maven/com.lightstep.tracer/lightstep-tracer-jre-shadow@0.30.1?classifier=sources

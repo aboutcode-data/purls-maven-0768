@@ -6,3 +6,11 @@
 - pkg:maven/com.facebook.drift/drift-protocol@1.21?classifier=sources
 - pkg:maven/com.facebook.drift/drift-protocol@1.22
 - pkg:maven/com.facebook.drift/drift-protocol@1.22?classifier=sources
+- pkg:maven/com.facebook.drift/drift-protocol@1.23
+- pkg:maven/com.facebook.drift/drift-protocol@1.23?classifier=sources
+- pkg:maven/com.facebook.drift/drift-protocol@1.24
+- pkg:maven/com.facebook.drift/drift-protocol@1.24?classifier=sources
+- pkg:maven/com.facebook.drift/drift-protocol@1.25
+- pkg:maven/com.facebook.drift/drift-protocol@1.25?classifier=sources
+- pkg:maven/com.facebook.drift/drift-protocol@1.26
+- pkg:maven/com.facebook.drift/drift-protocol@1.26?classifier=sources

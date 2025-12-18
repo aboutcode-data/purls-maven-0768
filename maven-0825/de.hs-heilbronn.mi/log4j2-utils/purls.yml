@@ -6,3 +6,5 @@
 - pkg:maven/de.hs-heilbronn.mi/log4j2-utils@0.5.0?classifier=sources
 - pkg:maven/de.hs-heilbronn.mi/log4j2-utils@0.6.0
 - pkg:maven/de.hs-heilbronn.mi/log4j2-utils@0.6.0?classifier=sources
+- pkg:maven/de.hs-heilbronn.mi/log4j2-utils@0.7.0
+- pkg:maven/de.hs-heilbronn.mi/log4j2-utils@0.7.0?classifier=sources

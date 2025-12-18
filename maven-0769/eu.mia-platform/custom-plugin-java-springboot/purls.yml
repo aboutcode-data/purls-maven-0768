@@ -1,0 +1,2 @@
+- pkg:maven/eu.mia-platform/custom-plugin-java-springboot@0.0.2
+- pkg:maven/eu.mia-platform/custom-plugin-java-springboot@0.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-cbec-limit-cli@1.0.2
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-cbec-limit-cli@1.0.2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.prestosql/presto-oracle@334?classifier=sources
+- pkg:maven/io.prestosql/presto-oracle@335?classifier=sources
+- pkg:maven/io.prestosql/presto-oracle@336?classifier=sources
+- pkg:maven/io.prestosql/presto-oracle@337?classifier=sources
+- pkg:maven/io.prestosql/presto-oracle@338?classifier=sources
+- pkg:maven/io.prestosql/presto-oracle@339?classifier=sources

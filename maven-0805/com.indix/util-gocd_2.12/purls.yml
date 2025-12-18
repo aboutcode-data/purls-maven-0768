@@ -1,0 +1,2 @@
+- pkg:maven/com.indix/util-gocd_2.12@v0.10.1
+- pkg:maven/com.indix/util-gocd_2.12@v0.10.1?classifier=sources

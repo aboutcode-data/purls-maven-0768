@@ -1,2 +1,4 @@
 - pkg:maven/uk.ac.abdn/SimpleNLG@4.4.8
 - pkg:maven/uk.ac.abdn/SimpleNLG@4.4.8?classifier=sources
+- pkg:maven/uk.ac.abdn/SimpleNLG@4.5.0
+- pkg:maven/uk.ac.abdn/SimpleNLG@4.5.0?classifier=sources

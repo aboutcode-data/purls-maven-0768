@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.kogito/integration-tests-springboot@0.11.0
+- pkg:maven/org.kie.kogito/integration-tests-springboot@0.11.1
+- pkg:maven/org.kie.kogito/integration-tests-springboot@0.12.0
+- pkg:maven/org.kie.kogito/integration-tests-springboot@0.13.0

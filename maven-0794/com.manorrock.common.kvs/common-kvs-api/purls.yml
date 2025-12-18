@@ -1,0 +1,2 @@
+- pkg:maven/com.manorrock.common.kvs/common-kvs-api@20.7.0
+- pkg:maven/com.manorrock.common.kvs/common-kvs-api@20.7.0?classifier=sources

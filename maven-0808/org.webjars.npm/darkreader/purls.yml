@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/darkreader@4.9.10
+- pkg:maven/org.webjars.npm/darkreader@4.9.10?classifier=sources

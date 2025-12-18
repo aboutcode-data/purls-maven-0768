@@ -1,0 +1,2 @@
+- pkg:maven/org.morphir/morphir-sdk-core-jvm-2.12.10_2.12@0.0.7-7-91a6ea6
+- pkg:maven/org.morphir/morphir-sdk-core-jvm-2.12.10_2.12@0.0.7-7-91a6ea6?classifier=sources

@@ -24,3 +24,4 @@
 - pkg:maven/com.github.simy4.xpath/xpath-to-json-jackson@2.1.6?classifier=sources
 - pkg:maven/com.github.simy4.xpath/xpath-to-json-jackson@2.1.7?classifier=sources
 - pkg:maven/com.github.simy4.xpath/xpath-to-json-jackson@2.1.8?classifier=sources
+- pkg:maven/com.github.simy4.xpath/xpath-to-json-jackson@2.1.9?classifier=sources

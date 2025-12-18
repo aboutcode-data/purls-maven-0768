@@ -12,6 +12,8 @@
 - pkg:maven/org.apache.calcite.avatica/avatica-server@1.15.0?classifier=sources
 - pkg:maven/org.apache.calcite.avatica/avatica-server@1.16.0
 - pkg:maven/org.apache.calcite.avatica/avatica-server@1.16.0?classifier=sources
+- pkg:maven/org.apache.calcite.avatica/avatica-server@1.17.0
+- pkg:maven/org.apache.calcite.avatica/avatica-server@1.17.0?classifier=sources
 - pkg:maven/org.apache.calcite.avatica/avatica-server@1.7.0
 - pkg:maven/org.apache.calcite.avatica/avatica-server@1.7.0?classifier=sources
 - pkg:maven/org.apache.calcite.avatica/avatica-server@1.7.1

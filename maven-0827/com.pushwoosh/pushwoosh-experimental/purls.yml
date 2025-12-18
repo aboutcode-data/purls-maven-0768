@@ -90,3 +90,7 @@
 - pkg:maven/com.pushwoosh/pushwoosh-experimental@5.9.2?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-experimental@5.9.3?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-experimental@5.9.4?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-experimental@6.0.0?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-experimental@6.0.1?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-experimental@6.0.2?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-experimental@6.0.3?type=aar

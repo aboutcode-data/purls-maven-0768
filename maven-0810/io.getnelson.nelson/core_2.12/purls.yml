@@ -4,3 +4,11 @@
 - pkg:maven/io.getnelson.nelson/core_2.12@0.14.179?classifier=sources
 - pkg:maven/io.getnelson.nelson/core_2.12@0.15.180
 - pkg:maven/io.getnelson.nelson/core_2.12@0.15.180?classifier=sources
+- pkg:maven/io.getnelson.nelson/core_2.12@0.15.181
+- pkg:maven/io.getnelson.nelson/core_2.12@0.15.181?classifier=sources
+- pkg:maven/io.getnelson.nelson/core_2.12@0.16.182
+- pkg:maven/io.getnelson.nelson/core_2.12@0.16.182?classifier=sources
+- pkg:maven/io.getnelson.nelson/core_2.12@0.16.183
+- pkg:maven/io.getnelson.nelson/core_2.12@0.16.183?classifier=sources
+- pkg:maven/io.getnelson.nelson/core_2.12@0.16.185
+- pkg:maven/io.getnelson.nelson/core_2.12@0.16.185?classifier=sources

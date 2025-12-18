@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE90?classifier=sources

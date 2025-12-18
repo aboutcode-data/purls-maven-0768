@@ -91,6 +91,14 @@
 - pkg:maven/com.yang-bo/curried_2.13@2.0.1
 - pkg:maven/com.yang-bo/curried_2.13@2.0.1%2B1-d36aa4b3
 - pkg:maven/com.yang-bo/curried_2.13@2.0.1%2B1-d36aa4b3?classifier=sources
+- pkg:maven/com.yang-bo/curried_2.13@2.0.1%2B11-c3784233
+- pkg:maven/com.yang-bo/curried_2.13@2.0.1%2B11-c3784233?classifier=sources
+- pkg:maven/com.yang-bo/curried_2.13@2.0.1%2B13-9bd9c235
+- pkg:maven/com.yang-bo/curried_2.13@2.0.1%2B13-9bd9c235?classifier=sources
+- pkg:maven/com.yang-bo/curried_2.13@2.0.1%2B14-b7dded7e
+- pkg:maven/com.yang-bo/curried_2.13@2.0.1%2B14-b7dded7e?classifier=sources
 - pkg:maven/com.yang-bo/curried_2.13@2.0.1%2B2-28fe61df
 - pkg:maven/com.yang-bo/curried_2.13@2.0.1%2B2-28fe61df?classifier=sources
+- pkg:maven/com.yang-bo/curried_2.13@2.0.1%2B3-53c24cd3
+- pkg:maven/com.yang-bo/curried_2.13@2.0.1%2B3-53c24cd3?classifier=sources
 - pkg:maven/com.yang-bo/curried_2.13@2.0.1?classifier=sources

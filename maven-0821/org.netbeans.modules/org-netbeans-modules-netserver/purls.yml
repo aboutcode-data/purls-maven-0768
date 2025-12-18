@@ -3,3 +3,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-netserver@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-netserver@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-netserver@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-netserver@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-netserver@RELEASE120?classifier=sources

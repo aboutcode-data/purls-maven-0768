@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rebue.jwt/jwt-svr-feign@1.1.0
+- pkg:maven/com.github.rebue.jwt/jwt-svr-feign@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.helger.xsd/ph-xsds-xlink@2.3.0
+- pkg:maven/com.helger.xsd/ph-xsds-xlink@2.3.0?classifier=sources

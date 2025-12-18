@@ -1,0 +1,2 @@
+- pkg:maven/xyz.cofe/simple-types@1.0
+- pkg:maven/xyz.cofe/simple-types@1.0?classifier=sources

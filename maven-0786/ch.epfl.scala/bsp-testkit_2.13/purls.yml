@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.0.0-M12
+- pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.0.0-M12?classifier=sources

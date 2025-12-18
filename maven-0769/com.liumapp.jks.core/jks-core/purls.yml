@@ -12,3 +12,5 @@
 - pkg:maven/com.liumapp.jks.core/jks-core@v1.4.6?classifier=sources
 - pkg:maven/com.liumapp.jks.core/jks-core@v1.4.7
 - pkg:maven/com.liumapp.jks.core/jks-core@v1.4.7?classifier=sources
+- pkg:maven/com.liumapp.jks.core/jks-core@v1.5.0
+- pkg:maven/com.liumapp.jks.core/jks-core@v1.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.cloud.connectivity/sap-cloud-connectivity-httpdestination@2.11.0
+- pkg:maven/com.sap.cloud.connectivity/sap-cloud-connectivity-httpdestination@2.11.0?classifier=sources

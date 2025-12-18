@@ -1,0 +1,2 @@
+- pkg:maven/com.apifan.framework/jpush-spring-boot-starter@1.0.1
+- pkg:maven/com.apifan.framework/jpush-spring-boot-starter@1.0.1?classifier=sources

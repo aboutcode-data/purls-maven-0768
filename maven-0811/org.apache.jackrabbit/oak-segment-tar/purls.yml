@@ -58,10 +58,16 @@
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.22.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.22.3
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.22.3?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.22.4
+- pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.22.4?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.24.0
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.24.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.26.0
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.26.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.30.0
+- pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.30.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.32.0
+- pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.32.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.5.13
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.5.13?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.5.14
@@ -173,6 +179,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.8.20?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.8.21
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.8.21?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.8.22
+- pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.8.22?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.8.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.8.3
 - pkg:maven/org.apache.jackrabbit/oak-segment-tar@1.8.3?classifier=sources

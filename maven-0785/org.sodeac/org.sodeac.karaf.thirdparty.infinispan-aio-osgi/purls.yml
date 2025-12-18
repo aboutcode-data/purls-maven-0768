@@ -1,0 +1,2 @@
+- pkg:maven/org.sodeac/org.sodeac.karaf.thirdparty.infinispan-aio-osgi@9.4.19.Final_1
+- pkg:maven/org.sodeac/org.sodeac.karaf.thirdparty.infinispan-aio-osgi@9.4.19.Final_1?classifier=sources

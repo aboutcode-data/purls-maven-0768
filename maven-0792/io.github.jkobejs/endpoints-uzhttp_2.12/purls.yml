@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jkobejs/endpoints-uzhttp_2.12@0.1.0
+- pkg:maven/io.github.jkobejs/endpoints-uzhttp_2.12@0.1.0?classifier=sources

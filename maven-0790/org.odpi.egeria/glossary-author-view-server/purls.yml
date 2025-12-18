@@ -2,3 +2,11 @@
 - pkg:maven/org.odpi.egeria/glossary-author-view-server@1.5?classifier=sources
 - pkg:maven/org.odpi.egeria/glossary-author-view-server@1.6
 - pkg:maven/org.odpi.egeria/glossary-author-view-server@1.6?classifier=sources
+- pkg:maven/org.odpi.egeria/glossary-author-view-server@1.7
+- pkg:maven/org.odpi.egeria/glossary-author-view-server@1.7?classifier=sources
+- pkg:maven/org.odpi.egeria/glossary-author-view-server@1.8
+- pkg:maven/org.odpi.egeria/glossary-author-view-server@1.8?classifier=sources
+- pkg:maven/org.odpi.egeria/glossary-author-view-server@2.0
+- pkg:maven/org.odpi.egeria/glossary-author-view-server@2.0?classifier=sources
+- pkg:maven/org.odpi.egeria/glossary-author-view-server@2.1
+- pkg:maven/org.odpi.egeria/glossary-author-view-server@2.1?classifier=sources

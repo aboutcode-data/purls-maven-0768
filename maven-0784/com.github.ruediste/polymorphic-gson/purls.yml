@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ruediste/polymorphic-gson@0.1
+- pkg:maven/com.github.ruediste/polymorphic-gson@0.1?classifier=sources

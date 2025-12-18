@@ -9,3 +9,5 @@
 - pkg:maven/org.ow2.authzforce/authzforce-ce-server-upgrader@8.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-server-upgrader@8.0.1?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-server-upgrader@8.1.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-server-upgrader@9.0.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-server-upgrader@9.0.1?classifier=sources

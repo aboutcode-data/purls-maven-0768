@@ -24,3 +24,4 @@
 - pkg:maven/org.bouncycastle/bcprov-debug-jdk15on@1.64?classifier=sources
 - pkg:maven/org.bouncycastle/bcprov-debug-jdk15on@1.65
 - pkg:maven/org.bouncycastle/bcprov-debug-jdk15on@1.65?classifier=sources
+- pkg:maven/org.bouncycastle/bcprov-debug-jdk15on@1.66?classifier=sources

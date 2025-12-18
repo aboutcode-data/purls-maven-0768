@@ -88,6 +88,8 @@
 - pkg:maven/org.actframework/act-starter-excel@1.8.31.0?classifier=sources
 - pkg:maven/org.actframework/act-starter-excel@1.8.32.0
 - pkg:maven/org.actframework/act-starter-excel@1.8.32.0?classifier=sources
+- pkg:maven/org.actframework/act-starter-excel@1.8.33.0
+- pkg:maven/org.actframework/act-starter-excel@1.8.33.0?classifier=sources
 - pkg:maven/org.actframework/act-starter-excel@1.8.4.0
 - pkg:maven/org.actframework/act-starter-excel@1.8.4.0?classifier=sources
 - pkg:maven/org.actframework/act-starter-excel@1.8.5.0
@@ -116,3 +118,7 @@
 - pkg:maven/org.actframework/act-starter-excel@1.8.8.8?classifier=sources
 - pkg:maven/org.actframework/act-starter-excel@1.8.8.9
 - pkg:maven/org.actframework/act-starter-excel@1.8.8.9?classifier=sources
+- pkg:maven/org.actframework/act-starter-excel@1.9.0.0
+- pkg:maven/org.actframework/act-starter-excel@1.9.0.0?classifier=sources
+- pkg:maven/org.actframework/act-starter-excel@1.9.0.1
+- pkg:maven/org.actframework/act-starter-excel@1.9.0.1?classifier=sources

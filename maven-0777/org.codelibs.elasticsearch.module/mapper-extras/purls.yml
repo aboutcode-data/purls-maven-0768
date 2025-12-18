@@ -55,6 +55,8 @@
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@6.8.0
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@6.8.0?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@6.8.1
+- pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@6.8.10
+- pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@6.8.10?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@6.8.1?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@6.8.2
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@6.8.2?classifier=sources
@@ -70,6 +72,8 @@
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@6.8.7?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@6.8.8
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@6.8.8?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@6.8.9
+- pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@6.8.9?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@7.0.0
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@7.0.0-beta1
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@7.0.0-beta1?classifier=sources
@@ -112,3 +116,11 @@
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@7.6.1?classifier=sources
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@7.6.2
 - pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@7.6.2?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@7.7.0
+- pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@7.7.0?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@7.7.1
+- pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@7.7.1?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@7.8.0
+- pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@7.8.0?classifier=sources
+- pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@7.8.1
+- pkg:maven/org.codelibs.elasticsearch.module/mapper-extras@7.8.1?classifier=sources

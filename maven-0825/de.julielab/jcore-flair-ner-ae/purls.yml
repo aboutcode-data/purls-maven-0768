@@ -1,0 +1,2 @@
+- pkg:maven/de.julielab/jcore-flair-ner-ae@2.5.0
+- pkg:maven/de.julielab/jcore-flair-ner-ae@2.5.0?classifier=sources

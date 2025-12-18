@@ -1,2 +1,8 @@
 - pkg:maven/me.codeplayer/ready-x@2.5.1-RELEASE
 - pkg:maven/me.codeplayer/ready-x@2.5.1-RELEASE?classifier=sources
+- pkg:maven/me.codeplayer/ready-x@2.5.2-RELEASE
+- pkg:maven/me.codeplayer/ready-x@2.5.2-RELEASE?classifier=sources
+- pkg:maven/me.codeplayer/ready-x@2.6-RELEASE
+- pkg:maven/me.codeplayer/ready-x@2.6-RELEASE?classifier=sources
+- pkg:maven/me.codeplayer/ready-x@2.7-RELEASE
+- pkg:maven/me.codeplayer/ready-x@2.7-RELEASE?classifier=sources

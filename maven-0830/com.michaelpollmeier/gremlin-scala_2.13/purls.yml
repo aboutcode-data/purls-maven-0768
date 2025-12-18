@@ -24,6 +24,14 @@
 - pkg:maven/com.michaelpollmeier/gremlin-scala_2.13@3.4.4.4?classifier=sources
 - pkg:maven/com.michaelpollmeier/gremlin-scala_2.13@3.4.4.5
 - pkg:maven/com.michaelpollmeier/gremlin-scala_2.13@3.4.4.5?classifier=sources
+- pkg:maven/com.michaelpollmeier/gremlin-scala_2.13@3.4.4.6
+- pkg:maven/com.michaelpollmeier/gremlin-scala_2.13@3.4.4.6?classifier=sources
+- pkg:maven/com.michaelpollmeier/gremlin-scala_2.13@3.4.4.7
+- pkg:maven/com.michaelpollmeier/gremlin-scala_2.13@3.4.4.7?classifier=sources
+- pkg:maven/com.michaelpollmeier/gremlin-scala_2.13@3.4.7.1
+- pkg:maven/com.michaelpollmeier/gremlin-scala_2.13@3.4.7.1?classifier=sources
+- pkg:maven/com.michaelpollmeier/gremlin-scala_2.13@3.4.7.2
+- pkg:maven/com.michaelpollmeier/gremlin-scala_2.13@3.4.7.2?classifier=sources
 - pkg:maven/com.michaelpollmeier/gremlin-scala_2.13@b0305a17cb6835173b4b71d4ebfde38ac0ae8c34
 - pkg:maven/com.michaelpollmeier/gremlin-scala_2.13@b0305a17cb6835173b4b71d4ebfde38ac0ae8c34?classifier=sources
 - pkg:maven/com.michaelpollmeier/gremlin-scala_2.13@d97762fc4225ea510eddd651600bdf3c18d77ac9

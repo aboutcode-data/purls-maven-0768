@@ -2,3 +2,9 @@
 - pkg:maven/com.xlrit.gears.runtime/gears-engine-graphql@0.1?type=war
 - pkg:maven/com.xlrit.gears.runtime/gears-engine-graphql@0.2?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-engine-graphql@0.2?type=war
+- pkg:maven/com.xlrit.gears.runtime/gears-engine-graphql@0.4?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-engine-graphql@0.4?type=war
+- pkg:maven/com.xlrit.gears.runtime/gears-engine-graphql@0.5?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-engine-graphql@0.5?type=war
+- pkg:maven/com.xlrit.gears.runtime/gears-engine-graphql@0.6?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-engine-graphql@0.6?type=war

@@ -1,0 +1,4 @@
+- pkg:maven/in.sourceshift.genericmodules/securityutils@16.0.0
+- pkg:maven/in.sourceshift.genericmodules/securityutils@16.0.0?classifier=sources
+- pkg:maven/in.sourceshift.genericmodules/securityutils@16.1.0
+- pkg:maven/in.sourceshift.genericmodules/securityutils@16.1.0?classifier=sources

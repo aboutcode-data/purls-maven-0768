@@ -18,3 +18,13 @@
 - pkg:maven/xyz.tneciv/minio-starter@2.0.4?classifier=sources
 - pkg:maven/xyz.tneciv/minio-starter@2.0.5
 - pkg:maven/xyz.tneciv/minio-starter@2.0.5?classifier=sources
+- pkg:maven/xyz.tneciv/minio-starter@Qin.RC1
+- pkg:maven/xyz.tneciv/minio-starter@Qin.RC1?classifier=sources
+- pkg:maven/xyz.tneciv/minio-starter@Qin.RC3
+- pkg:maven/xyz.tneciv/minio-starter@Qin.RC3?classifier=sources
+- pkg:maven/xyz.tneciv/minio-starter@Qin.RELEASE
+- pkg:maven/xyz.tneciv/minio-starter@Qin.RELEASE?classifier=sources
+- pkg:maven/xyz.tneciv/minio-starter@Qin.SR1
+- pkg:maven/xyz.tneciv/minio-starter@Qin.SR1.1
+- pkg:maven/xyz.tneciv/minio-starter@Qin.SR1.1?classifier=sources
+- pkg:maven/xyz.tneciv/minio-starter@Qin.SR1?classifier=sources

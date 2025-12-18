@@ -81,3 +81,7 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.reporting.server.feature@4.7.26?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.reporting.server.feature@4.7.27?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.reporting.server.feature@4.7.28?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.reporting.server.feature@4.7.29?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.reporting.server.feature@4.7.30?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.reporting.server.feature@4.7.31?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.reporting.server.feature@4.7.32?classifier=source-release&type=zip

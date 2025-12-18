@@ -1,0 +1,4 @@
+- pkg:maven/no.entur/schema2proto-wire@1.0
+- pkg:maven/no.entur/schema2proto-wire@1.0-alpha-25
+- pkg:maven/no.entur/schema2proto-wire@1.0-alpha-25?classifier=sources
+- pkg:maven/no.entur/schema2proto-wire@1.0?classifier=sources

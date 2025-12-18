@@ -8,3 +8,7 @@
 - pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-discovery-client@1.0.3?classifier=sources
 - pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-discovery-client@1.0.4
 - pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-discovery-client@1.0.4?classifier=sources
+- pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-discovery-client@1.1.0?classifier=sources
+- pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-discovery-client@2.0.0.RC1?classifier=sources
+- pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-discovery-client@2.0.0.RC2?classifier=sources
+- pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-discovery-client@2.0.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.0-archeo%2B04ab03c?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.0-archeo%2B31f67d1?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.0-archeo%2B89440ea?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.0-archeo%2Be408c88?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.0-dev05%2B483b8e0?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.0?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.1-dev01%2Bd0e96d0?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.1?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.2-dev03%2Bdbc3155?classifier=sources
+- pkg:maven/org.danilopianini/refreshversions-aliases@0.1.2?classifier=sources

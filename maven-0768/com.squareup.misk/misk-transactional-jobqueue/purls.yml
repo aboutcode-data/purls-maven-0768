@@ -1,0 +1,4 @@
+- pkg:maven/com.squareup.misk/misk-transactional-jobqueue@0.12.0
+- pkg:maven/com.squareup.misk/misk-transactional-jobqueue@0.12.0?classifier=sources
+- pkg:maven/com.squareup.misk/misk-transactional-jobqueue@0.13.0
+- pkg:maven/com.squareup.misk/misk-transactional-jobqueue@0.13.0?classifier=sources

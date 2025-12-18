@@ -1,0 +1,2 @@
+- pkg:maven/com.itdevcloud.sprout/japp-se-common@0.0.1
+- pkg:maven/com.itdevcloud.sprout/japp-se-common@0.0.1?classifier=sources

@@ -30,6 +30,10 @@
 - pkg:maven/org.jdbi/jdbi3-core@3.12.2?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-core@3.13.0
 - pkg:maven/org.jdbi/jdbi3-core@3.13.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-core@3.14.0
+- pkg:maven/org.jdbi/jdbi3-core@3.14.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-core@3.14.1
+- pkg:maven/org.jdbi/jdbi3-core@3.14.1?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-core@3.2.0
 - pkg:maven/org.jdbi/jdbi3-core@3.2.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-core@3.2.1

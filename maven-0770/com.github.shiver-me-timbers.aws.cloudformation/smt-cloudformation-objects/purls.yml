@@ -2,5 +2,9 @@
 - pkg:maven/com.github.shiver-me-timbers.aws.cloudformation/smt-cloudformation-objects@1.0?classifier=sources
 - pkg:maven/com.github.shiver-me-timbers.aws.cloudformation/smt-cloudformation-objects@1.1
 - pkg:maven/com.github.shiver-me-timbers.aws.cloudformation/smt-cloudformation-objects@1.1?classifier=sources
+- pkg:maven/com.github.shiver-me-timbers.aws.cloudformation/smt-cloudformation-objects@15.2.0.0
+- pkg:maven/com.github.shiver-me-timbers.aws.cloudformation/smt-cloudformation-objects@15.2.0.0?classifier=sources
+- pkg:maven/com.github.shiver-me-timbers.aws.cloudformation/smt-cloudformation-objects@15.2.0.1
+- pkg:maven/com.github.shiver-me-timbers.aws.cloudformation/smt-cloudformation-objects@15.2.0.1?classifier=sources
 - pkg:maven/com.github.shiver-me-timbers.aws.cloudformation/smt-cloudformation-objects@6.0.0.0
 - pkg:maven/com.github.shiver-me-timbers.aws.cloudformation/smt-cloudformation-objects@6.0.0.0?classifier=sources

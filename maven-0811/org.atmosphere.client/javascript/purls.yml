@@ -45,3 +45,7 @@
 - pkg:maven/org.atmosphere.client/javascript@2.3.8?type=war
 - pkg:maven/org.atmosphere.client/javascript@2.3.9?type=war
 - pkg:maven/org.atmosphere.client/javascript@3.0.0?type=war
+- pkg:maven/org.atmosphere.client/javascript@3.0.2?type=war
+- pkg:maven/org.atmosphere.client/javascript@3.0.3?type=war
+- pkg:maven/org.atmosphere.client/javascript@3.0.4?type=war
+- pkg:maven/org.atmosphere.client/javascript@3.0.5?type=war

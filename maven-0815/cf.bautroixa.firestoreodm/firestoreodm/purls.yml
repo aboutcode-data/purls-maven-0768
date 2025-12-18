@@ -1,0 +1,2 @@
+- pkg:maven/cf.bautroixa.firestoreodm/firestoreodm@0.0.1?classifier=sources
+- pkg:maven/cf.bautroixa.firestoreodm/firestoreodm@0.0.1?type=aar

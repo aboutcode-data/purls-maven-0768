@@ -31,3 +31,6 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.security.authorization.saf@1.2.37
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.security.authorization.saf@1.2.38
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.security.authorization.saf@1.2.39
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.security.authorization.saf@1.2.40
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.security.authorization.saf@1.2.41
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.security.authorization.saf@1.2.42

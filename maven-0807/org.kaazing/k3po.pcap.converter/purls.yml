@@ -36,6 +36,8 @@
 - pkg:maven/org.kaazing/k3po.pcap.converter@3.0.0-alpha-105?classifier=sources
 - pkg:maven/org.kaazing/k3po.pcap.converter@3.0.0-alpha-106
 - pkg:maven/org.kaazing/k3po.pcap.converter@3.0.0-alpha-106?classifier=sources
+- pkg:maven/org.kaazing/k3po.pcap.converter@3.0.0-alpha-107
+- pkg:maven/org.kaazing/k3po.pcap.converter@3.0.0-alpha-107?classifier=sources
 - pkg:maven/org.kaazing/k3po.pcap.converter@3.0.0-alpha-10?classifier=sources
 - pkg:maven/org.kaazing/k3po.pcap.converter@3.0.0-alpha-11
 - pkg:maven/org.kaazing/k3po.pcap.converter@3.0.0-alpha-11?classifier=sources

@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-attach@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-attach@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-attach@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-attach@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-attach@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-attach@RELEASE90?classifier=sources

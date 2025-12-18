@@ -1,2 +1,4 @@
 - pkg:maven/org.languagetool/language-ga@4.9
 - pkg:maven/org.languagetool/language-ga@4.9?classifier=sources
+- pkg:maven/org.languagetool/language-ga@5.0
+- pkg:maven/org.languagetool/language-ga@5.0?classifier=sources

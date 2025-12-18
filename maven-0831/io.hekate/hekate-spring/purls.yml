@@ -30,6 +30,8 @@
 - pkg:maven/io.hekate/hekate-spring@3.0.0?classifier=sources
 - pkg:maven/io.hekate/hekate-spring@3.1.0
 - pkg:maven/io.hekate/hekate-spring@3.1.0?classifier=sources
+- pkg:maven/io.hekate/hekate-spring@3.10.0
+- pkg:maven/io.hekate/hekate-spring@3.10.0?classifier=sources
 - pkg:maven/io.hekate/hekate-spring@3.2.0
 - pkg:maven/io.hekate/hekate-spring@3.2.0?classifier=sources
 - pkg:maven/io.hekate/hekate-spring@3.3.0
@@ -46,3 +48,5 @@
 - pkg:maven/io.hekate/hekate-spring@3.7.0?classifier=sources
 - pkg:maven/io.hekate/hekate-spring@3.8.0
 - pkg:maven/io.hekate/hekate-spring@3.8.0?classifier=sources
+- pkg:maven/io.hekate/hekate-spring@3.9.0
+- pkg:maven/io.hekate/hekate-spring@3.9.0?classifier=sources

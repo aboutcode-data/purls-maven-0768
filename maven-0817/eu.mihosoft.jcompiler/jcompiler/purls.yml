@@ -4,3 +4,5 @@
 - pkg:maven/eu.mihosoft.jcompiler/jcompiler@0.2?classifier=sources
 - pkg:maven/eu.mihosoft.jcompiler/jcompiler@0.3
 - pkg:maven/eu.mihosoft.jcompiler/jcompiler@0.3?classifier=sources
+- pkg:maven/eu.mihosoft.jcompiler/jcompiler@0.4
+- pkg:maven/eu.mihosoft.jcompiler/jcompiler@0.4?classifier=sources

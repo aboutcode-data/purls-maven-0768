@@ -118,6 +118,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-kryo@7.15.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-kryo@7.16.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-kryo@7.16.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-serializer-kryo@7.17.0
+- pkg:maven/org.wicketstuff/wicketstuff-serializer-kryo@7.17.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-kryo@7.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-kryo@7.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-kryo@7.3.0

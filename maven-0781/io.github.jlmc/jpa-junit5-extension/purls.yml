@@ -1,0 +1,4 @@
+- pkg:maven/io.github.jlmc/jpa-junit5-extension@1.0
+- pkg:maven/io.github.jlmc/jpa-junit5-extension@1.0?classifier=sources
+- pkg:maven/io.github.jlmc/jpa-junit5-extension@1.1
+- pkg:maven/io.github.jlmc/jpa-junit5-extension@1.1?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/org.glassfish.main.ldapbp/ldapbp@5.1.0-RC2
 - pkg:maven/org.glassfish.main.ldapbp/ldapbp@5.1.0-RC2?classifier=sources
 - pkg:maven/org.glassfish.main.ldapbp/ldapbp@5.1.0?classifier=sources
+- pkg:maven/org.glassfish.main.ldapbp/ldapbp@6.0.0-M1?classifier=sources

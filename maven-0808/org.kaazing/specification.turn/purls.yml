@@ -14,6 +14,8 @@
 - pkg:maven/org.kaazing/specification.turn@3.0.0-alpha-105?classifier=sources
 - pkg:maven/org.kaazing/specification.turn@3.0.0-alpha-106
 - pkg:maven/org.kaazing/specification.turn@3.0.0-alpha-106?classifier=sources
+- pkg:maven/org.kaazing/specification.turn@3.0.0-alpha-107
+- pkg:maven/org.kaazing/specification.turn@3.0.0-alpha-107?classifier=sources
 - pkg:maven/org.kaazing/specification.turn@3.0.0-alpha-38
 - pkg:maven/org.kaazing/specification.turn@3.0.0-alpha-38?classifier=sources
 - pkg:maven/org.kaazing/specification.turn@3.0.0-alpha-39

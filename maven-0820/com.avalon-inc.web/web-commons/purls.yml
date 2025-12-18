@@ -1,2 +1,8 @@
 - pkg:maven/com.avalon-inc.web/web-commons@0.1.1
 - pkg:maven/com.avalon-inc.web/web-commons@0.1.1?classifier=sources
+- pkg:maven/com.avalon-inc.web/web-commons@2.2.6
+- pkg:maven/com.avalon-inc.web/web-commons@2.2.6?classifier=sources
+- pkg:maven/com.avalon-inc.web/web-commons@2.3.1
+- pkg:maven/com.avalon-inc.web/web-commons@2.3.1-fix
+- pkg:maven/com.avalon-inc.web/web-commons@2.3.1-fix?classifier=sources
+- pkg:maven/com.avalon-inc.web/web-commons@2.3.1?classifier=sources

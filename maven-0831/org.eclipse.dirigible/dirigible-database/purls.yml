@@ -24,3 +24,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-database@4.3.0
 - pkg:maven/org.eclipse.dirigible/dirigible-database@4.4.0
 - pkg:maven/org.eclipse.dirigible/dirigible-database@4.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-database@4.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-database@5.0.0

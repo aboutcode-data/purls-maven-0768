@@ -6,3 +6,5 @@
 - pkg:maven/org.archive.heritrix/heritrix-engine@3.4.0-20190418?classifier=sources
 - pkg:maven/org.archive.heritrix/heritrix-engine@3.4.0-20200304
 - pkg:maven/org.archive.heritrix/heritrix-engine@3.4.0-20200304?classifier=sources
+- pkg:maven/org.archive.heritrix/heritrix-engine@3.4.0-20200518
+- pkg:maven/org.archive.heritrix/heritrix-engine@3.4.0-20200518?classifier=sources

@@ -16,5 +16,11 @@
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-login@1.0.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-login@1.0.1
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-login@1.0.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-login@1.1.0
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-login@1.1.0-alpha1
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-login@1.1.0-alpha1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-login@1.1.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-login@1.2.0-alpha1
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-login@1.2.0-alpha1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-login@1.2.0-alpha2
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-login@1.2.0-alpha2?classifier=sources

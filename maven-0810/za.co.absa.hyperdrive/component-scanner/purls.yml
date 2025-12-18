@@ -4,3 +4,11 @@
 - pkg:maven/za.co.absa.hyperdrive/component-scanner@2.0.0?classifier=sources
 - pkg:maven/za.co.absa.hyperdrive/component-scanner@3.0.0
 - pkg:maven/za.co.absa.hyperdrive/component-scanner@3.0.0?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/component-scanner@3.1.0
+- pkg:maven/za.co.absa.hyperdrive/component-scanner@3.1.0?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/component-scanner@3.2.2
+- pkg:maven/za.co.absa.hyperdrive/component-scanner@3.2.2?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/component-scanner@3.3.0
+- pkg:maven/za.co.absa.hyperdrive/component-scanner@3.3.0?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/component-scanner@4.0.0
+- pkg:maven/za.co.absa.hyperdrive/component-scanner@4.0.0?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/io.peltas/peltas-core@2.0.0-RELEASE?classifier=sources
 - pkg:maven/io.peltas/peltas-core@2.0.1-RELEASE
 - pkg:maven/io.peltas/peltas-core@2.0.1-RELEASE?classifier=sources
+- pkg:maven/io.peltas/peltas-core@3.0.0-RELEASE
+- pkg:maven/io.peltas/peltas-core@3.0.0-RELEASE?classifier=sources
+- pkg:maven/io.peltas/peltas-core@3.0.1-RELEASE
+- pkg:maven/io.peltas/peltas-core@3.0.1-RELEASE?classifier=sources

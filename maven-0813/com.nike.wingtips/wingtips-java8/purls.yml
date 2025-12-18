@@ -34,3 +34,5 @@
 - pkg:maven/com.nike.wingtips/wingtips-java8@0.21.0?classifier=sources
 - pkg:maven/com.nike.wingtips/wingtips-java8@0.22.0
 - pkg:maven/com.nike.wingtips/wingtips-java8@0.22.0?classifier=sources
+- pkg:maven/com.nike.wingtips/wingtips-java8@0.22.1
+- pkg:maven/com.nike.wingtips/wingtips-java8@0.22.1?classifier=sources

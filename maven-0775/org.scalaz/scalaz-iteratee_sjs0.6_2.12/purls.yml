@@ -102,3 +102,5 @@
 - pkg:maven/org.scalaz/scalaz-iteratee_sjs0.6_2.12@7.3.0-M9
 - pkg:maven/org.scalaz/scalaz-iteratee_sjs0.6_2.12@7.3.0-M9?classifier=sources
 - pkg:maven/org.scalaz/scalaz-iteratee_sjs0.6_2.12@7.3.0?classifier=sources
+- pkg:maven/org.scalaz/scalaz-iteratee_sjs0.6_2.12@7.3.1
+- pkg:maven/org.scalaz/scalaz-iteratee_sjs0.6_2.12@7.3.1?classifier=sources

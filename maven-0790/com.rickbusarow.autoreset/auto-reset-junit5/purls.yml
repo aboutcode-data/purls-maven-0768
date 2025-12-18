@@ -1,0 +1,2 @@
+- pkg:maven/com.rickbusarow.autoreset/auto-reset-junit5@0.9.0
+- pkg:maven/com.rickbusarow.autoreset/auto-reset-junit5@0.9.0?classifier=sources

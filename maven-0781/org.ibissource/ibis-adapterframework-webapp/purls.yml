@@ -8,3 +8,4 @@
 - pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.4?type=war
 - pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.5-RC1?type=war
 - pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.5-RC2?type=war
+- pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.5-RC3?type=war

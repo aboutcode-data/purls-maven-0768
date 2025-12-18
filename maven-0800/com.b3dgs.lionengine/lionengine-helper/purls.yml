@@ -1,0 +1,2 @@
+- pkg:maven/com.b3dgs.lionengine/lionengine-helper@9.0.4
+- pkg:maven/com.b3dgs.lionengine/lionengine-helper@9.0.4?classifier=sources

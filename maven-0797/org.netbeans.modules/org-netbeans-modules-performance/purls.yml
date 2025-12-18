@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-performance@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-performance@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-performance@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-performance@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-performance@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-performance@RELEASE90?classifier=sources

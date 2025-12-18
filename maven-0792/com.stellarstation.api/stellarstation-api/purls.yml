@@ -28,3 +28,5 @@
 - pkg:maven/com.stellarstation.api/stellarstation-api@0.7.0?classifier=sources
 - pkg:maven/com.stellarstation.api/stellarstation-api@0.8.0
 - pkg:maven/com.stellarstation.api/stellarstation-api@0.8.0?classifier=sources
+- pkg:maven/com.stellarstation.api/stellarstation-api@0.9.0
+- pkg:maven/com.stellarstation.api/stellarstation-api@0.9.0?classifier=sources

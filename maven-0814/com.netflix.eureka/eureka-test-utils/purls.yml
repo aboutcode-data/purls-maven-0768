@@ -196,6 +196,10 @@
 - pkg:maven/com.netflix.eureka/eureka-test-utils@1.9.20
 - pkg:maven/com.netflix.eureka/eureka-test-utils@1.9.20?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-test-utils@1.9.21?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-test-utils@1.9.22?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-test-utils@1.9.23?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-test-utils@1.9.24?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-test-utils@1.9.25?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-test-utils@1.9.2?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-test-utils@1.9.3
 - pkg:maven/com.netflix.eureka/eureka-test-utils@1.9.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/at.meks/easy-validation-args@2.0.0-RC2
+- pkg:maven/at.meks/easy-validation-args@2.0.0-RC2?classifier=sources
+- pkg:maven/at.meks/easy-validation-args@2.0.0-RC3
+- pkg:maven/at.meks/easy-validation-args@2.0.0-RC3?classifier=sources

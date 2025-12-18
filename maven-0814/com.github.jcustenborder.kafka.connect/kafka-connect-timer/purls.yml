@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jcustenborder.kafka.connect/kafka-connect-timer@0.1.1
+- pkg:maven/com.github.jcustenborder.kafka.connect/kafka-connect-timer@0.1.1?classifier=sources

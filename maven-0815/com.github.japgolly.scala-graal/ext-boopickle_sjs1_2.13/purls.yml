@@ -1,0 +1,2 @@
+- pkg:maven/com.github.japgolly.scala-graal/ext-boopickle_sjs1_2.13@0.5.0
+- pkg:maven/com.github.japgolly.scala-graal/ext-boopickle_sjs1_2.13@0.5.0?classifier=sources

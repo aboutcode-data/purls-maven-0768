@@ -1,0 +1,2 @@
+- pkg:maven/org.http4s/http4s-netty-client_2.12@0.1.0
+- pkg:maven/org.http4s/http4s-netty-client_2.12@0.1.0?classifier=sources

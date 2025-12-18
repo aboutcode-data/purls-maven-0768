@@ -10,9 +10,13 @@
 - pkg:maven/org.opencastproject/opencast-animate-workflowoperation@7.5?classifier=sources
 - pkg:maven/org.opencastproject/opencast-animate-workflowoperation@7.6
 - pkg:maven/org.opencastproject/opencast-animate-workflowoperation@7.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-animate-workflowoperation@7.7
+- pkg:maven/org.opencastproject/opencast-animate-workflowoperation@7.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-animate-workflowoperation@8.0
 - pkg:maven/org.opencastproject/opencast-animate-workflowoperation@8.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-animate-workflowoperation@8.1
 - pkg:maven/org.opencastproject/opencast-animate-workflowoperation@8.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-animate-workflowoperation@8.3
 - pkg:maven/org.opencastproject/opencast-animate-workflowoperation@8.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-animate-workflowoperation@8.4
+- pkg:maven/org.opencastproject/opencast-animate-workflowoperation@8.4?classifier=sources

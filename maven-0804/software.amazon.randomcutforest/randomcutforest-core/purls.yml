@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.randomcutforest/randomcutforest-core@1.0-alpha
+- pkg:maven/software.amazon.randomcutforest/randomcutforest-core@1.0-alpha?classifier=sources

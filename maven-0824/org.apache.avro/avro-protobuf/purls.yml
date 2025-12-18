@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.avro/avro-protobuf@1.10.0
+- pkg:maven/org.apache.avro/avro-protobuf@1.10.0?classifier=sources
 - pkg:maven/org.apache.avro/avro-protobuf@1.6.0
 - pkg:maven/org.apache.avro/avro-protobuf@1.6.0?classifier=sources
 - pkg:maven/org.apache.avro/avro-protobuf@1.6.1

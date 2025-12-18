@@ -12,3 +12,7 @@
 - pkg:maven/com.facebook.airlift/trace-token@0.190?classifier=sources
 - pkg:maven/com.facebook.airlift/trace-token@0.191
 - pkg:maven/com.facebook.airlift/trace-token@0.191?classifier=sources
+- pkg:maven/com.facebook.airlift/trace-token@0.192
+- pkg:maven/com.facebook.airlift/trace-token@0.192?classifier=sources
+- pkg:maven/com.facebook.airlift/trace-token@0.193
+- pkg:maven/com.facebook.airlift/trace-token@0.193?classifier=sources

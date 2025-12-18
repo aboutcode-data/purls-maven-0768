@@ -64,6 +64,10 @@
 - pkg:maven/com.google.apis/google-api-services-datafusion@v1beta1-rev20200122-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datafusion@v1beta1-rev20200311-1.30.9
 - pkg:maven/com.google.apis/google-api-services-datafusion@v1beta1-rev20200311-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datafusion@v1beta1-rev20200609-1.30.10
+- pkg:maven/com.google.apis/google-api-services-datafusion@v1beta1-rev20200609-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datafusion@v1beta1-rev20200609-1.30.9
+- pkg:maven/com.google.apis/google-api-services-datafusion@v1beta1-rev20200609-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datafusion@v1beta1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-datafusion@v1beta1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datafusion@v1beta1-rev3-1.25.0

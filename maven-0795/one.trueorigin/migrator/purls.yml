@@ -1,0 +1,2 @@
+- pkg:maven/one.trueorigin/migrator@1.0.4
+- pkg:maven/one.trueorigin/migrator@1.0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.atlassian/oss-gradle-template@0.0.1?classifier=sources
+- pkg:maven/com.atlassian/oss-gradle-template@0.0.2?classifier=sources

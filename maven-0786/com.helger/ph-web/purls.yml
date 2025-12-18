@@ -106,3 +106,5 @@
 - pkg:maven/com.helger/ph-web@9.1.8?classifier=sources
 - pkg:maven/com.helger/ph-web@9.1.9
 - pkg:maven/com.helger/ph-web@9.1.9?classifier=sources
+- pkg:maven/com.helger/ph-web@9.2.0
+- pkg:maven/com.helger/ph-web@9.2.0?classifier=sources

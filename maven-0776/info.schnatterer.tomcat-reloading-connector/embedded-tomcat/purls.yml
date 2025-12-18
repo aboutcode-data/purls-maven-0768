@@ -1,0 +1,6 @@
+- pkg:maven/info.schnatterer.tomcat-reloading-connector/embedded-tomcat@0.1.1
+- pkg:maven/info.schnatterer.tomcat-reloading-connector/embedded-tomcat@0.1.1?classifier=sources
+- pkg:maven/info.schnatterer.tomcat-reloading-connector/embedded-tomcat@0.2.0
+- pkg:maven/info.schnatterer.tomcat-reloading-connector/embedded-tomcat@0.2.0?classifier=sources
+- pkg:maven/info.schnatterer.tomcat-reloading-connector/embedded-tomcat@0.3.0
+- pkg:maven/info.schnatterer.tomcat-reloading-connector/embedded-tomcat@0.3.0?classifier=sources

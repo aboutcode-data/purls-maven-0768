@@ -20,3 +20,9 @@
 - pkg:maven/com.cognitect.aws/guardduty@794.2.635.0?classifier=sources
 - pkg:maven/com.cognitect.aws/guardduty@796.2.660.0
 - pkg:maven/com.cognitect.aws/guardduty@796.2.660.0?classifier=sources
+- pkg:maven/com.cognitect.aws/guardduty@798.2.673.0
+- pkg:maven/com.cognitect.aws/guardduty@798.2.673.0?classifier=sources
+- pkg:maven/com.cognitect.aws/guardduty@801.2.685.0
+- pkg:maven/com.cognitect.aws/guardduty@801.2.685.0?classifier=sources
+- pkg:maven/com.cognitect.aws/guardduty@801.2.688.0
+- pkg:maven/com.cognitect.aws/guardduty@801.2.688.0?classifier=sources

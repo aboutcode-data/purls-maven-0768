@@ -8,3 +8,7 @@
 - pkg:maven/org.webjars.npm/rc-align@2.4.5?classifier=sources
 - pkg:maven/org.webjars.npm/rc-align@3.0.0-alpha.8
 - pkg:maven/org.webjars.npm/rc-align@3.0.0-alpha.8?classifier=sources
+- pkg:maven/org.webjars.npm/rc-align@4.0.0
+- pkg:maven/org.webjars.npm/rc-align@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/rc-align@4.0.1
+- pkg:maven/org.webjars.npm/rc-align@4.0.1?classifier=sources

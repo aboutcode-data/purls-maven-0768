@@ -1,2 +1,4 @@
 - pkg:maven/ch.epfl.scala/scalajs-bundler-linker_2.12@0.17.0
 - pkg:maven/ch.epfl.scala/scalajs-bundler-linker_2.12@0.17.0?classifier=sources
+- pkg:maven/ch.epfl.scala/scalajs-bundler-linker_2.12@0.18.0
+- pkg:maven/ch.epfl.scala/scalajs-bundler-linker_2.12@0.18.0?classifier=sources

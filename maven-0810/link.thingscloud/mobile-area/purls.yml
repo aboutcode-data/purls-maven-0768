@@ -1,0 +1,4 @@
+- pkg:maven/link.thingscloud/mobile-area@1.1.0-RELEASE
+- pkg:maven/link.thingscloud/mobile-area@1.1.0-RELEASE?classifier=sources
+- pkg:maven/link.thingscloud/mobile-area@1.2.0-RELEASE
+- pkg:maven/link.thingscloud/mobile-area@1.2.0-RELEASE?classifier=sources

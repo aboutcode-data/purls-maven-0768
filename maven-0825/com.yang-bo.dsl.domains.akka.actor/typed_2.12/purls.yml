@@ -137,4 +137,6 @@
 - pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.12@1.0.1
 - pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.12@1.0.1%2B2-eca79a23
 - pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.12@1.0.1%2B2-eca79a23?classifier=sources
+- pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.12@1.0.1%2B3-c334a586
+- pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.12@1.0.1%2B3-c334a586?classifier=sources
 - pkg:maven/com.yang-bo.dsl.domains.akka.actor/typed_2.12@1.0.1?classifier=sources

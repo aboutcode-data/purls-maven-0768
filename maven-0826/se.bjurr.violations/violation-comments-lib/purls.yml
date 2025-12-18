@@ -2,6 +2,12 @@
 - pkg:maven/se.bjurr.violations/violation-comments-lib@1.0?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-lib@1.1
 - pkg:maven/se.bjurr.violations/violation-comments-lib@1.10
+- pkg:maven/se.bjurr.violations/violation-comments-lib@1.100
+- pkg:maven/se.bjurr.violations/violation-comments-lib@1.100?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-lib@1.101
+- pkg:maven/se.bjurr.violations/violation-comments-lib@1.101?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-lib@1.102
+- pkg:maven/se.bjurr.violations/violation-comments-lib@1.102?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-lib@1.10?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-lib@1.11
 - pkg:maven/se.bjurr.violations/violation-comments-lib@1.11?classifier=sources
