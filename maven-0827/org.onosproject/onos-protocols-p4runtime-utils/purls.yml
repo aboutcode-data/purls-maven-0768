@@ -28,11 +28,17 @@
 - pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.2.7-b4
 - pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.2.7-b4?classifier=sources
 - pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.2.7?classifier=sources
+- pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.2.8
 - pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.2.8-b2
 - pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.2.8-b2?classifier=sources
 - pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.2.8-b3
 - pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.2.8-b3?classifier=sources
+- pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.2.8?classifier=sources
 - pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.5.1
 - pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.5.1-rc1
 - pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.5.1-rc1?classifier=sources
 - pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.5.1?classifier=sources
+- pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.5.2-b1
+- pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.5.2-b1?classifier=sources
+- pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.5.2-b2
+- pkg:maven/org.onosproject/onos-protocols-p4runtime-utils@2.5.2-b2?classifier=sources

@@ -32,6 +32,8 @@
 - pkg:maven/org.webjars.npm/material__tab@1.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__tab@10.0.0
 - pkg:maven/org.webjars.npm/material__tab@10.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__tab@11.0.0
+- pkg:maven/org.webjars.npm/material__tab@11.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__tab@2.0.0
 - pkg:maven/org.webjars.npm/material__tab@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__tab@2.1.0

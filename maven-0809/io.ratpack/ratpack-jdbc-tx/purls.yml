@@ -40,3 +40,5 @@
 - pkg:maven/io.ratpack/ratpack-jdbc-tx@1.8.1?classifier=sources
 - pkg:maven/io.ratpack/ratpack-jdbc-tx@1.8.2
 - pkg:maven/io.ratpack/ratpack-jdbc-tx@1.8.2?classifier=sources
+- pkg:maven/io.ratpack/ratpack-jdbc-tx@1.9.0-rc-1
+- pkg:maven/io.ratpack/ratpack-jdbc-tx@1.9.0-rc-1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.viclovsky/swagger-coverage-rest-assured@1.4.1
+- pkg:maven/com.github.viclovsky/swagger-coverage-rest-assured@1.4.1?classifier=sources

@@ -1,2 +1,10 @@
 - pkg:maven/com.cloudesire.platform/common-dto@1.0.0
 - pkg:maven/com.cloudesire.platform/common-dto@1.0.0?classifier=sources
+- pkg:maven/com.cloudesire.platform/common-dto@2.10.0
+- pkg:maven/com.cloudesire.platform/common-dto@2.10.0?classifier=sources
+- pkg:maven/com.cloudesire.platform/common-dto@2.11.0
+- pkg:maven/com.cloudesire.platform/common-dto@2.11.0?classifier=sources
+- pkg:maven/com.cloudesire.platform/common-dto@2.11.1
+- pkg:maven/com.cloudesire.platform/common-dto@2.11.1?classifier=sources
+- pkg:maven/com.cloudesire.platform/common-dto@2.9.2
+- pkg:maven/com.cloudesire.platform/common-dto@2.9.2?classifier=sources

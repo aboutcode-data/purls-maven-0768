@@ -10,3 +10,5 @@
 - pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api-test@3.0.0-RC3
 - pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api-test@3.0.0-RC3?classifier=sources
 - pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api-test@3.0.0?classifier=sources
+- pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api-test@3.0.1
+- pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api-test@3.0.1?classifier=sources

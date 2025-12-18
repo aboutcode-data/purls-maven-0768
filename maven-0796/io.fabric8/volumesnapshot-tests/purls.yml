@@ -5,6 +5,7 @@
 - pkg:maven/io.fabric8/volumesnapshot-tests@4.13.0
 - pkg:maven/io.fabric8/volumesnapshot-tests@4.13.1
 - pkg:maven/io.fabric8/volumesnapshot-tests@4.13.2
+- pkg:maven/io.fabric8/volumesnapshot-tests@4.13.3
 - pkg:maven/io.fabric8/volumesnapshot-tests@5.0.0
 - pkg:maven/io.fabric8/volumesnapshot-tests@5.0.0-alpha-1
 - pkg:maven/io.fabric8/volumesnapshot-tests@5.0.0-alpha-2
@@ -16,3 +17,5 @@
 - pkg:maven/io.fabric8/volumesnapshot-tests@5.1.1
 - pkg:maven/io.fabric8/volumesnapshot-tests@5.2.0
 - pkg:maven/io.fabric8/volumesnapshot-tests@5.2.1
+- pkg:maven/io.fabric8/volumesnapshot-tests@5.3.0
+- pkg:maven/io.fabric8/volumesnapshot-tests@5.3.1

@@ -62,3 +62,5 @@
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter@0.3.2?classifier=sources
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter@0.3.3
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter@0.3.3?classifier=sources
+- pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter@0.4.0
+- pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter@0.4.0?classifier=sources

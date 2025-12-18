@@ -60,6 +60,8 @@
 - pkg:maven/org.webjars.npm/material__slider@1.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__slider@10.0.0
 - pkg:maven/org.webjars.npm/material__slider@10.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__slider@11.0.0
+- pkg:maven/org.webjars.npm/material__slider@11.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__slider@3.2.0
 - pkg:maven/org.webjars.npm/material__slider@3.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__slider@4.0.0

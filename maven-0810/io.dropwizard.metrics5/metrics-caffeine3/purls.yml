@@ -1,0 +1,2 @@
+- pkg:maven/io.dropwizard.metrics5/metrics-caffeine3@5.0.0-rc5
+- pkg:maven/io.dropwizard.metrics5/metrics-caffeine3@5.0.0-rc5?classifier=sources

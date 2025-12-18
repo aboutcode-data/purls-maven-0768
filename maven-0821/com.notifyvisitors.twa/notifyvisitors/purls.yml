@@ -1,0 +1,2 @@
+- pkg:maven/com.notifyvisitors.twa/notifyvisitors@1.0.3?classifier=sources
+- pkg:maven/com.notifyvisitors.twa/notifyvisitors@1.0.3?type=aar

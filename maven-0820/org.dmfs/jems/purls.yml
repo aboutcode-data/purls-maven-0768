@@ -64,6 +64,8 @@
 - pkg:maven/org.dmfs/jems@1.41?classifier=sources
 - pkg:maven/org.dmfs/jems@1.43
 - pkg:maven/org.dmfs/jems@1.43?classifier=sources
+- pkg:maven/org.dmfs/jems@1.44
+- pkg:maven/org.dmfs/jems@1.44?classifier=sources
 - pkg:maven/org.dmfs/jems@1.8
 - pkg:maven/org.dmfs/jems@1.8?classifier=sources
 - pkg:maven/org.dmfs/jems@1.9

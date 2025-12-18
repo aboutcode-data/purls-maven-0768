@@ -1,0 +1,2 @@
+- pkg:maven/com.mesibo.api/mediapicker@0.1.55?classifier=sources
+- pkg:maven/com.mesibo.api/mediapicker@0.1.57?classifier=sources

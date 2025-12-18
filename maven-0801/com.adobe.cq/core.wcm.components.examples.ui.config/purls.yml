@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.cq/core.wcm.components.examples.ui.config@2.15.2?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.examples.ui.config@2.16.0?classifier=sources

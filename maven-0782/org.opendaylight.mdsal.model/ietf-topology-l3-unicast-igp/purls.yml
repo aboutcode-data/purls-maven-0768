@@ -121,6 +121,8 @@
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-l3-unicast-igp@2013.10.21.17.15?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-l3-unicast-igp@2013.10.21.17.16
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-l3-unicast-igp@2013.10.21.17.16?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.model/ietf-topology-l3-unicast-igp@2013.10.21.17.17
+- pkg:maven/org.opendaylight.mdsal.model/ietf-topology-l3-unicast-igp@2013.10.21.17.17?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-l3-unicast-igp@2013.10.21.17.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-l3-unicast-igp@2013.10.21.17.2
 - pkg:maven/org.opendaylight.mdsal.model/ietf-topology-l3-unicast-igp@2013.10.21.17.2?classifier=sources

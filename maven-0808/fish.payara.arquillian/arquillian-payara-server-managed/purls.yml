@@ -18,3 +18,7 @@
 - pkg:maven/fish.payara.arquillian/arquillian-payara-server-managed@2.3.3
 - pkg:maven/fish.payara.arquillian/arquillian-payara-server-managed@2.3.3?classifier=sources
 - pkg:maven/fish.payara.arquillian/arquillian-payara-server-managed@2.3?classifier=sources
+- pkg:maven/fish.payara.arquillian/arquillian-payara-server-managed@2.4
+- pkg:maven/fish.payara.arquillian/arquillian-payara-server-managed@2.4.1
+- pkg:maven/fish.payara.arquillian/arquillian-payara-server-managed@2.4.1?classifier=sources
+- pkg:maven/fish.payara.arquillian/arquillian-payara-server-managed@2.4?classifier=sources

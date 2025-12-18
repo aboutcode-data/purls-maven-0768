@@ -12,3 +12,4 @@
 - pkg:maven/com.adobe.acs/acs-aem-commons-ui.content@4.9.2?classifier=sources
 - pkg:maven/com.adobe.acs/acs-aem-commons-ui.content@5.0.0?classifier=sources
 - pkg:maven/com.adobe.acs/acs-aem-commons-ui.content@5.0.2?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-ui.content@5.0.4?classifier=sources

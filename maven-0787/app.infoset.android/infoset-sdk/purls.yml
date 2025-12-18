@@ -4,3 +4,5 @@
 - pkg:maven/app.infoset.android/infoset-sdk@1.0.1?type=aar
 - pkg:maven/app.infoset.android/infoset-sdk@1.0.2?classifier=sources
 - pkg:maven/app.infoset.android/infoset-sdk@1.0.2?type=aar
+- pkg:maven/app.infoset.android/infoset-sdk@1.0.3?classifier=sources
+- pkg:maven/app.infoset.android/infoset-sdk@1.0.3?type=aar

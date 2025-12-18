@@ -1,0 +1,12 @@
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.17
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.17?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.18
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.18?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.19
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.19?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.20
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.20?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.21
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.21?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.22
+- pkg:maven/fr.ird.observe/toolkit-runner@5.0.22?classifier=sources

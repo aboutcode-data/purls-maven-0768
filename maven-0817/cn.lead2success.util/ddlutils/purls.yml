@@ -12,3 +12,7 @@
 - pkg:maven/cn.lead2success.util/ddlutils@0.0.1_006-RELEASE?classifier=sources
 - pkg:maven/cn.lead2success.util/ddlutils@0.0.1_007-RELEASE
 - pkg:maven/cn.lead2success.util/ddlutils@0.0.1_007-RELEASE?classifier=sources
+- pkg:maven/cn.lead2success.util/ddlutils@0.0.1_008-RELEASE
+- pkg:maven/cn.lead2success.util/ddlutils@0.0.1_008-RELEASE?classifier=sources
+- pkg:maven/cn.lead2success.util/ddlutils@0.0.1_009-RELEASE
+- pkg:maven/cn.lead2success.util/ddlutils@0.0.1_009-RELEASE?classifier=sources

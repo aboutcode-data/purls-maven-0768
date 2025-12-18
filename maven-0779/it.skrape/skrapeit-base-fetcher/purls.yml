@@ -1,0 +1,5 @@
+- pkg:maven/it.skrape/skrapeit-base-fetcher@0-SNAPHOT?classifier=sources
+- pkg:maven/it.skrape/skrapeit-base-fetcher@0.0.1?classifier=sources
+- pkg:maven/it.skrape/skrapeit-base-fetcher@1.0.0?classifier=sources
+- pkg:maven/it.skrape/skrapeit-base-fetcher@1.1.0?classifier=sources
+- pkg:maven/it.skrape/skrapeit-base-fetcher@1.1.1?classifier=sources

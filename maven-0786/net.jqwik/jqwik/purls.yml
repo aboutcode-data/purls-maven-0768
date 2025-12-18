@@ -67,3 +67,4 @@
 - pkg:maven/net.jqwik/jqwik@1.3.9?classifier=sources
 - pkg:maven/net.jqwik/jqwik@1.4.0?classifier=sources
 - pkg:maven/net.jqwik/jqwik@1.5.0?classifier=sources
+- pkg:maven/net.jqwik/jqwik@1.5.1?classifier=sources

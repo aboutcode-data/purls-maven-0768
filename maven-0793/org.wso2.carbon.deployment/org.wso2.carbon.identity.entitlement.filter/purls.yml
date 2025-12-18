@@ -28,6 +28,12 @@
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.entitlement.filter@4.12.2
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.entitlement.filter@4.12.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.entitlement.filter@4.12.2?classifier=sources
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.entitlement.filter@4.12.3
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.entitlement.filter@4.12.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.entitlement.filter@4.12.3?classifier=sources
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.entitlement.filter@4.12.4
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.entitlement.filter@4.12.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.entitlement.filter@4.12.4?classifier=sources
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.entitlement.filter@4.3.0
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.entitlement.filter@4.3.1
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.entitlement.filter@4.4.0

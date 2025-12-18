@@ -1,0 +1,5 @@
+- pkg:maven/com.avito.android/http-client@2021.11?classifier=sources
+- pkg:maven/com.avito.android/http-client@2021.12?classifier=sources
+- pkg:maven/com.avito.android/http-client@2021.13?classifier=sources
+- pkg:maven/com.avito.android/http-client@2021.14.1?classifier=sources
+- pkg:maven/com.avito.android/http-client@2021.14?classifier=sources

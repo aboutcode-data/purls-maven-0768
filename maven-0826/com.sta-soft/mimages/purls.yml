@@ -12,3 +12,5 @@
 - pkg:maven/com.sta-soft/mimages@1.39?classifier=sources
 - pkg:maven/com.sta-soft/mimages@1.40
 - pkg:maven/com.sta-soft/mimages@1.40?classifier=sources
+- pkg:maven/com.sta-soft/mimages@1.41
+- pkg:maven/com.sta-soft/mimages@1.41?classifier=sources

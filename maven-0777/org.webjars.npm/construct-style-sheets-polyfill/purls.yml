@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/construct-style-sheets-polyfill@2.4.16
+- pkg:maven/org.webjars.npm/construct-style-sheets-polyfill@2.4.16?classifier=sources

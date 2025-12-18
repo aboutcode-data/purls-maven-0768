@@ -1,2 +1,3 @@
 - pkg:maven/software.amazon.glue/schema-registry-build-tools@1.0.0
 - pkg:maven/software.amazon.glue/schema-registry-build-tools@1.0.1
+- pkg:maven/software.amazon.glue/schema-registry-build-tools@1.0.2

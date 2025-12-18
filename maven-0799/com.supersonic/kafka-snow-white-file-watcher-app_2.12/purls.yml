@@ -1,0 +1,2 @@
+- pkg:maven/com.supersonic/kafka-snow-white-file-watcher-app_2.12@1.5.1
+- pkg:maven/com.supersonic/kafka-snow-white-file-watcher-app_2.12@1.5.1?classifier=sources

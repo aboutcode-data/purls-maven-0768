@@ -1,0 +1,2 @@
+- pkg:maven/com.rallyhealth/play25-test-ops-core_2.11@1.5.0
+- pkg:maven/com.rallyhealth/play25-test-ops-core_2.11@1.5.0?classifier=sources

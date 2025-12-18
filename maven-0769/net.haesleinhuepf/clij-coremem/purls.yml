@@ -1,0 +1,4 @@
+- pkg:maven/net.haesleinhuepf/clij-coremem@2.3.0.0
+- pkg:maven/net.haesleinhuepf/clij-coremem@2.3.0.0?classifier=sources
+- pkg:maven/net.haesleinhuepf/clij-coremem@2.3.0.3
+- pkg:maven/net.haesleinhuepf/clij-coremem@2.3.0.3?classifier=sources

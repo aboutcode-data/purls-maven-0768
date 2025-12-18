@@ -10,6 +10,8 @@
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.1.0?classifier=sources
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.10.0
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.10.0?classifier=sources
+- pkg:maven/com.quantxt.nlp/doc-analytics@2.11.0
+- pkg:maven/com.quantxt.nlp/doc-analytics@2.11.0?classifier=sources
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.7.10
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.7.10?classifier=sources
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.7.11

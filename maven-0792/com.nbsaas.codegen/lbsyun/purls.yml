@@ -1,0 +1,2 @@
+- pkg:maven/com.nbsaas.codegen/lbsyun@1.0.3
+- pkg:maven/com.nbsaas.codegen/lbsyun@1.0.3?classifier=sources

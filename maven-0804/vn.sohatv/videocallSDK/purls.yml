@@ -1,0 +1,2 @@
+- pkg:maven/vn.sohatv/videocallSDK@1.0.0?classifier=sources
+- pkg:maven/vn.sohatv/videocallSDK@1.0.0?type=aar

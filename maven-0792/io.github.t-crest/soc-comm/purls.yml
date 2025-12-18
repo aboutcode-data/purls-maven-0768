@@ -1,2 +1,4 @@
 - pkg:maven/io.github.t-crest/soc-comm@0.1.1
 - pkg:maven/io.github.t-crest/soc-comm@0.1.1?classifier=sources
+- pkg:maven/io.github.t-crest/soc-comm@0.1.2
+- pkg:maven/io.github.t-crest/soc-comm@0.1.2?classifier=sources

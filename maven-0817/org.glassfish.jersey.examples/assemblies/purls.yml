@@ -101,6 +101,8 @@
 - pkg:maven/org.glassfish.jersey.examples/assemblies@2.32?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/assemblies@2.33
 - pkg:maven/org.glassfish.jersey.examples/assemblies@2.33?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/assemblies@2.34
+- pkg:maven/org.glassfish.jersey.examples/assemblies@2.34?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/assemblies@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/assemblies@2.4
 - pkg:maven/org.glassfish.jersey.examples/assemblies@2.4.1
@@ -132,3 +134,5 @@
 - pkg:maven/org.glassfish.jersey.examples/assemblies@3.0.0?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/assemblies@3.0.1
 - pkg:maven/org.glassfish.jersey.examples/assemblies@3.0.1?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/assemblies@3.0.2
+- pkg:maven/org.glassfish.jersey.examples/assemblies@3.0.2?classifier=sources

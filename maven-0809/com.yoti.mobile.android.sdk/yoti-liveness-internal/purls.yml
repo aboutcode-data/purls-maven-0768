@@ -5,3 +5,5 @@
 - pkg:maven/com.yoti.mobile.android.sdk/yoti-liveness-internal@8.6.0?type=aar
 - pkg:maven/com.yoti.mobile.android.sdk/yoti-liveness-internal@8.7.0?type=aar
 - pkg:maven/com.yoti.mobile.android.sdk/yoti-liveness-internal@8.9.0?type=aar
+- pkg:maven/com.yoti.mobile.android.sdk/yoti-liveness-internal@9.1.2?type=aar
+- pkg:maven/com.yoti.mobile.android.sdk/yoti-liveness-internal@9.2.0?type=aar

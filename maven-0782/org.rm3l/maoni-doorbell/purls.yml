@@ -1,3 +1,4 @@
 - pkg:maven/org.rm3l/maoni-doorbell@8.4.0?classifier=sources
 - pkg:maven/org.rm3l/maoni-doorbell@8.5.1?classifier=sources
 - pkg:maven/org.rm3l/maoni-doorbell@9.0.0?classifier=sources
+- pkg:maven/org.rm3l/maoni-doorbell@9.1.0?classifier=sources

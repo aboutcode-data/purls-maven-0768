@@ -260,3 +260,11 @@
 - pkg:maven/cn.hutool/hutool-aop@5.5.9?classifier=sources
 - pkg:maven/cn.hutool/hutool-aop@5.6.0
 - pkg:maven/cn.hutool/hutool-aop@5.6.0?classifier=sources
+- pkg:maven/cn.hutool/hutool-aop@5.6.1
+- pkg:maven/cn.hutool/hutool-aop@5.6.1?classifier=sources
+- pkg:maven/cn.hutool/hutool-aop@5.6.2
+- pkg:maven/cn.hutool/hutool-aop@5.6.2?classifier=sources
+- pkg:maven/cn.hutool/hutool-aop@5.6.3
+- pkg:maven/cn.hutool/hutool-aop@5.6.3?classifier=sources
+- pkg:maven/cn.hutool/hutool-aop@5.6.4
+- pkg:maven/cn.hutool/hutool-aop@5.6.4?classifier=sources

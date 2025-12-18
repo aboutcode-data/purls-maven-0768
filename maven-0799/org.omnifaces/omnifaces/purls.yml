@@ -112,6 +112,8 @@
 - pkg:maven/org.omnifaces/omnifaces@2.7.1
 - pkg:maven/org.omnifaces/omnifaces@2.7.10
 - pkg:maven/org.omnifaces/omnifaces@2.7.10?classifier=sources
+- pkg:maven/org.omnifaces/omnifaces@2.7.11
+- pkg:maven/org.omnifaces/omnifaces@2.7.11?classifier=sources
 - pkg:maven/org.omnifaces/omnifaces@2.7.1?classifier=sources
 - pkg:maven/org.omnifaces/omnifaces@2.7.2
 - pkg:maven/org.omnifaces/omnifaces@2.7.2?classifier=sources
@@ -141,6 +143,8 @@
 - pkg:maven/org.omnifaces/omnifaces@3.10.1
 - pkg:maven/org.omnifaces/omnifaces@3.10.1?classifier=sources
 - pkg:maven/org.omnifaces/omnifaces@3.10?classifier=sources
+- pkg:maven/org.omnifaces/omnifaces@3.11
+- pkg:maven/org.omnifaces/omnifaces@3.11?classifier=sources
 - pkg:maven/org.omnifaces/omnifaces@3.1?classifier=sources
 - pkg:maven/org.omnifaces/omnifaces@3.2
 - pkg:maven/org.omnifaces/omnifaces@3.2?classifier=sources
@@ -182,3 +186,5 @@
 - pkg:maven/org.omnifaces/omnifaces@4.0-M6?classifier=sources
 - pkg:maven/org.omnifaces/omnifaces@4.0-M7
 - pkg:maven/org.omnifaces/omnifaces@4.0-M7?classifier=sources
+- pkg:maven/org.omnifaces/omnifaces@4.0-M8
+- pkg:maven/org.omnifaces/omnifaces@4.0-M8?classifier=sources

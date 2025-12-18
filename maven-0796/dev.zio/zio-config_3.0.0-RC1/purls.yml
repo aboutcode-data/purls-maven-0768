@@ -1,0 +1,4 @@
+- pkg:maven/dev.zio/zio-config_3.0.0-RC1@1.0.3
+- pkg:maven/dev.zio/zio-config_3.0.0-RC1@1.0.3?classifier=sources
+- pkg:maven/dev.zio/zio-config_3.0.0-RC1@1.0.4
+- pkg:maven/dev.zio/zio-config_3.0.0-RC1@1.0.4?classifier=sources

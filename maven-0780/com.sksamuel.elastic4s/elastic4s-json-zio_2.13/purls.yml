@@ -1,0 +1,2 @@
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-zio_2.13@7.12.1
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-zio_2.13@7.12.1?classifier=sources

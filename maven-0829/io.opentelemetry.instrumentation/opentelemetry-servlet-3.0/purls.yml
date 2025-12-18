@@ -1,0 +1,1 @@
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-servlet-3.0@1.1.0-alpha?classifier=sources

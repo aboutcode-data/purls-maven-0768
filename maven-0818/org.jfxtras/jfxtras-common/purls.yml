@@ -2,10 +2,16 @@
 - pkg:maven/org.jfxtras/jfxtras-common@10.0-r1?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-common@11-r1
 - pkg:maven/org.jfxtras/jfxtras-common@11-r1?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-common@11-r2
+- pkg:maven/org.jfxtras/jfxtras-common@11-r2?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-common@14-r1
 - pkg:maven/org.jfxtras/jfxtras-common@14-r1?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-common@14-r2
+- pkg:maven/org.jfxtras/jfxtras-common@14-r2?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-common@15-r1
 - pkg:maven/org.jfxtras/jfxtras-common@15-r1?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-common@15-r2
+- pkg:maven/org.jfxtras/jfxtras-common@15-r2?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-common@8.0-r1
 - pkg:maven/org.jfxtras/jfxtras-common@8.0-r1?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-common@8.0-r2

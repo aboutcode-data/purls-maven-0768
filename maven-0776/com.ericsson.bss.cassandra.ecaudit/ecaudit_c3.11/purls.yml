@@ -18,3 +18,5 @@
 - pkg:maven/com.ericsson.bss.cassandra.ecaudit/ecaudit_c3.11@2.5.0?classifier=sources
 - pkg:maven/com.ericsson.bss.cassandra.ecaudit/ecaudit_c3.11@2.6.0
 - pkg:maven/com.ericsson.bss.cassandra.ecaudit/ecaudit_c3.11@2.6.0?classifier=sources
+- pkg:maven/com.ericsson.bss.cassandra.ecaudit/ecaudit_c3.11@2.7.0
+- pkg:maven/com.ericsson.bss.cassandra.ecaudit/ecaudit_c3.11@2.7.0?classifier=sources

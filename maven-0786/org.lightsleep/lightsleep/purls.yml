@@ -1,0 +1,2 @@
+- pkg:maven/org.lightsleep/lightsleep@3.1.1?classifier=sources
+- pkg:maven/org.lightsleep/lightsleep@4.0.0?classifier=sources

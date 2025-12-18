@@ -6,3 +6,5 @@
 - pkg:maven/app.tulz/stringdiff_sjs1_2.13@0.3.0?classifier=sources
 - pkg:maven/app.tulz/stringdiff_sjs1_2.13@0.3.1
 - pkg:maven/app.tulz/stringdiff_sjs1_2.13@0.3.1?classifier=sources
+- pkg:maven/app.tulz/stringdiff_sjs1_2.13@0.3.2
+- pkg:maven/app.tulz/stringdiff_sjs1_2.13@0.3.2?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/cz.encircled/joiner-eclipse@0.3.8?classifier=sources
 - pkg:maven/cz.encircled/joiner-eclipse@0.3.9
 - pkg:maven/cz.encircled/joiner-eclipse@0.3.9?classifier=sources
+- pkg:maven/cz.encircled/joiner-eclipse@0.4.1
+- pkg:maven/cz.encircled/joiner-eclipse@0.4.1?classifier=sources

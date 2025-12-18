@@ -2,3 +2,5 @@
 - pkg:maven/org.jmxtrans/jmxtrans-output-logback@270?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans-output-logback@271
 - pkg:maven/org.jmxtrans/jmxtrans-output-logback@271?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-logback@272
+- pkg:maven/org.jmxtrans/jmxtrans-output-logback@272?classifier=sources

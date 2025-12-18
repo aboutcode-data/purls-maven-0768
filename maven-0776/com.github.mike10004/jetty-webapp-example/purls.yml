@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mike10004/jetty-webapp-example@0.4?classifier=sources
+- pkg:maven/com.github.mike10004/jetty-webapp-example@0.4?type=war

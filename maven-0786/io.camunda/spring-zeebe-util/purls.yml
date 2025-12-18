@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda/spring-zeebe-util@1.0.0-rc2
+- pkg:maven/io.camunda/spring-zeebe-util@1.0.0-rc2?classifier=sources

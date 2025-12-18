@@ -1,2 +1,4 @@
 - pkg:maven/com.bicou/avokka-arangodb-fs2_2.12@0.0.6
 - pkg:maven/com.bicou/avokka-arangodb-fs2_2.12@0.0.6?classifier=sources
+- pkg:maven/com.bicou/avokka-arangodb-fs2_2.12@0.0.7
+- pkg:maven/com.bicou/avokka-arangodb-fs2_2.12@0.0.7?classifier=sources

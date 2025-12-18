@@ -1,0 +1,2 @@
+- pkg:maven/de.gal-digital/kmm-logger@1.0.0?classifier=sources
+- pkg:maven/de.gal-digital/kmm-logger@1.0.1?classifier=sources

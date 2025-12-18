@@ -38,3 +38,4 @@
 - pkg:maven/com.dorkbox/MessageBus@2.2?classifier=sources
 - pkg:maven/com.dorkbox/MessageBus@2.3
 - pkg:maven/com.dorkbox/MessageBus@2.3?classifier=sources
+- pkg:maven/com.dorkbox/MessageBus@2.4?classifier=sources

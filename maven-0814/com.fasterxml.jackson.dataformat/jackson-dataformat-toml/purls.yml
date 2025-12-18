@@ -1,0 +1,1 @@
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-toml@2.12.3?classifier=sources

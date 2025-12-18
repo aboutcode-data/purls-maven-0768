@@ -1,0 +1,2 @@
+- pkg:maven/br.com.guiabolso/FixedLengthFileHandler@0.5.1?classifier=sources
+- pkg:maven/br.com.guiabolso/FixedLengthFileHandler@1.0.0?classifier=sources

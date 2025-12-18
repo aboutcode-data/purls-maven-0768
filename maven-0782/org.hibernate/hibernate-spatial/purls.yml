@@ -214,6 +214,7 @@
 - pkg:maven/org.hibernate/hibernate-spatial@5.4.3.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-spatial@5.4.30.Final
 - pkg:maven/org.hibernate/hibernate-spatial@5.4.30.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-spatial@5.4.31.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-spatial@5.4.4.Final
 - pkg:maven/org.hibernate/hibernate-spatial@5.4.4.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-spatial@5.4.5.Final
@@ -226,3 +227,4 @@
 - pkg:maven/org.hibernate/hibernate-spatial@5.4.8.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-spatial@5.4.9.Final
 - pkg:maven/org.hibernate/hibernate-spatial@5.4.9.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-spatial@5.5.0.Alpha1?classifier=sources

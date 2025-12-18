@@ -28,3 +28,5 @@
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.1.Final?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.2.Final
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.2.Final?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.3.Final
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.3.Final?classifier=sources

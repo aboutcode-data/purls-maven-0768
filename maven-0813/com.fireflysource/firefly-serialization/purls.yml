@@ -1,5 +1,9 @@
 - pkg:maven/com.fireflysource/firefly-serialization@5.0.0-alpha10
 - pkg:maven/com.fireflysource/firefly-serialization@5.0.0-alpha10?classifier=sources
+- pkg:maven/com.fireflysource/firefly-serialization@5.0.0-alpha11
+- pkg:maven/com.fireflysource/firefly-serialization@5.0.0-alpha11?classifier=sources
+- pkg:maven/com.fireflysource/firefly-serialization@5.0.0-alpha12
+- pkg:maven/com.fireflysource/firefly-serialization@5.0.0-alpha12?classifier=sources
 - pkg:maven/com.fireflysource/firefly-serialization@5.0.0-alpha8
 - pkg:maven/com.fireflysource/firefly-serialization@5.0.0-alpha8?classifier=sources
 - pkg:maven/com.fireflysource/firefly-serialization@5.0.0-alpha9

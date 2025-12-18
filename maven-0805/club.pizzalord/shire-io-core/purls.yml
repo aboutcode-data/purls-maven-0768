@@ -4,6 +4,8 @@
 - pkg:maven/club.pizzalord/shire-io-core@0.0.12?classifier=sources
 - pkg:maven/club.pizzalord/shire-io-core@0.0.13
 - pkg:maven/club.pizzalord/shire-io-core@0.0.13?classifier=sources
+- pkg:maven/club.pizzalord/shire-io-core@0.0.14
+- pkg:maven/club.pizzalord/shire-io-core@0.0.14?classifier=sources
 - pkg:maven/club.pizzalord/shire-io-core@0.0.2
 - pkg:maven/club.pizzalord/shire-io-core@0.0.2?classifier=sources
 - pkg:maven/club.pizzalord/shire-io-core@0.0.3

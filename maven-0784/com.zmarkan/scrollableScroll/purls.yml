@@ -1,0 +1,5 @@
+- pkg:maven/com.zmarkan/scrollableScroll@0.1.10?classifier=sources
+- pkg:maven/com.zmarkan/scrollableScroll@0.1.11?classifier=sources
+- pkg:maven/com.zmarkan/scrollableScroll@0.1.12?classifier=sources
+- pkg:maven/com.zmarkan/scrollableScroll@1.0.23?classifier=sources
+- pkg:maven/com.zmarkan/scrollableScroll@1.0.29?classifier=sources

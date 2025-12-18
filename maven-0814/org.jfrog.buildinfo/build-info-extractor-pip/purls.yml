@@ -1,0 +1,2 @@
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.25.4
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.25.4?classifier=sources

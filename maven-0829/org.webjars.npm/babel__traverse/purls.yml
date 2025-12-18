@@ -22,6 +22,10 @@
 - pkg:maven/org.webjars.npm/babel__traverse@7.12.9?classifier=sources
 - pkg:maven/org.webjars.npm/babel__traverse@7.13.0
 - pkg:maven/org.webjars.npm/babel__traverse@7.13.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel__traverse@7.13.15
+- pkg:maven/org.webjars.npm/babel__traverse@7.13.15?classifier=sources
+- pkg:maven/org.webjars.npm/babel__traverse@7.13.17
+- pkg:maven/org.webjars.npm/babel__traverse@7.13.17?classifier=sources
 - pkg:maven/org.webjars.npm/babel__traverse@7.2.3
 - pkg:maven/org.webjars.npm/babel__traverse@7.2.3?classifier=sources
 - pkg:maven/org.webjars.npm/babel__traverse@7.3.4

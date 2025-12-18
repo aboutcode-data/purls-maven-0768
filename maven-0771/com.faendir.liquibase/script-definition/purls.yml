@@ -1,0 +1,1 @@
+- pkg:maven/com.faendir.liquibase/script-definition@3.1.0?classifier=sources

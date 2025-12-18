@@ -84,3 +84,4 @@
 - pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.8.3
 - pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.8.4
 - pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.8.5
+- pkg:maven/org.ligoj.bootstrap/bootstrap-web-test@2.8.6

@@ -1,0 +1,9 @@
+- pkg:maven/com.epam.reportportal/service-rally@2.6.0?classifier=sources
+- pkg:maven/com.epam.reportportal/service-rally@2.7.1?classifier=sources
+- pkg:maven/com.epam.reportportal/service-rally@3.0.0?classifier=sources
+- pkg:maven/com.epam.reportportal/service-rally@3.1.0?classifier=sources
+- pkg:maven/com.epam.reportportal/service-rally@3.2.0?classifier=sources
+- pkg:maven/com.epam.reportportal/service-rally@3.3.0?classifier=sources
+- pkg:maven/com.epam.reportportal/service-rally@4.0.0?classifier=sources
+- pkg:maven/com.epam.reportportal/service-rally@4.2.0?classifier=sources
+- pkg:maven/com.epam.reportportal/service-rally@4.3.0?classifier=sources

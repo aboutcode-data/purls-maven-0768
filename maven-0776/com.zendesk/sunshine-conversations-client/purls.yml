@@ -1,0 +1,10 @@
+- pkg:maven/com.zendesk/sunshine-conversations-client@9.0.0?classifier=sources
+- pkg:maven/com.zendesk/sunshine-conversations-client@9.0.1?classifier=sources
+- pkg:maven/com.zendesk/sunshine-conversations-client@9.1.0?classifier=sources
+- pkg:maven/com.zendesk/sunshine-conversations-client@9.1.1?classifier=sources
+- pkg:maven/com.zendesk/sunshine-conversations-client@9.2.0?classifier=sources
+- pkg:maven/com.zendesk/sunshine-conversations-client@9.3.0?classifier=sources
+- pkg:maven/com.zendesk/sunshine-conversations-client@9.4.0?classifier=sources
+- pkg:maven/com.zendesk/sunshine-conversations-client@9.4.1?classifier=sources
+- pkg:maven/com.zendesk/sunshine-conversations-client@9.4.2?classifier=sources
+- pkg:maven/com.zendesk/sunshine-conversations-client@9.4.3?classifier=sources

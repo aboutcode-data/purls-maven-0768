@@ -35,4 +35,6 @@
 - pkg:maven/com.omniwyse/hrms-commons@1.0.18?classifier=sources
 - pkg:maven/com.omniwyse/hrms-commons@1.0.19
 - pkg:maven/com.omniwyse/hrms-commons@1.0.19?classifier=sources
+- pkg:maven/com.omniwyse/hrms-commons@1.0.20
+- pkg:maven/com.omniwyse/hrms-commons@1.0.20?classifier=sources
 - pkg:maven/com.omniwyse/hrms-commons@1.0?classifier=sources

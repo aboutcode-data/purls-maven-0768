@@ -1,2 +1,4 @@
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpredis@5.3.1?classifier=sources
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpredis@5.3.1?type=war
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpredis@5.3.2?classifier=sources
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpredis@5.3.2?type=war

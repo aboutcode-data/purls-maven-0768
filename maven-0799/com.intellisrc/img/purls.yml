@@ -8,3 +8,5 @@
 - pkg:maven/com.intellisrc/img@2.7.15?classifier=sources
 - pkg:maven/com.intellisrc/img@2.7.16
 - pkg:maven/com.intellisrc/img@2.7.16?classifier=sources
+- pkg:maven/com.intellisrc/img@2.7.17
+- pkg:maven/com.intellisrc/img@2.7.17?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/io.cucumber/datatable@3.4.0?classifier=sources
 - pkg:maven/io.cucumber/datatable@3.5.0
 - pkg:maven/io.cucumber/datatable@3.5.0?classifier=sources
+- pkg:maven/io.cucumber/datatable@4.0.0
+- pkg:maven/io.cucumber/datatable@4.0.0?classifier=sources

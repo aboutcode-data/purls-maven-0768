@@ -1,2 +1,4 @@
 - pkg:maven/org.aktin/r-script@1.3
+- pkg:maven/org.aktin/r-script@1.3.1
+- pkg:maven/org.aktin/r-script@1.3.1?classifier=sources
 - pkg:maven/org.aktin/r-script@1.3?classifier=sources

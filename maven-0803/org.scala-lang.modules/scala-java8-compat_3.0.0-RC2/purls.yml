@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-lang.modules/scala-java8-compat_3.0.0-RC2@1.0.0-RC1
+- pkg:maven/org.scala-lang.modules/scala-java8-compat_3.0.0-RC2@1.0.0-RC1?classifier=sources

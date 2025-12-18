@@ -20,3 +20,9 @@
 - pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-coherence@6.0.1?classifier=sources
 - pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-coherence@6.0.2
 - pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-coherence@6.0.2?classifier=sources
+- pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-coherence@6.1.0
+- pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-coherence@6.1.0?classifier=sources
+- pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-coherence@6.2.0
+- pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-coherence@6.2.0?classifier=sources
+- pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-coherence@7.0.0-beta-2020-04-18
+- pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-coherence@7.0.0-beta-2020-04-18?classifier=sources

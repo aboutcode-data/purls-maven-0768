@@ -1,2 +1,6 @@
+- pkg:maven/com.squareup.misk/misk-aws-dynamodb@0.17.0
 - pkg:maven/com.squareup.misk/misk-aws-dynamodb@0.17.0-20210210.0438-e43f047
 - pkg:maven/com.squareup.misk/misk-aws-dynamodb@0.17.0-20210210.0438-e43f047?classifier=sources
+- pkg:maven/com.squareup.misk/misk-aws-dynamodb@0.17.0?classifier=sources
+- pkg:maven/com.squareup.misk/misk-aws-dynamodb@0.17.1
+- pkg:maven/com.squareup.misk/misk-aws-dynamodb@0.17.1?classifier=sources

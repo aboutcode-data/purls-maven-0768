@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.hadoop/hadoop-hdds-interface-server@1.0.0
+- pkg:maven/org.apache.hadoop/hadoop-hdds-interface-server@1.1.0

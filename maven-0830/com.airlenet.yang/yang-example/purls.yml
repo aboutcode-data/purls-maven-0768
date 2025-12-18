@@ -6,3 +6,5 @@
 - pkg:maven/com.airlenet.yang/yang-example@1.1.0?classifier=sources
 - pkg:maven/com.airlenet.yang/yang-example@1.2.0
 - pkg:maven/com.airlenet.yang/yang-example@1.2.0?classifier=sources
+- pkg:maven/com.airlenet.yang/yang-example@2.0.0
+- pkg:maven/com.airlenet.yang/yang-example@2.0.0?classifier=sources

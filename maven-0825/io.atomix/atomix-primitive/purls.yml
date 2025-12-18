@@ -80,3 +80,5 @@
 - pkg:maven/io.atomix/atomix-primitive@3.1.7?classifier=sources
 - pkg:maven/io.atomix/atomix-primitive@3.1.8
 - pkg:maven/io.atomix/atomix-primitive@3.1.8?classifier=sources
+- pkg:maven/io.atomix/atomix-primitive@3.1.9
+- pkg:maven/io.atomix/atomix-primitive@3.1.9?classifier=sources

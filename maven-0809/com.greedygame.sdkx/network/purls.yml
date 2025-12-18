@@ -1,0 +1,4 @@
+- pkg:maven/com.greedygame.sdkx/network@0.0.86?classifier=sources
+- pkg:maven/com.greedygame.sdkx/network@0.0.87?classifier=sources
+- pkg:maven/com.greedygame.sdkx/network@0.0.88?classifier=sources
+- pkg:maven/com.greedygame.sdkx/network@v-dev?classifier=sources

@@ -25,6 +25,10 @@
 - pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet@2.0.0
 - pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet@2.0.0?classifier=sources
 - pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet@2.0.1
+- pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet@2.0.10
+- pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet@2.0.10?classifier=sources
+- pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet@2.0.11
+- pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet@2.0.11?classifier=sources
 - pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet@2.0.1?classifier=sources
 - pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet@2.0.2
 - pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet@2.0.2?classifier=sources

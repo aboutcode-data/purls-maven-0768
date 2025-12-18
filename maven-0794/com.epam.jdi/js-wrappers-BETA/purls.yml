@@ -1,0 +1,2 @@
+- pkg:maven/com.epam.jdi/js-wrappers-BETA@0.9.0
+- pkg:maven/com.epam.jdi/js-wrappers-BETA@0.9.0?classifier=sources

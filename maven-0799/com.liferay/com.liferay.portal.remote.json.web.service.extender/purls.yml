@@ -102,3 +102,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@5.0.6
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@5.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@5.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@6.0.0
+- pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.json.web.service.extender@6.0.0?classifier=sources-commercial

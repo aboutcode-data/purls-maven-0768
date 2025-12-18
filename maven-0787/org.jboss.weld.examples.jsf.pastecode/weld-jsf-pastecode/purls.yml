@@ -320,3 +320,5 @@
 - pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.1.6.Final?type=war
 - pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.1.7.Final?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.1.7.Final?type=war
+- pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.1.7.SP1?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf.pastecode/weld-jsf-pastecode@3.1.7.SP1?type=war

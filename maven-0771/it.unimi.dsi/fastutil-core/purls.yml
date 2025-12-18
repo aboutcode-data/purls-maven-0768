@@ -1,0 +1,4 @@
+- pkg:maven/it.unimi.dsi/fastutil-core@8.5.3
+- pkg:maven/it.unimi.dsi/fastutil-core@8.5.3?classifier=sources
+- pkg:maven/it.unimi.dsi/fastutil-core@8.5.4
+- pkg:maven/it.unimi.dsi/fastutil-core@8.5.4?classifier=sources

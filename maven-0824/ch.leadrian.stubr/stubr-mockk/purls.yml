@@ -1,3 +1,6 @@
 - pkg:maven/ch.leadrian.stubr/stubr-mockk@1.5.0?classifier=sources
 - pkg:maven/ch.leadrian.stubr/stubr-mockk@2.0.0?classifier=sources
 - pkg:maven/ch.leadrian.stubr/stubr-mockk@2.0.1?classifier=sources
+- pkg:maven/ch.leadrian.stubr/stubr-mockk@2.1.0-b1?classifier=sources
+- pkg:maven/ch.leadrian.stubr/stubr-mockk@2.1.0-b2?classifier=sources
+- pkg:maven/ch.leadrian.stubr/stubr-mockk@2.1.0-b3?classifier=sources

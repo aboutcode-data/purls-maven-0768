@@ -2,3 +2,5 @@
 - pkg:maven/io.trino/trino-tpch@352?classifier=sources
 - pkg:maven/io.trino/trino-tpch@353?classifier=sources
 - pkg:maven/io.trino/trino-tpch@354?classifier=sources
+- pkg:maven/io.trino/trino-tpch@355?classifier=sources
+- pkg:maven/io.trino/trino-tpch@356?classifier=sources

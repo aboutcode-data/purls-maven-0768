@@ -2,3 +2,4 @@
 - pkg:maven/org.xrpl/xrpl4j-integration-tests@1.0.0
 - pkg:maven/org.xrpl/xrpl4j-integration-tests@1.1.0
 - pkg:maven/org.xrpl/xrpl4j-integration-tests@1.2.0
+- pkg:maven/org.xrpl/xrpl4j-integration-tests@2.0.0

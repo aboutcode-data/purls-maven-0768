@@ -1,0 +1,6 @@
+- pkg:maven/com.kaltura.playkit/broadpeakplugin@4.13.1?classifier=sources
+- pkg:maven/com.kaltura.playkit/broadpeakplugin@4.13.1?type=aar
+- pkg:maven/com.kaltura.playkit/broadpeakplugin@4.13.3?classifier=sources
+- pkg:maven/com.kaltura.playkit/broadpeakplugin@4.13.3?type=aar
+- pkg:maven/com.kaltura.playkit/broadpeakplugin@4.13.4?classifier=sources
+- pkg:maven/com.kaltura.playkit/broadpeakplugin@4.13.4?type=aar

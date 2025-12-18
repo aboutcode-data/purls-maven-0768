@@ -32,3 +32,7 @@
 - pkg:maven/com.influxdb/flux-dsl@1.9.0?classifier=sources
 - pkg:maven/com.influxdb/flux-dsl@2.0.0
 - pkg:maven/com.influxdb/flux-dsl@2.0.0?classifier=sources
+- pkg:maven/com.influxdb/flux-dsl@2.1.0
+- pkg:maven/com.influxdb/flux-dsl@2.1.0?classifier=sources
+- pkg:maven/com.influxdb/flux-dsl@2.2.0
+- pkg:maven/com.influxdb/flux-dsl@2.2.0?classifier=sources

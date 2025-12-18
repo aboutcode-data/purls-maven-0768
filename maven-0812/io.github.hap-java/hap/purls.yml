@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hap-java/hap@2.0.0-snapshot
+- pkg:maven/io.github.hap-java/hap@2.0.0-snapshot?classifier=sources

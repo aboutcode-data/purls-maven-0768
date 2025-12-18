@@ -24,3 +24,11 @@
 - pkg:maven/com.google.dagger/dagger-lint@2.32?classifier=sources
 - pkg:maven/com.google.dagger/dagger-lint@2.33
 - pkg:maven/com.google.dagger/dagger-lint@2.33?classifier=sources
+- pkg:maven/com.google.dagger/dagger-lint@2.34
+- pkg:maven/com.google.dagger/dagger-lint@2.34.1
+- pkg:maven/com.google.dagger/dagger-lint@2.34.1?classifier=sources
+- pkg:maven/com.google.dagger/dagger-lint@2.34?classifier=sources
+- pkg:maven/com.google.dagger/dagger-lint@2.35
+- pkg:maven/com.google.dagger/dagger-lint@2.35.1
+- pkg:maven/com.google.dagger/dagger-lint@2.35.1?classifier=sources
+- pkg:maven/com.google.dagger/dagger-lint@2.35?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.tidb/prestodb-connector@0.0.3
+- pkg:maven/io.tidb/prestodb-connector@0.0.3?classifier=sources

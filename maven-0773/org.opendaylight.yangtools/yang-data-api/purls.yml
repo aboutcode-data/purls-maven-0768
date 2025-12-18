@@ -264,3 +264,5 @@
 - pkg:maven/org.opendaylight.yangtools/yang-data-api@6.0.4?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-api@6.0.5
 - pkg:maven/org.opendaylight.yangtools/yang-data-api@6.0.5?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-api@7.0.0
+- pkg:maven/org.opendaylight.yangtools/yang-data-api@7.0.0?classifier=sources

@@ -48,3 +48,11 @@
 - pkg:maven/com.busymachines/pureharm-db-slick_2.13@0.0.7-M3
 - pkg:maven/com.busymachines/pureharm-db-slick_2.13@0.0.7-M3?classifier=sources
 - pkg:maven/com.busymachines/pureharm-db-slick_2.13@0.0.7?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-slick_2.13@0.1.0
+- pkg:maven/com.busymachines/pureharm-db-slick_2.13@0.1.0-39de452
+- pkg:maven/com.busymachines/pureharm-db-slick_2.13@0.1.0-39de452?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-slick_2.13@0.1.0-4c13695
+- pkg:maven/com.busymachines/pureharm-db-slick_2.13@0.1.0-4c13695?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-slick_2.13@0.1.0?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-slick_2.13@0.2.0
+- pkg:maven/com.busymachines/pureharm-db-slick_2.13@0.2.0?classifier=sources

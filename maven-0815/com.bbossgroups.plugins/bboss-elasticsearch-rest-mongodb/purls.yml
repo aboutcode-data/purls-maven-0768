@@ -60,3 +60,4 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-mongodb@6.2.7?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-mongodb@6.2.8
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-mongodb@6.2.8?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-mongodb@6.2.9?classifier=sources

@@ -14,6 +14,8 @@
 - pkg:maven/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.6@0.15?classifier=sources
 - pkg:maven/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.6@0.16
 - pkg:maven/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.6@0.16?classifier=sources
+- pkg:maven/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.6@0.17
+- pkg:maven/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.6@0.17?classifier=sources
 - pkg:maven/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.6@0.8
 - pkg:maven/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.6@0.8?classifier=sources
 - pkg:maven/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.6@0.9

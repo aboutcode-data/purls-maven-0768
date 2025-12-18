@@ -141,3 +141,13 @@
 - pkg:maven/org.openjfx/javafx-graphics@17-ea%2B2?classifier=sources
 - pkg:maven/org.openjfx/javafx-graphics@17-ea%2B3
 - pkg:maven/org.openjfx/javafx-graphics@17-ea%2B3?classifier=sources
+- pkg:maven/org.openjfx/javafx-graphics@17-ea%2B5
+- pkg:maven/org.openjfx/javafx-graphics@17-ea%2B5?classifier=sources
+- pkg:maven/org.openjfx/javafx-graphics@17-ea%2B6
+- pkg:maven/org.openjfx/javafx-graphics@17-ea%2B6?classifier=sources
+- pkg:maven/org.openjfx/javafx-graphics@17-ea%2B7
+- pkg:maven/org.openjfx/javafx-graphics@17-ea%2B7?classifier=sources
+- pkg:maven/org.openjfx/javafx-graphics@17-ea%2B8
+- pkg:maven/org.openjfx/javafx-graphics@17-ea%2B8?classifier=sources
+- pkg:maven/org.openjfx/javafx-graphics@17-ea%2B9
+- pkg:maven/org.openjfx/javafx-graphics@17-ea%2B9?classifier=sources

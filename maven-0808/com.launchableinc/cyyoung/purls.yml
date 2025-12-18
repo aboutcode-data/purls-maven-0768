@@ -2,3 +2,5 @@
 - pkg:maven/com.launchableinc/cyyoung@1.0-beta-4
 - pkg:maven/com.launchableinc/cyyoung@1.0-beta-4?classifier=sources
 - pkg:maven/com.launchableinc/cyyoung@1.0?classifier=sources
+- pkg:maven/com.launchableinc/cyyoung@2.0
+- pkg:maven/com.launchableinc/cyyoung@2.0?classifier=sources

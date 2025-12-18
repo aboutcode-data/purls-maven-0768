@@ -48,3 +48,5 @@
 - pkg:maven/com.gitee.l0km/faceapi-client@3.2.9?classifier=sources
 - pkg:maven/com.gitee.l0km/faceapi-client@3.3.0
 - pkg:maven/com.gitee.l0km/faceapi-client@3.3.0?classifier=sources
+- pkg:maven/com.gitee.l0km/faceapi-client@3.4.0
+- pkg:maven/com.gitee.l0km/faceapi-client@3.4.0?classifier=sources

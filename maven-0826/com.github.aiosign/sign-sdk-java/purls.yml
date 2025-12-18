@@ -32,3 +32,4 @@
 - pkg:maven/com.github.aiosign/sign-sdk-java@1.8.2?classifier=sources
 - pkg:maven/com.github.aiosign/sign-sdk-java@1.8.3
 - pkg:maven/com.github.aiosign/sign-sdk-java@1.8.3?classifier=sources
+- pkg:maven/com.github.aiosign/sign-sdk-java@1.8.6?classifier=sources

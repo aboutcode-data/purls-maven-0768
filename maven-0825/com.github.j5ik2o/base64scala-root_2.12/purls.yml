@@ -1,0 +1,6 @@
+- pkg:maven/com.github.j5ik2o/base64scala-root_2.12@1.0.11
+- pkg:maven/com.github.j5ik2o/base64scala-root_2.12@1.0.11?classifier=sources
+- pkg:maven/com.github.j5ik2o/base64scala-root_2.12@1.0.8
+- pkg:maven/com.github.j5ik2o/base64scala-root_2.12@1.0.8?classifier=sources
+- pkg:maven/com.github.j5ik2o/base64scala-root_2.12@1.0.9
+- pkg:maven/com.github.j5ik2o/base64scala-root_2.12@1.0.9?classifier=sources

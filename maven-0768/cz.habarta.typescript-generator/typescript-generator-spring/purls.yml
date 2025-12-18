@@ -38,3 +38,5 @@
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-spring@2.29.814?classifier=sources
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-spring@2.30.840
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-spring@2.30.840?classifier=sources
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-spring@2.31.861
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-spring@2.31.861?classifier=sources

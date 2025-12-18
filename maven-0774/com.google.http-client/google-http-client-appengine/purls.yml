@@ -84,6 +84,10 @@
 - pkg:maven/com.google.http-client/google-http-client-appengine@1.38.1?classifier=sources
 - pkg:maven/com.google.http-client/google-http-client-appengine@1.39.0
 - pkg:maven/com.google.http-client/google-http-client-appengine@1.39.0?classifier=sources
+- pkg:maven/com.google.http-client/google-http-client-appengine@1.39.1
+- pkg:maven/com.google.http-client/google-http-client-appengine@1.39.1?classifier=sources
+- pkg:maven/com.google.http-client/google-http-client-appengine@1.39.2
+- pkg:maven/com.google.http-client/google-http-client-appengine@1.39.2?classifier=sources
 - pkg:maven/com.google.http-client/google-http-client-appengine@1.7.0-beta
 - pkg:maven/com.google.http-client/google-http-client-appengine@1.7.0-beta?classifier=sources
 - pkg:maven/com.google.http-client/google-http-client-appengine@1.8.3-beta

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.druid.extensions/druid-aws-rds-extensions@0.21.0
+- pkg:maven/org.apache.druid.extensions/druid-aws-rds-extensions@0.21.0?classifier=sources

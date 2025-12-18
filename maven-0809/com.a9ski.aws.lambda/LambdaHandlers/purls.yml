@@ -1,0 +1,2 @@
+- pkg:maven/com.a9ski.aws.lambda/LambdaHandlers@1.0
+- pkg:maven/com.a9ski.aws.lambda/LambdaHandlers@1.0?classifier=sources

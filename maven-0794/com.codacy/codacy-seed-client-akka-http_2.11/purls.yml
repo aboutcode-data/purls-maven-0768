@@ -34,3 +34,7 @@
 - pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.1.2_akka24Circe08?classifier=sources
 - pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.1.2_akka25Circe08
 - pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.1.2_akka25Circe08?classifier=sources
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.2.0_akka24Circe08
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.2.0_akka24Circe08?classifier=sources
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.2.0_akka25Circe08
+- pkg:maven/com.codacy/codacy-seed-client-akka-http_2.11@1.2.0_akka25Circe08?classifier=sources

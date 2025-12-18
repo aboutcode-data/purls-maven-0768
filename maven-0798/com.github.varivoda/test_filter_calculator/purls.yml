@@ -1,0 +1,4 @@
+- pkg:maven/com.github.varivoda/test_filter_calculator@0.9
+- pkg:maven/com.github.varivoda/test_filter_calculator@0.9?classifier=sources
+- pkg:maven/com.github.varivoda/test_filter_calculator@1.0
+- pkg:maven/com.github.varivoda/test_filter_calculator@1.0?classifier=sources

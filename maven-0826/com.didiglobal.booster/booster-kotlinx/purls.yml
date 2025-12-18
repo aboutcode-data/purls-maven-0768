@@ -136,3 +136,5 @@
 - pkg:maven/com.didiglobal.booster/booster-kotlinx@3.2.0-alpha1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-kotlinx@3.2.0-alpha2?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-kotlinx@3.2.0-alpha4?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-kotlinx@3.2.0-rc1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-kotlinx@3.2.0?classifier=sources

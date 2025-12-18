@@ -1,0 +1,1 @@
+- pkg:maven/fr.acinq.secp256k1/secp256k1-kmp-iosx64@0.5.1?classifier=sources

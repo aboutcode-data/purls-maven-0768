@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.cosmos.auth/authbase@1.1.0_0526?classifier=sources
+- pkg:maven/com.immomo.cosmos.auth/authbase@1.1.0_0526?type=aar

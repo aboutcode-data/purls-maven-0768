@@ -1,0 +1,3 @@
+- pkg:maven/org.jellyfin.sdk/jellyfin-platform-android@1.0.0-beta.2?classifier=sources
+- pkg:maven/org.jellyfin.sdk/jellyfin-platform-android@1.0.0-beta.3?classifier=sources
+- pkg:maven/org.jellyfin.sdk/jellyfin-platform-android@1.0.0-beta.4?classifier=sources

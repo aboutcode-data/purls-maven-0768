@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/spark-mssql-connector_2.11_2.4@1.0.2
+- pkg:maven/com.microsoft.azure/spark-mssql-connector_2.11_2.4@1.0.2?classifier=sources

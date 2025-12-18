@@ -5,6 +5,7 @@
 - pkg:maven/com.itextpdf/svg@7.1.12?classifier=sources
 - pkg:maven/com.itextpdf/svg@7.1.13?classifier=sources
 - pkg:maven/com.itextpdf/svg@7.1.14?classifier=sources
+- pkg:maven/com.itextpdf/svg@7.1.15?classifier=sources
 - pkg:maven/com.itextpdf/svg@7.1.2
 - pkg:maven/com.itextpdf/svg@7.1.2?classifier=sources
 - pkg:maven/com.itextpdf/svg@7.1.3

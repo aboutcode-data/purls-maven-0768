@@ -30,3 +30,8 @@
 - pkg:maven/com.facebook.presto/presto-i18n-functions@0.247?classifier=sources
 - pkg:maven/com.facebook.presto/presto-i18n-functions@0.248.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-i18n-functions@0.248?classifier=sources
+- pkg:maven/com.facebook.presto/presto-i18n-functions@0.249.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-i18n-functions@0.249?classifier=sources
+- pkg:maven/com.facebook.presto/presto-i18n-functions@0.250?classifier=sources
+- pkg:maven/com.facebook.presto/presto-i18n-functions@0.251?classifier=sources
+- pkg:maven/com.facebook.presto/presto-i18n-functions@0.252?classifier=sources

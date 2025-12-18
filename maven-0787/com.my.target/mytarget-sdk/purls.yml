@@ -3,3 +3,4 @@
 - pkg:maven/com.my.target/mytarget-sdk@5.11.8?type=aar
 - pkg:maven/com.my.target/mytarget-sdk@5.12.0?type=aar
 - pkg:maven/com.my.target/mytarget-sdk@5.12.1?type=aar
+- pkg:maven/com.my.target/mytarget-sdk@5.12.2?type=aar

@@ -14,3 +14,5 @@
 - pkg:maven/org.docx4j/docx4j-samples-documents4j-remote@8.2.7?classifier=sources
 - pkg:maven/org.docx4j/docx4j-samples-documents4j-remote@8.2.8
 - pkg:maven/org.docx4j/docx4j-samples-documents4j-remote@8.2.8?classifier=sources
+- pkg:maven/org.docx4j/docx4j-samples-documents4j-remote@8.2.9
+- pkg:maven/org.docx4j/docx4j-samples-documents4j-remote@8.2.9?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.jooq/jooq-scala_2.13@3.14.7?classifier=sources
 - pkg:maven/org.jooq/jooq-scala_2.13@3.14.8
 - pkg:maven/org.jooq/jooq-scala_2.13@3.14.8?classifier=sources
+- pkg:maven/org.jooq/jooq-scala_2.13@3.14.9
+- pkg:maven/org.jooq/jooq-scala_2.13@3.14.9?classifier=sources

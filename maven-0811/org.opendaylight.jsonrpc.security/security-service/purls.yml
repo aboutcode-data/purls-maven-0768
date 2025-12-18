@@ -1,3 +1,5 @@
+- pkg:maven/org.opendaylight.jsonrpc.security/security-service@1.10.0
+- pkg:maven/org.opendaylight.jsonrpc.security/security-service@1.10.0?classifier=sources
 - pkg:maven/org.opendaylight.jsonrpc.security/security-service@1.7.0
 - pkg:maven/org.opendaylight.jsonrpc.security/security-service@1.7.0?classifier=sources
 - pkg:maven/org.opendaylight.jsonrpc.security/security-service@1.7.1

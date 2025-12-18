@@ -122,3 +122,9 @@
 - pkg:maven/com.contrastsecurity/contrast-agent@3.8.1.18814?classifier=sources
 - pkg:maven/com.contrastsecurity/contrast-agent@3.8.2.19027
 - pkg:maven/com.contrastsecurity/contrast-agent@3.8.2.19027?classifier=sources
+- pkg:maven/com.contrastsecurity/contrast-agent@3.8.2.19262
+- pkg:maven/com.contrastsecurity/contrast-agent@3.8.2.19262?classifier=sources
+- pkg:maven/com.contrastsecurity/contrast-agent@3.8.3.19470
+- pkg:maven/com.contrastsecurity/contrast-agent@3.8.3.19470?classifier=sources
+- pkg:maven/com.contrastsecurity/contrast-agent@3.8.3.19749
+- pkg:maven/com.contrastsecurity/contrast-agent@3.8.3.19749?classifier=sources

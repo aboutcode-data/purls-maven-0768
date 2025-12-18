@@ -38,6 +38,9 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-smartadserver-mediation@7.0-7.2.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-smartadserver-mediation@7.1-7.2.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-smartadserver-mediation@7.10-7.6.1?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-smartadserver-mediation@7.11-7.6.1?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-smartadserver-mediation@7.12-7.6.1?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-smartadserver-mediation@7.13-7.6.1?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-smartadserver-mediation@7.2-7.2.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-smartadserver-mediation@7.3-7.2.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-smartadserver-mediation@7.3.1-7.2.0?type=aar

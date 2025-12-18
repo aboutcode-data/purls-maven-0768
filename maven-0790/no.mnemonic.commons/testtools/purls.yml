@@ -84,3 +84,7 @@
 - pkg:maven/no.mnemonic.commons/testtools@0.4.2?classifier=sources
 - pkg:maven/no.mnemonic.commons/testtools@0.4.3
 - pkg:maven/no.mnemonic.commons/testtools@0.4.3?classifier=sources
+- pkg:maven/no.mnemonic.commons/testtools@0.4.4
+- pkg:maven/no.mnemonic.commons/testtools@0.4.4?classifier=sources
+- pkg:maven/no.mnemonic.commons/testtools@0.4.5
+- pkg:maven/no.mnemonic.commons/testtools@0.4.5?classifier=sources

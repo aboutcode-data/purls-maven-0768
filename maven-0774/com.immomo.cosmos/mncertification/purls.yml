@@ -1,0 +1,4 @@
+- pkg:maven/com.immomo.cosmos/mncertification@2.0.1.20200825.1129?classifier=sources
+- pkg:maven/com.immomo.cosmos/mncertification@2.0.1.20200825.1129?type=aar
+- pkg:maven/com.immomo.cosmos/mncertification@2.0.1.20210427.1816?classifier=sources
+- pkg:maven/com.immomo.cosmos/mncertification@2.0.1.20210427.1816?type=aar

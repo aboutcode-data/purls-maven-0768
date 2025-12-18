@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/gulp-json-editor@2.5.3?classifier=sources
 - pkg:maven/org.webjars.npm/gulp-json-editor@2.5.4
 - pkg:maven/org.webjars.npm/gulp-json-editor@2.5.4?classifier=sources
+- pkg:maven/org.webjars.npm/gulp-json-editor@2.5.5
+- pkg:maven/org.webjars.npm/gulp-json-editor@2.5.5?classifier=sources

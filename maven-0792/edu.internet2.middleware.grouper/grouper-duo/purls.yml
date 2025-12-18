@@ -70,5 +70,13 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-duo@2.5.45?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-duo@2.5.46
 - pkg:maven/edu.internet2.middleware.grouper/grouper-duo@2.5.46?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-duo@2.5.47
+- pkg:maven/edu.internet2.middleware.grouper/grouper-duo@2.5.47?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-duo@2.5.48
+- pkg:maven/edu.internet2.middleware.grouper/grouper-duo@2.5.48?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-duo@2.5.49
+- pkg:maven/edu.internet2.middleware.grouper/grouper-duo@2.5.49?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-duo@2.5.50
+- pkg:maven/edu.internet2.middleware.grouper/grouper-duo@2.5.50?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-duo@2.5.9
 - pkg:maven/edu.internet2.middleware.grouper/grouper-duo@2.5.9?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.github.linus87/helper@1065
 - pkg:maven/io.github.linus87/helper@1065?classifier=sources
+- pkg:maven/io.github.linus87/helper@1131
+- pkg:maven/io.github.linus87/helper@1131?classifier=sources

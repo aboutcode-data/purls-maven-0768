@@ -400,6 +400,14 @@
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20210205-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20210305-1.31.0
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20210305-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20210315-1.31.0
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20210315-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20210322-1.31.0
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20210322-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20210406-1.31.0
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20210406-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20210421-1.31.0
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20210421-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev3-1.19.1
@@ -1548,6 +1556,8 @@
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1beta2-rev20210205-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1beta2-rev20210305-1.31.0
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1beta2-rev20210305-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1beta2-rev20210315-1.31.0
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1beta2-rev20210315-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1beta2-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1beta2-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1beta2-rev21-1.21.0

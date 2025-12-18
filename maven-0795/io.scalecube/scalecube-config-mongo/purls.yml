@@ -1,0 +1,2 @@
+- pkg:maven/io.scalecube/scalecube-config-mongo@0.4.16
+- pkg:maven/io.scalecube/scalecube-config-mongo@0.4.16?classifier=sources

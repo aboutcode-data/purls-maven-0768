@@ -2,3 +2,5 @@
 - pkg:maven/com.github.cioccarellia/ksprefs@2.2.3-sntp-test?type=aar
 - pkg:maven/com.github.cioccarellia/ksprefs@2.2.4?classifier=sources
 - pkg:maven/com.github.cioccarellia/ksprefs@2.2.4?type=aar
+- pkg:maven/com.github.cioccarellia/ksprefs@2.2.5?classifier=sources
+- pkg:maven/com.github.cioccarellia/ksprefs@2.2.5?type=aar

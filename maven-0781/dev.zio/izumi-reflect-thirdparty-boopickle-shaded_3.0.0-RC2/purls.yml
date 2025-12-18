@@ -1,0 +1,6 @@
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_3.0.0-RC2@1.0.0
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_3.0.0-RC2@1.0.0-M17
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_3.0.0-RC2@1.0.0-M17?classifier=sources
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_3.0.0-RC2@1.0.0?classifier=sources
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_3.0.0-RC2@1.1.0
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_3.0.0-RC2@1.1.0?classifier=sources

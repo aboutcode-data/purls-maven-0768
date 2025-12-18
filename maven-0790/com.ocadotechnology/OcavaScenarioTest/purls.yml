@@ -1,0 +1,4 @@
+- pkg:maven/com.ocadotechnology/OcavaScenarioTest@10.4
+- pkg:maven/com.ocadotechnology/OcavaScenarioTest@10.4?classifier=sources
+- pkg:maven/com.ocadotechnology/OcavaScenarioTest@10.8.17
+- pkg:maven/com.ocadotechnology/OcavaScenarioTest@10.8.17?classifier=sources

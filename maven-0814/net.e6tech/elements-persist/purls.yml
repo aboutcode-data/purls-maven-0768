@@ -519,6 +519,12 @@
 - pkg:maven/net.e6tech/elements-persist@2.6.20?classifier=sources
 - pkg:maven/net.e6tech/elements-persist@2.6.21
 - pkg:maven/net.e6tech/elements-persist@2.6.21?classifier=sources
+- pkg:maven/net.e6tech/elements-persist@2.6.22
+- pkg:maven/net.e6tech/elements-persist@2.6.22?classifier=sources
+- pkg:maven/net.e6tech/elements-persist@2.6.23
+- pkg:maven/net.e6tech/elements-persist@2.6.23?classifier=sources
+- pkg:maven/net.e6tech/elements-persist@2.6.24
+- pkg:maven/net.e6tech/elements-persist@2.6.24?classifier=sources
 - pkg:maven/net.e6tech/elements-persist@2.6.2?classifier=sources
 - pkg:maven/net.e6tech/elements-persist@2.6.3
 - pkg:maven/net.e6tech/elements-persist@2.6.3?classifier=sources

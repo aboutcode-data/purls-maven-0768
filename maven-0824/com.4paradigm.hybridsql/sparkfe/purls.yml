@@ -1,0 +1,2 @@
+- pkg:maven/com.4paradigm.hybridsql/sparkfe@0.1.1-SNAPSHOT-macos
+- pkg:maven/com.4paradigm.hybridsql/sparkfe@0.1.1-SNAPSHOT-macos?classifier=sources

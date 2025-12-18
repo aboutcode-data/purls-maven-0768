@@ -36,3 +36,9 @@
 - pkg:maven/com.softwaremill.sttp.client3/cats_2.11@3.1.6?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client3/cats_2.11@3.1.7
 - pkg:maven/com.softwaremill.sttp.client3/cats_2.11@3.1.7?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/cats_2.11@3.1.9
+- pkg:maven/com.softwaremill.sttp.client3/cats_2.11@3.1.9?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/cats_2.11@3.2.0
+- pkg:maven/com.softwaremill.sttp.client3/cats_2.11@3.2.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/cats_2.11@3.2.3
+- pkg:maven/com.softwaremill.sttp.client3/cats_2.11@3.2.3?classifier=sources

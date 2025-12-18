@@ -5,3 +5,4 @@
 - pkg:maven/org.wso2.org.apache.commons/commons-vfs2-project@2.2-wso2v5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.org.apache.commons/commons-vfs2-project@2.2-wso2v7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.org.apache.commons/commons-vfs2-project@2.2-wso2v8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.org.apache.commons/commons-vfs2-project@2.2-wso2v9?classifier=source-release&type=zip

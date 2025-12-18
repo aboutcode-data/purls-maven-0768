@@ -1,0 +1,17 @@
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@2.145.0?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@2.145.1?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@2.145.2?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@2.145.3?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@2.145.4?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@4.0.10.141?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@4.0.11.150?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@4.0.12.155?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@4.0.1?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@4.0.2?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@4.0.3?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@4.0.4?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@4.0.5?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@4.0.6.114?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@4.0.7.118?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@4.0.8.127?type=aar
+- pkg:maven/com.conviva.sdk/conviva-core-sdk@4.0.9.132?type=aar

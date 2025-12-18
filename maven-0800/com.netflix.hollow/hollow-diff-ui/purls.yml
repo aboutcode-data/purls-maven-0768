@@ -304,3 +304,5 @@
 - pkg:maven/com.netflix.hollow/hollow-diff-ui@5.2.5?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-diff-ui@6.0.0?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-diff-ui@6.1.0?classifier=sources
+- pkg:maven/com.netflix.hollow/hollow-diff-ui@6.1.1?classifier=sources
+- pkg:maven/com.netflix.hollow/hollow-diff-ui@6.1.2?classifier=sources

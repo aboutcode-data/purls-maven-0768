@@ -59,6 +59,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.feature@1.2.20
 - pkg:maven/org.apache.sling/org.apache.sling.feature@1.2.20?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.feature@1.2.20?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.feature@1.2.22
+- pkg:maven/org.apache.sling/org.apache.sling.feature@1.2.22?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.feature@1.2.22?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.feature@1.2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.feature@1.2.2?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.feature@1.2.4

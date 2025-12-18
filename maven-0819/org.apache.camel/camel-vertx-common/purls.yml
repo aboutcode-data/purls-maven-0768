@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel/camel-vertx-common@3.9.0
+- pkg:maven/org.apache.camel/camel-vertx-common@3.9.0?classifier=sources
