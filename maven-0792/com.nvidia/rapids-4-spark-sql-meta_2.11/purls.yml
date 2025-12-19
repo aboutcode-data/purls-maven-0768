@@ -6,3 +6,5 @@
 - pkg:maven/com.nvidia/rapids-4-spark-sql-meta_2.11@22.06.0?classifier=sources
 - pkg:maven/com.nvidia/rapids-4-spark-sql-meta_2.11@22.08.0
 - pkg:maven/com.nvidia/rapids-4-spark-sql-meta_2.11@22.08.0?classifier=sources
+- pkg:maven/com.nvidia/rapids-4-spark-sql-meta_2.11@22.10.0
+- pkg:maven/com.nvidia/rapids-4-spark-sql-meta_2.11@22.10.0?classifier=sources

@@ -102,6 +102,8 @@
 - pkg:maven/org.kie.kogito/data-index-storage-infinispan@1.29.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/data-index-storage-infinispan@1.3.0.Final
 - pkg:maven/org.kie.kogito/data-index-storage-infinispan@1.3.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/data-index-storage-infinispan@1.30.0.Final
+- pkg:maven/org.kie.kogito/data-index-storage-infinispan@1.30.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/data-index-storage-infinispan@1.4.0.Final
 - pkg:maven/org.kie.kogito/data-index-storage-infinispan@1.4.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/data-index-storage-infinispan@1.4.1.Final

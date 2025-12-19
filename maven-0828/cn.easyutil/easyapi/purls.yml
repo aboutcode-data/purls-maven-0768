@@ -96,3 +96,5 @@
 - pkg:maven/cn.easyutil/easyapi@0.8.6?classifier=sources
 - pkg:maven/cn.easyutil/easyapi@0.8.7
 - pkg:maven/cn.easyutil/easyapi@0.8.7?classifier=sources
+- pkg:maven/cn.easyutil/easyapi@0.8.8
+- pkg:maven/cn.easyutil/easyapi@0.8.8?classifier=sources

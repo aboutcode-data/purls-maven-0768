@@ -4,3 +4,5 @@
 - pkg:maven/cn.stylefeng.roses/expand-spring-boot-starter@7.2.3?classifier=sources
 - pkg:maven/cn.stylefeng.roses/expand-spring-boot-starter@7.2.4
 - pkg:maven/cn.stylefeng.roses/expand-spring-boot-starter@7.2.4?classifier=sources
+- pkg:maven/cn.stylefeng.roses/expand-spring-boot-starter@7.3.1
+- pkg:maven/cn.stylefeng.roses/expand-spring-boot-starter@7.3.1?classifier=sources

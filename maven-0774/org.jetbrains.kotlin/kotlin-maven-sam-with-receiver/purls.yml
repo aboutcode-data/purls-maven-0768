@@ -168,3 +168,7 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-maven-sam-with-receiver@1.7.20-RC
 - pkg:maven/org.jetbrains.kotlin/kotlin-maven-sam-with-receiver@1.7.20-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-maven-sam-with-receiver@1.7.20?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-maven-sam-with-receiver@1.7.21
+- pkg:maven/org.jetbrains.kotlin/kotlin-maven-sam-with-receiver@1.7.21?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-maven-sam-with-receiver@1.8.0-Beta
+- pkg:maven/org.jetbrains.kotlin/kotlin-maven-sam-with-receiver@1.8.0-Beta?classifier=sources

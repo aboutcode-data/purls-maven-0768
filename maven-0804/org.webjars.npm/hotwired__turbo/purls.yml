@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.npm/hotwired__turbo@7.2.0-beta.2?classifier=sources
 - pkg:maven/org.webjars.npm/hotwired__turbo@7.2.2
 - pkg:maven/org.webjars.npm/hotwired__turbo@7.2.2?classifier=sources
+- pkg:maven/org.webjars.npm/hotwired__turbo@7.2.4
+- pkg:maven/org.webjars.npm/hotwired__turbo@7.2.4?classifier=sources

@@ -10,3 +10,9 @@
 - pkg:maven/net.ripe.ipresource/ipresource@1.48?classifier=sources
 - pkg:maven/net.ripe.ipresource/ipresource@1.49
 - pkg:maven/net.ripe.ipresource/ipresource@1.49?classifier=sources
+- pkg:maven/net.ripe.ipresource/ipresource@1.50
+- pkg:maven/net.ripe.ipresource/ipresource@1.50?classifier=sources
+- pkg:maven/net.ripe.ipresource/ipresource@1.51
+- pkg:maven/net.ripe.ipresource/ipresource@1.51?classifier=sources
+- pkg:maven/net.ripe.ipresource/ipresource@1.52
+- pkg:maven/net.ripe.ipresource/ipresource@1.52?classifier=sources

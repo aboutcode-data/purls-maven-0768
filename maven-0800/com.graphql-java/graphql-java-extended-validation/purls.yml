@@ -42,3 +42,4 @@
 - pkg:maven/com.graphql-java/graphql-java-extended-validation@2022-09-26T05-10-53-46e2010?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-extended-validation@2022-09-26T06-25-14-671a939?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-extended-validation@2022-09-26T06-28-44-05a6d69?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-extended-validation@2022-11-13T03-20-30-06efd0a?classifier=sources

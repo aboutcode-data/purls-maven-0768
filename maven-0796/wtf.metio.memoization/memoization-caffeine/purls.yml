@@ -1,0 +1,2 @@
+- pkg:maven/wtf.metio.memoization/memoization-caffeine@2022.11.8
+- pkg:maven/wtf.metio.memoization/memoization-caffeine@2022.11.8?classifier=sources

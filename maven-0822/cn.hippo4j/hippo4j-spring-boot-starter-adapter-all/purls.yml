@@ -7,3 +7,8 @@
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-all@1.4.0-RC
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-all@1.4.0-alpha
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-all@1.4.1
+- pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-all@1.4.2
+- pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-all@1.4.2-alpha
+- pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-all@1.4.2-alpha.2
+- pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-all@1.4.3
+- pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-all@1.4.3-upgrade

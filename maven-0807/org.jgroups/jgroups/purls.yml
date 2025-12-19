@@ -469,3 +469,7 @@
 - pkg:maven/org.jgroups/jgroups@5.2.6.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@5.2.7.Final
 - pkg:maven/org.jgroups/jgroups@5.2.7.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@5.2.8.Final
+- pkg:maven/org.jgroups/jgroups@5.2.8.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@5.2.9.Final
+- pkg:maven/org.jgroups/jgroups@5.2.9.Final?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.faktorips/faktorips-model@22.6.3?classifier=sources
 - pkg:maven/org.faktorips/faktorips-model@22.6.4
 - pkg:maven/org.faktorips/faktorips-model@22.6.4?classifier=sources
+- pkg:maven/org.faktorips/faktorips-model@22.6.5
+- pkg:maven/org.faktorips/faktorips-model@22.6.5?classifier=sources

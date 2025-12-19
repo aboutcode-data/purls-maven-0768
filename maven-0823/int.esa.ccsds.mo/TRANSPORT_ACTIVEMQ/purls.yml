@@ -6,3 +6,5 @@
 - pkg:maven/int.esa.ccsds.mo/TRANSPORT_ACTIVEMQ@1.0?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/TRANSPORT_ACTIVEMQ@8.0
 - pkg:maven/int.esa.ccsds.mo/TRANSPORT_ACTIVEMQ@8.0?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/TRANSPORT_ACTIVEMQ@8.1
+- pkg:maven/int.esa.ccsds.mo/TRANSPORT_ACTIVEMQ@8.1?classifier=sources

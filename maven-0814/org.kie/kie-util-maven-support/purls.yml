@@ -40,3 +40,5 @@
 - pkg:maven/org.kie/kie-util-maven-support@8.28.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-util-maven-support@8.29.0.Final
 - pkg:maven/org.kie/kie-util-maven-support@8.29.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-util-maven-support@8.30.0.Final
+- pkg:maven/org.kie/kie-util-maven-support@8.30.0.Final?classifier=sources

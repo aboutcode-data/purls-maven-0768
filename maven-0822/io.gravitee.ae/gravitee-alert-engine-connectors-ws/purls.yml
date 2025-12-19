@@ -1,1 +1,2 @@
 - pkg:maven/io.gravitee.ae/gravitee-alert-engine-connectors-ws@1.0.0?classifier=sources
+- pkg:maven/io.gravitee.ae/gravitee-alert-engine-connectors-ws@2.0.0-alpha.1?classifier=sources

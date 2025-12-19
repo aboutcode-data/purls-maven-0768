@@ -1,1 +1,2 @@
 - pkg:maven/tech.skot.libraries.sk-security/viewmodelTests@0.0.0_1.1.72?classifier=sources
+- pkg:maven/tech.skot.libraries.sk-security/viewmodelTests@0.0.1_1.1.78?classifier=sources

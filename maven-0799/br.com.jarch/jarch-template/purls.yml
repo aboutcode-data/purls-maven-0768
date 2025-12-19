@@ -114,6 +114,8 @@
 - pkg:maven/br.com.jarch/jarch-template@21.9.0?type=war
 - pkg:maven/br.com.jarch/jarch-template@22.1.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-template@22.1.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@22.10.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@22.10.0?type=war
 - pkg:maven/br.com.jarch/jarch-template@22.3.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-template@22.3.0?type=war
 - pkg:maven/br.com.jarch/jarch-template@22.5.2?classifier=sources
@@ -124,3 +126,5 @@
 - pkg:maven/br.com.jarch/jarch-template@22.7.0?type=war
 - pkg:maven/br.com.jarch/jarch-template@22.8.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-template@22.8.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@22.9.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@22.9.0?type=war

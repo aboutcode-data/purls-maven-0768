@@ -1,0 +1,2 @@
+- pkg:maven/com.letxgo/slf4j-spring-boot-starter@2.1.1
+- pkg:maven/com.letxgo/slf4j-spring-boot-starter@2.1.1?classifier=sources

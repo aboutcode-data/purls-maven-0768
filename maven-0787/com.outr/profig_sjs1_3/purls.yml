@@ -28,3 +28,5 @@
 - pkg:maven/com.outr/profig_sjs1_3@3.4.2?classifier=sources
 - pkg:maven/com.outr/profig_sjs1_3@3.4.3
 - pkg:maven/com.outr/profig_sjs1_3@3.4.3?classifier=sources
+- pkg:maven/com.outr/profig_sjs1_3@3.4.4
+- pkg:maven/com.outr/profig_sjs1_3@3.4.4?classifier=sources

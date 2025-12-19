@@ -1,0 +1,2 @@
+- pkg:maven/io.err0/err0-log4j2@1.0.4?classifier=sources
+- pkg:maven/io.err0/err0-log4j2@1.1.0?classifier=sources

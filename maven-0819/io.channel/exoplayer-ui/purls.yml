@@ -1,3 +1,5 @@
 - pkg:maven/io.channel/exoplayer-ui@2.9.6-patch1?type=aar
 - pkg:maven/io.channel/exoplayer-ui@2.9.6-patch2?type=aar
+- pkg:maven/io.channel/exoplayer-ui@2.9.6-patch3?type=aar
+- pkg:maven/io.channel/exoplayer-ui@2.9.6-patch4?type=aar
 - pkg:maven/io.channel/exoplayer-ui@2.9.6?type=aar

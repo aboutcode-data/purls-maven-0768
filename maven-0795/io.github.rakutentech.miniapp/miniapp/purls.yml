@@ -16,3 +16,5 @@
 - pkg:maven/io.github.rakutentech.miniapp/miniapp@4.1.2?classifier=sources
 - pkg:maven/io.github.rakutentech.miniapp/miniapp@4.2.0?classifier=sources
 - pkg:maven/io.github.rakutentech.miniapp/miniapp@4.3.0?classifier=sources
+- pkg:maven/io.github.rakutentech.miniapp/miniapp@5.0.0?classifier=sources
+- pkg:maven/io.github.rakutentech.miniapp/miniapp@5.0.1?classifier=sources

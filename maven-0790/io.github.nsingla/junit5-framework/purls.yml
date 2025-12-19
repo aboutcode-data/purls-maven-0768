@@ -1,0 +1,6 @@
+- pkg:maven/io.github.nsingla/junit5-framework@2.0.0
+- pkg:maven/io.github.nsingla/junit5-framework@2.0.0?classifier=sources
+- pkg:maven/io.github.nsingla/junit5-framework@2.1.0
+- pkg:maven/io.github.nsingla/junit5-framework@2.1.0?classifier=sources
+- pkg:maven/io.github.nsingla/junit5-framework@2.1.1
+- pkg:maven/io.github.nsingla/junit5-framework@2.1.1?classifier=sources

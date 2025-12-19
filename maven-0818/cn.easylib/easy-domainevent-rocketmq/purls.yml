@@ -1,0 +1,2 @@
+- pkg:maven/cn.easylib/easy-domainevent-rocketmq@1.5
+- pkg:maven/cn.easylib/easy-domainevent-rocketmq@1.5?classifier=sources

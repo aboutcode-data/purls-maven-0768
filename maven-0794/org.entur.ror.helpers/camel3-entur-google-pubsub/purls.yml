@@ -14,3 +14,5 @@
 - pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.84?classifier=sources
 - pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.85
 - pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.85?classifier=sources
+- pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.86
+- pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.86?classifier=sources

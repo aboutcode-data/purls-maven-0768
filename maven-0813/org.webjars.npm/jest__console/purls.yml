@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/jest__console@24.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/jest__console@24.7.1
 - pkg:maven/org.webjars.npm/jest__console@24.7.1?classifier=sources
+- pkg:maven/org.webjars.npm/jest__console@29.3.1
+- pkg:maven/org.webjars.npm/jest__console@29.3.1?classifier=sources

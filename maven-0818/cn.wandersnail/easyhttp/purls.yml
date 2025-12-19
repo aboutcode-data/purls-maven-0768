@@ -38,3 +38,7 @@
 - pkg:maven/cn.wandersnail/easyhttp@2.2.0?type=aar
 - pkg:maven/cn.wandersnail/easyhttp@2.3.0?classifier=sources
 - pkg:maven/cn.wandersnail/easyhttp@2.3.0?type=aar
+- pkg:maven/cn.wandersnail/easyhttp@2.4.0?classifier=sources
+- pkg:maven/cn.wandersnail/easyhttp@2.4.0?type=aar
+- pkg:maven/cn.wandersnail/easyhttp@2.4.1?classifier=sources
+- pkg:maven/cn.wandersnail/easyhttp@2.4.1?type=aar

@@ -5,3 +5,5 @@
 - pkg:maven/org.glavo.kala/kala-jackson@0.52.0?classifier=sources
 - pkg:maven/org.glavo.kala/kala-jackson@0.53.0?classifier=sources
 - pkg:maven/org.glavo.kala/kala-jackson@0.54.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-jackson@0.55.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-jackson@0.56.0?classifier=sources

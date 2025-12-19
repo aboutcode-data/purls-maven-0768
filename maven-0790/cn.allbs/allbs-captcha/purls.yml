@@ -12,3 +12,5 @@
 - pkg:maven/cn.allbs/allbs-captcha@1.1.6?classifier=sources
 - pkg:maven/cn.allbs/allbs-captcha@1.1.7
 - pkg:maven/cn.allbs/allbs-captcha@1.1.7?classifier=sources
+- pkg:maven/cn.allbs/allbs-captcha@1.1.8
+- pkg:maven/cn.allbs/allbs-captcha@1.1.8?classifier=sources

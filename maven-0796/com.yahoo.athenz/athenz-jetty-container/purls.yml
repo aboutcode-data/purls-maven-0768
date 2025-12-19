@@ -90,6 +90,8 @@
 - pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.53?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.54
 - pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.54?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.55
+- pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.55?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.7
 - pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.7?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-jetty-container@1.10.8

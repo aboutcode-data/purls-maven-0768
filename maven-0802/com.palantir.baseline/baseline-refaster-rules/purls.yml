@@ -373,6 +373,9 @@
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.179.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.18.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.180.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.181.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.182.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.183.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.19.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.2.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.20.0?classifier=sources

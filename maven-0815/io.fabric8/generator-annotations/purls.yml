@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8/generator-annotations@6.2.0
+- pkg:maven/io.fabric8/generator-annotations@6.2.0?classifier=sources

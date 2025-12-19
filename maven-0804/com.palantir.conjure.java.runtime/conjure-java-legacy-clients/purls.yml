@@ -32,6 +32,7 @@
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-legacy-clients@7.36.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-legacy-clients@7.37.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-legacy-clients@7.38.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-legacy-clients@7.39.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-legacy-clients@7.4.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-legacy-clients@7.5.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-legacy-clients@7.6.0?classifier=sources

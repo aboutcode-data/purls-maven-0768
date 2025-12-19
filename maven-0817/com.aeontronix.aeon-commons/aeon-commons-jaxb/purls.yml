@@ -14,3 +14,5 @@
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-jaxb@2.0.0-beta7?classifier=sources
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-jaxb@2.0.0-beta8
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-jaxb@2.0.0-beta8?classifier=sources
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-jaxb@2.0.0-beta9
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-jaxb@2.0.0-beta9?classifier=sources

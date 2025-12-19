@@ -53,3 +53,7 @@
 - pkg:maven/org.membrane-soa/service-proxy-annot@4.8.7?classifier=sources
 - pkg:maven/org.membrane-soa/service-proxy-annot@4.8.8
 - pkg:maven/org.membrane-soa/service-proxy-annot@4.8.8?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-annot@4.9.0
+- pkg:maven/org.membrane-soa/service-proxy-annot@4.9.0?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-annot@4.9.1
+- pkg:maven/org.membrane-soa/service-proxy-annot@4.9.1?classifier=sources

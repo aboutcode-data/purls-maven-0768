@@ -22,3 +22,9 @@
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-http-log-autoconfigure@1.0.44?classifier=sources
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-http-log-autoconfigure@1.0.45
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-http-log-autoconfigure@1.0.45?classifier=sources
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-http-log-autoconfigure@1.0.47
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-http-log-autoconfigure@1.0.47?classifier=sources
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-http-log-autoconfigure@1.0.48
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-http-log-autoconfigure@1.0.48?classifier=sources
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-http-log-autoconfigure@v1.0.46
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-http-log-autoconfigure@v1.0.46?classifier=sources

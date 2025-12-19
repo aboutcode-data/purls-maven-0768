@@ -34,6 +34,8 @@
 - pkg:maven/io.agora.rtc/full-headers@3.7.0.2
 - pkg:maven/io.agora.rtc/full-headers@3.7.0.3
 - pkg:maven/io.agora.rtc/full-headers@3.7.1
+- pkg:maven/io.agora.rtc/full-headers@3.7.2
+- pkg:maven/io.agora.rtc/full-headers@3.7.2.1
 - pkg:maven/io.agora.rtc/full-headers@3.7.201
 - pkg:maven/io.agora.rtc/full-headers@4.0.0-rc.1
 - pkg:maven/io.agora.rtc/full-headers@4.0.0.3

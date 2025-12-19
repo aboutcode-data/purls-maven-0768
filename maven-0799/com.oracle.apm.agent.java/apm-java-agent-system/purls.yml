@@ -4,3 +4,5 @@
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-system@1.6.2363?classifier=sources
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-system@1.7.2733
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-system@1.7.2733?classifier=sources
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-system@1.7.2976
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-system@1.7.2976?classifier=sources

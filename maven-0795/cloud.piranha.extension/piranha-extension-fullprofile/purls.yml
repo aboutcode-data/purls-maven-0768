@@ -1,0 +1,2 @@
+- pkg:maven/cloud.piranha.extension/piranha-extension-fullprofile@22.10.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-fullprofile@22.10.0?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/io.github.tabarakmohammed/ticktackorm@0-1-1-beta
+- pkg:maven/io.github.tabarakmohammed/ticktackorm@0-1-1-beta?classifier=sources
+- pkg:maven/io.github.tabarakmohammed/ticktackorm@0.0.1
+- pkg:maven/io.github.tabarakmohammed/ticktackorm@0.0.1?classifier=sources
+- pkg:maven/io.github.tabarakmohammed/ticktackorm@001
+- pkg:maven/io.github.tabarakmohammed/ticktackorm@001?classifier=sources
+- pkg:maven/io.github.tabarakmohammed/ticktackorm@001beta
+- pkg:maven/io.github.tabarakmohammed/ticktackorm@001beta?classifier=sources
+- pkg:maven/io.github.tabarakmohammed/ticktackorm@011
+- pkg:maven/io.github.tabarakmohammed/ticktackorm@011?classifier=sources
+- pkg:maven/io.github.tabarakmohammed/ticktackorm@1.0-Beta
+- pkg:maven/io.github.tabarakmohammed/ticktackorm@1.0-Beta?classifier=sources

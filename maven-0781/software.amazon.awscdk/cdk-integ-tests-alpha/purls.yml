@@ -78,3 +78,17 @@
 - pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.45.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.46.0-alpha.0
 - pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.46.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.47.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.47.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.48.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.48.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.49.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.49.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.49.1-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.49.1-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.50.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.50.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.51.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.51.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.51.1-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-integ-tests-alpha@2.51.1-alpha.0?classifier=sources

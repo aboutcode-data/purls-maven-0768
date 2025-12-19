@@ -2,5 +2,9 @@
 - pkg:maven/org.webjars.npm/tiptap__core@2.0.0-beta.143?classifier=sources
 - pkg:maven/org.webjars.npm/tiptap__core@2.0.0-beta.174
 - pkg:maven/org.webjars.npm/tiptap__core@2.0.0-beta.174?classifier=sources
+- pkg:maven/org.webjars.npm/tiptap__core@2.0.0-beta.199
+- pkg:maven/org.webjars.npm/tiptap__core@2.0.0-beta.199?classifier=sources
+- pkg:maven/org.webjars.npm/tiptap__core@2.0.0-beta.202
+- pkg:maven/org.webjars.npm/tiptap__core@2.0.0-beta.202?classifier=sources
 - pkg:maven/org.webjars.npm/tiptap__core@2.0.0-beta.99
 - pkg:maven/org.webjars.npm/tiptap__core@2.0.0-beta.99?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.roofroot/photo_select_lib@1.0.0?classifier=sources
+- pkg:maven/io.github.roofroot/photo_select_lib@1.0?classifier=sources

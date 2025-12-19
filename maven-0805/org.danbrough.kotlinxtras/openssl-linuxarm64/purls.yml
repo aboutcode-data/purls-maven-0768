@@ -1,3 +1,5 @@
 - pkg:maven/org.danbrough.kotlinxtras/openssl-linuxarm64@0.0.1-beta02?classifier=sources
 - pkg:maven/org.danbrough.kotlinxtras/openssl-linuxarm64@0.0.1-beta04?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras/openssl-linuxarm64@1_1_1r?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras/openssl-linuxarm64@1_1_1s?classifier=sources
 - pkg:maven/org.danbrough.kotlinxtras/openssl-linuxarm64@OpenSSL_1_1_1q?classifier=sources

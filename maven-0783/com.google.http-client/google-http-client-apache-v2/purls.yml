@@ -64,3 +64,5 @@
 - pkg:maven/com.google.http-client/google-http-client-apache-v2@1.42.1?classifier=sources
 - pkg:maven/com.google.http-client/google-http-client-apache-v2@1.42.2
 - pkg:maven/com.google.http-client/google-http-client-apache-v2@1.42.2?classifier=sources
+- pkg:maven/com.google.http-client/google-http-client-apache-v2@1.42.3
+- pkg:maven/com.google.http-client/google-http-client-apache-v2@1.42.3?classifier=sources

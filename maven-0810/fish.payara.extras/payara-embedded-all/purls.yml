@@ -77,6 +77,7 @@
 - pkg:maven/fish.payara.extras/payara-embedded-all@5.2022.1?classifier=sources
 - pkg:maven/fish.payara.extras/payara-embedded-all@5.2022.2?classifier=sources
 - pkg:maven/fish.payara.extras/payara-embedded-all@5.2022.3?classifier=sources
+- pkg:maven/fish.payara.extras/payara-embedded-all@5.2022.4?classifier=sources
 - pkg:maven/fish.payara.extras/payara-embedded-all@5.Beta1
 - pkg:maven/fish.payara.extras/payara-embedded-all@5.Beta1?classifier=sources
 - pkg:maven/fish.payara.extras/payara-embedded-all@5.Beta2
@@ -85,3 +86,4 @@
 - pkg:maven/fish.payara.extras/payara-embedded-all@6.2022.1.Alpha2?classifier=sources
 - pkg:maven/fish.payara.extras/payara-embedded-all@6.2022.1.Alpha3?classifier=sources
 - pkg:maven/fish.payara.extras/payara-embedded-all@6.2022.1.Alpha4?classifier=sources
+- pkg:maven/fish.payara.extras/payara-embedded-all@6.2022.1?classifier=sources

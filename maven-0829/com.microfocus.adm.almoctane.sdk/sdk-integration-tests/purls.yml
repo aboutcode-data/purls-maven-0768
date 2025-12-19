@@ -9,3 +9,4 @@
 - pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-integration-tests@16.0.300
 - pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-integration-tests@16.0.400
 - pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-integration-tests@16.0.400.1
+- pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-integration-tests@16.1.100

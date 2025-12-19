@@ -1,2 +1,6 @@
 - pkg:maven/de.fraunhofer.iosb.ilt/FROST-Manager@0.7
 - pkg:maven/de.fraunhofer.iosb.ilt/FROST-Manager@0.7?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt/FROST-Manager@0.8
+- pkg:maven/de.fraunhofer.iosb.ilt/FROST-Manager@0.8?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt/FROST-Manager@0.9
+- pkg:maven/de.fraunhofer.iosb.ilt/FROST-Manager@0.9?classifier=sources

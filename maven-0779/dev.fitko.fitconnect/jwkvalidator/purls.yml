@@ -1,0 +1,2 @@
+- pkg:maven/dev.fitko.fitconnect/jwkvalidator@1.4.0
+- pkg:maven/dev.fitko.fitconnect/jwkvalidator@1.4.0?classifier=sources

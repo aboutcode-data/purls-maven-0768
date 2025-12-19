@@ -1,1 +1,2 @@
 - pkg:maven/com.wl4g/infra-common-java11@3.0.0
+- pkg:maven/com.wl4g/infra-common-java11@3.0.0?classifier=sources

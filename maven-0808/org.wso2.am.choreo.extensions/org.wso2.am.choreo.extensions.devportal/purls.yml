@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.devportal@1.0.99
+- pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.devportal@1.0.99?classifier=sources

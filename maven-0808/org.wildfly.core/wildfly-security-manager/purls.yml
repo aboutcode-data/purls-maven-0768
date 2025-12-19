@@ -200,6 +200,12 @@
 - pkg:maven/org.wildfly.core/wildfly-security-manager@19.0.0.Beta8?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-security-manager@19.0.0.Beta9
 - pkg:maven/org.wildfly.core/wildfly-security-manager@19.0.0.Beta9?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-security-manager@19.0.0.Final
+- pkg:maven/org.wildfly.core/wildfly-security-manager@19.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-security-manager@20.0.0.Beta1
+- pkg:maven/org.wildfly.core/wildfly-security-manager@20.0.0.Beta1?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-security-manager@20.0.0.Beta2
+- pkg:maven/org.wildfly.core/wildfly-security-manager@20.0.0.Beta2?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-security-manager@3.0.0.Alpha14
 - pkg:maven/org.wildfly.core/wildfly-security-manager@3.0.0.Alpha14?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-security-manager@3.0.0.Alpha15

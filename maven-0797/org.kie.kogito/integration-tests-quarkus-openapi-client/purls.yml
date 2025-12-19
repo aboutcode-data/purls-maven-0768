@@ -32,3 +32,5 @@
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-openapi-client@1.28.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-openapi-client@1.29.0.Final
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-openapi-client@1.29.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-openapi-client@1.30.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-openapi-client@1.30.0.Final?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/dev.akkinoc.util/yaml-resource-bundle@2.7.0?classifier=sources
 - pkg:maven/dev.akkinoc.util/yaml-resource-bundle@2.7.1
 - pkg:maven/dev.akkinoc.util/yaml-resource-bundle@2.7.1?classifier=sources
+- pkg:maven/dev.akkinoc.util/yaml-resource-bundle@2.7.2
+- pkg:maven/dev.akkinoc.util/yaml-resource-bundle@2.7.2?classifier=sources

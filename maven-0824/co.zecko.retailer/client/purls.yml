@@ -1,0 +1,6 @@
+- pkg:maven/co.zecko.retailer/client@0.0.1-RELEASE
+- pkg:maven/co.zecko.retailer/client@0.0.1-RELEASE?classifier=sources
+- pkg:maven/co.zecko.retailer/client@0.0.2-RELEASE
+- pkg:maven/co.zecko.retailer/client@0.0.2-RELEASE?classifier=sources
+- pkg:maven/co.zecko.retailer/client@0.0.3-RELEASE
+- pkg:maven/co.zecko.retailer/client@0.0.3-RELEASE?classifier=sources

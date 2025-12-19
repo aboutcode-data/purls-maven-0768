@@ -10,3 +10,8 @@
 - pkg:maven/app.cash.wisp/wisp-aws-environment@1.0.7?classifier=sources
 - pkg:maven/app.cash.wisp/wisp-aws-environment@1.0.8?classifier=sources
 - pkg:maven/app.cash.wisp/wisp-aws-environment@1.0.9?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-aws-environment@1.1.0?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-aws-environment@1.2.0?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-aws-environment@1.2.1?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-aws-environment@1.2.2?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-aws-environment@1.2.3?classifier=sources

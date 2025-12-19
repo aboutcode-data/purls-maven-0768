@@ -21,3 +21,7 @@
 - pkg:maven/tv.hd3g.commons/codepolicyvalidation@1.0.3?classifier=sources
 - pkg:maven/tv.hd3g.commons/codepolicyvalidation@1.0.4
 - pkg:maven/tv.hd3g.commons/codepolicyvalidation@1.0.4?classifier=sources
+- pkg:maven/tv.hd3g.commons/codepolicyvalidation@1.1.0
+- pkg:maven/tv.hd3g.commons/codepolicyvalidation@1.1.0?classifier=sources
+- pkg:maven/tv.hd3g.commons/codepolicyvalidation@2.0.0
+- pkg:maven/tv.hd3g.commons/codepolicyvalidation@2.0.0?classifier=sources

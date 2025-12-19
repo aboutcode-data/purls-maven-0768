@@ -2,3 +2,5 @@
 - pkg:maven/com.github.zhycn/muyie-starter-mybatis@1.2.11?classifier=sources
 - pkg:maven/com.github.zhycn/muyie-starter-mybatis@1.2.12
 - pkg:maven/com.github.zhycn/muyie-starter-mybatis@1.2.12?classifier=sources
+- pkg:maven/com.github.zhycn/muyie-starter-mybatis@1.3.0
+- pkg:maven/com.github.zhycn/muyie-starter-mybatis@1.3.0?classifier=sources

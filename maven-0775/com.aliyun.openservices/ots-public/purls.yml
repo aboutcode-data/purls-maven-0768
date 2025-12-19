@@ -4,6 +4,8 @@
 - pkg:maven/com.aliyun.openservices/ots-public@2.1.2
 - pkg:maven/com.aliyun.openservices/ots-public@2.1.2?classifier=sources
 - pkg:maven/com.aliyun.openservices/ots-public@2.1?classifier=sources
+- pkg:maven/com.aliyun.openservices/ots-public@2.2.10
+- pkg:maven/com.aliyun.openservices/ots-public@2.2.10?classifier=sources
 - pkg:maven/com.aliyun.openservices/ots-public@2.2.2
 - pkg:maven/com.aliyun.openservices/ots-public@2.2.2?classifier=sources
 - pkg:maven/com.aliyun.openservices/ots-public@2.2.3
@@ -18,3 +20,5 @@
 - pkg:maven/com.aliyun.openservices/ots-public@2.2.7?classifier=sources
 - pkg:maven/com.aliyun.openservices/ots-public@2.2.8-no-notify
 - pkg:maven/com.aliyun.openservices/ots-public@2.2.8-no-notify?classifier=sources
+- pkg:maven/com.aliyun.openservices/ots-public@2.2.9
+- pkg:maven/com.aliyun.openservices/ots-public@2.2.9?classifier=sources

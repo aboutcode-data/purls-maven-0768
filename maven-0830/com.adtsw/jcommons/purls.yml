@@ -18,6 +18,10 @@
 - pkg:maven/com.adtsw/jcommons@1.0.1?classifier=sources
 - pkg:maven/com.adtsw/jcommons@1.0.20
 - pkg:maven/com.adtsw/jcommons@1.0.20?classifier=sources
+- pkg:maven/com.adtsw/jcommons@1.0.21
+- pkg:maven/com.adtsw/jcommons@1.0.21?classifier=sources
+- pkg:maven/com.adtsw/jcommons@1.0.22
+- pkg:maven/com.adtsw/jcommons@1.0.22?classifier=sources
 - pkg:maven/com.adtsw/jcommons@1.0.4
 - pkg:maven/com.adtsw/jcommons@1.0.4?classifier=sources
 - pkg:maven/com.adtsw/jcommons@1.0.5

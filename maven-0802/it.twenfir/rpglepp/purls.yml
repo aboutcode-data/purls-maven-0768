@@ -1,0 +1,2 @@
+- pkg:maven/it.twenfir/rpglepp@0.0.1
+- pkg:maven/it.twenfir/rpglepp@0.0.1?classifier=sources

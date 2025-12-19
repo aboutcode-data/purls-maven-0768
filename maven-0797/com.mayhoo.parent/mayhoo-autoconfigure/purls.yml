@@ -1,0 +1,2 @@
+- pkg:maven/com.mayhoo.parent/mayhoo-autoconfigure@2.7.5
+- pkg:maven/com.mayhoo.parent/mayhoo-autoconfigure@2.7.5?classifier=sources

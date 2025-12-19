@@ -1,1 +1,6 @@
+- pkg:maven/io.dyte/shared-android-debug@1.4.0-staging.2?classifier=sources
 - pkg:maven/io.dyte/shared-android-debug@1.4.0?classifier=sources
+- pkg:maven/io.dyte/shared-android-debug@1.5.0-staging.2?classifier=sources
+- pkg:maven/io.dyte/shared-android-debug@1.5.0-staging.3?classifier=sources
+- pkg:maven/io.dyte/shared-android-debug@1.6.0?classifier=sources
+- pkg:maven/io.dyte/shared-android-debug@1.7.0?classifier=sources

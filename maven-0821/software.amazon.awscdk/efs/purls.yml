@@ -298,8 +298,16 @@
 - pkg:maven/software.amazon.awscdk/efs@1.176.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/efs@1.177.0
 - pkg:maven/software.amazon.awscdk/efs@1.177.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/efs@1.178.0
+- pkg:maven/software.amazon.awscdk/efs@1.178.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/efs@1.179.0
+- pkg:maven/software.amazon.awscdk/efs@1.179.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/efs@1.18.0
 - pkg:maven/software.amazon.awscdk/efs@1.18.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/efs@1.180.0
+- pkg:maven/software.amazon.awscdk/efs@1.180.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/efs@1.181.0
+- pkg:maven/software.amazon.awscdk/efs@1.181.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/efs@1.19.0
 - pkg:maven/software.amazon.awscdk/efs@1.19.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/efs@1.2.0.DEVPREVIEW

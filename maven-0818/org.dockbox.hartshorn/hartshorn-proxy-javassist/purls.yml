@@ -1,1 +1,2 @@
 - pkg:maven/org.dockbox.hartshorn/hartshorn-proxy-javassist@22.4?classifier=sources
+- pkg:maven/org.dockbox.hartshorn/hartshorn-proxy-javassist@22.5?classifier=sources

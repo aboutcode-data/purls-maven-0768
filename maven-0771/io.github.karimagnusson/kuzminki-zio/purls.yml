@@ -16,3 +16,5 @@
 - pkg:maven/io.github.karimagnusson/kuzminki-zio@0.9.4-RC2?classifier=sources
 - pkg:maven/io.github.karimagnusson/kuzminki-zio@0.9.4-RC3
 - pkg:maven/io.github.karimagnusson/kuzminki-zio@0.9.4-RC3?classifier=sources
+- pkg:maven/io.github.karimagnusson/kuzminki-zio@0.9.4-RC4
+- pkg:maven/io.github.karimagnusson/kuzminki-zio@0.9.4-RC4?classifier=sources

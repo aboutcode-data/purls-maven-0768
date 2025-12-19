@@ -1,0 +1,2 @@
+- pkg:maven/sh.almond/scala-kernel_2.13.10@0.13.2
+- pkg:maven/sh.almond/scala-kernel_2.13.10@0.13.2?classifier=sources

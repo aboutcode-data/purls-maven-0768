@@ -78,3 +78,5 @@
 - pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend-cats-ce2_2.12@3.8.1?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend-cats-ce2_2.12@3.8.2
 - pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend-cats-ce2_2.12@3.8.2?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend-cats-ce2_2.12@3.8.3
+- pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend-cats-ce2_2.12@3.8.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.phasetwo.keycloak/keycloak-orgs@0.2
+- pkg:maven/io.phasetwo.keycloak/keycloak-orgs@0.2?classifier=sources

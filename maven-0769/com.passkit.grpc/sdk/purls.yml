@@ -12,3 +12,5 @@
 - pkg:maven/com.passkit.grpc/sdk@1.1.47?classifier=sources
 - pkg:maven/com.passkit.grpc/sdk@1.1.61
 - pkg:maven/com.passkit.grpc/sdk@1.1.61?classifier=sources
+- pkg:maven/com.passkit.grpc/sdk@1.1.70
+- pkg:maven/com.passkit.grpc/sdk@1.1.70?classifier=sources

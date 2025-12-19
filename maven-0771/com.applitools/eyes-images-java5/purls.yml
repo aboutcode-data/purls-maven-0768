@@ -1,0 +1,2 @@
+- pkg:maven/com.applitools/eyes-images-java5@5.35.0
+- pkg:maven/com.applitools/eyes-images-java5@5.35.0?classifier=sources

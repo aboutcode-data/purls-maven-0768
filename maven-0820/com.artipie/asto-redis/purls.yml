@@ -4,3 +4,5 @@
 - pkg:maven/com.artipie/asto-redis@v1.13.0?classifier=sources
 - pkg:maven/com.artipie/asto-redis@v1.14.0
 - pkg:maven/com.artipie/asto-redis@v1.14.0?classifier=sources
+- pkg:maven/com.artipie/asto-redis@v1.14.1
+- pkg:maven/com.artipie/asto-redis@v1.14.1?classifier=sources

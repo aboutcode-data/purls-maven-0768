@@ -1,2 +1,4 @@
 - pkg:maven/cz.vutbr.fit.layout/fitlayout-patterns@2.0.2
 - pkg:maven/cz.vutbr.fit.layout/fitlayout-patterns@2.0.2?classifier=sources
+- pkg:maven/cz.vutbr.fit.layout/fitlayout-patterns@2.0.3
+- pkg:maven/cz.vutbr.fit.layout/fitlayout-patterns@2.0.3?classifier=sources

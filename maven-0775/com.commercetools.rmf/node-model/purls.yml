@@ -13,3 +13,7 @@
 - pkg:maven/com.commercetools.rmf/node-model@0.2.0-20220503190321?classifier=sources
 - pkg:maven/com.commercetools.rmf/node-model@0.2.0-20220914193841?classifier=sources
 - pkg:maven/com.commercetools.rmf/node-model@0.2.0-20220920092522?classifier=sources
+- pkg:maven/com.commercetools.rmf/node-model@0.2.0-20221007124649?classifier=sources
+- pkg:maven/com.commercetools.rmf/node-model@0.2.0-20221007193425?classifier=sources
+- pkg:maven/com.commercetools.rmf/node-model@0.2.0-20221013103753?classifier=sources
+- pkg:maven/com.commercetools.rmf/node-model@0.2.0-20221109205535?classifier=sources

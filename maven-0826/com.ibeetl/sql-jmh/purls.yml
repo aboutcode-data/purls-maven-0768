@@ -31,6 +31,12 @@
 - pkg:maven/com.ibeetl/sql-jmh@3.18.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-jmh@3.19.0-RELEASE
 - pkg:maven/com.ibeetl/sql-jmh@3.19.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-jmh@3.19.1-RELEASE
+- pkg:maven/com.ibeetl/sql-jmh@3.19.1-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-jmh@3.19.2-RELEASE
+- pkg:maven/com.ibeetl/sql-jmh@3.19.2-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-jmh@3.19.3-RELEASE
+- pkg:maven/com.ibeetl/sql-jmh@3.19.3-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-jmh@3.2.6-RELEASE
 - pkg:maven/com.ibeetl/sql-jmh@3.2.6-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-jmh@3.2.7-RELEASE

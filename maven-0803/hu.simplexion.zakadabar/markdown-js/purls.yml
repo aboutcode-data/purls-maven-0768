@@ -1,3 +1,5 @@
+- pkg:maven/hu.simplexion.zakadabar/markdown-js@2022.10.19?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/markdown-js@2022.11.9?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/markdown-js@2022.2.25?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/markdown-js@2022.3.21?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/markdown-js@2022.3.23?classifier=sources

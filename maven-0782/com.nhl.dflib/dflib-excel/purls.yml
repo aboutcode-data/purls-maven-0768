@@ -1,2 +1,6 @@
 - pkg:maven/com.nhl.dflib/dflib-excel@0.13
 - pkg:maven/com.nhl.dflib/dflib-excel@0.13?classifier=sources
+- pkg:maven/com.nhl.dflib/dflib-excel@0.14
+- pkg:maven/com.nhl.dflib/dflib-excel@0.14?classifier=sources
+- pkg:maven/com.nhl.dflib/dflib-excel@0.15
+- pkg:maven/com.nhl.dflib/dflib-excel@0.15?classifier=sources

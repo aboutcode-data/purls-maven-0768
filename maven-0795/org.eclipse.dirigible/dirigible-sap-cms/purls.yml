@@ -289,6 +289,8 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-sap-cms@6.3.25?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-sap-cms@6.3.26
 - pkg:maven/org.eclipse.dirigible/dirigible-sap-cms@6.3.26?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-sap-cms@6.3.27
+- pkg:maven/org.eclipse.dirigible/dirigible-sap-cms@6.3.27?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-sap-cms@6.3.2?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-sap-cms@6.3.3
 - pkg:maven/org.eclipse.dirigible/dirigible-sap-cms@6.3.3?classifier=sources

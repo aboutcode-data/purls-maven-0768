@@ -6,3 +6,4 @@
 - pkg:maven/io.github.copper-leaf/trellis-dsl-iosarm64@2.2.1?classifier=sources
 - pkg:maven/io.github.copper-leaf/trellis-dsl-iosarm64@2.3.0?classifier=sources
 - pkg:maven/io.github.copper-leaf/trellis-dsl-iosarm64@3.0.0?classifier=sources
+- pkg:maven/io.github.copper-leaf/trellis-dsl-iosarm64@4.0.0?classifier=sources

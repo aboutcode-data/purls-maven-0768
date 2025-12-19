@@ -20,3 +20,5 @@
 - pkg:maven/org.kie.kogito/kogito-addons-springboot-persistence-mongodb@1.28.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-springboot-persistence-mongodb@1.29.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-springboot-persistence-mongodb@1.29.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-springboot-persistence-mongodb@1.30.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-springboot-persistence-mongodb@1.30.0.Final?classifier=sources

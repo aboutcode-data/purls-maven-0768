@@ -59,3 +59,4 @@
 - pkg:maven/com.palantir.safe-logging/preconditions@1.9.0?classifier=sources
 - pkg:maven/com.palantir.safe-logging/preconditions@3.0.0?classifier=sources
 - pkg:maven/com.palantir.safe-logging/preconditions@3.1.0?classifier=sources
+- pkg:maven/com.palantir.safe-logging/preconditions@3.2.0?classifier=sources

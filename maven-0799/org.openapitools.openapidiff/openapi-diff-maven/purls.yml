@@ -16,3 +16,5 @@
 - pkg:maven/org.openapitools.openapidiff/openapi-diff-maven@2.1.0-beta.2?classifier=sources
 - pkg:maven/org.openapitools.openapidiff/openapi-diff-maven@2.1.0-beta.3
 - pkg:maven/org.openapitools.openapidiff/openapi-diff-maven@2.1.0-beta.3?classifier=sources
+- pkg:maven/org.openapitools.openapidiff/openapi-diff-maven@2.1.0-beta.4
+- pkg:maven/org.openapitools.openapidiff/openapi-diff-maven@2.1.0-beta.4?classifier=sources

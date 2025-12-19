@@ -1,0 +1,2 @@
+- pkg:maven/de.qytera/qtaf-core@0.0.1
+- pkg:maven/de.qytera/qtaf-core@0.0.1?classifier=sources

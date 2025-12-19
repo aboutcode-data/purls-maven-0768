@@ -6,3 +6,4 @@
 - pkg:maven/link.magic/magic-ext-oauth@1.0.0?classifier=sources
 - pkg:maven/link.magic/magic-ext-oauth@2.0.0?classifier=sources
 - pkg:maven/link.magic/magic-ext-oauth@3.0.0?classifier=sources
+- pkg:maven/link.magic/magic-ext-oauth@3.0.1?classifier=sources

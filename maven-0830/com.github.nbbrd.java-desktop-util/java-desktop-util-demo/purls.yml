@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nbbrd.java-desktop-util/java-desktop-util-demo@2.2.8
+- pkg:maven/com.github.nbbrd.java-desktop-util/java-desktop-util-demo@2.2.8?classifier=sources

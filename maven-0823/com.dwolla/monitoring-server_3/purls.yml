@@ -1,0 +1,2 @@
+- pkg:maven/com.dwolla/monitoring-server_3@7.1.0
+- pkg:maven/com.dwolla/monitoring-server_3@7.1.0?classifier=sources

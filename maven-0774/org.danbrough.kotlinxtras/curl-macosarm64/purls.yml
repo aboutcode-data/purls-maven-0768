@@ -1,2 +1,4 @@
 - pkg:maven/org.danbrough.kotlinxtras/curl-macosarm64@0.0.1-beta02?classifier=sources
 - pkg:maven/org.danbrough.kotlinxtras/curl-macosarm64@0.0.1-beta04?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras/curl-macosarm64@7_86_0?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras/curl-macosarm64@7_86_0a?classifier=sources

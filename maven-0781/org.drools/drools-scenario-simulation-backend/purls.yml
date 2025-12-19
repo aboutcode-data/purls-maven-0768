@@ -200,3 +200,5 @@
 - pkg:maven/org.drools/drools-scenario-simulation-backend@8.28.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-scenario-simulation-backend@8.29.0.Final
 - pkg:maven/org.drools/drools-scenario-simulation-backend@8.29.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-scenario-simulation-backend@8.30.0.Final
+- pkg:maven/org.drools/drools-scenario-simulation-backend@8.30.0.Final?classifier=sources
