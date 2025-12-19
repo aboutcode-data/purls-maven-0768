@@ -100,3 +100,5 @@
 - pkg:maven/org.apache.karaf.subsystem/org.apache.karaf.subsystem.core@4.3.7?classifier=sources
 - pkg:maven/org.apache.karaf.subsystem/org.apache.karaf.subsystem.core@4.4.0
 - pkg:maven/org.apache.karaf.subsystem/org.apache.karaf.subsystem.core@4.4.0?classifier=sources
+- pkg:maven/org.apache.karaf.subsystem/org.apache.karaf.subsystem.core@4.4.1
+- pkg:maven/org.apache.karaf.subsystem/org.apache.karaf.subsystem.core@4.4.1?classifier=sources

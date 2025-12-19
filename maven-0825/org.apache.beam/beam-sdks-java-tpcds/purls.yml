@@ -8,3 +8,4 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-tpcds@2.37.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-tpcds@2.38.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-tpcds@2.39.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-tpcds@2.40.0?classifier=sources

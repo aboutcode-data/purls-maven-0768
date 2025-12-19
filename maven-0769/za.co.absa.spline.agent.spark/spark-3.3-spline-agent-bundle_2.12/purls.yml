@@ -1,0 +1,2 @@
+- pkg:maven/za.co.absa.spline.agent.spark/spark-3.3-spline-agent-bundle_2.12@0.7.10
+- pkg:maven/za.co.absa.spline.agent.spark/spark-3.3-spline-agent-bundle_2.12@0.7.10?classifier=sources

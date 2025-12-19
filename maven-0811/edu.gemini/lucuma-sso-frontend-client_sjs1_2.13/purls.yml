@@ -25,6 +25,12 @@
 - pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_2.13@0.1.1
 - pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_2.13@0.1.10
 - pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_2.13@0.1.10?classifier=sources
+- pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_2.13@0.1.11
+- pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_2.13@0.1.11?classifier=sources
+- pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_2.13@0.1.12
+- pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_2.13@0.1.12?classifier=sources
+- pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_2.13@0.1.13
+- pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_2.13@0.1.13?classifier=sources
 - pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_2.13@0.1.1?classifier=sources
 - pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_2.13@0.1.2
 - pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_2.13@0.1.2?classifier=sources

@@ -31,6 +31,12 @@
 - pkg:maven/com.bihe0832.android/lib-image@4.2.1?type=aar
 - pkg:maven/com.bihe0832.android/lib-image@4.20.0?type=aar
 - pkg:maven/com.bihe0832.android/lib-image@4.20.22?type=aar
+- pkg:maven/com.bihe0832.android/lib-image@4.20.29?type=aar
+- pkg:maven/com.bihe0832.android/lib-image@4.20.32?type=aar
+- pkg:maven/com.bihe0832.android/lib-image@4.20.33?type=aar
+- pkg:maven/com.bihe0832.android/lib-image@4.20.46?type=aar
+- pkg:maven/com.bihe0832.android/lib-image@4.20.48?type=aar
+- pkg:maven/com.bihe0832.android/lib-image@4.20.56?type=aar
 - pkg:maven/com.bihe0832.android/lib-image@4.20.8?type=aar
 - pkg:maven/com.bihe0832.android/lib-image@4.20.9?type=aar
 - pkg:maven/com.bihe0832.android/lib-image@4.3.1?type=aar

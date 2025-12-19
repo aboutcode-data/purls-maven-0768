@@ -24,3 +24,5 @@
 - pkg:maven/com.github.nawforce/runforce@55.3.0?classifier=sources
 - pkg:maven/com.github.nawforce/runforce@55.4.0
 - pkg:maven/com.github.nawforce/runforce@55.4.0?classifier=sources
+- pkg:maven/com.github.nawforce/runforce@55.5.0
+- pkg:maven/com.github.nawforce/runforce@55.5.0?classifier=sources

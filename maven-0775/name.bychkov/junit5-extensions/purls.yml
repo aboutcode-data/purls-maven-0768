@@ -1,0 +1,4 @@
+- pkg:maven/name.bychkov/junit5-extensions@0.1.0
+- pkg:maven/name.bychkov/junit5-extensions@0.1.0?classifier=sources
+- pkg:maven/name.bychkov/junit5-extensions@0.1.1
+- pkg:maven/name.bychkov/junit5-extensions@0.1.1?classifier=sources

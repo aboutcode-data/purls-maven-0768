@@ -6,3 +6,5 @@
 - pkg:maven/org.scommons.shogowada/scalajs-reactjs-redux_sjs1_2.13@0.17.0?classifier=sources
 - pkg:maven/org.scommons.shogowada/scalajs-reactjs-redux_sjs1_2.13@0.17.1
 - pkg:maven/org.scommons.shogowada/scalajs-reactjs-redux_sjs1_2.13@0.17.1?classifier=sources
+- pkg:maven/org.scommons.shogowada/scalajs-reactjs-redux_sjs1_2.13@1.0.0
+- pkg:maven/org.scommons.shogowada/scalajs-reactjs-redux_sjs1_2.13@1.0.0?classifier=sources

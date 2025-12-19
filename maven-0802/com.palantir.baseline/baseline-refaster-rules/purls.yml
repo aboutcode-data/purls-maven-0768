@@ -332,6 +332,10 @@
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.141.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.142.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.143.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.144.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.145.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.146.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.147.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.15.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.16.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-rules@4.17.0?classifier=sources

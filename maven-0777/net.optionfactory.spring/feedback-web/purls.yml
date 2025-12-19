@@ -54,3 +54,7 @@
 - pkg:maven/net.optionfactory.spring/feedback-web@6.3?classifier=sources
 - pkg:maven/net.optionfactory.spring/feedback-web@6.4
 - pkg:maven/net.optionfactory.spring/feedback-web@6.4?classifier=sources
+- pkg:maven/net.optionfactory.spring/feedback-web@7.0
+- pkg:maven/net.optionfactory.spring/feedback-web@7.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/feedback-web@7.1
+- pkg:maven/net.optionfactory.spring/feedback-web@7.1?classifier=sources

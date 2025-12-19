@@ -6,3 +6,5 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-docs@1.0.5
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-docs@1.1.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-docs@1.1.1
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-docs@1.1.2
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-docs@1.1.3

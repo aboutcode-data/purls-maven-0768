@@ -111,3 +111,4 @@
 - pkg:maven/com.azure/azure-identity@1.5.1
 - pkg:maven/com.azure/azure-identity@1.5.1?classifier=sources
 - pkg:maven/com.azure/azure-identity@1.5.2?classifier=sources
+- pkg:maven/com.azure/azure-identity@1.5.3?classifier=sources

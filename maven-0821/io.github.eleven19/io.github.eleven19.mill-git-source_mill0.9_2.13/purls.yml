@@ -1,0 +1,4 @@
+- pkg:maven/io.github.eleven19/io.github.eleven19.mill-git-source_mill0.9_2.13@0.0.0-6-288564
+- pkg:maven/io.github.eleven19/io.github.eleven19.mill-git-source_mill0.9_2.13@0.0.0-6-288564?classifier=sources
+- pkg:maven/io.github.eleven19/io.github.eleven19.mill-git-source_mill0.9_2.13@v0.1.0
+- pkg:maven/io.github.eleven19/io.github.eleven19.mill-git-source_mill0.9_2.13@v0.1.0?classifier=sources

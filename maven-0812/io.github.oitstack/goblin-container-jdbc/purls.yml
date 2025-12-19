@@ -1,0 +1,2 @@
+- pkg:maven/io.github.oitstack/goblin-container-jdbc@0.0.2
+- pkg:maven/io.github.oitstack/goblin-container-jdbc@0.0.2?classifier=sources

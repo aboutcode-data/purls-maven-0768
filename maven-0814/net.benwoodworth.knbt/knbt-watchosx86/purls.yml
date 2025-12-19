@@ -2,6 +2,7 @@
 - pkg:maven/net.benwoodworth.knbt/knbt-watchosx86@0.10.1?classifier=sources
 - pkg:maven/net.benwoodworth.knbt/knbt-watchosx86@0.11.0?classifier=sources
 - pkg:maven/net.benwoodworth.knbt/knbt-watchosx86@0.11.1?classifier=sources
+- pkg:maven/net.benwoodworth.knbt/knbt-watchosx86@0.11.2?classifier=sources
 - pkg:maven/net.benwoodworth.knbt/knbt-watchosx86@0.3.1?classifier=sources
 - pkg:maven/net.benwoodworth.knbt/knbt-watchosx86@0.4.0?classifier=sources
 - pkg:maven/net.benwoodworth.knbt/knbt-watchosx86@0.5.0?classifier=sources

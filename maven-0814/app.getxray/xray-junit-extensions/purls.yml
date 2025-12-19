@@ -1,2 +1,4 @@
 - pkg:maven/app.getxray/xray-junit-extensions@0.6.0
 - pkg:maven/app.getxray/xray-junit-extensions@0.6.0?classifier=sources
+- pkg:maven/app.getxray/xray-junit-extensions@0.6.1
+- pkg:maven/app.getxray/xray-junit-extensions@0.6.1?classifier=sources

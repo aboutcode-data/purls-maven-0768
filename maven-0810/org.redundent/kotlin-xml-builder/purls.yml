@@ -12,3 +12,5 @@
 - pkg:maven/org.redundent/kotlin-xml-builder@1.7.4
 - pkg:maven/org.redundent/kotlin-xml-builder@1.7.4?classifier=sources
 - pkg:maven/org.redundent/kotlin-xml-builder@1.7?classifier=sources
+- pkg:maven/org.redundent/kotlin-xml-builder@1.8.0
+- pkg:maven/org.redundent/kotlin-xml-builder@1.8.0?classifier=sources

@@ -144,3 +144,5 @@
 - pkg:maven/nl.vpro.api/api-domain@5.32.0?classifier=sources
 - pkg:maven/nl.vpro.api/api-domain@5.33.0
 - pkg:maven/nl.vpro.api/api-domain@5.33.0?classifier=sources
+- pkg:maven/nl.vpro.api/api-domain@5.34.0
+- pkg:maven/nl.vpro.api/api-domain@5.34.0?classifier=sources

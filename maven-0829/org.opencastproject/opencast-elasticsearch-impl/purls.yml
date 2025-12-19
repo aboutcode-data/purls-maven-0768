@@ -42,3 +42,5 @@
 - pkg:maven/org.opencastproject/opencast-elasticsearch-impl@11.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-elasticsearch-impl@12.0
 - pkg:maven/org.opencastproject/opencast-elasticsearch-impl@12.0?classifier=sources
+- pkg:maven/org.opencastproject/opencast-elasticsearch-impl@12.1
+- pkg:maven/org.opencastproject/opencast-elasticsearch-impl@12.1?classifier=sources

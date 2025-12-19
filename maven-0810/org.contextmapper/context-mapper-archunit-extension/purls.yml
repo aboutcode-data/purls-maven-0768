@@ -1,3 +1,4 @@
 - pkg:maven/org.contextmapper/context-mapper-archunit-extension@0.1.0?classifier=sources
 - pkg:maven/org.contextmapper/context-mapper-archunit-extension@1.0.0?classifier=sources
 - pkg:maven/org.contextmapper/context-mapper-archunit-extension@1.0.1?classifier=sources
+- pkg:maven/org.contextmapper/context-mapper-archunit-extension@1.0.2?classifier=sources

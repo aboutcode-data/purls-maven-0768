@@ -92,6 +92,8 @@
 - pkg:maven/org.jdbi/jdbi3-core@3.3.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-core@3.30.0
 - pkg:maven/org.jdbi/jdbi3-core@3.30.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-core@3.31.0
+- pkg:maven/org.jdbi/jdbi3-core@3.31.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-core@3.4.0
 - pkg:maven/org.jdbi/jdbi3-core@3.4.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-core@3.5.0

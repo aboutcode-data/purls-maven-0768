@@ -5,3 +5,4 @@
 - pkg:maven/engineering.everest.axon/crypto-shredding-extension@0.9.7?classifier=sources
 - pkg:maven/engineering.everest.axon/crypto-shredding-extension@0.9.8?classifier=sources
 - pkg:maven/engineering.everest.axon/crypto-shredding-extension@0.9.9?classifier=sources
+- pkg:maven/engineering.everest.axon/crypto-shredding-extension@1.0.0?classifier=sources

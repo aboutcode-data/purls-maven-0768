@@ -84,6 +84,8 @@
 - pkg:maven/com.github.tkrs/orcus-core_2.12@0.25.6?classifier=sources
 - pkg:maven/com.github.tkrs/orcus-core_2.12@0.25.7
 - pkg:maven/com.github.tkrs/orcus-core_2.12@0.25.7?classifier=sources
+- pkg:maven/com.github.tkrs/orcus-core_2.12@0.26.0
+- pkg:maven/com.github.tkrs/orcus-core_2.12@0.26.0?classifier=sources
 - pkg:maven/com.github.tkrs/orcus-core_2.12@0.3.0
 - pkg:maven/com.github.tkrs/orcus-core_2.12@0.3.0?classifier=sources
 - pkg:maven/com.github.tkrs/orcus-core_2.12@0.4.1

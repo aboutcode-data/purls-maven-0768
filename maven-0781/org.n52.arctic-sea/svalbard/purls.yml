@@ -82,3 +82,7 @@
 - pkg:maven/org.n52.arctic-sea/svalbard@9.5.2?classifier=sources
 - pkg:maven/org.n52.arctic-sea/svalbard@9.5.3
 - pkg:maven/org.n52.arctic-sea/svalbard@9.5.3?classifier=sources
+- pkg:maven/org.n52.arctic-sea/svalbard@9.6.0
+- pkg:maven/org.n52.arctic-sea/svalbard@9.6.0?classifier=sources
+- pkg:maven/org.n52.arctic-sea/svalbard@9.6.1
+- pkg:maven/org.n52.arctic-sea/svalbard@9.6.1?classifier=sources

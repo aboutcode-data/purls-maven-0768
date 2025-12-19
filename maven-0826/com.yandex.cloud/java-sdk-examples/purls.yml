@@ -16,3 +16,5 @@
 - pkg:maven/com.yandex.cloud/java-sdk-examples@2.4.3?classifier=sources
 - pkg:maven/com.yandex.cloud/java-sdk-examples@2.5.0
 - pkg:maven/com.yandex.cloud/java-sdk-examples@2.5.0?classifier=sources
+- pkg:maven/com.yandex.cloud/java-sdk-examples@2.5.1
+- pkg:maven/com.yandex.cloud/java-sdk-examples@2.5.1?classifier=sources

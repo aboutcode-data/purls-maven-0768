@@ -1,0 +1,2 @@
+- pkg:maven/io.github.selectdb/je@18.3.12
+- pkg:maven/io.github.selectdb/je@18.3.12?classifier=sources

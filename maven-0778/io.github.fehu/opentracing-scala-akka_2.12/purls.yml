@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fehu/opentracing-scala-akka_2.12@0.7.0
+- pkg:maven/io.github.fehu/opentracing-scala-akka_2.12@0.7.0?classifier=sources

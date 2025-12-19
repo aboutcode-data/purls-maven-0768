@@ -116,7 +116,13 @@
 - pkg:maven/io.debezium/debezium-server-dist@1.9.2.Final?type=zip
 - pkg:maven/io.debezium/debezium-server-dist@1.9.3.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-server-dist@1.9.3.Final?type=zip
+- pkg:maven/io.debezium/debezium-server-dist@1.9.4.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-server-dist@1.9.4.Final?type=zip
+- pkg:maven/io.debezium/debezium-server-dist@1.9.5.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-server-dist@1.9.5.Final?type=zip
 - pkg:maven/io.debezium/debezium-server-dist@2.0.0.Alpha1?classifier=sources
 - pkg:maven/io.debezium/debezium-server-dist@2.0.0.Alpha1?type=zip
 - pkg:maven/io.debezium/debezium-server-dist@2.0.0.Alpha2?classifier=sources
 - pkg:maven/io.debezium/debezium-server-dist@2.0.0.Alpha2?type=zip
+- pkg:maven/io.debezium/debezium-server-dist@2.0.0.Alpha3?classifier=sources
+- pkg:maven/io.debezium/debezium-server-dist@2.0.0.Alpha3?type=zip

@@ -28,3 +28,4 @@
 - pkg:maven/com.paypal.butterfly/butterfly-cli@3.2.2?classifier=sources
 - pkg:maven/com.paypal.butterfly/butterfly-cli@3.2.3?classifier=sources
 - pkg:maven/com.paypal.butterfly/butterfly-cli@3.2.4?classifier=sources
+- pkg:maven/com.paypal.butterfly/butterfly-cli@3.2.5?classifier=sources

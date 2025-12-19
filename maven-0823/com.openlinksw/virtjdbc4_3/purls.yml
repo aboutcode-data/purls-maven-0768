@@ -1,0 +1,7 @@
+- pkg:maven/com.openlinksw/virtjdbc4_3@3.117
+- pkg:maven/com.openlinksw/virtjdbc4_3@3.117?classifier=sources
+- pkg:maven/com.openlinksw/virtjdbc4_3@3.118
+- pkg:maven/com.openlinksw/virtjdbc4_3@3.118?classifier=sources
+- pkg:maven/com.openlinksw/virtjdbc4_3@3.119.0?classifier=sources
+- pkg:maven/com.openlinksw/virtjdbc4_3@3.121
+- pkg:maven/com.openlinksw/virtjdbc4_3@3.121?classifier=sources

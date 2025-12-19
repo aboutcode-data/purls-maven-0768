@@ -24,3 +24,9 @@
 - pkg:maven/org.kie/kie-util-maven-support@8.22.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-util-maven-support@8.22.1.Beta
 - pkg:maven/org.kie/kie-util-maven-support@8.22.1.Beta?classifier=sources
+- pkg:maven/org.kie/kie-util-maven-support@8.23.0.Beta
+- pkg:maven/org.kie/kie-util-maven-support@8.23.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-util-maven-support@8.24.0.Beta
+- pkg:maven/org.kie/kie-util-maven-support@8.24.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-util-maven-support@8.25.0.Beta
+- pkg:maven/org.kie/kie-util-maven-support@8.25.0.Beta?classifier=sources

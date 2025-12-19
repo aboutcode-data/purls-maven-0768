@@ -74,6 +74,14 @@
 - pkg:maven/org.optaplanner/optaplanner-quarkus@8.22.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus@8.22.1.Final
 - pkg:maven/org.optaplanner/optaplanner-quarkus@8.22.1.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus@8.23.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus@8.23.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus@8.24.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus@8.24.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus@8.24.1.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus@8.24.1.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus@8.25.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus@8.25.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus@8.3.0.Final
 - pkg:maven/org.optaplanner/optaplanner-quarkus@8.3.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus@8.4.0.Final

@@ -1,3 +1,7 @@
+- pkg:maven/org.webjars.bowergithub.polymerelements/iron-list@1.4.5
+- pkg:maven/org.webjars.bowergithub.polymerelements/iron-list@1.4.5?classifier=sources
+- pkg:maven/org.webjars.bowergithub.polymerelements/iron-list@1.4.6
+- pkg:maven/org.webjars.bowergithub.polymerelements/iron-list@1.4.6?classifier=sources
 - pkg:maven/org.webjars.bowergithub.polymerelements/iron-list@2.0.12
 - pkg:maven/org.webjars.bowergithub.polymerelements/iron-list@2.0.12?classifier=sources
 - pkg:maven/org.webjars.bowergithub.polymerelements/iron-list@2.0.13

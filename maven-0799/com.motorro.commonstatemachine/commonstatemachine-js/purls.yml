@@ -1,0 +1,2 @@
+- pkg:maven/com.motorro.commonstatemachine/commonstatemachine-js@1.0.0?classifier=sources
+- pkg:maven/com.motorro.commonstatemachine/commonstatemachine-js@2.0.0?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/com.instacart.formula/formula@0.6.1
 - pkg:maven/com.instacart.formula/formula@0.6.1?classifier=sources
 - pkg:maven/com.instacart.formula/formula@0.7.0?classifier=sources
+- pkg:maven/com.instacart.formula/formula@0.7.1?classifier=sources

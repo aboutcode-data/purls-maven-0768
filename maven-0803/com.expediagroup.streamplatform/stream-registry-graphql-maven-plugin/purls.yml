@@ -88,3 +88,7 @@
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-maven-plugin@0.9.3?classifier=sources
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-maven-plugin@0.9.4
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-maven-plugin@0.9.4?classifier=sources
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-maven-plugin@1.0.0
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-maven-plugin@1.0.1
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-maven-plugin@1.0.1?classifier=sources

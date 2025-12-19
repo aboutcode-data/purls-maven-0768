@@ -26,3 +26,7 @@
 - pkg:maven/dev.vality/payout-manager-proto@1.35-dbed280?classifier=sources
 - pkg:maven/dev.vality/payout-manager-proto@1.36-063163d
 - pkg:maven/dev.vality/payout-manager-proto@1.36-063163d?classifier=sources
+- pkg:maven/dev.vality/payout-manager-proto@1.37-d92a22c
+- pkg:maven/dev.vality/payout-manager-proto@1.37-d92a22c?classifier=sources
+- pkg:maven/dev.vality/payout-manager-proto@1.38-635dc24
+- pkg:maven/dev.vality/payout-manager-proto@1.38-635dc24?classifier=sources

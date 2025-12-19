@@ -10,3 +10,5 @@
 - pkg:maven/com.smileidentity/netjava@0.0.6?classifier=sources
 - pkg:maven/com.smileidentity/netjava@0.0.7
 - pkg:maven/com.smileidentity/netjava@0.0.7?classifier=sources
+- pkg:maven/com.smileidentity/netjava@0.0.8
+- pkg:maven/com.smileidentity/netjava@0.0.8?classifier=sources

@@ -39,6 +39,8 @@
 - pkg:maven/io.resys.hdes/hdes-spring-env@3.128
 - pkg:maven/io.resys.hdes/hdes-spring-env@3.128?classifier=sources
 - pkg:maven/io.resys.hdes/hdes-spring-env@3.130
+- pkg:maven/io.resys.hdes/hdes-spring-env@3.130.10
+- pkg:maven/io.resys.hdes/hdes-spring-env@3.130.10?classifier=sources
 - pkg:maven/io.resys.hdes/hdes-spring-env@3.130.2
 - pkg:maven/io.resys.hdes/hdes-spring-env@3.130.2?classifier=sources
 - pkg:maven/io.resys.hdes/hdes-spring-env@3.130.3

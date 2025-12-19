@@ -24,3 +24,5 @@
 - pkg:maven/org.projectnessie/nessie-compatibility-jersey@0.29.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-compatibility-jersey@0.30.0
 - pkg:maven/org.projectnessie/nessie-compatibility-jersey@0.30.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-compatibility-jersey@0.40.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-compatibility-jersey@0.40.1?classifier=sources

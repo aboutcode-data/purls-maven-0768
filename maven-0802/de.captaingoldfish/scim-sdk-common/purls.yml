@@ -30,6 +30,8 @@
 - pkg:maven/de.captaingoldfish/scim-sdk-common@1.13.2?classifier=sources
 - pkg:maven/de.captaingoldfish/scim-sdk-common@1.13.3
 - pkg:maven/de.captaingoldfish/scim-sdk-common@1.13.3?classifier=sources
+- pkg:maven/de.captaingoldfish/scim-sdk-common@1.13.4
+- pkg:maven/de.captaingoldfish/scim-sdk-common@1.13.4?classifier=sources
 - pkg:maven/de.captaingoldfish/scim-sdk-common@1.2.0
 - pkg:maven/de.captaingoldfish/scim-sdk-common@1.2.0?classifier=sources
 - pkg:maven/de.captaingoldfish/scim-sdk-common@1.3.0

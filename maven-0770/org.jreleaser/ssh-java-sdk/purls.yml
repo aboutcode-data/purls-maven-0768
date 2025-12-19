@@ -1,0 +1,1 @@
+- pkg:maven/org.jreleaser/ssh-java-sdk@1.1.0?classifier=sources

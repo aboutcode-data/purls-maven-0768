@@ -85,3 +85,4 @@
 - pkg:maven/uk.gov.gchq.gaffer/map-rest@1.9.1?type=war
 - pkg:maven/uk.gov.gchq.gaffer/map-rest@2.0.0-alpha-0.1?type=war
 - pkg:maven/uk.gov.gchq.gaffer/map-rest@2.0.0-alpha-0.2?type=war
+- pkg:maven/uk.gov.gchq.gaffer/map-rest@2.0.0-alpha-0.3?type=war

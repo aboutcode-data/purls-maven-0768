@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-xtermjs-xterm-js@4.19.0
+- pkg:maven/org.webjars.npm/github-com-xtermjs-xterm-js@4.19.0?classifier=sources

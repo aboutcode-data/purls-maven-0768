@@ -46,6 +46,10 @@
 - pkg:maven/org.flywaydb/flyway-play_2.12@7.2.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-play_2.12@7.20.0
 - pkg:maven/org.flywaydb/flyway-play_2.12@7.20.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-play_2.12@7.21.0
+- pkg:maven/org.flywaydb/flyway-play_2.12@7.21.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-play_2.12@7.22.0
+- pkg:maven/org.flywaydb/flyway-play_2.12@7.22.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-play_2.12@7.5.0
 - pkg:maven/org.flywaydb/flyway-play_2.12@7.5.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-play_2.12@7.6.0

@@ -1,1 +1,2 @@
 - pkg:maven/com.miquido/validoctor@1.1.7?classifier=sources
+- pkg:maven/com.miquido/validoctor@2.0.0-rc1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.pingidentity.pingonemfa/android-sdk@1.7.0-alpha3?classifier=sources
 - pkg:maven/com.pingidentity.pingonemfa/android-sdk@1.7.0-alpha4?classifier=sources
 - pkg:maven/com.pingidentity.pingonemfa/android-sdk@1.7.0?classifier=sources
+- pkg:maven/com.pingidentity.pingonemfa/android-sdk@1.7.2-alpha01?classifier=sources
+- pkg:maven/com.pingidentity.pingonemfa/android-sdk@1.7.2-alpha02?classifier=sources

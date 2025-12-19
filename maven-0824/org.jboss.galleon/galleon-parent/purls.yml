@@ -52,3 +52,4 @@
 - pkg:maven/org.jboss.galleon/galleon-parent@4.2.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.galleon/galleon-parent@4.2.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.galleon/galleon-parent@4.2.4.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.galleon/galleon-parent@5.0.4.Final?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-okta-okta-auth-js@6.6.2
+- pkg:maven/org.webjars.npm/github-com-okta-okta-auth-js@6.6.2?classifier=sources

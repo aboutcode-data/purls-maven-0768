@@ -1,3 +1,5 @@
+- pkg:maven/au.id.tmm.tmm-utils/tmm-utils-circe_2.13@0.10.0
+- pkg:maven/au.id.tmm.tmm-utils/tmm-utils-circe_2.13@0.10.0?classifier=sources
 - pkg:maven/au.id.tmm.tmm-utils/tmm-utils-circe_2.13@0.6.0
 - pkg:maven/au.id.tmm.tmm-utils/tmm-utils-circe_2.13@0.6.0?classifier=sources
 - pkg:maven/au.id.tmm.tmm-utils/tmm-utils-circe_2.13@0.6.1

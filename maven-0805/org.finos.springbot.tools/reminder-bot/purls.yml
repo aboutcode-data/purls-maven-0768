@@ -1,2 +1,4 @@
+- pkg:maven/org.finos.springbot.tools/reminder-bot@9.0.0
 - pkg:maven/org.finos.springbot.tools/reminder-bot@9.0.0.BETA2
 - pkg:maven/org.finos.springbot.tools/reminder-bot@9.0.0.BETA2?classifier=sources
+- pkg:maven/org.finos.springbot.tools/reminder-bot@9.0.0?classifier=sources

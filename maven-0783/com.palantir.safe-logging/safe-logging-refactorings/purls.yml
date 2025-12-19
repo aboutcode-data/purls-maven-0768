@@ -28,3 +28,4 @@
 - pkg:maven/com.palantir.safe-logging/safe-logging-refactorings@1.24.0?classifier=sources
 - pkg:maven/com.palantir.safe-logging/safe-logging-refactorings@1.25.0?classifier=sources
 - pkg:maven/com.palantir.safe-logging/safe-logging-refactorings@1.26.0?classifier=sources
+- pkg:maven/com.palantir.safe-logging/safe-logging-refactorings@1.28.0?classifier=sources

@@ -42,6 +42,8 @@
 - pkg:maven/org.n52.sensorweb-server.db-model/db-model-entities@3.1.3?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.db-model/db-model-entities@3.1.4
 - pkg:maven/org.n52.sensorweb-server.db-model/db-model-entities@3.1.4?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.db-model/db-model-entities@3.2.0
+- pkg:maven/org.n52.sensorweb-server.db-model/db-model-entities@3.2.0?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.db-model/db-model-entities@4.0.0-PR.1
 - pkg:maven/org.n52.sensorweb-server.db-model/db-model-entities@4.0.0-PR.1?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.db-model/db-model-entities@4.0.0-PR.2
@@ -58,3 +60,5 @@
 - pkg:maven/org.n52.sensorweb-server.db-model/db-model-entities@4.0.0-PR.7?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.db-model/db-model-entities@4.0.0-PR.8
 - pkg:maven/org.n52.sensorweb-server.db-model/db-model-entities@4.0.0-PR.8?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.db-model/db-model-entities@4.0.0-PR.9
+- pkg:maven/org.n52.sensorweb-server.db-model/db-model-entities@4.0.0-PR.9?classifier=sources

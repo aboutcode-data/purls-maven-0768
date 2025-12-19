@@ -33,3 +33,6 @@
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-x86_64@2.2.0.Final?classifier=sources
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-x86_64@2.2.0.SP01
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-x86_64@2.2.0.SP01?classifier=sources
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-x86_64@2.2.2.Final
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-x86_64@2.2.2.SP01
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-x86_64@2.2.2.SP01?classifier=sources

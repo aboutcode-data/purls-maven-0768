@@ -4,3 +4,9 @@
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-filesystem@1.22.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-filesystem@1.22.1.Final
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-filesystem@1.22.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-filesystem@1.23.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-filesystem@1.23.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-filesystem@1.24.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-filesystem@1.24.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-filesystem@1.25.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-filesystem@1.25.0.Final?classifier=sources

@@ -13,6 +13,10 @@
 - pkg:maven/com.smartdevicelink/sdl_java_se@5.3.1?classifier=sources
 - pkg:maven/com.smartdevicelink/sdl_java_se@5.4.0
 - pkg:maven/com.smartdevicelink/sdl_java_se@5.4.0?classifier=sources
+- pkg:maven/com.smartdevicelink/sdl_java_se@5.5.0
+- pkg:maven/com.smartdevicelink/sdl_java_se@5.5.0?classifier=sources
+- pkg:maven/com.smartdevicelink/sdl_java_se@5.5.0_RC
+- pkg:maven/com.smartdevicelink/sdl_java_se@5.5.0_RC?classifier=sources
 - pkg:maven/com.smartdevicelink/sdl_java_se@RC_5.1.0?classifier=sources
 - pkg:maven/com.smartdevicelink/sdl_java_se@RC_5.2.0
 - pkg:maven/com.smartdevicelink/sdl_java_se@RC_5.2.0?classifier=sources

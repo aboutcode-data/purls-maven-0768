@@ -15,3 +15,9 @@
 - pkg:maven/com.twitter/twitter-api-java-sdk@1.2.3?classifier=sources
 - pkg:maven/com.twitter/twitter-api-java-sdk@1.2.4
 - pkg:maven/com.twitter/twitter-api-java-sdk@1.2.4?classifier=sources
+- pkg:maven/com.twitter/twitter-api-java-sdk@2.0.0
+- pkg:maven/com.twitter/twitter-api-java-sdk@2.0.0?classifier=sources
+- pkg:maven/com.twitter/twitter-api-java-sdk@2.0.1
+- pkg:maven/com.twitter/twitter-api-java-sdk@2.0.1?classifier=sources
+- pkg:maven/com.twitter/twitter-api-java-sdk@2.0.2
+- pkg:maven/com.twitter/twitter-api-java-sdk@2.0.2?classifier=sources

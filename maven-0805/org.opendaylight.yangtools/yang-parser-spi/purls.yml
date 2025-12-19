@@ -248,3 +248,4 @@
 - pkg:maven/org.opendaylight.yangtools/yang-parser-spi@8.0.5
 - pkg:maven/org.opendaylight.yangtools/yang-parser-spi@8.0.5?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-parser-spi@8.0.6?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-parser-spi@9.0.0?classifier=sources

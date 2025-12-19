@@ -1,0 +1,2 @@
+- pkg:maven/io.github.eleven19/mill-git-source_mill0.10_2.13@v0.1.0-3-dd9403
+- pkg:maven/io.github.eleven19/mill-git-source_mill0.10_2.13@v0.1.0-3-dd9403?classifier=sources

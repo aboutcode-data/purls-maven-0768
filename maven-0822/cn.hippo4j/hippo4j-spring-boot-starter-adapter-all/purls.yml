@@ -2,3 +2,4 @@
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-all@1.3.0-beta
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-all@1.3.0-beta.2
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-all@1.3.0.alpha
+- pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-all@1.3.1

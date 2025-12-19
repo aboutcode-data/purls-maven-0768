@@ -1,0 +1,8 @@
+- pkg:maven/io.github.wufuqi123/WuKongAnimation@1.0.0-COMMON?classifier=sources
+- pkg:maven/io.github.wufuqi123/WuKongAnimation@1.0.0-COMMON?type=aar
+- pkg:maven/io.github.wufuqi123/WuKongAnimation@1.0.0?classifier=sources
+- pkg:maven/io.github.wufuqi123/WuKongAnimation@1.0.0?type=aar
+- pkg:maven/io.github.wufuqi123/WuKongAnimation@1.0.1?classifier=sources
+- pkg:maven/io.github.wufuqi123/WuKongAnimation@1.0.1?type=aar
+- pkg:maven/io.github.wufuqi123/WuKongAnimation@1.0.2?classifier=sources
+- pkg:maven/io.github.wufuqi123/WuKongAnimation@1.0.2?type=aar

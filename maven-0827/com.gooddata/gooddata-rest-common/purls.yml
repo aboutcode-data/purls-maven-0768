@@ -26,3 +26,5 @@
 - pkg:maven/com.gooddata/gooddata-rest-common@2.0.0-RC.3
 - pkg:maven/com.gooddata/gooddata-rest-common@2.0.0-RC.3?classifier=sources
 - pkg:maven/com.gooddata/gooddata-rest-common@2.0.0?classifier=sources
+- pkg:maven/com.gooddata/gooddata-rest-common@2.0.1
+- pkg:maven/com.gooddata/gooddata-rest-common@2.0.1?classifier=sources

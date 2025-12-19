@@ -52,3 +52,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-arangodb@4.36.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-arangodb@4.37.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-arangodb@4.37.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-arangodb@4.38.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-arangodb@4.38.0?classifier=sources

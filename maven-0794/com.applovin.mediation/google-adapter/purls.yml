@@ -65,3 +65,6 @@
 - pkg:maven/com.applovin.mediation/google-adapter@20.6.0.9?classifier=sources
 - pkg:maven/com.applovin.mediation/google-adapter@21.0.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/google-adapter@21.0.0.1?classifier=sources
+- pkg:maven/com.applovin.mediation/google-adapter@21.0.0.2?classifier=sources
+- pkg:maven/com.applovin.mediation/google-adapter@21.0.0.3?classifier=sources
+- pkg:maven/com.applovin.mediation/google-adapter@21.1.0.0?classifier=sources

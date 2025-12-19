@@ -1,0 +1,4 @@
+- pkg:maven/tech.ynfy/http-util-java@1.0.0
+- pkg:maven/tech.ynfy/http-util-java@1.0.0?classifier=sources
+- pkg:maven/tech.ynfy/http-util-java@1.0.1
+- pkg:maven/tech.ynfy/http-util-java@1.0.1?classifier=sources

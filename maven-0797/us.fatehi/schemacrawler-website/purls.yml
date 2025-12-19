@@ -36,3 +36,5 @@
 - pkg:maven/us.fatehi/schemacrawler-website@16.16.7
 - pkg:maven/us.fatehi/schemacrawler-website@16.16.8
 - pkg:maven/us.fatehi/schemacrawler-website@16.16.9
+- pkg:maven/us.fatehi/schemacrawler-website@16.17.1
+- pkg:maven/us.fatehi/schemacrawler-website@16.17.2

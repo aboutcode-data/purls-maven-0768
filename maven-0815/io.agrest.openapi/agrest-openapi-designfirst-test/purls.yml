@@ -1,3 +1,4 @@
+- pkg:maven/io.agrest.openapi/agrest-openapi-designfirst-test@4.10
 - pkg:maven/io.agrest.openapi/agrest-openapi-designfirst-test@4.4
 - pkg:maven/io.agrest.openapi/agrest-openapi-designfirst-test@4.5
 - pkg:maven/io.agrest.openapi/agrest-openapi-designfirst-test@4.6

@@ -17,3 +17,4 @@
 - pkg:maven/com.capacitorjs/core@3.5.0?classifier=sources
 - pkg:maven/com.capacitorjs/core@3.5.1-test-5579-1?classifier=sources
 - pkg:maven/com.capacitorjs/core@3.5.1?classifier=sources
+- pkg:maven/com.capacitorjs/core@3.6.0?classifier=sources

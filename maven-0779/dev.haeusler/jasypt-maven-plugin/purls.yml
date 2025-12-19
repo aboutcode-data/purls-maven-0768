@@ -1,2 +1,4 @@
 - pkg:maven/dev.haeusler/jasypt-maven-plugin@1.0
 - pkg:maven/dev.haeusler/jasypt-maven-plugin@1.0?classifier=sources
+- pkg:maven/dev.haeusler/jasypt-maven-plugin@1.1
+- pkg:maven/dev.haeusler/jasypt-maven-plugin@1.1?classifier=sources

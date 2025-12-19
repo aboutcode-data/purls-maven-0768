@@ -1,1 +1,2 @@
 - pkg:maven/com.pulumi/oci@0.1.0?classifier=sources
+- pkg:maven/com.pulumi/oci@0.1.2-alpha.1658168274%2B1a69a943?classifier=sources

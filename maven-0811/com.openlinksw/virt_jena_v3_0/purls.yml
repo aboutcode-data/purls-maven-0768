@@ -1,0 +1,6 @@
+- pkg:maven/com.openlinksw/virt_jena_v3_0@1.23
+- pkg:maven/com.openlinksw/virt_jena_v3_0@1.23?classifier=sources
+- pkg:maven/com.openlinksw/virt_jena_v3_0@1.30
+- pkg:maven/com.openlinksw/virt_jena_v3_0@1.30?classifier=sources
+- pkg:maven/com.openlinksw/virt_jena_v3_0@1.31
+- pkg:maven/com.openlinksw/virt_jena_v3_0@1.31?classifier=sources

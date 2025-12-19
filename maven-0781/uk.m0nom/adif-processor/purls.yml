@@ -88,6 +88,12 @@
 - pkg:maven/uk.m0nom/adif-processor@1.0.50?classifier=sources
 - pkg:maven/uk.m0nom/adif-processor@1.0.51
 - pkg:maven/uk.m0nom/adif-processor@1.0.51?classifier=sources
+- pkg:maven/uk.m0nom/adif-processor@1.0.52
+- pkg:maven/uk.m0nom/adif-processor@1.0.52?classifier=sources
+- pkg:maven/uk.m0nom/adif-processor@1.0.53
+- pkg:maven/uk.m0nom/adif-processor@1.0.53?classifier=sources
+- pkg:maven/uk.m0nom/adif-processor@1.0.54
+- pkg:maven/uk.m0nom/adif-processor@1.0.54?classifier=sources
 - pkg:maven/uk.m0nom/adif-processor@1.0.6
 - pkg:maven/uk.m0nom/adif-processor@1.0.6?classifier=sources
 - pkg:maven/uk.m0nom/adif-processor@1.0.7

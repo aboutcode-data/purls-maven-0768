@@ -6,3 +6,5 @@
 - pkg:maven/com.leadiq/reactivemongo-zio_2.12@1.0.0-RC2?classifier=sources
 - pkg:maven/com.leadiq/reactivemongo-zio_2.12@1.0.0-RC3
 - pkg:maven/com.leadiq/reactivemongo-zio_2.12@1.0.0-RC3?classifier=sources
+- pkg:maven/com.leadiq/reactivemongo-zio_2.12@2.0.0-RC1-1
+- pkg:maven/com.leadiq/reactivemongo-zio_2.12@2.0.0-RC1-1?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.optaplanner/optaplanner-constraint-streams-bavet@8.23.0.Final
+- pkg:maven/org.optaplanner/optaplanner-constraint-streams-bavet@8.23.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-constraint-streams-bavet@8.24.0.Final
+- pkg:maven/org.optaplanner/optaplanner-constraint-streams-bavet@8.24.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-constraint-streams-bavet@8.24.1.Final
+- pkg:maven/org.optaplanner/optaplanner-constraint-streams-bavet@8.24.1.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-constraint-streams-bavet@8.25.0.Final
+- pkg:maven/org.optaplanner/optaplanner-constraint-streams-bavet@8.25.0.Final?classifier=sources

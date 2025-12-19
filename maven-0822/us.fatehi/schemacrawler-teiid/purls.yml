@@ -8,3 +8,5 @@
 - pkg:maven/us.fatehi/schemacrawler-teiid@16.16.16?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-teiid@16.16.17
 - pkg:maven/us.fatehi/schemacrawler-teiid@16.16.17?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-teiid@16.17.1
+- pkg:maven/us.fatehi/schemacrawler-teiid@16.17.1?classifier=sources

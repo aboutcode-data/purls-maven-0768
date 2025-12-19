@@ -1,0 +1,6 @@
+- pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-sample@0.1.4
+- pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-sample@0.1.4?classifier=sources
+- pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-sample@1.0.0
+- pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-sample@1.0.0?classifier=sources
+- pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-sample@1.0.4
+- pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-sample@1.0.4?classifier=sources

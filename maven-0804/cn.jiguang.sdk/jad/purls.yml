@@ -1,3 +1,4 @@
 - pkg:maven/cn.jiguang.sdk/jad@4.0.0?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jad@5.0.2?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jad@5.0.3?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jad@5.0.4?classifier=sources

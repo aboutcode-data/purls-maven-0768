@@ -1,0 +1,2 @@
+- pkg:maven/org.logdoc/sdk@1.0.2
+- pkg:maven/org.logdoc/sdk@1.0.2?classifier=sources

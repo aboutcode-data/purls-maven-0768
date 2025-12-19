@@ -1,5 +1,10 @@
 - pkg:maven/io.quarkus/quarkus-rest-client-reactive-kotlin-serialization-tests@2.10.0.CR1
 - pkg:maven/io.quarkus/quarkus-rest-client-reactive-kotlin-serialization-tests@2.10.0.Final
+- pkg:maven/io.quarkus/quarkus-rest-client-reactive-kotlin-serialization-tests@2.10.1.Final
+- pkg:maven/io.quarkus/quarkus-rest-client-reactive-kotlin-serialization-tests@2.10.2.Final
+- pkg:maven/io.quarkus/quarkus-rest-client-reactive-kotlin-serialization-tests@2.10.3.Final
+- pkg:maven/io.quarkus/quarkus-rest-client-reactive-kotlin-serialization-tests@2.11.0.CR1
+- pkg:maven/io.quarkus/quarkus-rest-client-reactive-kotlin-serialization-tests@2.11.0.Final
 - pkg:maven/io.quarkus/quarkus-rest-client-reactive-kotlin-serialization-tests@2.7.0.CR1
 - pkg:maven/io.quarkus/quarkus-rest-client-reactive-kotlin-serialization-tests@2.7.0.Final
 - pkg:maven/io.quarkus/quarkus-rest-client-reactive-kotlin-serialization-tests@2.7.1.Final

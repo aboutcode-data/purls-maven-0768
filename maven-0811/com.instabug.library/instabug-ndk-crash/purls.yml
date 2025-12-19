@@ -36,3 +36,4 @@
 - pkg:maven/com.instabug.library/instabug-ndk-crash@11.0.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-ndk-crash@11.1.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-ndk-crash@11.2.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-ndk-crash@11.3.0?classifier=sources

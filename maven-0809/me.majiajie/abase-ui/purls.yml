@@ -1,1 +1,2 @@
 - pkg:maven/me.majiajie/abase-ui@0.0.1-test?classifier=sources
+- pkg:maven/me.majiajie/abase-ui@0.0.2-test?classifier=sources

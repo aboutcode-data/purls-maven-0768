@@ -1,0 +1,2 @@
+- pkg:maven/in.hocg.boot/notify-spring-boot-starter@1.0.45
+- pkg:maven/in.hocg.boot/notify-spring-boot-starter@1.0.45?classifier=sources
