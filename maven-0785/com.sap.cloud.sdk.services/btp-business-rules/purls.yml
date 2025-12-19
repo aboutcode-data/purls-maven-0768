@@ -78,3 +78,9 @@
 - pkg:maven/com.sap.cloud.sdk.services/btp-business-rules@4.4.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.services/btp-business-rules@4.5.0
 - pkg:maven/com.sap.cloud.sdk.services/btp-business-rules@4.5.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/btp-business-rules@4.6.0
+- pkg:maven/com.sap.cloud.sdk.services/btp-business-rules@4.6.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/btp-business-rules@4.7.0
+- pkg:maven/com.sap.cloud.sdk.services/btp-business-rules@4.7.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/btp-business-rules@4.8.0
+- pkg:maven/com.sap.cloud.sdk.services/btp-business-rules@4.8.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.facebook.presto/presto-open-telemetry@0.279?classifier=sources
+- pkg:maven/com.facebook.presto/presto-open-telemetry@0.280?classifier=sources

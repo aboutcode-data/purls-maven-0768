@@ -1,0 +1,2 @@
+- pkg:maven/com.zto.fire/fire-connector-jdbc_2.12@2.3.3
+- pkg:maven/com.zto.fire/fire-connector-jdbc_2.12@2.3.3?classifier=sources

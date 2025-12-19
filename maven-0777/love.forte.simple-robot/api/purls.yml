@@ -212,6 +212,8 @@
 - pkg:maven/love.forte.simple-robot/api@2.5.0?classifier=sources
 - pkg:maven/love.forte.simple-robot/api@2.5.1
 - pkg:maven/love.forte.simple-robot/api@2.5.1?classifier=sources
+- pkg:maven/love.forte.simple-robot/api@2.5.2
+- pkg:maven/love.forte.simple-robot/api@2.5.2?classifier=sources
 - pkg:maven/love.forte.simple-robot/api@3.0.0.preview.0.1?classifier=sources
 - pkg:maven/love.forte.simple-robot/api@3.0.0.preview.0.2?classifier=sources
 - pkg:maven/love.forte.simple-robot/api@3.0.0.preview.0.3?classifier=sources

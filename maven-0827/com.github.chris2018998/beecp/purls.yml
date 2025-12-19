@@ -88,3 +88,5 @@
 - pkg:maven/com.github.chris2018998/beecp@3.3.8?classifier=sources
 - pkg:maven/com.github.chris2018998/beecp@3.3.9
 - pkg:maven/com.github.chris2018998/beecp@3.3.9?classifier=sources
+- pkg:maven/com.github.chris2018998/beecp@3.4.0
+- pkg:maven/com.github.chris2018998/beecp@3.4.0?classifier=sources

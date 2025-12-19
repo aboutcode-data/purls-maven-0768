@@ -278,3 +278,7 @@
 - pkg:maven/org.scalameta/testkit_2.11@4.7.2?classifier=sources
 - pkg:maven/org.scalameta/testkit_2.11@4.7.3
 - pkg:maven/org.scalameta/testkit_2.11@4.7.3?classifier=sources
+- pkg:maven/org.scalameta/testkit_2.11@4.7.4
+- pkg:maven/org.scalameta/testkit_2.11@4.7.4?classifier=sources
+- pkg:maven/org.scalameta/testkit_2.11@4.7.5
+- pkg:maven/org.scalameta/testkit_2.11@4.7.5?classifier=sources

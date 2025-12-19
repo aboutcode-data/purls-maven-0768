@@ -1,0 +1,2 @@
+- pkg:maven/com.blazemeter/jmeter-bzm-correlation-recorder@1.2.3
+- pkg:maven/com.blazemeter/jmeter-bzm-correlation-recorder@1.2.3?classifier=sources

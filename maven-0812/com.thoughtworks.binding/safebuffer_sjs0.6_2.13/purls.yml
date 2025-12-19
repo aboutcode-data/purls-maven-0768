@@ -227,4 +227,12 @@
 - pkg:maven/com.thoughtworks.binding/safebuffer_sjs0.6_2.13@12.2.0%2B38-2a58a75f?classifier=sources
 - pkg:maven/com.thoughtworks.binding/safebuffer_sjs0.6_2.13@12.2.0%2B39-9d421faa
 - pkg:maven/com.thoughtworks.binding/safebuffer_sjs0.6_2.13@12.2.0%2B39-9d421faa?classifier=sources
+- pkg:maven/com.thoughtworks.binding/safebuffer_sjs0.6_2.13@12.2.0%2B40-27b2b1f8
+- pkg:maven/com.thoughtworks.binding/safebuffer_sjs0.6_2.13@12.2.0%2B40-27b2b1f8?classifier=sources
+- pkg:maven/com.thoughtworks.binding/safebuffer_sjs0.6_2.13@12.2.0%2B41-9d41ef10
+- pkg:maven/com.thoughtworks.binding/safebuffer_sjs0.6_2.13@12.2.0%2B41-9d41ef10?classifier=sources
+- pkg:maven/com.thoughtworks.binding/safebuffer_sjs0.6_2.13@12.2.0%2B42-06eed7f8
+- pkg:maven/com.thoughtworks.binding/safebuffer_sjs0.6_2.13@12.2.0%2B42-06eed7f8?classifier=sources
+- pkg:maven/com.thoughtworks.binding/safebuffer_sjs0.6_2.13@12.2.0%2B43-30636c3d
+- pkg:maven/com.thoughtworks.binding/safebuffer_sjs0.6_2.13@12.2.0%2B43-30636c3d?classifier=sources
 - pkg:maven/com.thoughtworks.binding/safebuffer_sjs0.6_2.13@12.2.0?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/tech.kronicle/graphql-java-code-first-annotations@0.1.310?classifier=sources
 - pkg:maven/tech.kronicle/graphql-java-code-first-annotations@0.1.324?classifier=sources
 - pkg:maven/tech.kronicle/graphql-java-code-first-annotations@0.1.331?classifier=sources
+- pkg:maven/tech.kronicle/graphql-java-code-first-annotations@0.2.1?classifier=sources

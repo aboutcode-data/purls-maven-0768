@@ -10,6 +10,10 @@
 - pkg:maven/org.deltafi/deltafi-common-test@0.101.1?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@0.101.2?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@0.101.3?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@0.101.4?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@0.101.5?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@0.102.0?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@0.103.0?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@0.21.4?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@0.9.99?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@0.95.0?classifier=sources

@@ -178,3 +178,5 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-installer@2.6.8?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-installer@2.6.9
 - pkg:maven/edu.internet2.middleware.grouper/grouper-installer@2.6.9?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-installer@4.0.0
+- pkg:maven/edu.internet2.middleware.grouper/grouper-installer@4.0.0?classifier=sources

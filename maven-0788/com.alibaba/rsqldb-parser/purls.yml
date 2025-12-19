@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba/rsqldb-parser@0.2
+- pkg:maven/com.alibaba/rsqldb-parser@0.2?classifier=sources

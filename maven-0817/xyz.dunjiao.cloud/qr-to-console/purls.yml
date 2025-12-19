@@ -1,0 +1,2 @@
+- pkg:maven/xyz.dunjiao.cloud/qr-to-console@1.0
+- pkg:maven/xyz.dunjiao.cloud/qr-to-console@1.0?classifier=sources

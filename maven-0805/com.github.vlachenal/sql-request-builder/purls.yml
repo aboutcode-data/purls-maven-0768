@@ -7,6 +7,7 @@
 - pkg:maven/com.github.vlachenal/sql-request-builder@0.12?classifier=sources
 - pkg:maven/com.github.vlachenal/sql-request-builder@0.13
 - pkg:maven/com.github.vlachenal/sql-request-builder@0.13?classifier=sources
+- pkg:maven/com.github.vlachenal/sql-request-builder@0.14?classifier=sources
 - pkg:maven/com.github.vlachenal/sql-request-builder@0.1?classifier=sources
 - pkg:maven/com.github.vlachenal/sql-request-builder@0.2
 - pkg:maven/com.github.vlachenal/sql-request-builder@0.2?classifier=sources

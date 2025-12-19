@@ -1,0 +1,2 @@
+- pkg:maven/org.taxilang/lang-to-taxi-api@1.36.0
+- pkg:maven/org.taxilang/lang-to-taxi-api@1.36.0?classifier=sources

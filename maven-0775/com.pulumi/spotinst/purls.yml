@@ -4,3 +4,12 @@
 - pkg:maven/com.pulumi/spotinst@3.23.0?classifier=sources
 - pkg:maven/com.pulumi/spotinst@3.24.0-alpha.1675065735%2B3e17e138?classifier=sources
 - pkg:maven/com.pulumi/spotinst@3.24.0-alpha.1675065810%2Bd401ab4a?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.24.0?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.25.0-alpha.1676598204%2B90d1a662?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.25.0-alpha.1676647650%2B6edeeee2?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.25.0?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.26.0-alpha.1677528849%2Bcced58a6?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.26.0-alpha.1677541920%2B6dd4700c?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.26.0?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.27.0-alpha.1677788345%2B0843d292?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.27.0-alpha.1678132335%2B1372684b?classifier=sources

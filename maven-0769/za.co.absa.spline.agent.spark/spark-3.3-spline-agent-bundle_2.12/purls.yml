@@ -14,3 +14,7 @@
 - pkg:maven/za.co.absa.spline.agent.spark/spark-3.3-spline-agent-bundle_2.12@1.0.2?classifier=sources
 - pkg:maven/za.co.absa.spline.agent.spark/spark-3.3-spline-agent-bundle_2.12@1.0.3
 - pkg:maven/za.co.absa.spline.agent.spark/spark-3.3-spline-agent-bundle_2.12@1.0.3?classifier=sources
+- pkg:maven/za.co.absa.spline.agent.spark/spark-3.3-spline-agent-bundle_2.12@1.0.4
+- pkg:maven/za.co.absa.spline.agent.spark/spark-3.3-spline-agent-bundle_2.12@1.0.4?classifier=sources
+- pkg:maven/za.co.absa.spline.agent.spark/spark-3.3-spline-agent-bundle_2.12@1.0.5
+- pkg:maven/za.co.absa.spline.agent.spark/spark-3.3-spline-agent-bundle_2.12@1.0.5?classifier=sources

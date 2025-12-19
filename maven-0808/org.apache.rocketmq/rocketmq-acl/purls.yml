@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.rocketmq/rocketmq-acl@5.0.0-PREVIEW
 - pkg:maven/org.apache.rocketmq/rocketmq-acl@5.0.0-PREVIEW?classifier=sources
 - pkg:maven/org.apache.rocketmq/rocketmq-acl@5.0.0?classifier=sources
+- pkg:maven/org.apache.rocketmq/rocketmq-acl@5.1.0
+- pkg:maven/org.apache.rocketmq/rocketmq-acl@5.1.0?classifier=sources

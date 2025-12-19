@@ -1,0 +1,2 @@
+- pkg:maven/com.atomikos/transactions-spring-boot3-integration-tests@6.0.0M1
+- pkg:maven/com.atomikos/transactions-spring-boot3-integration-tests@6.0.0M1?classifier=sources

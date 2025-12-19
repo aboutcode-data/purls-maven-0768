@@ -1,0 +1,1 @@
+- pkg:maven/org.danbrough.ktor/ktor-serialization-kotlinx-protobuf-js@2.2.3?classifier=sources

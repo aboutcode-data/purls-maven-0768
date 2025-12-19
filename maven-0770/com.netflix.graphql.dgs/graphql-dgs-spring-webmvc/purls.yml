@@ -82,3 +82,4 @@
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc@5.5.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc@5.5.1?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc@6.0.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc@6.0.1?classifier=sources

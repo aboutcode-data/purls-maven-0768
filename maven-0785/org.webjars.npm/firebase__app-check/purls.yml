@@ -1,6 +1,12 @@
 - pkg:maven/org.webjars.npm/firebase__app-check@0.5.11
 - pkg:maven/org.webjars.npm/firebase__app-check@0.5.11?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__app-check@0.5.12
+- pkg:maven/org.webjars.npm/firebase__app-check@0.5.12?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__app-check@0.5.5
 - pkg:maven/org.webjars.npm/firebase__app-check@0.5.5?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__app-check@0.5.7
 - pkg:maven/org.webjars.npm/firebase__app-check@0.5.7?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__app-check@0.6.2
+- pkg:maven/org.webjars.npm/firebase__app-check@0.6.2?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__app-check@0.6.3
+- pkg:maven/org.webjars.npm/firebase__app-check@0.6.3?classifier=sources

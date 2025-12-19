@@ -185,3 +185,4 @@
 - pkg:maven/io.fabric8/kubernetes-test@6.3.1
 - pkg:maven/io.fabric8/kubernetes-test@6.4.0
 - pkg:maven/io.fabric8/kubernetes-test@6.4.1
+- pkg:maven/io.fabric8/kubernetes-test@6.5.0

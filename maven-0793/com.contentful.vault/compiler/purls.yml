@@ -50,3 +50,5 @@
 - pkg:maven/com.contentful.vault/compiler@3.2.3?classifier=sources
 - pkg:maven/com.contentful.vault/compiler@3.2.5
 - pkg:maven/com.contentful.vault/compiler@3.2.5?classifier=sources
+- pkg:maven/com.contentful.vault/compiler@3.2.6
+- pkg:maven/com.contentful.vault/compiler@3.2.6?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.basistech.rosette/rosette-api-osgi-itests@1.23.0?classifier=sources
 - pkg:maven/com.basistech.rosette/rosette-api-osgi-itests@1.24.0
 - pkg:maven/com.basistech.rosette/rosette-api-osgi-itests@1.24.0?classifier=sources
+- pkg:maven/com.basistech.rosette/rosette-api-osgi-itests@1.24.1
+- pkg:maven/com.basistech.rosette/rosette-api-osgi-itests@1.24.1?classifier=sources

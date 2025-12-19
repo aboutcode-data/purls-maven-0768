@@ -12,3 +12,7 @@
 - pkg:maven/wtf.metio.storage-units/storage-units-model@2022.12.6?classifier=sources
 - pkg:maven/wtf.metio.storage-units/storage-units-model@2023.1.10
 - pkg:maven/wtf.metio.storage-units/storage-units-model@2023.1.10?classifier=sources
+- pkg:maven/wtf.metio.storage-units/storage-units-model@2023.2.7
+- pkg:maven/wtf.metio.storage-units/storage-units-model@2023.2.7?classifier=sources
+- pkg:maven/wtf.metio.storage-units/storage-units-model@2023.3.7
+- pkg:maven/wtf.metio.storage-units/storage-units-model@2023.3.7?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/org.wso2.samples.is/saml2-web-app-pickup-dispatch@4.5.1?type=war
 - pkg:maven/org.wso2.samples.is/saml2-web-app-pickup-dispatch@4.5.2?classifier=sources
 - pkg:maven/org.wso2.samples.is/saml2-web-app-pickup-dispatch@4.5.2?type=war
+- pkg:maven/org.wso2.samples.is/saml2-web-app-pickup-dispatch@4.5.4?classifier=sources
+- pkg:maven/org.wso2.samples.is/saml2-web-app-pickup-dispatch@4.5.4?type=war

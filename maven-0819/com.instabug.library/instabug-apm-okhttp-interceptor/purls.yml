@@ -57,6 +57,7 @@
 - pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@10.9.1?type=aar
 - pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@11.0.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@11.1.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@11.10.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@11.2.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@11.3.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@11.4.0?classifier=sources
@@ -69,3 +70,4 @@
 - pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@11.6.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@11.7.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@11.8.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@11.9.0?classifier=sources

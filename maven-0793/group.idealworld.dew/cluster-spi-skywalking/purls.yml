@@ -1,0 +1,2 @@
+- pkg:maven/group.idealworld.dew/cluster-spi-skywalking@3.0.0-RC3
+- pkg:maven/group.idealworld.dew/cluster-spi-skywalking@3.0.0-RC3?classifier=sources

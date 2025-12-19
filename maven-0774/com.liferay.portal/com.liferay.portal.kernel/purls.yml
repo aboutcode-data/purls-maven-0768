@@ -352,6 +352,8 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.154.1?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.154.2
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.154.2?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.154.3
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.154.3?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.16.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.16.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@2.17.0
@@ -736,6 +738,8 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@3.126.4?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@3.126.5
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@3.126.5?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@3.128.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@3.128.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@3.13.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@3.13.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@3.13.1
@@ -1514,6 +1518,8 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@4.97.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@4.98.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@4.98.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@4.99.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@4.99.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@40.0.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@40.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@41.0.0
@@ -1944,6 +1950,12 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@9.66.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@9.67.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@9.67.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@9.67.1
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@9.67.1?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@9.68.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@9.68.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@9.69.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@9.69.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@9.7.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@9.7.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@9.8.0
@@ -1968,3 +1980,13 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@95.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@95.1.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@95.1.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@96.0.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@96.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@96.0.1
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@96.0.1?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@97.0.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@97.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@98.0.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@98.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@99.0.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@99.0.0?classifier=sources

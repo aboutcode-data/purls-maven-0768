@@ -55,3 +55,5 @@
 - pkg:maven/com.atomikos/transactions-jta@5.0.8?classifier=sources
 - pkg:maven/com.atomikos/transactions-jta@5.0.9
 - pkg:maven/com.atomikos/transactions-jta@5.0.9?classifier=sources
+- pkg:maven/com.atomikos/transactions-jta@6.0.0M1
+- pkg:maven/com.atomikos/transactions-jta@6.0.0M1?classifier=sources

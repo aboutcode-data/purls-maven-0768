@@ -4,3 +4,5 @@
 - pkg:maven/build.bleep/bleep-plugin-jni_2.13@0.0.1-M23?classifier=sources
 - pkg:maven/build.bleep/bleep-plugin-jni_2.13@0.0.1-M24
 - pkg:maven/build.bleep/bleep-plugin-jni_2.13@0.0.1-M24?classifier=sources
+- pkg:maven/build.bleep/bleep-plugin-jni_2.13@0.0.1-M25
+- pkg:maven/build.bleep/bleep-plugin-jni_2.13@0.0.1-M25?classifier=sources

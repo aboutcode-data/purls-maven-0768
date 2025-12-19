@@ -23,6 +23,8 @@
 - pkg:maven/io.gitee.snddbgydw/sn-core@0.7.9?classifier=sources
 - pkg:maven/io.gitee.snddbgydw/sn-core@0.8.0
 - pkg:maven/io.gitee.snddbgydw/sn-core@0.8.0?classifier=sources
+- pkg:maven/io.gitee.snddbgydw/sn-core@0.8.10
+- pkg:maven/io.gitee.snddbgydw/sn-core@0.8.10?classifier=sources
 - pkg:maven/io.gitee.snddbgydw/sn-core@0.8.2
 - pkg:maven/io.gitee.snddbgydw/sn-core@0.8.2?classifier=sources
 - pkg:maven/io.gitee.snddbgydw/sn-core@0.8.3
@@ -31,3 +33,9 @@
 - pkg:maven/io.gitee.snddbgydw/sn-core@0.8.4?classifier=sources
 - pkg:maven/io.gitee.snddbgydw/sn-core@0.8.5
 - pkg:maven/io.gitee.snddbgydw/sn-core@0.8.5?classifier=sources
+- pkg:maven/io.gitee.snddbgydw/sn-core@0.8.7
+- pkg:maven/io.gitee.snddbgydw/sn-core@0.8.7?classifier=sources
+- pkg:maven/io.gitee.snddbgydw/sn-core@0.8.9
+- pkg:maven/io.gitee.snddbgydw/sn-core@0.8.9?classifier=sources
+- pkg:maven/io.gitee.snddbgydw/sn-core@0.9.0
+- pkg:maven/io.gitee.snddbgydw/sn-core@0.9.0?classifier=sources

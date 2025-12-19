@@ -1,0 +1,3 @@
+- pkg:maven/cn.duskykite.open/lark-openapi-static-17@1.2?classifier=sources
+- pkg:maven/cn.duskykite.open/lark-openapi-static-17@1.3?classifier=sources
+- pkg:maven/cn.duskykite.open/lark-openapi-static-17@1.4?classifier=sources

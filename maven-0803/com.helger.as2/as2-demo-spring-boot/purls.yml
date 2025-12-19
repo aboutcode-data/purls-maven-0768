@@ -26,3 +26,5 @@
 - pkg:maven/com.helger.as2/as2-demo-spring-boot@4.9.1?classifier=sources
 - pkg:maven/com.helger.as2/as2-demo-spring-boot@4.9.2
 - pkg:maven/com.helger.as2/as2-demo-spring-boot@4.9.2?classifier=sources
+- pkg:maven/com.helger.as2/as2-demo-spring-boot@5.0.0
+- pkg:maven/com.helger.as2/as2-demo-spring-boot@5.0.0?classifier=sources

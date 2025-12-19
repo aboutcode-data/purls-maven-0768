@@ -130,6 +130,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-config-server@3.1.4?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-config-server@3.1.5
 - pkg:maven/org.springframework.cloud/spring-cloud-config-server@3.1.5?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-config-server@3.1.6
+- pkg:maven/org.springframework.cloud/spring-cloud-config-server@3.1.6?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-config-server@4.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-config-server@4.0.0?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-config-server@4.0.1

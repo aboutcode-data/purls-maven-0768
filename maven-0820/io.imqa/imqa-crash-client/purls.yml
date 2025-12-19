@@ -69,4 +69,9 @@
 - pkg:maven/io.imqa/imqa-crash-client@2.24.4?classifier=sources
 - pkg:maven/io.imqa/imqa-crash-client@2.25.1.cardoc?classifier=sources
 - pkg:maven/io.imqa/imqa-crash-client@2.25.1?classifier=sources
+- pkg:maven/io.imqa/imqa-crash-client@2.26.1?classifier=sources
+- pkg:maven/io.imqa/imqa-crash-client@2.26.2-1?classifier=sources
+- pkg:maven/io.imqa/imqa-crash-client@2.26.2-2?classifier=sources
+- pkg:maven/io.imqa/imqa-crash-client@2.26.2?classifier=sources
+- pkg:maven/io.imqa/imqa-crash-client@2.26.3?classifier=sources
 - pkg:maven/io.imqa/imqa-crash-client@2.3.0?classifier=sources

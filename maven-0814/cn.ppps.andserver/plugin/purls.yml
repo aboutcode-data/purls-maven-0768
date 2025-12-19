@@ -1,2 +1,4 @@
 - pkg:maven/cn.ppps.andserver/plugin@2.1.11
 - pkg:maven/cn.ppps.andserver/plugin@2.1.11?classifier=sources
+- pkg:maven/cn.ppps.andserver/plugin@2.1.12
+- pkg:maven/cn.ppps.andserver/plugin@2.1.12?classifier=sources

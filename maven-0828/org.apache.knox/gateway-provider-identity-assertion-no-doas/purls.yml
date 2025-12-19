@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.knox/gateway-provider-identity-assertion-no-doas@2.0.0
+- pkg:maven/org.apache.knox/gateway-provider-identity-assertion-no-doas@2.0.0?classifier=sources

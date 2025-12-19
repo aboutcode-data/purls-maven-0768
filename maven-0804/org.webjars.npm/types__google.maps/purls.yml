@@ -32,3 +32,5 @@
 - pkg:maven/org.webjars.npm/types__google.maps@3.50.5?classifier=sources
 - pkg:maven/org.webjars.npm/types__google.maps@3.51.0
 - pkg:maven/org.webjars.npm/types__google.maps@3.51.0?classifier=sources
+- pkg:maven/org.webjars.npm/types__google.maps@3.52.1
+- pkg:maven/org.webjars.npm/types__google.maps@3.52.1?classifier=sources

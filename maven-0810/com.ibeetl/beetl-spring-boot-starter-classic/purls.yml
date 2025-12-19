@@ -1,0 +1,2 @@
+- pkg:maven/com.ibeetl/beetl-spring-boot-starter-classic@3.14.1.RELEASE
+- pkg:maven/com.ibeetl/beetl-spring-boot-starter-classic@3.14.1.RELEASE?classifier=sources

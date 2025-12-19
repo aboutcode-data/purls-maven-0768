@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/editorjs__editorjs@2.19.1?classifier=sources
 - pkg:maven/org.webjars.npm/editorjs__editorjs@2.22.1
 - pkg:maven/org.webjars.npm/editorjs__editorjs@2.22.1?classifier=sources
+- pkg:maven/org.webjars.npm/editorjs__editorjs@2.26.5
+- pkg:maven/org.webjars.npm/editorjs__editorjs@2.26.5?classifier=sources

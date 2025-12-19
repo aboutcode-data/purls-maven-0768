@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.pulsar/pulsar-client-kafka-tests_0_8@2.11.0
+- pkg:maven/org.apache.pulsar/pulsar-client-kafka-tests_0_8@2.11.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-client-kafka-tests_0_8@2.5.0
 - pkg:maven/org.apache.pulsar/pulsar-client-kafka-tests_0_8@2.5.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-client-kafka-tests_0_8@2.5.1

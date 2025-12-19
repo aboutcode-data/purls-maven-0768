@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/vue-slick@1.1.15?classifier=sources
 - pkg:maven/org.webjars.npm/vue-slick@1.1.16
 - pkg:maven/org.webjars.npm/vue-slick@1.1.16?classifier=sources
+- pkg:maven/org.webjars.npm/vue-slick@1.2.0
+- pkg:maven/org.webjars.npm/vue-slick@1.2.0?classifier=sources

@@ -107,6 +107,7 @@
 - pkg:maven/com.liferay.plugins/porygon-theme@2.0.42?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@2.0.43?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@2.0.44?type=war
+- pkg:maven/com.liferay.plugins/porygon-theme@2.0.45?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@2.0.4?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@2.0.5?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@2.0.6?type=war

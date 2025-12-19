@@ -216,6 +216,7 @@
 - pkg:maven/org.apache.myfaces.core/myfaces-impl@3.0.1?classifier=sources
 - pkg:maven/org.apache.myfaces.core/myfaces-impl@3.0.2
 - pkg:maven/org.apache.myfaces.core/myfaces-impl@3.0.2?classifier=sources
+- pkg:maven/org.apache.myfaces.core/myfaces-impl@4.0.0
 - pkg:maven/org.apache.myfaces.core/myfaces-impl@4.0.0-RC1
 - pkg:maven/org.apache.myfaces.core/myfaces-impl@4.0.0-RC1?classifier=sources
 - pkg:maven/org.apache.myfaces.core/myfaces-impl@4.0.0-RC2
@@ -224,3 +225,6 @@
 - pkg:maven/org.apache.myfaces.core/myfaces-impl@4.0.0-RC3?classifier=sources
 - pkg:maven/org.apache.myfaces.core/myfaces-impl@4.0.0-RC4
 - pkg:maven/org.apache.myfaces.core/myfaces-impl@4.0.0-RC4?classifier=sources
+- pkg:maven/org.apache.myfaces.core/myfaces-impl@4.0.0-RC5
+- pkg:maven/org.apache.myfaces.core/myfaces-impl@4.0.0-RC5?classifier=sources
+- pkg:maven/org.apache.myfaces.core/myfaces-impl@4.0.0?classifier=sources

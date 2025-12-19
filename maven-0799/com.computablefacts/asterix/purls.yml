@@ -17,8 +17,12 @@
 - pkg:maven/com.computablefacts/asterix@0.17?classifier=sources
 - pkg:maven/com.computablefacts/asterix@0.18
 - pkg:maven/com.computablefacts/asterix@0.18?classifier=sources
+- pkg:maven/com.computablefacts/asterix@0.19
+- pkg:maven/com.computablefacts/asterix@0.19?classifier=sources
 - pkg:maven/com.computablefacts/asterix@0.1?classifier=sources
 - pkg:maven/com.computablefacts/asterix@0.2
+- pkg:maven/com.computablefacts/asterix@0.20
+- pkg:maven/com.computablefacts/asterix@0.20?classifier=sources
 - pkg:maven/com.computablefacts/asterix@0.2?classifier=sources
 - pkg:maven/com.computablefacts/asterix@0.5?classifier=sources
 - pkg:maven/com.computablefacts/asterix@0.6

@@ -8,3 +8,7 @@
 - pkg:maven/app.infoset.android/infoset-sdk@1.0.3?type=aar
 - pkg:maven/app.infoset.android/infoset-sdk@1.1.0?classifier=sources
 - pkg:maven/app.infoset.android/infoset-sdk@1.1.0?type=aar
+- pkg:maven/app.infoset.android/infoset-sdk@1.2.0?classifier=sources
+- pkg:maven/app.infoset.android/infoset-sdk@1.2.0?type=aar
+- pkg:maven/app.infoset.android/infoset-sdk@1.2.1?classifier=sources
+- pkg:maven/app.infoset.android/infoset-sdk@1.2.1?type=aar

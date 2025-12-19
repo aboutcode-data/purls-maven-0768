@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-antlr@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-antlr@RELEASE170?classifier=sources

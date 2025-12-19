@@ -1,0 +1,2 @@
+- pkg:maven/org.locationtech.geomesa/geomesa-convert-avro-schema-registry_2.13@4.0.0
+- pkg:maven/org.locationtech.geomesa/geomesa-convert-avro-schema-registry_2.13@4.0.0?classifier=sources

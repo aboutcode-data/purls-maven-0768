@@ -2,3 +2,5 @@
 - pkg:maven/io.cdap.common/common-lang@0.12.0?classifier=sources
 - pkg:maven/io.cdap.common/common-lang@0.13.0
 - pkg:maven/io.cdap.common/common-lang@0.13.0?classifier=sources
+- pkg:maven/io.cdap.common/common-lang@0.13.1
+- pkg:maven/io.cdap.common/common-lang@0.13.1?classifier=sources

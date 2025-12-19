@@ -399,4 +399,16 @@
 - pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.0%2B9-dcfab9cf?classifier=sources
 - pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.0?classifier=sources
 - pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.1
+- pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.1%2B1-57b3d279
+- pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.1%2B1-57b3d279?classifier=sources
+- pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.1%2B11-f108b330
+- pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.1%2B11-f108b330?classifier=sources
+- pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.1%2B2-94e3ecc2
+- pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.1%2B2-94e3ecc2?classifier=sources
+- pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.1%2B9-f3965a39
+- pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.1%2B9-f3965a39?classifier=sources
+- pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.1%2B9-f9743817
+- pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.1%2B9-f9743817?classifier=sources
 - pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.1?classifier=sources
+- pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.2
+- pkg:maven/com.yang-bo/dynamicanyref_sjs1_2.13@2.0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.alibaba.dts.client/dts-uniform-subscribe-sdk-filter@1.1.4
+- pkg:maven/com.alibaba.dts.client/dts-uniform-subscribe-sdk-filter@1.1.4?classifier=sources
+- pkg:maven/com.alibaba.dts.client/dts-uniform-subscribe-sdk-filter@1.1.5
+- pkg:maven/com.alibaba.dts.client/dts-uniform-subscribe-sdk-filter@1.1.5?classifier=sources

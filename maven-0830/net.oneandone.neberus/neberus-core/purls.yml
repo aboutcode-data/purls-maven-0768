@@ -48,3 +48,7 @@
 - pkg:maven/net.oneandone.neberus/neberus-core@3.0.7?classifier=sources
 - pkg:maven/net.oneandone.neberus/neberus-core@3.0.8
 - pkg:maven/net.oneandone.neberus/neberus-core@3.0.8?classifier=sources
+- pkg:maven/net.oneandone.neberus/neberus-core@4.0.0
+- pkg:maven/net.oneandone.neberus/neberus-core@4.0.0?classifier=sources
+- pkg:maven/net.oneandone.neberus/neberus-core@4.0.1
+- pkg:maven/net.oneandone.neberus/neberus-core@4.0.1?classifier=sources

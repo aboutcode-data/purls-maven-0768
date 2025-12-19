@@ -16,3 +16,5 @@
 - pkg:maven/com.github.angleshq/angles-cucumberjvm-legacy@1.0.35?classifier=sources
 - pkg:maven/com.github.angleshq/angles-cucumberjvm-legacy@1.0.36
 - pkg:maven/com.github.angleshq/angles-cucumberjvm-legacy@1.0.36?classifier=sources
+- pkg:maven/com.github.angleshq/angles-cucumberjvm-legacy@1.0.38
+- pkg:maven/com.github.angleshq/angles-cucumberjvm-legacy@1.0.38?classifier=sources

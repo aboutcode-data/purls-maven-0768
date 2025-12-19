@@ -1,0 +1,4 @@
+- pkg:maven/com.github.p2m2/comunica-query-sparql_sjs1_2.13@2.6.6
+- pkg:maven/com.github.p2m2/comunica-query-sparql_sjs1_2.13@2.6.6?classifier=sources
+- pkg:maven/com.github.p2m2/comunica-query-sparql_sjs1_2.13@2.6.6b
+- pkg:maven/com.github.p2m2/comunica-query-sparql_sjs1_2.13@2.6.6b?classifier=sources

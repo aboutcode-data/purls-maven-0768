@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.santuario/xmlsec-project@1.5.6-wso2v1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.santuario/xmlsec-project@1.5.6-wso2v2?classifier=source-release&type=zip

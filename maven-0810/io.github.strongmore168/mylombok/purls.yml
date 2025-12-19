@@ -1,0 +1,2 @@
+- pkg:maven/io.github.strongmore168/mylombok@1.0-RELEASE
+- pkg:maven/io.github.strongmore168/mylombok@1.0-RELEASE?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/sh.almond/interpreter-api-cross-3.1.3_2.13@0.13.2?classifier=sources
 - pkg:maven/sh.almond/interpreter-api-cross-3.1.3_2.13@0.13.3
 - pkg:maven/sh.almond/interpreter-api-cross-3.1.3_2.13@0.13.3?classifier=sources
+- pkg:maven/sh.almond/interpreter-api-cross-3.1.3_2.13@0.13.4
+- pkg:maven/sh.almond/interpreter-api-cross-3.1.3_2.13@0.13.4?classifier=sources

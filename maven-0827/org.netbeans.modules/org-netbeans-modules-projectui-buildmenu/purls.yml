@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectui-buildmenu@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectui-buildmenu@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectui-buildmenu@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-projectui-buildmenu@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-projectui-buildmenu@RELEASE90?classifier=sources

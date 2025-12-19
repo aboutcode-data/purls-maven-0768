@@ -10,3 +10,5 @@
 - pkg:maven/com.manorrock.oyena.lifecycle/oyena-lifecycle-action@22.9.0?classifier=sources
 - pkg:maven/com.manorrock.oyena.lifecycle/oyena-lifecycle-action@23.1.0
 - pkg:maven/com.manorrock.oyena.lifecycle/oyena-lifecycle-action@23.1.0?classifier=sources
+- pkg:maven/com.manorrock.oyena.lifecycle/oyena-lifecycle-action@23.2.0
+- pkg:maven/com.manorrock.oyena.lifecycle/oyena-lifecycle-action@23.2.0?classifier=sources

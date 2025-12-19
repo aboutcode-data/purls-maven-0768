@@ -18,3 +18,5 @@
 - pkg:maven/br.com.swconsultoria/java-nfe@4.00.18?classifier=sources
 - pkg:maven/br.com.swconsultoria/java-nfe@4.00.19
 - pkg:maven/br.com.swconsultoria/java-nfe@4.00.19?classifier=sources
+- pkg:maven/br.com.swconsultoria/java-nfe@4.00.20
+- pkg:maven/br.com.swconsultoria/java-nfe@4.00.20?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.cocowwy/showdb-front@1.1.2
+- pkg:maven/cn.cocowwy/showdb-front@1.1.2?classifier=sources

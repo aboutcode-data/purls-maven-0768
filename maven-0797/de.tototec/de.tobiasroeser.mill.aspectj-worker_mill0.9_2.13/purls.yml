@@ -79,6 +79,8 @@
 - pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj-worker_mill0.9_2.13@0.4.0-23-ff4087?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj-worker_mill0.9_2.13@0.4.0-24-01fb3f
 - pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj-worker_mill0.9_2.13@0.4.0-24-01fb3f?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj-worker_mill0.9_2.13@0.4.0-26-2b49c8
+- pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj-worker_mill0.9_2.13@0.4.0-26-2b49c8?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj-worker_mill0.9_2.13@0.4.0-3-6814b6
 - pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj-worker_mill0.9_2.13@0.4.0-3-6814b6?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj-worker_mill0.9_2.13@0.4.0-6-d4c700

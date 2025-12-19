@@ -4,3 +4,5 @@
 - pkg:maven/com.mydataharbor/jdbc-oracle-ojdbc8-19.8-plugin@1.1.2?classifier=sources
 - pkg:maven/com.mydataharbor/jdbc-oracle-ojdbc8-19.8-plugin@2.0.0
 - pkg:maven/com.mydataharbor/jdbc-oracle-ojdbc8-19.8-plugin@2.0.0?classifier=sources
+- pkg:maven/com.mydataharbor/jdbc-oracle-ojdbc8-19.8-plugin@2.0.1
+- pkg:maven/com.mydataharbor/jdbc-oracle-ojdbc8-19.8-plugin@2.0.1?classifier=sources

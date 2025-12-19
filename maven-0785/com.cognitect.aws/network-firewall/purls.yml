@@ -22,3 +22,5 @@
 - pkg:maven/com.cognitect.aws/network-firewall@828.2.1290.0?classifier=sources
 - pkg:maven/com.cognitect.aws/network-firewall@834.2.1291.0
 - pkg:maven/com.cognitect.aws/network-firewall@834.2.1291.0?classifier=sources
+- pkg:maven/com.cognitect.aws/network-firewall@835.2.1307.0
+- pkg:maven/com.cognitect.aws/network-firewall@835.2.1307.0?classifier=sources

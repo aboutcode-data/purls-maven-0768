@@ -1,2 +1,4 @@
 - pkg:maven/com.fizzgate/fizz-route-expert-plugin@2.3.3-beta6
 - pkg:maven/com.fizzgate/fizz-route-expert-plugin@2.3.3-beta6?classifier=sources
+- pkg:maven/com.fizzgate/fizz-route-expert-plugin@2.7.1
+- pkg:maven/com.fizzgate/fizz-route-expert-plugin@2.7.1?classifier=sources

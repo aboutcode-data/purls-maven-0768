@@ -1,3 +1,4 @@
+- pkg:maven/com.graphql-java/graphql-java-extended-scalars@0.0.0-2023-03-07T03-45-17-5eea2c3?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-extended-scalars@1.0
 - pkg:maven/com.graphql-java/graphql-java-extended-scalars@1.0-rc1
 - pkg:maven/com.graphql-java/graphql-java-extended-scalars@1.0-rc1?classifier=sources

@@ -44,3 +44,7 @@
 - pkg:maven/com.commercetools.build.taglets/commercetools-taglets@2.1.3?classifier=sources
 - pkg:maven/com.commercetools.build.taglets/commercetools-taglets@2.1.4
 - pkg:maven/com.commercetools.build.taglets/commercetools-taglets@2.1.4?classifier=sources
+- pkg:maven/com.commercetools.build.taglets/commercetools-taglets@3.0.0?classifier=sources
+- pkg:maven/com.commercetools.build.taglets/commercetools-taglets@3.1.0?classifier=sources
+- pkg:maven/com.commercetools.build.taglets/commercetools-taglets@3.2.0?classifier=sources
+- pkg:maven/com.commercetools.build.taglets/commercetools-taglets@3.3.0?classifier=sources

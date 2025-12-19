@@ -6,3 +6,5 @@
 - pkg:maven/im.dart.boot/dart-boot-common@0.0.4?classifier=sources
 - pkg:maven/im.dart.boot/dart-boot-common@1.0.0
 - pkg:maven/im.dart.boot/dart-boot-common@1.0.0?classifier=sources
+- pkg:maven/im.dart.boot/dart-boot-common@1.0.2
+- pkg:maven/im.dart.boot/dart-boot-common@1.0.2?classifier=sources

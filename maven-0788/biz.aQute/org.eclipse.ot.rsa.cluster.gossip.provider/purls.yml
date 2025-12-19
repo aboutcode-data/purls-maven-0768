@@ -1,0 +1,2 @@
+- pkg:maven/biz.aQute/org.eclipse.ot.rsa.cluster.gossip.provider@1.0.0
+- pkg:maven/biz.aQute/org.eclipse.ot.rsa.cluster.gossip.provider@1.0.0?classifier=sources

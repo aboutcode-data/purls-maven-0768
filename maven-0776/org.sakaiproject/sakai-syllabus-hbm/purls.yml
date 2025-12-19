@@ -70,3 +70,5 @@
 - pkg:maven/org.sakaiproject/sakai-syllabus-hbm@21.3?classifier=sources
 - pkg:maven/org.sakaiproject/sakai-syllabus-hbm@21.4
 - pkg:maven/org.sakaiproject/sakai-syllabus-hbm@21.4?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-syllabus-hbm@21.5
+- pkg:maven/org.sakaiproject/sakai-syllabus-hbm@21.5?classifier=sources

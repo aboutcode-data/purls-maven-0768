@@ -20,3 +20,5 @@
 - pkg:maven/software.amazon.randomcutforest/randomcutforest-core@3.0-rc3?classifier=sources
 - pkg:maven/software.amazon.randomcutforest/randomcutforest-core@3.0.0
 - pkg:maven/software.amazon.randomcutforest/randomcutforest-core@3.0.0?classifier=sources
+- pkg:maven/software.amazon.randomcutforest/randomcutforest-core@3.5.0
+- pkg:maven/software.amazon.randomcutforest/randomcutforest-core@3.5.0?classifier=sources

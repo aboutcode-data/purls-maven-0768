@@ -8,6 +8,8 @@
 - pkg:maven/com.github.p2m2/discovery_2.13@0.3.2d?classifier=sources
 - pkg:maven/com.github.p2m2/discovery_2.13@0.4.0
 - pkg:maven/com.github.p2m2/discovery_2.13@0.4.0?classifier=sources
+- pkg:maven/com.github.p2m2/discovery_2.13@0.4.2
+- pkg:maven/com.github.p2m2/discovery_2.13@0.4.2?classifier=sources
 - pkg:maven/com.github.p2m2/discovery_2.13@v0.2.0
 - pkg:maven/com.github.p2m2/discovery_2.13@v0.2.0?classifier=sources
 - pkg:maven/com.github.p2m2/discovery_2.13@v0.3.0-alpha.6

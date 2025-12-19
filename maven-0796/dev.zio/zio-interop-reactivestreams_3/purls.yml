@@ -32,3 +32,5 @@
 - pkg:maven/dev.zio/zio-interop-reactivestreams_3@2.0.0-RC7
 - pkg:maven/dev.zio/zio-interop-reactivestreams_3@2.0.0-RC7?classifier=sources
 - pkg:maven/dev.zio/zio-interop-reactivestreams_3@2.0.0?classifier=sources
+- pkg:maven/dev.zio/zio-interop-reactivestreams_3@2.0.1
+- pkg:maven/dev.zio/zio-interop-reactivestreams_3@2.0.1?classifier=sources

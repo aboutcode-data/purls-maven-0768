@@ -1,3 +1,5 @@
+- pkg:maven/io.github.scottweaver/zio-2-0-testcontainers-kafka_3@0.10.0
+- pkg:maven/io.github.scottweaver/zio-2-0-testcontainers-kafka_3@0.10.0?classifier=sources
 - pkg:maven/io.github.scottweaver/zio-2-0-testcontainers-kafka_3@0.7.0
 - pkg:maven/io.github.scottweaver/zio-2-0-testcontainers-kafka_3@0.7.0?classifier=sources
 - pkg:maven/io.github.scottweaver/zio-2-0-testcontainers-kafka_3@0.8.0

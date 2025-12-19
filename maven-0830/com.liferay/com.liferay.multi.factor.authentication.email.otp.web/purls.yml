@@ -58,6 +58,9 @@
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@1.0.43
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@1.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@1.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@1.0.44
+- pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@1.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@1.0.44?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@2.0.0
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@2.0.0?classifier=sources-commercial
@@ -106,6 +109,9 @@
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@2.0.23
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@2.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@2.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@2.0.24
+- pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@2.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@2.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.email.otp.web@2.0.3

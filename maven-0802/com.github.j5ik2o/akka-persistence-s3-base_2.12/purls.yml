@@ -322,6 +322,10 @@
 - pkg:maven/com.github.j5ik2o/akka-persistence-s3-base_2.12@1.2.173?classifier=sources
 - pkg:maven/com.github.j5ik2o/akka-persistence-s3-base_2.12@1.2.175
 - pkg:maven/com.github.j5ik2o/akka-persistence-s3-base_2.12@1.2.175?classifier=sources
+- pkg:maven/com.github.j5ik2o/akka-persistence-s3-base_2.12@1.2.176
+- pkg:maven/com.github.j5ik2o/akka-persistence-s3-base_2.12@1.2.176?classifier=sources
+- pkg:maven/com.github.j5ik2o/akka-persistence-s3-base_2.12@1.2.177
+- pkg:maven/com.github.j5ik2o/akka-persistence-s3-base_2.12@1.2.177?classifier=sources
 - pkg:maven/com.github.j5ik2o/akka-persistence-s3-base_2.12@1.2.17?classifier=sources
 - pkg:maven/com.github.j5ik2o/akka-persistence-s3-base_2.12@1.2.18
 - pkg:maven/com.github.j5ik2o/akka-persistence-s3-base_2.12@1.2.18?classifier=sources

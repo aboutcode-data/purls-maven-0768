@@ -5,3 +5,4 @@
 - pkg:maven/com.redmadrobot.build/infrastructure-common@0.16.2?classifier=sources
 - pkg:maven/com.redmadrobot.build/infrastructure-common@0.16?classifier=sources
 - pkg:maven/com.redmadrobot.build/infrastructure-common@0.17?classifier=sources
+- pkg:maven/com.redmadrobot.build/infrastructure-common@0.18?classifier=sources

@@ -3,4 +3,6 @@
 - pkg:maven/com.heanbian/heanbian-util@10
 - pkg:maven/com.heanbian/heanbian-util@10?classifier=sources
 - pkg:maven/com.heanbian/heanbian-util@13
+- pkg:maven/com.heanbian/heanbian-util@13.3
+- pkg:maven/com.heanbian/heanbian-util@13.3?classifier=sources
 - pkg:maven/com.heanbian/heanbian-util@13?classifier=sources

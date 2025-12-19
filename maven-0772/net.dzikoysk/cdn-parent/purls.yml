@@ -1,1 +1,2 @@
 - pkg:maven/net.dzikoysk/cdn-parent@1.14.3?classifier=sources
+- pkg:maven/net.dzikoysk/cdn-parent@1.14.4?classifier=sources

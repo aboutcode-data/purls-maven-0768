@@ -26,3 +26,13 @@
 - pkg:maven/com.brentcroft.tools/el-model@01.01.18?classifier=sources
 - pkg:maven/com.brentcroft.tools/el-model@01.01.19
 - pkg:maven/com.brentcroft.tools/el-model@01.01.19?classifier=sources
+- pkg:maven/com.brentcroft.tools/el-model@01.01.20
+- pkg:maven/com.brentcroft.tools/el-model@01.01.20?classifier=sources
+- pkg:maven/com.brentcroft.tools/el-model@01.01.21
+- pkg:maven/com.brentcroft.tools/el-model@01.01.21?classifier=sources
+- pkg:maven/com.brentcroft.tools/el-model@01.01.22
+- pkg:maven/com.brentcroft.tools/el-model@01.01.22?classifier=sources
+- pkg:maven/com.brentcroft.tools/el-model@01.01.23
+- pkg:maven/com.brentcroft.tools/el-model@01.01.23?classifier=sources
+- pkg:maven/com.brentcroft.tools/el-model@01.01.24
+- pkg:maven/com.brentcroft.tools/el-model@01.01.24?classifier=sources

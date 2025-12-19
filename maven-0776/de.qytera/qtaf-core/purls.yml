@@ -4,5 +4,7 @@
 - pkg:maven/de.qytera/qtaf-core@0.0.2?classifier=sources
 - pkg:maven/de.qytera/qtaf-core@0.0.3
 - pkg:maven/de.qytera/qtaf-core@0.0.3?classifier=sources
+- pkg:maven/de.qytera/qtaf-core@0.0.4
+- pkg:maven/de.qytera/qtaf-core@0.0.4?classifier=sources
 - pkg:maven/de.qytera/qtaf-core@SNAPSHOT-LOCAL-03
 - pkg:maven/de.qytera/qtaf-core@SNAPSHOT-LOCAL-03?classifier=sources

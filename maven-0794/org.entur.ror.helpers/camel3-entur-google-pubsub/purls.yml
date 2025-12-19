@@ -20,3 +20,11 @@
 - pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.87?classifier=sources
 - pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.88
 - pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.88?classifier=sources
+- pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.89
+- pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.89?classifier=sources
+- pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.90
+- pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.90?classifier=sources
+- pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.91
+- pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.91?classifier=sources
+- pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.92
+- pkg:maven/org.entur.ror.helpers/camel3-entur-google-pubsub@1.92?classifier=sources

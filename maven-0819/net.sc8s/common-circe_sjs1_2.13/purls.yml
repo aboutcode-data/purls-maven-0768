@@ -124,3 +124,5 @@
 - pkg:maven/net.sc8s/common-circe_sjs1_2.13@0.71.0?classifier=sources
 - pkg:maven/net.sc8s/common-circe_sjs1_2.13@0.72.0
 - pkg:maven/net.sc8s/common-circe_sjs1_2.13@0.72.0?classifier=sources
+- pkg:maven/net.sc8s/common-circe_sjs1_2.13@0.72.1
+- pkg:maven/net.sc8s/common-circe_sjs1_2.13@0.72.1?classifier=sources

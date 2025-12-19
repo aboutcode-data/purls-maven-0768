@@ -80,3 +80,4 @@
 - pkg:maven/com.facebook.presto/presto-i18n-functions@0.278.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-i18n-functions@0.278?classifier=sources
 - pkg:maven/com.facebook.presto/presto-i18n-functions@0.279?classifier=sources
+- pkg:maven/com.facebook.presto/presto-i18n-functions@0.280?classifier=sources

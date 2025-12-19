@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee8-api@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee8-api@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee8-api@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee8-api@RELEASE170?classifier=sources

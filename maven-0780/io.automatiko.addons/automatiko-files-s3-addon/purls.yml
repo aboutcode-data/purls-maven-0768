@@ -24,5 +24,7 @@
 - pkg:maven/io.automatiko.addons/automatiko-files-s3-addon@0.20.0?classifier=sources
 - pkg:maven/io.automatiko.addons/automatiko-files-s3-addon@0.21.0
 - pkg:maven/io.automatiko.addons/automatiko-files-s3-addon@0.21.0?classifier=sources
+- pkg:maven/io.automatiko.addons/automatiko-files-s3-addon@0.22.0
+- pkg:maven/io.automatiko.addons/automatiko-files-s3-addon@0.22.0?classifier=sources
 - pkg:maven/io.automatiko.addons/automatiko-files-s3-addon@0.9.0
 - pkg:maven/io.automatiko.addons/automatiko-files-s3-addon@0.9.0?classifier=sources

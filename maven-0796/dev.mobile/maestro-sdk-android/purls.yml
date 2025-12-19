@@ -1,0 +1,2 @@
+- pkg:maven/dev.mobile/maestro-sdk-android@1.22.0?classifier=sources
+- pkg:maven/dev.mobile/maestro-sdk-android@1.22.2?classifier=sources

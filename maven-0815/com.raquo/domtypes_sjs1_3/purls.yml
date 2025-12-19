@@ -24,3 +24,7 @@
 - pkg:maven/com.raquo/domtypes_sjs1_3@17.0.0-M4?classifier=sources
 - pkg:maven/com.raquo/domtypes_sjs1_3@17.0.0-M5
 - pkg:maven/com.raquo/domtypes_sjs1_3@17.0.0-M5?classifier=sources
+- pkg:maven/com.raquo/domtypes_sjs1_3@17.0.0-M6
+- pkg:maven/com.raquo/domtypes_sjs1_3@17.0.0-M6?classifier=sources
+- pkg:maven/com.raquo/domtypes_sjs1_3@17.0.0-M7
+- pkg:maven/com.raquo/domtypes_sjs1_3@17.0.0-M7?classifier=sources

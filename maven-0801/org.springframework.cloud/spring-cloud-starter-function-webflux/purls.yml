@@ -40,5 +40,6 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-webflux@3.2.6
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-webflux@3.2.7
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-webflux@3.2.8
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-function-webflux@3.2.9
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-webflux@4.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-webflux@4.0.1

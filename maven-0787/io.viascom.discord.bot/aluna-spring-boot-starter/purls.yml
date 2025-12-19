@@ -10,3 +10,4 @@
 - pkg:maven/io.viascom.discord.bot/aluna-spring-boot-starter@0.0.41_5.0.0-beta.2?classifier=sources
 - pkg:maven/io.viascom.discord.bot/aluna-spring-boot-starter@0.0.42_5.0.0-beta.2?classifier=sources
 - pkg:maven/io.viascom.discord.bot/aluna-spring-boot-starter@0.0.43_5.0.0-beta.2?classifier=sources
+- pkg:maven/io.viascom.discord.bot/aluna-spring-boot-starter@0.0.44_5.0.0-beta.5?classifier=sources

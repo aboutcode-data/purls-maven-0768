@@ -10,6 +10,9 @@
 - pkg:maven/io.provenance/proto-java@1.13.1?classifier=sources
 - pkg:maven/io.provenance/proto-java@1.14.0-rc1?classifier=sources
 - pkg:maven/io.provenance/proto-java@1.14.0-rc2?classifier=sources
+- pkg:maven/io.provenance/proto-java@1.14.0-rc3?classifier=sources
+- pkg:maven/io.provenance/proto-java@1.14.0?classifier=sources
+- pkg:maven/io.provenance/proto-java@1.14.1?classifier=sources
 - pkg:maven/io.provenance/proto-java@1.8.0-rc10?classifier=sources
 - pkg:maven/io.provenance/proto-java@1.8.0-rc5?classifier=sources
 - pkg:maven/io.provenance/proto-java@1.8.0-rc7?classifier=sources

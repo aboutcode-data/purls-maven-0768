@@ -14,3 +14,5 @@
 - pkg:maven/com.lightbend.akka/akka-persistence-r2dbc_2.12@1.1.0-M3?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-persistence-r2dbc_2.12@1.1.0-M4
 - pkg:maven/com.lightbend.akka/akka-persistence-r2dbc_2.12@1.1.0-M4?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-persistence-r2dbc_2.12@1.1.0-M5
+- pkg:maven/com.lightbend.akka/akka-persistence-r2dbc_2.12@1.1.0-M5?classifier=sources

@@ -62,3 +62,5 @@
 - pkg:maven/org.kurento/kurento-jsonrpc-server@6.9.0?classifier=sources
 - pkg:maven/org.kurento/kurento-jsonrpc-server@6.9.1
 - pkg:maven/org.kurento/kurento-jsonrpc-server@6.9.1?classifier=sources
+- pkg:maven/org.kurento/kurento-jsonrpc-server@7.0.0
+- pkg:maven/org.kurento/kurento-jsonrpc-server@7.0.0?classifier=sources

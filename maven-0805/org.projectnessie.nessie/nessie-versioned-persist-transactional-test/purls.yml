@@ -1,0 +1,1 @@
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-persist-transactional-test@0.51.1?classifier=sources

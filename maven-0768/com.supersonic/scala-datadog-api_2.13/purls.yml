@@ -1,0 +1,2 @@
+- pkg:maven/com.supersonic/scala-datadog-api_2.13@0.3.5
+- pkg:maven/com.supersonic/scala-datadog-api_2.13@0.3.5?classifier=sources

@@ -42,6 +42,8 @@
 - pkg:maven/org.apache.logging.log4j/log4j-osgi@2.18.0?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-osgi@2.19.0
 - pkg:maven/org.apache.logging.log4j/log4j-osgi@2.19.0?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-osgi@2.20.0
+- pkg:maven/org.apache.logging.log4j/log4j-osgi@2.20.0?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-osgi@2.8
 - pkg:maven/org.apache.logging.log4j/log4j-osgi@2.8.1
 - pkg:maven/org.apache.logging.log4j/log4j-osgi@2.8.1?classifier=sources

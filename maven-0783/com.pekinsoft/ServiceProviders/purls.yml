@@ -1,0 +1,2 @@
+- pkg:maven/com.pekinsoft/ServiceProviders@1.0.13
+- pkg:maven/com.pekinsoft/ServiceProviders@1.0.13?classifier=sources

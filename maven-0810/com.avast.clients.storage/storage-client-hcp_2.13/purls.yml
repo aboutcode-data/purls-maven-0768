@@ -4,3 +4,4 @@
 - pkg:maven/com.avast.clients.storage/storage-client-hcp_2.13@1.5.0?classifier=sources
 - pkg:maven/com.avast.clients.storage/storage-client-hcp_2.13@1.6.0?classifier=sources
 - pkg:maven/com.avast.clients.storage/storage-client-hcp_2.13@2.0.0?classifier=sources
+- pkg:maven/com.avast.clients.storage/storage-client-hcp_2.13@2.1.0?classifier=sources

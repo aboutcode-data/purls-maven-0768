@@ -1,2 +1,4 @@
 - pkg:maven/dev.dialector/dialector-kt@0.1.0?classifier=sources
 - pkg:maven/dev.dialector/dialector-kt@0.2.0?classifier=sources
+- pkg:maven/dev.dialector/dialector-kt@0.3.0?classifier=sources
+- pkg:maven/dev.dialector/dialector-kt@0.4.0?classifier=sources

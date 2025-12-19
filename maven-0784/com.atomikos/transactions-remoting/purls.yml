@@ -18,3 +18,5 @@
 - pkg:maven/com.atomikos/transactions-remoting@5.0.8?classifier=sources
 - pkg:maven/com.atomikos/transactions-remoting@5.0.9
 - pkg:maven/com.atomikos/transactions-remoting@5.0.9?classifier=sources
+- pkg:maven/com.atomikos/transactions-remoting@6.0.0M1
+- pkg:maven/com.atomikos/transactions-remoting@6.0.0M1?classifier=sources

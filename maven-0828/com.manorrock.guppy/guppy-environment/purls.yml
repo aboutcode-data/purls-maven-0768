@@ -6,3 +6,5 @@
 - pkg:maven/com.manorrock.guppy/guppy-environment@22.3.1?classifier=sources
 - pkg:maven/com.manorrock.guppy/guppy-environment@23.1.0
 - pkg:maven/com.manorrock.guppy/guppy-environment@23.1.0?classifier=sources
+- pkg:maven/com.manorrock.guppy/guppy-environment@23.2.0
+- pkg:maven/com.manorrock.guppy/guppy-environment@23.2.0?classifier=sources

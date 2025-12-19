@@ -112,6 +112,10 @@
 - pkg:maven/com.sap.cds/cds-feature-cloudfoundry@1.30.2?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-cloudfoundry@1.31.0
 - pkg:maven/com.sap.cds/cds-feature-cloudfoundry@1.31.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-cloudfoundry@1.31.1
+- pkg:maven/com.sap.cds/cds-feature-cloudfoundry@1.31.1?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-cloudfoundry@1.32.0
+- pkg:maven/com.sap.cds/cds-feature-cloudfoundry@1.32.0?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-cloudfoundry@1.4.0
 - pkg:maven/com.sap.cds/cds-feature-cloudfoundry@1.4.0?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-cloudfoundry@1.5.1

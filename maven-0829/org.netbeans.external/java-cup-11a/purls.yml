@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.external/java-cup-11a@RELEASE140
 - pkg:maven/org.netbeans.external/java-cup-11a@RELEASE150
 - pkg:maven/org.netbeans.external/java-cup-11a@RELEASE160
+- pkg:maven/org.netbeans.external/java-cup-11a@RELEASE170

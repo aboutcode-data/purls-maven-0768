@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-jgit@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-jgit@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-jgit@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-jgit@RELEASE170?classifier=sources
