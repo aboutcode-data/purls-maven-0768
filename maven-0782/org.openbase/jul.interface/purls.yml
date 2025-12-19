@@ -1,3 +1,4 @@
+- pkg:maven/org.openbase/jul.interface@%223.2-SNAPSHOT%22?classifier=sources
 - pkg:maven/org.openbase/jul.interface@1.1.0
 - pkg:maven/org.openbase/jul.interface@1.1.0?classifier=sources
 - pkg:maven/org.openbase/jul.interface@1.1.1
@@ -113,3 +114,4 @@
 - pkg:maven/org.openbase/jul.interface@3.0.3
 - pkg:maven/org.openbase/jul.interface@3.0.3?classifier=sources
 - pkg:maven/org.openbase/jul.interface@3.1.0?classifier=sources
+- pkg:maven/org.openbase/jul.interface@3.2.0?classifier=sources

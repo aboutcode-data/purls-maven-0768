@@ -1,0 +1,6 @@
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring@1.6.38
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring@1.6.38?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring@1.6.39
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring@1.6.39?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring@1.6.40
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-spring@1.6.40?classifier=sources

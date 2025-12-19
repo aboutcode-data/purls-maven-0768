@@ -1,1 +1,2 @@
 - pkg:maven/com.kinotic/vertx-stomp-lite@3.9.10?classifier=sources
+- pkg:maven/com.kinotic/vertx-stomp-lite@3.9.12?classifier=sources

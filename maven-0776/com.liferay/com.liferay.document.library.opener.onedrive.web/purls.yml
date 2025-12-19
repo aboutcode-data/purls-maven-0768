@@ -124,6 +124,12 @@
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.41
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.41?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.42
+- pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.42?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.42?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.43
+- pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.43?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@3.0.0
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@3.0.0?classifier=sources-commercial

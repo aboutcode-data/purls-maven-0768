@@ -1,3 +1,4 @@
 - pkg:maven/org.lucee/commons-httpclient@3.1
 - pkg:maven/org.lucee/commons-httpclient@3.1.0
 - pkg:maven/org.lucee/commons-httpclient@3.1.0.0001L
+- pkg:maven/org.lucee/commons-httpclient@3.1.0.0002L

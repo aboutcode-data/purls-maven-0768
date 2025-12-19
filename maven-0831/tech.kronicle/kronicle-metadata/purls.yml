@@ -7,5 +7,12 @@
 - pkg:maven/tech.kronicle/kronicle-metadata@0.1.157?classifier=sources
 - pkg:maven/tech.kronicle/kronicle-metadata@0.1.158?classifier=sources
 - pkg:maven/tech.kronicle/kronicle-metadata@0.1.159?classifier=sources
+- pkg:maven/tech.kronicle/kronicle-metadata@0.1.175?classifier=sources
+- pkg:maven/tech.kronicle/kronicle-metadata@0.1.205?classifier=sources
+- pkg:maven/tech.kronicle/kronicle-metadata@0.1.206?classifier=sources
+- pkg:maven/tech.kronicle/kronicle-metadata@0.1.246?classifier=sources
+- pkg:maven/tech.kronicle/kronicle-metadata@0.1.249?classifier=sources
+- pkg:maven/tech.kronicle/kronicle-metadata@0.1.250?classifier=sources
+- pkg:maven/tech.kronicle/kronicle-metadata@0.1.254?classifier=sources
 - pkg:maven/tech.kronicle/kronicle-metadata@0.1.32?classifier=sources
 - pkg:maven/tech.kronicle/kronicle-metadata@0.1.45?classifier=sources

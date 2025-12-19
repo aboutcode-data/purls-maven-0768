@@ -152,6 +152,10 @@
 - pkg:maven/de.otto.synapse/synapse-core@0.23.8?classifier=sources
 - pkg:maven/de.otto.synapse/synapse-core@0.24.0
 - pkg:maven/de.otto.synapse/synapse-core@0.24.0?classifier=sources
+- pkg:maven/de.otto.synapse/synapse-core@0.24.1
+- pkg:maven/de.otto.synapse/synapse-core@0.24.1?classifier=sources
+- pkg:maven/de.otto.synapse/synapse-core@0.24.2
+- pkg:maven/de.otto.synapse/synapse-core@0.24.2?classifier=sources
 - pkg:maven/de.otto.synapse/synapse-core@0.5.0
 - pkg:maven/de.otto.synapse/synapse-core@0.5.0?classifier=sources
 - pkg:maven/de.otto.synapse/synapse-core@0.5.1

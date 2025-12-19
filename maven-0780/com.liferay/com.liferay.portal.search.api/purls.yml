@@ -394,6 +394,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.api@3.23.0
 - pkg:maven/com.liferay/com.liferay.portal.search.api@3.23.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@3.23.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.api@3.23.1
+- pkg:maven/com.liferay/com.liferay.portal.search.api@3.23.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.api@3.23.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.api@3.3.0
 - pkg:maven/com.liferay/com.liferay.portal.search.api@3.3.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@3.3.0?classifier=sources-commercial
@@ -529,6 +532,15 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.api@4.20.0
 - pkg:maven/com.liferay/com.liferay.portal.search.api@4.20.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@4.20.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.api@4.20.1
+- pkg:maven/com.liferay/com.liferay.portal.search.api@4.20.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.api@4.20.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.api@4.20.2
+- pkg:maven/com.liferay/com.liferay.portal.search.api@4.20.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.api@4.20.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.api@4.20.3
+- pkg:maven/com.liferay/com.liferay.portal.search.api@4.20.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.api@4.20.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.api@4.3.0
 - pkg:maven/com.liferay/com.liferay.portal.search.api@4.3.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@4.3.0?classifier=sources-commercial
@@ -616,3 +628,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.api@5.4.4
 - pkg:maven/com.liferay/com.liferay.portal.search.api@5.4.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@5.4.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.api@5.4.5
+- pkg:maven/com.liferay/com.liferay.portal.search.api@5.4.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.api@5.4.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.api@5.5.0
+- pkg:maven/com.liferay/com.liferay.portal.search.api@5.5.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.api@5.5.0?classifier=sources-commercial

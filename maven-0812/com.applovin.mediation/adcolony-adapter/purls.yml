@@ -32,3 +32,4 @@
 - pkg:maven/com.applovin.mediation/adcolony-adapter@4.6.5.1?type=aar
 - pkg:maven/com.applovin.mediation/adcolony-adapter@4.6.5.2?classifier=sources
 - pkg:maven/com.applovin.mediation/adcolony-adapter@4.7.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/adcolony-adapter@4.7.1.0?classifier=sources

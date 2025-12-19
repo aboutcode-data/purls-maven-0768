@@ -2,3 +2,7 @@
 - pkg:maven/com.io7m.jorchard/com.io7m.jorchard.tests@0.3.1?classifier=sources
 - pkg:maven/com.io7m.jorchard/com.io7m.jorchard.tests@1.0.0
 - pkg:maven/com.io7m.jorchard/com.io7m.jorchard.tests@1.0.0?classifier=sources
+- pkg:maven/com.io7m.jorchard/com.io7m.jorchard.tests@2.0.0
+- pkg:maven/com.io7m.jorchard/com.io7m.jorchard.tests@2.0.0?classifier=sources
+- pkg:maven/com.io7m.jorchard/com.io7m.jorchard.tests@2.0.1
+- pkg:maven/com.io7m.jorchard/com.io7m.jorchard.tests@2.0.1?classifier=sources

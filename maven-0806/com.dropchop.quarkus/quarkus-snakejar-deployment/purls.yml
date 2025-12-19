@@ -6,3 +6,5 @@
 - pkg:maven/com.dropchop.quarkus/quarkus-snakejar-deployment@1.0.3?classifier=sources
 - pkg:maven/com.dropchop.quarkus/quarkus-snakejar-deployment@1.0.4
 - pkg:maven/com.dropchop.quarkus/quarkus-snakejar-deployment@1.0.4?classifier=sources
+- pkg:maven/com.dropchop.quarkus/quarkus-snakejar-deployment@1.0.7
+- pkg:maven/com.dropchop.quarkus/quarkus-snakejar-deployment@1.0.7?classifier=sources

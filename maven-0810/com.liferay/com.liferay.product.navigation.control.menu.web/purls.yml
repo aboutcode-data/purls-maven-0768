@@ -589,6 +589,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@5.0.43
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@5.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@5.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@5.0.44
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@5.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@5.0.44?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@5.0.5
@@ -691,6 +694,12 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.34
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.35
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.36
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.36?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.4

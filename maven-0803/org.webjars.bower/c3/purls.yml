@@ -20,3 +20,5 @@
 - pkg:maven/org.webjars.bower/c3@0.5.4?classifier=sources
 - pkg:maven/org.webjars.bower/c3@0.6.3
 - pkg:maven/org.webjars.bower/c3@0.6.3?classifier=sources
+- pkg:maven/org.webjars.bower/c3@0.7.20
+- pkg:maven/org.webjars.bower/c3@0.7.20?classifier=sources

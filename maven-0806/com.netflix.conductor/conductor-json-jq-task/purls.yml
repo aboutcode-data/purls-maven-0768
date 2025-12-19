@@ -1,0 +1,1 @@
+- pkg:maven/com.netflix.conductor/conductor-json-jq-task@3.8.0?classifier=sources

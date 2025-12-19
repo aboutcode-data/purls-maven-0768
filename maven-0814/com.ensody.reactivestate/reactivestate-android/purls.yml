@@ -15,3 +15,5 @@
 - pkg:maven/com.ensody.reactivestate/reactivestate-android@4.6.1?classifier=sources
 - pkg:maven/com.ensody.reactivestate/reactivestate-android@4.6.2?classifier=sources
 - pkg:maven/com.ensody.reactivestate/reactivestate-android@4.7.0?classifier=sources
+- pkg:maven/com.ensody.reactivestate/reactivestate-android@5.0.0?classifier=sources
+- pkg:maven/com.ensody.reactivestate/reactivestate-android@5.0.1?classifier=sources

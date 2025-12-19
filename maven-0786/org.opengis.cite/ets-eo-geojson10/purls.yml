@@ -1,0 +1,2 @@
+- pkg:maven/org.opengis.cite/ets-eo-geojson10@0.1
+- pkg:maven/org.opengis.cite/ets-eo-geojson10@0.1?classifier=sources

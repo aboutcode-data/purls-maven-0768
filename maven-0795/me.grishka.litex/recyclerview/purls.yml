@@ -1,1 +1,2 @@
+- pkg:maven/me.grishka.litex/recyclerview@1.2.1.1?classifier=sources
 - pkg:maven/me.grishka.litex/recyclerview@1.2.1?classifier=sources

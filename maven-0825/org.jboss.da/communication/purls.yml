@@ -20,3 +20,4 @@
 - pkg:maven/org.jboss.da/communication@2.1.0?classifier=sources
 - pkg:maven/org.jboss.da/communication@2.1.1?classifier=sources
 - pkg:maven/org.jboss.da/communication@2.3.0?classifier=sources
+- pkg:maven/org.jboss.da/communication@2.3.1?classifier=sources

@@ -6,3 +6,6 @@
 - pkg:maven/eu.kevin.android/common@1.5.1?classifier=sources
 - pkg:maven/eu.kevin.android/common@1.6.0?classifier=sources
 - pkg:maven/eu.kevin.android/common@1.6.1?classifier=sources
+- pkg:maven/eu.kevin.android/common@2.0.0?classifier=sources
+- pkg:maven/eu.kevin.android/common@2.0.1?classifier=sources
+- pkg:maven/eu.kevin.android/common@2.0.2?classifier=sources

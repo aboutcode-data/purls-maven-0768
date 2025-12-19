@@ -1,0 +1,10 @@
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-3fd36d5
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-3fd36d5?classifier=sources
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-6618dff
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-6618dff?classifier=sources
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-92be411
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-92be411?classifier=sources
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-a413759
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-a413759?classifier=sources
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-d87ffa9
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-d87ffa9?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/cn.sliew/flinkful-examples@1.0.0
+- pkg:maven/cn.sliew/flinkful-examples@1.0.0?classifier=sources
+- pkg:maven/cn.sliew/flinkful-examples@1.0.1_8
+- pkg:maven/cn.sliew/flinkful-examples@1.0.1_8?classifier=sources

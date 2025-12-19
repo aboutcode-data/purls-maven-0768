@@ -4,3 +4,4 @@
 - pkg:maven/com.github.bancolombia/aws-secrets-manager-async@2.0.0?classifier=sources
 - pkg:maven/com.github.bancolombia/aws-secrets-manager-async@3.0.0
 - pkg:maven/com.github.bancolombia/aws-secrets-manager-async@3.0.0?classifier=sources
+- pkg:maven/com.github.bancolombia/aws-secrets-manager-async@3.1.0?classifier=sources

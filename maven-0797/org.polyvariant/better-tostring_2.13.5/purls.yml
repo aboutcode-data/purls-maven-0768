@@ -8,6 +8,8 @@
 - pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.13?classifier=sources
 - pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.14
 - pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.14?classifier=sources
+- pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.15
+- pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.15?classifier=sources
 - pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.8
 - pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.8?classifier=sources
 - pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.9

@@ -4,6 +4,12 @@
 - pkg:maven/io.avaje/avaje-jsonb-generator@0.11?classifier=sources
 - pkg:maven/io.avaje/avaje-jsonb-generator@0.12
 - pkg:maven/io.avaje/avaje-jsonb-generator@0.12?classifier=sources
+- pkg:maven/io.avaje/avaje-jsonb-generator@0.13
+- pkg:maven/io.avaje/avaje-jsonb-generator@0.13?classifier=sources
+- pkg:maven/io.avaje/avaje-jsonb-generator@0.14
+- pkg:maven/io.avaje/avaje-jsonb-generator@0.14?classifier=sources
+- pkg:maven/io.avaje/avaje-jsonb-generator@0.15
+- pkg:maven/io.avaje/avaje-jsonb-generator@0.15?classifier=sources
 - pkg:maven/io.avaje/avaje-jsonb-generator@0.2
 - pkg:maven/io.avaje/avaje-jsonb-generator@0.2?classifier=sources
 - pkg:maven/io.avaje/avaje-jsonb-generator@0.4

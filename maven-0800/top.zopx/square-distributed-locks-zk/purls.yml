@@ -4,3 +4,5 @@
 - pkg:maven/top.zopx/square-distributed-locks-zk@0.0.2?classifier=sources
 - pkg:maven/top.zopx/square-distributed-locks-zk@0.1.0
 - pkg:maven/top.zopx/square-distributed-locks-zk@0.1.0?classifier=sources
+- pkg:maven/top.zopx/square-distributed-locks-zk@0.1.1
+- pkg:maven/top.zopx/square-distributed-locks-zk@0.1.1?classifier=sources

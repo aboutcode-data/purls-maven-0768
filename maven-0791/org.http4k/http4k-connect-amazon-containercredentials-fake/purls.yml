@@ -1,1 +1,2 @@
 - pkg:maven/org.http4k/http4k-connect-amazon-containercredentials-fake@3.17.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-containercredentials-fake@3.17.1.0?classifier=sources

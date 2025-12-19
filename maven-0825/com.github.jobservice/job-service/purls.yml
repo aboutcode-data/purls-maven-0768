@@ -34,3 +34,5 @@
 - pkg:maven/com.github.jobservice/job-service@4.0.0-1076?type=war
 - pkg:maven/com.github.jobservice/job-service@5.0.0-4?classifier=sources
 - pkg:maven/com.github.jobservice/job-service@5.0.0-4?type=war
+- pkg:maven/com.github.jobservice/job-service@6.0.0-31?classifier=sources
+- pkg:maven/com.github.jobservice/job-service@6.0.0-31?type=war

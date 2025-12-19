@@ -30,3 +30,5 @@
 - pkg:maven/org.perfmon4j/perfmon4j-tomcat7@1.5.2?classifier=sources
 - pkg:maven/org.perfmon4j/perfmon4j-tomcat7@1.6.0-rc.1
 - pkg:maven/org.perfmon4j/perfmon4j-tomcat7@1.6.0-rc.1?classifier=sources
+- pkg:maven/org.perfmon4j/perfmon4j-tomcat7@1.6.1
+- pkg:maven/org.perfmon4j/perfmon4j-tomcat7@1.6.1?classifier=sources

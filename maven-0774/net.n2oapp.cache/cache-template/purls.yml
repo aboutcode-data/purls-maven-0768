@@ -260,6 +260,8 @@
 - pkg:maven/net.n2oapp.cache/cache-template@7.22.0?classifier=sources
 - pkg:maven/net.n2oapp.cache/cache-template@7.22.1
 - pkg:maven/net.n2oapp.cache/cache-template@7.22.1?classifier=sources
+- pkg:maven/net.n2oapp.cache/cache-template@7.22.2
+- pkg:maven/net.n2oapp.cache/cache-template@7.22.2?classifier=sources
 - pkg:maven/net.n2oapp.cache/cache-template@7.3.1
 - pkg:maven/net.n2oapp.cache/cache-template@7.3.10
 - pkg:maven/net.n2oapp.cache/cache-template@7.3.10?classifier=sources

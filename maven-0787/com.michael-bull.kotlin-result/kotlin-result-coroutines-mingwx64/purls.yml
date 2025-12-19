@@ -1,3 +1,5 @@
 - pkg:maven/com.michael-bull.kotlin-result/kotlin-result-coroutines-mingwx64@1.1.12?classifier=sources
 - pkg:maven/com.michael-bull.kotlin-result/kotlin-result-coroutines-mingwx64@1.1.13?classifier=sources
 - pkg:maven/com.michael-bull.kotlin-result/kotlin-result-coroutines-mingwx64@1.1.14?classifier=sources
+- pkg:maven/com.michael-bull.kotlin-result/kotlin-result-coroutines-mingwx64@1.1.15?classifier=sources
+- pkg:maven/com.michael-bull.kotlin-result/kotlin-result-coroutines-mingwx64@1.1.16?classifier=sources

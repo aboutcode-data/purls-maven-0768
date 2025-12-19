@@ -1,0 +1,4 @@
+- pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.11.6
+- pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.11.6?classifier=sources
+- pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.11.7
+- pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.11.7?classifier=sources

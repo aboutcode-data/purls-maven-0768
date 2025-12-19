@@ -114,3 +114,7 @@
 - pkg:maven/org.spincast/spincast-plugins-http-client-with-websocket@1.8.0?classifier=sources
 - pkg:maven/org.spincast/spincast-plugins-http-client-with-websocket@1.9.0
 - pkg:maven/org.spincast/spincast-plugins-http-client-with-websocket@1.9.0?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-http-client-with-websocket@2.0.0
+- pkg:maven/org.spincast/spincast-plugins-http-client-with-websocket@2.0.0?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-http-client-with-websocket@2.0.1
+- pkg:maven/org.spincast/spincast-plugins-http-client-with-websocket@2.0.1?classifier=sources

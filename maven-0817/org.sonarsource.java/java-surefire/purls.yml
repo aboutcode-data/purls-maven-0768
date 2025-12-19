@@ -147,6 +147,7 @@
 - pkg:maven/org.sonarsource.java/java-surefire@7.0.0.26422?classifier=sources
 - pkg:maven/org.sonarsource.java/java-surefire@7.1.0.26670?classifier=sources
 - pkg:maven/org.sonarsource.java/java-surefire@7.10.0.29108?classifier=sources
+- pkg:maven/org.sonarsource.java/java-surefire@7.11.0.29148?classifier=sources
 - pkg:maven/org.sonarsource.java/java-surefire@7.2.0.26923?classifier=sources
 - pkg:maven/org.sonarsource.java/java-surefire@7.3.0.27589?classifier=sources
 - pkg:maven/org.sonarsource.java/java-surefire@7.4.0.27839?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/org.bsc.maven/confluence-markdown-processor-commonmark@7.3?classifier=sources
 - pkg:maven/org.bsc.maven/confluence-markdown-processor-commonmark@7.4
 - pkg:maven/org.bsc.maven/confluence-markdown-processor-commonmark@7.4?classifier=sources
+- pkg:maven/org.bsc.maven/confluence-markdown-processor-commonmark@7.5
+- pkg:maven/org.bsc.maven/confluence-markdown-processor-commonmark@7.5?classifier=sources

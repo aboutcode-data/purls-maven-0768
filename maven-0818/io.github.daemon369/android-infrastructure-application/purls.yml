@@ -2,3 +2,4 @@
 - pkg:maven/io.github.daemon369/android-infrastructure-application@0.1.1?classifier=sources
 - pkg:maven/io.github.daemon369/android-infrastructure-application@1.0.0?classifier=sources
 - pkg:maven/io.github.daemon369/android-infrastructure-application@1.1.0?classifier=sources
+- pkg:maven/io.github.daemon369/android-infrastructure-application@1.2.0?classifier=sources

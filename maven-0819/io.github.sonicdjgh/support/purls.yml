@@ -14,6 +14,10 @@
 - pkg:maven/io.github.sonicdjgh/support@4.8.92?type=aar
 - pkg:maven/io.github.sonicdjgh/support@4.8.931?classifier=sources
 - pkg:maven/io.github.sonicdjgh/support@4.8.931?type=aar
+- pkg:maven/io.github.sonicdjgh/support@4.8.932?classifier=sources
+- pkg:maven/io.github.sonicdjgh/support@4.8.932?type=aar
+- pkg:maven/io.github.sonicdjgh/support@4.8.933?classifier=sources
+- pkg:maven/io.github.sonicdjgh/support@4.8.933?type=aar
 - pkg:maven/io.github.sonicdjgh/support@4.8.93?classifier=sources
 - pkg:maven/io.github.sonicdjgh/support@4.8.93?type=aar
 - pkg:maven/io.github.sonicdjgh/support@4.8.9410?classifier=sources

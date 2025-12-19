@@ -1,0 +1,2 @@
+- pkg:maven/org.reploop/json2bean-translator@0.19
+- pkg:maven/org.reploop/json2bean-translator@0.19?classifier=sources

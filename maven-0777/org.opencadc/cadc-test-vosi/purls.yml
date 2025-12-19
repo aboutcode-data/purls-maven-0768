@@ -1,2 +1,4 @@
 - pkg:maven/org.opencadc/cadc-test-vosi@1.0.10?classifier=sources
+- pkg:maven/org.opencadc/cadc-test-vosi@1.0.11?classifier=sources
+- pkg:maven/org.opencadc/cadc-test-vosi@1.0.12?classifier=sources
 - pkg:maven/org.opencadc/cadc-test-vosi@1.0.9?classifier=sources

@@ -65,4 +65,5 @@
 - pkg:maven/io.imqa/imqa-crash-client@2.20.1?classifier=sources
 - pkg:maven/io.imqa/imqa-crash-client@2.23.0.a?classifier=sources
 - pkg:maven/io.imqa/imqa-crash-client@2.24.0.a?classifier=sources
+- pkg:maven/io.imqa/imqa-crash-client@2.24.2.a?classifier=sources
 - pkg:maven/io.imqa/imqa-crash-client@2.3.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/pl.mareklangiewicz/abcdk@0.0.06?classifier=sources
+- pkg:maven/pl.mareklangiewicz/abcdk@0.0.07?classifier=sources

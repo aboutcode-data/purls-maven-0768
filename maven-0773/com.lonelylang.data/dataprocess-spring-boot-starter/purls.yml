@@ -1,0 +1,10 @@
+- pkg:maven/com.lonelylang.data/dataprocess-spring-boot-starter@1.4
+- pkg:maven/com.lonelylang.data/dataprocess-spring-boot-starter@1.4.0
+- pkg:maven/com.lonelylang.data/dataprocess-spring-boot-starter@1.4.0?classifier=sources
+- pkg:maven/com.lonelylang.data/dataprocess-spring-boot-starter@1.4.1
+- pkg:maven/com.lonelylang.data/dataprocess-spring-boot-starter@1.4.1?classifier=sources
+- pkg:maven/com.lonelylang.data/dataprocess-spring-boot-starter@1.4.2
+- pkg:maven/com.lonelylang.data/dataprocess-spring-boot-starter@1.4.3
+- pkg:maven/com.lonelylang.data/dataprocess-spring-boot-starter@1.4?classifier=sources
+- pkg:maven/com.lonelylang.data/dataprocess-spring-boot-starter@1.5
+- pkg:maven/com.lonelylang.data/dataprocess-spring-boot-starter@1.5.1

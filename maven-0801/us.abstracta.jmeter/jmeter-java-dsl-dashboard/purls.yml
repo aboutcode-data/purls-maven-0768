@@ -60,5 +60,17 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.50?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.51
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.51?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.52
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.52.1
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.52.1?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.52?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.53
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.53?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.54
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.54?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.55
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.55?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.56
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@0.56?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@028
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-dashboard@028?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.shaohuizhe/file-search@1.0
+- pkg:maven/io.github.shaohuizhe/file-search@1.0?classifier=sources

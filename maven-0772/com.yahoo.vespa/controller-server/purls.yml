@@ -491,7 +491,17 @@
 - pkg:maven/com.yahoo.vespa/controller-server@7.561.60?classifier=sources
 - pkg:maven/com.yahoo.vespa/controller-server@7.563.7?classifier=sources
 - pkg:maven/com.yahoo.vespa/controller-server@7.564.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/controller-server@7.566.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/controller-server@7.567.26?classifier=sources
+- pkg:maven/com.yahoo.vespa/controller-server@7.569.71?classifier=sources
 - pkg:maven/com.yahoo.vespa/controller-server@7.57.40?classifier=sources
+- pkg:maven/com.yahoo.vespa/controller-server@7.571.25?classifier=sources
+- pkg:maven/com.yahoo.vespa/controller-server@7.574.71?classifier=sources
+- pkg:maven/com.yahoo.vespa/controller-server@7.575.35?classifier=sources
+- pkg:maven/com.yahoo.vespa/controller-server@7.577.27?classifier=sources
+- pkg:maven/com.yahoo.vespa/controller-server@7.578.64?classifier=sources
+- pkg:maven/com.yahoo.vespa/controller-server@7.579.27?classifier=sources
+- pkg:maven/com.yahoo.vespa/controller-server@7.580.54?classifier=sources
 - pkg:maven/com.yahoo.vespa/controller-server@7.6.98?classifier=sources
 - pkg:maven/com.yahoo.vespa/controller-server@7.60.51?classifier=sources
 - pkg:maven/com.yahoo.vespa/controller-server@7.61.10?classifier=sources

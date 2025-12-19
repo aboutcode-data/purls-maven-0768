@@ -80,3 +80,5 @@
 - pkg:maven/com.fireflysource/firefly-example@5.0.0-dev6
 - pkg:maven/com.fireflysource/firefly-example@5.0.0-dev6?classifier=sources
 - pkg:maven/com.fireflysource/firefly-example@5.0.0?classifier=sources
+- pkg:maven/com.fireflysource/firefly-example@5.0.1
+- pkg:maven/com.fireflysource/firefly-example@5.0.1?classifier=sources

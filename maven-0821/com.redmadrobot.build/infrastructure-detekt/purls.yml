@@ -1,3 +1,4 @@
 - pkg:maven/com.redmadrobot.build/infrastructure-detekt@0.13?classifier=sources
 - pkg:maven/com.redmadrobot.build/infrastructure-detekt@0.14?classifier=sources
 - pkg:maven/com.redmadrobot.build/infrastructure-detekt@0.15?classifier=sources
+- pkg:maven/com.redmadrobot.build/infrastructure-detekt@0.16?classifier=sources

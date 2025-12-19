@@ -34,3 +34,5 @@
 - pkg:maven/org.cornutum.tcases/tcases-openapi@3.7.1?classifier=sources
 - pkg:maven/org.cornutum.tcases/tcases-openapi@3.7.2
 - pkg:maven/org.cornutum.tcases/tcases-openapi@3.7.2?classifier=sources
+- pkg:maven/org.cornutum.tcases/tcases-openapi@3.8.0
+- pkg:maven/org.cornutum.tcases/tcases-openapi@3.8.0?classifier=sources

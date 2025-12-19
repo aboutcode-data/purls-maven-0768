@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/firebase__app-check@0.5.5
+- pkg:maven/org.webjars.npm/firebase__app-check@0.5.5?classifier=sources

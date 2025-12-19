@@ -1,0 +1,4 @@
+- pkg:maven/xyz.zeozheng/dbrest-spring-boot-starter@0.97
+- pkg:maven/xyz.zeozheng/dbrest-spring-boot-starter@0.97?classifier=sources
+- pkg:maven/xyz.zeozheng/dbrest-spring-boot-starter@0.98
+- pkg:maven/xyz.zeozheng/dbrest-spring-boot-starter@0.98?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.imunity/unity-rest-api@3.9.0
+- pkg:maven/io.imunity/unity-rest-api@3.9.0?classifier=sources

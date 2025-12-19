@@ -83,3 +83,6 @@
 - pkg:maven/org.apache.felix/maven-bundle-plugin@5.1.4
 - pkg:maven/org.apache.felix/maven-bundle-plugin@5.1.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/maven-bundle-plugin@5.1.4?classifier=sources
+- pkg:maven/org.apache.felix/maven-bundle-plugin@5.1.5
+- pkg:maven/org.apache.felix/maven-bundle-plugin@5.1.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/maven-bundle-plugin@5.1.5?classifier=sources

@@ -122,3 +122,11 @@
 - pkg:maven/com.github.binarywang/weixin-graal@4.2.7.B?classifier=sources
 - pkg:maven/com.github.binarywang/weixin-graal@4.2.8.B
 - pkg:maven/com.github.binarywang/weixin-graal@4.2.8.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-graal@4.2.9.B
+- pkg:maven/com.github.binarywang/weixin-graal@4.2.9.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-graal@4.3.0
+- pkg:maven/com.github.binarywang/weixin-graal@4.3.0?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-graal@4.3.1.B
+- pkg:maven/com.github.binarywang/weixin-graal@4.3.1.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-graal@4.3.2.B
+- pkg:maven/com.github.binarywang/weixin-graal@4.3.2.B?classifier=sources

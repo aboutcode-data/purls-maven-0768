@@ -240,3 +240,7 @@
 - pkg:maven/com.google.gerrit/gerrit-war@3.5.0-rc4?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@3.5.0.1?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@3.5.1?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@3.6.0-rc0?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@3.6.0-rc1?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@3.6.0-rc2?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@3.6.0-rc3?type=war

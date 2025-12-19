@@ -1,0 +1,2 @@
+- pkg:maven/edu.iu.uits.lms/lms-email-service@5.0.1
+- pkg:maven/edu.iu.uits.lms/lms-email-service@5.0.1?classifier=sources

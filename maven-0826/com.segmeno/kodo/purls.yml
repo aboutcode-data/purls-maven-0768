@@ -14,6 +14,8 @@
 - pkg:maven/com.segmeno/kodo@1.2.0-RELEASE?classifier=sources
 - pkg:maven/com.segmeno/kodo@1.2.1-RELEASE
 - pkg:maven/com.segmeno/kodo@1.2.1-RELEASE?classifier=sources
+- pkg:maven/com.segmeno/kodo@1.2.10-RELEASE
+- pkg:maven/com.segmeno/kodo@1.2.10-RELEASE?classifier=sources
 - pkg:maven/com.segmeno/kodo@1.2.2-RELEASE
 - pkg:maven/com.segmeno/kodo@1.2.2-RELEASE?classifier=sources
 - pkg:maven/com.segmeno/kodo@1.2.3-RELEASE
@@ -28,3 +30,5 @@
 - pkg:maven/com.segmeno/kodo@1.2.7-RELEASE?classifier=sources
 - pkg:maven/com.segmeno/kodo@1.2.8-RELEASE
 - pkg:maven/com.segmeno/kodo@1.2.8-RELEASE?classifier=sources
+- pkg:maven/com.segmeno/kodo@1.2.9-RELEASE
+- pkg:maven/com.segmeno/kodo@1.2.9-RELEASE?classifier=sources

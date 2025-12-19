@@ -84,6 +84,7 @@
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.16.0-alpha5
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.16.0-alpha5?classifier=sources
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.16.0?classifier=sources
+- pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.17.0
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.17.0-alpha1
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.17.0-alpha1?classifier=sources
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.17.0-alpha2
@@ -94,6 +95,9 @@
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.17.0-alpha4?classifier=sources
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.17.0-alpha5
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.17.0-alpha5?classifier=sources
+- pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.17.0-alpha6
+- pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.17.0-alpha6?classifier=sources
+- pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.17.0?classifier=sources
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.9.0
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.9.0-alpha2
 - pkg:maven/org.camunda.bpm/camunda-engine-rest-jaxrs2@7.9.0-alpha2?classifier=sources

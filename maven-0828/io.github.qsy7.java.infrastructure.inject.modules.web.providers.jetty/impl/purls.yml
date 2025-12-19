@@ -1,0 +1,2 @@
+- pkg:maven/io.github.qsy7.java.infrastructure.inject.modules.web.providers.jetty/impl@0.1.2
+- pkg:maven/io.github.qsy7.java.infrastructure.inject.modules.web.providers.jetty/impl@0.1.2?classifier=sources

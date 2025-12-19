@@ -1,1 +1,2 @@
 - pkg:maven/net.reini/virtual-printer@1.0.0?classifier=sources
+- pkg:maven/net.reini/virtual-printer@1.1.0?classifier=sources

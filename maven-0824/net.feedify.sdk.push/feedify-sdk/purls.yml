@@ -6,5 +6,7 @@
 - pkg:maven/net.feedify.sdk.push/feedify-sdk@1.0.3?type=aar
 - pkg:maven/net.feedify.sdk.push/feedify-sdk@1.0.4?classifier=sources
 - pkg:maven/net.feedify.sdk.push/feedify-sdk@1.0.5?classifier=sources
+- pkg:maven/net.feedify.sdk.push/feedify-sdk@1.0.6?classifier=sources
+- pkg:maven/net.feedify.sdk.push/feedify-sdk@1.0.7?classifier=sources
 - pkg:maven/net.feedify.sdk.push/feedify-sdk@1.0?classifier=sources
 - pkg:maven/net.feedify.sdk.push/feedify-sdk@1.0?type=aar

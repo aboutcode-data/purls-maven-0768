@@ -1,3 +1,4 @@
+- pkg:maven/org.rm3l/maoni-common@10.0.0?classifier=sources
 - pkg:maven/org.rm3l/maoni-common@8.4.0?classifier=sources
 - pkg:maven/org.rm3l/maoni-common@8.5.1?classifier=sources
 - pkg:maven/org.rm3l/maoni-common@9.0.0?classifier=sources

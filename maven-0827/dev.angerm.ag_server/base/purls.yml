@@ -10,3 +10,4 @@
 - pkg:maven/dev.angerm.ag_server/base@0.1.7?classifier=sources
 - pkg:maven/dev.angerm.ag_server/base@0.1.8?classifier=sources
 - pkg:maven/dev.angerm.ag_server/base@0.1.9?classifier=sources
+- pkg:maven/dev.angerm.ag_server/base@1.0.0?classifier=sources

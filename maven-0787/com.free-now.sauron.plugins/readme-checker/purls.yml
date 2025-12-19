@@ -1,3 +1,5 @@
+- pkg:maven/com.free-now.sauron.plugins/readme-checker@0.0.10
+- pkg:maven/com.free-now.sauron.plugins/readme-checker@0.0.10?classifier=sources
 - pkg:maven/com.free-now.sauron.plugins/readme-checker@0.0.7
 - pkg:maven/com.free-now.sauron.plugins/readme-checker@0.0.7?classifier=sources
 - pkg:maven/com.free-now.sauron.plugins/readme-checker@0.0.8

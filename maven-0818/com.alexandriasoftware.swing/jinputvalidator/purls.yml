@@ -12,3 +12,5 @@
 - pkg:maven/com.alexandriasoftware.swing/jinputvalidator@0.6.0?classifier=sources
 - pkg:maven/com.alexandriasoftware.swing/jinputvalidator@0.8.0
 - pkg:maven/com.alexandriasoftware.swing/jinputvalidator@0.8.0?classifier=sources
+- pkg:maven/com.alexandriasoftware.swing/jinputvalidator@0.9.0
+- pkg:maven/com.alexandriasoftware.swing/jinputvalidator@0.9.0?classifier=sources

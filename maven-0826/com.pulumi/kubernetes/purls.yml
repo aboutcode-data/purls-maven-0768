@@ -1,0 +1,1 @@
+- pkg:maven/com.pulumi/kubernetes@3.18.3?classifier=sources

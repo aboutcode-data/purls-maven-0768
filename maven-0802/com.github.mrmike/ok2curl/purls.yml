@@ -1,1 +1,2 @@
 - pkg:maven/com.github.mrmike/ok2curl@0.7.0?classifier=sources
+- pkg:maven/com.github.mrmike/ok2curl@0.8.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.liferay/org.springframework.beans@3.0.7.LIFERAY-PATCHED-1
+- pkg:maven/com.liferay/org.springframework.beans@3.0.7.LIFERAY-PATCHED-1?classifier=sources
+- pkg:maven/com.liferay/org.springframework.beans@3.0.7.LIFERAY-PATCHED-1?classifier=sources-commercial
+- pkg:maven/com.liferay/org.springframework.beans@4.3.30.LIFERAY-PATCHED-1
+- pkg:maven/com.liferay/org.springframework.beans@4.3.30.LIFERAY-PATCHED-1?classifier=sources
+- pkg:maven/com.liferay/org.springframework.beans@4.3.30.LIFERAY-PATCHED-1?classifier=sources-commercial

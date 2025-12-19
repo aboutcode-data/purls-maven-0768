@@ -1,0 +1,2 @@
+- pkg:maven/org.forome/querypoolrdao@0.0.1p1
+- pkg:maven/org.forome/querypoolrdao@0.0.1p1?classifier=sources

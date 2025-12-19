@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.olingo/olingo-odata2-client-core@2.0.11
 - pkg:maven/org.apache.olingo/olingo-odata2-client-core@2.0.11?classifier=sources
+- pkg:maven/org.apache.olingo/olingo-odata2-client-core@2.0.12
+- pkg:maven/org.apache.olingo/olingo-odata2-client-core@2.0.12?classifier=sources

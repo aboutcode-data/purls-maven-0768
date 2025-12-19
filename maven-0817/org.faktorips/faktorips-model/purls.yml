@@ -1,0 +1,4 @@
+- pkg:maven/org.faktorips/faktorips-model@22.6.0-m02
+- pkg:maven/org.faktorips/faktorips-model@22.6.0-m02?classifier=sources
+- pkg:maven/org.faktorips/faktorips-model@22.6.0-rc01
+- pkg:maven/org.faktorips/faktorips-model@22.6.0-rc01?classifier=sources

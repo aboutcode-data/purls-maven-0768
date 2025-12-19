@@ -6,3 +6,5 @@
 - pkg:maven/ch.stegmaier.java2tex/commands@0.1.2?classifier=sources
 - pkg:maven/ch.stegmaier.java2tex/commands@0.1.3
 - pkg:maven/ch.stegmaier.java2tex/commands@0.1.3?classifier=sources
+- pkg:maven/ch.stegmaier.java2tex/commands@0.1.4
+- pkg:maven/ch.stegmaier.java2tex/commands@0.1.4?classifier=sources

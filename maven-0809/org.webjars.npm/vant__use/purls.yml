@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/vant__use@1.1.2
 - pkg:maven/org.webjars.npm/vant__use@1.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/vant__use@1.3.6
+- pkg:maven/org.webjars.npm/vant__use@1.3.6?classifier=sources

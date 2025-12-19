@@ -32,3 +32,5 @@
 - pkg:maven/tech.wetech.mybatis/mybatis-ext-spring-boot-autoconfigure@1.6.4?classifier=sources
 - pkg:maven/tech.wetech.mybatis/mybatis-ext-spring-boot-autoconfigure@1.6.5
 - pkg:maven/tech.wetech.mybatis/mybatis-ext-spring-boot-autoconfigure@1.6.5?classifier=sources
+- pkg:maven/tech.wetech.mybatis/mybatis-ext-spring-boot-autoconfigure@1.6.7
+- pkg:maven/tech.wetech.mybatis/mybatis-ext-spring-boot-autoconfigure@1.6.7?classifier=sources

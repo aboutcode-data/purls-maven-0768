@@ -176,6 +176,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.jquery.web@2.0.26
 - pkg:maven/com.liferay/com.liferay.frontend.js.jquery.web@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.jquery.web@2.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.jquery.web@2.0.27
+- pkg:maven/com.liferay/com.liferay.frontend.js.jquery.web@2.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.jquery.web@2.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.jquery.web@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.jquery.web@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.jquery.web@2.0.3

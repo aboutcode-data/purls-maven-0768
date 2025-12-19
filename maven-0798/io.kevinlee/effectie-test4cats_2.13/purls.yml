@@ -2,3 +2,5 @@
 - pkg:maven/io.kevinlee/effectie-test4cats_2.13@1.15.0?classifier=sources
 - pkg:maven/io.kevinlee/effectie-test4cats_2.13@1.16.0
 - pkg:maven/io.kevinlee/effectie-test4cats_2.13@1.16.0?classifier=sources
+- pkg:maven/io.kevinlee/effectie-test4cats_2.13@2.0.0-beta1
+- pkg:maven/io.kevinlee/effectie-test4cats_2.13@2.0.0-beta1?classifier=sources

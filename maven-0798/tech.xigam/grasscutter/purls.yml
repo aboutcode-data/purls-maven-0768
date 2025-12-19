@@ -1,0 +1,4 @@
+- pkg:maven/tech.xigam/grasscutter@1.0.0-dev?classifier=sources
+- pkg:maven/tech.xigam/grasscutter@1.0.1-dev?classifier=sources
+- pkg:maven/tech.xigam/grasscutter@1.0.2-dev?classifier=sources
+- pkg:maven/tech.xigam/grasscutter@1.0.3-dev?classifier=sources

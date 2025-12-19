@@ -1,0 +1,2 @@
+- pkg:maven/org.openurp.std.registration/openurp-std-registration-web@0.0.1
+- pkg:maven/org.openurp.std.registration/openurp-std-registration-web@0.0.1?classifier=sources

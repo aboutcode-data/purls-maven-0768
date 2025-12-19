@@ -244,9 +244,15 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.6.10-RC
 - pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.6.10-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.6.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.6.20
 - pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.6.20-M1
 - pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.6.20-M1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.6.20-RC
 - pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.6.20-RC2
 - pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.6.20-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.6.20-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.6.20?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.6.21
+- pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.6.21?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.7.0-Beta
+- pkg:maven/org.jetbrains.kotlin/kotlin-reflect@1.7.0-Beta?classifier=sources

@@ -8,6 +8,7 @@
 - pkg:maven/org.opendaylight.jsonrpc/jsonrpc-provider-cluster@1.10.4?classifier=sources
 - pkg:maven/org.opendaylight.jsonrpc/jsonrpc-provider-cluster@1.11.1?classifier=sources
 - pkg:maven/org.opendaylight.jsonrpc/jsonrpc-provider-cluster@1.11.2?classifier=sources
+- pkg:maven/org.opendaylight.jsonrpc/jsonrpc-provider-cluster@1.12.0?classifier=sources
 - pkg:maven/org.opendaylight.jsonrpc/jsonrpc-provider-cluster@1.9.0
 - pkg:maven/org.opendaylight.jsonrpc/jsonrpc-provider-cluster@1.9.0?classifier=sources
 - pkg:maven/org.opendaylight.jsonrpc/jsonrpc-provider-cluster@1.9.1

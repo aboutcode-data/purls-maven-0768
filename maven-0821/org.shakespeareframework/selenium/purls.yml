@@ -2,3 +2,7 @@
 - pkg:maven/org.shakespeareframework/selenium@0.2?classifier=sources
 - pkg:maven/org.shakespeareframework/selenium@0.3?classifier=sources
 - pkg:maven/org.shakespeareframework/selenium@0.4?classifier=sources
+- pkg:maven/org.shakespeareframework/selenium@0.5.1?classifier=sources
+- pkg:maven/org.shakespeareframework/selenium@0.5.2?classifier=sources
+- pkg:maven/org.shakespeareframework/selenium@0.5.3?classifier=sources
+- pkg:maven/org.shakespeareframework/selenium@0.5?classifier=sources

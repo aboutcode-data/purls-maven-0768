@@ -5,3 +5,4 @@
 - pkg:maven/no.nordicsemi.android/mcumgr-core@0.13.0-beta09?classifier=sources
 - pkg:maven/no.nordicsemi.android/mcumgr-core@1.1-beta01?classifier=sources
 - pkg:maven/no.nordicsemi.android/mcumgr-core@1.1.0?classifier=sources
+- pkg:maven/no.nordicsemi.android/mcumgr-core@1.2.0?classifier=sources
