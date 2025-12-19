@@ -1,0 +1,2 @@
+- pkg:maven/cn.fox-tech/fox-edge-server-channel-domain@1.0.1
+- pkg:maven/cn.fox-tech/fox-edge-server-channel-domain@1.0.1?classifier=sources

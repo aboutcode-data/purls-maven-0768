@@ -1,0 +1,2 @@
+- pkg:maven/software.aws/aws-pdk@0.19.69
+- pkg:maven/software.aws/aws-pdk@0.19.69?classifier=sources

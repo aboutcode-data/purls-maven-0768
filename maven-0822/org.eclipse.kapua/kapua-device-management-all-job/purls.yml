@@ -33,3 +33,4 @@
 - pkg:maven/org.eclipse.kapua/kapua-device-management-all-job@1.6.5
 - pkg:maven/org.eclipse.kapua/kapua-device-management-all-job@1.6.6
 - pkg:maven/org.eclipse.kapua/kapua-device-management-all-job@1.6.7
+- pkg:maven/org.eclipse.kapua/kapua-device-management-all-job@1.6.8

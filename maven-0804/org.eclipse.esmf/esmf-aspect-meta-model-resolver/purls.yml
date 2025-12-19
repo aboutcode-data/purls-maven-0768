@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.esmf/esmf-aspect-meta-model-resolver@2.2.3?classifier=sources
 - pkg:maven/org.eclipse.esmf/esmf-aspect-meta-model-resolver@2.3.0
 - pkg:maven/org.eclipse.esmf/esmf-aspect-meta-model-resolver@2.3.0?classifier=sources
+- pkg:maven/org.eclipse.esmf/esmf-aspect-meta-model-resolver@2.3.1
+- pkg:maven/org.eclipse.esmf/esmf-aspect-meta-model-resolver@2.3.1?classifier=sources

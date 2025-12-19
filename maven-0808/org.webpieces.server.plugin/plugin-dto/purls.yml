@@ -63,4 +63,9 @@
 - pkg:maven/org.webpieces.server.plugin/plugin-dto@2.1.79?classifier=sources
 - pkg:maven/org.webpieces.server.plugin/plugin-dto@2.1.80?classifier=sources
 - pkg:maven/org.webpieces.server.plugin/plugin-dto@2.1.83?classifier=sources
+- pkg:maven/org.webpieces.server.plugin/plugin-dto@2.1.84?classifier=sources
+- pkg:maven/org.webpieces.server.plugin/plugin-dto@2.1.85?classifier=sources
+- pkg:maven/org.webpieces.server.plugin/plugin-dto@2.1.86?classifier=sources
+- pkg:maven/org.webpieces.server.plugin/plugin-dto@2.1.88?classifier=sources
+- pkg:maven/org.webpieces.server.plugin/plugin-dto@2.1.89?classifier=sources
 - pkg:maven/org.webpieces.server.plugin/plugin-dto@2.1.8?classifier=sources

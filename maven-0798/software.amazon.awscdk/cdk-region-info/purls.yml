@@ -838,5 +838,17 @@
 - pkg:maven/software.amazon.awscdk/cdk-region-info@2.87.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-region-info@2.88.0
 - pkg:maven/software.amazon.awscdk/cdk-region-info@2.88.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.89.0
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.89.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-region-info@2.9.0
 - pkg:maven/software.amazon.awscdk/cdk-region-info@2.9.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.90.0
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.90.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.91.0
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.91.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.92.0
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.92.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.93.0
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.93.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.94.0
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.94.0?classifier=sources

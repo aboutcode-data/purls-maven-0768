@@ -4,6 +4,7 @@
 - pkg:maven/eu.hansolo/jdktools@11.0.13?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@11.0.15?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@11.0.19?classifier=sources
+- pkg:maven/eu.hansolo/jdktools@11.0.21?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@11.0.2?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@11.0.3?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@11.0.4?classifier=sources
@@ -28,6 +29,7 @@
 - pkg:maven/eu.hansolo/jdktools@17.0.2?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@17.0.31?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@17.0.33?classifier=sources
+- pkg:maven/eu.hansolo/jdktools@17.0.35?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@17.0.3?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@17.0.4?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@17.0.5?classifier=sources

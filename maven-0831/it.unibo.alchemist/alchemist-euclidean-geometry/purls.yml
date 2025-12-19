@@ -148,6 +148,10 @@
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@25.9.2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@25.9.3?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@26.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@26.0.10?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@26.0.11?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@26.0.12?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@26.0.13?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@26.0.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@26.0.2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@26.0.3?classifier=sources
@@ -156,6 +160,9 @@
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@26.0.6?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@26.0.7?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@26.0.8?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@26.0.9?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@27.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@28.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@9.3.0-dev197%2B283eea26e?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@9.3.0-dev198%2Bb6c1cfaa1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@9.3.0-dev1bc%2Bfd2c3a1c0?classifier=sources

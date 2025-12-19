@@ -1,0 +1,4 @@
+- pkg:maven/app.cloud7/scaliingo_2.12_1.0@0.1.0
+- pkg:maven/app.cloud7/scaliingo_2.12_1.0@0.1.0?classifier=sources
+- pkg:maven/app.cloud7/scaliingo_2.12_1.0@0.1.1
+- pkg:maven/app.cloud7/scaliingo_2.12_1.0@0.1.1?classifier=sources

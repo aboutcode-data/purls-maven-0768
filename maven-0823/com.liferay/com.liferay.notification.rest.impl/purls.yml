@@ -95,9 +95,12 @@
 - pkg:maven/com.liferay/com.liferay.notification.rest.impl@1.0.38
 - pkg:maven/com.liferay/com.liferay.notification.rest.impl@1.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notification.rest.impl@1.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.notification.rest.impl@1.0.39
+- pkg:maven/com.liferay/com.liferay.notification.rest.impl@1.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notification.rest.impl@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notification.rest.impl@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.notification.rest.impl@1.0.4
+- pkg:maven/com.liferay/com.liferay.notification.rest.impl@1.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notification.rest.impl@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notification.rest.impl@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.notification.rest.impl@1.0.5

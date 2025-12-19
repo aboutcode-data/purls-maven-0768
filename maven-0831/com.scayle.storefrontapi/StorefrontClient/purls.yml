@@ -2,3 +2,5 @@
 - pkg:maven/com.scayle.storefrontapi/StorefrontClient@1.0.0?classifier=sources
 - pkg:maven/com.scayle.storefrontapi/StorefrontClient@1.128.2
 - pkg:maven/com.scayle.storefrontapi/StorefrontClient@1.128.2?classifier=sources
+- pkg:maven/com.scayle.storefrontapi/StorefrontClient@1.136.1
+- pkg:maven/com.scayle.storefrontapi/StorefrontClient@1.136.1?classifier=sources

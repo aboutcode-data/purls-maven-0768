@@ -1,0 +1,5 @@
+- pkg:maven/money.rave/backend-common@0.0.1?classifier=sources
+- pkg:maven/money.rave/backend-common@0.0.2?classifier=sources
+- pkg:maven/money.rave/backend-common@SNAPSHOT-1690875531593?classifier=sources
+- pkg:maven/money.rave/backend-common@SNAPSHOT-1690945934477?classifier=sources
+- pkg:maven/money.rave/backend-common@SNAPSHOT-1691075908049?classifier=sources

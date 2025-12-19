@@ -12,6 +12,10 @@
 - pkg:maven/org.nkjmlab/nkjmlab-utils-helper@0.1.7?classifier=sources
 - pkg:maven/org.nkjmlab/nkjmlab-utils-helper@0.1.8
 - pkg:maven/org.nkjmlab/nkjmlab-utils-helper@0.1.8?classifier=sources
+- pkg:maven/org.nkjmlab/nkjmlab-utils-helper@0.10.0
+- pkg:maven/org.nkjmlab/nkjmlab-utils-helper@0.10.0?classifier=sources
+- pkg:maven/org.nkjmlab/nkjmlab-utils-helper@0.10.2
+- pkg:maven/org.nkjmlab/nkjmlab-utils-helper@0.10.2?classifier=sources
 - pkg:maven/org.nkjmlab/nkjmlab-utils-helper@0.8.0
 - pkg:maven/org.nkjmlab/nkjmlab-utils-helper@0.8.0?classifier=sources
 - pkg:maven/org.nkjmlab/nkjmlab-utils-helper@0.8.1

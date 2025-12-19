@@ -1,0 +1,8 @@
+- pkg:maven/org.awsutils/dynamodb-autoconfigure@1.0.1-beta
+- pkg:maven/org.awsutils/dynamodb-autoconfigure@1.0.1-beta2
+- pkg:maven/org.awsutils/dynamodb-autoconfigure@1.0.1-beta2?classifier=sources
+- pkg:maven/org.awsutils/dynamodb-autoconfigure@1.0.1-beta3
+- pkg:maven/org.awsutils/dynamodb-autoconfigure@1.0.1-beta3?classifier=sources
+- pkg:maven/org.awsutils/dynamodb-autoconfigure@1.0.1-beta4
+- pkg:maven/org.awsutils/dynamodb-autoconfigure@1.0.1-beta4?classifier=sources
+- pkg:maven/org.awsutils/dynamodb-autoconfigure@1.0.1-beta?classifier=sources

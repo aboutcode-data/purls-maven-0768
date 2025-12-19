@@ -64,6 +64,10 @@
 - pkg:maven/com.google.apis/google-api-services-privateca@v1-rev20230419-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-privateca@v1-rev20230503-2.0.0
 - pkg:maven/com.google.apis/google-api-services-privateca@v1-rev20230503-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-privateca@v1-rev20230620-2.0.0
+- pkg:maven/com.google.apis/google-api-services-privateca@v1-rev20230620-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-privateca@v1-rev20230809-2.0.0
+- pkg:maven/com.google.apis/google-api-services-privateca@v1-rev20230809-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-privateca@v1beta1-rev20201022-1.30.10
 - pkg:maven/com.google.apis/google-api-services-privateca@v1beta1-rev20201022-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-privateca@v1beta1-rev20201029-1.30.10
@@ -124,3 +128,7 @@
 - pkg:maven/com.google.apis/google-api-services-privateca@v1beta1-rev20230403-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-privateca@v1beta1-rev20230419-2.0.0
 - pkg:maven/com.google.apis/google-api-services-privateca@v1beta1-rev20230419-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-privateca@v1beta1-rev20230620-2.0.0
+- pkg:maven/com.google.apis/google-api-services-privateca@v1beta1-rev20230620-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-privateca@v1beta1-rev20230809-2.0.0
+- pkg:maven/com.google.apis/google-api-services-privateca@v1beta1-rev20230809-2.0.0?classifier=sources

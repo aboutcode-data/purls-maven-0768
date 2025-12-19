@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/bind-event-listener@1.0.2
 - pkg:maven/org.webjars.npm/bind-event-listener@1.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/bind-event-listener@3.0.0-beta.1
+- pkg:maven/org.webjars.npm/bind-event-listener@3.0.0-beta.1?classifier=sources

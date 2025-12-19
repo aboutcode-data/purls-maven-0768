@@ -61,5 +61,11 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-api@1.73.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-api@1.74.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-api@1.75.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-api@1.76.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-api@1.77.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-api@1.78.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-api@1.79.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-api@1.8.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-api@1.80.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-api@1.82.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-api@1.9.0?classifier=sources

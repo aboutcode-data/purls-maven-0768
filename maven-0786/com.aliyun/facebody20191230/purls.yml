@@ -128,3 +128,5 @@
 - pkg:maven/com.aliyun/facebody20191230@3.0.8?classifier=sources
 - pkg:maven/com.aliyun/facebody20191230@4.0.0
 - pkg:maven/com.aliyun/facebody20191230@4.0.0?classifier=sources
+- pkg:maven/com.aliyun/facebody20191230@5.0.0
+- pkg:maven/com.aliyun/facebody20191230@5.0.0?classifier=sources

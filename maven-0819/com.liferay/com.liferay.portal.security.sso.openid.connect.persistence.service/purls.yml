@@ -77,6 +77,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@5.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@5.0.8
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@5.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.0
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.0?classifier=sources-commercial
@@ -126,6 +127,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.23
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.24
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.3

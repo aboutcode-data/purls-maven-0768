@@ -2,3 +2,6 @@
 - pkg:maven/com.exactpro.th2/common-utils@0.0.2?classifier=sources
 - pkg:maven/com.exactpro.th2/common-utils@0.0.3?classifier=sources
 - pkg:maven/com.exactpro.th2/common-utils@2.0.0-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/common-utils@2.1.0-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/common-utils@2.1.1-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/common-utils@2.2.0-dev?classifier=sources

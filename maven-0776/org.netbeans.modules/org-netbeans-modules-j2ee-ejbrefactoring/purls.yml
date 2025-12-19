@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ejbrefactoring@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ejbrefactoring@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ejbrefactoring@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ejbrefactoring@RELEASE190?classifier=sources

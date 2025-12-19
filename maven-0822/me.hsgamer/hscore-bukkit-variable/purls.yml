@@ -1,5 +1,7 @@
 - pkg:maven/me.hsgamer/hscore-bukkit-variable@4.3.10
 - pkg:maven/me.hsgamer/hscore-bukkit-variable@4.3.10?classifier=sources
+- pkg:maven/me.hsgamer/hscore-bukkit-variable@4.3.11
+- pkg:maven/me.hsgamer/hscore-bukkit-variable@4.3.11?classifier=sources
 - pkg:maven/me.hsgamer/hscore-bukkit-variable@4.3.5
 - pkg:maven/me.hsgamer/hscore-bukkit-variable@4.3.5?classifier=sources
 - pkg:maven/me.hsgamer/hscore-bukkit-variable@4.3.6

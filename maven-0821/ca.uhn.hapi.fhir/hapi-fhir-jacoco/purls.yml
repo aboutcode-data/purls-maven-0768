@@ -4,6 +4,8 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jacoco@6.4.3
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jacoco@6.4.4
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jacoco@6.4.6
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jacoco@6.4.7
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jacoco@6.6.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jacoco@6.6.1
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jacoco@6.6.2
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jacoco@6.8.0

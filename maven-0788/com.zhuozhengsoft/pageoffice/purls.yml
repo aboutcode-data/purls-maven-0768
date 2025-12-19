@@ -15,3 +15,4 @@
 - pkg:maven/com.zhuozhengsoft/pageoffice@6.0.0.6-javax?classifier=sources
 - pkg:maven/com.zhuozhengsoft/pageoffice@6.0.0.7-javax?classifier=sources
 - pkg:maven/com.zhuozhengsoft/pageoffice@6.0.0.8-javax?classifier=sources
+- pkg:maven/com.zhuozhengsoft/pageoffice@6.0.0.9-javax?classifier=sources

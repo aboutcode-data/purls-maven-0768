@@ -94,3 +94,5 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.exportimport.api@6.1.5
 - pkg:maven/com.liferay/com.liferay.portal.security.exportimport.api@6.1.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.exportimport.api@6.1.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.exportimport.api@6.1.6
+- pkg:maven/com.liferay/com.liferay.portal.security.exportimport.api@6.1.6?classifier=sources

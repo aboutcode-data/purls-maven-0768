@@ -16,6 +16,10 @@
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@4.19.2?classifier=sources
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@4.20.0
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@4.20.0?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@4.20.1
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@4.20.1?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@4.20.2
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@4.20.2?classifier=sources
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-01
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-01?classifier=sources
@@ -78,3 +82,5 @@
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.1.0?classifier=sources
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.2.0
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.2.0?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.3.2
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@5.3.2?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.bonitasoft.web/ui-designer-artifact-builder@1.0.0-alpha-03?classifier=sources
 - pkg:maven/org.bonitasoft.web/ui-designer-artifact-builder@1.0.0-alpha-04
 - pkg:maven/org.bonitasoft.web/ui-designer-artifact-builder@1.0.0-alpha-04?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-artifact-builder@1.0.0-alpha-05
+- pkg:maven/org.bonitasoft.web/ui-designer-artifact-builder@1.0.0-alpha-05?classifier=sources

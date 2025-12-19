@@ -10,3 +10,4 @@
 - pkg:maven/com.uwetrottmann.androidutils/androidutils@2.4.1?classifier=sources
 - pkg:maven/com.uwetrottmann.androidutils/androidutils@3.0.0?classifier=sources
 - pkg:maven/com.uwetrottmann.androidutils/androidutils@3.1.0?classifier=sources
+- pkg:maven/com.uwetrottmann.androidutils/androidutils@4.0.0?classifier=sources

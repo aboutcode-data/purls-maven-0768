@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jdownload/com.io7m.jdownload.tests@0.0.1
+- pkg:maven/com.io7m.jdownload/com.io7m.jdownload.tests@0.0.1?classifier=sources

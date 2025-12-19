@@ -13,3 +13,4 @@
 - pkg:maven/io.rocketbase.commons/coverage@4.7.2
 - pkg:maven/io.rocketbase.commons/coverage@4.7.3
 - pkg:maven/io.rocketbase.commons/coverage@4.8.0
+- pkg:maven/io.rocketbase.commons/coverage@4.8.1

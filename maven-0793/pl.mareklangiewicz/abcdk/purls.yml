@@ -3,3 +3,4 @@
 - pkg:maven/pl.mareklangiewicz/abcdk@0.0.08?classifier=sources
 - pkg:maven/pl.mareklangiewicz/abcdk@0.0.09?classifier=sources
 - pkg:maven/pl.mareklangiewicz/abcdk@0.0.11?classifier=sources
+- pkg:maven/pl.mareklangiewicz/abcdk@0.0.14?classifier=sources

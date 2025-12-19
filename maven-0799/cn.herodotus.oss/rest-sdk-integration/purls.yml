@@ -1,0 +1,6 @@
+- pkg:maven/cn.herodotus.oss/rest-sdk-integration@1.2.0
+- pkg:maven/cn.herodotus.oss/rest-sdk-integration@1.2.0?classifier=sources
+- pkg:maven/cn.herodotus.oss/rest-sdk-integration@1.2.1
+- pkg:maven/cn.herodotus.oss/rest-sdk-integration@1.2.1?classifier=sources
+- pkg:maven/cn.herodotus.oss/rest-sdk-integration@1.2.8
+- pkg:maven/cn.herodotus.oss/rest-sdk-integration@1.2.8?classifier=sources

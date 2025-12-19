@@ -8,6 +8,9 @@
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.20@3.15.1?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.20@3.16.0?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.20@3.17.0?classifier=sources
+- pkg:maven/com.github.seeseemelk/MockBukkit-v1.20@3.18.0?classifier=sources
+- pkg:maven/com.github.seeseemelk/MockBukkit-v1.20@3.19.0?classifier=sources
+- pkg:maven/com.github.seeseemelk/MockBukkit-v1.20@3.19.1?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.20@3.4.3?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.20@3.6.0?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.20@3.6.1?classifier=sources

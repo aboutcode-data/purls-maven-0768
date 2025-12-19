@@ -1,0 +1,3 @@
+- pkg:maven/io.polywrap/polywrap-client-jvm@0.10.0?classifier=sources
+- pkg:maven/io.polywrap/polywrap-client-jvm@0.10.1?classifier=sources
+- pkg:maven/io.polywrap/polywrap-client-jvm@0.10.2?classifier=sources

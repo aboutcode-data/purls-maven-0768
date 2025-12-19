@@ -26,3 +26,13 @@
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_3@6.42.3%2B0.0.5?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_3@6.43.0%2B0.0.5
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_3@6.43.0%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_3@6.44.0%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_3@6.44.0%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_3@6.45.0%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_3@6.45.0%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_3@6.45.1%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_3@6.45.1%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_3@6.45.2%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_3@6.45.2%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_3@6.45.3%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_3@6.45.3%2B0.0.5?classifier=sources

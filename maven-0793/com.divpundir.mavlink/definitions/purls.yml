@@ -8,3 +8,4 @@
 - pkg:maven/com.divpundir.mavlink/definitions@0.20.0?classifier=sources
 - pkg:maven/com.divpundir.mavlink/definitions@0.30.0-alpha?classifier=sources
 - pkg:maven/com.divpundir.mavlink/definitions@0.30.0?classifier=sources
+- pkg:maven/com.divpundir.mavlink/definitions@1.0.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.yodo1.suit.analytics/adjust@4.33.4.7?classifier=sources
 - pkg:maven/com.yodo1.suit.analytics/adjust@4.33.4.8?classifier=sources
 - pkg:maven/com.yodo1.suit.analytics/adjust@4.33.4.9?classifier=sources
+- pkg:maven/com.yodo1.suit.analytics/adjust@4.33.5.0?classifier=sources
+- pkg:maven/com.yodo1.suit.analytics/adjust@4.33.5.1?classifier=sources

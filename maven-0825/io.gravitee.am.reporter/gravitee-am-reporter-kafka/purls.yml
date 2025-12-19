@@ -129,3 +129,4 @@
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-kafka@3.21.1?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-kafka@3.21.2?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-kafka@3.21.4?classifier=sources
+- pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-kafka@4.0.0?classifier=sources

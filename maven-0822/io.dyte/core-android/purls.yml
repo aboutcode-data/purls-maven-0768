@@ -52,9 +52,15 @@
 - pkg:maven/io.dyte/core-android@1.19.12?classifier=sources
 - pkg:maven/io.dyte/core-android@1.19.13?classifier=sources
 - pkg:maven/io.dyte/core-android@1.19.14?classifier=sources
+- pkg:maven/io.dyte/core-android@1.19.15?classifier=sources
+- pkg:maven/io.dyte/core-android@1.19.16?classifier=sources
+- pkg:maven/io.dyte/core-android@1.19.17?classifier=sources
 - pkg:maven/io.dyte/core-android@1.19.1?classifier=sources
 - pkg:maven/io.dyte/core-android@1.19.2?classifier=sources
 - pkg:maven/io.dyte/core-android@1.19.4?classifier=sources
 - pkg:maven/io.dyte/core-android@1.19.5?classifier=sources
+- pkg:maven/io.dyte/core-android@1.20.0?classifier=sources
+- pkg:maven/io.dyte/core-android@1.20.1?classifier=sources
+- pkg:maven/io.dyte/core-android@1.21.0?classifier=sources
 - pkg:maven/io.dyte/core-android@1.4.0-staging.3?classifier=sources
 - pkg:maven/io.dyte/core-android@1.4.0-staging.4?classifier=sources

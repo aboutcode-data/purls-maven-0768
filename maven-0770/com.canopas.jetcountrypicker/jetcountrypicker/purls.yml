@@ -3,3 +3,11 @@
 - pkg:maven/com.canopas.jetcountrypicker/jetcountrypicker@1.0.3?classifier=sources
 - pkg:maven/com.canopas.jetcountrypicker/jetcountrypicker@1.0.4?classifier=sources
 - pkg:maven/com.canopas.jetcountrypicker/jetcountrypicker@1.0.5?classifier=sources
+- pkg:maven/com.canopas.jetcountrypicker/jetcountrypicker@1.0.7?classifier=sources
+- pkg:maven/com.canopas.jetcountrypicker/jetcountrypicker@1.0.8-alpha01?classifier=sources
+- pkg:maven/com.canopas.jetcountrypicker/jetcountrypicker@1.0.8-alpha02?classifier=sources
+- pkg:maven/com.canopas.jetcountrypicker/jetcountrypicker@1.0.8-alpha03?classifier=sources
+- pkg:maven/com.canopas.jetcountrypicker/jetcountrypicker@1.0.8?classifier=sources
+- pkg:maven/com.canopas.jetcountrypicker/jetcountrypicker@1.0.9-alpha01?classifier=sources
+- pkg:maven/com.canopas.jetcountrypicker/jetcountrypicker@1.0.9-alpha02?classifier=sources
+- pkg:maven/com.canopas.jetcountrypicker/jetcountrypicker@1.0.9?classifier=sources

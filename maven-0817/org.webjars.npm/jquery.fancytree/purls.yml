@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/jquery.fancytree@2.38.0?classifier=sources
 - pkg:maven/org.webjars.npm/jquery.fancytree@2.38.2
 - pkg:maven/org.webjars.npm/jquery.fancytree@2.38.2?classifier=sources
+- pkg:maven/org.webjars.npm/jquery.fancytree@2.38.3
+- pkg:maven/org.webjars.npm/jquery.fancytree@2.38.3?classifier=sources

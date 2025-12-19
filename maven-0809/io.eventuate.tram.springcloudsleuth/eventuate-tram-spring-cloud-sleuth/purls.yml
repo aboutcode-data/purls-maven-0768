@@ -2,3 +2,4 @@
 - pkg:maven/io.eventuate.tram.springcloudsleuth/eventuate-tram-spring-cloud-sleuth@0.2.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.tram.springcloudsleuth/eventuate-tram-spring-cloud-sleuth@0.2.1.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.tram.springcloudsleuth/eventuate-tram-spring-cloud-sleuth@0.3.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.tram.springcloudsleuth/eventuate-tram-spring-cloud-sleuth@0.4.0.RELEASE?classifier=sources

@@ -48,3 +48,7 @@
 - pkg:maven/org.jboss.pnc.bacon/cli@2.4.4?classifier=sources
 - pkg:maven/org.jboss.pnc.bacon/cli@2.5.0
 - pkg:maven/org.jboss.pnc.bacon/cli@2.5.0?classifier=sources
+- pkg:maven/org.jboss.pnc.bacon/cli@2.5.1
+- pkg:maven/org.jboss.pnc.bacon/cli@2.5.1?classifier=sources
+- pkg:maven/org.jboss.pnc.bacon/cli@2.5.2
+- pkg:maven/org.jboss.pnc.bacon/cli@2.5.2?classifier=sources

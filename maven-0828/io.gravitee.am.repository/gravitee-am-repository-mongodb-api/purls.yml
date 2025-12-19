@@ -118,3 +118,5 @@
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-mongodb-api@3.21.2?classifier=sources
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-mongodb-api@3.21.4
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-mongodb-api@3.21.4?classifier=sources
+- pkg:maven/io.gravitee.am.repository/gravitee-am-repository-mongodb-api@4.0.0
+- pkg:maven/io.gravitee.am.repository/gravitee-am-repository-mongodb-api@4.0.0?classifier=sources

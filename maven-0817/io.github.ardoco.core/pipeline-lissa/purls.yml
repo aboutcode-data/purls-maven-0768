@@ -12,3 +12,17 @@
 - pkg:maven/io.github.ardoco.core/pipeline-lissa@0.15.0?classifier=sources
 - pkg:maven/io.github.ardoco.core/pipeline-lissa@0.16.0
 - pkg:maven/io.github.ardoco.core/pipeline-lissa@0.16.0?classifier=sources
+- pkg:maven/io.github.ardoco.core/pipeline-lissa@0.17.0
+- pkg:maven/io.github.ardoco.core/pipeline-lissa@0.17.0?classifier=sources
+- pkg:maven/io.github.ardoco.core/pipeline-lissa@0.18.0
+- pkg:maven/io.github.ardoco.core/pipeline-lissa@0.18.0?classifier=sources
+- pkg:maven/io.github.ardoco.core/pipeline-lissa@0.18.1
+- pkg:maven/io.github.ardoco.core/pipeline-lissa@0.18.1?classifier=sources
+- pkg:maven/io.github.ardoco.core/pipeline-lissa@0.19.0
+- pkg:maven/io.github.ardoco.core/pipeline-lissa@0.19.0?classifier=sources
+- pkg:maven/io.github.ardoco.core/pipeline-lissa@0.20.0
+- pkg:maven/io.github.ardoco.core/pipeline-lissa@0.20.0?classifier=sources
+- pkg:maven/io.github.ardoco.core/pipeline-lissa@0.21.0
+- pkg:maven/io.github.ardoco.core/pipeline-lissa@0.21.0?classifier=sources
+- pkg:maven/io.github.ardoco.core/pipeline-lissa@0.22.0
+- pkg:maven/io.github.ardoco.core/pipeline-lissa@0.22.0?classifier=sources

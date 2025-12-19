@@ -1,0 +1,2 @@
+- pkg:maven/cn.huazai.tool/whitelist-access@1.0.0
+- pkg:maven/cn.huazai.tool/whitelist-access@1.0.0?classifier=sources

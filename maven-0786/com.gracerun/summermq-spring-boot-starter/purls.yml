@@ -1,1 +1,4 @@
 - pkg:maven/com.gracerun/summermq-spring-boot-starter@1.0.2
+- pkg:maven/com.gracerun/summermq-spring-boot-starter@1.0.3
+- pkg:maven/com.gracerun/summermq-spring-boot-starter@1.0.4
+- pkg:maven/com.gracerun/summermq-spring-boot-starter@1.0.5

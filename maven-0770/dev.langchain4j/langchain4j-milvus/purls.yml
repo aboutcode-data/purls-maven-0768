@@ -1,0 +1,4 @@
+- pkg:maven/dev.langchain4j/langchain4j-milvus@0.21.0
+- pkg:maven/dev.langchain4j/langchain4j-milvus@0.21.0?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-milvus@0.22.0
+- pkg:maven/dev.langchain4j/langchain4j-milvus@0.22.0?classifier=sources

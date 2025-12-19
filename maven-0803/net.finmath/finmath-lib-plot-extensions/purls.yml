@@ -41,3 +41,5 @@
 - pkg:maven/net.finmath/finmath-lib-plot-extensions@0.4.7?classifier=sources
 - pkg:maven/net.finmath/finmath-lib-plot-extensions@0.4.8
 - pkg:maven/net.finmath/finmath-lib-plot-extensions@0.4.8?classifier=sources
+- pkg:maven/net.finmath/finmath-lib-plot-extensions@0.4.9
+- pkg:maven/net.finmath/finmath-lib-plot-extensions@0.4.9?classifier=sources

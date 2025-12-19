@@ -902,6 +902,8 @@
 - pkg:maven/com.lightbend.cloudflow/cloudflow-runner_2.13@2.3.4-RC3?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/cloudflow-runner_2.13@2.3.4-RC4
 - pkg:maven/com.lightbend.cloudflow/cloudflow-runner_2.13@2.3.4-RC4?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-runner_2.13@2.3.4-RC5
+- pkg:maven/com.lightbend.cloudflow/cloudflow-runner_2.13@2.3.4-RC5?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/cloudflow-runner_2.13@2.3.4-debug.8
 - pkg:maven/com.lightbend.cloudflow/cloudflow-runner_2.13@2.3.4-debug.8?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/cloudflow-runner_2.13@back-to-core-0.0.1

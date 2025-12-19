@@ -1,0 +1,10 @@
+- pkg:maven/com.ibeetl/sql-dynamic-table@3.23.11-RELEASE
+- pkg:maven/com.ibeetl/sql-dynamic-table@3.23.11-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-dynamic-table@3.24.0-RELEASE
+- pkg:maven/com.ibeetl/sql-dynamic-table@3.24.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-dynamic-table@3.24.1-RELEASE
+- pkg:maven/com.ibeetl/sql-dynamic-table@3.24.1-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-dynamic-table@3.25.0-RELEASE
+- pkg:maven/com.ibeetl/sql-dynamic-table@3.25.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-dynamic-table@3.25.1-RELEASE
+- pkg:maven/com.ibeetl/sql-dynamic-table@3.25.1-RELEASE?classifier=sources

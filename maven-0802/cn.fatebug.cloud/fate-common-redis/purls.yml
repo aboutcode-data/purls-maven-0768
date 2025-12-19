@@ -1,0 +1,2 @@
+- pkg:maven/cn.fatebug.cloud/fate-common-redis@0.0.2
+- pkg:maven/cn.fatebug.cloud/fate-common-redis@0.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.chiraghahuja.jsonparser/jsonparser@1.0
+- pkg:maven/io.github.chiraghahuja.jsonparser/jsonparser@1.0?classifier=sources

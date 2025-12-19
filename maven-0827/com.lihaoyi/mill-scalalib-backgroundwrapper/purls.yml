@@ -847,7 +847,17 @@
 - pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.11.0-M8?classifier=sources
 - pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.11.0?classifier=sources
 - pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.11.1
+- pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.11.1-21-2c7fdf
+- pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.11.1-21-2c7fdf?classifier=sources
+- pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.11.1-22-2f4468
+- pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.11.1-22-2f4468?classifier=sources
+- pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.11.1-30-ead8bb
+- pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.11.1-30-ead8bb?classifier=sources
+- pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.11.1-33-6635d2
+- pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.11.1-33-6635d2?classifier=sources
 - pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.11.1?classifier=sources
+- pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.11.2
+- pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.11.2?classifier=sources
 - pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.2.4-6-57f496
 - pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.2.4-6-57f496?classifier=sources
 - pkg:maven/com.lihaoyi/mill-scalalib-backgroundwrapper@0.2.5

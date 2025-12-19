@@ -12,3 +12,5 @@
 - pkg:maven/org.glassfish.main.web/jersey-ejb-component-provider@7.0.4?classifier=sources
 - pkg:maven/org.glassfish.main.web/jersey-ejb-component-provider@7.0.5?classifier=sources
 - pkg:maven/org.glassfish.main.web/jersey-ejb-component-provider@7.0.6?classifier=sources
+- pkg:maven/org.glassfish.main.web/jersey-ejb-component-provider@7.0.7?classifier=sources
+- pkg:maven/org.glassfish.main.web/jersey-ejb-component-provider@7.0.8?classifier=sources

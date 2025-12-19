@@ -1,0 +1,2 @@
+- pkg:maven/io.shipsy.mobilesdk/core-iossimulatorarm64@1.0.3?classifier=sources
+- pkg:maven/io.shipsy.mobilesdk/core-iossimulatorarm64@1.0.5?classifier=sources

@@ -23,3 +23,4 @@
 - pkg:maven/com.athaydes.rawhttp/rawhttp-core@2.5.0?classifier=sources
 - pkg:maven/com.athaydes.rawhttp/rawhttp-core@2.5.1?classifier=sources
 - pkg:maven/com.athaydes.rawhttp/rawhttp-core@2.5.2?classifier=sources
+- pkg:maven/com.athaydes.rawhttp/rawhttp-core@2.6.0?classifier=sources

@@ -74,3 +74,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-splunk@3.0.0-M2?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-splunk@3.0.0-RC1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-splunk@3.0.0-RC1?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-splunk@3.0.0-RC2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-splunk@3.0.0-RC2?classifier=sources

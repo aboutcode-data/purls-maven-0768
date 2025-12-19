@@ -1,2 +1,8 @@
+- pkg:maven/be.sysa.quartz-job-synchronizer/cron-description-api@0.0.2
+- pkg:maven/be.sysa.quartz-job-synchronizer/cron-description-api@0.0.2?classifier=sources
 - pkg:maven/be.sysa.quartz-job-synchronizer/cron-description-api@1.0.0
 - pkg:maven/be.sysa.quartz-job-synchronizer/cron-description-api@1.0.0?classifier=sources
+- pkg:maven/be.sysa.quartz-job-synchronizer/cron-description-api@2.0.0
+- pkg:maven/be.sysa.quartz-job-synchronizer/cron-description-api@2.0.0?classifier=sources
+- pkg:maven/be.sysa.quartz-job-synchronizer/cron-description-api@2.0.1
+- pkg:maven/be.sysa.quartz-job-synchronizer/cron-description-api@2.0.1?classifier=sources

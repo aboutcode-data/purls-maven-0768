@@ -90,3 +90,5 @@
 - pkg:maven/org.webjars.npm/babel__traverse@7.9.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__traverse@7.9.6
 - pkg:maven/org.webjars.npm/babel__traverse@7.9.6?classifier=sources
+- pkg:maven/org.webjars.npm/babel__traverse@8.0.0-alpha.1
+- pkg:maven/org.webjars.npm/babel__traverse@8.0.0-alpha.1?classifier=sources

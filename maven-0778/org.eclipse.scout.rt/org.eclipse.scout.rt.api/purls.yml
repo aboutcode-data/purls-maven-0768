@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.api@23.2.0-beta.4
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.api@23.2.0-beta.4?classifier=sources

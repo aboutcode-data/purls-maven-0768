@@ -188,3 +188,5 @@
 - pkg:maven/com.ibm.cloud/usage-reports@0.37.0?classifier=sources
 - pkg:maven/com.ibm.cloud/usage-reports@0.37.1
 - pkg:maven/com.ibm.cloud/usage-reports@0.37.1?classifier=sources
+- pkg:maven/com.ibm.cloud/usage-reports@0.38.0
+- pkg:maven/com.ibm.cloud/usage-reports@0.38.0?classifier=sources

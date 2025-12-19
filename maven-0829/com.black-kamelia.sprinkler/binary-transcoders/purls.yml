@@ -1,0 +1,2 @@
+- pkg:maven/com.black-kamelia.sprinkler/binary-transcoders@0.1.0?classifier=sources
+- pkg:maven/com.black-kamelia.sprinkler/binary-transcoders@0.2.0?classifier=sources

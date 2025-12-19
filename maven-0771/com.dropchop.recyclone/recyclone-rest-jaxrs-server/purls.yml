@@ -28,3 +28,5 @@
 - pkg:maven/com.dropchop.recyclone/recyclone-rest-jaxrs-server@1.2.1.Alpha?classifier=sources
 - pkg:maven/com.dropchop.recyclone/recyclone-rest-jaxrs-server@1.2.2.Alpha
 - pkg:maven/com.dropchop.recyclone/recyclone-rest-jaxrs-server@1.2.2.Alpha?classifier=sources
+- pkg:maven/com.dropchop.recyclone/recyclone-rest-jaxrs-server@1.2.3.Alpha
+- pkg:maven/com.dropchop.recyclone/recyclone-rest-jaxrs-server@1.2.3.Alpha?classifier=sources

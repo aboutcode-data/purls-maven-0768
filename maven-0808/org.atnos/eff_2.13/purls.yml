@@ -46,3 +46,5 @@
 - pkg:maven/org.atnos/eff_2.13@6.0.2?classifier=sources
 - pkg:maven/org.atnos/eff_2.13@6.0.3
 - pkg:maven/org.atnos/eff_2.13@6.0.3?classifier=sources
+- pkg:maven/org.atnos/eff_2.13@7.0.0
+- pkg:maven/org.atnos/eff_2.13@7.0.0?classifier=sources

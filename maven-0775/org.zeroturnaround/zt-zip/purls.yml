@@ -10,6 +10,8 @@
 - pkg:maven/org.zeroturnaround/zt-zip@1.14?classifier=sources
 - pkg:maven/org.zeroturnaround/zt-zip@1.15
 - pkg:maven/org.zeroturnaround/zt-zip@1.15?classifier=sources
+- pkg:maven/org.zeroturnaround/zt-zip@1.16
+- pkg:maven/org.zeroturnaround/zt-zip@1.16?classifier=sources
 - pkg:maven/org.zeroturnaround/zt-zip@1.4
 - pkg:maven/org.zeroturnaround/zt-zip@1.4?classifier=sources
 - pkg:maven/org.zeroturnaround/zt-zip@1.5

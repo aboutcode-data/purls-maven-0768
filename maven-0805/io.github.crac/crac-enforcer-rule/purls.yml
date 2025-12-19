@@ -1,0 +1,2 @@
+- pkg:maven/io.github.crac/crac-enforcer-rule@1.0.0
+- pkg:maven/io.github.crac/crac-enforcer-rule@1.0.0?classifier=sources

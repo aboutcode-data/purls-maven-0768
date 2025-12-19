@@ -40,3 +40,5 @@
 - pkg:maven/com.github.ekryd.sortpom/sortpom-sorter@3.2.0?classifier=sources
 - pkg:maven/com.github.ekryd.sortpom/sortpom-sorter@3.2.1
 - pkg:maven/com.github.ekryd.sortpom/sortpom-sorter@3.2.1?classifier=sources
+- pkg:maven/com.github.ekryd.sortpom/sortpom-sorter@3.3.0
+- pkg:maven/com.github.ekryd.sortpom/sortpom-sorter@3.3.0?classifier=sources

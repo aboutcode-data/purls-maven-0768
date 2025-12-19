@@ -50,3 +50,5 @@
 - pkg:maven/io.virtualan/virtualization@1.4.2?classifier=sources
 - pkg:maven/io.virtualan/virtualization@1.4.3
 - pkg:maven/io.virtualan/virtualization@1.4.3?classifier=sources
+- pkg:maven/io.virtualan/virtualization@1.4.4
+- pkg:maven/io.virtualan/virtualization@1.4.4?classifier=sources

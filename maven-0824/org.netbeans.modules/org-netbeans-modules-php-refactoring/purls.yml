@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-refactoring@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-refactoring@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-refactoring@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-refactoring@RELEASE190?classifier=sources

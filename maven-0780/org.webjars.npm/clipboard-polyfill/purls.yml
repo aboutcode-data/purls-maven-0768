@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/clipboard-polyfill@2.4.3
+- pkg:maven/org.webjars.npm/clipboard-polyfill@2.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/clipboard-polyfill@2.4.6
 - pkg:maven/org.webjars.npm/clipboard-polyfill@2.4.6?classifier=sources
 - pkg:maven/org.webjars.npm/clipboard-polyfill@3.0.0-pre5

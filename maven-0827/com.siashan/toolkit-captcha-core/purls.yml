@@ -36,3 +36,5 @@
 - pkg:maven/com.siashan/toolkit-captcha-core@1.2.2?classifier=sources
 - pkg:maven/com.siashan/toolkit-captcha-core@1.2.3
 - pkg:maven/com.siashan/toolkit-captcha-core@1.2.3?classifier=sources
+- pkg:maven/com.siashan/toolkit-captcha-core@1.2.4
+- pkg:maven/com.siashan/toolkit-captcha-core@1.2.4?classifier=sources

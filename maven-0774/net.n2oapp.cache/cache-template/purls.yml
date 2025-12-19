@@ -493,8 +493,12 @@
 - pkg:maven/net.n2oapp.cache/cache-template@7.23.77?classifier=sources
 - pkg:maven/net.n2oapp.cache/cache-template@7.23.78
 - pkg:maven/net.n2oapp.cache/cache-template@7.23.78?classifier=sources
+- pkg:maven/net.n2oapp.cache/cache-template@7.23.79
+- pkg:maven/net.n2oapp.cache/cache-template@7.23.79?classifier=sources
 - pkg:maven/net.n2oapp.cache/cache-template@7.23.7?classifier=sources
 - pkg:maven/net.n2oapp.cache/cache-template@7.23.8
+- pkg:maven/net.n2oapp.cache/cache-template@7.23.80
+- pkg:maven/net.n2oapp.cache/cache-template@7.23.80?classifier=sources
 - pkg:maven/net.n2oapp.cache/cache-template@7.23.8?classifier=sources
 - pkg:maven/net.n2oapp.cache/cache-template@7.23.9
 - pkg:maven/net.n2oapp.cache/cache-template@7.23.9?classifier=sources
@@ -506,6 +510,12 @@
 - pkg:maven/net.n2oapp.cache/cache-template@7.24.2?classifier=sources
 - pkg:maven/net.n2oapp.cache/cache-template@7.24.3
 - pkg:maven/net.n2oapp.cache/cache-template@7.24.3?classifier=sources
+- pkg:maven/net.n2oapp.cache/cache-template@7.24.4
+- pkg:maven/net.n2oapp.cache/cache-template@7.24.4?classifier=sources
+- pkg:maven/net.n2oapp.cache/cache-template@7.25.1
+- pkg:maven/net.n2oapp.cache/cache-template@7.25.1?classifier=sources
+- pkg:maven/net.n2oapp.cache/cache-template@7.25.2
+- pkg:maven/net.n2oapp.cache/cache-template@7.25.2?classifier=sources
 - pkg:maven/net.n2oapp.cache/cache-template@7.3.1
 - pkg:maven/net.n2oapp.cache/cache-template@7.3.10
 - pkg:maven/net.n2oapp.cache/cache-template@7.3.10?classifier=sources

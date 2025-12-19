@@ -1,0 +1,4 @@
+- pkg:maven/io.avaje/avaje-prism-core@1.12
+- pkg:maven/io.avaje/avaje-prism-core@1.12?classifier=sources
+- pkg:maven/io.avaje/avaje-prism-core@1.13
+- pkg:maven/io.avaje/avaje-prism-core@1.13?classifier=sources

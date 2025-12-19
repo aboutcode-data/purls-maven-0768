@@ -17,3 +17,4 @@
 - pkg:maven/io.viascom.discord.bot/aluna-spring-boot-starter@0.0.47_5.0.0-beta.9?classifier=sources
 - pkg:maven/io.viascom.discord.bot/aluna-spring-boot-starter@0.0.48_5.0.0-beta.11?classifier=sources
 - pkg:maven/io.viascom.discord.bot/aluna-spring-boot-starter@0.0.48_5.0.0-beta.12?classifier=sources
+- pkg:maven/io.viascom.discord.bot/aluna-spring-boot-starter@1.0.0?classifier=sources

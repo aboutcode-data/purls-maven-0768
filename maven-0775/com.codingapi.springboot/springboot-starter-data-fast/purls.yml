@@ -86,3 +86,5 @@
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@2.1.3?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@2.1.4
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@2.1.4?classifier=sources
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@2.1.5
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@2.1.5?classifier=sources

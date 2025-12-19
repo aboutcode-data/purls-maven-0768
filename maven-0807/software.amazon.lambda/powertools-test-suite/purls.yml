@@ -12,6 +12,7 @@
 - pkg:maven/software.amazon.lambda/powertools-test-suite@1.15.0
 - pkg:maven/software.amazon.lambda/powertools-test-suite@1.16.0
 - pkg:maven/software.amazon.lambda/powertools-test-suite@1.16.1
+- pkg:maven/software.amazon.lambda/powertools-test-suite@1.17.0
 - pkg:maven/software.amazon.lambda/powertools-test-suite@1.8.0
 - pkg:maven/software.amazon.lambda/powertools-test-suite@1.8.1
 - pkg:maven/software.amazon.lambda/powertools-test-suite@1.8.2

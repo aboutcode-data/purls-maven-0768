@@ -63,6 +63,11 @@
 - pkg:maven/aws.sdk.kotlin/cloudcontrol@0.28.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/cloudcontrol@0.28.1-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/cloudcontrol@0.28.2-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/cloudcontrol@0.29.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/cloudcontrol@0.29.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/cloudcontrol@0.30.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/cloudcontrol@0.30.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/cloudcontrol@0.31.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/cloudcontrol@0.8.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/cloudcontrol@0.9.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/cloudcontrol@0.9.1-alpha?classifier=sources

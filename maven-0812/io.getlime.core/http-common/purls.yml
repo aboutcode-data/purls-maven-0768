@@ -1,0 +1,2 @@
+- pkg:maven/io.getlime.core/http-common@1.7.0
+- pkg:maven/io.getlime.core/http-common@1.7.0?classifier=sources

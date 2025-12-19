@@ -1,0 +1,2 @@
+- pkg:maven/io.sentry/sentry-spring-boot-jakarta@6.28.0
+- pkg:maven/io.sentry/sentry-spring-boot-jakarta@6.28.0?classifier=sources

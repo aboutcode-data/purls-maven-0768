@@ -313,6 +313,7 @@
 - pkg:maven/com.liferay.plugins/admin-theme@5.0.61?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@5.0.62?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@5.0.63?type=war
+- pkg:maven/com.liferay.plugins/admin-theme@5.0.64?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@5.0.6?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@5.0.7?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@5.0.8?type=war

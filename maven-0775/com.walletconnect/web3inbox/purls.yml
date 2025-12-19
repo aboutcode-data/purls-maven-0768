@@ -10,3 +10,4 @@
 - pkg:maven/com.walletconnect/web3inbox@1.0.0-alpha13?classifier=sources
 - pkg:maven/com.walletconnect/web3inbox@1.0.0-alpha14?classifier=sources
 - pkg:maven/com.walletconnect/web3inbox@1.0.0-alpha15?classifier=sources
+- pkg:maven/com.walletconnect/web3inbox@1.0.0-alpha16?classifier=sources

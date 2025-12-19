@@ -115,3 +115,5 @@
 - pkg:maven/io.github.raamcosta.compose-destinations/animations-core@1.9.41-beta?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/animations-core@1.9.42-beta?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/animations-core@1.9.50?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/animations-core@1.9.51?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/animations-core@1.9.52?classifier=sources

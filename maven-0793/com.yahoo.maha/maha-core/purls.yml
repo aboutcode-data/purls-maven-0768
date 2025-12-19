@@ -70,6 +70,8 @@
 - pkg:maven/com.yahoo.maha/maha-core@6.136?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-core@6.137
 - pkg:maven/com.yahoo.maha/maha-core@6.137?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-core@6.138
+- pkg:maven/com.yahoo.maha/maha-core@6.138?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-core@6.53
 - pkg:maven/com.yahoo.maha/maha-core@6.53?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-core@6.54

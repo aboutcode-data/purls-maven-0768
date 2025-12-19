@@ -28,3 +28,4 @@
 - pkg:maven/org.zalando/fahrschein-http-spring@0.23.0?classifier=sources
 - pkg:maven/org.zalando/fahrschein-http-spring@0.24.0?classifier=sources
 - pkg:maven/org.zalando/fahrschein-http-spring@1.0.0?classifier=sources
+- pkg:maven/org.zalando/fahrschein-http-spring@2.0.0-RC1?classifier=sources

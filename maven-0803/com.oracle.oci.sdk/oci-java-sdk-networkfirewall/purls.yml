@@ -140,6 +140,16 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.20.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.21.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.21.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.22.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.22.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.23.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.23.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.23.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.23.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.23.2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.23.2?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.24.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.24.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.3.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.3.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-networkfirewall@3.4.0

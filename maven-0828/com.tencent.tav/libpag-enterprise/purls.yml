@@ -27,6 +27,9 @@
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.2.103-movie?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.2.103-noffavc?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.2.103?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.2.104-movie?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.2.104-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.2.104?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.2.10?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.2.11-nomovie?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.2.11?classifier=sources
@@ -143,6 +146,15 @@
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.2.99?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.3.1-movie?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.3.1-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.3.10-movie?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.3.10-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.3.10?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.3.17-movie?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.3.17-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.3.17?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.3.18-movie?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.3.18-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.3.18?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.3.1?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.3.2-movie?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.3.2-noffavc?classifier=sources
@@ -159,3 +171,6 @@
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.3.7-movie?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.3.7-noffavc?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.3.7?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.3.8-movie?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.3.8-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.3.8?classifier=sources

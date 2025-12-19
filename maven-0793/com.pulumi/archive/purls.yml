@@ -1,2 +1,4 @@
 - pkg:maven/com.pulumi/archive@0.0.1-alpha.1686861008%2B83637b8c?classifier=sources
 - pkg:maven/com.pulumi/archive@0.0.1?classifier=sources
+- pkg:maven/com.pulumi/archive@0.0.2-alpha.1690485149%2B1d301d3e?classifier=sources
+- pkg:maven/com.pulumi/archive@0.0.2?classifier=sources
