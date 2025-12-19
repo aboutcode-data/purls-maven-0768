@@ -100,3 +100,7 @@
 - pkg:maven/org.qbicc/qbicc-runtime-gc-heap@0.69.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-runtime-gc-heap@0.70.0
 - pkg:maven/org.qbicc/qbicc-runtime-gc-heap@0.70.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-runtime-gc-heap@0.71.0
+- pkg:maven/org.qbicc/qbicc-runtime-gc-heap@0.71.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-runtime-gc-heap@0.72.0
+- pkg:maven/org.qbicc/qbicc-runtime-gc-heap@0.72.0?classifier=sources

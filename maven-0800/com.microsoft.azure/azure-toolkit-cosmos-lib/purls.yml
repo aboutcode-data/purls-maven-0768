@@ -17,3 +17,4 @@
 - pkg:maven/com.microsoft.azure/azure-toolkit-cosmos-lib@0.30.0
 - pkg:maven/com.microsoft.azure/azure-toolkit-cosmos-lib@0.30.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-toolkit-cosmos-lib@0.31.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-cosmos-lib@0.32.0?classifier=sources

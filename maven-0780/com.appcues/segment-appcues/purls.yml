@@ -1,2 +1,3 @@
 - pkg:maven/com.appcues/segment-appcues@1.3.0?classifier=sources
 - pkg:maven/com.appcues/segment-appcues@1.4.0?classifier=sources
+- pkg:maven/com.appcues/segment-appcues@2.0.0?classifier=sources

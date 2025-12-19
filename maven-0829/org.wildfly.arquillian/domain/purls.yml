@@ -1,2 +1,4 @@
 - pkg:maven/org.wildfly.arquillian/domain@4.0.0.Alpha6
+- pkg:maven/org.wildfly.arquillian/domain@4.0.0.Final
 - pkg:maven/org.wildfly.arquillian/domain@5.0.0.Alpha6
+- pkg:maven/org.wildfly.arquillian/domain@5.0.0.Final

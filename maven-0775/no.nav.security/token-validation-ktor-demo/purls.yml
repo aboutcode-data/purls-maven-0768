@@ -110,6 +110,8 @@
 - pkg:maven/no.nav.security/token-validation-ktor-demo@3.0.0?classifier=sources
 - pkg:maven/no.nav.security/token-validation-ktor-demo@3.0.10
 - pkg:maven/no.nav.security/token-validation-ktor-demo@3.0.10?classifier=sources
+- pkg:maven/no.nav.security/token-validation-ktor-demo@3.0.11
+- pkg:maven/no.nav.security/token-validation-ktor-demo@3.0.11?classifier=sources
 - pkg:maven/no.nav.security/token-validation-ktor-demo@3.0.2
 - pkg:maven/no.nav.security/token-validation-ktor-demo@3.0.2?classifier=sources
 - pkg:maven/no.nav.security/token-validation-ktor-demo@3.0.3

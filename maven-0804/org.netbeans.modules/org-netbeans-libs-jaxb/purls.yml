@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jaxb@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jaxb@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jaxb@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-jaxb@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jaxb@RELEASE90?classifier=sources

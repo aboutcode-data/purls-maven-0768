@@ -1,0 +1,4 @@
+- pkg:maven/dev.learning.xapi.samples/post-signed-statement@1.1.4
+- pkg:maven/dev.learning.xapi.samples/post-signed-statement@1.1.4?classifier=sources
+- pkg:maven/dev.learning.xapi.samples/post-signed-statement@1.1.5
+- pkg:maven/dev.learning.xapi.samples/post-signed-statement@1.1.5?classifier=sources

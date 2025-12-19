@@ -1,2 +1,6 @@
 - pkg:maven/org.infinispan/infinispan-hibernate-cache-v62@14.0.8.Final
 - pkg:maven/org.infinispan/infinispan-hibernate-cache-v62@14.0.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-hibernate-cache-v62@14.0.9.Final
+- pkg:maven/org.infinispan/infinispan-hibernate-cache-v62@14.0.9.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-hibernate-cache-v62@15.0.0.Dev01
+- pkg:maven/org.infinispan/infinispan-hibernate-cache-v62@15.0.0.Dev01?classifier=sources

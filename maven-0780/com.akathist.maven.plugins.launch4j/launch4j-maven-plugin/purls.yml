@@ -133,3 +133,5 @@
 - pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@2.3.2
 - pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@2.3.2?classifier=sources
 - pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@2.3.3?classifier=sources
+- pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@2.4.0?classifier=sources
+- pkg:maven/com.akathist.maven.plugins.launch4j/launch4j-maven-plugin@2.4.1?classifier=sources

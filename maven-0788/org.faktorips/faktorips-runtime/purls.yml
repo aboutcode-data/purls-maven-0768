@@ -203,6 +203,8 @@
 - pkg:maven/org.faktorips/faktorips-runtime@23.6.0.a20230301-01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime@23.6.0.a20230310-01
 - pkg:maven/org.faktorips/faktorips-runtime@23.6.0.a20230310-01?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime@23.6.0.a20230503-01
+- pkg:maven/org.faktorips/faktorips-runtime@23.6.0.a20230503-01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime@3.13.0
 - pkg:maven/org.faktorips/faktorips-runtime@3.13.0?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime@3.13.1

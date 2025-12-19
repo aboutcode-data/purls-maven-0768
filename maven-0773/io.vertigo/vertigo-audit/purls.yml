@@ -28,3 +28,5 @@
 - pkg:maven/io.vertigo/vertigo-audit@3.4.0?classifier=sources
 - pkg:maven/io.vertigo/vertigo-audit@3.5.0
 - pkg:maven/io.vertigo/vertigo-audit@3.5.0?classifier=sources
+- pkg:maven/io.vertigo/vertigo-audit@3.6.0
+- pkg:maven/io.vertigo/vertigo-audit@3.6.0?classifier=sources

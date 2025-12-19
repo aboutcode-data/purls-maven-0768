@@ -16,3 +16,5 @@
 - pkg:maven/io.v47.tmdb-api-client/quarkus-deployment@1.6.0?classifier=sources
 - pkg:maven/io.v47.tmdb-api-client/quarkus-deployment@2.0.0
 - pkg:maven/io.v47.tmdb-api-client/quarkus-deployment@2.0.0?classifier=sources
+- pkg:maven/io.v47.tmdb-api-client/quarkus-deployment@2.1.0
+- pkg:maven/io.v47.tmdb-api-client/quarkus-deployment@2.1.0?classifier=sources

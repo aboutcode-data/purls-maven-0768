@@ -16,3 +16,7 @@
 - pkg:maven/ai.djl.tensorrt/tensorrt@0.20.0?classifier=sources
 - pkg:maven/ai.djl.tensorrt/tensorrt@0.21.0
 - pkg:maven/ai.djl.tensorrt/tensorrt@0.21.0?classifier=sources
+- pkg:maven/ai.djl.tensorrt/tensorrt@0.22.0
+- pkg:maven/ai.djl.tensorrt/tensorrt@0.22.0?classifier=sources
+- pkg:maven/ai.djl.tensorrt/tensorrt@0.22.1
+- pkg:maven/ai.djl.tensorrt/tensorrt@0.22.1?classifier=sources

@@ -24,3 +24,17 @@
 - pkg:maven/com.pulumi/spotinst@3.29.0-alpha.1680026858%2Bb1975817?classifier=sources
 - pkg:maven/com.pulumi/spotinst@3.29.0-alpha.1680696323%2Bfd5c0760?classifier=sources
 - pkg:maven/com.pulumi/spotinst@3.29.0-alpha.1680912186%2B50f2790b?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.29.0-alpha.1681938433%2Ba2d79de9?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.29.0-alpha.1681946894%2B0a969892?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.29.0?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.30.0-alpha.1682354980%2B65927c2a?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.30.0?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.31.0-alpha.1682380263%2B34bf1a3a?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.31.0-alpha.1683051590%2B47779d67?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.31.0-alpha.1683130822%2B19dd3155?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.31.0?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.32.0-alpha.1683268416%2Ba42bf0a2?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.32.0-alpha.1683353818%2B54c80f0b?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.32.0-alpha.1683613488%2B1a982e00?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.32.0-alpha.1683648259%2B1be4e351?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.32.0?classifier=sources

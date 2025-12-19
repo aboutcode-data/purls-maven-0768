@@ -60,3 +60,5 @@
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@4.0.0.alpha3?classifier=sources
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@4.0.0.beta0
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@4.0.0.beta0?classifier=sources
+- pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@4.0.0.beta1
+- pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@4.0.0.beta1?classifier=sources

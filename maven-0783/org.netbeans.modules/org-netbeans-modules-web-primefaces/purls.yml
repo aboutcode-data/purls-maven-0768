@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-primefaces@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-primefaces@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-primefaces@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-primefaces@RELEASE180?classifier=sources

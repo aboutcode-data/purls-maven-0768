@@ -16,3 +16,9 @@
 - pkg:maven/io.inugami.security/inugami_core_security_commons@2.2.2?classifier=sources
 - pkg:maven/io.inugami.security/inugami_core_security_commons@2.3.0
 - pkg:maven/io.inugami.security/inugami_core_security_commons@2.3.0?classifier=sources
+- pkg:maven/io.inugami.security/inugami_core_security_commons@3.0.0
+- pkg:maven/io.inugami.security/inugami_core_security_commons@3.0.0?classifier=sources
+- pkg:maven/io.inugami.security/inugami_core_security_commons@3.1.0
+- pkg:maven/io.inugami.security/inugami_core_security_commons@3.1.0?classifier=sources
+- pkg:maven/io.inugami.security/inugami_core_security_commons@3.2.0
+- pkg:maven/io.inugami.security/inugami_core_security_commons@3.2.0?classifier=sources

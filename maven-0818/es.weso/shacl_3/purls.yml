@@ -4,3 +4,5 @@
 - pkg:maven/es.weso/shacl_3@0.1.79?classifier=sources
 - pkg:maven/es.weso/shacl_3@0.1.80
 - pkg:maven/es.weso/shacl_3@0.1.80?classifier=sources
+- pkg:maven/es.weso/shacl_3@0.1.83
+- pkg:maven/es.weso/shacl_3@0.1.83?classifier=sources

@@ -14,7 +14,11 @@
 - pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws-deployment@1.2.2?classifier=sources
 - pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws-deployment@1.2.3
 - pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws-deployment@1.2.3?classifier=sources
+- pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws-deployment@2.0.0
 - pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws-deployment@2.0.0.Alpha1
 - pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws-deployment@2.0.0.Alpha1?classifier=sources
 - pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws-deployment@2.0.0.CR1
 - pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws-deployment@2.0.0.CR1?classifier=sources
+- pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws-deployment@2.0.0.CR2
+- pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws-deployment@2.0.0.CR2?classifier=sources
+- pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws-deployment@2.0.0?classifier=sources

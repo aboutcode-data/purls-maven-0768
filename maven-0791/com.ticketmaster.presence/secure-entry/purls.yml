@@ -6,3 +6,5 @@
 - pkg:maven/com.ticketmaster.presence/secure-entry@1.2.5?type=aar
 - pkg:maven/com.ticketmaster.presence/secure-entry@1.2.6?classifier=sources
 - pkg:maven/com.ticketmaster.presence/secure-entry@1.2.6?type=aar
+- pkg:maven/com.ticketmaster.presence/secure-entry@1.2.7?classifier=sources
+- pkg:maven/com.ticketmaster.presence/secure-entry@1.2.7?type=aar

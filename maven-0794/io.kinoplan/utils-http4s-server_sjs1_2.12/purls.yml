@@ -1,0 +1,8 @@
+- pkg:maven/io.kinoplan/utils-http4s-server_sjs1_2.12@0.0.22
+- pkg:maven/io.kinoplan/utils-http4s-server_sjs1_2.12@0.0.22?classifier=sources
+- pkg:maven/io.kinoplan/utils-http4s-server_sjs1_2.12@0.0.23
+- pkg:maven/io.kinoplan/utils-http4s-server_sjs1_2.12@0.0.23?classifier=sources
+- pkg:maven/io.kinoplan/utils-http4s-server_sjs1_2.12@0.0.24
+- pkg:maven/io.kinoplan/utils-http4s-server_sjs1_2.12@0.0.24?classifier=sources
+- pkg:maven/io.kinoplan/utils-http4s-server_sjs1_2.12@0.0.25
+- pkg:maven/io.kinoplan/utils-http4s-server_sjs1_2.12@0.0.25?classifier=sources

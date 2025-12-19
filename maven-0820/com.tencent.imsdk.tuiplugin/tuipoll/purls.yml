@@ -1,1 +1,3 @@
 - pkg:maven/com.tencent.imsdk.tuiplugin/tuipoll@7.1.3925?classifier=sources
+- pkg:maven/com.tencent.imsdk.tuiplugin/tuipoll@7.2.4123?classifier=sources
+- pkg:maven/com.tencent.imsdk.tuiplugin/tuipoll@7.2.4126?classifier=sources

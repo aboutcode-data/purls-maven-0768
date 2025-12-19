@@ -8,6 +8,7 @@
 - pkg:maven/io.koalaql/koala-core@0.0.1-alpha-8?classifier=sources
 - pkg:maven/io.koalaql/koala-core@0.0.1-alpha-9?classifier=sources
 - pkg:maven/io.koalaql/koala-core@0.0.1-alpha.2?classifier=sources
+- pkg:maven/io.koalaql/koala-core@0.0.10?classifier=sources
 - pkg:maven/io.koalaql/koala-core@0.0.2?classifier=sources
 - pkg:maven/io.koalaql/koala-core@0.0.4?classifier=sources
 - pkg:maven/io.koalaql/koala-core@0.0.5?classifier=sources

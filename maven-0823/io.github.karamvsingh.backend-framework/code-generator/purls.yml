@@ -1,1 +1,2 @@
 - pkg:maven/io.github.karamvsingh.backend-framework/code-generator@0.1.0?classifier=sources
+- pkg:maven/io.github.karamvsingh.backend-framework/code-generator@0.1.2?classifier=sources

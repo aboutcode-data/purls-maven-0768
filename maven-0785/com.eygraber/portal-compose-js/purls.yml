@@ -5,3 +5,4 @@
 - pkg:maven/com.eygraber/portal-compose-js@0.9.21?classifier=sources
 - pkg:maven/com.eygraber/portal-compose-js@0.9.22?classifier=sources
 - pkg:maven/com.eygraber/portal-compose-js@0.9.23?classifier=sources
+- pkg:maven/com.eygraber/portal-compose-js@0.9.24?classifier=sources

@@ -74,6 +74,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-gson-starter@3.20.2?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-gson-starter@3.20.3
 - pkg:maven/org.apache.camel.springboot/camel-gson-starter@3.20.3?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-gson-starter@3.20.4
+- pkg:maven/org.apache.camel.springboot/camel-gson-starter@3.20.4?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-gson-starter@3.3.0
 - pkg:maven/org.apache.camel.springboot/camel-gson-starter@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-gson-starter@3.4.0
@@ -118,3 +120,5 @@
 - pkg:maven/org.apache.camel.springboot/camel-gson-starter@4.0.0-M1?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-gson-starter@4.0.0-M2
 - pkg:maven/org.apache.camel.springboot/camel-gson-starter@4.0.0-M2?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-gson-starter@4.0.0-M3
+- pkg:maven/org.apache.camel.springboot/camel-gson-starter@4.0.0-M3?classifier=sources

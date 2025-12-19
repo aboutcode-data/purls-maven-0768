@@ -65,3 +65,4 @@
 - pkg:maven/org.odpi.egeria/glossary-author-view-spring@3.9
 - pkg:maven/org.odpi.egeria/glossary-author-view-spring@3.9?classifier=sources
 - pkg:maven/org.odpi.egeria/glossary-author-view-spring@4.0?classifier=sources
+- pkg:maven/org.odpi.egeria/glossary-author-view-spring@4.1?classifier=sources

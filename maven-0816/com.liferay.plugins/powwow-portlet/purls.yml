@@ -302,6 +302,8 @@
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.51?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.52?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.53?type=war
+- pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.54?type=war
+- pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.55?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.5?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.6?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.7?type=war

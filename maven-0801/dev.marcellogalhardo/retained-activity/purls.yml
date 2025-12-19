@@ -8,3 +8,4 @@
 - pkg:maven/dev.marcellogalhardo/retained-activity@0.16.0?classifier=sources
 - pkg:maven/dev.marcellogalhardo/retained-activity@0.17.0?classifier=sources
 - pkg:maven/dev.marcellogalhardo/retained-activity@1.0.0?classifier=sources
+- pkg:maven/dev.marcellogalhardo/retained-activity@1.0.1?classifier=sources

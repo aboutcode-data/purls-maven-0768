@@ -45,3 +45,4 @@
 - pkg:maven/org.odpi.egeria/engine-host-services-client@3.9
 - pkg:maven/org.odpi.egeria/engine-host-services-client@3.9?classifier=sources
 - pkg:maven/org.odpi.egeria/engine-host-services-client@4.0?classifier=sources
+- pkg:maven/org.odpi.egeria/engine-host-services-client@4.1?classifier=sources

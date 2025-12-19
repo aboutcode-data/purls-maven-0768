@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/vue__composition-api@1.4.4
 - pkg:maven/org.webjars.npm/vue__composition-api@1.4.4?classifier=sources
+- pkg:maven/org.webjars.npm/vue__composition-api@1.7.1
+- pkg:maven/org.webjars.npm/vue__composition-api@1.7.1?classifier=sources

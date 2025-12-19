@@ -208,3 +208,4 @@
 - pkg:maven/org.jboss.logmanager/jboss-logmanager@2.3.0.Alpha1
 - pkg:maven/org.jboss.logmanager/jboss-logmanager@2.3.0.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.logmanager/jboss-logmanager@2.3.0.Alpha1?classifier=sources
+- pkg:maven/org.jboss.logmanager/jboss-logmanager@3.0.0.Alpha1

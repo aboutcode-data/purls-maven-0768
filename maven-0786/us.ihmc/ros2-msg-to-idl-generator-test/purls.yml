@@ -7,3 +7,6 @@
 - pkg:maven/us.ihmc/ros2-msg-to-idl-generator-test@0.20.8?classifier=sources
 - pkg:maven/us.ihmc/ros2-msg-to-idl-generator-test@0.21.1?classifier=sources
 - pkg:maven/us.ihmc/ros2-msg-to-idl-generator-test@0.22.2?classifier=sources
+- pkg:maven/us.ihmc/ros2-msg-to-idl-generator-test@0.22.4?classifier=sources
+- pkg:maven/us.ihmc/ros2-msg-to-idl-generator-test@0.22.5?classifier=sources
+- pkg:maven/us.ihmc/ros2-msg-to-idl-generator-test@0.22.6?classifier=sources

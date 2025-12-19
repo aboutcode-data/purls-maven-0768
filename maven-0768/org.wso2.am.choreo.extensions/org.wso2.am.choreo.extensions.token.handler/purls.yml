@@ -241,6 +241,10 @@
 - pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.token.handler@1.1.46?classifier=sources
 - pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.token.handler@1.1.47
 - pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.token.handler@1.1.47?classifier=sources
+- pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.token.handler@1.1.48
+- pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.token.handler@1.1.48?classifier=sources
+- pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.token.handler@1.1.49
+- pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.token.handler@1.1.49?classifier=sources
 - pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.token.handler@1.1.4?classifier=sources
 - pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.token.handler@1.1.5
 - pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.token.handler@1.1.5?classifier=sources

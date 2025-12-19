@@ -16,3 +16,5 @@
 - pkg:maven/net.ruippeixotog/scala-scraper_2.12@2.2.1?classifier=sources
 - pkg:maven/net.ruippeixotog/scala-scraper_2.12@3.0.0
 - pkg:maven/net.ruippeixotog/scala-scraper_2.12@3.0.0?classifier=sources
+- pkg:maven/net.ruippeixotog/scala-scraper_2.12@3.1.0
+- pkg:maven/net.ruippeixotog/scala-scraper_2.12@3.1.0?classifier=sources

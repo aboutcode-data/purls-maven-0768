@@ -16,3 +16,5 @@
 - pkg:maven/edu.wgu.osmt/osmt-api@2.5.0?classifier=sources
 - pkg:maven/edu.wgu.osmt/osmt-api@2.5.1
 - pkg:maven/edu.wgu.osmt/osmt-api@2.5.1?classifier=sources
+- pkg:maven/edu.wgu.osmt/osmt-api@2.5.2
+- pkg:maven/edu.wgu.osmt/osmt-api@2.5.2?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.bookkeeper/bookkeeper-slogger-slf4j@4.15.4?classifier=sources
 - pkg:maven/org.apache.bookkeeper/bookkeeper-slogger-slf4j@4.16.0
 - pkg:maven/org.apache.bookkeeper/bookkeeper-slogger-slf4j@4.16.0?classifier=sources
+- pkg:maven/org.apache.bookkeeper/bookkeeper-slogger-slf4j@4.16.1
+- pkg:maven/org.apache.bookkeeper/bookkeeper-slogger-slf4j@4.16.1?classifier=sources

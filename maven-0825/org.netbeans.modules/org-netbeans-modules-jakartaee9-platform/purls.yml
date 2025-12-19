@@ -6,3 +6,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee9-platform@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee9-platform@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee9-platform@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee9-platform@RELEASE180?classifier=sources

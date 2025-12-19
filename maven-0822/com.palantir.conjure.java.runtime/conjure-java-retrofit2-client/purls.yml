@@ -46,6 +46,12 @@
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-retrofit2-client@7.48.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-retrofit2-client@7.49.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-retrofit2-client@7.5.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-retrofit2-client@7.50.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-retrofit2-client@7.51.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-retrofit2-client@7.52.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-retrofit2-client@7.53.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-retrofit2-client@7.54.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-retrofit2-client@7.55.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-retrofit2-client@7.6.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-retrofit2-client@7.7.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-retrofit2-client@7.8.0?classifier=sources

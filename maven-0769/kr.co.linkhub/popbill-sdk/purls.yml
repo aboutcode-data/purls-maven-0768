@@ -144,6 +144,8 @@
 - pkg:maven/kr.co.linkhub/popbill-sdk@1.58.1?classifier=sources
 - pkg:maven/kr.co.linkhub/popbill-sdk@1.58.2
 - pkg:maven/kr.co.linkhub/popbill-sdk@1.58.2?classifier=sources
+- pkg:maven/kr.co.linkhub/popbill-sdk@1.59.0
+- pkg:maven/kr.co.linkhub/popbill-sdk@1.59.0?classifier=sources
 - pkg:maven/kr.co.linkhub/popbill-sdk@1.6.0
 - pkg:maven/kr.co.linkhub/popbill-sdk@1.6.0?classifier=sources
 - pkg:maven/kr.co.linkhub/popbill-sdk@1.6.1

@@ -1,0 +1,2 @@
+- pkg:maven/io.chrisdavenport/circuit_native0.4_2.13@0.5.1
+- pkg:maven/io.chrisdavenport/circuit_native0.4_2.13@0.5.1?classifier=sources

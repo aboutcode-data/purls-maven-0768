@@ -186,3 +186,7 @@
 - pkg:maven/io.debezium/debezium-testing-testcontainers@2.2.0.Alpha3?classifier=sources
 - pkg:maven/io.debezium/debezium-testing-testcontainers@2.2.0.Beta1
 - pkg:maven/io.debezium/debezium-testing-testcontainers@2.2.0.Beta1?classifier=sources
+- pkg:maven/io.debezium/debezium-testing-testcontainers@2.2.0.CR1
+- pkg:maven/io.debezium/debezium-testing-testcontainers@2.2.0.CR1?classifier=sources
+- pkg:maven/io.debezium/debezium-testing-testcontainers@2.2.0.Final
+- pkg:maven/io.debezium/debezium-testing-testcontainers@2.2.0.Final?classifier=sources

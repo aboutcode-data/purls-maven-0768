@@ -30,3 +30,5 @@
 - pkg:maven/cloud.piranha.naming/piranha-naming-thread@23.2.0?classifier=sources
 - pkg:maven/cloud.piranha.naming/piranha-naming-thread@23.3.0
 - pkg:maven/cloud.piranha.naming/piranha-naming-thread@23.3.0?classifier=sources
+- pkg:maven/cloud.piranha.naming/piranha-naming-thread@23.4.0
+- pkg:maven/cloud.piranha.naming/piranha-naming-thread@23.4.0?classifier=sources

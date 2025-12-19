@@ -347,6 +347,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.asset.categories.web@4.0.44
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.asset.categories.web@4.0.44?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.asset.categories.web@4.0.44?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.asset.categories.web@4.0.45
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.asset.categories.web@4.0.45?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.asset.categories.web@4.0.45?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.asset.categories.web@4.0.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.asset.categories.web@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.asset.categories.web@4.0.5

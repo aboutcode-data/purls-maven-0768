@@ -1,0 +1,2 @@
+- pkg:maven/top.zenyoung/jfx-boot@3.0.0
+- pkg:maven/top.zenyoung/jfx-boot@3.0.0?classifier=sources

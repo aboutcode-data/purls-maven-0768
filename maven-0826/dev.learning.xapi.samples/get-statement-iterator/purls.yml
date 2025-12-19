@@ -1,0 +1,2 @@
+- pkg:maven/dev.learning.xapi.samples/get-statement-iterator@1.1.5
+- pkg:maven/dev.learning.xapi.samples/get-statement-iterator@1.1.5?classifier=sources

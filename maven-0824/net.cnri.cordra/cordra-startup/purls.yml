@@ -12,3 +12,4 @@
 - pkg:maven/net.cnri.cordra/cordra-startup@2.3.2?classifier=sources
 - pkg:maven/net.cnri.cordra/cordra-startup@2.4.0
 - pkg:maven/net.cnri.cordra/cordra-startup@2.4.0?classifier=sources
+- pkg:maven/net.cnri.cordra/cordra-startup@2.5.0?classifier=sources

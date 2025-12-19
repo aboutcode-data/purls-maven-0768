@@ -16,6 +16,8 @@
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-systemjs@7.19.6?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-systemjs@7.20.11
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-systemjs@7.20.11?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-transform-modules-systemjs@7.21.4-esm.4
+- pkg:maven/org.webjars.npm/babel__plugin-transform-modules-systemjs@7.21.4-esm.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-systemjs@7.3.4
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-systemjs@7.3.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-systemjs@7.4.4

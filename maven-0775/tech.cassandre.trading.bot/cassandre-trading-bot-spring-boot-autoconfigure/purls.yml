@@ -70,3 +70,5 @@
 - pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-autoconfigure@5.0.8?classifier=sources
 - pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-autoconfigure@6.0.0
 - pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-autoconfigure@6.0.0?classifier=sources
+- pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-autoconfigure@6.0.1
+- pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-autoconfigure@6.0.1?classifier=sources

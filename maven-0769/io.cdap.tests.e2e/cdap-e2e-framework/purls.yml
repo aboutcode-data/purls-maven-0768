@@ -1,0 +1,2 @@
+- pkg:maven/io.cdap.tests.e2e/cdap-e2e-framework@0.2.0
+- pkg:maven/io.cdap.tests.e2e/cdap-e2e-framework@0.2.0?classifier=sources

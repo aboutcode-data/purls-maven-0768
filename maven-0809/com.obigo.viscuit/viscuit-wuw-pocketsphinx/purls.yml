@@ -1,0 +1,2 @@
+- pkg:maven/com.obigo.viscuit/viscuit-wuw-pocketsphinx@0.0.1?classifier=sources
+- pkg:maven/com.obigo.viscuit/viscuit-wuw-pocketsphinx@1.0.0?classifier=sources

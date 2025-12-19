@@ -4,3 +4,5 @@
 - pkg:maven/io.github.snowdrop.jester/jester-spring@0.0.3?classifier=sources
 - pkg:maven/io.github.snowdrop.jester/jester-spring@0.0.4
 - pkg:maven/io.github.snowdrop.jester/jester-spring@0.0.4?classifier=sources
+- pkg:maven/io.github.snowdrop.jester/jester-spring@0.0.5
+- pkg:maven/io.github.snowdrop.jester/jester-spring@0.0.5?classifier=sources

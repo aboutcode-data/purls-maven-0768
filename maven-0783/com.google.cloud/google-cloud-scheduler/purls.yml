@@ -206,6 +206,10 @@
 - pkg:maven/com.google.cloud/google-cloud-scheduler@2.13.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler@2.14.0
 - pkg:maven/com.google.cloud/google-cloud-scheduler@2.14.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-scheduler@2.15.0
+- pkg:maven/com.google.cloud/google-cloud-scheduler@2.15.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-scheduler@2.16.0
+- pkg:maven/com.google.cloud/google-cloud-scheduler@2.16.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler@2.2.0
 - pkg:maven/com.google.cloud/google-cloud-scheduler@2.2.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler@2.3.0

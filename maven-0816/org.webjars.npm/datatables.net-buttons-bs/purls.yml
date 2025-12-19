@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/datatables.net-buttons-bs@2.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/datatables.net-buttons-bs@2.2.3
 - pkg:maven/org.webjars.npm/datatables.net-buttons-bs@2.2.3?classifier=sources
+- pkg:maven/org.webjars.npm/datatables.net-buttons-bs@2.3.6
+- pkg:maven/org.webjars.npm/datatables.net-buttons-bs@2.3.6?classifier=sources

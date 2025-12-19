@@ -64,6 +64,10 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.0.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.1.0
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.1.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.10.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.10.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.11.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.11.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.2.0
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.2.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.3.1
@@ -98,3 +102,7 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.7.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.7.1
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.7.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.8.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.8.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.9.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-physical-plan@4.9.0?classifier=sources

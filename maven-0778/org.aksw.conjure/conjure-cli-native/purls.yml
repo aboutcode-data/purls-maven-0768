@@ -1,0 +1,2 @@
+- pkg:maven/org.aksw.conjure/conjure-cli-native@4.8.0-2
+- pkg:maven/org.aksw.conjure/conjure-cli-native@4.8.0-2?classifier=sources

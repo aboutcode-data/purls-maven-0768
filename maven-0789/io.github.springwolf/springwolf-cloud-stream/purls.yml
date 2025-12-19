@@ -1,1 +1,2 @@
 - pkg:maven/io.github.springwolf/springwolf-cloud-stream@0.1.0?classifier=sources
+- pkg:maven/io.github.springwolf/springwolf-cloud-stream@0.2.0?classifier=sources

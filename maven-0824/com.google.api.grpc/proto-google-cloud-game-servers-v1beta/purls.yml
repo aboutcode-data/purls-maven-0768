@@ -104,3 +104,7 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-game-servers-v1beta@0.38.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-game-servers-v1beta@0.39.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-game-servers-v1beta@0.39.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-game-servers-v1beta@0.40.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-game-servers-v1beta@0.40.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-game-servers-v1beta@0.41.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-game-servers-v1beta@0.41.0?classifier=sources

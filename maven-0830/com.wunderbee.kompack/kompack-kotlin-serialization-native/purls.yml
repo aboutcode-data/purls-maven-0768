@@ -1,0 +1,2 @@
+- pkg:maven/com.wunderbee.kompack/kompack-kotlin-serialization-native@0.0.2-t2?classifier=sources
+- pkg:maven/com.wunderbee.kompack/kompack-kotlin-serialization-native@0.0.2?classifier=sources

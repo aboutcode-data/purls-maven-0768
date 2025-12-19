@@ -12,3 +12,5 @@
 - pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.0.9?classifier=sources
 - pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.1.0-RELEASE
 - pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.1.0-RELEASE?classifier=sources
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.1.2-RELEASE
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.1.2-RELEASE?classifier=sources

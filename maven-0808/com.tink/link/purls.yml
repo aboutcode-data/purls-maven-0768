@@ -10,3 +10,4 @@
 - pkg:maven/com.tink/link@0.15.3?classifier=sources
 - pkg:maven/com.tink/link@0.15.4?classifier=sources
 - pkg:maven/com.tink/link@0.16.0?classifier=sources
+- pkg:maven/com.tink/link@2.1.0?classifier=sources

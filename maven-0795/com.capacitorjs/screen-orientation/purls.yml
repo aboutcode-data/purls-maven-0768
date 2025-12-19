@@ -1,0 +1,2 @@
+- pkg:maven/com.capacitorjs/screen-orientation@5.0.0?classifier=sources
+- pkg:maven/com.capacitorjs/screen-orientation@5.0.1?classifier=sources

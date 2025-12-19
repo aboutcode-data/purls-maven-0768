@@ -31,6 +31,7 @@
 - pkg:maven/io.micronaut.security/micronaut-security-session@3.1.1?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-session@3.10.0?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-session@3.10.1?classifier=sources
+- pkg:maven/io.micronaut.security/micronaut-security-session@3.11.0?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-session@3.2.0?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-session@3.2.1?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-session@3.2.2?classifier=sources
@@ -62,3 +63,5 @@
 - pkg:maven/io.micronaut.security/micronaut-security-session@3.9.4?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-session@3.9.5?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-session@4.0.0-M1?classifier=sources
+- pkg:maven/io.micronaut.security/micronaut-security-session@4.0.0-M2?classifier=sources
+- pkg:maven/io.micronaut.security/micronaut-security-session@4.0.0-M3?classifier=sources

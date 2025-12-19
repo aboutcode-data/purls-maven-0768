@@ -8,3 +8,4 @@
 - pkg:maven/io.github.yongzheng7/module-logger@7.0.1?classifier=sources
 - pkg:maven/io.github.yongzheng7/module-logger@7.0.2?classifier=sources
 - pkg:maven/io.github.yongzheng7/module-logger@8.0.0?classifier=sources
+- pkg:maven/io.github.yongzheng7/module-logger@9.0.0?classifier=sources

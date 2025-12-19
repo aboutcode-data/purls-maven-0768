@@ -14,3 +14,5 @@
 - pkg:maven/net.lapismc/LapisDataStore@1.2.2?classifier=sources
 - pkg:maven/net.lapismc/LapisDataStore@1.2.3
 - pkg:maven/net.lapismc/LapisDataStore@1.2.3?classifier=sources
+- pkg:maven/net.lapismc/LapisDataStore@1.2.4
+- pkg:maven/net.lapismc/LapisDataStore@1.2.4?classifier=sources

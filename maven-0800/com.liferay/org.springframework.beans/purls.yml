@@ -7,3 +7,6 @@
 - pkg:maven/com.liferay/org.springframework.beans@5.2.22.LIFERAY-PATCHED-1
 - pkg:maven/com.liferay/org.springframework.beans@5.2.22.LIFERAY-PATCHED-1?classifier=sources
 - pkg:maven/com.liferay/org.springframework.beans@5.2.22.LIFERAY-PATCHED-1?classifier=sources-commercial
+- pkg:maven/com.liferay/org.springframework.beans@5.2.24.LIFERAY-PATCHED-1
+- pkg:maven/com.liferay/org.springframework.beans@5.2.24.LIFERAY-PATCHED-1?classifier=sources
+- pkg:maven/com.liferay/org.springframework.beans@5.2.24.LIFERAY-PATCHED-1?classifier=sources-commercial

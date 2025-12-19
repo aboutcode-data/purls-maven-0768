@@ -1,0 +1,1 @@
+- pkg:maven/org.openrewrite/rewrite-jcl@2.0.0?classifier=sources

@@ -28,6 +28,8 @@
 - pkg:maven/io.lighty.models.gnmi/lighty-gnmi-yang-storage-model@16.2.0?classifier=sources
 - pkg:maven/io.lighty.models.gnmi/lighty-gnmi-yang-storage-model@16.3.0
 - pkg:maven/io.lighty.models.gnmi/lighty-gnmi-yang-storage-model@16.3.0?classifier=sources
+- pkg:maven/io.lighty.models.gnmi/lighty-gnmi-yang-storage-model@16.4.0
+- pkg:maven/io.lighty.models.gnmi/lighty-gnmi-yang-storage-model@16.4.0?classifier=sources
 - pkg:maven/io.lighty.models.gnmi/lighty-gnmi-yang-storage-model@17.0.0
 - pkg:maven/io.lighty.models.gnmi/lighty-gnmi-yang-storage-model@17.0.0?classifier=sources
 - pkg:maven/io.lighty.models.gnmi/lighty-gnmi-yang-storage-model@17.1.0

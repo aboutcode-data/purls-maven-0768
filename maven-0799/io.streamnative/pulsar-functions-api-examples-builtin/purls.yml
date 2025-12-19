@@ -14,5 +14,9 @@
 - pkg:maven/io.streamnative/pulsar-functions-api-examples-builtin@2.11.0.4?classifier=sources
 - pkg:maven/io.streamnative/pulsar-functions-api-examples-builtin@2.11.0.5
 - pkg:maven/io.streamnative/pulsar-functions-api-examples-builtin@2.11.0.5?classifier=sources
+- pkg:maven/io.streamnative/pulsar-functions-api-examples-builtin@2.11.1.0
+- pkg:maven/io.streamnative/pulsar-functions-api-examples-builtin@2.11.1.0?classifier=sources
+- pkg:maven/io.streamnative/pulsar-functions-api-examples-builtin@3.0.0.1-rc1
+- pkg:maven/io.streamnative/pulsar-functions-api-examples-builtin@3.0.0.1-rc1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-functions-api-examples-builtin@master-rc-daily
 - pkg:maven/io.streamnative/pulsar-functions-api-examples-builtin@master-rc-daily?classifier=sources

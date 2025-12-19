@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/solon.native.okhttp@2.2.14
+- pkg:maven/org.noear/solon.native.okhttp@2.2.14?classifier=sources

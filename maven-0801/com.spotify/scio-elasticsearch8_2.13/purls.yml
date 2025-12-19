@@ -8,6 +8,8 @@
 - pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.11.13?classifier=sources
 - pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.11.14
 - pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.11.14?classifier=sources
+- pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.11.15
+- pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.11.15?classifier=sources
 - pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.11.6
 - pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.11.6?classifier=sources
 - pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.11.7
@@ -38,3 +40,5 @@
 - pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.12.6?classifier=sources
 - pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.12.7
 - pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.12.7?classifier=sources
+- pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.12.8
+- pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.12.8?classifier=sources

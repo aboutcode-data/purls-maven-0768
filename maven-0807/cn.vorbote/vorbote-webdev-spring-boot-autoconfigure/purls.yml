@@ -1,3 +1,5 @@
+- pkg:maven/cn.vorbote/vorbote-webdev-spring-boot-autoconfigure@2023.05.a00
+- pkg:maven/cn.vorbote/vorbote-webdev-spring-boot-autoconfigure@2023.05.a00?classifier=sources
 - pkg:maven/cn.vorbote/vorbote-webdev-spring-boot-autoconfigure@3.6.0
 - pkg:maven/cn.vorbote/vorbote-webdev-spring-boot-autoconfigure@3.6.0-beta0
 - pkg:maven/cn.vorbote/vorbote-webdev-spring-boot-autoconfigure@3.6.0-beta0?classifier=sources

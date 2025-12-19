@@ -5,6 +5,11 @@
 - pkg:maven/me.proton.core/event-manager@1.19.2?classifier=sources
 - pkg:maven/me.proton.core/event-manager@10.0.0?classifier=sources
 - pkg:maven/me.proton.core/event-manager@10.1.0?classifier=sources
+- pkg:maven/me.proton.core/event-manager@10.2.0?classifier=sources
+- pkg:maven/me.proton.core/event-manager@10.2.1?classifier=sources
+- pkg:maven/me.proton.core/event-manager@10.3.0?classifier=sources
+- pkg:maven/me.proton.core/event-manager@10.4.0?classifier=sources
+- pkg:maven/me.proton.core/event-manager@10.5.0?classifier=sources
 - pkg:maven/me.proton.core/event-manager@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/event-manager@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/event-manager@3.0.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.vaadin/vaadin-portlet@8.19.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-portlet@8.20.0
 - pkg:maven/com.vaadin/vaadin-portlet@8.20.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-portlet@8.20.1
+- pkg:maven/com.vaadin/vaadin-portlet@8.20.1?classifier=sources

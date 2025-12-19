@@ -11,6 +11,8 @@
 - pkg:maven/net.kkppyy/kk-utils@0.0.14?classifier=sources
 - pkg:maven/net.kkppyy/kk-utils@0.0.15
 - pkg:maven/net.kkppyy/kk-utils@0.0.15?classifier=sources
+- pkg:maven/net.kkppyy/kk-utils@0.0.16
+- pkg:maven/net.kkppyy/kk-utils@0.0.16?classifier=sources
 - pkg:maven/net.kkppyy/kk-utils@0.0.2
 - pkg:maven/net.kkppyy/kk-utils@0.0.3
 - pkg:maven/net.kkppyy/kk-utils@0.0.4

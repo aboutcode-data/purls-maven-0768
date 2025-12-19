@@ -42,3 +42,7 @@
 - pkg:maven/org.webjars.npm/vue__server-renderer@3.3.0-alpha.4?classifier=sources
 - pkg:maven/org.webjars.npm/vue__server-renderer@3.3.0-alpha.8
 - pkg:maven/org.webjars.npm/vue__server-renderer@3.3.0-alpha.8?classifier=sources
+- pkg:maven/org.webjars.npm/vue__server-renderer@3.3.3
+- pkg:maven/org.webjars.npm/vue__server-renderer@3.3.3?classifier=sources
+- pkg:maven/org.webjars.npm/vue__server-renderer@3.3.4
+- pkg:maven/org.webjars.npm/vue__server-renderer@3.3.4?classifier=sources
