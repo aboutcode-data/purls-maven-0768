@@ -10,3 +10,9 @@
 - pkg:maven/se.sundsvall.dept44/dept44-starter-logback-graylog@1.30?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-starter-logback-graylog@1.31
 - pkg:maven/se.sundsvall.dept44/dept44-starter-logback-graylog@1.31?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-logback-graylog@1.32
+- pkg:maven/se.sundsvall.dept44/dept44-starter-logback-graylog@1.32?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-logback-graylog@1.33
+- pkg:maven/se.sundsvall.dept44/dept44-starter-logback-graylog@1.33?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-logback-graylog@1.34
+- pkg:maven/se.sundsvall.dept44/dept44-starter-logback-graylog@1.34?classifier=sources

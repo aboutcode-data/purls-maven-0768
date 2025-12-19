@@ -4,3 +4,5 @@
 - pkg:maven/io.github.ericsson-mts/mts-asn1-xml@0.0.5?classifier=sources
 - pkg:maven/io.github.ericsson-mts/mts-asn1-xml@0.0.7
 - pkg:maven/io.github.ericsson-mts/mts-asn1-xml@0.0.7?classifier=sources
+- pkg:maven/io.github.ericsson-mts/mts-asn1-xml@0.0.8
+- pkg:maven/io.github.ericsson-mts/mts-asn1-xml@0.0.8?classifier=sources

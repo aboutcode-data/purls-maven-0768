@@ -10,3 +10,7 @@
 - pkg:maven/com.tangzc/mybatis-plus-ext-autotable-annotation@3.5.3.1-EXT304-alpha?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-autotable-annotation@3.5.3.1-EXT305-alpha
 - pkg:maven/com.tangzc/mybatis-plus-ext-autotable-annotation@3.5.3.1-EXT305-alpha?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-autotable-annotation@3.5.3.1-EXT306
+- pkg:maven/com.tangzc/mybatis-plus-ext-autotable-annotation@3.5.3.1-EXT306.1
+- pkg:maven/com.tangzc/mybatis-plus-ext-autotable-annotation@3.5.3.1-EXT306.1?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-autotable-annotation@3.5.3.1-EXT306?classifier=sources

@@ -36,6 +36,15 @@
 - pkg:maven/com.palantir.conjure.java.runtime/keystores@7.39.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/keystores@7.4.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/keystores@7.40.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/keystores@7.41.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/keystores@7.42.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/keystores@7.43.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/keystores@7.44.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/keystores@7.45.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/keystores@7.46.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/keystores@7.47.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/keystores@7.48.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/keystores@7.49.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/keystores@7.5.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/keystores@7.6.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/keystores@7.7.0?classifier=sources

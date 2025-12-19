@@ -1,3 +1,5 @@
+- pkg:maven/org.wso2.samples.is/org.wso2.sample.is.sso.agent@4.3.10?classifier=sources
+- pkg:maven/org.wso2.samples.is/org.wso2.sample.is.sso.agent@4.3.10?type=war
 - pkg:maven/org.wso2.samples.is/org.wso2.sample.is.sso.agent@4.3.4?classifier=sources
 - pkg:maven/org.wso2.samples.is/org.wso2.sample.is.sso.agent@4.3.4?type=war
 - pkg:maven/org.wso2.samples.is/org.wso2.sample.is.sso.agent@4.3.5?classifier=sources

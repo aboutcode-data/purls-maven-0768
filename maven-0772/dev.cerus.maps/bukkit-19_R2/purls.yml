@@ -1,2 +1,4 @@
 - pkg:maven/dev.cerus.maps/bukkit-19_R2@3.5.0
 - pkg:maven/dev.cerus.maps/bukkit-19_R2@3.5.0?classifier=sources
+- pkg:maven/dev.cerus.maps/bukkit-19_R2@3.5.1
+- pkg:maven/dev.cerus.maps/bukkit-19_R2@3.5.1?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.micro_utils@0.0.16?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.micro_utils@0.0.18?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.micro_utils@0.1.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.micro_utils@0.10.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.micro_utils@0.10.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.micro_utils@0.2.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.micro_utils@0.2.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.micro_utils@0.3.0?classifier=sources
@@ -33,3 +35,4 @@
 - pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.micro_utils@0.9.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.micro_utils@0.9.2?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.micro_utils@0.9.3?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.micro_utils@0.9.4?classifier=sources

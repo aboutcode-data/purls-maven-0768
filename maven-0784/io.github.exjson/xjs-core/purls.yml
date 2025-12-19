@@ -2,3 +2,8 @@
 - pkg:maven/io.github.exjson/xjs-core@0.26?classifier=sources
 - pkg:maven/io.github.exjson/xjs-core@0.27?classifier=sources
 - pkg:maven/io.github.exjson/xjs-core@0.29?classifier=sources
+- pkg:maven/io.github.exjson/xjs-core@0.31?classifier=sources
+- pkg:maven/io.github.exjson/xjs-core@0.32?classifier=sources
+- pkg:maven/io.github.exjson/xjs-core@0.33?classifier=sources
+- pkg:maven/io.github.exjson/xjs-core@0.34?classifier=sources
+- pkg:maven/io.github.exjson/xjs-core@0.36?classifier=sources

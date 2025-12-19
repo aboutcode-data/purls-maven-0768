@@ -278,6 +278,10 @@
 - pkg:maven/com.github.j5ik2o/documents_2.12@1.14.193?classifier=sources
 - pkg:maven/com.github.j5ik2o/documents_2.12@1.14.194
 - pkg:maven/com.github.j5ik2o/documents_2.12@1.14.194?classifier=sources
+- pkg:maven/com.github.j5ik2o/documents_2.12@1.14.195
+- pkg:maven/com.github.j5ik2o/documents_2.12@1.14.195?classifier=sources
+- pkg:maven/com.github.j5ik2o/documents_2.12@1.14.196
+- pkg:maven/com.github.j5ik2o/documents_2.12@1.14.196?classifier=sources
 - pkg:maven/com.github.j5ik2o/documents_2.12@1.14.19?classifier=sources
 - pkg:maven/com.github.j5ik2o/documents_2.12@1.14.1?classifier=sources
 - pkg:maven/com.github.j5ik2o/documents_2.12@1.14.2

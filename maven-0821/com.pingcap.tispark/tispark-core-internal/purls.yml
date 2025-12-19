@@ -91,6 +91,16 @@
 - pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.2
 - pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.2-RC1
 - pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.2-RC1?classifier=sources
+- pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.2-RC2
+- pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.2-RC2?classifier=sources
+- pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.2-RC3
+- pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.2-RC3?classifier=sources
+- pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.2-RC4
+- pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.2-RC4?classifier=sources
+- pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.2-RC5
+- pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.2-RC5?classifier=sources
 - pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.2?classifier=sources
 - pkg:maven/com.pingcap.tispark/tispark-core-internal@3.2.0
 - pkg:maven/com.pingcap.tispark/tispark-core-internal@3.2.0?classifier=sources
+- pkg:maven/com.pingcap.tispark/tispark-core-internal@3.2.1-RC1
+- pkg:maven/com.pingcap.tispark/tispark-core-internal@3.2.1-RC1?classifier=sources

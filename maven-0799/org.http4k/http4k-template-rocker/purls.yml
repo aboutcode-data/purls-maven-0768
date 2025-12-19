@@ -14,3 +14,11 @@
 - pkg:maven/org.http4k/http4k-template-rocker@4.38.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-template-rocker@4.39.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-rocker@4.40.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@4.40.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@4.40.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@4.41.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@4.41.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@4.41.1.1?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@4.41.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@4.41.3.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@4.41.4.0?classifier=sources

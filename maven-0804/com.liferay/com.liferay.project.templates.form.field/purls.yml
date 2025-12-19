@@ -284,6 +284,9 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.form.field@1.0.185
 - pkg:maven/com.liferay/com.liferay.project.templates.form.field@1.0.185?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.form.field@1.0.185?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.form.field@1.0.186
+- pkg:maven/com.liferay/com.liferay.project.templates.form.field@1.0.186?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.form.field@1.0.186?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.form.field@1.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.form.field@1.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.form.field@1.0.19

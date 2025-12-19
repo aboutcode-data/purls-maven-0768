@@ -1,0 +1,2 @@
+- pkg:maven/io.nats/jparse@1.0.2?classifier=sources
+- pkg:maven/io.nats/jparse@1.1.0?classifier=sources

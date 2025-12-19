@@ -1,0 +1,2 @@
+- pkg:maven/com.rickbusarow.docusync/docusync-gradle-plugin@0.1.0?classifier=sources
+- pkg:maven/com.rickbusarow.docusync/docusync-gradle-plugin@0.1.1?classifier=sources

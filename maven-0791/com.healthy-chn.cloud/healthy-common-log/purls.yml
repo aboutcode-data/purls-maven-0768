@@ -58,3 +58,5 @@
 - pkg:maven/com.healthy-chn.cloud/healthy-common-log@1.3.7.M4
 - pkg:maven/com.healthy-chn.cloud/healthy-common-log@1.3.7.M4?classifier=sources
 - pkg:maven/com.healthy-chn.cloud/healthy-common-log@1.3.7?classifier=sources
+- pkg:maven/com.healthy-chn.cloud/healthy-common-log@1.3.8.M1
+- pkg:maven/com.healthy-chn.cloud/healthy-common-log@1.3.8.M1?classifier=sources

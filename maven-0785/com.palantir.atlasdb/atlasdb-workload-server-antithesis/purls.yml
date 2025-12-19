@@ -1,0 +1,10 @@
+- pkg:maven/com.palantir.atlasdb/atlasdb-workload-server-antithesis@0.821.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-workload-server-antithesis@0.822.0-rc1?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-workload-server-antithesis@0.822.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-workload-server-antithesis@0.824.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-workload-server-antithesis@0.825.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-workload-server-antithesis@0.826.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-workload-server-antithesis@0.829.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-workload-server-antithesis@0.830.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-workload-server-antithesis@0.832.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-workload-server-antithesis@0.834.0?classifier=sources

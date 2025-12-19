@@ -49,6 +49,8 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-routing-types@10.0.5?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-routing-types@10.0.6
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-routing-types@10.0.6?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-routing-types@10.0.7
+- pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-routing-types@10.0.7?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-routing-types@11.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-routing-types@11.0.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-routing-types@11.0.2
@@ -216,3 +218,4 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-routing-types@9.0.5?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-routing-types@9.0.6?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-routing-types@9.0.7?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.iana/iana-routing-types@9.0.8?classifier=sources

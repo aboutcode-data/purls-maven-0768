@@ -4,3 +4,5 @@
 - pkg:maven/com.queue-it.connector/connector@3.6.2?classifier=sources
 - pkg:maven/com.queue-it.connector/connector@3.7.0
 - pkg:maven/com.queue-it.connector/connector@3.7.0?classifier=sources
+- pkg:maven/com.queue-it.connector/connector@4.0.0
+- pkg:maven/com.queue-it.connector/connector@4.0.0?classifier=sources

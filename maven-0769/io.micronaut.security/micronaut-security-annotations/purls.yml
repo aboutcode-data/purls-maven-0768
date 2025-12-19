@@ -30,6 +30,7 @@
 - pkg:maven/io.micronaut.security/micronaut-security-annotations@3.1.0?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-annotations@3.1.1?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-annotations@3.10.0?classifier=sources
+- pkg:maven/io.micronaut.security/micronaut-security-annotations@3.10.1?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-annotations@3.2.0?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-annotations@3.2.1?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-annotations@3.2.2?classifier=sources
@@ -58,3 +59,6 @@
 - pkg:maven/io.micronaut.security/micronaut-security-annotations@3.9.1?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-annotations@3.9.2?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-annotations@3.9.3?classifier=sources
+- pkg:maven/io.micronaut.security/micronaut-security-annotations@3.9.4?classifier=sources
+- pkg:maven/io.micronaut.security/micronaut-security-annotations@3.9.5?classifier=sources
+- pkg:maven/io.micronaut.security/micronaut-security-annotations@4.0.0-M1?classifier=sources

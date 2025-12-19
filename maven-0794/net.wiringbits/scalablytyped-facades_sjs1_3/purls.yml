@@ -42,3 +42,5 @@
 - pkg:maven/net.wiringbits/scalablytyped-facades_sjs1_3@0.5.8?classifier=sources
 - pkg:maven/net.wiringbits/scalablytyped-facades_sjs1_3@0.5.9
 - pkg:maven/net.wiringbits/scalablytyped-facades_sjs1_3@0.5.9?classifier=sources
+- pkg:maven/net.wiringbits/scalablytyped-facades_sjs1_3@0.6.1
+- pkg:maven/net.wiringbits/scalablytyped-facades_sjs1_3@0.6.1?classifier=sources

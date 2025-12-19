@@ -1,0 +1,2 @@
+- pkg:maven/org.connectorio.openapi.generators/java-jaxrs-client@5.4.0
+- pkg:maven/org.connectorio.openapi.generators/java-jaxrs-client@5.4.0?classifier=sources

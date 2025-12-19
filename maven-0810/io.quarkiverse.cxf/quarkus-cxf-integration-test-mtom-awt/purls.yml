@@ -28,3 +28,5 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-mtom-awt@2.0.0.Alpha3?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-mtom-awt@2.0.0.Alpha4
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-mtom-awt@2.0.0.Alpha4?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-mtom-awt@2.0.0.Alpha5
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-mtom-awt@2.0.0.Alpha5?classifier=sources

@@ -64,12 +64,16 @@
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@12.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@12.8
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@12.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@12.9
+- pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@12.9?classifier=sources
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@13.0
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@13.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@13.1
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@13.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@13.2
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@13.2?classifier=sources
+- pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@13.4
+- pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@13.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@6.6
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-asset-manager-storage-fs@7.2

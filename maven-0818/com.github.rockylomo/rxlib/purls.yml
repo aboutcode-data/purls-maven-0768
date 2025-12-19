@@ -126,6 +126,8 @@
 - pkg:maven/com.github.rockylomo/rxlib@2.18.7?classifier=sources
 - pkg:maven/com.github.rockylomo/rxlib@2.19.1
 - pkg:maven/com.github.rockylomo/rxlib@2.19.1?classifier=sources
+- pkg:maven/com.github.rockylomo/rxlib@2.19.2
+- pkg:maven/com.github.rockylomo/rxlib@2.19.2?classifier=sources
 - pkg:maven/com.github.rockylomo/rxlib@2.1?classifier=sources
 - pkg:maven/com.github.rockylomo/rxlib@2.2
 - pkg:maven/com.github.rockylomo/rxlib@2.2?classifier=sources

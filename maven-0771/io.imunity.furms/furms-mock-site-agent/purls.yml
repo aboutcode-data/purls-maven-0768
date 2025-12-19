@@ -20,3 +20,4 @@
 - pkg:maven/io.imunity.furms/furms-mock-site-agent@4.2.3
 - pkg:maven/io.imunity.furms/furms-mock-site-agent@4.2.4
 - pkg:maven/io.imunity.furms/furms-mock-site-agent@4.2.5
+- pkg:maven/io.imunity.furms/furms-mock-site-agent@4.2.6

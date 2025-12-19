@@ -226,6 +226,12 @@
 - pkg:maven/software.amazon.awscdk/mediaconvert@1.195.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/mediaconvert@1.196.0
 - pkg:maven/software.amazon.awscdk/mediaconvert@1.196.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/mediaconvert@1.197.0
+- pkg:maven/software.amazon.awscdk/mediaconvert@1.197.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/mediaconvert@1.198.0
+- pkg:maven/software.amazon.awscdk/mediaconvert@1.198.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/mediaconvert@1.198.1
+- pkg:maven/software.amazon.awscdk/mediaconvert@1.198.1?classifier=sources
 - pkg:maven/software.amazon.awscdk/mediaconvert@1.20.0
 - pkg:maven/software.amazon.awscdk/mediaconvert@1.20.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/mediaconvert@1.21.0

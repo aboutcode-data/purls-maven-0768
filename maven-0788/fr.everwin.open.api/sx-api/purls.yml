@@ -10,6 +10,10 @@
 - pkg:maven/fr.everwin.open.api/sx-api@0.2.0?classifier=sources
 - pkg:maven/fr.everwin.open.api/sx-api@1.10
 - pkg:maven/fr.everwin.open.api/sx-api@1.10?classifier=sources
+- pkg:maven/fr.everwin.open.api/sx-api@1.11
+- pkg:maven/fr.everwin.open.api/sx-api@1.11?classifier=sources
+- pkg:maven/fr.everwin.open.api/sx-api@1.12
+- pkg:maven/fr.everwin.open.api/sx-api@1.12?classifier=sources
 - pkg:maven/fr.everwin.open.api/sx-api@1.4
 - pkg:maven/fr.everwin.open.api/sx-api@1.4?classifier=sources
 - pkg:maven/fr.everwin.open.api/sx-api@1.6

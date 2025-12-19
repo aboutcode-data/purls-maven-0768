@@ -29,6 +29,8 @@
 - pkg:maven/me.hekr.iotos.softgateway/framework-network-tcp@3.5.14?classifier=sources
 - pkg:maven/me.hekr.iotos.softgateway/framework-network-tcp@3.5.15
 - pkg:maven/me.hekr.iotos.softgateway/framework-network-tcp@3.5.15?classifier=sources
+- pkg:maven/me.hekr.iotos.softgateway/framework-network-tcp@3.5.16
+- pkg:maven/me.hekr.iotos.softgateway/framework-network-tcp@3.5.16?classifier=sources
 - pkg:maven/me.hekr.iotos.softgateway/framework-network-tcp@3.5.1?classifier=sources
 - pkg:maven/me.hekr.iotos.softgateway/framework-network-tcp@3.5.2
 - pkg:maven/me.hekr.iotos.softgateway/framework-network-tcp@3.5.2?classifier=sources

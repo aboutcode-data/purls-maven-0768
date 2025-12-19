@@ -18,3 +18,4 @@
 - pkg:maven/org.microg/safe-parcel@1.5.0?type=aar
 - pkg:maven/org.microg/safe-parcel@1.6.0?classifier=sources
 - pkg:maven/org.microg/safe-parcel@1.7.0?classifier=sources
+- pkg:maven/org.microg/safe-parcel@1.7.1?classifier=sources

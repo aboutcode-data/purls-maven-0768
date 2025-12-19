@@ -17,3 +17,4 @@
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-sdk-rxjava2@2.3.2?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-sdk-rxjava2@2.3.3?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-sdk-rxjava2@2.3.4?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-sdk-rxjava2@3.0.0-M1?classifier=sources

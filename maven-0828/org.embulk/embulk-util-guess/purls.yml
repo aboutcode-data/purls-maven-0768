@@ -5,3 +5,4 @@
 - pkg:maven/org.embulk/embulk-util-guess@0.1.4?classifier=sources
 - pkg:maven/org.embulk/embulk-util-guess@0.2.0?classifier=sources
 - pkg:maven/org.embulk/embulk-util-guess@0.3.0?classifier=sources
+- pkg:maven/org.embulk/embulk-util-guess@0.3.1?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/garden.ephemeral.dsstore/dsstore-gradle-plugin@0.0.2?classifier=sources
+- pkg:maven/garden.ephemeral.dsstore/dsstore-gradle-plugin@0.0.3?classifier=sources
+- pkg:maven/garden.ephemeral.dsstore/dsstore-gradle-plugin@0.0.5?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/tech.guanli.boot.suite/mybatis-plus-dml-history-mongodb-store-spring-boot-starter@1.0.2-RELEASE?classifier=sources
 - pkg:maven/tech.guanli.boot.suite/mybatis-plus-dml-history-mongodb-store-spring-boot-starter@1.0.3-RELEASE
 - pkg:maven/tech.guanli.boot.suite/mybatis-plus-dml-history-mongodb-store-spring-boot-starter@1.0.3-RELEASE?classifier=sources
+- pkg:maven/tech.guanli.boot.suite/mybatis-plus-dml-history-mongodb-store-spring-boot-starter@1.0.4-RELEASE
+- pkg:maven/tech.guanli.boot.suite/mybatis-plus-dml-history-mongodb-store-spring-boot-starter@1.0.4-RELEASE?classifier=sources

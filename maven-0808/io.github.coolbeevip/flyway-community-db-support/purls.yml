@@ -1,0 +1,4 @@
+- pkg:maven/io.github.coolbeevip/flyway-community-db-support@9.15.2
+- pkg:maven/io.github.coolbeevip/flyway-community-db-support@9.15.2.1
+- pkg:maven/io.github.coolbeevip/flyway-community-db-support@9.15.2.1?classifier=sources
+- pkg:maven/io.github.coolbeevip/flyway-community-db-support@9.15.2?classifier=sources

@@ -33,6 +33,9 @@
 - pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@21
 - pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@21?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@21?classifier=sources
+- pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@22
+- pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@22?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@22?classifier=sources
 - pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@2?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@2?classifier=sources
 - pkg:maven/org.apache.myfaces.buildtools/checkstyle-rules@3

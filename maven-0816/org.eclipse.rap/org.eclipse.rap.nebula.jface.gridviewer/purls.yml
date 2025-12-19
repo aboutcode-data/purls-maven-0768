@@ -52,6 +52,8 @@
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.jface.gridviewer@3.22.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.jface.gridviewer@3.23.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.jface.gridviewer@3.23.0?classifier=sources
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.jface.gridviewer@3.24.0
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.jface.gridviewer@3.24.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.jface.gridviewer@3.3.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.jface.gridviewer@3.3.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.jface.gridviewer@3.4.0

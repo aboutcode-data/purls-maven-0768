@@ -1,0 +1,2 @@
+- pkg:maven/org.holodeckb2b.bdxr/bdxr-common@4.0.0
+- pkg:maven/org.holodeckb2b.bdxr/bdxr-common@4.0.0?classifier=sources

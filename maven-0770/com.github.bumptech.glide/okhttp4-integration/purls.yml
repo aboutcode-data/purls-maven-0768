@@ -1,1 +1,2 @@
 - pkg:maven/com.github.bumptech.glide/okhttp4-integration@4.15.0?classifier=sources
+- pkg:maven/com.github.bumptech.glide/okhttp4-integration@4.15.1?classifier=sources

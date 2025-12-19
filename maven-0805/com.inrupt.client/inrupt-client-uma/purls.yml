@@ -1,0 +1,2 @@
+- pkg:maven/com.inrupt.client/inrupt-client-uma@1.0.0.Beta2
+- pkg:maven/com.inrupt.client/inrupt-client-uma@1.0.0.Beta2?classifier=sources

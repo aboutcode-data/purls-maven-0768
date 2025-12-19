@@ -1,2 +1,4 @@
 - pkg:maven/io.rocketbase.asset/imgproxy@0.1.0
 - pkg:maven/io.rocketbase.asset/imgproxy@0.1.0?classifier=sources
+- pkg:maven/io.rocketbase.asset/imgproxy@0.2.0
+- pkg:maven/io.rocketbase.asset/imgproxy@0.2.0?classifier=sources

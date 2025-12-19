@@ -70,3 +70,5 @@
 - pkg:maven/com.wallee/wallee-java-sdk@4.0.9?classifier=sources
 - pkg:maven/com.wallee/wallee-java-sdk@5.0.0
 - pkg:maven/com.wallee/wallee-java-sdk@5.0.0?classifier=sources
+- pkg:maven/com.wallee/wallee-java-sdk@5.1.2
+- pkg:maven/com.wallee/wallee-java-sdk@5.1.2?classifier=sources

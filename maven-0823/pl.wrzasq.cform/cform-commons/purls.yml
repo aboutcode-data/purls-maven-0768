@@ -42,3 +42,5 @@
 - pkg:maven/pl.wrzasq.cform/cform-commons@1.1.8?classifier=sources
 - pkg:maven/pl.wrzasq.cform/cform-commons@1.1.9
 - pkg:maven/pl.wrzasq.cform/cform-commons@1.1.9?classifier=sources
+- pkg:maven/pl.wrzasq.cform/cform-commons@1.2.0
+- pkg:maven/pl.wrzasq.cform/cform-commons@1.2.0?classifier=sources

@@ -30,5 +30,9 @@
 - pkg:maven/uk.gov.nationalarchives/droid-report-interfaces@6.6.0-rc3-A
 - pkg:maven/uk.gov.nationalarchives/droid-report-interfaces@6.6.0-rc3-A?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/droid-report-interfaces@6.6.0?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/droid-report-interfaces@6.6.1
 - pkg:maven/uk.gov.nationalarchives/droid-report-interfaces@6.6.1-rc
+- pkg:maven/uk.gov.nationalarchives/droid-report-interfaces@6.6.1-rc2
+- pkg:maven/uk.gov.nationalarchives/droid-report-interfaces@6.6.1-rc2?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/droid-report-interfaces@6.6.1-rc?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/droid-report-interfaces@6.6.1?classifier=sources

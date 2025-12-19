@@ -193,3 +193,4 @@
 - pkg:maven/io.micronaut/micronaut-validation@3.8.5?classifier=sources
 - pkg:maven/io.micronaut/micronaut-validation@3.8.6?classifier=sources
 - pkg:maven/io.micronaut/micronaut-validation@3.8.7?classifier=sources
+- pkg:maven/io.micronaut/micronaut-validation@3.8.8?classifier=sources

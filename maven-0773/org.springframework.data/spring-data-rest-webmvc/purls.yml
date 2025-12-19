@@ -323,6 +323,10 @@
 - pkg:maven/org.springframework.data/spring-data-rest-webmvc@3.7.0
 - pkg:maven/org.springframework.data/spring-data-rest-webmvc@3.7.0?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-webmvc@3.7.1
+- pkg:maven/org.springframework.data/spring-data-rest-webmvc@3.7.10
+- pkg:maven/org.springframework.data/spring-data-rest-webmvc@3.7.10?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-webmvc@3.7.11
+- pkg:maven/org.springframework.data/spring-data-rest-webmvc@3.7.11?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-webmvc@3.7.1?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-webmvc@3.7.2
 - pkg:maven/org.springframework.data/spring-data-rest-webmvc@3.7.2?classifier=sources
@@ -348,3 +352,7 @@
 - pkg:maven/org.springframework.data/spring-data-rest-webmvc@4.0.2?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-webmvc@4.0.3
 - pkg:maven/org.springframework.data/spring-data-rest-webmvc@4.0.3?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-webmvc@4.0.4
+- pkg:maven/org.springframework.data/spring-data-rest-webmvc@4.0.4?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-webmvc@4.0.5
+- pkg:maven/org.springframework.data/spring-data-rest-webmvc@4.0.5?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/com.tradplusad/sigmob-ads@4.10.0?type=aar
+- pkg:maven/com.tradplusad/sigmob-ads@4.10.1?type=aar
 - pkg:maven/com.tradplusad/sigmob-ads@4.8.2?type=aar
 - pkg:maven/com.tradplusad/sigmob-ads@4.9.0?type=aar

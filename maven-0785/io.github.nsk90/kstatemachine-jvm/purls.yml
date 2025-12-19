@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nsk90/kstatemachine-jvm@0.22.0?classifier=sources
+- pkg:maven/io.github.nsk90/kstatemachine-jvm@0.22.1?classifier=sources

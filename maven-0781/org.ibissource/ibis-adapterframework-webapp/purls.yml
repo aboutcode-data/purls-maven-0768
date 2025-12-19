@@ -51,3 +51,5 @@
 - pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.8-RC2?type=war
 - pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.8-RC3?classifier=sources
 - pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.8-RC3?type=war
+- pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.8?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.8?type=war

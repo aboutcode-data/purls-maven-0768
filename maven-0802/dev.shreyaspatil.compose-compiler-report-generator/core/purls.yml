@@ -7,3 +7,4 @@
 - pkg:maven/dev.shreyaspatil.compose-compiler-report-generator/core@1.0.0-beta02?classifier=sources
 - pkg:maven/dev.shreyaspatil.compose-compiler-report-generator/core@1.0.0-beta03?classifier=sources
 - pkg:maven/dev.shreyaspatil.compose-compiler-report-generator/core@1.0.0?classifier=sources
+- pkg:maven/dev.shreyaspatil.compose-compiler-report-generator/core@1.0.1?classifier=sources

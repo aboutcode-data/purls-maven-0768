@@ -9,3 +9,4 @@
 - pkg:maven/org.danbrough.kotlinxtras/plugin@0.0.3-beta03?classifier=sources
 - pkg:maven/org.danbrough.kotlinxtras/plugin@0.0.3-beta06?classifier=sources
 - pkg:maven/org.danbrough.kotlinxtras/plugin@0.0.3-beta08?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras/plugin@0.0.3-beta14?classifier=sources

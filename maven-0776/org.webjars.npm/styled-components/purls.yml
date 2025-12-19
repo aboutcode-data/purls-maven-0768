@@ -62,3 +62,5 @@
 - pkg:maven/org.webjars.npm/styled-components@5.3.5?classifier=sources
 - pkg:maven/org.webjars.npm/styled-components@6.0.0-alpha.5
 - pkg:maven/org.webjars.npm/styled-components@6.0.0-alpha.5?classifier=sources
+- pkg:maven/org.webjars.npm/styled-components@6.0.0-beta.13
+- pkg:maven/org.webjars.npm/styled-components@6.0.0-beta.13?classifier=sources

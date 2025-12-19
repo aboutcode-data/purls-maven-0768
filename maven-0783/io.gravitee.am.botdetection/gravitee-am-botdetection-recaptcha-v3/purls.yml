@@ -78,6 +78,7 @@
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.18.14?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.18.15?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.18.16?classifier=sources
+- pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.18.17?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.18.1?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.18.2?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.18.3?classifier=sources
@@ -96,14 +97,18 @@
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.19.5?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.19.6?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.19.7?classifier=sources
+- pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.19.8?classifier=sources
+- pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.19.9?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.20.0-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.20.0-alpha.2?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.20.0?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.20.1?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.20.2?classifier=sources
+- pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.20.3?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.21.0-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.21.0-alpha.2?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.21.0-alpha.3?classifier=sources
+- pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.21.0-alpha.4?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.9.0?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.9.1?classifier=sources
 - pkg:maven/io.gravitee.am.botdetection/gravitee-am-botdetection-recaptcha-v3@3.9.2?classifier=sources

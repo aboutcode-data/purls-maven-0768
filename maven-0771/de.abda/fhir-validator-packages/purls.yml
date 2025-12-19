@@ -9,3 +9,4 @@
 - pkg:maven/de.abda/fhir-validator-packages@0.9.8?classifier=sources
 - pkg:maven/de.abda/fhir-validator-packages@0.9.9?classifier=sources
 - pkg:maven/de.abda/fhir-validator-packages@1.0.0?classifier=sources
+- pkg:maven/de.abda/fhir-validator-packages@1.0.1?classifier=sources

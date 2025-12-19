@@ -1,0 +1,2 @@
+- pkg:maven/cn.dynamictp/dynamic-tp-example-adapter-dubbo@1.1.1-beta
+- pkg:maven/cn.dynamictp/dynamic-tp-example-adapter-dubbo@1.1.1-beta?classifier=sources

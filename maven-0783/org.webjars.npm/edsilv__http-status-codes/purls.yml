@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/edsilv__http-status-codes@0.0.12
 - pkg:maven/org.webjars.npm/edsilv__http-status-codes@0.0.12?classifier=sources
+- pkg:maven/org.webjars.npm/edsilv__http-status-codes@1.0.3
+- pkg:maven/org.webjars.npm/edsilv__http-status-codes@1.0.3?classifier=sources

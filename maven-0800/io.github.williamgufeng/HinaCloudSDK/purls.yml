@@ -1,0 +1,2 @@
+- pkg:maven/io.github.williamgufeng/HinaCloudSDK@0.0.2?classifier=sources
+- pkg:maven/io.github.williamgufeng/HinaCloudSDK@1.0.0?classifier=sources

@@ -42,6 +42,10 @@
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca@2.13.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca@2.14.0
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca@2.14.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-security-private-ca@2.15.0
+- pkg:maven/com.google.cloud/google-cloud-security-private-ca@2.15.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-security-private-ca@2.16.0
+- pkg:maven/com.google.cloud/google-cloud-security-private-ca@2.16.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca@2.2.0
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca@2.2.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca@2.2.1

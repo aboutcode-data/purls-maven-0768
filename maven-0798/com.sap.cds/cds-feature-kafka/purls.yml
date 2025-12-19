@@ -10,3 +10,7 @@
 - pkg:maven/com.sap.cds/cds-feature-kafka@1.31.1?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-kafka@1.32.0
 - pkg:maven/com.sap.cds/cds-feature-kafka@1.32.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-kafka@1.32.1
+- pkg:maven/com.sap.cds/cds-feature-kafka@1.32.1?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-kafka@1.33.0
+- pkg:maven/com.sap.cds/cds-feature-kafka@1.33.0?classifier=sources

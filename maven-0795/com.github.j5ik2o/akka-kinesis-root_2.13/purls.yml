@@ -540,6 +540,10 @@
 - pkg:maven/com.github.j5ik2o/akka-kinesis-root_2.13@1.0.349?classifier=sources
 - pkg:maven/com.github.j5ik2o/akka-kinesis-root_2.13@1.0.34?classifier=sources
 - pkg:maven/com.github.j5ik2o/akka-kinesis-root_2.13@1.0.35
+- pkg:maven/com.github.j5ik2o/akka-kinesis-root_2.13@1.0.350
+- pkg:maven/com.github.j5ik2o/akka-kinesis-root_2.13@1.0.350?classifier=sources
+- pkg:maven/com.github.j5ik2o/akka-kinesis-root_2.13@1.0.351
+- pkg:maven/com.github.j5ik2o/akka-kinesis-root_2.13@1.0.351?classifier=sources
 - pkg:maven/com.github.j5ik2o/akka-kinesis-root_2.13@1.0.35?classifier=sources
 - pkg:maven/com.github.j5ik2o/akka-kinesis-root_2.13@1.0.37
 - pkg:maven/com.github.j5ik2o/akka-kinesis-root_2.13@1.0.37?classifier=sources

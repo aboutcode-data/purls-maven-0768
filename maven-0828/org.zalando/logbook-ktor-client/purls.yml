@@ -8,3 +8,5 @@
 - pkg:maven/org.zalando/logbook-ktor-client@2.15.0?classifier=sources
 - pkg:maven/org.zalando/logbook-ktor-client@2.16.0
 - pkg:maven/org.zalando/logbook-ktor-client@2.16.0?classifier=sources
+- pkg:maven/org.zalando/logbook-ktor-client@3.0.0-RC.0
+- pkg:maven/org.zalando/logbook-ktor-client@3.0.0-RC.0?classifier=sources

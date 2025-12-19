@@ -34,6 +34,9 @@
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@1.0.21
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@1.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@1.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@1.0.22
+- pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@1.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@1.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@1.0.7
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@1.0.7?classifier=sources-commercial
@@ -83,6 +86,9 @@
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@2.0.20
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@2.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@2.0.21
+- pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@2.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.multi.factor.authentication.timebased.otp.service@2.0.3

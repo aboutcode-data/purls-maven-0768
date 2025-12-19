@@ -206,3 +206,5 @@
 - pkg:maven/org.pac4j/pac4j-saml@6.0.0-RC4?classifier=sources
 - pkg:maven/org.pac4j/pac4j-saml@6.0.0-RC5
 - pkg:maven/org.pac4j/pac4j-saml@6.0.0-RC5?classifier=sources
+- pkg:maven/org.pac4j/pac4j-saml@6.0.0-RC6
+- pkg:maven/org.pac4j/pac4j-saml@6.0.0-RC6?classifier=sources

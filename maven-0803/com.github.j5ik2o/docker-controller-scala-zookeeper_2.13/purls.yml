@@ -398,6 +398,10 @@
 - pkg:maven/com.github.j5ik2o/docker-controller-scala-zookeeper_2.13@1.14.145?classifier=sources
 - pkg:maven/com.github.j5ik2o/docker-controller-scala-zookeeper_2.13@1.14.146
 - pkg:maven/com.github.j5ik2o/docker-controller-scala-zookeeper_2.13@1.14.146?classifier=sources
+- pkg:maven/com.github.j5ik2o/docker-controller-scala-zookeeper_2.13@1.14.147
+- pkg:maven/com.github.j5ik2o/docker-controller-scala-zookeeper_2.13@1.14.147?classifier=sources
+- pkg:maven/com.github.j5ik2o/docker-controller-scala-zookeeper_2.13@1.14.148
+- pkg:maven/com.github.j5ik2o/docker-controller-scala-zookeeper_2.13@1.14.148?classifier=sources
 - pkg:maven/com.github.j5ik2o/docker-controller-scala-zookeeper_2.13@1.14.14?classifier=sources
 - pkg:maven/com.github.j5ik2o/docker-controller-scala-zookeeper_2.13@1.14.15
 - pkg:maven/com.github.j5ik2o/docker-controller-scala-zookeeper_2.13@1.14.15?classifier=sources

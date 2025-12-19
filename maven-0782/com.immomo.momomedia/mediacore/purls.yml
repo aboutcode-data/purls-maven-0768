@@ -24,5 +24,11 @@
 - pkg:maven/com.immomo.momomedia/mediacore@momo5.1f.mediacore.20221201114502?type=aar
 - pkg:maven/com.immomo.momomedia/mediacore@momo5.1f.mediacore.20230207184503?classifier=sources
 - pkg:maven/com.immomo.momomedia/mediacore@momo5.1f.mediacore.20230207184503?type=aar
+- pkg:maven/com.immomo.momomedia/mediacore@momo5.1f.mediacore.20230314124503?classifier=sources
+- pkg:maven/com.immomo.momomedia/mediacore@momo5.1f.mediacore.20230314124503?type=aar
+- pkg:maven/com.immomo.momomedia/mediacore@momo5.1f.mediacore.20230323184503?classifier=sources
+- pkg:maven/com.immomo.momomedia/mediacore@momo5.1f.mediacore.20230323184503?type=aar
+- pkg:maven/com.immomo.momomedia/mediacore@momo5.1f.mediacore.20230327112002?classifier=sources
+- pkg:maven/com.immomo.momomedia/mediacore@momo5.1f.mediacore.20230327112002?type=aar
 - pkg:maven/com.immomo.momomedia/mediacore@momo5.1f.medialive.202101271918?classifier=sources
 - pkg:maven/com.immomo.momomedia/mediacore@momo5.1f.medialive.202101271918?type=aar

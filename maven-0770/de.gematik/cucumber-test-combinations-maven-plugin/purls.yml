@@ -6,3 +6,5 @@
 - pkg:maven/de.gematik/cucumber-test-combinations-maven-plugin@2.5.2?classifier=sources
 - pkg:maven/de.gematik/cucumber-test-combinations-maven-plugin@2.6.0
 - pkg:maven/de.gematik/cucumber-test-combinations-maven-plugin@2.6.0?classifier=sources
+- pkg:maven/de.gematik/cucumber-test-combinations-maven-plugin@2.7.1
+- pkg:maven/de.gematik/cucumber-test-combinations-maven-plugin@2.7.1?classifier=sources

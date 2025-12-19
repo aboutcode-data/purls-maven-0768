@@ -3,3 +3,4 @@
 - pkg:maven/net.portswigger.burp.extensions/montoya-api@2023.1?classifier=sources
 - pkg:maven/net.portswigger.burp.extensions/montoya-api@2023.2?classifier=sources
 - pkg:maven/net.portswigger.burp.extensions/montoya-api@2023.3?classifier=sources
+- pkg:maven/net.portswigger.burp.extensions/montoya-api@2023.4?classifier=sources

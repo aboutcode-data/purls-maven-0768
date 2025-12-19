@@ -16,6 +16,10 @@
 - pkg:maven/org.drjekyll/sentry-http-interceptors@6.14.0?classifier=sources
 - pkg:maven/org.drjekyll/sentry-http-interceptors@6.15.0
 - pkg:maven/org.drjekyll/sentry-http-interceptors@6.15.0?classifier=sources
+- pkg:maven/org.drjekyll/sentry-http-interceptors@6.16.0
+- pkg:maven/org.drjekyll/sentry-http-interceptors@6.16.0?classifier=sources
+- pkg:maven/org.drjekyll/sentry-http-interceptors@6.17.0
+- pkg:maven/org.drjekyll/sentry-http-interceptors@6.17.0?classifier=sources
 - pkg:maven/org.drjekyll/sentry-http-interceptors@6.9.0
 - pkg:maven/org.drjekyll/sentry-http-interceptors@6.9.0?classifier=sources
 - pkg:maven/org.drjekyll/sentry-http-interceptors@6.9.1

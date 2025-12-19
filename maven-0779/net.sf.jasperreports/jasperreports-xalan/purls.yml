@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jasperreports/jasperreports-xalan@6.20.1
+- pkg:maven/net.sf.jasperreports/jasperreports-xalan@6.20.1?classifier=sources

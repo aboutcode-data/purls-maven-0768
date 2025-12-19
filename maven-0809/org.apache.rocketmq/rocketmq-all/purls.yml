@@ -18,6 +18,7 @@
 - pkg:maven/org.apache.rocketmq/rocketmq-all@4.9.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.rocketmq/rocketmq-all@4.9.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.rocketmq/rocketmq-all@4.9.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.rocketmq/rocketmq-all@4.9.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.rocketmq/rocketmq-all@5.0.0-ALPHA?classifier=source-release&type=zip
 - pkg:maven/org.apache.rocketmq/rocketmq-all@5.0.0-PREVIEW?classifier=source-release&type=zip
 - pkg:maven/org.apache.rocketmq/rocketmq-all@5.0.0?classifier=source-release&type=zip

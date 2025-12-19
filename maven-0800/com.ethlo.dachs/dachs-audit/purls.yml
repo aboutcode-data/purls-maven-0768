@@ -12,3 +12,5 @@
 - pkg:maven/com.ethlo.dachs/dachs-audit@0.9.3
 - pkg:maven/com.ethlo.dachs/dachs-audit@0.9.3?classifier=sources
 - pkg:maven/com.ethlo.dachs/dachs-audit@0.9?classifier=sources
+- pkg:maven/com.ethlo.dachs/dachs-audit@1.0.0
+- pkg:maven/com.ethlo.dachs/dachs-audit@1.0.0?classifier=sources

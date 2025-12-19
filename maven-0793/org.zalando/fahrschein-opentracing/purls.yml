@@ -1,1 +1,2 @@
 - pkg:maven/org.zalando/fahrschein-opentracing@0.24.0?classifier=sources
+- pkg:maven/org.zalando/fahrschein-opentracing@1.0.0?classifier=sources

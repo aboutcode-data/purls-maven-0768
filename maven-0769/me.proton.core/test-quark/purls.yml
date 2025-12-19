@@ -1,3 +1,5 @@
+- pkg:maven/me.proton.core/test-quark@10.0.0?classifier=sources
+- pkg:maven/me.proton.core/test-quark@10.1.0?classifier=sources
 - pkg:maven/me.proton.core/test-quark@9.10.0?classifier=sources
 - pkg:maven/me.proton.core/test-quark@9.10.1?classifier=sources
 - pkg:maven/me.proton.core/test-quark@9.11.0?classifier=sources
@@ -7,6 +9,12 @@
 - pkg:maven/me.proton.core/test-quark@9.13.0?classifier=sources
 - pkg:maven/me.proton.core/test-quark@9.14.0?classifier=sources
 - pkg:maven/me.proton.core/test-quark@9.15.0?classifier=sources
+- pkg:maven/me.proton.core/test-quark@9.16.0?classifier=sources
+- pkg:maven/me.proton.core/test-quark@9.16.1?classifier=sources
+- pkg:maven/me.proton.core/test-quark@9.17.0?classifier=sources
+- pkg:maven/me.proton.core/test-quark@9.17.1?classifier=sources
+- pkg:maven/me.proton.core/test-quark@9.18.0?classifier=sources
+- pkg:maven/me.proton.core/test-quark@9.19.0?classifier=sources
 - pkg:maven/me.proton.core/test-quark@9.5.0?classifier=sources
 - pkg:maven/me.proton.core/test-quark@9.6.0?classifier=sources
 - pkg:maven/me.proton.core/test-quark@9.7.0?classifier=sources

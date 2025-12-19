@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/awscommunity-s3-bucket-module@1.4.0-alpha.7
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/awscommunity-s3-bucket-module@1.4.0-alpha.7?classifier=sources

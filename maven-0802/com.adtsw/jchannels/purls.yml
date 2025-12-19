@@ -20,3 +20,5 @@
 - pkg:maven/com.adtsw/jchannels@1.0.27?classifier=sources
 - pkg:maven/com.adtsw/jchannels@1.0.28
 - pkg:maven/com.adtsw/jchannels@1.0.28?classifier=sources
+- pkg:maven/com.adtsw/jchannels@1.0.29
+- pkg:maven/com.adtsw/jchannels@1.0.29?classifier=sources

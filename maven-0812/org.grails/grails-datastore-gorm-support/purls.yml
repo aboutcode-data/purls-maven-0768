@@ -126,3 +126,4 @@
 - pkg:maven/org.grails/grails-datastore-gorm-support@7.3.2?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-support@7.3.3?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-support@7.3.4?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-support@8.0.0-M1?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/io.github.mjhaugsdal/er-m95-2008-10-03@1.0.0
+- pkg:maven/io.github.mjhaugsdal/er-m95-2008-10-03@1.0.0?classifier=sources
+- pkg:maven/io.github.mjhaugsdal/er-m95-2008-10-03@2.0.0
+- pkg:maven/io.github.mjhaugsdal/er-m95-2008-10-03@2.0.0?classifier=sources
+- pkg:maven/io.github.mjhaugsdal/er-m95-2008-10-03@3.0.0
+- pkg:maven/io.github.mjhaugsdal/er-m95-2008-10-03@3.0.0?classifier=sources
+- pkg:maven/io.github.mjhaugsdal/er-m95-2008-10-03@4.0.0
+- pkg:maven/io.github.mjhaugsdal/er-m95-2008-10-03@4.0.0?classifier=sources

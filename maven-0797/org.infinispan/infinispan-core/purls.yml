@@ -226,6 +226,8 @@
 - pkg:maven/org.infinispan/infinispan-core@14.0.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-core@14.0.7.Final
 - pkg:maven/org.infinispan/infinispan-core@14.0.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-core@14.0.8.Final
+- pkg:maven/org.infinispan/infinispan-core@14.0.8.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-core@5.0.0.FINAL?classifier=sources
 - pkg:maven/org.infinispan/infinispan-core@5.0.1.FINAL?classifier=sources
 - pkg:maven/org.infinispan/infinispan-core@5.1.0.ALPHA1?classifier=sources

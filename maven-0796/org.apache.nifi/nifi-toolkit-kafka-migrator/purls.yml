@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/nifi-toolkit-kafka-migrator@1.21.0
+- pkg:maven/org.apache.nifi/nifi-toolkit-kafka-migrator@1.21.0?classifier=sources

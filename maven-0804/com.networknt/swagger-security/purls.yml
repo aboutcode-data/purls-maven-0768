@@ -177,6 +177,8 @@
 - pkg:maven/com.networknt/swagger-security@1.6.43?classifier=sources
 - pkg:maven/com.networknt/swagger-security@1.6.44
 - pkg:maven/com.networknt/swagger-security@1.6.44?classifier=sources
+- pkg:maven/com.networknt/swagger-security@1.6.45
+- pkg:maven/com.networknt/swagger-security@1.6.45?classifier=sources
 - pkg:maven/com.networknt/swagger-security@1.6.4?classifier=sources
 - pkg:maven/com.networknt/swagger-security@1.6.5
 - pkg:maven/com.networknt/swagger-security@1.6.5?classifier=sources

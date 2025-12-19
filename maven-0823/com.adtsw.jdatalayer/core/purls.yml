@@ -20,6 +20,8 @@
 - pkg:maven/com.adtsw.jdatalayer/core@1.0.20?classifier=sources
 - pkg:maven/com.adtsw.jdatalayer/core@1.0.21
 - pkg:maven/com.adtsw.jdatalayer/core@1.0.21?classifier=sources
+- pkg:maven/com.adtsw.jdatalayer/core@1.0.22
+- pkg:maven/com.adtsw.jdatalayer/core@1.0.22?classifier=sources
 - pkg:maven/com.adtsw.jdatalayer/core@1.0.3
 - pkg:maven/com.adtsw.jdatalayer/core@1.0.3?classifier=sources
 - pkg:maven/com.adtsw.jdatalayer/core@1.0.5

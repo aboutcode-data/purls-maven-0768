@@ -102,3 +102,5 @@
 - pkg:maven/com.google.http-client/google-http-client-findbugs@1.42.3?classifier=sources
 - pkg:maven/com.google.http-client/google-http-client-findbugs@1.43.0
 - pkg:maven/com.google.http-client/google-http-client-findbugs@1.43.0?classifier=sources
+- pkg:maven/com.google.http-client/google-http-client-findbugs@1.43.1
+- pkg:maven/com.google.http-client/google-http-client-findbugs@1.43.1?classifier=sources

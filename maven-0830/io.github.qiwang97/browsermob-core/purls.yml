@@ -1,0 +1,2 @@
+- pkg:maven/io.github.qiwang97/browsermob-core@2.2.3-release
+- pkg:maven/io.github.qiwang97/browsermob-core@2.2.3-release?classifier=sources

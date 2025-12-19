@@ -32,3 +32,8 @@
 - pkg:maven/com.kaltura/KalturaOttAndroidJavaClient@8.5.3.30183?classifier=sources
 - pkg:maven/com.kaltura/KalturaOttAndroidJavaClient@8.6.0.30250?classifier=sources
 - pkg:maven/com.kaltura/KalturaOttAndroidJavaClient@8.6.1.30255?classifier=sources
+- pkg:maven/com.kaltura/KalturaOttAndroidJavaClient@8.6.10.30266?classifier=sources
+- pkg:maven/com.kaltura/KalturaOttAndroidJavaClient@8.6.11.30272?classifier=sources
+- pkg:maven/com.kaltura/KalturaOttAndroidJavaClient@8.6.12.30290?classifier=sources
+- pkg:maven/com.kaltura/KalturaOttAndroidJavaClient@8.6.2.30256?classifier=sources
+- pkg:maven/com.kaltura/KalturaOttAndroidJavaClient@8.7.0.30290?classifier=sources

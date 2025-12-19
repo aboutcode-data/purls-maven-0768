@@ -34,3 +34,7 @@
 - pkg:maven/com.sudoplatform/sudoentitlements@5.0.1?type=aar
 - pkg:maven/com.sudoplatform/sudoentitlements@5.1.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoentitlements@5.1.0?type=aar
+- pkg:maven/com.sudoplatform/sudoentitlements@6.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoentitlements@6.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudoentitlements@6.0.1?classifier=sources
+- pkg:maven/com.sudoplatform/sudoentitlements@6.0.1?type=aar

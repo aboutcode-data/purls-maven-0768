@@ -1,2 +1,3 @@
 - pkg:maven/dev.anvith.blackbox/blackbox-no-op@0.0.4?classifier=sources
 - pkg:maven/dev.anvith.blackbox/blackbox-no-op@0.0.5?classifier=sources
+- pkg:maven/dev.anvith.blackbox/blackbox-no-op@0.0.6?classifier=sources

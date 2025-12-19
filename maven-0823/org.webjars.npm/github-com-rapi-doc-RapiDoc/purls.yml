@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-rapi-doc-RapiDoc@9.2.0-beta
 - pkg:maven/org.webjars.npm/github-com-rapi-doc-RapiDoc@9.2.0-beta?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-rapi-doc-RapiDoc@9.3.4
+- pkg:maven/org.webjars.npm/github-com-rapi-doc-RapiDoc@9.3.4?classifier=sources

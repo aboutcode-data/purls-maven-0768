@@ -120,3 +120,5 @@
 - pkg:maven/io.jooby/jooby-spring@3.0.0.M3?classifier=sources
 - pkg:maven/io.jooby/jooby-spring@3.0.0.M4
 - pkg:maven/io.jooby/jooby-spring@3.0.0.M4?classifier=sources
+- pkg:maven/io.jooby/jooby-spring@3.0.0.M5
+- pkg:maven/io.jooby/jooby-spring@3.0.0.M5?classifier=sources

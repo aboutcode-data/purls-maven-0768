@@ -18,3 +18,4 @@
 - pkg:maven/ru.pravbeseda/CurrencyEditText@0.6.1?classifier=sources
 - pkg:maven/ru.pravbeseda/CurrencyEditText@0.6.2?classifier=sources
 - pkg:maven/ru.pravbeseda/CurrencyEditText@0.7.0?classifier=sources
+- pkg:maven/ru.pravbeseda/CurrencyEditText@1.0.0?classifier=sources
