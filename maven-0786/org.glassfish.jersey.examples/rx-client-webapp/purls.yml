@@ -140,3 +140,6 @@
 - pkg:maven/org.glassfish.jersey.examples/rx-client-webapp@3.0.3?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/rx-client-webapp@3.0.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/rx-client-webapp@3.0.3?type=war
+- pkg:maven/org.glassfish.jersey.examples/rx-client-webapp@3.0.4?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/rx-client-webapp@3.0.4?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/rx-client-webapp@3.0.4?type=war

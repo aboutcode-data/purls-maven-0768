@@ -135,6 +135,8 @@
 - pkg:maven/com.elepy/elepy-core@3.0.0-alpha-26?classifier=sources
 - pkg:maven/com.elepy/elepy-core@3.0.0-alpha-28
 - pkg:maven/com.elepy/elepy-core@3.0.0-alpha-28?classifier=sources
+- pkg:maven/com.elepy/elepy-core@3.0.0-alpha-29
+- pkg:maven/com.elepy/elepy-core@3.0.0-alpha-29?classifier=sources
 - pkg:maven/com.elepy/elepy-core@3.0.0-alpha-2?classifier=sources
 - pkg:maven/com.elepy/elepy-core@3.0.0-alpha-3
 - pkg:maven/com.elepy/elepy-core@3.0.0-alpha-3?classifier=sources

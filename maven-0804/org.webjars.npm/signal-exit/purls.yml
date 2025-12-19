@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/signal-exit@3.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/signal-exit@3.0.3
 - pkg:maven/org.webjars.npm/signal-exit@3.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/signal-exit@3.0.6
+- pkg:maven/org.webjars.npm/signal-exit@3.0.6?classifier=sources

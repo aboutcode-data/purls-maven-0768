@@ -44,3 +44,5 @@
 - pkg:maven/com.github.dreamroute/excel-helper@2.0.1-RELEASE?classifier=sources
 - pkg:maven/com.github.dreamroute/excel-helper@2.0.3-RELEASE
 - pkg:maven/com.github.dreamroute/excel-helper@2.0.3-RELEASE?classifier=sources
+- pkg:maven/com.github.dreamroute/excel-helper@2.0.4-RELEASE
+- pkg:maven/com.github.dreamroute/excel-helper@2.0.4-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.netgrif/application-engine@6.0.0
+- pkg:maven/com.netgrif/application-engine@6.0.0?classifier=sources

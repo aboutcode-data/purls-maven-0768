@@ -1,1 +1,2 @@
 - pkg:maven/io.matthewnelson.kotlin-components/build-configuration-tvosx64@1?classifier=sources
+- pkg:maven/io.matthewnelson.kotlin-components/build-configuration-tvosx64@2.0.0?classifier=sources

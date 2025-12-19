@@ -5,3 +5,10 @@
 - pkg:maven/tz.co.asoft/color-core@0.0.50?classifier=sources
 - pkg:maven/tz.co.asoft/color-core@0.0.80?classifier=sources
 - pkg:maven/tz.co.asoft/color-core@0.2.0?classifier=sources
+- pkg:maven/tz.co.asoft/color-core@0.2.10?classifier=sources
+- pkg:maven/tz.co.asoft/color-core@0.2.20?classifier=sources
+- pkg:maven/tz.co.asoft/color-core@0.2.21?classifier=sources
+- pkg:maven/tz.co.asoft/color-core@0.2.22?classifier=sources
+- pkg:maven/tz.co.asoft/color-core@0.2.23?classifier=sources
+- pkg:maven/tz.co.asoft/color-core@0.2.25?classifier=sources
+- pkg:maven/tz.co.asoft/color-core@0.2.26?classifier=sources

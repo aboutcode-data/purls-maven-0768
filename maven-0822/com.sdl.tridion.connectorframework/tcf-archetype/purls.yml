@@ -1,3 +1,5 @@
 - pkg:maven/com.sdl.tridion.connectorframework/tcf-archetype@11.1.0-1004?classifier=sources
 - pkg:maven/com.sdl.tridion.connectorframework/tcf-archetype@11.1.0-1005?classifier=sources
 - pkg:maven/com.sdl.tridion.connectorframework/tcf-archetype@11.5.0-1000?classifier=sources
+- pkg:maven/com.sdl.tridion.connectorframework/tcf-archetype@42.0.0-1?classifier=sources
+- pkg:maven/com.sdl.tridion.connectorframework/tcf-archetype@42.0.0?classifier=sources

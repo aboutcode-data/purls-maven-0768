@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/openzeppelin__contracts-upgradeable@4.4.1
+- pkg:maven/org.webjars.npm/openzeppelin__contracts-upgradeable@4.4.1?classifier=sources

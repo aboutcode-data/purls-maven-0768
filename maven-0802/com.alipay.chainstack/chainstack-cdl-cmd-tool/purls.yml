@@ -1,0 +1,2 @@
+- pkg:maven/com.alipay.chainstack/chainstack-cdl-cmd-tool@2.0.1-rc
+- pkg:maven/com.alipay.chainstack/chainstack-cdl-cmd-tool@2.0.1-rc?classifier=sources

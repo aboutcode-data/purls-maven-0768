@@ -1,0 +1,2 @@
+- pkg:maven/org.apereo.cas/cas-server-support-bucket4j-core@6.5.0-RC5?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-bucket4j-core@6.5.0?classifier=sources

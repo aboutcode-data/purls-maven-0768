@@ -10,3 +10,4 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-logging-frameworks@0.9.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-logging-frameworks@1.0.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-logging-frameworks@1.1.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-logging-frameworks@1.2.0?classifier=sources

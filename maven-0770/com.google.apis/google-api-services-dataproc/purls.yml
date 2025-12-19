@@ -438,6 +438,14 @@
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20211019-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20211105-1.32.1
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20211105-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20220105-1.32.1
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20220105-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20220111-1.32.1
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20220111-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20220122-1.32.1
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20220122-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20220201-1.32.1
+- pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev20220201-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataproc@v1-rev3-1.19.1

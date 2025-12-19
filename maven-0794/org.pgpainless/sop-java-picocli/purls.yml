@@ -24,3 +24,6 @@
 - pkg:maven/org.pgpainless/sop-java-picocli@1.0.0-rc8?classifier=sources
 - pkg:maven/org.pgpainless/sop-java-picocli@1.0.0-rc9?classifier=sources
 - pkg:maven/org.pgpainless/sop-java-picocli@1.0.0?classifier=sources
+- pkg:maven/org.pgpainless/sop-java-picocli@1.0.1?classifier=sources
+- pkg:maven/org.pgpainless/sop-java-picocli@1.1.0?classifier=sources
+- pkg:maven/org.pgpainless/sop-java-picocli@1.2.0?classifier=sources

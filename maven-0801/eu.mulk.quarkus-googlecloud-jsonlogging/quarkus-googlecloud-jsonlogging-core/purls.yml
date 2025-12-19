@@ -1,0 +1,2 @@
+- pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-core@4.0.0
+- pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-core@4.0.0?classifier=sources

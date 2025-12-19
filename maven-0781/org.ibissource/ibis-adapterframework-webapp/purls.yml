@@ -22,5 +22,8 @@
 - pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.6.2?classifier=sources
 - pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.6.3?classifier=sources
 - pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.6.3?type=war
+- pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.6.4?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.6.4?type=war
 - pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.6?classifier=sources
 - pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.6?type=war
+- pkg:maven/org.ibissource/ibis-adapterframework-webapp@7.7-RC1?classifier=sources

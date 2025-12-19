@@ -1,0 +1,2 @@
+- pkg:maven/io.arenadata.vertx/vertx-kafka-client@4.2.3-arenadata
+- pkg:maven/io.arenadata.vertx/vertx-kafka-client@4.2.3-arenadata?classifier=sources

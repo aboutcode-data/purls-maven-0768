@@ -1,2 +1,4 @@
+- pkg:maven/org.openfuxml/ofx-doc@1.3.10
+- pkg:maven/org.openfuxml/ofx-doc@1.3.10?classifier=sources
 - pkg:maven/org.openfuxml/ofx-doc@1.3.5
 - pkg:maven/org.openfuxml/ofx-doc@1.3.5?classifier=sources

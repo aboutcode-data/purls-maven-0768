@@ -64,7 +64,12 @@
 - pkg:maven/com.bihe0832.android/common-photos@4.14.8?type=aar
 - pkg:maven/com.bihe0832.android/common-photos@4.14.9?type=aar
 - pkg:maven/com.bihe0832.android/common-photos@4.15.0?type=aar
+- pkg:maven/com.bihe0832.android/common-photos@4.15.10?type=aar
+- pkg:maven/com.bihe0832.android/common-photos@4.15.11?type=aar
 - pkg:maven/com.bihe0832.android/common-photos@4.15.1?type=aar
+- pkg:maven/com.bihe0832.android/common-photos@4.15.5?type=aar
+- pkg:maven/com.bihe0832.android/common-photos@4.15.7?type=aar
+- pkg:maven/com.bihe0832.android/common-photos@4.15.8?type=aar
 - pkg:maven/com.bihe0832.android/common-photos@4.2.0?type=aar
 - pkg:maven/com.bihe0832.android/common-photos@4.2.1?type=aar
 - pkg:maven/com.bihe0832.android/common-photos@4.2.2?type=aar

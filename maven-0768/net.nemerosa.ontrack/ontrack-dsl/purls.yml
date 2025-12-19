@@ -791,6 +791,8 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-dsl@3.43.22?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-dsl@3.43.23
 - pkg:maven/net.nemerosa.ontrack/ontrack-dsl@3.43.23?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-dsl@3.43.24
+- pkg:maven/net.nemerosa.ontrack/ontrack-dsl@3.43.24?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-dsl@3.43.2?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-dsl@3.43.3
 - pkg:maven/net.nemerosa.ontrack/ontrack-dsl@3.43.3?classifier=sources

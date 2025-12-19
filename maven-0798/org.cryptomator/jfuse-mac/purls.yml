@@ -1,0 +1,2 @@
+- pkg:maven/org.cryptomator/jfuse-mac@0.1.0-beta1
+- pkg:maven/org.cryptomator/jfuse-mac@0.1.0-beta1?classifier=sources

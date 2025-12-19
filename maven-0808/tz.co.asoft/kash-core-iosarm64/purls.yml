@@ -1,3 +1,10 @@
 - pkg:maven/tz.co.asoft/kash-core-iosarm64@0.0.10?classifier=sources
 - pkg:maven/tz.co.asoft/kash-core-iosarm64@0.0.11?classifier=sources
 - pkg:maven/tz.co.asoft/kash-core-iosarm64@0.2.0?classifier=sources
+- pkg:maven/tz.co.asoft/kash-core-iosarm64@0.2.10?classifier=sources
+- pkg:maven/tz.co.asoft/kash-core-iosarm64@0.2.20?classifier=sources
+- pkg:maven/tz.co.asoft/kash-core-iosarm64@0.2.21?classifier=sources
+- pkg:maven/tz.co.asoft/kash-core-iosarm64@0.2.22?classifier=sources
+- pkg:maven/tz.co.asoft/kash-core-iosarm64@0.2.23?classifier=sources
+- pkg:maven/tz.co.asoft/kash-core-iosarm64@0.2.25?classifier=sources
+- pkg:maven/tz.co.asoft/kash-core-iosarm64@0.2.26?classifier=sources

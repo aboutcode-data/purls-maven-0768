@@ -135,3 +135,5 @@
 - pkg:maven/com.walmartlabs.concord.it/concord-console-it@1.90.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it/concord-console-it@1.91.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it/concord-console-it@1.92.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it/concord-console-it@1.93.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it/concord-console-it@1.93.1?classifier=sources

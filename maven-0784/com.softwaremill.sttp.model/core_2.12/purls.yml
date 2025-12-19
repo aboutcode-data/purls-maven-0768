@@ -93,6 +93,10 @@
 - pkg:maven/com.softwaremill.sttp.model/core_2.12@1.4.2
 - pkg:maven/com.softwaremill.sttp.model/core_2.12@1.4.20
 - pkg:maven/com.softwaremill.sttp.model/core_2.12@1.4.20?classifier=sources
+- pkg:maven/com.softwaremill.sttp.model/core_2.12@1.4.21
+- pkg:maven/com.softwaremill.sttp.model/core_2.12@1.4.21?classifier=sources
+- pkg:maven/com.softwaremill.sttp.model/core_2.12@1.4.22
+- pkg:maven/com.softwaremill.sttp.model/core_2.12@1.4.22?classifier=sources
 - pkg:maven/com.softwaremill.sttp.model/core_2.12@1.4.2?classifier=sources
 - pkg:maven/com.softwaremill.sttp.model/core_2.12@1.4.3
 - pkg:maven/com.softwaremill.sttp.model/core_2.12@1.4.3?classifier=sources

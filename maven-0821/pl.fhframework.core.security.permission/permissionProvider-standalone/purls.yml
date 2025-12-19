@@ -82,3 +82,7 @@
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-standalone@4.9.20?classifier=sources
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-standalone@4.9.21
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-standalone@4.9.21?classifier=sources
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-standalone@4.9.22
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-standalone@4.9.22?classifier=sources
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-standalone@4.9.23
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-standalone@4.9.23?classifier=sources

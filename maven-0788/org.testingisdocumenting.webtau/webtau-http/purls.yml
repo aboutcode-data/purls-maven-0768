@@ -50,3 +50,5 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.45.1
 - pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.45.1?classifier=sources
 - pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.45?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.46
+- pkg:maven/org.testingisdocumenting.webtau/webtau-http@1.46?classifier=sources

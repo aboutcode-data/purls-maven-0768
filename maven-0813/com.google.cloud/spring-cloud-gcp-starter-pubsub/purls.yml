@@ -8,3 +8,6 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-pubsub@2.0.5
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-pubsub@2.0.6
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-pubsub@2.0.7
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-pubsub@2.0.8
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-pubsub@3.0.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-pubsub@3.1.0

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.barbosa-thiago/security-openapi@0.0.1
+- pkg:maven/io.github.barbosa-thiago/security-openapi@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/store.kalvan.framework/kalvan-starter-db@1.0.0
+- pkg:maven/store.kalvan.framework/kalvan-starter-db@1.0.0?classifier=sources

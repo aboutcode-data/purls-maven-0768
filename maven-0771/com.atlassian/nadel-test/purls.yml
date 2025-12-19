@@ -1,0 +1,6 @@
+- pkg:maven/com.atlassian/nadel-test@2022-01-19T23-18-30-adbad461?classifier=sources
+- pkg:maven/com.atlassian/nadel-test@2022-01-24T23-18-02-231e3cb0?classifier=sources
+- pkg:maven/com.atlassian/nadel-test@2022-02-01T22-25-30-2a229314?classifier=sources
+- pkg:maven/com.atlassian/nadel-test@2022-02-04T01-22-55-c16fc098?classifier=sources
+- pkg:maven/com.atlassian/nadel-test@2022-02-04T04-05-09-39be5917?classifier=sources
+- pkg:maven/com.atlassian/nadel-test@2022-02-07T23-48-37-7ac0babd?classifier=sources

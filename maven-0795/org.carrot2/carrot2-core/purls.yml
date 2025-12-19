@@ -85,3 +85,4 @@
 - pkg:maven/org.carrot2/carrot2-core@4.3.1?classifier=sources
 - pkg:maven/org.carrot2/carrot2-core@4.4.0?classifier=sources
 - pkg:maven/org.carrot2/carrot2-core@4.4.1?classifier=sources
+- pkg:maven/org.carrot2/carrot2-core@4.4.2?classifier=sources

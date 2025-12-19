@@ -52,3 +52,5 @@
 - pkg:maven/com.sourcegraph/semanticdb-java@0.7.2?classifier=sources
 - pkg:maven/com.sourcegraph/semanticdb-java@0.7.3
 - pkg:maven/com.sourcegraph/semanticdb-java@0.7.3?classifier=sources
+- pkg:maven/com.sourcegraph/semanticdb-java@0.7.4
+- pkg:maven/com.sourcegraph/semanticdb-java@0.7.4?classifier=sources

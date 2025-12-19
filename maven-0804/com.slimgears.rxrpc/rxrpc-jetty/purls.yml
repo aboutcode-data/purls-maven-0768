@@ -1,3 +1,6 @@
 - pkg:maven/com.slimgears.rxrpc/rxrpc-jetty@0.7.24?classifier=sources
 - pkg:maven/com.slimgears.rxrpc/rxrpc-jetty@0.7.25?classifier=sources
 - pkg:maven/com.slimgears.rxrpc/rxrpc-jetty@0.7.26?classifier=sources
+- pkg:maven/com.slimgears.rxrpc/rxrpc-jetty@0.7.27?classifier=sources
+- pkg:maven/com.slimgears.rxrpc/rxrpc-jetty@0.7.28?classifier=sources
+- pkg:maven/com.slimgears.rxrpc/rxrpc-jetty@0.7.29?classifier=sources

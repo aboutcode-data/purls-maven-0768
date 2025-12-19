@@ -20,6 +20,8 @@
 - pkg:maven/org.webjars.npm/ua-parser-js@0.7.24?classifier=sources
 - pkg:maven/org.webjars.npm/ua-parser-js@0.7.28
 - pkg:maven/org.webjars.npm/ua-parser-js@0.7.28?classifier=sources
+- pkg:maven/org.webjars.npm/ua-parser-js@0.7.31
+- pkg:maven/org.webjars.npm/ua-parser-js@0.7.31?classifier=sources
 - pkg:maven/org.webjars.npm/ua-parser-js@0.7.7
 - pkg:maven/org.webjars.npm/ua-parser-js@0.7.7?classifier=sources
 - pkg:maven/org.webjars.npm/ua-parser-js@0.7.9

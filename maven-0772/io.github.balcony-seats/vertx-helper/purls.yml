@@ -1,2 +1,10 @@
+- pkg:maven/io.github.balcony-seats/vertx-helper@0.10.0
+- pkg:maven/io.github.balcony-seats/vertx-helper@0.10.0?classifier=sources
+- pkg:maven/io.github.balcony-seats/vertx-helper@0.10.1
+- pkg:maven/io.github.balcony-seats/vertx-helper@0.10.1?classifier=sources
+- pkg:maven/io.github.balcony-seats/vertx-helper@0.11.0
+- pkg:maven/io.github.balcony-seats/vertx-helper@0.11.0?classifier=sources
+- pkg:maven/io.github.balcony-seats/vertx-helper@0.12.0
+- pkg:maven/io.github.balcony-seats/vertx-helper@0.12.0?classifier=sources
 - pkg:maven/io.github.balcony-seats/vertx-helper@0.9.0
 - pkg:maven/io.github.balcony-seats/vertx-helper@0.9.0?classifier=sources

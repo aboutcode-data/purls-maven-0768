@@ -1,0 +1,2 @@
+- pkg:maven/org.glavo.kala/kala-compress-archivers@1.21.0.1-beta1?classifier=sources
+- pkg:maven/org.glavo.kala/kala-compress-archivers@1.21.0.1-beta2?classifier=sources

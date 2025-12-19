@@ -50,5 +50,6 @@
 - pkg:maven/me.scolastico/tools@1.5.2?classifier=sources
 - pkg:maven/me.scolastico/tools@2.0.0
 - pkg:maven/me.scolastico/tools@2.0.0?classifier=sources
+- pkg:maven/me.scolastico/tools@2.1.0?classifier=sources
 - pkg:maven/me.scolastico/tools@v1.0.0
 - pkg:maven/me.scolastico/tools@v1.0.0?classifier=sources

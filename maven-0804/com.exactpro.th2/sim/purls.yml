@@ -10,3 +10,8 @@
 - pkg:maven/com.exactpro.th2/sim@3.7.0?classifier=sources
 - pkg:maven/com.exactpro.th2/sim@3.8.0?classifier=sources
 - pkg:maven/com.exactpro.th2/sim@3.9.0?classifier=sources
+- pkg:maven/com.exactpro.th2/sim@4.0.0?classifier=sources
+- pkg:maven/com.exactpro.th2/sim@4.1.0?classifier=sources
+- pkg:maven/com.exactpro.th2/sim@5.0.0?classifier=sources
+- pkg:maven/com.exactpro.th2/sim@5.1.0?classifier=sources
+- pkg:maven/com.exactpro.th2/sim@5.2.0?classifier=sources

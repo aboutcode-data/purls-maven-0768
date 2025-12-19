@@ -1,0 +1,2 @@
+- pkg:maven/org.bahmni.module/web-clients@0.94.0
+- pkg:maven/org.bahmni.module/web-clients@0.94.0?classifier=sources

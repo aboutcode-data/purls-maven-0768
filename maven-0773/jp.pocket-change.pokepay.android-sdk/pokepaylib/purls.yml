@@ -8,3 +8,5 @@
 - pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.5.1?type=aar
 - pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.6.0?classifier=sources
 - pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.6.0?type=aar
+- pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.6.1?classifier=sources
+- pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.6.1?type=aar

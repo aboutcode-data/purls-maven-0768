@@ -1,0 +1,4 @@
+- pkg:maven/com.armanbilge/bayou_sjs1_3@0.1-2df94c0
+- pkg:maven/com.armanbilge/bayou_sjs1_3@0.1-2df94c0?classifier=sources
+- pkg:maven/com.armanbilge/bayou_sjs1_3@0.1-4fb42c8
+- pkg:maven/com.armanbilge/bayou_sjs1_3@0.1-4fb42c8?classifier=sources

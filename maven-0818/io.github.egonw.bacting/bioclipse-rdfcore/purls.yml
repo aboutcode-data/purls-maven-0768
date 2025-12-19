@@ -2,6 +2,8 @@
 - pkg:maven/io.github.egonw.bacting/bioclipse-rdfcore@2.8.0.10?classifier=sources
 - pkg:maven/io.github.egonw.bacting/bioclipse-rdfcore@2.8.0.11
 - pkg:maven/io.github.egonw.bacting/bioclipse-rdfcore@2.8.0.11?classifier=sources
+- pkg:maven/io.github.egonw.bacting/bioclipse-rdfcore@2.8.0.12
+- pkg:maven/io.github.egonw.bacting/bioclipse-rdfcore@2.8.0.12?classifier=sources
 - pkg:maven/io.github.egonw.bacting/bioclipse-rdfcore@2.8.0.2
 - pkg:maven/io.github.egonw.bacting/bioclipse-rdfcore@2.8.0.2?classifier=sources
 - pkg:maven/io.github.egonw.bacting/bioclipse-rdfcore@2.8.0.3

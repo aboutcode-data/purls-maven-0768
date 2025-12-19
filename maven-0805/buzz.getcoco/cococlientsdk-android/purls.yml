@@ -6,3 +6,6 @@
 - pkg:maven/buzz.getcoco/cococlientsdk-android@0.7.2-staging?classifier=sources
 - pkg:maven/buzz.getcoco/cococlientsdk-android@0.8.0-debug?classifier=sources
 - pkg:maven/buzz.getcoco/cococlientsdk-android@0.8.0-staging?classifier=sources
+- pkg:maven/buzz.getcoco/cococlientsdk-android@0.9.3?classifier=sources
+- pkg:maven/buzz.getcoco/cococlientsdk-android@0.9.4?classifier=sources
+- pkg:maven/buzz.getcoco/cococlientsdk-android@0.9.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.microg.nlp/service-api@2.0-alpha7?classifier=sources
+- pkg:maven/org.microg.nlp/service-api@2.0-alpha8?classifier=sources

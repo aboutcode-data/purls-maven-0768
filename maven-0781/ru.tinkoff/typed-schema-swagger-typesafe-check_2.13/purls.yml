@@ -1,2 +1,6 @@
 - pkg:maven/ru.tinkoff/typed-schema-swagger-typesafe-check_2.13@0.15.0
 - pkg:maven/ru.tinkoff/typed-schema-swagger-typesafe-check_2.13@0.15.0?classifier=sources
+- pkg:maven/ru.tinkoff/typed-schema-swagger-typesafe-check_2.13@0.15.1
+- pkg:maven/ru.tinkoff/typed-schema-swagger-typesafe-check_2.13@0.15.1?classifier=sources
+- pkg:maven/ru.tinkoff/typed-schema-swagger-typesafe-check_2.13@0.15.2
+- pkg:maven/ru.tinkoff/typed-schema-swagger-typesafe-check_2.13@0.15.2?classifier=sources

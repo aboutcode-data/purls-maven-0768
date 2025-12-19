@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/workbox-core@6.0.0-rc.0?classifier=sources
 - pkg:maven/org.webjars.npm/workbox-core@6.2.4
 - pkg:maven/org.webjars.npm/workbox-core@6.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/workbox-core@6.4.2
+- pkg:maven/org.webjars.npm/workbox-core@6.4.2?classifier=sources

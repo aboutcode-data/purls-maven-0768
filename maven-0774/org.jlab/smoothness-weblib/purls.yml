@@ -1,1 +1,2 @@
 - pkg:maven/org.jlab/smoothness-weblib@3.0.0?classifier=sources
+- pkg:maven/org.jlab/smoothness-weblib@3.1.0?classifier=sources

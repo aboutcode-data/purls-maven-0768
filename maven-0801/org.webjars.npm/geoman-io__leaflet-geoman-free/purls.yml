@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/geoman-io__leaflet-geoman-free@2.11.3
 - pkg:maven/org.webjars.npm/geoman-io__leaflet-geoman-free@2.11.3?classifier=sources
+- pkg:maven/org.webjars.npm/geoman-io__leaflet-geoman-free@2.11.4
+- pkg:maven/org.webjars.npm/geoman-io__leaflet-geoman-free@2.11.4?classifier=sources
 - pkg:maven/org.webjars.npm/geoman-io__leaflet-geoman-free@2.7.0
 - pkg:maven/org.webjars.npm/geoman-io__leaflet-geoman-free@2.7.0?classifier=sources

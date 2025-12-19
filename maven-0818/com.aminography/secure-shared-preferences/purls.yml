@@ -1,0 +1,2 @@
+- pkg:maven/com.aminography/secure-shared-preferences@0.1.0?classifier=sources
+- pkg:maven/com.aminography/secure-shared-preferences@1.0.0?classifier=sources

@@ -106,6 +106,8 @@
 - pkg:maven/io.sundr/resourcecify-annotations@0.50.1?classifier=sources
 - pkg:maven/io.sundr/resourcecify-annotations@0.50.2
 - pkg:maven/io.sundr/resourcecify-annotations@0.50.2?classifier=sources
+- pkg:maven/io.sundr/resourcecify-annotations@0.50.3
+- pkg:maven/io.sundr/resourcecify-annotations@0.50.3?classifier=sources
 - pkg:maven/io.sundr/resourcecify-annotations@0.6.0
 - pkg:maven/io.sundr/resourcecify-annotations@0.6.0?classifier=sources
 - pkg:maven/io.sundr/resourcecify-annotations@0.60.0
@@ -138,6 +140,8 @@
 - pkg:maven/io.sundr/resourcecify-annotations@0.8.2?classifier=sources
 - pkg:maven/io.sundr/resourcecify-annotations@0.80.0
 - pkg:maven/io.sundr/resourcecify-annotations@0.80.0?classifier=sources
+- pkg:maven/io.sundr/resourcecify-annotations@0.80.1
+- pkg:maven/io.sundr/resourcecify-annotations@0.80.1?classifier=sources
 - pkg:maven/io.sundr/resourcecify-annotations@0.9.0
 - pkg:maven/io.sundr/resourcecify-annotations@0.9.0?classifier=sources
 - pkg:maven/io.sundr/resourcecify-annotations@0.9.1

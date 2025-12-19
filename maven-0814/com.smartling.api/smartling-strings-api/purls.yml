@@ -32,3 +32,7 @@
 - pkg:maven/com.smartling.api/smartling-strings-api@0.23.4?classifier=sources
 - pkg:maven/com.smartling.api/smartling-strings-api@0.24.0
 - pkg:maven/com.smartling.api/smartling-strings-api@0.24.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-strings-api@0.26.0
+- pkg:maven/com.smartling.api/smartling-strings-api@0.26.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-strings-api@0.27.0
+- pkg:maven/com.smartling.api/smartling-strings-api@0.27.0?classifier=sources

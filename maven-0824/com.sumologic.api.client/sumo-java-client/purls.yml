@@ -17,3 +17,5 @@
 - pkg:maven/com.sumologic.api.client/sumo-java-client@2.7
 - pkg:maven/com.sumologic.api.client/sumo-java-client@2.7?classifier=sources
 - pkg:maven/com.sumologic.api.client/sumo-java-client@2.8?classifier=sources
+- pkg:maven/com.sumologic.api.client/sumo-java-client@2.9
+- pkg:maven/com.sumologic.api.client/sumo-java-client@2.9?classifier=sources

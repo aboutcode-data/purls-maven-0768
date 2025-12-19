@@ -1,2 +1,6 @@
 - pkg:maven/net.tascalate.async/net.tascalate.async.runtime@1.1.0
 - pkg:maven/net.tascalate.async/net.tascalate.async.runtime@1.1.0?classifier=sources
+- pkg:maven/net.tascalate.async/net.tascalate.async.runtime@1.2.0
+- pkg:maven/net.tascalate.async/net.tascalate.async.runtime@1.2.0?classifier=sources
+- pkg:maven/net.tascalate.async/net.tascalate.async.runtime@1.2.1
+- pkg:maven/net.tascalate.async/net.tascalate.async.runtime@1.2.1?classifier=sources

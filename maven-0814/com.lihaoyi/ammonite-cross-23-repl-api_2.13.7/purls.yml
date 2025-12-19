@@ -1,0 +1,4 @@
+- pkg:maven/com.lihaoyi/ammonite-cross-23-repl-api_2.13.7@2.5.1-4-9fbd44f2
+- pkg:maven/com.lihaoyi/ammonite-cross-23-repl-api_2.13.7@2.5.1-4-9fbd44f2?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-cross-23-repl-api_2.13.7@2.5.1-5-9dc876c2
+- pkg:maven/com.lihaoyi/ammonite-cross-23-repl-api_2.13.7@2.5.1-5-9dc876c2?classifier=sources

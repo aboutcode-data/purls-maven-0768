@@ -14,3 +14,5 @@
 - pkg:maven/org.bedework.selfreg/bw-self-registration-war@4.0.8?type=war
 - pkg:maven/org.bedework.selfreg/bw-self-registration-war@4.0.9?classifier=sources
 - pkg:maven/org.bedework.selfreg/bw-self-registration-war@4.0.9?type=war
+- pkg:maven/org.bedework.selfreg/bw-self-registration-war@5.0.0?classifier=sources
+- pkg:maven/org.bedework.selfreg/bw-self-registration-war@5.0.0?type=war

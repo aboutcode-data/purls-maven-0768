@@ -1,0 +1,4 @@
+- pkg:maven/com.hazelcast.jsurfer/jsurfer-fastjson@0.10
+- pkg:maven/com.hazelcast.jsurfer/jsurfer-fastjson@0.10?classifier=sources
+- pkg:maven/com.hazelcast.jsurfer/jsurfer-fastjson@0.9
+- pkg:maven/com.hazelcast.jsurfer/jsurfer-fastjson@0.9?classifier=sources

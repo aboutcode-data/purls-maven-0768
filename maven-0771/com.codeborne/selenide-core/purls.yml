@@ -5,3 +5,6 @@
 - pkg:maven/com.codeborne/selenide-core@6.1.0?classifier=sources
 - pkg:maven/com.codeborne/selenide-core@6.1.1?classifier=sources
 - pkg:maven/com.codeborne/selenide-core@6.1.2?classifier=sources
+- pkg:maven/com.codeborne/selenide-core@6.2.0?classifier=sources
+- pkg:maven/com.codeborne/selenide-core@6.2.1?classifier=sources
+- pkg:maven/com.codeborne/selenide-core@6.3.0?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/net.ripe.ipresource/ipresource@1.46?classifier=sources
 - pkg:maven/net.ripe.ipresource/ipresource@1.47
 - pkg:maven/net.ripe.ipresource/ipresource@1.47?classifier=sources
+- pkg:maven/net.ripe.ipresource/ipresource@1.48
+- pkg:maven/net.ripe.ipresource/ipresource@1.48?classifier=sources
+- pkg:maven/net.ripe.ipresource/ipresource@1.49
+- pkg:maven/net.ripe.ipresource/ipresource@1.49?classifier=sources

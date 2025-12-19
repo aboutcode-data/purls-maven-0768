@@ -22,3 +22,5 @@
 - pkg:maven/com.carrotsearch.progresso/progresso-log4j2@1.7.3?classifier=sources
 - pkg:maven/com.carrotsearch.progresso/progresso-log4j2@1.7.4
 - pkg:maven/com.carrotsearch.progresso/progresso-log4j2@1.7.4?classifier=sources
+- pkg:maven/com.carrotsearch.progresso/progresso-log4j2@1.7.5
+- pkg:maven/com.carrotsearch.progresso/progresso-log4j2@1.7.5?classifier=sources

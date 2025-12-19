@@ -330,6 +330,8 @@
 - pkg:maven/org.eclipse.jetty.websocket/websocket-api@9.4.43.v20210629?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-api@9.4.44.v20210927
 - pkg:maven/org.eclipse.jetty.websocket/websocket-api@9.4.44.v20210927?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-api@9.4.45.v20220203
+- pkg:maven/org.eclipse.jetty.websocket/websocket-api@9.4.45.v20220203?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-api@9.4.5.v20170502
 - pkg:maven/org.eclipse.jetty.websocket/websocket-api@9.4.5.v20170502?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-api@9.4.5.v20180619

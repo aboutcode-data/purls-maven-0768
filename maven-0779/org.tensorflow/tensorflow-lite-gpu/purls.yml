@@ -9,3 +9,4 @@
 - pkg:maven/org.tensorflow/tensorflow-lite-gpu@2.6.0?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite-gpu@2.7.0-rc0?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite-gpu@2.7.0?type=aar
+- pkg:maven/org.tensorflow/tensorflow-lite-gpu@2.8.0?type=aar

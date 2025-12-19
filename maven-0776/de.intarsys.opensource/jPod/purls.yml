@@ -2,3 +2,4 @@
 - pkg:maven/de.intarsys.opensource/jPod@5.3?classifier=sources
 - pkg:maven/de.intarsys.opensource/jPod@5.5.1
 - pkg:maven/de.intarsys.opensource/jPod@5.5.1?classifier=sources
+- pkg:maven/de.intarsys.opensource/jPod@5.6?classifier=sources

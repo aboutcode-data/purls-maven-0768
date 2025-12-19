@@ -1,1 +1,4 @@
 - pkg:maven/org.cleaninsights.sdk/clean-insights-sdk@2.4.4?classifier=sources
+- pkg:maven/org.cleaninsights.sdk/clean-insights-sdk@2.5.0?classifier=sources
+- pkg:maven/org.cleaninsights.sdk/clean-insights-sdk@2.5.1?classifier=sources
+- pkg:maven/org.cleaninsights.sdk/clean-insights-sdk@2.5.2?classifier=sources

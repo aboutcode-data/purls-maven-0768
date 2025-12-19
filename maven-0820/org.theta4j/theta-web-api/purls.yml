@@ -16,3 +16,5 @@
 - pkg:maven/org.theta4j/theta-web-api@1.4.0?classifier=sources
 - pkg:maven/org.theta4j/theta-web-api@1.5.0
 - pkg:maven/org.theta4j/theta-web-api@1.5.0?classifier=sources
+- pkg:maven/org.theta4j/theta-web-api@1.6.0
+- pkg:maven/org.theta4j/theta-web-api@1.6.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/se.mdh/mdh-maven-build-tools@30?classifier=sources
 - pkg:maven/se.mdh/mdh-maven-build-tools@31
 - pkg:maven/se.mdh/mdh-maven-build-tools@31?classifier=sources
+- pkg:maven/se.mdh/mdh-maven-build-tools@32
+- pkg:maven/se.mdh/mdh-maven-build-tools@32?classifier=sources

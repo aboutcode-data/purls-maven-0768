@@ -4,3 +4,5 @@
 - pkg:maven/com.github.p2m2/n3js_sjs1_2.13@1.10.0?classifier=sources
 - pkg:maven/com.github.p2m2/n3js_sjs1_2.13@1.11.1
 - pkg:maven/com.github.p2m2/n3js_sjs1_2.13@1.11.1?classifier=sources
+- pkg:maven/com.github.p2m2/n3js_sjs1_2.13@1.13.0
+- pkg:maven/com.github.p2m2/n3js_sjs1_2.13@1.13.0?classifier=sources

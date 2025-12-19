@@ -94,6 +94,10 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.security.test@11.0.42?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.security.test@11.0.9
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.security.test@11.0.9?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.security.test@22.0.0-beta.1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.security.test@22.0.0-beta.1?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.security.test@22.0.0-beta.5
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.security.test@22.0.0-beta.5?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.security.test@9.0.0.022_Simrel_2019_09_M3
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.security.test@9.0.0.022_Simrel_2019_09_M3?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.security.test@9.0.0.024_Simrel_2019_09_RC1

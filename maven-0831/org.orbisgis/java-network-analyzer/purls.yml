@@ -4,3 +4,4 @@
 - pkg:maven/org.orbisgis/java-network-analyzer@0.1.7?classifier=sources
 - pkg:maven/org.orbisgis/java-network-analyzer@0.2.0
 - pkg:maven/org.orbisgis/java-network-analyzer@0.2.0?classifier=sources
+- pkg:maven/org.orbisgis/java-network-analyzer@0.3.0

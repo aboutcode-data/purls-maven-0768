@@ -20,3 +20,5 @@
 - pkg:maven/com.github.xmlet/htmlflow@3.7?classifier=sources
 - pkg:maven/com.github.xmlet/htmlflow@3.8
 - pkg:maven/com.github.xmlet/htmlflow@3.8?classifier=sources
+- pkg:maven/com.github.xmlet/htmlflow@3.9
+- pkg:maven/com.github.xmlet/htmlflow@3.9?classifier=sources

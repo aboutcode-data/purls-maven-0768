@@ -44,3 +44,5 @@
 - pkg:maven/com.4paradigm.openmldb/openmldb-jdbc@0.3.2-macos
 - pkg:maven/com.4paradigm.openmldb/openmldb-jdbc@0.3.2-macos?classifier=sources
 - pkg:maven/com.4paradigm.openmldb/openmldb-jdbc@0.3.2?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-jdbc@0.4.0
+- pkg:maven/com.4paradigm.openmldb/openmldb-jdbc@0.4.0?classifier=sources

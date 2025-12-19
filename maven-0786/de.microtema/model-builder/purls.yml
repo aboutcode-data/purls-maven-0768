@@ -1,2 +1,4 @@
 - pkg:maven/de.microtema/model-builder@2.5.0
 - pkg:maven/de.microtema/model-builder@2.5.0?classifier=sources
+- pkg:maven/de.microtema/model-builder@2.5.1
+- pkg:maven/de.microtema/model-builder@2.5.1?classifier=sources

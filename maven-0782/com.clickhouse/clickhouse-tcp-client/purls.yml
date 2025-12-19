@@ -1,3 +1,8 @@
+- pkg:maven/com.clickhouse/clickhouse-tcp-client@0.3.2
+- pkg:maven/com.clickhouse/clickhouse-tcp-client@0.3.2-patch1
+- pkg:maven/com.clickhouse/clickhouse-tcp-client@0.3.2-patch2
+- pkg:maven/com.clickhouse/clickhouse-tcp-client@0.3.2-patch3
+- pkg:maven/com.clickhouse/clickhouse-tcp-client@0.3.2-patch4
 - pkg:maven/com.clickhouse/clickhouse-tcp-client@0.3.2-test1
 - pkg:maven/com.clickhouse/clickhouse-tcp-client@0.3.2-test2
 - pkg:maven/com.clickhouse/clickhouse-tcp-client@0.3.2-test3

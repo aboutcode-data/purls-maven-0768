@@ -1,0 +1,6 @@
+- pkg:maven/it.agilelab/wasp-plugin-elastic-spark_2.11@2.27.2
+- pkg:maven/it.agilelab/wasp-plugin-elastic-spark_2.11@2.27.2-cdh6
+- pkg:maven/it.agilelab/wasp-plugin-elastic-spark_2.11@2.27.2-cdh6?classifier=sources
+- pkg:maven/it.agilelab/wasp-plugin-elastic-spark_2.11@2.27.2-cdp717
+- pkg:maven/it.agilelab/wasp-plugin-elastic-spark_2.11@2.27.2-cdp717?classifier=sources
+- pkg:maven/it.agilelab/wasp-plugin-elastic-spark_2.11@2.27.2?classifier=sources

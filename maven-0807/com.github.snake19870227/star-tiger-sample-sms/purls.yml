@@ -12,3 +12,5 @@
 - pkg:maven/com.github.snake19870227/star-tiger-sample-sms@0.7.0?classifier=sources
 - pkg:maven/com.github.snake19870227/star-tiger-sample-sms@0.8.0
 - pkg:maven/com.github.snake19870227/star-tiger-sample-sms@0.8.0?classifier=sources
+- pkg:maven/com.github.snake19870227/star-tiger-sample-sms@0.9.1
+- pkg:maven/com.github.snake19870227/star-tiger-sample-sms@0.9.1?classifier=sources

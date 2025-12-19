@@ -1,2 +1,4 @@
 - pkg:maven/dk.cwconsult.peregrin/peregrin-core_2.13@8.2.1
 - pkg:maven/dk.cwconsult.peregrin/peregrin-core_2.13@8.2.1?classifier=sources
+- pkg:maven/dk.cwconsult.peregrin/peregrin-core_2.13@9.0.0
+- pkg:maven/dk.cwconsult.peregrin/peregrin-core_2.13@9.0.0?classifier=sources

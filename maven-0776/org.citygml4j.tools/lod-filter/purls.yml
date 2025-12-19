@@ -7,3 +7,4 @@
 - pkg:maven/org.citygml4j.tools/lod-filter@1.4.2
 - pkg:maven/org.citygml4j.tools/lod-filter@1.4.2?classifier=sources
 - pkg:maven/org.citygml4j.tools/lod-filter@1.4.3?classifier=sources
+- pkg:maven/org.citygml4j.tools/lod-filter@1.4.4?classifier=sources

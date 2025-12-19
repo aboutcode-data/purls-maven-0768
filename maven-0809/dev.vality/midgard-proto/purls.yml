@@ -1,0 +1,6 @@
+- pkg:maven/dev.vality/midgard-proto@1.27-2159c18
+- pkg:maven/dev.vality/midgard-proto@1.27-2159c18?classifier=sources
+- pkg:maven/dev.vality/midgard-proto@1.28-caa802e
+- pkg:maven/dev.vality/midgard-proto@1.28-caa802e?classifier=sources
+- pkg:maven/dev.vality/midgard-proto@1.29-ebe2bee
+- pkg:maven/dev.vality/midgard-proto@1.29-ebe2bee?classifier=sources

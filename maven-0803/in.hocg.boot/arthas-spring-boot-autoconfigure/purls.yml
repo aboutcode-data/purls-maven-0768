@@ -18,3 +18,7 @@
 - pkg:maven/in.hocg.boot/arthas-spring-boot-autoconfigure@1.0.27?classifier=sources
 - pkg:maven/in.hocg.boot/arthas-spring-boot-autoconfigure@1.0.28
 - pkg:maven/in.hocg.boot/arthas-spring-boot-autoconfigure@1.0.28?classifier=sources
+- pkg:maven/in.hocg.boot/arthas-spring-boot-autoconfigure@1.0.29
+- pkg:maven/in.hocg.boot/arthas-spring-boot-autoconfigure@1.0.29?classifier=sources
+- pkg:maven/in.hocg.boot/arthas-spring-boot-autoconfigure@1.0.30
+- pkg:maven/in.hocg.boot/arthas-spring-boot-autoconfigure@1.0.30?classifier=sources

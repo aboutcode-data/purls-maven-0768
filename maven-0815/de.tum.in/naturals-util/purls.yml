@@ -16,6 +16,7 @@
 - pkg:maven/de.tum.in/naturals-util@0.15.0?classifier=sources
 - pkg:maven/de.tum.in/naturals-util@0.15.1
 - pkg:maven/de.tum.in/naturals-util@0.15.1?classifier=sources
+- pkg:maven/de.tum.in/naturals-util@0.16.0?classifier=sources
 - pkg:maven/de.tum.in/naturals-util@0.2.0
 - pkg:maven/de.tum.in/naturals-util@0.2.0?classifier=sources
 - pkg:maven/de.tum.in/naturals-util@0.3.0

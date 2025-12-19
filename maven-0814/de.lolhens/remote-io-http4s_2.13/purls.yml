@@ -1,0 +1,2 @@
+- pkg:maven/de.lolhens/remote-io-http4s_2.13@0.0.1
+- pkg:maven/de.lolhens/remote-io-http4s_2.13@0.0.1?classifier=sources

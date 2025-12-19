@@ -9,6 +9,10 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.18.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.18.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.18.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.18.15
+- pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.18.15?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.18.16
+- pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.18.16?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.18.1?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.2.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.2.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.orbit.graphQL/graphQL@13.0.wso2v2
+- pkg:maven/org.wso2.orbit.graphQL/graphQL@17.3.wso2v1

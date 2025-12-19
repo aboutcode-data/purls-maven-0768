@@ -1,0 +1,4 @@
+- pkg:maven/org.openl.jgit/org.eclipse.jgit.http.server@6.0.0.202111291000-r
+- pkg:maven/org.openl.jgit/org.eclipse.jgit.http.server@6.0.0.202111291000-r?classifier=sources
+- pkg:maven/org.openl.jgit/org.eclipse.jgit.http.server@6.0.0.202202081800-r
+- pkg:maven/org.openl.jgit/org.eclipse.jgit.http.server@6.0.0.202202081800-r?classifier=sources

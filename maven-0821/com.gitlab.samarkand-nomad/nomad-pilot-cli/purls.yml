@@ -48,5 +48,7 @@
 - pkg:maven/com.gitlab.samarkand-nomad/nomad-pilot-cli@1.43.1?classifier=sources
 - pkg:maven/com.gitlab.samarkand-nomad/nomad-pilot-cli@1.44.2
 - pkg:maven/com.gitlab.samarkand-nomad/nomad-pilot-cli@1.44.2?classifier=sources
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-pilot-cli@1.45.0
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-pilot-cli@1.45.0?classifier=sources
 - pkg:maven/com.gitlab.samarkand-nomad/nomad-pilot-cli@2.0.0
 - pkg:maven/com.gitlab.samarkand-nomad/nomad-pilot-cli@2.0.0?classifier=sources

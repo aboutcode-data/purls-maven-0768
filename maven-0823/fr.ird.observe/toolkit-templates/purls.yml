@@ -119,6 +119,8 @@
 - pkg:maven/fr.ird.observe/toolkit-templates@5.0.62?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-templates@5.0.63
 - pkg:maven/fr.ird.observe/toolkit-templates@5.0.63?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-templates@5.0.64
+- pkg:maven/fr.ird.observe/toolkit-templates@5.0.64?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-templates@5.0.6?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-templates@5.0.7
 - pkg:maven/fr.ird.observe/toolkit-templates@5.0.7?classifier=sources
@@ -126,3 +128,5 @@
 - pkg:maven/fr.ird.observe/toolkit-templates@5.0.8?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-templates@5.0.9
 - pkg:maven/fr.ird.observe/toolkit-templates@5.0.9?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-templates@6.0.0
+- pkg:maven/fr.ird.observe/toolkit-templates@6.0.0?classifier=sources

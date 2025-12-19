@@ -46,3 +46,7 @@
 - pkg:maven/org.kie.soup/kie-soup-dataset-prometheus@7.63.0.Final?classifier=sources
 - pkg:maven/org.kie.soup/kie-soup-dataset-prometheus@7.63.0.t20211129
 - pkg:maven/org.kie.soup/kie-soup-dataset-prometheus@7.63.0.t20211129?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-dataset-prometheus@7.64.0.Final
+- pkg:maven/org.kie.soup/kie-soup-dataset-prometheus@7.64.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-dataset-prometheus@7.65.0.Final
+- pkg:maven/org.kie.soup/kie-soup-dataset-prometheus@7.65.0.Final?classifier=sources

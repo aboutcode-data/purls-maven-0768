@@ -1,2 +1,10 @@
 - pkg:maven/io.bastillion/lmvc@1.10.00
 - pkg:maven/io.bastillion/lmvc@1.10.00?classifier=sources
+- pkg:maven/io.bastillion/lmvc@1.10.01
+- pkg:maven/io.bastillion/lmvc@1.10.01?classifier=sources
+- pkg:maven/io.bastillion/lmvc@1.10.02
+- pkg:maven/io.bastillion/lmvc@1.10.02?classifier=sources
+- pkg:maven/io.bastillion/lmvc@1.10.3
+- pkg:maven/io.bastillion/lmvc@1.10.3?classifier=sources
+- pkg:maven/io.bastillion/lmvc@1.10.4
+- pkg:maven/io.bastillion/lmvc@1.10.4?classifier=sources

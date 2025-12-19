@@ -1,0 +1,2 @@
+- pkg:maven/org.datapunch/remote-shuffle-service-client@0.0.10
+- pkg:maven/org.datapunch/remote-shuffle-service-client@0.0.10?classifier=sources

@@ -33,6 +33,8 @@
 - pkg:maven/io.janstenpickle/trace4cats-zipkin-http-exporter_2.12@0.12.0
 - pkg:maven/io.janstenpickle/trace4cats-zipkin-http-exporter_2.12@0.12.0%2B49-e77b00eb
 - pkg:maven/io.janstenpickle/trace4cats-zipkin-http-exporter_2.12@0.12.0%2B49-e77b00eb?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-zipkin-http-exporter_2.12@0.12.0%2B67-3083e713
+- pkg:maven/io.janstenpickle/trace4cats-zipkin-http-exporter_2.12@0.12.0%2B67-3083e713?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-zipkin-http-exporter_2.12@0.12.0-RC1
 - pkg:maven/io.janstenpickle/trace4cats-zipkin-http-exporter_2.12@0.12.0-RC1%2B10-1acfba3a
 - pkg:maven/io.janstenpickle/trace4cats-zipkin-http-exporter_2.12@0.12.0-RC1%2B10-1acfba3a?classifier=sources

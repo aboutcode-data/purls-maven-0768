@@ -74,3 +74,5 @@
 - pkg:maven/com.amihaiemil.web/eo-yaml@5.2.3?classifier=sources
 - pkg:maven/com.amihaiemil.web/eo-yaml@6.0.0
 - pkg:maven/com.amihaiemil.web/eo-yaml@6.0.0?classifier=sources
+- pkg:maven/com.amihaiemil.web/eo-yaml@6.0.1
+- pkg:maven/com.amihaiemil.web/eo-yaml@6.0.1?classifier=sources
