@@ -1,0 +1,8 @@
+- pkg:maven/rocks.vilaverde/scikit-learn-2-java@1.0.0
+- pkg:maven/rocks.vilaverde/scikit-learn-2-java@1.0.0?classifier=sources
+- pkg:maven/rocks.vilaverde/scikit-learn-2-java@1.0.1
+- pkg:maven/rocks.vilaverde/scikit-learn-2-java@1.0.1?classifier=sources
+- pkg:maven/rocks.vilaverde/scikit-learn-2-java@1.0.2
+- pkg:maven/rocks.vilaverde/scikit-learn-2-java@1.0.2?classifier=sources
+- pkg:maven/rocks.vilaverde/scikit-learn-2-java@1.1.0
+- pkg:maven/rocks.vilaverde/scikit-learn-2-java@1.1.0?classifier=sources

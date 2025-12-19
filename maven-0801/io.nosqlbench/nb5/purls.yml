@@ -5,3 +5,4 @@
 - pkg:maven/io.nosqlbench/nb5@4.17.26
 - pkg:maven/io.nosqlbench/nb5@4.17.28
 - pkg:maven/io.nosqlbench/nb5@4.17.29
+- pkg:maven/io.nosqlbench/nb5@4.17.31

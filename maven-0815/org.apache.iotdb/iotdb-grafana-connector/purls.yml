@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.iotdb/iotdb-grafana-connector@0.14.0-preview2?type=war
 - pkg:maven/org.apache.iotdb/iotdb-grafana-connector@0.14.0-preview3?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-grafana-connector@0.14.0-preview3?type=war
+- pkg:maven/org.apache.iotdb/iotdb-grafana-connector@1.0.0?classifier=sources
+- pkg:maven/org.apache.iotdb/iotdb-grafana-connector@1.0.0?type=war

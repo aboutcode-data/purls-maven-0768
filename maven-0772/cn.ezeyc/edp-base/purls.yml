@@ -1,0 +1,4 @@
+- pkg:maven/cn.ezeyc/edp-base@1
+- pkg:maven/cn.ezeyc/edp-base@1.0.1
+- pkg:maven/cn.ezeyc/edp-base@1.0.1?classifier=sources
+- pkg:maven/cn.ezeyc/edp-base@1?classifier=sources

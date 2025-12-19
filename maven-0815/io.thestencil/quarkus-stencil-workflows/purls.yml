@@ -125,6 +125,10 @@
 - pkg:maven/io.thestencil/quarkus-stencil-workflows@1.148.12?classifier=sources
 - pkg:maven/io.thestencil/quarkus-stencil-workflows@1.148.13
 - pkg:maven/io.thestencil/quarkus-stencil-workflows@1.148.13?classifier=sources
+- pkg:maven/io.thestencil/quarkus-stencil-workflows@1.148.14
+- pkg:maven/io.thestencil/quarkus-stencil-workflows@1.148.14?classifier=sources
+- pkg:maven/io.thestencil/quarkus-stencil-workflows@1.148.15
+- pkg:maven/io.thestencil/quarkus-stencil-workflows@1.148.15?classifier=sources
 - pkg:maven/io.thestencil/quarkus-stencil-workflows@1.148.2
 - pkg:maven/io.thestencil/quarkus-stencil-workflows@1.148.2?classifier=sources
 - pkg:maven/io.thestencil/quarkus-stencil-workflows@1.148.3

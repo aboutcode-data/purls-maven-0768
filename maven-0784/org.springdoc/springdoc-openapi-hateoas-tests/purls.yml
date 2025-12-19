@@ -1,5 +1,8 @@
+- pkg:maven/org.springdoc/springdoc-openapi-hateoas-tests@2.0.0
 - pkg:maven/org.springdoc/springdoc-openapi-hateoas-tests@2.0.0-M5
 - pkg:maven/org.springdoc/springdoc-openapi-hateoas-tests@2.0.0-M6
 - pkg:maven/org.springdoc/springdoc-openapi-hateoas-tests@2.0.0-M7
 - pkg:maven/org.springdoc/springdoc-openapi-hateoas-tests@2.0.0-RC1
 - pkg:maven/org.springdoc/springdoc-openapi-hateoas-tests@2.0.0-RC2
+- pkg:maven/org.springdoc/springdoc-openapi-hateoas-tests@2.0.1
+- pkg:maven/org.springdoc/springdoc-openapi-hateoas-tests@2.0.2

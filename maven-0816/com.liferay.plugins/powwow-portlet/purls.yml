@@ -59,6 +59,7 @@
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.0.10.100?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.0.10.101?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.0.10.102?type=war
+- pkg:maven/com.liferay.plugins/powwow-portlet@7.0.10.103?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.0.10.59?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.0.10.60?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.0.10.61?type=war
@@ -289,6 +290,7 @@
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.46?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.47?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.4?type=war
+- pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.50?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.5?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.6?type=war
 - pkg:maven/com.liferay.plugins/powwow-portlet@7.3.10.7?type=war

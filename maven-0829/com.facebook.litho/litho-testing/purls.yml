@@ -12,3 +12,4 @@
 - pkg:maven/com.facebook.litho/litho-testing@0.42.0?classifier=sources
 - pkg:maven/com.facebook.litho/litho-testing@0.43.0?classifier=sources
 - pkg:maven/com.facebook.litho/litho-testing@0.44.0?classifier=sources
+- pkg:maven/com.facebook.litho/litho-testing@0.45.0?classifier=sources

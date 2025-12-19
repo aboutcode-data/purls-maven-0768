@@ -40,6 +40,8 @@
 - pkg:maven/org.apache.activemq.examples.broker/exclusive-queue@2.26.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/exclusive-queue@2.27.0
 - pkg:maven/org.apache.activemq.examples.broker/exclusive-queue@2.27.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker/exclusive-queue@2.27.1
+- pkg:maven/org.apache.activemq.examples.broker/exclusive-queue@2.27.1?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/exclusive-queue@2.6.0
 - pkg:maven/org.apache.activemq.examples.broker/exclusive-queue@2.6.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/exclusive-queue@2.6.1

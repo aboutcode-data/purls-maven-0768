@@ -265,6 +265,8 @@
 - pkg:maven/cool.scx/scx@1.18.12?classifier=sources
 - pkg:maven/cool.scx/scx@1.18.13
 - pkg:maven/cool.scx/scx@1.18.13?classifier=sources
+- pkg:maven/cool.scx/scx@1.18.14
+- pkg:maven/cool.scx/scx@1.18.14?classifier=sources
 - pkg:maven/cool.scx/scx@1.18.1?classifier=sources
 - pkg:maven/cool.scx/scx@1.18.2
 - pkg:maven/cool.scx/scx@1.18.2?classifier=sources
@@ -282,6 +284,10 @@
 - pkg:maven/cool.scx/scx@1.18.8?classifier=sources
 - pkg:maven/cool.scx/scx@1.18.9
 - pkg:maven/cool.scx/scx@1.18.9?classifier=sources
+- pkg:maven/cool.scx/scx@1.19.0
+- pkg:maven/cool.scx/scx@1.19.0?classifier=sources
+- pkg:maven/cool.scx/scx@1.19.1
+- pkg:maven/cool.scx/scx@1.19.1?classifier=sources
 - pkg:maven/cool.scx/scx@1.2.0
 - pkg:maven/cool.scx/scx@1.2.0?classifier=sources
 - pkg:maven/cool.scx/scx@1.2.1

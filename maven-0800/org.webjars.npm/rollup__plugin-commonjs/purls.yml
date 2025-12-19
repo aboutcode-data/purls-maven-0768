@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/rollup__plugin-commonjs@23.0.7
+- pkg:maven/org.webjars.npm/rollup__plugin-commonjs@23.0.7?classifier=sources

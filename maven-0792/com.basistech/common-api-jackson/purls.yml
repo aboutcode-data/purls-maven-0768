@@ -24,3 +24,5 @@
 - pkg:maven/com.basistech/common-api-jackson@37.4.0?classifier=sources
 - pkg:maven/com.basistech/common-api-jackson@37.5.0
 - pkg:maven/com.basistech/common-api-jackson@37.5.0?classifier=sources
+- pkg:maven/com.basistech/common-api-jackson@37.5.1
+- pkg:maven/com.basistech/common-api-jackson@37.5.1?classifier=sources

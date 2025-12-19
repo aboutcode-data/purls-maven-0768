@@ -18,6 +18,7 @@
 - pkg:maven/net.sf.j8583/j8583@1.16.0?classifier=sources
 - pkg:maven/net.sf.j8583/j8583@1.17.0
 - pkg:maven/net.sf.j8583/j8583@1.17.0?classifier=sources
+- pkg:maven/net.sf.j8583/j8583@1.18.0?classifier=sources
 - pkg:maven/net.sf.j8583/j8583@1.5.1
 - pkg:maven/net.sf.j8583/j8583@1.5.1?classifier=sources
 - pkg:maven/net.sf.j8583/j8583@1.5.2

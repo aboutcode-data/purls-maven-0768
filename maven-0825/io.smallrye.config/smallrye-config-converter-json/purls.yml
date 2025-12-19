@@ -88,6 +88,12 @@
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.12.0?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.12.1
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.12.1?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.12.2
+- pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.12.2?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.13.0
+- pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.13.0?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.13.1
+- pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.13.1?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.2.0
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.2.0?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.3.0
@@ -124,6 +130,8 @@
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.9.1?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.9.2
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.9.2?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.9.3
+- pkg:maven/io.smallrye.config/smallrye-config-converter-json@2.9.3?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@3.0.0
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@3.0.0-RC1
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@3.0.0-RC1?classifier=sources
@@ -134,3 +142,7 @@
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@3.0.0-RC4
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@3.0.0-RC4?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-converter-json@3.0.0?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-converter-json@3.1.0
+- pkg:maven/io.smallrye.config/smallrye-config-converter-json@3.1.0?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-converter-json@3.1.1
+- pkg:maven/io.smallrye.config/smallrye-config-converter-json@3.1.1?classifier=sources

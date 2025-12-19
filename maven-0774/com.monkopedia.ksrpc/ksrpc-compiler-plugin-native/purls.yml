@@ -1,1 +1,2 @@
 - pkg:maven/com.monkopedia.ksrpc/ksrpc-compiler-plugin-native@0.7.0?classifier=sources
+- pkg:maven/com.monkopedia.ksrpc/ksrpc-compiler-plugin-native@0.7.1?classifier=sources

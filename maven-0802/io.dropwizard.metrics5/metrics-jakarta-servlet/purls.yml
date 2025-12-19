@@ -6,6 +6,10 @@
 - pkg:maven/io.dropwizard.metrics5/metrics-jakarta-servlet@5.0.0-rc12?classifier=sources
 - pkg:maven/io.dropwizard.metrics5/metrics-jakarta-servlet@5.0.0-rc13
 - pkg:maven/io.dropwizard.metrics5/metrics-jakarta-servlet@5.0.0-rc13?classifier=sources
+- pkg:maven/io.dropwizard.metrics5/metrics-jakarta-servlet@5.0.0-rc14
+- pkg:maven/io.dropwizard.metrics5/metrics-jakarta-servlet@5.0.0-rc14?classifier=sources
+- pkg:maven/io.dropwizard.metrics5/metrics-jakarta-servlet@5.0.0-rc15
+- pkg:maven/io.dropwizard.metrics5/metrics-jakarta-servlet@5.0.0-rc15?classifier=sources
 - pkg:maven/io.dropwizard.metrics5/metrics-jakarta-servlet@5.0.0-rc5
 - pkg:maven/io.dropwizard.metrics5/metrics-jakarta-servlet@5.0.0-rc5?classifier=sources
 - pkg:maven/io.dropwizard.metrics5/metrics-jakarta-servlet@5.0.0-rc6

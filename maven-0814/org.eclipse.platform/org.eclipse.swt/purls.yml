@@ -22,3 +22,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.swt@3.119.0
 - pkg:maven/org.eclipse.platform/org.eclipse.swt@3.120.0
 - pkg:maven/org.eclipse.platform/org.eclipse.swt@3.121.0
+- pkg:maven/org.eclipse.platform/org.eclipse.swt@3.122.0

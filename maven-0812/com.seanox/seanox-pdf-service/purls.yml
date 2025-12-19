@@ -36,3 +36,5 @@
 - pkg:maven/com.seanox/seanox-pdf-service@4.1.2?classifier=sources
 - pkg:maven/com.seanox/seanox-pdf-service@4.2.0
 - pkg:maven/com.seanox/seanox-pdf-service@4.2.0?classifier=sources
+- pkg:maven/com.seanox/seanox-pdf-service@4.3.0
+- pkg:maven/com.seanox/seanox-pdf-service@4.3.0?classifier=sources

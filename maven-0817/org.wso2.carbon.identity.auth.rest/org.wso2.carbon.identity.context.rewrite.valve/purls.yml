@@ -246,3 +246,5 @@
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.context.rewrite.valve@1.8.7?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.context.rewrite.valve@1.8.8
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.context.rewrite.valve@1.8.8?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.context.rewrite.valve@1.8.9
+- pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.context.rewrite.valve@1.8.9?classifier=sources

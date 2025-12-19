@@ -66,6 +66,11 @@
 - pkg:maven/dev.felnull/felnull-java-library@1.69?classifier=sources
 - pkg:maven/dev.felnull/felnull-java-library@1.6?classifier=sources
 - pkg:maven/dev.felnull/felnull-java-library@1.70?classifier=sources
+- pkg:maven/dev.felnull/felnull-java-library@1.71?classifier=sources
+- pkg:maven/dev.felnull/felnull-java-library@1.72?classifier=sources
+- pkg:maven/dev.felnull/felnull-java-library@1.73?classifier=sources
+- pkg:maven/dev.felnull/felnull-java-library@1.74?classifier=sources
+- pkg:maven/dev.felnull/felnull-java-library@1.75?classifier=sources
 - pkg:maven/dev.felnull/felnull-java-library@1.7?classifier=sources
 - pkg:maven/dev.felnull/felnull-java-library@1.8?classifier=sources
 - pkg:maven/dev.felnull/felnull-java-library@1.9?classifier=sources

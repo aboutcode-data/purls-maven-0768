@@ -2,3 +2,5 @@
 - pkg:maven/com.github.jkugiya/aws-v4-signer-scala_2.12@0.12?classifier=sources
 - pkg:maven/com.github.jkugiya/aws-v4-signer-scala_2.12@0.13
 - pkg:maven/com.github.jkugiya/aws-v4-signer-scala_2.12@0.13?classifier=sources
+- pkg:maven/com.github.jkugiya/aws-v4-signer-scala_2.12@0.14
+- pkg:maven/com.github.jkugiya/aws-v4-signer-scala_2.12@0.14?classifier=sources

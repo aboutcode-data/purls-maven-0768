@@ -9,3 +9,7 @@
 - pkg:maven/com.devcycle/android-client-sdk@1.0.8?classifier=sources
 - pkg:maven/com.devcycle/android-client-sdk@1.1.0?classifier=sources
 - pkg:maven/com.devcycle/android-client-sdk@1.1.1?classifier=sources
+- pkg:maven/com.devcycle/android-client-sdk@1.1.2?classifier=sources
+- pkg:maven/com.devcycle/android-client-sdk@1.2.0?classifier=sources
+- pkg:maven/com.devcycle/android-client-sdk@1.2.1?classifier=sources
+- pkg:maven/com.devcycle/android-client-sdk@1.2.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-cxf-soap-ws-trust@2.13.2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-cxf-soap-ws-trust@2.13.2?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-cxf-soap-ws-trust@2.15.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-cxf-soap-ws-trust@2.15.0?classifier=sources

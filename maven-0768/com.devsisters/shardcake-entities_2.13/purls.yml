@@ -8,6 +8,8 @@
 - pkg:maven/com.devsisters/shardcake-entities_2.13@1.0.3?classifier=sources
 - pkg:maven/com.devsisters/shardcake-entities_2.13@1.0.4
 - pkg:maven/com.devsisters/shardcake-entities_2.13@1.0.4?classifier=sources
+- pkg:maven/com.devsisters/shardcake-entities_2.13@1.0.5
+- pkg:maven/com.devsisters/shardcake-entities_2.13@1.0.5?classifier=sources
 - pkg:maven/com.devsisters/shardcake-entities_2.13@2.0.0
 - pkg:maven/com.devsisters/shardcake-entities_2.13@2.0.0?classifier=sources
 - pkg:maven/com.devsisters/shardcake-entities_2.13@2.0.1
@@ -18,3 +20,5 @@
 - pkg:maven/com.devsisters/shardcake-entities_2.13@2.0.3?classifier=sources
 - pkg:maven/com.devsisters/shardcake-entities_2.13@2.0.4
 - pkg:maven/com.devsisters/shardcake-entities_2.13@2.0.4?classifier=sources
+- pkg:maven/com.devsisters/shardcake-entities_2.13@2.0.5
+- pkg:maven/com.devsisters/shardcake-entities_2.13@2.0.5?classifier=sources

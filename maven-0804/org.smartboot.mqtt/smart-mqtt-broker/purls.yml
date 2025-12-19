@@ -1,2 +1,4 @@
+- pkg:maven/org.smartboot.mqtt/smart-mqtt-broker@0.10
+- pkg:maven/org.smartboot.mqtt/smart-mqtt-broker@0.10?classifier=sources
 - pkg:maven/org.smartboot.mqtt/smart-mqtt-broker@0.8
 - pkg:maven/org.smartboot.mqtt/smart-mqtt-broker@0.8?classifier=sources

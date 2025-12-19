@@ -1,0 +1,2 @@
+- pkg:maven/io.github.izachwei/easy-cache-spring-boot-autoconfigure@1.0.0-RELEASE
+- pkg:maven/io.github.izachwei/easy-cache-spring-boot-autoconfigure@1.0.0-RELEASE?classifier=sources

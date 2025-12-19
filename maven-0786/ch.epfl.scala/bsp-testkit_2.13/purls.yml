@@ -7,6 +7,8 @@
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.0.0-M14?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.0.0-M15
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.0.0-M15?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.0.0-M16
+- pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.0.0-M16?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.0.0?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.1.0-M1
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.13@2.1.0-M1?classifier=sources

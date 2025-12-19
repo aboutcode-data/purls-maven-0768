@@ -352,3 +352,4 @@
 - pkg:maven/com.qaprosoft/carina-utils@8.0.0?classifier=sources
 - pkg:maven/com.qaprosoft/carina-utils@8.0.1
 - pkg:maven/com.qaprosoft/carina-utils@8.0.1?classifier=sources
+- pkg:maven/com.qaprosoft/carina-utils@8.0.4

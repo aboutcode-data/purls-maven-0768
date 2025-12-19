@@ -1,0 +1,2 @@
+- pkg:maven/gr.cite.opendmp/repositorydepositbase@1.0.0
+- pkg:maven/gr.cite.opendmp/repositorydepositbase@1.0.0?classifier=sources

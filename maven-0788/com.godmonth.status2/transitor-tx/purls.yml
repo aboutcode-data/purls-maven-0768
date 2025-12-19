@@ -1,0 +1,2 @@
+- pkg:maven/com.godmonth.status2/transitor-tx@2.2
+- pkg:maven/com.godmonth.status2/transitor-tx@2.2?classifier=sources

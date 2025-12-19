@@ -60,6 +60,8 @@
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo-test@1.39.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo-test@1.4.0
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo-test@1.4.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo-test@1.40.0
+- pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo-test@1.40.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo-test@1.5.0
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo-test@1.5.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.mongo/lightblue-mongo-test@1.6.0

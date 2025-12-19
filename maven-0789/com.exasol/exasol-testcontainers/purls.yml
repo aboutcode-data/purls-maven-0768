@@ -70,3 +70,7 @@
 - pkg:maven/com.exasol/exasol-testcontainers@6.3.0?classifier=sources
 - pkg:maven/com.exasol/exasol-testcontainers@6.3.1
 - pkg:maven/com.exasol/exasol-testcontainers@6.3.1?classifier=sources
+- pkg:maven/com.exasol/exasol-testcontainers@6.4.0
+- pkg:maven/com.exasol/exasol-testcontainers@6.4.0?classifier=sources
+- pkg:maven/com.exasol/exasol-testcontainers@6.4.1
+- pkg:maven/com.exasol/exasol-testcontainers@6.4.1?classifier=sources

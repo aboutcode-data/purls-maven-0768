@@ -14,3 +14,5 @@
 - pkg:maven/dev.scalapy/scalapy-core_3@0.5.2%2B16-0a75abf3?classifier=sources
 - pkg:maven/dev.scalapy/scalapy-core_3@0.5.2%2B9-623f0807
 - pkg:maven/dev.scalapy/scalapy-core_3@0.5.2%2B9-623f0807?classifier=sources
+- pkg:maven/dev.scalapy/scalapy-core_3@0.5.3
+- pkg:maven/dev.scalapy/scalapy-core_3@0.5.3?classifier=sources

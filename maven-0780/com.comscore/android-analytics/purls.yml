@@ -15,3 +15,4 @@
 - pkg:maven/com.comscore/android-analytics@6.8.0?type=aar
 - pkg:maven/com.comscore/android-analytics@6.9.0?type=aar
 - pkg:maven/com.comscore/android-analytics@6.9.1?type=aar
+- pkg:maven/com.comscore/android-analytics@6.9.2?type=aar

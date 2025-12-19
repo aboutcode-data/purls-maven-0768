@@ -104,9 +104,15 @@
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@3.76.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@3.77.0
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@3.77.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@3.78.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@3.78.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@4.0.0
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@4.0.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@4.1.0
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@4.1.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@4.2.0
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@4.2.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@4.3.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@4.3.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@4.4.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4@4.4.0?classifier=sources

@@ -129,6 +129,8 @@
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.15.13?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.15.14
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.15.14?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.15.15
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.15.15?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.15.1?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.15.2
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.15.2?classifier=sources
@@ -175,6 +177,10 @@
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.18.10?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.18.11
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.18.11?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.18.12
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.18.12?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.18.13
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.18.13?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.18.1?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.18.2
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.18.2?classifier=sources
@@ -200,6 +206,10 @@
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.19.1?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.19.2
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.19.2?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.19.3
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.19.3?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.19.4
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.19.4?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.2.0
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.2.0?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.2.1
@@ -208,6 +218,8 @@
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.2.2?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.2.3
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.2.3?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.20.0-alpha.1
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.20.0-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.3.0
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.3.0?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-rest@3.3.1

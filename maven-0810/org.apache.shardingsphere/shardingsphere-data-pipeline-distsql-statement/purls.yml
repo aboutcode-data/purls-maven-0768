@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shardingsphere/shardingsphere-data-pipeline-distsql-statement@5.3.0
+- pkg:maven/org.apache.shardingsphere/shardingsphere-data-pipeline-distsql-statement@5.3.0?classifier=sources

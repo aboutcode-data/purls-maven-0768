@@ -27,3 +27,4 @@
 - pkg:maven/org.plumelib/options@1.0.6?classifier=sources
 - pkg:maven/org.plumelib/options@2.0.0?classifier=sources
 - pkg:maven/org.plumelib/options@2.0.2?classifier=sources
+- pkg:maven/org.plumelib/options@2.0.3?classifier=sources

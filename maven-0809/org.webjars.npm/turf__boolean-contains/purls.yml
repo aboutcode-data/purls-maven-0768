@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/turf__boolean-contains@6.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/turf__boolean-contains@6.5.0
 - pkg:maven/org.webjars.npm/turf__boolean-contains@6.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/turf__boolean-contains@7.0.0-alpha.0
+- pkg:maven/org.webjars.npm/turf__boolean-contains@7.0.0-alpha.0?classifier=sources

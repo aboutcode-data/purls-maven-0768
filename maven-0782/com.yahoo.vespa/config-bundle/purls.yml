@@ -541,6 +541,9 @@
 - pkg:maven/com.yahoo.vespa/config-bundle@7.91.14?classifier=sources
 - pkg:maven/com.yahoo.vespa/config-bundle@7.92.7?classifier=sources
 - pkg:maven/com.yahoo.vespa/config-bundle@7.99.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/config-bundle@8.100.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/config-bundle@8.101.28?classifier=sources
+- pkg:maven/com.yahoo.vespa/config-bundle@8.102.12?classifier=sources
 - pkg:maven/com.yahoo.vespa/config-bundle@8.11.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/config-bundle@8.12.48?classifier=sources
 - pkg:maven/com.yahoo.vespa/config-bundle@8.13.21?classifier=sources
@@ -605,3 +608,8 @@
 - pkg:maven/com.yahoo.vespa/config-bundle@8.82.24?classifier=sources
 - pkg:maven/com.yahoo.vespa/config-bundle@8.83.34?classifier=sources
 - pkg:maven/com.yahoo.vespa/config-bundle@8.86.28?classifier=sources
+- pkg:maven/com.yahoo.vespa/config-bundle@8.89.6?classifier=sources
+- pkg:maven/com.yahoo.vespa/config-bundle@8.90.59?classifier=sources
+- pkg:maven/com.yahoo.vespa/config-bundle@8.91.2?classifier=sources
+- pkg:maven/com.yahoo.vespa/config-bundle@8.98.34?classifier=sources
+- pkg:maven/com.yahoo.vespa/config-bundle@8.99.32?classifier=sources

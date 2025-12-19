@@ -4,6 +4,8 @@
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-0720a0c?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-09186ff
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-09186ff?classifier=sources
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-0abea93
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-0abea93?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-0cce4a1
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-0cce4a1?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-17b8d9b
@@ -26,6 +28,8 @@
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-3b27501?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-3fd36d5
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-3fd36d5?classifier=sources
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-48fae58
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-48fae58?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-4b4e00d
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-4b4e00d?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-4e053df
@@ -38,6 +42,8 @@
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-59611a1?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-5ed27e2
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-5ed27e2?classifier=sources
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-642f247
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-642f247?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-64f94ea
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-64f94ea?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-65afb1e
@@ -68,6 +74,8 @@
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-b11ecc6?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-c875039
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-c875039?classifier=sources
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-c90adf7
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-c90adf7?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-cc42485
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-cc42485?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-cc475fa
@@ -84,6 +92,8 @@
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-e5da008?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-ed34313
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-ed34313?classifier=sources
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-ede5026
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-ede5026?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-eec7f2f
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-eec7f2f?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-f1b689a
@@ -92,6 +102,8 @@
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-f4c5089?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-f5f81ab
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-f5f81ab?classifier=sources
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-f7bccff
+- pkg:maven/com.armanbilge/stratus-core_3@0.0-f7bccff?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-f7e158f
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-f7e158f?classifier=sources
 - pkg:maven/com.armanbilge/stratus-core_3@0.0-fc5ce42

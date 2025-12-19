@@ -42,6 +42,10 @@
 - pkg:maven/org.apache.nifi/nifi-aws-service-api@1.17.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-aws-service-api@1.18.0
 - pkg:maven/org.apache.nifi/nifi-aws-service-api@1.18.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-aws-service-api@1.19.0
+- pkg:maven/org.apache.nifi/nifi-aws-service-api@1.19.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-aws-service-api@1.19.1
+- pkg:maven/org.apache.nifi/nifi-aws-service-api@1.19.1?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-aws-service-api@1.5.0
 - pkg:maven/org.apache.nifi/nifi-aws-service-api@1.5.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-aws-service-api@1.6.0

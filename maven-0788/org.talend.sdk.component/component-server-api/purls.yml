@@ -108,6 +108,10 @@
 - pkg:maven/org.talend.sdk.component/component-server-api@1.38.5?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server-api@1.38.6
 - pkg:maven/org.talend.sdk.component/component-server-api@1.38.6?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-api@1.38.7
+- pkg:maven/org.talend.sdk.component/component-server-api@1.38.7?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-api@1.38.8
+- pkg:maven/org.talend.sdk.component/component-server-api@1.38.8?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server-api@1.39.0
 - pkg:maven/org.talend.sdk.component/component-server-api@1.39.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server-api@1.39.1
@@ -164,5 +168,15 @@
 - pkg:maven/org.talend.sdk.component/component-server-api@1.50.1?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server-api@1.50.2
 - pkg:maven/org.talend.sdk.component/component-server-api@1.50.2?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-api@1.50.3
+- pkg:maven/org.talend.sdk.component/component-server-api@1.50.3?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-api@1.50.4
+- pkg:maven/org.talend.sdk.component/component-server-api@1.50.4?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server-api@1.51.0
 - pkg:maven/org.talend.sdk.component/component-server-api@1.51.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-api@1.51.1
+- pkg:maven/org.talend.sdk.component/component-server-api@1.51.1?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-api@1.51.2
+- pkg:maven/org.talend.sdk.component/component-server-api@1.51.2?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-api@1.52.0
+- pkg:maven/org.talend.sdk.component/component-server-api@1.52.0?classifier=sources

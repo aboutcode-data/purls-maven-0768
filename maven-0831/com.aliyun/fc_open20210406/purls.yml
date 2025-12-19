@@ -40,3 +40,5 @@
 - pkg:maven/com.aliyun/fc_open20210406@1.1.8?classifier=sources
 - pkg:maven/com.aliyun/fc_open20210406@1.1.9
 - pkg:maven/com.aliyun/fc_open20210406@1.1.9?classifier=sources
+- pkg:maven/com.aliyun/fc_open20210406@2.0.0
+- pkg:maven/com.aliyun/fc_open20210406@2.0.0?classifier=sources

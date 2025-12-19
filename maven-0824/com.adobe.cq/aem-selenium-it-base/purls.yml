@@ -26,6 +26,8 @@
 - pkg:maven/com.adobe.cq/aem-selenium-it-base@0.2.34?classifier=sources
 - pkg:maven/com.adobe.cq/aem-selenium-it-base@0.2.36
 - pkg:maven/com.adobe.cq/aem-selenium-it-base@0.2.36?classifier=sources
+- pkg:maven/com.adobe.cq/aem-selenium-it-base@0.2.38
+- pkg:maven/com.adobe.cq/aem-selenium-it-base@0.2.38?classifier=sources
 - pkg:maven/com.adobe.cq/aem-selenium-it-base@0.2.6
 - pkg:maven/com.adobe.cq/aem-selenium-it-base@0.2.6?classifier=sources
 - pkg:maven/com.adobe.cq/aem-selenium-it-base@0.2.8

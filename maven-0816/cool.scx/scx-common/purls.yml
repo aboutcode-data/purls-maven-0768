@@ -30,3 +30,13 @@
 - pkg:maven/cool.scx/scx-common@0.1.5?classifier=sources
 - pkg:maven/cool.scx/scx-common@0.1.6
 - pkg:maven/cool.scx/scx-common@0.1.6?classifier=sources
+- pkg:maven/cool.scx/scx-common@0.1.7
+- pkg:maven/cool.scx/scx-common@0.1.7?classifier=sources
+- pkg:maven/cool.scx/scx-common@2.0.0
+- pkg:maven/cool.scx/scx-common@2.0.0?classifier=sources
+- pkg:maven/cool.scx/scx-common@2.0.1
+- pkg:maven/cool.scx/scx-common@2.0.1?classifier=sources
+- pkg:maven/cool.scx/scx-common@2.0.2
+- pkg:maven/cool.scx/scx-common@2.0.2?classifier=sources
+- pkg:maven/cool.scx/scx-common@2.0.3
+- pkg:maven/cool.scx/scx-common@2.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.fubluesky/canal-example@1.2.7
+- pkg:maven/com.gitee.fubluesky/canal-example@1.2.7?classifier=sources

@@ -521,6 +521,12 @@
 - pkg:maven/com.wrld3d/wrld-android-sdk@0.0.1430?type=aar
 - pkg:maven/com.wrld3d/wrld-android-sdk@0.0.1431?classifier=sources
 - pkg:maven/com.wrld3d/wrld-android-sdk@0.0.1431?type=aar
+- pkg:maven/com.wrld3d/wrld-android-sdk@0.0.1432?classifier=sources
+- pkg:maven/com.wrld3d/wrld-android-sdk@0.0.1432?type=aar
+- pkg:maven/com.wrld3d/wrld-android-sdk@0.0.1433?classifier=sources
+- pkg:maven/com.wrld3d/wrld-android-sdk@0.0.1433?type=aar
+- pkg:maven/com.wrld3d/wrld-android-sdk@0.0.1434?classifier=sources
+- pkg:maven/com.wrld3d/wrld-android-sdk@0.0.1434?type=aar
 - pkg:maven/com.wrld3d/wrld-android-sdk@0.0.243?type=aar
 - pkg:maven/com.wrld3d/wrld-android-sdk@0.0.245?type=aar
 - pkg:maven/com.wrld3d/wrld-android-sdk@0.0.246?type=aar

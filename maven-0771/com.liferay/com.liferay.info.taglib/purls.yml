@@ -100,3 +100,6 @@
 - pkg:maven/com.liferay/com.liferay.info.taglib@2.1.6
 - pkg:maven/com.liferay/com.liferay.info.taglib@2.1.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.info.taglib@2.1.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.info.taglib@2.1.7
+- pkg:maven/com.liferay/com.liferay.info.taglib@2.1.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.info.taglib@2.1.7?classifier=sources-commercial

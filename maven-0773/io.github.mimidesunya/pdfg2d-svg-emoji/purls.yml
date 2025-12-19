@@ -1,2 +1,4 @@
 - pkg:maven/io.github.mimidesunya/pdfg2d-svg-emoji@1.1.0
 - pkg:maven/io.github.mimidesunya/pdfg2d-svg-emoji@1.1.0?classifier=sources
+- pkg:maven/io.github.mimidesunya/pdfg2d-svg-emoji@1.2.0
+- pkg:maven/io.github.mimidesunya/pdfg2d-svg-emoji@1.2.0?classifier=sources

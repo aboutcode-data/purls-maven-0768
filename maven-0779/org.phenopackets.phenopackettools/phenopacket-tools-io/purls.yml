@@ -1,2 +1,4 @@
 - pkg:maven/org.phenopackets.phenopackettools/phenopacket-tools-io@0.4.7
 - pkg:maven/org.phenopackets.phenopackettools/phenopacket-tools-io@0.4.7?classifier=sources
+- pkg:maven/org.phenopackets.phenopackettools/phenopacket-tools-io@1.0.0-RC1
+- pkg:maven/org.phenopackets.phenopackettools/phenopacket-tools-io@1.0.0-RC1?classifier=sources

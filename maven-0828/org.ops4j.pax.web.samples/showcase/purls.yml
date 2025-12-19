@@ -7,6 +7,8 @@
 - pkg:maven/org.ops4j.pax.web.samples/showcase@8.0.12?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/showcase@8.0.13
 - pkg:maven/org.ops4j.pax.web.samples/showcase@8.0.13?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/showcase@8.0.14
+- pkg:maven/org.ops4j.pax.web.samples/showcase@8.0.14?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/showcase@8.0.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/showcase@8.0.2
 - pkg:maven/org.ops4j.pax.web.samples/showcase@8.0.2?classifier=sources
@@ -32,3 +34,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/showcase@9.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/showcase@9.0.3
 - pkg:maven/org.ops4j.pax.web.samples/showcase@9.0.3?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/showcase@9.0.4
+- pkg:maven/org.ops4j.pax.web.samples/showcase@9.0.4?classifier=sources

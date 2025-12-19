@@ -1,2 +1,3 @@
 - pkg:maven/com.worldline-solutions/sdk-client-android@2.0.0?classifier=sources
 - pkg:maven/com.worldline-solutions/sdk-client-android@2.0.2?classifier=sources
+- pkg:maven/com.worldline-solutions/sdk-client-android@2.0.3?classifier=sources

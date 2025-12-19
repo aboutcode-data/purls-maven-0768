@@ -2,3 +2,5 @@
 - pkg:maven/org.firstinspires.ftc/Tfod@7.1.0?classifier=sources
 - pkg:maven/org.firstinspires.ftc/Tfod@7.2.0?classifier=sources
 - pkg:maven/org.firstinspires.ftc/Tfod@8.0.0?classifier=sources
+- pkg:maven/org.firstinspires.ftc/Tfod@8.1.0?classifier=sources
+- pkg:maven/org.firstinspires.ftc/Tfod@8.1.1?classifier=sources

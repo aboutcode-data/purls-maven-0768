@@ -33,3 +33,4 @@
 - pkg:maven/com.ditchoom/buffer-linuxx64@1.0.87?classifier=sources
 - pkg:maven/com.ditchoom/buffer-linuxx64@1.0.94?classifier=sources
 - pkg:maven/com.ditchoom/buffer-linuxx64@1.0.95?classifier=sources
+- pkg:maven/com.ditchoom/buffer-linuxx64@1.0.96?classifier=sources

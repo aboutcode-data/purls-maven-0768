@@ -4,3 +4,5 @@
 - pkg:maven/com.lihaoyi/pprint_native0.4_3@0.7.3?classifier=sources
 - pkg:maven/com.lihaoyi/pprint_native0.4_3@0.8.0
 - pkg:maven/com.lihaoyi/pprint_native0.4_3@0.8.0?classifier=sources
+- pkg:maven/com.lihaoyi/pprint_native0.4_3@0.8.1
+- pkg:maven/com.lihaoyi/pprint_native0.4_3@0.8.1?classifier=sources

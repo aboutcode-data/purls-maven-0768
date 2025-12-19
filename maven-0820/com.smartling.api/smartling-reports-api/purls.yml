@@ -14,3 +14,5 @@
 - pkg:maven/com.smartling.api/smartling-reports-api@0.31.2?classifier=sources
 - pkg:maven/com.smartling.api/smartling-reports-api@0.32.0
 - pkg:maven/com.smartling.api/smartling-reports-api@0.32.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-reports-api@1.0.0
+- pkg:maven/com.smartling.api/smartling-reports-api@1.0.0?classifier=sources

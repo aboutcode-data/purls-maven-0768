@@ -18,3 +18,13 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-handler@6.3.26?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-handler@6.3.27
 - pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-handler@6.3.27?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-handler@6.3.28
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-handler@6.3.28?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-handler@6.3.29
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-handler@6.3.29?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-handler@6.3.30
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-handler@6.3.30?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-handler@6.3.31
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-handler@6.3.31?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-handler@7.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium-execution-handler@7.0.0?classifier=sources

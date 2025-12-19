@@ -96,3 +96,5 @@
 - pkg:maven/de.dagere.kopeme/kopeme-core@1.1.9?classifier=sources
 - pkg:maven/de.dagere.kopeme/kopeme-core@1.2.0
 - pkg:maven/de.dagere.kopeme/kopeme-core@1.2.0?classifier=sources
+- pkg:maven/de.dagere.kopeme/kopeme-core@1.2.1
+- pkg:maven/de.dagere.kopeme/kopeme-core@1.2.1?classifier=sources

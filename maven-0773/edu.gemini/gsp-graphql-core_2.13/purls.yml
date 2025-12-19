@@ -128,6 +128,10 @@
 - pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.1.8?classifier=sources
 - pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.1.9
 - pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.1.9?classifier=sources
+- pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.10.0
+- pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.10.0?classifier=sources
+- pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.10.1
+- pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.10.1?classifier=sources
 - pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.2.0
 - pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.2.0?classifier=sources
 - pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.2.1
@@ -156,3 +160,7 @@
 - pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.8.1?classifier=sources
 - pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.8.2
 - pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.8.2?classifier=sources
+- pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.9.0
+- pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.9.0?classifier=sources
+- pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.9.1
+- pkg:maven/edu.gemini/gsp-graphql-core_2.13@0.9.1?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/io.imunity.furms/furms-end-to-end-tests@4.2.2?classifier=sources
 - pkg:maven/io.imunity.furms/furms-end-to-end-tests@4.2.3
 - pkg:maven/io.imunity.furms/furms-end-to-end-tests@4.2.3?classifier=sources
+- pkg:maven/io.imunity.furms/furms-end-to-end-tests@4.2.4
+- pkg:maven/io.imunity.furms/furms-end-to-end-tests@4.2.4?classifier=sources

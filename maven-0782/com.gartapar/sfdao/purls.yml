@@ -7,3 +7,5 @@
 - pkg:maven/com.gartapar/sfdao@2.5.4?classifier=sources
 - pkg:maven/com.gartapar/sfdao@2.6.0?classifier=sources
 - pkg:maven/com.gartapar/sfdao@2.6.1?classifier=sources
+- pkg:maven/com.gartapar/sfdao@2.7.0?classifier=sources
+- pkg:maven/com.gartapar/sfdao@2.7.1?classifier=sources

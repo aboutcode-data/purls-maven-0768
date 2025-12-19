@@ -1,0 +1,2 @@
+- pkg:maven/io.github.h8000572003/schedule-backend-ui@1.0
+- pkg:maven/io.github.h8000572003/schedule-backend-ui@1.0?classifier=sources

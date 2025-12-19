@@ -220,3 +220,5 @@
 - pkg:maven/love.forte.simple-robot/component-mirai-spring-boot-starter@2.4.0?classifier=sources
 - pkg:maven/love.forte.simple-robot/component-mirai-spring-boot-starter@2.5.0
 - pkg:maven/love.forte.simple-robot/component-mirai-spring-boot-starter@2.5.0?classifier=sources
+- pkg:maven/love.forte.simple-robot/component-mirai-spring-boot-starter@2.5.1
+- pkg:maven/love.forte.simple-robot/component-mirai-spring-boot-starter@2.5.1?classifier=sources

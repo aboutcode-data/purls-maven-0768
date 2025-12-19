@@ -3,6 +3,7 @@
 - pkg:maven/org.codehaus.plexus/plexus-compiler@2.11.1?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus-compiler@2.12.0?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus-compiler@2.12.1?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.plexus/plexus-compiler@2.13.0?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus-compiler@2.8.7?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus-compiler@2.8.8?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus-compiler@2.9.0?classifier=source-release&type=zip

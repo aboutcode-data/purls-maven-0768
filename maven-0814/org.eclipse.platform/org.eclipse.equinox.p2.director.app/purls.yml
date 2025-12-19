@@ -18,3 +18,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.director.app@1.2.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.director.app@1.2.200
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.director.app@1.2.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.director.app@1.2.300
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.director.app@1.2.300?classifier=sources

@@ -20,3 +20,11 @@
 - pkg:maven/io.liftwizard/liftwizard-ansi-color-strip@0.26.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-ansi-color-strip@0.27.0
 - pkg:maven/io.liftwizard/liftwizard-ansi-color-strip@0.27.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-ansi-color-strip@0.28.0
+- pkg:maven/io.liftwizard/liftwizard-ansi-color-strip@0.28.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-ansi-color-strip@0.29.0
+- pkg:maven/io.liftwizard/liftwizard-ansi-color-strip@0.29.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-ansi-color-strip@0.30.0
+- pkg:maven/io.liftwizard/liftwizard-ansi-color-strip@0.30.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-ansi-color-strip@0.31.0
+- pkg:maven/io.liftwizard/liftwizard-ansi-color-strip@0.31.0?classifier=sources

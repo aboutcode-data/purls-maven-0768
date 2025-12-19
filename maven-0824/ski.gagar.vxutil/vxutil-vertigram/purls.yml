@@ -47,8 +47,12 @@
 - pkg:maven/ski.gagar.vxutil/vxutil-vertigram@1.0.0-alpha27?classifier=sources
 - pkg:maven/ski.gagar.vxutil/vxutil-vertigram@1.0.0-alpha28
 - pkg:maven/ski.gagar.vxutil/vxutil-vertigram@1.0.0-alpha28?classifier=sources
+- pkg:maven/ski.gagar.vxutil/vxutil-vertigram@1.0.0-alpha29
+- pkg:maven/ski.gagar.vxutil/vxutil-vertigram@1.0.0-alpha29?classifier=sources
 - pkg:maven/ski.gagar.vxutil/vxutil-vertigram@1.0.0-alpha2?classifier=sources
 - pkg:maven/ski.gagar.vxutil/vxutil-vertigram@1.0.0-alpha3
+- pkg:maven/ski.gagar.vxutil/vxutil-vertigram@1.0.0-alpha30
+- pkg:maven/ski.gagar.vxutil/vxutil-vertigram@1.0.0-alpha30?classifier=sources
 - pkg:maven/ski.gagar.vxutil/vxutil-vertigram@1.0.0-alpha3?classifier=sources
 - pkg:maven/ski.gagar.vxutil/vxutil-vertigram@1.0.0-alpha4
 - pkg:maven/ski.gagar.vxutil/vxutil-vertigram@1.0.0-alpha4?classifier=sources

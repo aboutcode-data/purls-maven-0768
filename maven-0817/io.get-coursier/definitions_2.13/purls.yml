@@ -6,3 +6,5 @@
 - pkg:maven/io.get-coursier/definitions_2.13@2.0.12?classifier=sources
 - pkg:maven/io.get-coursier/definitions_2.13@2.0.13
 - pkg:maven/io.get-coursier/definitions_2.13@2.0.13?classifier=sources
+- pkg:maven/io.get-coursier/definitions_2.13@2.0.14
+- pkg:maven/io.get-coursier/definitions_2.13@2.0.14?classifier=sources

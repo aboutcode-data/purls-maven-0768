@@ -1,0 +1,2 @@
+- pkg:maven/nl.pvanassen.led/animation-common@1.6.0
+- pkg:maven/nl.pvanassen.led/animation-common@1.6.0?classifier=sources

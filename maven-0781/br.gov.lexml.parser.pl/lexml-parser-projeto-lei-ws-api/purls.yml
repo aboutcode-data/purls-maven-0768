@@ -1,2 +1,4 @@
 - pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei-ws-api@1.6.6
 - pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei-ws-api@1.6.6?classifier=sources
+- pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei-ws-api@1.7.4
+- pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei-ws-api@1.7.4?classifier=sources

@@ -10,9 +10,13 @@
 - pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Beta14?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Beta15
 - pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Beta15?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Beta16
+- pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Beta16?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Beta7
 - pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Beta7?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Beta8
 - pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Beta8?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Beta9
 - pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Beta9?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Final
+- pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Final?classifier=sources

@@ -60,6 +60,8 @@
 - pkg:maven/org.projectnessie/nessie-versioned-persist-tests@0.42.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-versioned-persist-tests@0.43.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-versioned-persist-tests@0.44.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-versioned-persist-tests@0.45.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-versioned-persist-tests@0.46.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-versioned-persist-tests@0.9.1
 - pkg:maven/org.projectnessie/nessie-versioned-persist-tests@0.9.1?classifier=sources
 - pkg:maven/org.projectnessie/nessie-versioned-persist-tests@0.9.2

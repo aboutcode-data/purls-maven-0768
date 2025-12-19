@@ -34,3 +34,5 @@
 - pkg:maven/fr.funixgaming.api.server/funix-api-server@1.1.8?classifier=sources
 - pkg:maven/fr.funixgaming.api.server/funix-api-server@1.1.9
 - pkg:maven/fr.funixgaming.api.server/funix-api-server@1.1.9?classifier=sources
+- pkg:maven/fr.funixgaming.api.server/funix-api-server@1.2.0
+- pkg:maven/fr.funixgaming.api.server/funix-api-server@1.2.0?classifier=sources

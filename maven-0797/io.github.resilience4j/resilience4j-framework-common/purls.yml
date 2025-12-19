@@ -24,3 +24,5 @@
 - pkg:maven/io.github.resilience4j/resilience4j-framework-common@1.7.0?classifier=sources
 - pkg:maven/io.github.resilience4j/resilience4j-framework-common@1.7.1?classifier=sources
 - pkg:maven/io.github.resilience4j/resilience4j-framework-common@2.0.0?classifier=sources
+- pkg:maven/io.github.resilience4j/resilience4j-framework-common@2.0.1?classifier=sources
+- pkg:maven/io.github.resilience4j/resilience4j-framework-common@2.0.2?classifier=sources

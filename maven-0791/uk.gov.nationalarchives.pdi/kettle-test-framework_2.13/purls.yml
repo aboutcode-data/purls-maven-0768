@@ -4,3 +4,5 @@
 - pkg:maven/uk.gov.nationalarchives.pdi/kettle-test-framework_2.13@0.2.0?classifier=sources
 - pkg:maven/uk.gov.nationalarchives.pdi/kettle-test-framework_2.13@0.3.0
 - pkg:maven/uk.gov.nationalarchives.pdi/kettle-test-framework_2.13@0.3.0?classifier=sources
+- pkg:maven/uk.gov.nationalarchives.pdi/kettle-test-framework_2.13@0.4.0
+- pkg:maven/uk.gov.nationalarchives.pdi/kettle-test-framework_2.13@0.4.0?classifier=sources

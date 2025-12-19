@@ -8,3 +8,5 @@
 - pkg:maven/com.wizzdi/flexicore-common-user-model@1.1.2?classifier=sources
 - pkg:maven/com.wizzdi/flexicore-common-user-model@2.0.0
 - pkg:maven/com.wizzdi/flexicore-common-user-model@2.0.0?classifier=sources
+- pkg:maven/com.wizzdi/flexicore-common-user-model@3.0.0
+- pkg:maven/com.wizzdi/flexicore-common-user-model@3.0.0?classifier=sources

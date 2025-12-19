@@ -58,3 +58,5 @@
 - pkg:maven/io.github.hakky54/sslcontext-kickstart-for-apache4@7.4.7?classifier=sources
 - pkg:maven/io.github.hakky54/sslcontext-kickstart-for-apache4@7.4.8
 - pkg:maven/io.github.hakky54/sslcontext-kickstart-for-apache4@7.4.8?classifier=sources
+- pkg:maven/io.github.hakky54/sslcontext-kickstart-for-apache4@7.4.9
+- pkg:maven/io.github.hakky54/sslcontext-kickstart-for-apache4@7.4.9?classifier=sources

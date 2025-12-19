@@ -5,3 +5,5 @@
 - pkg:maven/org.wso2.carbon.apimgt.identity.migration.resources/org.wso2.carbon.is.migration@1.0.158?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt.identity.migration.resources/org.wso2.carbon.is.migration@1.0.159?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt.identity.migration.resources/org.wso2.carbon.is.migration@1.0.160?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt.identity.migration.resources/org.wso2.carbon.is.migration@1.0.161?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt.identity.migration.resources/org.wso2.carbon.is.migration@1.1.160?classifier=sources

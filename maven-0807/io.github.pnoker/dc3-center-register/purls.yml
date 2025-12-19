@@ -1,0 +1,4 @@
+- pkg:maven/io.github.pnoker/dc3-center-register@2022.1.0
+- pkg:maven/io.github.pnoker/dc3-center-register@2022.1.0?classifier=sources
+- pkg:maven/io.github.pnoker/dc3-center-register@2022.1.2
+- pkg:maven/io.github.pnoker/dc3-center-register@2022.1.2?classifier=sources

@@ -74,3 +74,4 @@
 - pkg:maven/com.bybutter.sisyphus.tools/sisyphus-api-linter-runner@1.5.22?classifier=sources
 - pkg:maven/com.bybutter.sisyphus.tools/sisyphus-api-linter-runner@1.5.23?classifier=sources
 - pkg:maven/com.bybutter.sisyphus.tools/sisyphus-api-linter-runner@1.5.30?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.tools/sisyphus-api-linter-runner@1.5.31?classifier=sources

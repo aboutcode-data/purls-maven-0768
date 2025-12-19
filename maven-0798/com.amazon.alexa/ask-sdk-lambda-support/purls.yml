@@ -150,6 +150,10 @@
 - pkg:maven/com.amazon.alexa/ask-sdk-lambda-support@2.43.7?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-lambda-support@2.44.0
 - pkg:maven/com.amazon.alexa/ask-sdk-lambda-support@2.44.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-lambda-support@2.45.0
+- pkg:maven/com.amazon.alexa/ask-sdk-lambda-support@2.45.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-lambda-support@2.46.0
+- pkg:maven/com.amazon.alexa/ask-sdk-lambda-support@2.46.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-lambda-support@2.5.0
 - pkg:maven/com.amazon.alexa/ask-sdk-lambda-support@2.5.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-lambda-support@2.5.1

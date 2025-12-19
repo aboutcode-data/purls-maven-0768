@@ -95,6 +95,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.api@1.6.15
 - pkg:maven/com.liferay/com.liferay.portal.search.api@1.6.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@1.6.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.api@1.6.16
+- pkg:maven/com.liferay/com.liferay.portal.search.api@1.6.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.api@1.6.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.api@1.6.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@1.6.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.api@1.6.2
@@ -115,6 +118,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.api@1.6.9
 - pkg:maven/com.liferay/com.liferay.portal.search.api@1.6.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@1.6.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.api@10.0.0
+- pkg:maven/com.liferay/com.liferay.portal.search.api@10.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.api@10.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.portal.search.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@2.0.0?classifier=sources-commercial
@@ -661,3 +667,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.api@7.0.0
 - pkg:maven/com.liferay/com.liferay.portal.search.api@7.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@7.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.api@8.0.0
+- pkg:maven/com.liferay/com.liferay.portal.search.api@8.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.api@8.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.api@9.0.0
+- pkg:maven/com.liferay/com.liferay.portal.search.api@9.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.api@9.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.api@9.0.1
+- pkg:maven/com.liferay/com.liferay.portal.search.api@9.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.api@9.0.1?classifier=sources-commercial

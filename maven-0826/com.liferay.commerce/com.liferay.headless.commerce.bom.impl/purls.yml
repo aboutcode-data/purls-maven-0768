@@ -148,6 +148,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.bom.impl@4.0.32
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.bom.impl@4.0.32?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.bom.impl@4.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.bom.impl@4.0.33
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.bom.impl@4.0.33?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.bom.impl@4.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.bom.impl@5.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.bom.impl@5.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.bom.impl@5.0.0?classifier=sources-commercial

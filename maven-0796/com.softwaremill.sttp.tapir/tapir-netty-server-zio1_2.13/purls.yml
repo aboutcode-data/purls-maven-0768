@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-netty-server-zio1_2.13@1.2.4
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-netty-server-zio1_2.13@1.2.4?classifier=sources

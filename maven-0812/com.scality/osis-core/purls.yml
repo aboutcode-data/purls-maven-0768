@@ -10,3 +10,6 @@
 - pkg:maven/com.scality/osis-core@1.4.4?classifier=sources
 - pkg:maven/com.scality/osis-core@1.4.5
 - pkg:maven/com.scality/osis-core@1.4.5?classifier=sources
+- pkg:maven/com.scality/osis-core@1.4.7
+- pkg:maven/com.scality/osis-core@1.4.7?classifier=sources
+- pkg:maven/com.scality/osis-core@2.0.0?classifier=sources

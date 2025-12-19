@@ -5,3 +5,5 @@
 - pkg:maven/com.transferwise.tasks/tw-tasks-jobs-test@1.34.0?classifier=sources
 - pkg:maven/com.transferwise.tasks/tw-tasks-jobs-test@1.35.0?classifier=sources
 - pkg:maven/com.transferwise.tasks/tw-tasks-jobs-test@1.36.0?classifier=sources
+- pkg:maven/com.transferwise.tasks/tw-tasks-jobs-test@1.37.0?classifier=sources
+- pkg:maven/com.transferwise.tasks/tw-tasks-jobs-test@1.37.1?classifier=sources

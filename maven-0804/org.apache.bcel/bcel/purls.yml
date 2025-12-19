@@ -17,3 +17,4 @@
 - pkg:maven/org.apache.bcel/bcel@6.5.0?classifier=sources
 - pkg:maven/org.apache.bcel/bcel@6.6.0?classifier=sources
 - pkg:maven/org.apache.bcel/bcel@6.6.1?classifier=sources
+- pkg:maven/org.apache.bcel/bcel@6.7.0?classifier=sources

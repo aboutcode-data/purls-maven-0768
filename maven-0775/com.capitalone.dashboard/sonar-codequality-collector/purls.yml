@@ -42,3 +42,5 @@
 - pkg:maven/com.capitalone.dashboard/sonar-codequality-collector@3.2.4?classifier=sources
 - pkg:maven/com.capitalone.dashboard/sonar-codequality-collector@3.2.5
 - pkg:maven/com.capitalone.dashboard/sonar-codequality-collector@3.2.5?classifier=sources
+- pkg:maven/com.capitalone.dashboard/sonar-codequality-collector@3.2.6
+- pkg:maven/com.capitalone.dashboard/sonar-codequality-collector@3.2.6?classifier=sources

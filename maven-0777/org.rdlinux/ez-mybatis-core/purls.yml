@@ -62,3 +62,5 @@
 - pkg:maven/org.rdlinux/ez-mybatis-core@0.3.0.RS?classifier=sources
 - pkg:maven/org.rdlinux/ez-mybatis-core@0.3.1.RS
 - pkg:maven/org.rdlinux/ez-mybatis-core@0.3.1.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-core@0.3.2.RS
+- pkg:maven/org.rdlinux/ez-mybatis-core@0.3.2.RS?classifier=sources

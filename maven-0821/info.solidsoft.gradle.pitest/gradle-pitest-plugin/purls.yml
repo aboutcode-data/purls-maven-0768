@@ -56,3 +56,5 @@
 - pkg:maven/info.solidsoft.gradle.pitest/gradle-pitest-plugin@1.7.4?classifier=sources
 - pkg:maven/info.solidsoft.gradle.pitest/gradle-pitest-plugin@1.9.0
 - pkg:maven/info.solidsoft.gradle.pitest/gradle-pitest-plugin@1.9.0?classifier=sources
+- pkg:maven/info.solidsoft.gradle.pitest/gradle-pitest-plugin@1.9.11
+- pkg:maven/info.solidsoft.gradle.pitest/gradle-pitest-plugin@1.9.11?classifier=sources

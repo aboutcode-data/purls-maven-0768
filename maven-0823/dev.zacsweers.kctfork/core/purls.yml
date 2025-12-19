@@ -1,0 +1,2 @@
+- pkg:maven/dev.zacsweers.kctfork/core@0.1.0-1.8.0-Beta01?classifier=sources
+- pkg:maven/dev.zacsweers.kctfork/core@0.1.0?classifier=sources

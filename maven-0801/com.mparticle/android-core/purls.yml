@@ -233,6 +233,8 @@
 - pkg:maven/com.mparticle/android-core@5.48.0?classifier=sources
 - pkg:maven/com.mparticle/android-core@5.48.1?classifier=sources
 - pkg:maven/com.mparticle/android-core@5.48.2?classifier=sources
+- pkg:maven/com.mparticle/android-core@5.48.3?classifier=sources
+- pkg:maven/com.mparticle/android-core@5.48.4?classifier=sources
 - pkg:maven/com.mparticle/android-core@5.5.0?type=aar
 - pkg:maven/com.mparticle/android-core@5.5.1?type=aar
 - pkg:maven/com.mparticle/android-core@5.6.0?type=aar

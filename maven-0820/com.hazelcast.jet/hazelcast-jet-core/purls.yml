@@ -49,4 +49,6 @@
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-core@4.5.2?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-core@4.5.3
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-core@4.5.3?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-core@4.5.4
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-core@4.5.4?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-core@4.5?classifier=sources

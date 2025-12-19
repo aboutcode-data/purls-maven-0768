@@ -1,4 +1,5 @@
 - pkg:maven/io.github.lowes/auditor-client@0.1.10?classifier=sources
 - pkg:maven/io.github.lowes/auditor-client@0.1.9?classifier=sources
 - pkg:maven/io.github.lowes/auditor-client@1.0.2?classifier=sources
+- pkg:maven/io.github.lowes/auditor-client@1.1.0?classifier=sources
 - pkg:maven/io.github.lowes/auditor-client@v1.0.1?classifier=sources

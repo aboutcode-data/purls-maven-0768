@@ -1,0 +1,2 @@
+- pkg:maven/com.scayle.storefrontapi/StorefrontClient@1.0.0
+- pkg:maven/com.scayle.storefrontapi/StorefrontClient@1.0.0?classifier=sources
