@@ -3,3 +3,4 @@
 - pkg:maven/io.github.eisop/checker-qual-android@3.0.0-b2
 - pkg:maven/io.github.eisop/checker-qual-android@3.0.0-b2?classifier=sources
 - pkg:maven/io.github.eisop/checker-qual-android@3.21.2-eisop1?classifier=sources
+- pkg:maven/io.github.eisop/checker-qual-android@3.21.3-eisop1?classifier=sources

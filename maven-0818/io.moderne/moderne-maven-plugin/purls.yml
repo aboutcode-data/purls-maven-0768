@@ -16,3 +16,5 @@
 - pkg:maven/io.moderne/moderne-maven-plugin@0.5.7
 - pkg:maven/io.moderne/moderne-maven-plugin@0.5.8
 - pkg:maven/io.moderne/moderne-maven-plugin@0.6.0
+- pkg:maven/io.moderne/moderne-maven-plugin@0.7.0
+- pkg:maven/io.moderne/moderne-maven-plugin@0.7.1

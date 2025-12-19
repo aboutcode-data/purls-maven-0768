@@ -102,3 +102,7 @@
 - pkg:maven/com.urbanairship/java-client@6.4.6?classifier=sources
 - pkg:maven/com.urbanairship/java-client@7.0.0
 - pkg:maven/com.urbanairship/java-client@7.0.0?classifier=sources
+- pkg:maven/com.urbanairship/java-client@7.1.0
+- pkg:maven/com.urbanairship/java-client@7.1.0?classifier=sources
+- pkg:maven/com.urbanairship/java-client@7.2.0
+- pkg:maven/com.urbanairship/java-client@7.2.0?classifier=sources

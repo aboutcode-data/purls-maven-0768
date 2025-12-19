@@ -4,3 +4,7 @@
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-batch-jsr352-core-orm6@6.1.0.Final?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-batch-jsr352-core-orm6@6.1.1.Final
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-batch-jsr352-core-orm6@6.1.1.Final?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-batch-jsr352-core-orm6@6.1.2.Final
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-batch-jsr352-core-orm6@6.1.2.Final?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-batch-jsr352-core-orm6@6.1.3.Final
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-batch-jsr352-core-orm6@6.1.3.Final?classifier=sources

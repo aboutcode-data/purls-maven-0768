@@ -17,3 +17,5 @@
 - pkg:maven/net.folivo/trixnity-core@1.1.6?classifier=sources
 - pkg:maven/net.folivo/trixnity-core@1.1.7?classifier=sources
 - pkg:maven/net.folivo/trixnity-core@1.1.8?classifier=sources
+- pkg:maven/net.folivo/trixnity-core@1.1.9?classifier=sources
+- pkg:maven/net.folivo/trixnity-core@1.2.0-RC1?classifier=sources

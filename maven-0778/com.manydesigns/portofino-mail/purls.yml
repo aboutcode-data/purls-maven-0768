@@ -40,3 +40,5 @@
 - pkg:maven/com.manydesigns/portofino-mail@5.2.1?classifier=sources
 - pkg:maven/com.manydesigns/portofino-mail@5.3.0
 - pkg:maven/com.manydesigns/portofino-mail@5.3.0?classifier=sources
+- pkg:maven/com.manydesigns/portofino-mail@5.3.1
+- pkg:maven/com.manydesigns/portofino-mail@5.3.1?classifier=sources

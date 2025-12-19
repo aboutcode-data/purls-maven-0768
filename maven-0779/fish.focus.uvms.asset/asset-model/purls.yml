@@ -1,0 +1,2 @@
+- pkg:maven/fish.focus.uvms.asset/asset-model@6.8.23?classifier=sources
+- pkg:maven/fish.focus.uvms.asset/asset-model@6.8.24?classifier=sources

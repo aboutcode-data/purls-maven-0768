@@ -12,3 +12,5 @@
 - pkg:maven/io.apicurio/apicurio-common-app-components-config-index-integration-tests@0.1.7.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-common-app-components-config-index-integration-tests@0.1.8.Final
 - pkg:maven/io.apicurio/apicurio-common-app-components-config-index-integration-tests@0.1.8.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-common-app-components-config-index-integration-tests@0.1.9.Final
+- pkg:maven/io.apicurio/apicurio-common-app-components-config-index-integration-tests@0.1.9.Final?classifier=sources

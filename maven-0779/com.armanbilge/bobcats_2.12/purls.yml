@@ -12,6 +12,8 @@
 - pkg:maven/com.armanbilge/bobcats_2.12@0.1-0521607?classifier=sources
 - pkg:maven/com.armanbilge/bobcats_2.12@0.1-053a891
 - pkg:maven/com.armanbilge/bobcats_2.12@0.1-053a891?classifier=sources
+- pkg:maven/com.armanbilge/bobcats_2.12@0.1-094962b
+- pkg:maven/com.armanbilge/bobcats_2.12@0.1-094962b?classifier=sources
 - pkg:maven/com.armanbilge/bobcats_2.12@0.1-0a6659d
 - pkg:maven/com.armanbilge/bobcats_2.12@0.1-0a6659d?classifier=sources
 - pkg:maven/com.armanbilge/bobcats_2.12@0.1-0add852

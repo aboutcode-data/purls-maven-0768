@@ -1,3 +1,6 @@
+- pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.10.10?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.10.11?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.10.12?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.10.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.10.2?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.10.3?classifier=sources
@@ -23,6 +26,11 @@
 - pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.13.2?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.13.3?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.14.0?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.14.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.15.0?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.15.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.15.3?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.15.4?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.15.5?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.16.0?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api.services/gravitee-apim-rest-api-services-subscription-pre-expiration-notif@3.16.1?classifier=sources

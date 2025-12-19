@@ -10,3 +10,5 @@
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.api@4.0.0?classifier=sources
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.api@4.1.0.202202101727
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.api@4.1.0.202202101727?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.api@4.1.1.202202162308
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.api@4.1.1.202202162308?classifier=sources

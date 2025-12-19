@@ -6,3 +6,5 @@
 - pkg:maven/cn.acyou/leo-framework-commons@1.1.1.RELEASE?classifier=sources
 - pkg:maven/cn.acyou/leo-framework-commons@1.1.2.RELEASE
 - pkg:maven/cn.acyou/leo-framework-commons@1.1.2.RELEASE?classifier=sources
+- pkg:maven/cn.acyou/leo-framework-commons@1.2.0.RELEASE
+- pkg:maven/cn.acyou/leo-framework-commons@1.2.0.RELEASE?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/money.terra/proto-kotlin@0.5.16?classifier=sources
 - pkg:maven/money.terra/proto-kotlin@0.5.5?classifier=sources
 - pkg:maven/money.terra/proto-kotlin@1.5.2?classifier=sources
 - pkg:maven/money.terra/proto-kotlin@1.5.3?classifier=sources

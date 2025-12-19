@@ -1,5 +1,7 @@
 - pkg:maven/me.friwi/jcef-natives-macosx-amd64@jcef-544024e%2Bcef-95.7.14%2Bg9f72f35%2Bchromium-95.0.4638.69
 - pkg:maven/me.friwi/jcef-natives-macosx-amd64@jcef-544024e%2Bcef-95.7.14%2Bg9f72f35%2Bchromium-95.0.4638.69?classifier=sources
+- pkg:maven/me.friwi/jcef-natives-macosx-amd64@jcef-56fb723%2Bcef-95.7.14%2Bg9f72f35%2Bchromium-95.0.4638.69
+- pkg:maven/me.friwi/jcef-natives-macosx-amd64@jcef-56fb723%2Bcef-95.7.14%2Bg9f72f35%2Bchromium-95.0.4638.69?classifier=sources
 - pkg:maven/me.friwi/jcef-natives-macosx-amd64@jcef-84f7798%2Bcef-95.7.14%2Bg9f72f35%2Bchromium-95.0.4638.69
 - pkg:maven/me.friwi/jcef-natives-macosx-amd64@jcef-84f7798%2Bcef-95.7.14%2Bg9f72f35%2Bchromium-95.0.4638.69?classifier=sources
 - pkg:maven/me.friwi/jcef-natives-macosx-amd64@jcef-a51ff7f%2Bcef-95.7.14%2Bg9f72f35%2Bchromium-95.0.4638.69

@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.webharvest/webharvest-core@2.0-wso2v3
+- pkg:maven/org.wso2.webharvest/webharvest-core@2.0-wso2v3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.webharvest/webharvest-core@2.0-wso2v3?classifier=sources
+- pkg:maven/org.wso2.webharvest/webharvest-core@2.0-wso2v4
+- pkg:maven/org.wso2.webharvest/webharvest-core@2.0-wso2v4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.webharvest/webharvest-core@2.0-wso2v4?classifier=sources

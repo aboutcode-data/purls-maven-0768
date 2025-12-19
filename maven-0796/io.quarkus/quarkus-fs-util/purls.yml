@@ -19,3 +19,6 @@
 - pkg:maven/io.quarkus/quarkus-fs-util@0.0.8
 - pkg:maven/io.quarkus/quarkus-fs-util@0.0.8?classifier=source-release&type=zip
 - pkg:maven/io.quarkus/quarkus-fs-util@0.0.8?classifier=sources
+- pkg:maven/io.quarkus/quarkus-fs-util@0.0.9
+- pkg:maven/io.quarkus/quarkus-fs-util@0.0.9?classifier=source-release&type=zip
+- pkg:maven/io.quarkus/quarkus-fs-util@0.0.9?classifier=sources

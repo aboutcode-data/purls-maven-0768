@@ -12,3 +12,9 @@
 - pkg:maven/org.jboss.elemento/elemento-core@1.0.2?classifier=sources
 - pkg:maven/org.jboss.elemento/elemento-core@1.0.3
 - pkg:maven/org.jboss.elemento/elemento-core@1.0.3?classifier=sources
+- pkg:maven/org.jboss.elemento/elemento-core@1.0.7
+- pkg:maven/org.jboss.elemento/elemento-core@1.0.7?classifier=sources
+- pkg:maven/org.jboss.elemento/elemento-core@1.0.8
+- pkg:maven/org.jboss.elemento/elemento-core@1.0.8-gwtcom
+- pkg:maven/org.jboss.elemento/elemento-core@1.0.8-gwtcom?classifier=sources
+- pkg:maven/org.jboss.elemento/elemento-core@1.0.8?classifier=sources

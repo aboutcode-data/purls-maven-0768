@@ -28,3 +28,9 @@
 - pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@1.0.28?classifier=sources
 - pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@1.0.29
 - pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@1.0.29?classifier=sources
+- pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@1.0.30
+- pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@1.0.30?classifier=sources
+- pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@1.0.31
+- pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@1.0.31?classifier=sources
+- pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@1.0.32
+- pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@1.0.32?classifier=sources

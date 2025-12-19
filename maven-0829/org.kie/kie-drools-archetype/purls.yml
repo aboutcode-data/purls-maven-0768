@@ -125,6 +125,8 @@
 - pkg:maven/org.kie/kie-drools-archetype@7.63.0.t20211129?classifier=sources
 - pkg:maven/org.kie/kie-drools-archetype@7.64.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-drools-archetype@7.65.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-drools-archetype@7.66.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-drools-archetype@7.67.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-drools-archetype@7.7.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-drools-archetype@7.8.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-drools-archetype@7.9.0.Final?classifier=sources
@@ -134,3 +136,6 @@
 - pkg:maven/org.kie/kie-drools-archetype@8.15.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-drools-archetype@8.16.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-drools-archetype@8.16.1.Beta?classifier=sources
+- pkg:maven/org.kie/kie-drools-archetype@8.17.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-drools-archetype@8.18.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-drools-archetype@8.19.0.Beta?classifier=sources

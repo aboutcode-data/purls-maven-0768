@@ -1,0 +1,12 @@
+- pkg:maven/io.github.skyXingren/multi-datasource-spring-boot-starter@1.0.0
+- pkg:maven/io.github.skyXingren/multi-datasource-spring-boot-starter@1.0.0.RELEASE
+- pkg:maven/io.github.skyXingren/multi-datasource-spring-boot-starter@1.0.0.RELEASE?classifier=sources
+- pkg:maven/io.github.skyXingren/multi-datasource-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/io.github.skyXingren/multi-datasource-spring-boot-starter@1.0.1.RELEASE
+- pkg:maven/io.github.skyXingren/multi-datasource-spring-boot-starter@1.0.1.RELEASE?classifier=sources
+- pkg:maven/io.github.skyXingren/multi-datasource-spring-boot-starter@1.0.2.RELEASE
+- pkg:maven/io.github.skyXingren/multi-datasource-spring-boot-starter@1.0.2.RELEASE?classifier=sources
+- pkg:maven/io.github.skyXingren/multi-datasource-spring-boot-starter@1.0.3.RELEASE
+- pkg:maven/io.github.skyXingren/multi-datasource-spring-boot-starter@1.0.3.RELEASE?classifier=sources
+- pkg:maven/io.github.skyXingren/multi-datasource-spring-boot-starter@1.0.4.RELEASE
+- pkg:maven/io.github.skyXingren/multi-datasource-spring-boot-starter@1.0.4.RELEASE?classifier=sources

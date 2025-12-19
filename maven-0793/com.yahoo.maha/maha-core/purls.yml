@@ -72,3 +72,13 @@
 - pkg:maven/com.yahoo.maha/maha-core@6.92?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-core@6.93
 - pkg:maven/com.yahoo.maha/maha-core@6.93?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-core@6.94
+- pkg:maven/com.yahoo.maha/maha-core@6.94?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-core@6.95
+- pkg:maven/com.yahoo.maha/maha-core@6.95?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-core@6.96
+- pkg:maven/com.yahoo.maha/maha-core@6.96?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-core@6.97
+- pkg:maven/com.yahoo.maha/maha-core@6.97?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-core@6.98
+- pkg:maven/com.yahoo.maha/maha-core@6.98?classifier=sources

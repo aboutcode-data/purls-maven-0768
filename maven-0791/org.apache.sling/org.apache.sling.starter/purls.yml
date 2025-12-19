@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.sling/org.apache.sling.starter@10?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.starter@11?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.starter@11?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.starter@12?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.starter@12?classifier=sources

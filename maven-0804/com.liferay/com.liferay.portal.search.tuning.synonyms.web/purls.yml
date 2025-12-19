@@ -49,6 +49,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@1.0.36
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@1.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@1.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@1.0.37
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@1.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@1.0.37?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@2.0.24
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@2.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@2.0.24?classifier=sources-commercial
@@ -161,6 +164,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.26
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.27
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.28
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.3

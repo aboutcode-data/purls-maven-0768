@@ -30,6 +30,7 @@
 - pkg:maven/com.zepben/evolve-sdk@0.7.0-SNAPSHOT9
 - pkg:maven/com.zepben/evolve-sdk@0.7.0-SNAPSHOT9?classifier=sources
 - pkg:maven/com.zepben/evolve-sdk@0.7.0?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.8.0
 - pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT1
 - pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT10
 - pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT10?classifier=sources
@@ -39,6 +40,12 @@
 - pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT12?classifier=sources
 - pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT13
 - pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT13?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT14
+- pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT14?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT15
+- pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT15?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT16
+- pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT16?classifier=sources
 - pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT1?classifier=sources
 - pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT2
 - pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT2?classifier=sources
@@ -56,3 +63,16 @@
 - pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT8?classifier=sources
 - pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT9
 - pkg:maven/com.zepben/evolve-sdk@0.8.0-SNAPSHOT9?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.8.0?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.9.0-SNAPSHOT1
+- pkg:maven/com.zepben/evolve-sdk@0.9.0-SNAPSHOT1?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.9.0-SNAPSHOT2
+- pkg:maven/com.zepben/evolve-sdk@0.9.0-SNAPSHOT2?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.9.0-SNAPSHOT3
+- pkg:maven/com.zepben/evolve-sdk@0.9.0-SNAPSHOT3?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.9.0-SNAPSHOT4
+- pkg:maven/com.zepben/evolve-sdk@0.9.0-SNAPSHOT4?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.9.0-SNAPSHOT5
+- pkg:maven/com.zepben/evolve-sdk@0.9.0-SNAPSHOT5?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.9.0-SNAPSHOT6
+- pkg:maven/com.zepben/evolve-sdk@0.9.0-SNAPSHOT6?classifier=sources

@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-api-ejbmodule@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-api-ejbmodule@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-api-ejbmodule@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-api-ejbmodule@RELEASE130?classifier=sources

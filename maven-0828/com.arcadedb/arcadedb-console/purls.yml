@@ -16,3 +16,5 @@
 - pkg:maven/com.arcadedb/arcadedb-console@22.1.2?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-console@22.1.3
 - pkg:maven/com.arcadedb/arcadedb-console@22.1.3?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-console@22.2.1
+- pkg:maven/com.arcadedb/arcadedb-console@22.2.1?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/com.gitlab.cdc-java.gv/cdc-gv-api@0.92.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.gv/cdc-gv-api@0.95.0
 - pkg:maven/com.gitlab.cdc-java.gv/cdc-gv-api@0.95.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.gv/cdc-gv-api@0.95.1
+- pkg:maven/com.gitlab.cdc-java.gv/cdc-gv-api@0.95.1?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.gv/cdc-gv-api@0.95.2
+- pkg:maven/com.gitlab.cdc-java.gv/cdc-gv-api@0.95.2?classifier=sources

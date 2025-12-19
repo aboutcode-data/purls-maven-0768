@@ -10,3 +10,5 @@
 - pkg:maven/io.avaje/classpath-scanner@6.1?classifier=sources
 - pkg:maven/io.avaje/classpath-scanner@6.2
 - pkg:maven/io.avaje/classpath-scanner@6.2?classifier=sources
+- pkg:maven/io.avaje/classpath-scanner@7.0
+- pkg:maven/io.avaje/classpath-scanner@7.0?classifier=sources

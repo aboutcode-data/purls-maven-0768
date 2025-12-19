@@ -1,6 +1,7 @@
 - pkg:maven/org.ow2.authzforce/authzforce-ce-server-upgrader@10.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-server-upgrader@10.1.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-server-upgrader@10.1.1?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-server-upgrader@11.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-server-upgrader@5.1.2?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-server-upgrader@5.2.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-server-upgrader@5.3.0?classifier=sources

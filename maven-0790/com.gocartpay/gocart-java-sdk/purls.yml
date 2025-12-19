@@ -1,0 +1,4 @@
+- pkg:maven/com.gocartpay/gocart-java-sdk@1.0.0
+- pkg:maven/com.gocartpay/gocart-java-sdk@1.0.0?classifier=sources
+- pkg:maven/com.gocartpay/gocart-java-sdk@2.0.0
+- pkg:maven/com.gocartpay/gocart-java-sdk@2.0.0?classifier=sources

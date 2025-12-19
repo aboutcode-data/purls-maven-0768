@@ -20,6 +20,10 @@
 - pkg:maven/com.xzchaoo.commons/commons-asyncexecutor@1.0.9?classifier=sources
 - pkg:maven/com.xzchaoo.commons/commons-asyncexecutor@1.1.0
 - pkg:maven/com.xzchaoo.commons/commons-asyncexecutor@1.1.0?classifier=sources
+- pkg:maven/com.xzchaoo.commons/commons-asyncexecutor@1.10.0
+- pkg:maven/com.xzchaoo.commons/commons-asyncexecutor@1.10.0?classifier=sources
+- pkg:maven/com.xzchaoo.commons/commons-asyncexecutor@1.10.1
+- pkg:maven/com.xzchaoo.commons/commons-asyncexecutor@1.10.1?classifier=sources
 - pkg:maven/com.xzchaoo.commons/commons-asyncexecutor@1.2.0
 - pkg:maven/com.xzchaoo.commons/commons-asyncexecutor@1.2.0?classifier=sources
 - pkg:maven/com.xzchaoo.commons/commons-asyncexecutor@1.3.0

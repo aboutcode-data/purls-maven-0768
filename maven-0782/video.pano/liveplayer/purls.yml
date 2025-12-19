@@ -9,4 +9,6 @@
 - pkg:maven/video.pano/liveplayer@0.9.8?classifier=sources
 - pkg:maven/video.pano/liveplayer@0.9.9.1?classifier=sources
 - pkg:maven/video.pano/liveplayer@0.9.9.2?classifier=sources
+- pkg:maven/video.pano/liveplayer@0.9.9.3?classifier=sources
+- pkg:maven/video.pano/liveplayer@0.9.9.4?classifier=sources
 - pkg:maven/video.pano/liveplayer@0.9.9?classifier=sources

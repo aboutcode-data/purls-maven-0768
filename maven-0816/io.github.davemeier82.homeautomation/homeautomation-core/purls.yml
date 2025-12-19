@@ -1,0 +1,2 @@
+- pkg:maven/io.github.davemeier82.homeautomation/homeautomation-core@0.1.0
+- pkg:maven/io.github.davemeier82.homeautomation/homeautomation-core@0.1.0?classifier=sources

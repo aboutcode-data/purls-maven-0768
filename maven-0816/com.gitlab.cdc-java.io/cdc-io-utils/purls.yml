@@ -14,3 +14,7 @@
 - pkg:maven/com.gitlab.cdc-java.io/cdc-io-utils@0.13.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.io/cdc-io-utils@0.20.0
 - pkg:maven/com.gitlab.cdc-java.io/cdc-io-utils@0.20.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.io/cdc-io-utils@0.21.0
+- pkg:maven/com.gitlab.cdc-java.io/cdc-io-utils@0.21.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.io/cdc-io-utils@0.21.1
+- pkg:maven/com.gitlab.cdc-java.io/cdc-io-utils@0.21.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.vertxup/infix-oracle@0.8.1
+- pkg:maven/cn.vertxup/infix-oracle@0.8.1?classifier=sources

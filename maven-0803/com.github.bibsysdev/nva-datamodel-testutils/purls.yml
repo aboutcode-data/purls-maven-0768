@@ -10,3 +10,4 @@
 - pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.14.23?classifier=sources
 - pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.15.0?classifier=sources
 - pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.15.1?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.16.0?classifier=sources

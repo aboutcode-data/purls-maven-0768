@@ -99,4 +99,12 @@
 - pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2-97-2fdd099
 - pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2-97-2fdd099?classifier=sources
 - pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.0
+- pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.0-216-61bf79f
+- pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.0-216-61bf79f?classifier=sources
 - pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.0?classifier=sources
+- pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.1
+- pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.1-2-e02c3f6
+- pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.1-2-e02c3f6?classifier=sources
+- pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.1?classifier=sources
+- pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.2
+- pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.2?classifier=sources

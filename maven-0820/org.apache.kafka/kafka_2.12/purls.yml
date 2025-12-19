@@ -69,4 +69,5 @@
 - pkg:maven/org.apache.kafka/kafka_2.12@2.8.1
 - pkg:maven/org.apache.kafka/kafka_2.12@2.8.1?classifier=sources
 - pkg:maven/org.apache.kafka/kafka_2.12@3.0.0?classifier=sources
+- pkg:maven/org.apache.kafka/kafka_2.12@3.0.1?classifier=sources
 - pkg:maven/org.apache.kafka/kafka_2.12@3.1.0?classifier=sources

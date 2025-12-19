@@ -12,3 +12,5 @@
 - pkg:maven/org.snf4j/snf4j-core-log4j2@1.7.0?classifier=sources
 - pkg:maven/org.snf4j/snf4j-core-log4j2@1.8.0
 - pkg:maven/org.snf4j/snf4j-core-log4j2@1.8.0?classifier=sources
+- pkg:maven/org.snf4j/snf4j-core-log4j2@1.9.0
+- pkg:maven/org.snf4j/snf4j-core-log4j2@1.9.0?classifier=sources

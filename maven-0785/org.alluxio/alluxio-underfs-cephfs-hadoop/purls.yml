@@ -7,6 +7,10 @@
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@2.6.2-1?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@2.6.2-2
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@2.6.2-2?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@2.6.2-3
+- pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@2.6.2-3?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@2.6.2-4
+- pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@2.6.2-4?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@2.6.2?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@2.7.0
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@2.7.0?classifier=sources

@@ -95,6 +95,8 @@
 - pkg:maven/de.retest/recheck@1.12.0-beta.2
 - pkg:maven/de.retest/recheck@1.12.0-beta.2?classifier=sources
 - pkg:maven/de.retest/recheck@1.12.0?classifier=sources
+- pkg:maven/de.retest/recheck@1.13.0
+- pkg:maven/de.retest/recheck@1.13.0?classifier=sources
 - pkg:maven/de.retest/recheck@1.2.0
 - pkg:maven/de.retest/recheck@1.2.0-beta.1
 - pkg:maven/de.retest/recheck@1.2.0-beta.1?classifier=sources

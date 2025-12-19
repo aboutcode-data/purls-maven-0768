@@ -1,0 +1,4 @@
+- pkg:maven/fish.focus.uvms.audit/audit-module@4.3.11?classifier=sources
+- pkg:maven/fish.focus.uvms.audit/audit-module@4.3.11?type=war
+- pkg:maven/fish.focus.uvms.audit/audit-module@4.3.12?classifier=sources
+- pkg:maven/fish.focus.uvms.audit/audit-module@4.3.12?type=war

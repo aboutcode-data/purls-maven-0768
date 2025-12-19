@@ -30,3 +30,5 @@
 - pkg:maven/com.github.psi-probe/psi-probe-web@3.5.5?type=war
 - pkg:maven/com.github.psi-probe/psi-probe-web@3.5.6?classifier=sources
 - pkg:maven/com.github.psi-probe/psi-probe-web@3.5.6?type=war
+- pkg:maven/com.github.psi-probe/psi-probe-web@3.5.7?classifier=sources
+- pkg:maven/com.github.psi-probe/psi-probe-web@3.5.7?type=war

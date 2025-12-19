@@ -15,3 +15,6 @@
 - pkg:maven/com.ivianuu.injekt/injekt-core-js@0.0.1-dev672?classifier=sources
 - pkg:maven/com.ivianuu.injekt/injekt-core-js@0.0.1-dev673?classifier=sources
 - pkg:maven/com.ivianuu.injekt/injekt-core-js@0.0.1-dev674?classifier=sources
+- pkg:maven/com.ivianuu.injekt/injekt-core-js@0.0.1-dev675?classifier=sources
+- pkg:maven/com.ivianuu.injekt/injekt-core-js@0.0.1-dev682?classifier=sources
+- pkg:maven/com.ivianuu.injekt/injekt-core-js@0.0.1-dev683?classifier=sources

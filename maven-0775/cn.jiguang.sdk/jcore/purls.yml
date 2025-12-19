@@ -15,3 +15,6 @@
 - pkg:maven/cn.jiguang.sdk/jcore@3.0.0?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore@3.1.0?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore@3.1.2?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore@3.1.6?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore@3.2.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore@3.2.2?classifier=sources

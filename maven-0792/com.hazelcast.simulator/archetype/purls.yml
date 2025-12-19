@@ -42,3 +42,5 @@
 - pkg:maven/com.hazelcast.simulator/archetype@0.9.9
 - pkg:maven/com.hazelcast.simulator/archetype@0.9.9?classifier=sources
 - pkg:maven/com.hazelcast.simulator/archetype@0.9?classifier=sources
+- pkg:maven/com.hazelcast.simulator/archetype@1.0
+- pkg:maven/com.hazelcast.simulator/archetype@1.0?classifier=sources

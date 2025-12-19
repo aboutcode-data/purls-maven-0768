@@ -21,3 +21,5 @@
 - pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-default-execmodel-wrapper@7.63.0.Final
 - pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-default-execmodel-wrapper@7.64.0.Final
 - pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-default-execmodel-wrapper@7.65.0.Final
+- pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-default-execmodel-wrapper@7.66.0.Final
+- pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-default-execmodel-wrapper@7.67.0.Final

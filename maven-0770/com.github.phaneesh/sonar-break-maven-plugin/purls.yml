@@ -1,0 +1,2 @@
+- pkg:maven/com.github.phaneesh/sonar-break-maven-plugin@1.2.7
+- pkg:maven/com.github.phaneesh/sonar-break-maven-plugin@1.2.7?classifier=sources

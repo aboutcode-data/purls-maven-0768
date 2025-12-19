@@ -8,3 +8,5 @@
 - pkg:maven/nl.geodienstencentrum.maven/schemaspy-maven-plugin@5.2.0-RC
 - pkg:maven/nl.geodienstencentrum.maven/schemaspy-maven-plugin@5.2.0-RC?classifier=sources
 - pkg:maven/nl.geodienstencentrum.maven/schemaspy-maven-plugin@5.2.0?classifier=sources
+- pkg:maven/nl.geodienstencentrum.maven/schemaspy-maven-plugin@5.2.1
+- pkg:maven/nl.geodienstencentrum.maven/schemaspy-maven-plugin@5.2.1?classifier=sources

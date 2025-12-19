@@ -1,0 +1,6 @@
+- pkg:maven/com.aliyun/alibabacloud-sls20201230@1.0.2-beta
+- pkg:maven/com.aliyun/alibabacloud-sls20201230@1.0.2-beta?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-sls20201230@1.0.3
+- pkg:maven/com.aliyun/alibabacloud-sls20201230@1.0.3?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-sls20201230@1.0.4
+- pkg:maven/com.aliyun/alibabacloud-sls20201230@1.0.4?classifier=sources

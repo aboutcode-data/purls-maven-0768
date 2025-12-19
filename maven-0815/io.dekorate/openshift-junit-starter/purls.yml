@@ -91,4 +91,5 @@
 - pkg:maven/io.dekorate/openshift-junit-starter@2.6.0
 - pkg:maven/io.dekorate/openshift-junit-starter@2.7.0
 - pkg:maven/io.dekorate/openshift-junit-starter@2.8.0
+- pkg:maven/io.dekorate/openshift-junit-starter@2.8.1
 - pkg:maven/io.dekorate/openshift-junit-starter@2.9.0

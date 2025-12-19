@@ -613,3 +613,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.api@5.4.3
 - pkg:maven/com.liferay/com.liferay.portal.search.api@5.4.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@5.4.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.api@5.4.4
+- pkg:maven/com.liferay/com.liferay.portal.search.api@5.4.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.api@5.4.4?classifier=sources-commercial

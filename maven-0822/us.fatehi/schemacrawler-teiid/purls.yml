@@ -1,0 +1,4 @@
+- pkg:maven/us.fatehi/schemacrawler-teiid@16.16.12
+- pkg:maven/us.fatehi/schemacrawler-teiid@16.16.12?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-teiid@16.16.14
+- pkg:maven/us.fatehi/schemacrawler-teiid@16.16.14?classifier=sources

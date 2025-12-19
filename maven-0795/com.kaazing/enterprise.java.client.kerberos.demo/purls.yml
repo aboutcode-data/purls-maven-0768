@@ -1,0 +1,2 @@
+- pkg:maven/com.kaazing/enterprise.java.client.kerberos.demo@4.2.6
+- pkg:maven/com.kaazing/enterprise.java.client.kerberos.demo@4.2.6?classifier=sources

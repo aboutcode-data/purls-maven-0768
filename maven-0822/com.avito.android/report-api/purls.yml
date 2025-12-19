@@ -31,3 +31,4 @@
 - pkg:maven/com.avito.android/report-api@2021.40?classifier=sources
 - pkg:maven/com.avito.android/report-api@2021.41?classifier=sources
 - pkg:maven/com.avito.android/report-api@2021.42?classifier=sources
+- pkg:maven/com.avito.android/report-api@2022.1?classifier=sources

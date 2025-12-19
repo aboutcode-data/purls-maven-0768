@@ -1,0 +1,1 @@
+- pkg:maven/org.keycloak.bom/keycloak-bom-parent@17.0.0?classifier=source-release&type=zip

@@ -2,3 +2,5 @@
 - pkg:maven/ru.yoomoney.tech/db-queue-scheduler-example-spring@3.0.0?classifier=sources
 - pkg:maven/ru.yoomoney.tech/db-queue-scheduler-example-spring@3.1.0?classifier=sources
 - pkg:maven/ru.yoomoney.tech/db-queue-scheduler-example-spring@3.1.1?classifier=sources
+- pkg:maven/ru.yoomoney.tech/db-queue-scheduler-example-spring@3.1.2?classifier=sources
+- pkg:maven/ru.yoomoney.tech/db-queue-scheduler-example-spring@3.2.0?classifier=sources

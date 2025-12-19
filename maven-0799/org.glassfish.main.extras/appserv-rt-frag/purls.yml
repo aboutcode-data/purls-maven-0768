@@ -26,3 +26,5 @@
 - pkg:maven/org.glassfish.main.extras/appserv-rt-frag@6.2.4?classifier=sources
 - pkg:maven/org.glassfish.main.extras/appserv-rt-frag@6.2.5?classifier=sources
 - pkg:maven/org.glassfish.main.extras/appserv-rt-frag@7.0.0-M1?classifier=sources
+- pkg:maven/org.glassfish.main.extras/appserv-rt-frag@7.0.0-M2?classifier=sources
+- pkg:maven/org.glassfish.main.extras/appserv-rt-frag@7.0.0-M3?classifier=sources

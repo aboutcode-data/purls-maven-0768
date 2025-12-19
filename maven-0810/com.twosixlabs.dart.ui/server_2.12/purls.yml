@@ -1,0 +1,6 @@
+- pkg:maven/com.twosixlabs.dart.ui/server_2.12@3.0.14
+- pkg:maven/com.twosixlabs.dart.ui/server_2.12@3.0.14?classifier=sources
+- pkg:maven/com.twosixlabs.dart.ui/server_2.12@3.0.17
+- pkg:maven/com.twosixlabs.dart.ui/server_2.12@3.0.17?classifier=sources
+- pkg:maven/com.twosixlabs.dart.ui/server_2.12@3.0.20
+- pkg:maven/com.twosixlabs.dart.ui/server_2.12@3.0.20?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/net.wooga/unity-version-manager-jni@1.3.3?classifier=sources
 - pkg:maven/net.wooga/unity-version-manager-jni@1.3.4?classifier=sources
 - pkg:maven/net.wooga/unity-version-manager-jni@1.4.0?classifier=sources
+- pkg:maven/net.wooga/unity-version-manager-jni@1.4.1?classifier=sources

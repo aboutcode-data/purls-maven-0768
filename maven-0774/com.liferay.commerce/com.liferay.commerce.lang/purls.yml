@@ -114,6 +114,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@1.0.133
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@1.0.133?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@1.0.133?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@1.0.134
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@1.0.134?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@1.0.134?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@1.0.13?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@1.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@1.0.14
@@ -509,6 +512,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@2.0.43
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@2.0.43?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@2.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@2.0.44
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@2.0.44?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@2.0.44?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@2.0.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@2.0.5
@@ -731,6 +737,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@3.0.74
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@3.0.74?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@3.0.74?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@3.0.75
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@3.0.75?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@3.0.75?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@3.0.76
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@3.0.76?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@3.0.76?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@3.0.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@3.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.lang@3.0.8

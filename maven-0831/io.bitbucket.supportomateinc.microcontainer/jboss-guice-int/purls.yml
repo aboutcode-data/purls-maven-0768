@@ -1,0 +1,2 @@
+- pkg:maven/io.bitbucket.supportomateinc.microcontainer/jboss-guice-int@2.2.0.M2
+- pkg:maven/io.bitbucket.supportomateinc.microcontainer/jboss-guice-int@2.2.0.M2?classifier=sources

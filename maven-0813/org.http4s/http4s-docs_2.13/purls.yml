@@ -1,0 +1,4 @@
+- pkg:maven/org.http4s/http4s-docs_2.13@0.23.11
+- pkg:maven/org.http4s/http4s-docs_2.13@0.23.11?classifier=sources
+- pkg:maven/org.http4s/http4s-docs_2.13@1.0.0-M32
+- pkg:maven/org.http4s/http4s-docs_2.13@1.0.0-M32?classifier=sources

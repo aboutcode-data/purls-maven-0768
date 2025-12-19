@@ -4,6 +4,8 @@
 - pkg:maven/org.scalaz/scalaz-effect_3@7.3.6?classifier=sources
 - pkg:maven/org.scalaz/scalaz-effect_3@7.4.0-M10
 - pkg:maven/org.scalaz/scalaz-effect_3@7.4.0-M10?classifier=sources
+- pkg:maven/org.scalaz/scalaz-effect_3@7.4.0-M11
+- pkg:maven/org.scalaz/scalaz-effect_3@7.4.0-M11?classifier=sources
 - pkg:maven/org.scalaz/scalaz-effect_3@7.4.0-M7
 - pkg:maven/org.scalaz/scalaz-effect_3@7.4.0-M7?classifier=sources
 - pkg:maven/org.scalaz/scalaz-effect_3@7.4.0-M8

@@ -1,2 +1,4 @@
 - pkg:maven/io.runon.cryptocurrency/exchange-binance-futures@1.0.9
+- pkg:maven/io.runon.cryptocurrency/exchange-binance-futures@1.0.91
+- pkg:maven/io.runon.cryptocurrency/exchange-binance-futures@1.0.91?classifier=sources
 - pkg:maven/io.runon.cryptocurrency/exchange-binance-futures@1.0.9?classifier=sources

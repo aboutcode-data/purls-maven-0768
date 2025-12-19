@@ -1,0 +1,2 @@
+- pkg:maven/net.rossonet/bottegaio-backend@0.1.10?classifier=sources
+- pkg:maven/net.rossonet/bottegaio-backend@0.1.9?classifier=sources

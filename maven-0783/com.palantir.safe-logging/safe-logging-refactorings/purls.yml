@@ -23,3 +23,6 @@
 - pkg:maven/com.palantir.safe-logging/safe-logging-refactorings@1.19.0?classifier=sources
 - pkg:maven/com.palantir.safe-logging/safe-logging-refactorings@1.20.0?classifier=sources
 - pkg:maven/com.palantir.safe-logging/safe-logging-refactorings@1.21.0?classifier=sources
+- pkg:maven/com.palantir.safe-logging/safe-logging-refactorings@1.22.0?classifier=sources
+- pkg:maven/com.palantir.safe-logging/safe-logging-refactorings@1.23.0?classifier=sources
+- pkg:maven/com.palantir.safe-logging/safe-logging-refactorings@1.24.0?classifier=sources

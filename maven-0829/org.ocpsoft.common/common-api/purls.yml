@@ -4,3 +4,5 @@
 - pkg:maven/org.ocpsoft.common/common-api@1.0.4.Final?classifier=sources
 - pkg:maven/org.ocpsoft.common/common-api@1.0.5.Final
 - pkg:maven/org.ocpsoft.common/common-api@1.0.5.Final?classifier=sources
+- pkg:maven/org.ocpsoft.common/common-api@1.0.6.Final
+- pkg:maven/org.ocpsoft.common/common-api@1.0.6.Final?classifier=sources

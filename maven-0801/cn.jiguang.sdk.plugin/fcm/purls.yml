@@ -17,3 +17,6 @@
 - pkg:maven/cn.jiguang.sdk.plugin/fcm@4.4.0?classifier=sources
 - pkg:maven/cn.jiguang.sdk.plugin/fcm@4.4.5?classifier=sources
 - pkg:maven/cn.jiguang.sdk.plugin/fcm@4.5.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk.plugin/fcm@4.6.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk.plugin/fcm@4.6.2?classifier=sources
+- pkg:maven/cn.jiguang.sdk.plugin/fcm@4.6.3?classifier=sources

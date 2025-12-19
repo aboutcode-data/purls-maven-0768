@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/umeng_uapp20220225@1.0.0
+- pkg:maven/com.aliyun/umeng_uapp20220225@1.0.0?classifier=sources

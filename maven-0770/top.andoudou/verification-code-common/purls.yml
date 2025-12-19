@@ -1,0 +1,2 @@
+- pkg:maven/top.andoudou/verification-code-common@1.2.1
+- pkg:maven/top.andoudou/verification-code-common@1.2.1?classifier=sources

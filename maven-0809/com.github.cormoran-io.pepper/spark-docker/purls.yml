@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cormoran-io.pepper/spark-docker@2.2
+- pkg:maven/com.github.cormoran-io.pepper/spark-docker@2.2?classifier=sources

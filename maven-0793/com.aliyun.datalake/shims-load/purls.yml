@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.datalake/shims-load@0.2.14
+- pkg:maven/com.aliyun.datalake/shims-load@0.2.14?classifier=sources

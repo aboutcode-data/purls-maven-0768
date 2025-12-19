@@ -12,3 +12,5 @@
 - pkg:maven/uk.co.gresearch.siembol/config-editor-services@2.1.0?classifier=sources
 - pkg:maven/uk.co.gresearch.siembol/config-editor-services@2.2.0
 - pkg:maven/uk.co.gresearch.siembol/config-editor-services@2.2.0?classifier=sources
+- pkg:maven/uk.co.gresearch.siembol/config-editor-services@2.3.0
+- pkg:maven/uk.co.gresearch.siembol/config-editor-services@2.3.0?classifier=sources

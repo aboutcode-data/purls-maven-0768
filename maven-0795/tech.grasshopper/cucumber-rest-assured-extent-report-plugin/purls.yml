@@ -1,0 +1,6 @@
+- pkg:maven/tech.grasshopper/cucumber-rest-assured-extent-report-plugin@1.0.0
+- pkg:maven/tech.grasshopper/cucumber-rest-assured-extent-report-plugin@1.0.0?classifier=sources
+- pkg:maven/tech.grasshopper/cucumber-rest-assured-extent-report-plugin@1.1.0
+- pkg:maven/tech.grasshopper/cucumber-rest-assured-extent-report-plugin@1.1.0?classifier=sources
+- pkg:maven/tech.grasshopper/cucumber-rest-assured-extent-report-plugin@1.1.1
+- pkg:maven/tech.grasshopper/cucumber-rest-assured-extent-report-plugin@1.1.1?classifier=sources

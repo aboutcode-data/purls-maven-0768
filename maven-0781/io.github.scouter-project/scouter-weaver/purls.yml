@@ -1,2 +1,4 @@
 - pkg:maven/io.github.scouter-project/scouter-weaver@2.16.0
 - pkg:maven/io.github.scouter-project/scouter-weaver@2.16.0?classifier=sources
+- pkg:maven/io.github.scouter-project/scouter-weaver@2.17.1
+- pkg:maven/io.github.scouter-project/scouter-weaver@2.17.1?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/aws.smithy.kotlin/crt-util@0.8.0?classifier=sources

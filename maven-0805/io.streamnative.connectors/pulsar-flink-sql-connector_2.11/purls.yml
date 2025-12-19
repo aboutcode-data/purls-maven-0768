@@ -60,5 +60,15 @@
 - pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.13.1.5-rc2?classifier=sources
 - pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.13.1.5-rc3
 - pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.13.1.5-rc3?classifier=sources
+- pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.14.3.0-rc10
+- pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.14.3.0-rc10?classifier=sources
+- pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.14.3.0-rc11
+- pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.14.3.0-rc11?classifier=sources
+- pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.14.3.0-rc12
+- pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.14.3.0-rc12?classifier=sources
+- pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.14.3.0-rc13
+- pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.14.3.0-rc13?classifier=sources
+- pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.14.3.0-rc9
+- pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.14.3.0-rc9?classifier=sources
 - pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.9.3.1
 - pkg:maven/io.streamnative.connectors/pulsar-flink-sql-connector_2.11@1.9.3.1?classifier=sources

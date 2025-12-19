@@ -812,6 +812,8 @@
 - pkg:maven/net.openhft/chronicle-wire@2.21ea8?classifier=sources
 - pkg:maven/net.openhft/chronicle-wire@2.21ea9
 - pkg:maven/net.openhft/chronicle-wire@2.21ea9?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@2.22.17
+- pkg:maven/net.openhft/chronicle-wire@2.22.17?classifier=sources
 - pkg:maven/net.openhft/chronicle-wire@2.22ea1
 - pkg:maven/net.openhft/chronicle-wire@2.22ea10
 - pkg:maven/net.openhft/chronicle-wire@2.22ea10?classifier=sources
@@ -823,6 +825,10 @@
 - pkg:maven/net.openhft/chronicle-wire@2.22ea13?classifier=sources
 - pkg:maven/net.openhft/chronicle-wire@2.22ea14
 - pkg:maven/net.openhft/chronicle-wire@2.22ea14?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@2.22ea15
+- pkg:maven/net.openhft/chronicle-wire@2.22ea15?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@2.22ea16
+- pkg:maven/net.openhft/chronicle-wire@2.22ea16?classifier=sources
 - pkg:maven/net.openhft/chronicle-wire@2.22ea1?classifier=sources
 - pkg:maven/net.openhft/chronicle-wire@2.22ea2
 - pkg:maven/net.openhft/chronicle-wire@2.22ea2?classifier=sources
@@ -838,3 +844,11 @@
 - pkg:maven/net.openhft/chronicle-wire@2.22ea8?classifier=sources
 - pkg:maven/net.openhft/chronicle-wire@2.22ea9
 - pkg:maven/net.openhft/chronicle-wire@2.22ea9?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@2.23ea0
+- pkg:maven/net.openhft/chronicle-wire@2.23ea0?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@2.23ea1
+- pkg:maven/net.openhft/chronicle-wire@2.23ea1?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@2.23ea2
+- pkg:maven/net.openhft/chronicle-wire@2.23ea2?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@2.23ea3
+- pkg:maven/net.openhft/chronicle-wire@2.23ea3?classifier=sources

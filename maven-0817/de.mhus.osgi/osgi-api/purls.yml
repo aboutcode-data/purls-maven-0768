@@ -6,3 +6,5 @@
 - pkg:maven/de.mhus.osgi/osgi-api@7.2.0?classifier=sources
 - pkg:maven/de.mhus.osgi/osgi-api@7.3.0
 - pkg:maven/de.mhus.osgi/osgi-api@7.3.0?classifier=sources
+- pkg:maven/de.mhus.osgi/osgi-api@7.8.0
+- pkg:maven/de.mhus.osgi/osgi-api@7.8.0?classifier=sources

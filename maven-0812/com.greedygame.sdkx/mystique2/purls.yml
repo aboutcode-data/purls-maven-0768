@@ -11,4 +11,5 @@
 - pkg:maven/com.greedygame.sdkx/mystique2@0.0.91?classifier=sources
 - pkg:maven/com.greedygame.sdkx/mystique2@0.0.92-beta1?classifier=sources
 - pkg:maven/com.greedygame.sdkx/mystique2@0.0.93?classifier=sources
+- pkg:maven/com.greedygame.sdkx/mystique2@0.0.94?classifier=sources
 - pkg:maven/com.greedygame.sdkx/mystique2@v-dev?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.redlink.nlp/ner-opennlp-es@3.0.0
+- pkg:maven/io.redlink.nlp/ner-opennlp-es@3.0.0?classifier=sources

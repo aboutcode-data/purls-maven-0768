@@ -2,3 +2,4 @@
 - pkg:maven/com.anaplan.engineering/vdm-pretty-printer@2.6.2?classifier=sources
 - pkg:maven/com.anaplan.engineering/vdm-pretty-printer@2.6.4
 - pkg:maven/com.anaplan.engineering/vdm-pretty-printer@2.6.4?classifier=sources
+- pkg:maven/com.anaplan.engineering/vdm-pretty-printer@3.0.2?classifier=sources

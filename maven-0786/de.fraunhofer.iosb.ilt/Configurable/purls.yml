@@ -2,3 +2,7 @@
 - pkg:maven/de.fraunhofer.iosb.ilt/Configurable@0.30?classifier=sources
 - pkg:maven/de.fraunhofer.iosb.ilt/Configurable@0.31
 - pkg:maven/de.fraunhofer.iosb.ilt/Configurable@0.31?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt/Configurable@0.32
+- pkg:maven/de.fraunhofer.iosb.ilt/Configurable@0.32?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt/Configurable@0.33
+- pkg:maven/de.fraunhofer.iosb.ilt/Configurable@0.33?classifier=sources

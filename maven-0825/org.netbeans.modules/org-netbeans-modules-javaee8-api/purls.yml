@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee8-api@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee8-api@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee8-api@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee8-api@RELEASE130?classifier=sources
