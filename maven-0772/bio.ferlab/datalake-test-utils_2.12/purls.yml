@@ -1,0 +1,4 @@
+- pkg:maven/bio.ferlab/datalake-test-utils_2.12@8.10.0
+- pkg:maven/bio.ferlab/datalake-test-utils_2.12@8.10.0?classifier=sources
+- pkg:maven/bio.ferlab/datalake-test-utils_2.12@8.9.0
+- pkg:maven/bio.ferlab/datalake-test-utils_2.12@8.9.0?classifier=sources

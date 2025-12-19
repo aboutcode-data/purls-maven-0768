@@ -5,6 +5,9 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@1.5.10.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@1.5.11.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@1.5.11.SP1
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@1.5.12.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@1.5.13.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@1.5.14.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@1.5.2.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@1.5.3.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@1.5.3.SP1
@@ -20,3 +23,4 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@3.0.0.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@3.0.1.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@3.0.2.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@3.0.3.Final

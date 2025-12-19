@@ -60,3 +60,5 @@
 - pkg:maven/com.iteaj/iot-core@2.5.8?classifier=sources
 - pkg:maven/com.iteaj/iot-core@2.6.0
 - pkg:maven/com.iteaj/iot-core@2.6.0?classifier=sources
+- pkg:maven/com.iteaj/iot-core@3.0.0
+- pkg:maven/com.iteaj/iot-core@3.0.0?classifier=sources

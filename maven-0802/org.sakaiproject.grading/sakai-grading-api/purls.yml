@@ -1,0 +1,2 @@
+- pkg:maven/org.sakaiproject.grading/sakai-grading-api@23.0
+- pkg:maven/org.sakaiproject.grading/sakai-grading-api@23.0?classifier=sources

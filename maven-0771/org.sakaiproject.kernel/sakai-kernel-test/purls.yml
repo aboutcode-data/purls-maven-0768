@@ -1,0 +1,2 @@
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-test@23.0
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-test@23.0?classifier=sources

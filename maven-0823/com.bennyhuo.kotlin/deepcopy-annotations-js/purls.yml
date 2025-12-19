@@ -1,2 +1,4 @@
 - pkg:maven/com.bennyhuo.kotlin/deepcopy-annotations-js@1.5.31.0?classifier=sources
 - pkg:maven/com.bennyhuo.kotlin/deepcopy-annotations-js@1.7.10.0?classifier=sources
+- pkg:maven/com.bennyhuo.kotlin/deepcopy-annotations-js@1.8.20-1.0.1?classifier=sources
+- pkg:maven/com.bennyhuo.kotlin/deepcopy-annotations-js@1.8.20.0?classifier=sources

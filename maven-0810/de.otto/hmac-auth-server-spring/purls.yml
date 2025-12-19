@@ -16,3 +16,4 @@
 - pkg:maven/de.otto/hmac-auth-server-spring@2.3.7?classifier=sources
 - pkg:maven/de.otto/hmac-auth-server-spring@2.3.8
 - pkg:maven/de.otto/hmac-auth-server-spring@2.3.8?classifier=sources
+- pkg:maven/de.otto/hmac-auth-server-spring@3.0.0?classifier=sources

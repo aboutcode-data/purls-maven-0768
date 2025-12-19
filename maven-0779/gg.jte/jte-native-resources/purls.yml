@@ -1,0 +1,4 @@
+- pkg:maven/gg.jte/jte-native-resources@3.0.0
+- pkg:maven/gg.jte/jte-native-resources@3.0.0?classifier=sources
+- pkg:maven/gg.jte/jte-native-resources@3.0.1
+- pkg:maven/gg.jte/jte-native-resources@3.0.1?classifier=sources

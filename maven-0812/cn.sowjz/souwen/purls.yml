@@ -2,3 +2,5 @@
 - pkg:maven/cn.sowjz/souwen@1.1.43?classifier=sources
 - pkg:maven/cn.sowjz/souwen@1.1.50
 - pkg:maven/cn.sowjz/souwen@1.1.50?classifier=sources
+- pkg:maven/cn.sowjz/souwen@1.2.01
+- pkg:maven/cn.sowjz/souwen@1.2.01?classifier=sources

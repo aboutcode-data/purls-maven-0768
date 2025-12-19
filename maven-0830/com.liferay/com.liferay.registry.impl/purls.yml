@@ -106,6 +106,8 @@
 - pkg:maven/com.liferay/com.liferay.registry.impl@2.0.25
 - pkg:maven/com.liferay/com.liferay.registry.impl@2.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.registry.impl@2.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.registry.impl@2.0.26
+- pkg:maven/com.liferay/com.liferay.registry.impl@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.registry.impl@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.registry.impl@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.registry.impl@2.0.3
@@ -156,6 +158,8 @@
 - pkg:maven/com.liferay/com.liferay.registry.impl@3.0.8
 - pkg:maven/com.liferay/com.liferay.registry.impl@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.registry.impl@3.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.registry.impl@3.0.9
+- pkg:maven/com.liferay/com.liferay.registry.impl@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.registry.impl@4.0.0
 - pkg:maven/com.liferay/com.liferay.registry.impl@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.registry.impl@4.0.0?classifier=sources-commercial
@@ -183,6 +187,8 @@
 - pkg:maven/com.liferay/com.liferay.registry.impl@4.0.8
 - pkg:maven/com.liferay/com.liferay.registry.impl@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.registry.impl@4.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.registry.impl@4.0.9
+- pkg:maven/com.liferay/com.liferay.registry.impl@4.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.registry.impl@5.0.0
 - pkg:maven/com.liferay/com.liferay.registry.impl@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.registry.impl@5.0.0?classifier=sources-commercial

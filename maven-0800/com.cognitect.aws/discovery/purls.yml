@@ -28,3 +28,5 @@
 - pkg:maven/com.cognitect.aws/discovery@835.2.1307.0?classifier=sources
 - pkg:maven/com.cognitect.aws/discovery@847.2.1365.0
 - pkg:maven/com.cognitect.aws/discovery@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/discovery@848.2.1400.0
+- pkg:maven/com.cognitect.aws/discovery@848.2.1400.0?classifier=sources

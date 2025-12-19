@@ -88,3 +88,5 @@
 - pkg:maven/me.legrange.services/service-jetty@3.9.0?classifier=sources
 - pkg:maven/me.legrange.services/service-jetty@4.0.0
 - pkg:maven/me.legrange.services/service-jetty@4.0.0?classifier=sources
+- pkg:maven/me.legrange.services/service-jetty@4.1.0
+- pkg:maven/me.legrange.services/service-jetty@4.1.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.vincentvibe3/Anitraklib-macosx64@0.1.1-alpha?classifier=sources
+- pkg:maven/io.github.vincentvibe3/Anitraklib-macosx64@0.1.2-alpha?classifier=sources
+- pkg:maven/io.github.vincentvibe3/Anitraklib-macosx64@0.1.3-alpha?classifier=sources
+- pkg:maven/io.github.vincentvibe3/Anitraklib-macosx64@0.1.4-alpha?classifier=sources
+- pkg:maven/io.github.vincentvibe3/Anitraklib-macosx64@0.1.5-alpha?classifier=sources
+- pkg:maven/io.github.vincentvibe3/Anitraklib-macosx64@0.1.6-alpha?classifier=sources

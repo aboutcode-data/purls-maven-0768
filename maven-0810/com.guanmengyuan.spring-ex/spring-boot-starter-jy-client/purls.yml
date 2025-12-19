@@ -1,0 +1,16 @@
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.0-jdk17on
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.0-jdk17on?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.2-jdk17on
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.2-jdk17on?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.3-jdk17on
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.3-jdk17on?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.4-jdk17on
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.4-jdk17on?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.5-jdk17on
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.5-jdk17on?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.5-jdk8on
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.5-jdk8on?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.6-jdk17on
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.6-jdk17on?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.6-jdk8on
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-jy-client@1.0.6-jdk8on?classifier=sources

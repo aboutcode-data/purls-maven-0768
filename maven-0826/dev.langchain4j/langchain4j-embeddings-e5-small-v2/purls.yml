@@ -1,0 +1,2 @@
+- pkg:maven/dev.langchain4j/langchain4j-embeddings-e5-small-v2@0.17.0
+- pkg:maven/dev.langchain4j/langchain4j-embeddings-e5-small-v2@0.17.0?classifier=sources

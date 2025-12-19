@@ -12,3 +12,5 @@
 - pkg:maven/ai.djl.serving/wlm@0.21.0?classifier=sources
 - pkg:maven/ai.djl.serving/wlm@0.22.1
 - pkg:maven/ai.djl.serving/wlm@0.22.1?classifier=sources
+- pkg:maven/ai.djl.serving/wlm@0.23.0
+- pkg:maven/ai.djl.serving/wlm@0.23.0?classifier=sources

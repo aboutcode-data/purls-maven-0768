@@ -96,3 +96,5 @@
 - pkg:maven/org.instancio/instancio-junit@2.8.0?classifier=sources
 - pkg:maven/org.instancio/instancio-junit@2.9.0
 - pkg:maven/org.instancio/instancio-junit@2.9.0?classifier=sources
+- pkg:maven/org.instancio/instancio-junit@3.0.0
+- pkg:maven/org.instancio/instancio-junit@3.0.0?classifier=sources

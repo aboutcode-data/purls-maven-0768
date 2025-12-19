@@ -78,3 +78,5 @@
 - pkg:maven/com.google.dagger/dagger-lint@2.46.1
 - pkg:maven/com.google.dagger/dagger-lint@2.46.1?classifier=sources
 - pkg:maven/com.google.dagger/dagger-lint@2.46?classifier=sources
+- pkg:maven/com.google.dagger/dagger-lint@2.47
+- pkg:maven/com.google.dagger/dagger-lint@2.47?classifier=sources

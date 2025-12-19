@@ -69,6 +69,8 @@
 - pkg:maven/com.liferay.commerce/minium-theme@2.0.71?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@2.0.72?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@2.0.73?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@2.0.74?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@2.0.75?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@2.0.7?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@2.0.8?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@2.0.9?type=war
@@ -79,6 +81,8 @@
 - pkg:maven/com.liferay.commerce/minium-theme@3.0.13?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@3.0.14?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@3.0.15?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@3.0.16?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@3.0.17?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@3.0.1?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@3.0.2?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@3.0.3?type=war
@@ -125,6 +129,8 @@
 - pkg:maven/com.liferay.commerce/minium-theme@4.0.40?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@4.0.41?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@4.0.42?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@4.0.43?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@4.0.44?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@4.0.4?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@4.0.5?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@4.0.6?type=war
@@ -191,6 +197,8 @@
 - pkg:maven/com.liferay.commerce/minium-theme@5.0.63?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@5.0.64?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@5.0.65?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@5.0.66?type=war
+- pkg:maven/com.liferay.commerce/minium-theme@5.0.67?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@5.0.6?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@5.0.7?type=war
 - pkg:maven/com.liferay.commerce/minium-theme@5.0.8?type=war

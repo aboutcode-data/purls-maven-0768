@@ -103,3 +103,7 @@
 - pkg:maven/io.peekandpoke.ultra/slumber@0.67.0?classifier=sources
 - pkg:maven/io.peekandpoke.ultra/slumber@0.67.1?classifier=sources
 - pkg:maven/io.peekandpoke.ultra/slumber@0.68.0?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/slumber@0.68.1?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/slumber@0.69.0?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/slumber@0.69.1?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/slumber@0.69.2?classifier=sources

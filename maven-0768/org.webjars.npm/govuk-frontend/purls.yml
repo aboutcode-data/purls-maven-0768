@@ -60,3 +60,5 @@
 - pkg:maven/org.webjars.npm/govuk-frontend@4.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/govuk-frontend@4.6.0
 - pkg:maven/org.webjars.npm/govuk-frontend@4.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/govuk-frontend@4.7.0
+- pkg:maven/org.webjars.npm/govuk-frontend@4.7.0?classifier=sources

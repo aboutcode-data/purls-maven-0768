@@ -7,3 +7,5 @@
 - pkg:maven/cc.popkorn/popkorn@1.5.0?classifier=sources
 - pkg:maven/cc.popkorn/popkorn@2.1.1?classifier=sources
 - pkg:maven/cc.popkorn/popkorn@2.2.0?classifier=sources
+- pkg:maven/cc.popkorn/popkorn@2.3.0?classifier=sources
+- pkg:maven/cc.popkorn/popkorn@2.3.1?classifier=sources

@@ -50,6 +50,8 @@
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.16.16?classifier=sources
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.16.17
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.16.17?classifier=sources
+- pkg:maven/com.quantxt.nlp/doc-analytics@2.16.18
+- pkg:maven/com.quantxt.nlp/doc-analytics@2.16.18?classifier=sources
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.16.3
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.16.3?classifier=sources
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.16.4
@@ -62,6 +64,8 @@
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.16.8?classifier=sources
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.16.9
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.16.9?classifier=sources
+- pkg:maven/com.quantxt.nlp/doc-analytics@2.20.00
+- pkg:maven/com.quantxt.nlp/doc-analytics@2.20.00?classifier=sources
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.7.10
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.7.10?classifier=sources
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.7.11
@@ -100,3 +104,5 @@
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.8.27?classifier=sources
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.9.0
 - pkg:maven/com.quantxt.nlp/doc-analytics@2.9.0?classifier=sources
+- pkg:maven/com.quantxt.nlp/doc-analytics@3.0.0
+- pkg:maven/com.quantxt.nlp/doc-analytics@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.pickled_vegetables/chatgpt@1.0.0
+- pkg:maven/io.gitee.pickled_vegetables/chatgpt@1.0.0?classifier=sources

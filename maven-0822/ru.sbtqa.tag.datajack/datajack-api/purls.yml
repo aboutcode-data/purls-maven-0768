@@ -28,3 +28,5 @@
 - pkg:maven/ru.sbtqa.tag.datajack/datajack-api@5.2.1?classifier=sources
 - pkg:maven/ru.sbtqa.tag.datajack/datajack-api@5.2.2
 - pkg:maven/ru.sbtqa.tag.datajack/datajack-api@5.2.2?classifier=sources
+- pkg:maven/ru.sbtqa.tag.datajack/datajack-api@5.2.3
+- pkg:maven/ru.sbtqa.tag.datajack/datajack-api@5.2.3?classifier=sources

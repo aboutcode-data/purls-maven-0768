@@ -107,6 +107,8 @@
 - pkg:maven/org.opendaylight.bgpcep/pcep-pcc-mock@0.19.4?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-pcc-mock@0.19.5
 - pkg:maven/org.opendaylight.bgpcep/pcep-pcc-mock@0.19.5?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/pcep-pcc-mock@0.20.0
+- pkg:maven/org.opendaylight.bgpcep/pcep-pcc-mock@0.20.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-pcc-mock@0.3.1-Helium
 - pkg:maven/org.opendaylight.bgpcep/pcep-pcc-mock@0.3.1-Helium?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-pcc-mock@0.3.2-Helium-SR1

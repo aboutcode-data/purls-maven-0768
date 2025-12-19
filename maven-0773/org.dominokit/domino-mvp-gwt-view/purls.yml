@@ -10,3 +10,4 @@
 - pkg:maven/org.dominokit/domino-mvp-gwt-view@1.0.0-RC7?classifier=sources
 - pkg:maven/org.dominokit/domino-mvp-gwt-view@1.0.0-RC8?classifier=sources
 - pkg:maven/org.dominokit/domino-mvp-gwt-view@1.0.0-RC9?classifier=sources
+- pkg:maven/org.dominokit/domino-mvp-gwt-view@1.0.0?classifier=sources

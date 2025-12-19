@@ -125,3 +125,4 @@
 - pkg:maven/io.dekorate/openshift-junit-starter@3.5.5
 - pkg:maven/io.dekorate/openshift-junit-starter@3.6.0
 - pkg:maven/io.dekorate/openshift-junit-starter@3.6.1
+- pkg:maven/io.dekorate/openshift-junit-starter@3.7.0

@@ -340,6 +340,11 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@19.0.0
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@19.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@19.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@19.1.0
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@19.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@19.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@19.2.0
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@19.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@2.0.0?classifier=sources-commercial
@@ -352,6 +357,11 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@20.0.1
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@20.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@20.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@20.1.0
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@20.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@20.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@20.2.0
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@20.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@21.0.0
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@21.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@21.0.0?classifier=sources-commercial
@@ -361,6 +371,11 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@21.1.0
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@21.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@21.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@21.1.1
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@21.1.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@21.1.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@21.2.0
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@21.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.0.0
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.0.0?classifier=sources-commercial
@@ -370,6 +385,9 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.1.1
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.1.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.10.0
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.10.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.10.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.2.0
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.2.0?classifier=sources-commercial
@@ -394,6 +412,9 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.8.0
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.8.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.8.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.9.0
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.9.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.api@22.9.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.api@3.0.0?classifier=sources-commercial

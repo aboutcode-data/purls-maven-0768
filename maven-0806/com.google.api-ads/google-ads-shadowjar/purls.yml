@@ -14,3 +14,4 @@
 - pkg:maven/com.google.api-ads/google-ads-shadowjar@23.0.0?classifier=sources
 - pkg:maven/com.google.api-ads/google-ads-shadowjar@24.0.0?classifier=sources
 - pkg:maven/com.google.api-ads/google-ads-shadowjar@25.0.0?classifier=sources
+- pkg:maven/com.google.api-ads/google-ads-shadowjar@26.0.0?classifier=sources

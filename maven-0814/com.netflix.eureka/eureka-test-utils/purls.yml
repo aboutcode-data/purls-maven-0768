@@ -233,3 +233,4 @@
 - pkg:maven/com.netflix.eureka/eureka-test-utils@1.9.9
 - pkg:maven/com.netflix.eureka/eureka-test-utils@1.9.9?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-test-utils@2.0.0?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-test-utils@2.0.1?classifier=sources

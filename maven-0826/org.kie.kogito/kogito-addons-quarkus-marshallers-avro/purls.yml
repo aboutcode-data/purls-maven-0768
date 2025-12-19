@@ -11,3 +11,4 @@
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-marshallers-avro@1.39.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-marshallers-avro@1.40.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-marshallers-avro@1.40.1.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-marshallers-avro@1.41.0.Final

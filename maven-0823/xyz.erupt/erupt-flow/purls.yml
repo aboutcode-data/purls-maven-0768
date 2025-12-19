@@ -1,2 +1,4 @@
 - pkg:maven/xyz.erupt/erupt-flow@1.11.7
 - pkg:maven/xyz.erupt/erupt-flow@1.11.7?classifier=sources
+- pkg:maven/xyz.erupt/erupt-flow@1.12.0
+- pkg:maven/xyz.erupt/erupt-flow@1.12.0?classifier=sources

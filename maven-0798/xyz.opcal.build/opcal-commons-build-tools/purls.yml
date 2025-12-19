@@ -21,6 +21,8 @@
 - pkg:maven/xyz.opcal.build/opcal-commons-build-tools@2.7.12?classifier=sources
 - pkg:maven/xyz.opcal.build/opcal-commons-build-tools@2.7.13
 - pkg:maven/xyz.opcal.build/opcal-commons-build-tools@2.7.13?classifier=sources
+- pkg:maven/xyz.opcal.build/opcal-commons-build-tools@2.7.14
+- pkg:maven/xyz.opcal.build/opcal-commons-build-tools@2.7.14?classifier=sources
 - pkg:maven/xyz.opcal.build/opcal-commons-build-tools@2.7.1?classifier=sources
 - pkg:maven/xyz.opcal.build/opcal-commons-build-tools@2.7.2
 - pkg:maven/xyz.opcal.build/opcal-commons-build-tools@2.7.2.1
@@ -60,7 +62,11 @@
 - pkg:maven/xyz.opcal.build/opcal-commons-build-tools@3.0.7?classifier=sources
 - pkg:maven/xyz.opcal.build/opcal-commons-build-tools@3.0.8
 - pkg:maven/xyz.opcal.build/opcal-commons-build-tools@3.0.8?classifier=sources
+- pkg:maven/xyz.opcal.build/opcal-commons-build-tools@3.0.9
+- pkg:maven/xyz.opcal.build/opcal-commons-build-tools@3.0.9?classifier=sources
 - pkg:maven/xyz.opcal.build/opcal-commons-build-tools@3.1.0
 - pkg:maven/xyz.opcal.build/opcal-commons-build-tools@3.1.0?classifier=sources
 - pkg:maven/xyz.opcal.build/opcal-commons-build-tools@3.1.1
 - pkg:maven/xyz.opcal.build/opcal-commons-build-tools@3.1.1?classifier=sources
+- pkg:maven/xyz.opcal.build/opcal-commons-build-tools@3.1.2
+- pkg:maven/xyz.opcal.build/opcal-commons-build-tools@3.1.2?classifier=sources

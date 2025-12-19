@@ -20,5 +20,6 @@
 - pkg:maven/com.google.cloud.opentelemetry/exporter-auto@0.24.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud.opentelemetry/exporter-auto@0.25.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud.opentelemetry/exporter-auto@0.25.1-alpha?classifier=sources
+- pkg:maven/com.google.cloud.opentelemetry/exporter-auto@0.25.2-alpha?classifier=sources
 - pkg:maven/com.google.cloud.opentelemetry/exporter-auto@0.9.1
 - pkg:maven/com.google.cloud.opentelemetry/exporter-auto@0.9.1?classifier=sources

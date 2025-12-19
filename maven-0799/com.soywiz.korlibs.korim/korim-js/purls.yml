@@ -68,3 +68,8 @@
 - pkg:maven/com.soywiz.korlibs.korim/korim-js@4.0.2?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korim/korim-js@4.0.3?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korim/korim-js@4.0.4-dev-1.9.20-2914?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korim/korim-js@4.0.5?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korim/korim-js@4.0.6?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korim/korim-js@4.0.7?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korim/korim-js@4.0.8?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korim/korim-js@4.0.9?classifier=sources

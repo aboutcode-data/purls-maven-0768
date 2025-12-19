@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.bluesweeter/sweet-plugin-spring-boot-starter@1.2.1
+- pkg:maven/com.gitee.bluesweeter/sweet-plugin-spring-boot-starter@1.2.1?classifier=sources
+- pkg:maven/com.gitee.bluesweeter/sweet-plugin-spring-boot-starter@1.2.2
+- pkg:maven/com.gitee.bluesweeter/sweet-plugin-spring-boot-starter@1.2.2?classifier=sources

@@ -50,6 +50,8 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-rabbitmq@3.23.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-rabbitmq@3.24.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-rabbitmq@3.24.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-rabbitmq@3.25.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-rabbitmq@3.25.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-rabbitmq@3.7.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-rabbitmq@3.7.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-rabbitmq@3.7.1
@@ -96,3 +98,5 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-rabbitmq@4.6.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-rabbitmq@4.7.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-rabbitmq@4.7.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-rabbitmq@4.8.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-rabbitmq@4.8.0?classifier=sources

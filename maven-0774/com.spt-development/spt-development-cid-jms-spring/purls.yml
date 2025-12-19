@@ -34,3 +34,5 @@
 - pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.5?classifier=sources
 - pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.6
 - pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.6?classifier=sources
+- pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.7
+- pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.7?classifier=sources

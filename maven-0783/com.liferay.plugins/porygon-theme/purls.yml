@@ -65,6 +65,7 @@
 - pkg:maven/com.liferay.plugins/porygon-theme@1.0.68?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@1.0.69?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@1.0.6?type=war
+- pkg:maven/com.liferay.plugins/porygon-theme@1.0.70?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@1.0.7?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@1.0.8?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@1.0.9?type=war
@@ -108,6 +109,7 @@
 - pkg:maven/com.liferay.plugins/porygon-theme@2.0.43?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@2.0.44?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@2.0.45?type=war
+- pkg:maven/com.liferay.plugins/porygon-theme@2.0.46?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@2.0.4?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@2.0.5?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@2.0.6?type=war
@@ -185,6 +187,8 @@
 - pkg:maven/com.liferay.plugins/porygon-theme@3.0.71?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@3.0.72?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@3.0.73?type=war
+- pkg:maven/com.liferay.plugins/porygon-theme@3.0.74?type=war
+- pkg:maven/com.liferay.plugins/porygon-theme@3.0.75?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@3.0.7?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@3.0.8?type=war
 - pkg:maven/com.liferay.plugins/porygon-theme@3.0.9?type=war

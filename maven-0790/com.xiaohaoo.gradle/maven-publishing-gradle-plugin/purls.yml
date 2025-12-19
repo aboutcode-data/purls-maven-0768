@@ -1,0 +1,1 @@
+- pkg:maven/com.xiaohaoo.gradle/maven-publishing-gradle-plugin@1.0.1?classifier=sources

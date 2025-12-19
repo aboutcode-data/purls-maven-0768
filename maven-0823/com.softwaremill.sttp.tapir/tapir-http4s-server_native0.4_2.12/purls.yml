@@ -36,3 +36,5 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-server_native0.4_2.12@1.4.0?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-server_native0.4_2.12@1.5.0
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-server_native0.4_2.12@1.5.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-server_native0.4_2.12@1.5.1
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-server_native0.4_2.12@1.5.1?classifier=sources

@@ -78,3 +78,15 @@
 - pkg:maven/io.ebean/ebean-jackson-mapper@13.18.0-jakarta
 - pkg:maven/io.ebean/ebean-jackson-mapper@13.18.0-jakarta?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-mapper@13.18.0?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.19.0
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.19.0-jakarta
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.19.0-jakarta?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.19.0?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.20.0
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.20.0-jakarta
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.20.0-jakarta?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.20.0?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.20.1
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.20.1-jakarta
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.20.1-jakarta?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.20.1?classifier=sources

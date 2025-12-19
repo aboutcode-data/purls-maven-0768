@@ -1,0 +1,6 @@
+- pkg:maven/blog.softwaretester/sandboy-engine@1.0.0
+- pkg:maven/blog.softwaretester/sandboy-engine@1.0.0?classifier=sources
+- pkg:maven/blog.softwaretester/sandboy-engine@1.1.0
+- pkg:maven/blog.softwaretester/sandboy-engine@1.1.0?classifier=sources
+- pkg:maven/blog.softwaretester/sandboy-engine@1.1.1
+- pkg:maven/blog.softwaretester/sandboy-engine@1.1.1?classifier=sources

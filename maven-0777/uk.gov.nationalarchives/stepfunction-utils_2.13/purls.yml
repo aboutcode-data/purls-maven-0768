@@ -78,3 +78,5 @@
 - pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.93?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.94
 - pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.94?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.95
+- pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.95?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.yo1000/dbunit-friend@1.0.0
+- pkg:maven/com.yo1000/dbunit-friend@1.0.0?classifier=sources

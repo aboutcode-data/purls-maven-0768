@@ -6,3 +6,4 @@
 - pkg:maven/com.liferay.plugins/user-profile-dxp-theme@1.0.105?type=war
 - pkg:maven/com.liferay.plugins/user-profile-dxp-theme@1.0.106?type=war
 - pkg:maven/com.liferay.plugins/user-profile-dxp-theme@1.0.107?type=war
+- pkg:maven/com.liferay.plugins/user-profile-dxp-theme@1.0.108?type=war

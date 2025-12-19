@@ -26,3 +26,5 @@
 - pkg:maven/gov.nasa.gsfc.heasarc/nom-tam-fits@1.17.0?classifier=sources
 - pkg:maven/gov.nasa.gsfc.heasarc/nom-tam-fits@1.17.1
 - pkg:maven/gov.nasa.gsfc.heasarc/nom-tam-fits@1.17.1?classifier=sources
+- pkg:maven/gov.nasa.gsfc.heasarc/nom-tam-fits@1.18.0
+- pkg:maven/gov.nasa.gsfc.heasarc/nom-tam-fits@1.18.0?classifier=sources

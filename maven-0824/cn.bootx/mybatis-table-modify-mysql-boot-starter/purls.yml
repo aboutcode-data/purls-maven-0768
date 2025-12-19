@@ -1,2 +1,10 @@
+- pkg:maven/cn.bootx/mybatis-table-modify-mysql-boot-starter@1.5.3
 - pkg:maven/cn.bootx/mybatis-table-modify-mysql-boot-starter@1.5.3.alpha1
 - pkg:maven/cn.bootx/mybatis-table-modify-mysql-boot-starter@1.5.3.alpha1?classifier=sources
+- pkg:maven/cn.bootx/mybatis-table-modify-mysql-boot-starter@1.5.3.alpha2
+- pkg:maven/cn.bootx/mybatis-table-modify-mysql-boot-starter@1.5.3.alpha2?classifier=sources
+- pkg:maven/cn.bootx/mybatis-table-modify-mysql-boot-starter@1.5.3.alpha3
+- pkg:maven/cn.bootx/mybatis-table-modify-mysql-boot-starter@1.5.3.alpha3?classifier=sources
+- pkg:maven/cn.bootx/mybatis-table-modify-mysql-boot-starter@1.5.3?classifier=sources
+- pkg:maven/cn.bootx/mybatis-table-modify-mysql-boot-starter@1.5.4.beta1
+- pkg:maven/cn.bootx/mybatis-table-modify-mysql-boot-starter@1.5.4.beta1?classifier=sources

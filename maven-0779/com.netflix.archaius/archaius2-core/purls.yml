@@ -152,3 +152,4 @@
 - pkg:maven/com.netflix.archaius/archaius2-core@2.3.21?classifier=sources
 - pkg:maven/com.netflix.archaius/archaius2-core@2.3.2?classifier=sources
 - pkg:maven/com.netflix.archaius/archaius2-core@2.4.0?classifier=sources
+- pkg:maven/com.netflix.archaius/archaius2-core@2.5.0?classifier=sources

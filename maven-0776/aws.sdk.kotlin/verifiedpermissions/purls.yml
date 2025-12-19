@@ -1,0 +1,5 @@
+- pkg:maven/aws.sdk.kotlin/verifiedpermissions@0.27.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/verifiedpermissions@0.27.2-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/verifiedpermissions@0.28.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/verifiedpermissions@0.28.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/verifiedpermissions@0.28.2-beta?classifier=sources

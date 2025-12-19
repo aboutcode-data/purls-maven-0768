@@ -1,2 +1,6 @@
 - pkg:maven/io.github.CDAGaming/starscript@0.2.2-legacy?classifier=sources
 - pkg:maven/io.github.CDAGaming/starscript@0.2.2?classifier=sources
+- pkg:maven/io.github.CDAGaming/starscript@0.2.4-legacy?classifier=sources
+- pkg:maven/io.github.CDAGaming/starscript@0.2.4?classifier=sources
+- pkg:maven/io.github.CDAGaming/starscript@0.2.5-legacy?classifier=sources
+- pkg:maven/io.github.CDAGaming/starscript@0.2.5?classifier=sources

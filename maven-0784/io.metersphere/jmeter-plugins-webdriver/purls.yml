@@ -6,6 +6,8 @@
 - pkg:maven/io.metersphere/jmeter-plugins-webdriver@3.4.3
 - pkg:maven/io.metersphere/jmeter-plugins-webdriver@3.4.3?classifier=sources
 - pkg:maven/io.metersphere/jmeter-plugins-webdriver@3.4?classifier=sources
+- pkg:maven/io.metersphere/jmeter-plugins-webdriver@4.10.0
+- pkg:maven/io.metersphere/jmeter-plugins-webdriver@4.10.0?classifier=sources
 - pkg:maven/io.metersphere/jmeter-plugins-webdriver@4.5.3
 - pkg:maven/io.metersphere/jmeter-plugins-webdriver@4.5.3?classifier=sources
 - pkg:maven/io.metersphere/jmeter-plugins-webdriver@4.8.0

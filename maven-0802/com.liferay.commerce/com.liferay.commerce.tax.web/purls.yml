@@ -74,6 +74,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@1.0.31
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@1.0.31?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@1.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@1.0.32
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@1.0.32?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@1.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@1.0.4
@@ -106,6 +108,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@2.0.3
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@2.0.4
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@3.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@3.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@3.0.0?classifier=sources-commercial
@@ -116,6 +120,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@3.0.11
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@3.0.11?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@3.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@3.0.12
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@3.0.12?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@3.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@3.0.2
@@ -191,6 +197,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.23
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.23?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.24
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.24?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.3

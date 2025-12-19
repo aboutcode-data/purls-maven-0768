@@ -1,2 +1,4 @@
 - pkg:maven/org.ternlang/tern-parse@1.4.6
 - pkg:maven/org.ternlang/tern-parse@1.4.6?classifier=sources
+- pkg:maven/org.ternlang/tern-parse@1.4.7
+- pkg:maven/org.ternlang/tern-parse@1.4.7?classifier=sources

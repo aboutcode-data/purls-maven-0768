@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wqr503/lp-common-aide@2.0.0
+- pkg:maven/io.github.wqr503/lp-common-aide@2.0.0?classifier=sources

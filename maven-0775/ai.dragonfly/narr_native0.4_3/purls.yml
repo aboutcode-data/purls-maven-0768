@@ -1,2 +1,4 @@
 - pkg:maven/ai.dragonfly/narr_native0.4_3@0.101
 - pkg:maven/ai.dragonfly/narr_native0.4_3@0.101?classifier=sources
+- pkg:maven/ai.dragonfly/narr_native0.4_3@0.102
+- pkg:maven/ai.dragonfly/narr_native0.4_3@0.102?classifier=sources

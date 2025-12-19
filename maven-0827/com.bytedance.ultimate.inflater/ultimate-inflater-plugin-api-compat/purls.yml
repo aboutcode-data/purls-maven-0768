@@ -1,0 +1,5 @@
+- pkg:maven/com.bytedance.ultimate.inflater/ultimate-inflater-plugin-api-compat@0.0.1-alpha02?classifier=sources
+- pkg:maven/com.bytedance.ultimate.inflater/ultimate-inflater-plugin-api-compat@0.0.1-alpha03?classifier=sources
+- pkg:maven/com.bytedance.ultimate.inflater/ultimate-inflater-plugin-api-compat@0.0.1-alpha04?classifier=sources
+- pkg:maven/com.bytedance.ultimate.inflater/ultimate-inflater-plugin-api-compat@1.0.0-alpha01?classifier=sources
+- pkg:maven/com.bytedance.ultimate.inflater/ultimate-inflater-plugin-api-compat@1.0.0-alpha02?classifier=sources

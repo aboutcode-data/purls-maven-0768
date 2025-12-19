@@ -112,6 +112,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.21
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.22
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@3.0.3
@@ -148,6 +150,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.12
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.13
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@4.0.2
@@ -196,6 +200,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@5.0.15
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@5.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@5.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@5.0.16
+- pkg:maven/com.liferay/com.liferay.portal.language.extender@5.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.language.extender@5.0.2

@@ -194,3 +194,9 @@
 - pkg:maven/com.4paradigm.openmldb/openmldb-native@0.8.0-macos
 - pkg:maven/com.4paradigm.openmldb/openmldb-native@0.8.0-macos?classifier=sources
 - pkg:maven/com.4paradigm.openmldb/openmldb-native@0.8.0?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-native@0.8.1
+- pkg:maven/com.4paradigm.openmldb/openmldb-native@0.8.1-allinone
+- pkg:maven/com.4paradigm.openmldb/openmldb-native@0.8.1-allinone?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-native@0.8.1-macos
+- pkg:maven/com.4paradigm.openmldb/openmldb-native@0.8.1-macos?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-native@0.8.1?classifier=sources

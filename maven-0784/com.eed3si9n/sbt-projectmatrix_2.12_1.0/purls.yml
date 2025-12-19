@@ -1,0 +1,2 @@
+- pkg:maven/com.eed3si9n/sbt-projectmatrix_2.12_1.0@0.9.1
+- pkg:maven/com.eed3si9n/sbt-projectmatrix_2.12_1.0@0.9.1?classifier=sources

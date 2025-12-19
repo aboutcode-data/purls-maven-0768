@@ -89,3 +89,7 @@
 - pkg:maven/com.softicar.platform/platform-ajax@45.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-ajax@45.0.1?classifier=sources
 - pkg:maven/com.softicar.platform/platform-ajax@45.0.2?classifier=sources
+- pkg:maven/com.softicar.platform/platform-ajax@46.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-ajax@47.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-ajax@48.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-ajax@49.0.0?classifier=sources

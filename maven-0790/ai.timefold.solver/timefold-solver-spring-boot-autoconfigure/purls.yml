@@ -2,3 +2,4 @@
 - pkg:maven/ai.timefold.solver/timefold-solver-spring-boot-autoconfigure@0.8.39?classifier=sources
 - pkg:maven/ai.timefold.solver/timefold-solver-spring-boot-autoconfigure@0.9.38?classifier=sources
 - pkg:maven/ai.timefold.solver/timefold-solver-spring-boot-autoconfigure@0.9.39?classifier=sources
+- pkg:maven/ai.timefold.solver/timefold-solver-spring-boot-autoconfigure@1.0.0?classifier=sources

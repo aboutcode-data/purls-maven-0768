@@ -1,0 +1,2 @@
+- pkg:maven/com.finbourne/configuration-sdk-preview@0.1.433
+- pkg:maven/com.finbourne/configuration-sdk-preview@0.1.433?classifier=sources

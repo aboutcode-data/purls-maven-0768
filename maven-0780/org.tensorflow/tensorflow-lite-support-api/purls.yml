@@ -5,3 +5,4 @@
 - pkg:maven/org.tensorflow/tensorflow-lite-support-api@0.4.1?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite-support-api@0.4.2?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite-support-api@0.4.3?type=aar
+- pkg:maven/org.tensorflow/tensorflow-lite-support-api@0.4.4?type=aar

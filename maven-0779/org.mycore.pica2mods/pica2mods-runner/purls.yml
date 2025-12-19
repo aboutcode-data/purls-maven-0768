@@ -1,0 +1,2 @@
+- pkg:maven/org.mycore.pica2mods/pica2mods-runner@2.5
+- pkg:maven/org.mycore.pica2mods/pica2mods-runner@2.5?classifier=sources

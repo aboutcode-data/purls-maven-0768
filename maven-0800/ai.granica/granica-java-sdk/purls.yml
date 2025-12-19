@@ -1,0 +1,4 @@
+- pkg:maven/ai.granica/granica-java-sdk@1.0.3
+- pkg:maven/ai.granica/granica-java-sdk@1.0.3?classifier=sources
+- pkg:maven/ai.granica/granica-java-sdk@1.0.4
+- pkg:maven/ai.granica/granica-java-sdk@1.0.4?classifier=sources

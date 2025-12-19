@@ -40,3 +40,11 @@
 - pkg:maven/de.fraunhofer.aisec/cpg-console@6.2.1?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg-console@6.2.2
 - pkg:maven/de.fraunhofer.aisec/cpg-console@6.2.2?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-console@7.0.0
+- pkg:maven/de.fraunhofer.aisec/cpg-console@7.0.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-console@7.1.0
+- pkg:maven/de.fraunhofer.aisec/cpg-console@7.1.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-console@7.1.1
+- pkg:maven/de.fraunhofer.aisec/cpg-console@7.1.1?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-console@7.1.2
+- pkg:maven/de.fraunhofer.aisec/cpg-console@7.1.2?classifier=sources

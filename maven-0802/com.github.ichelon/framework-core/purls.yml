@@ -43,3 +43,5 @@
 - pkg:maven/com.github.ichelon/framework-core@3.1.0.RELEASE?classifier=sources
 - pkg:maven/com.github.ichelon/framework-core@4.0.0
 - pkg:maven/com.github.ichelon/framework-core@4.0.0?classifier=sources
+- pkg:maven/com.github.ichelon/framework-core@4.1.0
+- pkg:maven/com.github.ichelon/framework-core@4.1.0?classifier=sources

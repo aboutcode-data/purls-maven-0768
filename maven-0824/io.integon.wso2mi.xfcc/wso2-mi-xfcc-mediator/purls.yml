@@ -1,0 +1,2 @@
+- pkg:maven/io.integon.wso2mi.xfcc/wso2-mi-xfcc-mediator@1.0.2
+- pkg:maven/io.integon.wso2mi.xfcc/wso2-mi-xfcc-mediator@1.0.2?classifier=sources

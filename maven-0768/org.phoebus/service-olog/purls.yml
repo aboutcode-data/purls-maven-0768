@@ -16,3 +16,5 @@
 - pkg:maven/org.phoebus/service-olog@4.7.2?classifier=sources
 - pkg:maven/org.phoebus/service-olog@4.7.3
 - pkg:maven/org.phoebus/service-olog@4.7.3?classifier=sources
+- pkg:maven/org.phoebus/service-olog@4.7.4
+- pkg:maven/org.phoebus/service-olog@4.7.4?classifier=sources

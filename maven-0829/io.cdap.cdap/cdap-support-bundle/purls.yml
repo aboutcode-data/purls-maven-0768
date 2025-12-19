@@ -14,3 +14,5 @@
 - pkg:maven/io.cdap.cdap/cdap-support-bundle@6.8.3?classifier=sources
 - pkg:maven/io.cdap.cdap/cdap-support-bundle@6.9.0
 - pkg:maven/io.cdap.cdap/cdap-support-bundle@6.9.0?classifier=sources
+- pkg:maven/io.cdap.cdap/cdap-support-bundle@6.9.1
+- pkg:maven/io.cdap.cdap/cdap-support-bundle@6.9.1?classifier=sources

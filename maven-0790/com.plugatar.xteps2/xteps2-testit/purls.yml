@@ -2,3 +2,7 @@
 - pkg:maven/com.plugatar.xteps2/xteps2-testit@0.1?classifier=sources
 - pkg:maven/com.plugatar.xteps2/xteps2-testit@0.2
 - pkg:maven/com.plugatar.xteps2/xteps2-testit@0.2?classifier=sources
+- pkg:maven/com.plugatar.xteps2/xteps2-testit@1.0
+- pkg:maven/com.plugatar.xteps2/xteps2-testit@1.0?classifier=sources
+- pkg:maven/com.plugatar.xteps2/xteps2-testit@1.1
+- pkg:maven/com.plugatar.xteps2/xteps2-testit@1.1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/com.github.ngoanh2n/webdriverchecker-junit5@2.4.0?classifier=sources
 - pkg:maven/com.github.ngoanh2n/webdriverchecker-junit5@2.5.0?classifier=sources
 - pkg:maven/com.github.ngoanh2n/webdriverchecker-junit5@2.6.0?classifier=sources
+- pkg:maven/com.github.ngoanh2n/webdriverchecker-junit5@2.7.0?classifier=sources

@@ -138,6 +138,8 @@
 - pkg:maven/org.drools/drools-core-dynamic@7.73.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-core-dynamic@7.74.0.Final
 - pkg:maven/org.drools/drools-core-dynamic@7.74.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-core-dynamic@7.74.1.Final
+- pkg:maven/org.drools/drools-core-dynamic@7.74.1.Final?classifier=sources
 - pkg:maven/org.drools/drools-core-dynamic@8.13.0.Beta
 - pkg:maven/org.drools/drools-core-dynamic@8.13.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-core-dynamic@8.14.0.Beta

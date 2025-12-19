@@ -96,9 +96,13 @@
 - pkg:maven/com.tangzc/mybatis-plus-ext-datasource@3.5.3.1-EXT307.4
 - pkg:maven/com.tangzc/mybatis-plus-ext-datasource@3.5.3.1-EXT307.4?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-datasource@3.5.3.1-EXT307?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-datasource@3.5.3.1-EXT400
+- pkg:maven/com.tangzc/mybatis-plus-ext-datasource@3.5.3.1-EXT400?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-datasource@3.5.3.1-jdk17-EXT307.2
 - pkg:maven/com.tangzc/mybatis-plus-ext-datasource@3.5.3.1-jdk17-EXT307.2?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-datasource@3.5.3.1-jdk17-EXT307.3
 - pkg:maven/com.tangzc/mybatis-plus-ext-datasource@3.5.3.1-jdk17-EXT307.3?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-datasource@3.5.3.1-jdk17-EXT307.4
 - pkg:maven/com.tangzc/mybatis-plus-ext-datasource@3.5.3.1-jdk17-EXT307.4?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-datasource@3.5.3.1-jdk17-EXT400
+- pkg:maven/com.tangzc/mybatis-plus-ext-datasource@3.5.3.1-jdk17-EXT400?classifier=sources

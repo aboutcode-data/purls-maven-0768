@@ -82,3 +82,5 @@
 - pkg:maven/com.exasol/exasol-testcontainers@6.5.2?classifier=sources
 - pkg:maven/com.exasol/exasol-testcontainers@6.6.0
 - pkg:maven/com.exasol/exasol-testcontainers@6.6.0?classifier=sources
+- pkg:maven/com.exasol/exasol-testcontainers@6.6.1
+- pkg:maven/com.exasol/exasol-testcontainers@6.6.1?classifier=sources

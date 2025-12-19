@@ -1,0 +1,2 @@
+- pkg:maven/org.anyline/anyline-data-jdbc-hana@8.6.5-20230725
+- pkg:maven/org.anyline/anyline-data-jdbc-hana@8.6.5-20230725?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/app.cash.molecule/molecule-runtime-linuxx64@0.10.0?classifier=sources
+- pkg:maven/app.cash.molecule/molecule-runtime-linuxx64@0.11.0?classifier=sources
 - pkg:maven/app.cash.molecule/molecule-runtime-linuxx64@0.5.0-beta01?classifier=sources
 - pkg:maven/app.cash.molecule/molecule-runtime-linuxx64@0.5.0?classifier=sources
 - pkg:maven/app.cash.molecule/molecule-runtime-linuxx64@0.6.0?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-impl@1.6.8?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-impl@1.6.9
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-impl@1.6.9?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-impl@1.8.0
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-impl@1.8.0?classifier=sources

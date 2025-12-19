@@ -33,6 +33,8 @@
 - pkg:maven/com.oratakashi/AndroidViewBinding@3.20.1?classifier=sources
 - pkg:maven/com.oratakashi/AndroidViewBinding@3.21.0?classifier=sources
 - pkg:maven/com.oratakashi/AndroidViewBinding@3.21.1?classifier=sources
+- pkg:maven/com.oratakashi/AndroidViewBinding@3.22.0?classifier=sources
+- pkg:maven/com.oratakashi/AndroidViewBinding@3.24.4?classifier=sources
 - pkg:maven/com.oratakashi/AndroidViewBinding@3.2?classifier=sources
 - pkg:maven/com.oratakashi/AndroidViewBinding@3.2?type=aar
 - pkg:maven/com.oratakashi/AndroidViewBinding@3.3?classifier=sources
