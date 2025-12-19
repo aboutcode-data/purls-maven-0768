@@ -64,3 +64,10 @@
 - pkg:maven/com.yahoo.vespa/zookeeper-server-3.7.0@7.578.64?classifier=sources
 - pkg:maven/com.yahoo.vespa/zookeeper-server-3.7.0@7.579.27?classifier=sources
 - pkg:maven/com.yahoo.vespa/zookeeper-server-3.7.0@7.580.54?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.7.0@7.581.33?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.7.0@7.585.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.7.0@7.586.113?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.7.0@7.588.57?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.7.0@7.589.25?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.7.0@7.593.6?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.7.0@7.594.36?classifier=sources

@@ -61,6 +61,8 @@
 - pkg:maven/com.bluetrainsoftware.maven/openapi-dart-generator@5.12?classifier=sources
 - pkg:maven/com.bluetrainsoftware.maven/openapi-dart-generator@5.13
 - pkg:maven/com.bluetrainsoftware.maven/openapi-dart-generator@5.13?classifier=sources
+- pkg:maven/com.bluetrainsoftware.maven/openapi-dart-generator@5.14
+- pkg:maven/com.bluetrainsoftware.maven/openapi-dart-generator@5.14?classifier=sources
 - pkg:maven/com.bluetrainsoftware.maven/openapi-dart-generator@5.1?classifier=sources
 - pkg:maven/com.bluetrainsoftware.maven/openapi-dart-generator@5.2
 - pkg:maven/com.bluetrainsoftware.maven/openapi-dart-generator@5.2?classifier=sources

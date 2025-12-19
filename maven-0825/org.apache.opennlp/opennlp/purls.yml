@@ -15,3 +15,4 @@
 - pkg:maven/org.apache.opennlp/opennlp@1.9.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.opennlp/opennlp@1.9.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.opennlp/opennlp@1.9.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.opennlp/opennlp@2.0.0?classifier=source-release&type=zip

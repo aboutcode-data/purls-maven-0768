@@ -4,3 +4,7 @@
 - pkg:maven/io.zeebe/kafka-connect-zeebe@0.24.0?classifier=sources
 - pkg:maven/io.zeebe/kafka-connect-zeebe@0.31.0
 - pkg:maven/io.zeebe/kafka-connect-zeebe@0.31.0?classifier=sources
+- pkg:maven/io.zeebe/kafka-connect-zeebe@0.4.0
+- pkg:maven/io.zeebe/kafka-connect-zeebe@0.4.0?classifier=sources
+- pkg:maven/io.zeebe/kafka-connect-zeebe@0.40.0
+- pkg:maven/io.zeebe/kafka-connect-zeebe@0.40.0?classifier=sources

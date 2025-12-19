@@ -16,3 +16,15 @@
 - pkg:maven/com.datastax.oss/pulsar-jms-all@1.4.0?classifier=sources
 - pkg:maven/com.datastax.oss/pulsar-jms-all@1.5.0
 - pkg:maven/com.datastax.oss/pulsar-jms-all@1.5.0?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-all@2.1.0
+- pkg:maven/com.datastax.oss/pulsar-jms-all@2.1.0?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-all@2.2.0
+- pkg:maven/com.datastax.oss/pulsar-jms-all@2.2.0?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-all@2.3.0
+- pkg:maven/com.datastax.oss/pulsar-jms-all@2.3.0?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-all@2.3.2
+- pkg:maven/com.datastax.oss/pulsar-jms-all@2.3.2?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-all@2.3.3
+- pkg:maven/com.datastax.oss/pulsar-jms-all@2.3.3?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-all@2.4.0
+- pkg:maven/com.datastax.oss/pulsar-jms-all@2.4.0?classifier=sources

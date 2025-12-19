@@ -17,6 +17,11 @@
 - pkg:maven/io.floodplain/floodplain-mongodb@0.9.8?classifier=sources
 - pkg:maven/io.floodplain/floodplain-mongodb@1.0.0?classifier=sources
 - pkg:maven/io.floodplain/floodplain-mongodb@1.1.0?classifier=sources
+- pkg:maven/io.floodplain/floodplain-mongodb@1.10.0?classifier=sources
+- pkg:maven/io.floodplain/floodplain-mongodb@1.10.2?classifier=sources
+- pkg:maven/io.floodplain/floodplain-mongodb@1.10.4?classifier=sources
+- pkg:maven/io.floodplain/floodplain-mongodb@1.10.6?classifier=sources
+- pkg:maven/io.floodplain/floodplain-mongodb@1.10.8?classifier=sources
 - pkg:maven/io.floodplain/floodplain-mongodb@1.2.0?classifier=sources
 - pkg:maven/io.floodplain/floodplain-mongodb@1.3.0?classifier=sources
 - pkg:maven/io.floodplain/floodplain-mongodb@1.3.10?classifier=sources
@@ -51,3 +56,5 @@
 - pkg:maven/io.floodplain/floodplain-mongodb@1.8.2?classifier=sources
 - pkg:maven/io.floodplain/floodplain-mongodb@1.9.0?classifier=sources
 - pkg:maven/io.floodplain/floodplain-mongodb@1.9.2?classifier=sources
+- pkg:maven/io.floodplain/floodplain-mongodb@1.9.4?classifier=sources
+- pkg:maven/io.floodplain/floodplain-mongodb@1.9.6?classifier=sources

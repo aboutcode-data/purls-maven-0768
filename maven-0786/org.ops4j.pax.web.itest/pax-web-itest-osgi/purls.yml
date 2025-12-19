@@ -2,3 +2,4 @@
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-osgi@8.0.1
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-osgi@8.0.2
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-osgi@8.0.3
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-osgi@8.0.4

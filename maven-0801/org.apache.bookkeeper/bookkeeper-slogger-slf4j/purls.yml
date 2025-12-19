@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.bookkeeper/bookkeeper-slogger-slf4j@4.15.0
+- pkg:maven/org.apache.bookkeeper/bookkeeper-slogger-slf4j@4.15.0?classifier=sources

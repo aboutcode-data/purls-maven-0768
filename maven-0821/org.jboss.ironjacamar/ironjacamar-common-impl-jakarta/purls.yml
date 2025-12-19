@@ -2,3 +2,5 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-common-impl-jakarta@1.5.4.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-common-impl-jakarta@1.5.5.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-common-impl-jakarta@1.5.5.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-common-impl-jakarta@1.5.6.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-common-impl-jakarta@1.5.6.Final?classifier=sources

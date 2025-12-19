@@ -42,3 +42,4 @@
 - pkg:maven/com.oath.cyclops/cyclops@10.3.3?classifier=sources
 - pkg:maven/com.oath.cyclops/cyclops@10.4.0
 - pkg:maven/com.oath.cyclops/cyclops@10.4.0?classifier=sources
+- pkg:maven/com.oath.cyclops/cyclops@10.4.1?classifier=sources

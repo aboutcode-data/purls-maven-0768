@@ -1,1 +1,2 @@
 - pkg:maven/org.springframework.ldap/spring-ldap-sandbox@2.4.0?classifier=sources
+- pkg:maven/org.springframework.ldap/spring-ldap-sandbox@2.4.1?classifier=sources

@@ -7,7 +7,16 @@
 - pkg:maven/ly.warp/warply-android-sdk@4.5.4-cos2?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.4-cos3?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.4-cos?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.4-cosbeta10?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.4-cosbeta11?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.4-cosbeta12?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.4-cosbeta4?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.4-cosbeta5?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.4-cosbeta6?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.4-cosbeta7?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.4-cosbeta8?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.4-cosbeta9?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.4.1?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.4.2?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.4.4?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.4?classifier=sources

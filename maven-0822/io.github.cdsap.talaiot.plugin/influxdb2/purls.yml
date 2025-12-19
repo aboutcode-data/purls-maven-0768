@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cdsap.talaiot.plugin/influxdb2@1.5.2?classifier=sources
+- pkg:maven/io.github.cdsap.talaiot.plugin/influxdb2@1.5.3?classifier=sources

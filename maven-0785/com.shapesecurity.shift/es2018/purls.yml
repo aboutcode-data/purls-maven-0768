@@ -1,2 +1,4 @@
 - pkg:maven/com.shapesecurity.shift/es2018@1.0.0
 - pkg:maven/com.shapesecurity.shift/es2018@1.0.0?classifier=sources
+- pkg:maven/com.shapesecurity.shift/es2018@2.0.0
+- pkg:maven/com.shapesecurity.shift/es2018@2.0.0?classifier=sources

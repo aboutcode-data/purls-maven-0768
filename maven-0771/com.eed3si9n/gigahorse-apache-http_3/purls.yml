@@ -1,0 +1,2 @@
+- pkg:maven/com.eed3si9n/gigahorse-apache-http_3@0.7.0
+- pkg:maven/com.eed3si9n/gigahorse-apache-http_3@0.7.0?classifier=sources

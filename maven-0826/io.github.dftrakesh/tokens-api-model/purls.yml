@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dftrakesh/tokens-api-model@2022.8.2
+- pkg:maven/io.github.dftrakesh/tokens-api-model@2022.8.2?classifier=sources

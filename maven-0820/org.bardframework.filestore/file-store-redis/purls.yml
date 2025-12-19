@@ -6,3 +6,5 @@
 - pkg:maven/org.bardframework.filestore/file-store-redis@0.4?classifier=sources
 - pkg:maven/org.bardframework.filestore/file-store-redis@1.1.19
 - pkg:maven/org.bardframework.filestore/file-store-redis@1.1.19?classifier=sources
+- pkg:maven/org.bardframework.filestore/file-store-redis@1.3.18
+- pkg:maven/org.bardframework.filestore/file-store-redis@1.3.18?classifier=sources

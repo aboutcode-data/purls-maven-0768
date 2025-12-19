@@ -1,0 +1,2 @@
+- pkg:maven/io.github.diego2la/ptg-rest@1.0.0
+- pkg:maven/io.github.diego2la/ptg-rest@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.cert.netsa/netsa-io-ipfix_2.13@1.6.0
+- pkg:maven/org.cert.netsa/netsa-io-ipfix_2.13@1.6.0?classifier=sources

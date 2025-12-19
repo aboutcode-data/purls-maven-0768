@@ -6,3 +6,5 @@
 - pkg:maven/org.monarchinitiative.svart/svart@1.0.2?classifier=sources
 - pkg:maven/org.monarchinitiative.svart/svart@2.0.0-RC1
 - pkg:maven/org.monarchinitiative.svart/svart@2.0.0-RC1?classifier=sources
+- pkg:maven/org.monarchinitiative.svart/svart@2.0.0-RC3
+- pkg:maven/org.monarchinitiative.svart/svart@2.0.0-RC3?classifier=sources

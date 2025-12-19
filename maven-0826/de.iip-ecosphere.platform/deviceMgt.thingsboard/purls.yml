@@ -1,0 +1,2 @@
+- pkg:maven/de.iip-ecosphere.platform/deviceMgt.thingsboard@0.3.0
+- pkg:maven/de.iip-ecosphere.platform/deviceMgt.thingsboard@0.3.0?classifier=sources

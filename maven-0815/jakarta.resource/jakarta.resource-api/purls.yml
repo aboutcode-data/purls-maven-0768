@@ -10,3 +10,7 @@
 - pkg:maven/jakarta.resource/jakarta.resource-api@2.0.0-RC2
 - pkg:maven/jakarta.resource/jakarta.resource-api@2.0.0-RC2?classifier=sources
 - pkg:maven/jakarta.resource/jakarta.resource-api@2.0.0?classifier=sources
+- pkg:maven/jakarta.resource/jakarta.resource-api@2.1.0
+- pkg:maven/jakarta.resource/jakarta.resource-api@2.1.0-RC1
+- pkg:maven/jakarta.resource/jakarta.resource-api@2.1.0-RC1?classifier=sources
+- pkg:maven/jakarta.resource/jakarta.resource-api@2.1.0?classifier=sources

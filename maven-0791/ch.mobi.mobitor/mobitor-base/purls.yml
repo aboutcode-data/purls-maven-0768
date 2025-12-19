@@ -88,6 +88,10 @@
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.313?classifier=sources
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.316
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.316?classifier=sources
+- pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.322
+- pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.322?classifier=sources
+- pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.325
+- pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.325?classifier=sources
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.37
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.37?classifier=sources
 - pkg:maven/ch.mobi.mobitor/mobitor-base@3.1.64

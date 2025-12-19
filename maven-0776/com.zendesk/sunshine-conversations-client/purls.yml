@@ -11,3 +11,6 @@
 - pkg:maven/com.zendesk/sunshine-conversations-client@9.4.5?classifier=sources
 - pkg:maven/com.zendesk/sunshine-conversations-client@9.4.6?classifier=sources
 - pkg:maven/com.zendesk/sunshine-conversations-client@9.5.7?classifier=sources
+- pkg:maven/com.zendesk/sunshine-conversations-client@9.7.0?classifier=sources
+- pkg:maven/com.zendesk/sunshine-conversations-client@9.7.1?classifier=sources
+- pkg:maven/com.zendesk/sunshine-conversations-client@9.7.2?classifier=sources

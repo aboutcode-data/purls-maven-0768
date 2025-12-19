@@ -62,3 +62,5 @@
 - pkg:maven/org.prebid/prebid-mobile-sdk@1.9?classifier=sources
 - pkg:maven/org.prebid/prebid-mobile-sdk@2.0.0
 - pkg:maven/org.prebid/prebid-mobile-sdk@2.0.0?classifier=sources
+- pkg:maven/org.prebid/prebid-mobile-sdk@2.0.1
+- pkg:maven/org.prebid/prebid-mobile-sdk@2.0.1?classifier=sources

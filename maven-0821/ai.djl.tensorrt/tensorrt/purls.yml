@@ -6,3 +6,5 @@
 - pkg:maven/ai.djl.tensorrt/tensorrt@0.15.0?classifier=sources
 - pkg:maven/ai.djl.tensorrt/tensorrt@0.16.0
 - pkg:maven/ai.djl.tensorrt/tensorrt@0.16.0?classifier=sources
+- pkg:maven/ai.djl.tensorrt/tensorrt@0.17.0
+- pkg:maven/ai.djl.tensorrt/tensorrt@0.17.0?classifier=sources

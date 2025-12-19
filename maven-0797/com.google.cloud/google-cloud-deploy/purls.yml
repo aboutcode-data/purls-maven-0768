@@ -17,3 +17,5 @@
 - pkg:maven/com.google.cloud/google-cloud-deploy@1.0.3?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-deploy@1.0.4
 - pkg:maven/com.google.cloud/google-cloud-deploy@1.0.4?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-deploy@1.1.0
+- pkg:maven/com.google.cloud/google-cloud-deploy@1.1.0?classifier=sources

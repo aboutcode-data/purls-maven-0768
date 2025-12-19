@@ -1,0 +1,2 @@
+- pkg:maven/cn.zhdst.fa/zhdst-fa-utils@1.0.0
+- pkg:maven/cn.zhdst.fa/zhdst-fa-utils@1.0.0?classifier=sources

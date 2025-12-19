@@ -19,3 +19,7 @@
 - pkg:maven/com.softicar.platform/platform-db-structure@17.0.3?classifier=sources
 - pkg:maven/com.softicar.platform/platform-db-structure@18.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-db-structure@18.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-structure@18.0.2?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-structure@19.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-structure@19.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-structure@19.0.2?classifier=sources

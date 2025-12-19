@@ -30,3 +30,5 @@
 - pkg:maven/com.botronsoft.cmj.spi/configuration-manager-spi@1.7.0?classifier=sources
 - pkg:maven/com.botronsoft.cmj.spi/configuration-manager-spi@1.7.3
 - pkg:maven/com.botronsoft.cmj.spi/configuration-manager-spi@1.7.3?classifier=sources
+- pkg:maven/com.botronsoft.cmj.spi/configuration-manager-spi@1.8.0
+- pkg:maven/com.botronsoft.cmj.spi/configuration-manager-spi@1.8.0?classifier=sources

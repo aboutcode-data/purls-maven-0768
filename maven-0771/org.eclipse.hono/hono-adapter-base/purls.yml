@@ -34,3 +34,5 @@
 - pkg:maven/org.eclipse.hono/hono-adapter-base@1.9.0?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-adapter-base@1.9.1
 - pkg:maven/org.eclipse.hono/hono-adapter-base@1.9.1?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-adapter-base@2.0.0
+- pkg:maven/org.eclipse.hono/hono-adapter-base@2.0.0?classifier=sources

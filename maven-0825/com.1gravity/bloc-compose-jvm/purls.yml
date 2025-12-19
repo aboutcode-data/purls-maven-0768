@@ -1,0 +1,2 @@
+- pkg:maven/com.1gravity/bloc-compose-jvm@0.5.0?classifier=sources
+- pkg:maven/com.1gravity/bloc-compose-jvm@0.5.1?classifier=sources

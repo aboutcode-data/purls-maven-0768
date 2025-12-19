@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tika/tika-resource-loading-tests@2.4.1
+- pkg:maven/org.apache.tika/tika-resource-loading-tests@2.4.1?classifier=sources

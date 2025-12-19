@@ -1,1 +1,2 @@
 - pkg:maven/br.dev.dig.logger.printer/system-log@1.1.0?classifier=sources
+- pkg:maven/br.dev.dig.logger.printer/system-log@1.2.0?classifier=sources

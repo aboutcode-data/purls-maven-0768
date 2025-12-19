@@ -20,5 +20,7 @@
 - pkg:maven/com.cloudesire.platform/common-dto@2.12.1?classifier=sources
 - pkg:maven/com.cloudesire.platform/common-dto@2.12.3
 - pkg:maven/com.cloudesire.platform/common-dto@2.12.3?classifier=sources
+- pkg:maven/com.cloudesire.platform/common-dto@2.12.4
+- pkg:maven/com.cloudesire.platform/common-dto@2.12.4?classifier=sources
 - pkg:maven/com.cloudesire.platform/common-dto@2.9.2
 - pkg:maven/com.cloudesire.platform/common-dto@2.9.2?classifier=sources

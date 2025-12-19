@@ -1,1 +1,2 @@
 - pkg:maven/com.fizzyapple12.wpilibdi/wpilibdi@1.0.0?classifier=sources
+- pkg:maven/com.fizzyapple12.wpilibdi/wpilibdi@1.1.0?classifier=sources

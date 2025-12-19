@@ -5,3 +5,4 @@
 - pkg:maven/io.github.afkt/DevEnvironmentCompilerRelease@1.0.7?classifier=sources
 - pkg:maven/io.github.afkt/DevEnvironmentCompilerRelease@1.0.8?classifier=sources
 - pkg:maven/io.github.afkt/DevEnvironmentCompilerRelease@1.0.9?classifier=sources
+- pkg:maven/io.github.afkt/DevEnvironmentCompilerRelease@1.1.0?classifier=sources

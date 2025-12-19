@@ -1,2 +1,4 @@
 - pkg:maven/com.fastjrun.codeg/base-sdkg-provider@4.1
+- pkg:maven/com.fastjrun.codeg/base-sdkg-provider@4.1.1
+- pkg:maven/com.fastjrun.codeg/base-sdkg-provider@4.1.1?classifier=sources
 - pkg:maven/com.fastjrun.codeg/base-sdkg-provider@4.1?classifier=sources

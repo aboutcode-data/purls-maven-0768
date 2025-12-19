@@ -29,3 +29,5 @@
 - pkg:maven/io.micronaut.aws/micronaut-function-aws-test@3.2.3?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-function-aws-test@3.3.0?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-function-aws-test@3.4.0?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-function-aws-test@3.5.0?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-function-aws-test@3.5.1?classifier=sources

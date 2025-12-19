@@ -23,6 +23,10 @@
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@4.1.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@4.10.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@4.10.1?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@4.10.2?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@4.10.3?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@4.10.4?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@4.10.5?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@4.2.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@4.3.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@4.3.1?classifier=sources
@@ -57,3 +61,7 @@
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@4.9.2?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@4.9.3?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@4.9.7?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@5.0.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@5.0.1?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@5.0.2?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webmvc-autoconfigure@5.0.3?classifier=sources

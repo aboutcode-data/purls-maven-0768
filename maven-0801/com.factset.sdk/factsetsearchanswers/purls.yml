@@ -1,1 +1,2 @@
+- pkg:maven/com.factset.sdk/factsetsearchanswers@0.20.0?classifier=sources
 - pkg:maven/com.factset.sdk/factsetsearchanswers@0.9.1?classifier=sources

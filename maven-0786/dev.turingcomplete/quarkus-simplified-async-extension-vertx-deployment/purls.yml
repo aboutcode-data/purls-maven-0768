@@ -1,0 +1,4 @@
+- pkg:maven/dev.turingcomplete/quarkus-simplified-async-extension-vertx-deployment@1.0.0
+- pkg:maven/dev.turingcomplete/quarkus-simplified-async-extension-vertx-deployment@1.0.0?classifier=sources
+- pkg:maven/dev.turingcomplete/quarkus-simplified-async-extension-vertx-deployment@1.1.0
+- pkg:maven/dev.turingcomplete/quarkus-simplified-async-extension-vertx-deployment@1.1.0?classifier=sources

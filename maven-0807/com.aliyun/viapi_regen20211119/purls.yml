@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/viapi_regen20211119@1.0.0
+- pkg:maven/com.aliyun/viapi_regen20211119@1.0.0?classifier=sources

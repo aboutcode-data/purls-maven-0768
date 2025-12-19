@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.asterix/asterix-jdbc-taco@0.9.7.1
 - pkg:maven/org.apache.asterix/asterix-jdbc-taco@0.9.7.1?classifier=sources
+- pkg:maven/org.apache.asterix/asterix-jdbc-taco@0.9.8
+- pkg:maven/org.apache.asterix/asterix-jdbc-taco@0.9.8?classifier=sources

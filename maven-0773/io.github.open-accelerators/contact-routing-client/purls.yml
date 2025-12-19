@@ -1,0 +1,2 @@
+- pkg:maven/io.github.open-accelerators/contact-routing-client@1.0.2
+- pkg:maven/io.github.open-accelerators/contact-routing-client@1.0.2?classifier=sources

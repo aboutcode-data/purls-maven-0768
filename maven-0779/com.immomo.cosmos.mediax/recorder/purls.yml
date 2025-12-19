@@ -50,3 +50,13 @@
 - pkg:maven/com.immomo.cosmos.mediax/recorder@2.4.2_123001?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/recorder@2.5.1_041501?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/recorder@2.5.1_041501?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.5.2_050901?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.5.2_050901?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.5.2_050902?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.5.2_050902?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.5.2_051801?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.5.2_051801?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.5.2_060601?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.5.2_060601?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.5.2_060701?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/recorder@2.5.2_060701?type=aar

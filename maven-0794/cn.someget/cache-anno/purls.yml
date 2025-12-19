@@ -1,0 +1,12 @@
+- pkg:maven/cn.someget/cache-anno@0.0.2
+- pkg:maven/cn.someget/cache-anno@0.0.2?classifier=sources
+- pkg:maven/cn.someget/cache-anno@0.0.3
+- pkg:maven/cn.someget/cache-anno@0.0.3-RELEASE
+- pkg:maven/cn.someget/cache-anno@0.0.3-RELEASE?classifier=sources
+- pkg:maven/cn.someget/cache-anno@0.0.3?classifier=sources
+- pkg:maven/cn.someget/cache-anno@1.0.3-RELEASE
+- pkg:maven/cn.someget/cache-anno@1.0.3-RELEASE?classifier=sources
+- pkg:maven/cn.someget/cache-anno@2.0.0
+- pkg:maven/cn.someget/cache-anno@2.0.0?classifier=sources
+- pkg:maven/cn.someget/cache-anno@2.0.1
+- pkg:maven/cn.someget/cache-anno@2.0.1?classifier=sources

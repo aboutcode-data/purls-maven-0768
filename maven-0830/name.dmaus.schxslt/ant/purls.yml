@@ -36,3 +36,7 @@
 - pkg:maven/name.dmaus.schxslt/ant@1.8.7
 - pkg:maven/name.dmaus.schxslt/ant@1.8.7?classifier=sources
 - pkg:maven/name.dmaus.schxslt/ant@1.8?classifier=sources
+- pkg:maven/name.dmaus.schxslt/ant@1.9
+- pkg:maven/name.dmaus.schxslt/ant@1.9.1
+- pkg:maven/name.dmaus.schxslt/ant@1.9.1?classifier=sources
+- pkg:maven/name.dmaus.schxslt/ant@1.9?classifier=sources

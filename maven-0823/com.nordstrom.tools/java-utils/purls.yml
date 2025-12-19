@@ -44,3 +44,7 @@
 - pkg:maven/com.nordstrom.tools/java-utils@2.0.3?classifier=sources
 - pkg:maven/com.nordstrom.tools/java-utils@2.1.0
 - pkg:maven/com.nordstrom.tools/java-utils@2.1.0?classifier=sources
+- pkg:maven/com.nordstrom.tools/java-utils@2.2.0
+- pkg:maven/com.nordstrom.tools/java-utils@2.2.0?classifier=sources
+- pkg:maven/com.nordstrom.tools/java-utils@3.0.0
+- pkg:maven/com.nordstrom.tools/java-utils@3.0.0?classifier=sources

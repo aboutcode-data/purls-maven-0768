@@ -1,0 +1,2 @@
+- pkg:maven/com.spirytusz/booster-processor-scan@1.3.0?classifier=sources
+- pkg:maven/com.spirytusz/booster-processor-scan@1.3.1?classifier=sources

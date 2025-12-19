@@ -150,6 +150,10 @@
 - pkg:maven/org.drools/drools-scenario-simulation-backend@7.68.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-scenario-simulation-backend@7.69.0.Final
 - pkg:maven/org.drools/drools-scenario-simulation-backend@7.69.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-scenario-simulation-backend@7.70.0.Final
+- pkg:maven/org.drools/drools-scenario-simulation-backend@7.70.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-scenario-simulation-backend@7.71.0.Final
+- pkg:maven/org.drools/drools-scenario-simulation-backend@7.71.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-scenario-simulation-backend@8.13.0.Beta
 - pkg:maven/org.drools/drools-scenario-simulation-backend@8.13.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-scenario-simulation-backend@8.14.0.Beta
@@ -172,3 +176,7 @@
 - pkg:maven/org.drools/drools-scenario-simulation-backend@8.20.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-scenario-simulation-backend@8.21.0.Beta
 - pkg:maven/org.drools/drools-scenario-simulation-backend@8.21.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-scenario-simulation-backend@8.22.0.Beta
+- pkg:maven/org.drools/drools-scenario-simulation-backend@8.22.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-scenario-simulation-backend@8.22.1.Beta
+- pkg:maven/org.drools/drools-scenario-simulation-backend@8.22.1.Beta?classifier=sources

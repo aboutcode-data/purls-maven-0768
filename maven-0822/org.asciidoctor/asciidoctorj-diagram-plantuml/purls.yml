@@ -1,1 +1,2 @@
 - pkg:maven/org.asciidoctor/asciidoctorj-diagram-plantuml@1.2021.8?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-diagram-plantuml@1.2022.5?classifier=sources

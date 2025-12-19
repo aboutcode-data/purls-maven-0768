@@ -1,0 +1,2 @@
+- pkg:maven/io.cdap.cdap/cdap-support-bundle@6.7.0
+- pkg:maven/io.cdap.cdap/cdap-support-bundle@6.7.0?classifier=sources

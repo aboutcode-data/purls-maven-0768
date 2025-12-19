@@ -1,0 +1,2 @@
+- pkg:maven/fr.funixgaming.funixbot.twitch/FunixBot-Twitch@1.1.1
+- pkg:maven/fr.funixgaming.funixbot.twitch/FunixBot-Twitch@1.1.1?classifier=sources

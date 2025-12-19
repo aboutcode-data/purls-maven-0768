@@ -2,3 +2,5 @@
 - pkg:maven/com.sudoplatform/sudodirelay@0.1.0?type=aar
 - pkg:maven/com.sudoplatform/sudodirelay@1.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudodirelay@1.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudodirelay@2.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudodirelay@2.0.0?type=aar

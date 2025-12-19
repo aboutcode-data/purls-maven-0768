@@ -1,0 +1,2 @@
+- pkg:maven/top.wu2020/wu-easy-mysql-binlog-listener@1.0.9-JDK1.8
+- pkg:maven/top.wu2020/wu-easy-mysql-binlog-listener@1.0.9-JDK1.8?classifier=sources

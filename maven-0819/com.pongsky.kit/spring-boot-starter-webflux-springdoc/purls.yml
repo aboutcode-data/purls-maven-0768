@@ -1,0 +1,5 @@
+- pkg:maven/com.pongsky.kit/spring-boot-starter-webflux-springdoc@3.10.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-webflux-springdoc@3.10.1-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-webflux-springdoc@3.11.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-webflux-springdoc@3.11.1-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-webflux-springdoc@4.0.0-2.4.13?classifier=sources

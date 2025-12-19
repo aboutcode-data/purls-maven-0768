@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tonyandfriday/nebula-jdbc@1.2
+- pkg:maven/io.github.tonyandfriday/nebula-jdbc@1.2?classifier=sources

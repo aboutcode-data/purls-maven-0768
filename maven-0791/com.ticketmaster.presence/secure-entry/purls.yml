@@ -1,0 +1,2 @@
+- pkg:maven/com.ticketmaster.presence/secure-entry@1.2.3?classifier=sources
+- pkg:maven/com.ticketmaster.presence/secure-entry@1.2.3?type=aar

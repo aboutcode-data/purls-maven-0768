@@ -1,0 +1,12 @@
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.0.10
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.0.10-RELEASE
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.0.10-RELEASE?classifier=sources
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.0.10?classifier=sources
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.0.11
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.0.11?classifier=sources
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.0.7
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.0.7?classifier=sources
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.0.8
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.0.8?classifier=sources
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.0.9
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-spring-boot-starter@1.0.9?classifier=sources

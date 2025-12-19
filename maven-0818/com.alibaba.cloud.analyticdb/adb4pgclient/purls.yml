@@ -4,3 +4,4 @@
 - pkg:maven/com.alibaba.cloud.analyticdb/adb4pgclient@1.0.1?classifier=sources
 - pkg:maven/com.alibaba.cloud.analyticdb/adb4pgclient@1.0.2?classifier=sources
 - pkg:maven/com.alibaba.cloud.analyticdb/adb4pgclient@1.0.3?classifier=sources
+- pkg:maven/com.alibaba.cloud.analyticdb/adb4pgclient@1.0.4?classifier=sources

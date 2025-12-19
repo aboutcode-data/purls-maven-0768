@@ -1,0 +1,2 @@
+- pkg:maven/com.xenoamess/cyclonedx-maven-plugin@2.6.2.1x
+- pkg:maven/com.xenoamess/cyclonedx-maven-plugin@2.6.2.1x?classifier=sources

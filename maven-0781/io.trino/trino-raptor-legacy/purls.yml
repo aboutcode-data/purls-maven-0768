@@ -27,3 +27,10 @@
 - pkg:maven/io.trino/trino-raptor-legacy@377?classifier=sources
 - pkg:maven/io.trino/trino-raptor-legacy@378?classifier=sources
 - pkg:maven/io.trino/trino-raptor-legacy@379?classifier=sources
+- pkg:maven/io.trino/trino-raptor-legacy@380?classifier=sources
+- pkg:maven/io.trino/trino-raptor-legacy@381?classifier=sources
+- pkg:maven/io.trino/trino-raptor-legacy@382?classifier=sources
+- pkg:maven/io.trino/trino-raptor-legacy@383?classifier=sources
+- pkg:maven/io.trino/trino-raptor-legacy@384?classifier=sources
+- pkg:maven/io.trino/trino-raptor-legacy@385?classifier=sources
+- pkg:maven/io.trino/trino-raptor-legacy@386?classifier=sources

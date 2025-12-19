@@ -1,2 +1,4 @@
 - pkg:maven/works.nuka/ModularKit@1.4.21
 - pkg:maven/works.nuka/ModularKit@1.4.21?classifier=sources
+- pkg:maven/works.nuka/ModularKit@1.5.1
+- pkg:maven/works.nuka/ModularKit@1.5.1?classifier=sources

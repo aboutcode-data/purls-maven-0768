@@ -1,0 +1,2 @@
+- pkg:maven/io.arkitik.audit.tale/audit-tale-core-store@v1.0.0
+- pkg:maven/io.arkitik.audit.tale/audit-tale-core-store@v1.0.0?classifier=sources

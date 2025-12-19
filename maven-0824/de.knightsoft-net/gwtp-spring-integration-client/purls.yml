@@ -70,6 +70,8 @@
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-client@1.1.8?classifier=sources
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-client@1.1.9
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-client@1.1.9?classifier=sources
+- pkg:maven/de.knightsoft-net/gwtp-spring-integration-client@1.10.0
+- pkg:maven/de.knightsoft-net/gwtp-spring-integration-client@1.10.0?classifier=sources
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-client@1.2.0
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-client@1.2.0?classifier=sources
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-client@1.2.1

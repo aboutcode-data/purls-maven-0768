@@ -56,3 +56,17 @@
 - pkg:maven/io.trino/trino-memory-context@378?classifier=sources
 - pkg:maven/io.trino/trino-memory-context@379
 - pkg:maven/io.trino/trino-memory-context@379?classifier=sources
+- pkg:maven/io.trino/trino-memory-context@380
+- pkg:maven/io.trino/trino-memory-context@380?classifier=sources
+- pkg:maven/io.trino/trino-memory-context@381
+- pkg:maven/io.trino/trino-memory-context@381?classifier=sources
+- pkg:maven/io.trino/trino-memory-context@382
+- pkg:maven/io.trino/trino-memory-context@382?classifier=sources
+- pkg:maven/io.trino/trino-memory-context@383
+- pkg:maven/io.trino/trino-memory-context@383?classifier=sources
+- pkg:maven/io.trino/trino-memory-context@384
+- pkg:maven/io.trino/trino-memory-context@384?classifier=sources
+- pkg:maven/io.trino/trino-memory-context@385
+- pkg:maven/io.trino/trino-memory-context@385?classifier=sources
+- pkg:maven/io.trino/trino-memory-context@386
+- pkg:maven/io.trino/trino-memory-context@386?classifier=sources

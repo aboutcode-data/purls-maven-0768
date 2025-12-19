@@ -4,3 +4,7 @@
 - pkg:maven/com.commercetools.sdk/commercetools-money@8.6.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-money@8.6.1?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-money@8.7.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-money@8.7.1?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-money@8.8.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-money@8.8.1?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-money@8.9.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.lonelysnow/snow-api-version@1.0
+- pkg:maven/cn.lonelysnow/snow-api-version@1.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.micronaut.test/micronaut-test-rest-assured@3.4.0?classifier=sources

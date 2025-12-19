@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe-yaml_2.12@0.2.1
+- pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe-yaml_2.12@0.2.1?classifier=sources

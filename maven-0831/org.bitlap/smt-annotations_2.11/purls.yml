@@ -1,0 +1,6 @@
+- pkg:maven/org.bitlap/smt-annotations_2.11@0.6.0
+- pkg:maven/org.bitlap/smt-annotations_2.11@0.6.0?classifier=sources
+- pkg:maven/org.bitlap/smt-annotations_2.11@0.7.0
+- pkg:maven/org.bitlap/smt-annotations_2.11@0.7.0?classifier=sources
+- pkg:maven/org.bitlap/smt-annotations_2.11@0.7.1
+- pkg:maven/org.bitlap/smt-annotations_2.11@0.7.1?classifier=sources

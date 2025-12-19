@@ -22,6 +22,7 @@
 - pkg:maven/org.apache.tomee/tomee-project@8.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.tomee/tomee-project@8.0.10?classifier=source-release&type=zip
 - pkg:maven/org.apache.tomee/tomee-project@8.0.11?classifier=source-release&type=zip
+- pkg:maven/org.apache.tomee/tomee-project@8.0.12?classifier=source-release&type=zip
 - pkg:maven/org.apache.tomee/tomee-project@8.0.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.tomee/tomee-project@8.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.tomee/tomee-project@8.0.3?classifier=source-release&type=zip

@@ -38,3 +38,5 @@
 - pkg:maven/tv.hd3g/jobkit-engine@6.0.1?classifier=sources
 - pkg:maven/tv.hd3g/jobkit-engine@9.0.0
 - pkg:maven/tv.hd3g/jobkit-engine@9.0.0?classifier=sources
+- pkg:maven/tv.hd3g/jobkit-engine@9.0.1
+- pkg:maven/tv.hd3g/jobkit-engine@9.0.1?classifier=sources

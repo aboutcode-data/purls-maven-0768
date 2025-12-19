@@ -2,4 +2,6 @@
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-transaction-client-jakarta@1.1.10.Final?classifier=sources
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-transaction-client-jakarta@1.1.11.Final
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-transaction-client-jakarta@1.1.11.Final?classifier=sources
+- pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-transaction-client-jakarta@1.1.12.Final
+- pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-transaction-client-jakarta@1.1.12.Final?classifier=sources
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-transaction-client-jakarta@1.1.9.Final?classifier=sources

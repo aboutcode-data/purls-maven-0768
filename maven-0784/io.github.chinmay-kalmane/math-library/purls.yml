@@ -1,5 +1,10 @@
 - pkg:maven/io.github.chinmay-kalmane/math-library@1.0.0?classifier=sources
+- pkg:maven/io.github.chinmay-kalmane/math-library@1.0.13?classifier=sources
+- pkg:maven/io.github.chinmay-kalmane/math-library@1.0.15?classifier=sources
 - pkg:maven/io.github.chinmay-kalmane/math-library@1.0.1?classifier=sources
 - pkg:maven/io.github.chinmay-kalmane/math-library@1.0.2?classifier=sources
 - pkg:maven/io.github.chinmay-kalmane/math-library@1.0.3?classifier=sources
 - pkg:maven/io.github.chinmay-kalmane/math-library@1.0.4?classifier=sources
+- pkg:maven/io.github.chinmay-kalmane/math-library@1.0.7?classifier=sources
+- pkg:maven/io.github.chinmay-kalmane/math-library@1.0.8?classifier=sources
+- pkg:maven/io.github.chinmay-kalmane/math-library@v1.0.14?classifier=sources

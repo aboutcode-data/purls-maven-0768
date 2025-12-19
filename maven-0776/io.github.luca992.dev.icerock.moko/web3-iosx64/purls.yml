@@ -1,1 +1,4 @@
 - pkg:maven/io.github.luca992.dev.icerock.moko/web3-iosx64@0.18.2-ktor2?classifier=sources
+- pkg:maven/io.github.luca992.dev.icerock.moko/web3-iosx64@0.18.3-ktor2?classifier=sources
+- pkg:maven/io.github.luca992.dev.icerock.moko/web3-iosx64@0.18.3-ktor2_ionspinbignum?classifier=sources
+- pkg:maven/io.github.luca992.dev.icerock.moko/web3-iosx64@0.18.4-ktor2_ionspinbignum?classifier=sources

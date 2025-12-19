@@ -1,0 +1,2 @@
+- pkg:maven/org.meeuw.i18n/i18n-subdivision-enums@0.3
+- pkg:maven/org.meeuw.i18n/i18n-subdivision-enums@0.3?classifier=sources

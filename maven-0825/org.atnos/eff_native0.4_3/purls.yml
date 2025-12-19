@@ -1,0 +1,2 @@
+- pkg:maven/org.atnos/eff_native0.4_3@6.0.1
+- pkg:maven/org.atnos/eff_native0.4_3@6.0.1?classifier=sources

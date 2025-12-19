@@ -1,0 +1,4 @@
+- pkg:maven/au.csiro.pathling/encoders@5.1.0
+- pkg:maven/au.csiro.pathling/encoders@5.1.0?classifier=sources
+- pkg:maven/au.csiro.pathling/encoders@5.1.1
+- pkg:maven/au.csiro.pathling/encoders@5.1.1?classifier=sources

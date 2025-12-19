@@ -16,3 +16,11 @@
 - pkg:maven/com.github.nawforce/runforce@53.1.2?classifier=sources
 - pkg:maven/com.github.nawforce/runforce@55.0.0
 - pkg:maven/com.github.nawforce/runforce@55.0.0?classifier=sources
+- pkg:maven/com.github.nawforce/runforce@55.1.0
+- pkg:maven/com.github.nawforce/runforce@55.1.0?classifier=sources
+- pkg:maven/com.github.nawforce/runforce@55.2.0
+- pkg:maven/com.github.nawforce/runforce@55.2.0?classifier=sources
+- pkg:maven/com.github.nawforce/runforce@55.3.0
+- pkg:maven/com.github.nawforce/runforce@55.3.0?classifier=sources
+- pkg:maven/com.github.nawforce/runforce@55.4.0
+- pkg:maven/com.github.nawforce/runforce@55.4.0?classifier=sources

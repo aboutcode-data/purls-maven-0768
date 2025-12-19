@@ -13,3 +13,6 @@
 - pkg:maven/com.microsoft.device.dualscreen/twopanelayout@1.0.0-beta03?classifier=sources
 - pkg:maven/com.microsoft.device.dualscreen/twopanelayout@1.0.0-beta04?classifier=sources
 - pkg:maven/com.microsoft.device.dualscreen/twopanelayout@1.0.0-beta05?classifier=sources
+- pkg:maven/com.microsoft.device.dualscreen/twopanelayout@1.0.0?classifier=sources
+- pkg:maven/com.microsoft.device.dualscreen/twopanelayout@1.0.1-alpha01?classifier=sources
+- pkg:maven/com.microsoft.device.dualscreen/twopanelayout@1.0.1-alpha02?classifier=sources

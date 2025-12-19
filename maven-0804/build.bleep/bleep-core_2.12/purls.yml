@@ -1,0 +1,4 @@
+- pkg:maven/build.bleep/bleep-core_2.12@0.0.1-M3
+- pkg:maven/build.bleep/bleep-core_2.12@0.0.1-M3?classifier=sources
+- pkg:maven/build.bleep/bleep-core_2.12@0.0.1-M4
+- pkg:maven/build.bleep/bleep-core_2.12@0.0.1-M4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.bennyhuo.kotlin/trimindent-compiler@1.6.10.0?classifier=sources
+- pkg:maven/com.bennyhuo.kotlin/trimindent-compiler@1.6.10.1?classifier=sources

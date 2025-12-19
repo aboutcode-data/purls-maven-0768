@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.sis.cloud/sis-cloud-aws@1.2
+- pkg:maven/org.apache.sis.cloud/sis-cloud-aws@1.2?classifier=sources

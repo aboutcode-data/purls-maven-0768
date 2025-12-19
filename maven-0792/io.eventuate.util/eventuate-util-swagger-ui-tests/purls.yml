@@ -1,2 +1,4 @@
 - pkg:maven/io.eventuate.util/eventuate-util-swagger-ui-tests@0.12.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.util/eventuate-util-swagger-ui-tests@0.13.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.util/eventuate-util-swagger-ui-tests@0.14.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.util/eventuate-util-swagger-ui-tests@0.14.1.RELEASE?classifier=sources

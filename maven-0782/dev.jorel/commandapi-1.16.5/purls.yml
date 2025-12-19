@@ -1,2 +1,10 @@
 - pkg:maven/dev.jorel/commandapi-1.16.5@7.0.0
 - pkg:maven/dev.jorel/commandapi-1.16.5@7.0.0?classifier=sources
+- pkg:maven/dev.jorel/commandapi-1.16.5@8.2.0
+- pkg:maven/dev.jorel/commandapi-1.16.5@8.2.0?classifier=sources
+- pkg:maven/dev.jorel/commandapi-1.16.5@8.2.1
+- pkg:maven/dev.jorel/commandapi-1.16.5@8.2.1?classifier=sources
+- pkg:maven/dev.jorel/commandapi-1.16.5@8.3.0
+- pkg:maven/dev.jorel/commandapi-1.16.5@8.3.0?classifier=sources
+- pkg:maven/dev.jorel/commandapi-1.16.5@8.3.1
+- pkg:maven/dev.jorel/commandapi-1.16.5@8.3.1?classifier=sources

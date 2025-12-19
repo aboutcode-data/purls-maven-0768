@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/cac@6.7.12
+- pkg:maven/org.webjars.npm/cac@6.7.12?classifier=sources

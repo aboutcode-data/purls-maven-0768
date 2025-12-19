@@ -12,3 +12,5 @@
 - pkg:maven/io.github.danielpine/boring-tools@1.0.5-RELEASE?classifier=sources
 - pkg:maven/io.github.danielpine/boring-tools@1.0.7-RELEASE
 - pkg:maven/io.github.danielpine/boring-tools@1.0.7-RELEASE?classifier=sources
+- pkg:maven/io.github.danielpine/boring-tools@1.0.8-RELEASE
+- pkg:maven/io.github.danielpine/boring-tools@1.0.8-RELEASE?classifier=sources

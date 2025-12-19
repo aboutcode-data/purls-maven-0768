@@ -46,3 +46,5 @@
 - pkg:maven/org.specs2/xml_2.13@4.14.1?classifier=sources
 - pkg:maven/org.specs2/xml_2.13@4.15.0
 - pkg:maven/org.specs2/xml_2.13@4.15.0?classifier=sources
+- pkg:maven/org.specs2/xml_2.13@4.16.0
+- pkg:maven/org.specs2/xml_2.13@4.16.0?classifier=sources

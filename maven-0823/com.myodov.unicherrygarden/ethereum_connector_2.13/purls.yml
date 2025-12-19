@@ -1,5 +1,7 @@
 - pkg:maven/com.myodov.unicherrygarden/ethereum_connector_2.13@0.10.0
 - pkg:maven/com.myodov.unicherrygarden/ethereum_connector_2.13@0.10.0?classifier=sources
+- pkg:maven/com.myodov.unicherrygarden/ethereum_connector_2.13@0.10.9
+- pkg:maven/com.myodov.unicherrygarden/ethereum_connector_2.13@0.10.9?classifier=sources
 - pkg:maven/com.myodov.unicherrygarden/ethereum_connector_2.13@0.8.0
 - pkg:maven/com.myodov.unicherrygarden/ethereum_connector_2.13@0.8.0?classifier=sources
 - pkg:maven/com.myodov.unicherrygarden/ethereum_connector_2.13@0.8.1

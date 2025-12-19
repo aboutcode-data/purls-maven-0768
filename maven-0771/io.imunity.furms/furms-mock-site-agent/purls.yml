@@ -9,3 +9,4 @@
 - pkg:maven/io.imunity.furms/furms-mock-site-agent@4.1.0
 - pkg:maven/io.imunity.furms/furms-mock-site-agent@4.1.0-rc
 - pkg:maven/io.imunity.furms/furms-mock-site-agent@4.1.1
+- pkg:maven/io.imunity.furms/furms-mock-site-agent@4.1.2

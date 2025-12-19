@@ -2,3 +2,4 @@
 - pkg:maven/org.eclipse.jkube/gradle-plugin-doc@1.5.1
 - pkg:maven/org.eclipse.jkube/gradle-plugin-doc@1.6.0
 - pkg:maven/org.eclipse.jkube/gradle-plugin-doc@1.7.0
+- pkg:maven/org.eclipse.jkube/gradle-plugin-doc@1.8.0

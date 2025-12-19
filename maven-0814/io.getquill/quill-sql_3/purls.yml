@@ -16,8 +16,20 @@
 - pkg:maven/io.getquill/quill-sql_3@3.16.3.Beta2.4?classifier=sources
 - pkg:maven/io.getquill/quill-sql_3@3.16.3.Beta2.5
 - pkg:maven/io.getquill/quill-sql_3@3.16.3.Beta2.5?classifier=sources
+- pkg:maven/io.getquill/quill-sql_3@3.16.4-Beta2.7
+- pkg:maven/io.getquill/quill-sql_3@3.16.4-Beta2.7?classifier=sources
+- pkg:maven/io.getquill/quill-sql_3@3.16.4-Beta28
+- pkg:maven/io.getquill/quill-sql_3@3.16.4-Beta28?classifier=sources
 - pkg:maven/io.getquill/quill-sql_3@3.16.4.Beta2.6
 - pkg:maven/io.getquill/quill-sql_3@3.16.4.Beta2.6?classifier=sources
+- pkg:maven/io.getquill/quill-sql_3@3.16.5-Beta29
+- pkg:maven/io.getquill/quill-sql_3@3.16.5-Beta29?classifier=sources
+- pkg:maven/io.getquill/quill-sql_3@3.16.5-Beta30
+- pkg:maven/io.getquill/quill-sql_3@3.16.5-Beta30?classifier=sources
+- pkg:maven/io.getquill/quill-sql_3@3.17.0-Beta30-RC4
+- pkg:maven/io.getquill/quill-sql_3@3.17.0-Beta30-RC4?classifier=sources
+- pkg:maven/io.getquill/quill-sql_3@3.17.0-Beta30-RC5
+- pkg:maven/io.getquill/quill-sql_3@3.17.0-Beta30-RC5?classifier=sources
 - pkg:maven/io.getquill/quill-sql_3@3.17.0.Beta3.0-RC1
 - pkg:maven/io.getquill/quill-sql_3@3.17.0.Beta3.0-RC1?classifier=sources
 - pkg:maven/io.getquill/quill-sql_3@3.17.0.Beta3.0-RC2
@@ -26,6 +38,8 @@
 - pkg:maven/io.getquill/quill-sql_3@3.17.0.Beta3.0-RC3?classifier=sources
 - pkg:maven/io.getquill/quill-sql_3@3.17.0.Beta3.0-RC4
 - pkg:maven/io.getquill/quill-sql_3@3.17.0.Beta3.0-RC4?classifier=sources
+- pkg:maven/io.getquill/quill-sql_3@3.18.0
+- pkg:maven/io.getquill/quill-sql_3@3.18.0?classifier=sources
 - pkg:maven/io.getquill/quill-sql_3@3.7.1.Beta1.0
 - pkg:maven/io.getquill/quill-sql_3@3.7.1.Beta1.0?classifier=sources
 - pkg:maven/io.getquill/quill-sql_3@3.7.1.Beta1.1
@@ -36,3 +50,5 @@
 - pkg:maven/io.getquill/quill-sql_3@3.7.2.Beta1.3?classifier=sources
 - pkg:maven/io.getquill/quill-sql_3@3.7.2.Beta1.4
 - pkg:maven/io.getquill/quill-sql_3@3.7.2.Beta1.4?classifier=sources
+- pkg:maven/io.getquill/quill-sql_3@4.0.0-RC1
+- pkg:maven/io.getquill/quill-sql_3@4.0.0-RC1?classifier=sources

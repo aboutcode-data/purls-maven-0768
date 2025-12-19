@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/babel__helper-environment-visitor@7.16.7
 - pkg:maven/org.webjars.npm/babel__helper-environment-visitor@7.16.7?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-environment-visitor@7.18.2
+- pkg:maven/org.webjars.npm/babel__helper-environment-visitor@7.18.2?classifier=sources

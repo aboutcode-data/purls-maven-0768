@@ -12,3 +12,4 @@
 - pkg:maven/com.github.piacenti/dsl-maker-js@1.1.44?classifier=sources
 - pkg:maven/com.github.piacenti/dsl-maker-js@1.1.45?classifier=sources
 - pkg:maven/com.github.piacenti/dsl-maker-js@1.1.46?classifier=sources
+- pkg:maven/com.github.piacenti/dsl-maker-js@1.1.47?classifier=sources

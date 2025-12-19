@@ -18,3 +18,7 @@
 - pkg:maven/com.microsoft.azure/azure-toolkit-postgre-lib@0.19.2?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-toolkit-postgre-lib@0.20.0
 - pkg:maven/com.microsoft.azure/azure-toolkit-postgre-lib@0.20.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-postgre-lib@0.21.0
+- pkg:maven/com.microsoft.azure/azure-toolkit-postgre-lib@0.21.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-postgre-lib@0.21.1
+- pkg:maven/com.microsoft.azure/azure-toolkit-postgre-lib@0.21.1?classifier=sources

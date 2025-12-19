@@ -1,1 +1,2 @@
 - pkg:maven/io.netty/netty5-testsuite-native@5.0.0.Alpha1
+- pkg:maven/io.netty/netty5-testsuite-native@5.0.0.Alpha2

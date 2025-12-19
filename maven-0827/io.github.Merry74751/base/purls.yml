@@ -12,3 +12,7 @@
 - pkg:maven/io.github.Merry74751/base@0.2.RELEASE?classifier=sources
 - pkg:maven/io.github.Merry74751/base@0.3.RELEASE
 - pkg:maven/io.github.Merry74751/base@0.3.RELEASE?classifier=sources
+- pkg:maven/io.github.Merry74751/base@0.4.RELEASE
+- pkg:maven/io.github.Merry74751/base@0.4.RELEASE?classifier=sources
+- pkg:maven/io.github.Merry74751/base@0.6
+- pkg:maven/io.github.Merry74751/base@0.6?classifier=sources

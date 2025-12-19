@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/cats-docs_2.13@2.8.0
+- pkg:maven/org.typelevel/cats-docs_2.13@2.8.0?classifier=sources

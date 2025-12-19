@@ -3,3 +3,4 @@
 - pkg:maven/it.nicolasfarabegoli/conventional-commits@1.0.2?classifier=sources
 - pkg:maven/it.nicolasfarabegoli/conventional-commits@1.0.3?classifier=sources
 - pkg:maven/it.nicolasfarabegoli/conventional-commits@2.0.0?classifier=sources
+- pkg:maven/it.nicolasfarabegoli/conventional-commits@3.0.0?classifier=sources

@@ -8,5 +8,7 @@
 - pkg:maven/com.github.yingzhuo/spring-turbo-module-csv@1.0.13?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-module-csv@1.0.14
 - pkg:maven/com.github.yingzhuo/spring-turbo-module-csv@1.0.14?classifier=sources
+- pkg:maven/com.github.yingzhuo/spring-turbo-module-csv@1.0.15
+- pkg:maven/com.github.yingzhuo/spring-turbo-module-csv@1.0.15?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-module-csv@1.0.9
 - pkg:maven/com.github.yingzhuo/spring-turbo-module-csv@1.0.9?classifier=sources
