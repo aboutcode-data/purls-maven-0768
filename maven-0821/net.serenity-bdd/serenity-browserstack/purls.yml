@@ -330,3 +330,5 @@
 - pkg:maven/net.serenity-bdd/serenity-browserstack@3.7.0?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-browserstack@3.7.1
 - pkg:maven/net.serenity-bdd/serenity-browserstack@3.7.1?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-browserstack@3.8.1
+- pkg:maven/net.serenity-bdd/serenity-browserstack@3.8.1?classifier=sources

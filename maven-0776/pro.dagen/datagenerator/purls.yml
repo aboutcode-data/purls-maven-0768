@@ -1,0 +1,6 @@
+- pkg:maven/pro.dagen/datagenerator@1.0.2
+- pkg:maven/pro.dagen/datagenerator@1.0.2?classifier=sources
+- pkg:maven/pro.dagen/datagenerator@1.1.0
+- pkg:maven/pro.dagen/datagenerator@1.1.0?classifier=sources
+- pkg:maven/pro.dagen/datagenerator@1.2.0
+- pkg:maven/pro.dagen/datagenerator@1.2.0?classifier=sources

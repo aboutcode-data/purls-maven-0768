@@ -38,6 +38,10 @@
 - pkg:maven/org.apache.maven/maven-resolver-provider@3.9.0?classifier=sources
 - pkg:maven/org.apache.maven/maven-resolver-provider@3.9.1
 - pkg:maven/org.apache.maven/maven-resolver-provider@3.9.1?classifier=sources
+- pkg:maven/org.apache.maven/maven-resolver-provider@3.9.2
+- pkg:maven/org.apache.maven/maven-resolver-provider@3.9.2?classifier=sources
+- pkg:maven/org.apache.maven/maven-resolver-provider@3.9.3
+- pkg:maven/org.apache.maven/maven-resolver-provider@3.9.3?classifier=sources
 - pkg:maven/org.apache.maven/maven-resolver-provider@4.0.0-alpha-2
 - pkg:maven/org.apache.maven/maven-resolver-provider@4.0.0-alpha-2?classifier=sources
 - pkg:maven/org.apache.maven/maven-resolver-provider@4.0.0-alpha-3
@@ -46,3 +50,5 @@
 - pkg:maven/org.apache.maven/maven-resolver-provider@4.0.0-alpha-4?classifier=sources
 - pkg:maven/org.apache.maven/maven-resolver-provider@4.0.0-alpha-5
 - pkg:maven/org.apache.maven/maven-resolver-provider@4.0.0-alpha-5?classifier=sources
+- pkg:maven/org.apache.maven/maven-resolver-provider@4.0.0-alpha-7
+- pkg:maven/org.apache.maven/maven-resolver-provider@4.0.0-alpha-7?classifier=sources

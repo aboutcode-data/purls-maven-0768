@@ -5,6 +5,11 @@
 - pkg:maven/me.proton.core/payment-iap@10.3.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap@10.4.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap@10.5.0?classifier=sources
+- pkg:maven/me.proton.core/payment-iap@10.6.0?classifier=sources
+- pkg:maven/me.proton.core/payment-iap@10.7.0?classifier=sources
+- pkg:maven/me.proton.core/payment-iap@10.7.1?classifier=sources
+- pkg:maven/me.proton.core/payment-iap@11.0.0?classifier=sources
+- pkg:maven/me.proton.core/payment-iap@12.0.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap@9.0.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap@9.0.1?classifier=sources
 - pkg:maven/me.proton.core/payment-iap@9.0.2?classifier=sources

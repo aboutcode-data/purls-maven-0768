@@ -1,0 +1,2 @@
+- pkg:maven/com.joehxblog/spring-content-security-policy@0.6.0.3
+- pkg:maven/com.joehxblog/spring-content-security-policy@0.6.0.3?classifier=sources

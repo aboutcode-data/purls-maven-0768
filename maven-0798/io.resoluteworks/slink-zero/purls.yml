@@ -1,3 +1,10 @@
+- pkg:maven/io.resoluteworks/slink-zero@0.7.10?classifier=sources
+- pkg:maven/io.resoluteworks/slink-zero@0.7.12?classifier=sources
+- pkg:maven/io.resoluteworks/slink-zero@0.7.13?classifier=sources
+- pkg:maven/io.resoluteworks/slink-zero@0.7.14?classifier=sources
 - pkg:maven/io.resoluteworks/slink-zero@0.7.3?classifier=sources
 - pkg:maven/io.resoluteworks/slink-zero@0.7.5?classifier=sources
 - pkg:maven/io.resoluteworks/slink-zero@0.7.6?classifier=sources
+- pkg:maven/io.resoluteworks/slink-zero@0.7.7?classifier=sources
+- pkg:maven/io.resoluteworks/slink-zero@0.7.8?classifier=sources
+- pkg:maven/io.resoluteworks/slink-zero@0.7.9?classifier=sources

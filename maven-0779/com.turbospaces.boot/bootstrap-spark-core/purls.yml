@@ -24,6 +24,16 @@
 - pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.115?classifier=sources
 - pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.116
 - pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.116?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.117
+- pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.117?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.118
+- pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.118?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.120
+- pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.120?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.121
+- pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.121?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.122
+- pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.122?classifier=sources
 - pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.83
 - pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.83?classifier=sources
 - pkg:maven/com.turbospaces.boot/bootstrap-spark-core@1.0.84

@@ -470,6 +470,10 @@
 - pkg:maven/org.jgroups/jgroups@5.2.13.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@5.2.14.Final
 - pkg:maven/org.jgroups/jgroups@5.2.14.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@5.2.15.Final
+- pkg:maven/org.jgroups/jgroups@5.2.15.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@5.2.16.Final
+- pkg:maven/org.jgroups/jgroups@5.2.16.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@5.2.2.Final
 - pkg:maven/org.jgroups/jgroups@5.2.2.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@5.2.3.Final?classifier=sources

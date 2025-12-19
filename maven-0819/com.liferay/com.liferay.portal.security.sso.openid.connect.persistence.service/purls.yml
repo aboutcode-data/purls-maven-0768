@@ -67,6 +67,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@5.0.6
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@5.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@5.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@5.0.7
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@5.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@5.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.0
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.0?classifier=sources-commercial
@@ -110,6 +113,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.21
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.22
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.service@6.0.3

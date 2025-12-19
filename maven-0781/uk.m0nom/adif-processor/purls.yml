@@ -166,3 +166,5 @@
 - pkg:maven/uk.m0nom/adif-processor@1.1.21?classifier=sources
 - pkg:maven/uk.m0nom/adif-processor@1.1.23
 - pkg:maven/uk.m0nom/adif-processor@1.1.23?classifier=sources
+- pkg:maven/uk.m0nom/adif-processor@1.1.24
+- pkg:maven/uk.m0nom/adif-processor@1.1.24?classifier=sources

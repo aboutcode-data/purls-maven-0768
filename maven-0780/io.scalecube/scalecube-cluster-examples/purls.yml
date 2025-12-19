@@ -116,6 +116,12 @@
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.6.13?classifier=sources
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.6.14
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.6.14?classifier=sources
+- pkg:maven/io.scalecube/scalecube-cluster-examples@2.6.15
+- pkg:maven/io.scalecube/scalecube-cluster-examples@2.6.15?classifier=sources
+- pkg:maven/io.scalecube/scalecube-cluster-examples@2.6.16
+- pkg:maven/io.scalecube/scalecube-cluster-examples@2.6.16?classifier=sources
+- pkg:maven/io.scalecube/scalecube-cluster-examples@2.6.17
+- pkg:maven/io.scalecube/scalecube-cluster-examples@2.6.17?classifier=sources
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.6.3-RC2
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.6.3-RC2?classifier=sources
 - pkg:maven/io.scalecube/scalecube-cluster-examples@2.6.4

@@ -109,6 +109,8 @@
 - pkg:maven/no.mnemonic.commons/testtools@0.4.22?classifier=sources
 - pkg:maven/no.mnemonic.commons/testtools@0.4.23
 - pkg:maven/no.mnemonic.commons/testtools@0.4.23?classifier=sources
+- pkg:maven/no.mnemonic.commons/testtools@0.4.24
+- pkg:maven/no.mnemonic.commons/testtools@0.4.24?classifier=sources
 - pkg:maven/no.mnemonic.commons/testtools@0.4.2?classifier=sources
 - pkg:maven/no.mnemonic.commons/testtools@0.4.3
 - pkg:maven/no.mnemonic.commons/testtools@0.4.3?classifier=sources

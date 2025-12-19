@@ -199,4 +199,6 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit@1.8.20-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit@1.8.20?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit@1.8.21?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-test-junit@1.8.22?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-test-junit@1.9.0-Beta?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-test-junit@1.9.0-RC?classifier=sources

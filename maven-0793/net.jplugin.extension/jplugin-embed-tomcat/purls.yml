@@ -1,0 +1,2 @@
+- pkg:maven/net.jplugin.extension/jplugin-embed-tomcat@3.0.0
+- pkg:maven/net.jplugin.extension/jplugin-embed-tomcat@3.0.0?classifier=sources

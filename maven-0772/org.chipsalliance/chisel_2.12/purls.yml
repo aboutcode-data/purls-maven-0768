@@ -1,3 +1,4 @@
+- pkg:maven/org.chipsalliance/chisel_2.12@5.0.0
 - pkg:maven/org.chipsalliance/chisel_2.12@5.0.0-M1
 - pkg:maven/org.chipsalliance/chisel_2.12@5.0.0-M1?classifier=sources
 - pkg:maven/org.chipsalliance/chisel_2.12@5.0.0-M2
@@ -6,3 +7,6 @@
 - pkg:maven/org.chipsalliance/chisel_2.12@5.0.0-RC1?classifier=sources
 - pkg:maven/org.chipsalliance/chisel_2.12@5.0.0-RC2
 - pkg:maven/org.chipsalliance/chisel_2.12@5.0.0-RC2?classifier=sources
+- pkg:maven/org.chipsalliance/chisel_2.12@5.0.0?classifier=sources
+- pkg:maven/org.chipsalliance/chisel_2.12@6.0.0-M1
+- pkg:maven/org.chipsalliance/chisel_2.12@6.0.0-M1?classifier=sources

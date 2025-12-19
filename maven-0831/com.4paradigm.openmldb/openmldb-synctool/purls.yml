@@ -1,0 +1,2 @@
+- pkg:maven/com.4paradigm.openmldb/openmldb-synctool@0.8.0
+- pkg:maven/com.4paradigm.openmldb/openmldb-synctool@0.8.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.cronapp/cronapp-social-facebook@2.9.4-SP.15
+- pkg:maven/io.cronapp/cronapp-social-facebook@2.9.4-SP.15?classifier=sources
+- pkg:maven/io.cronapp/cronapp-social-facebook@2.9.4-SP.16
+- pkg:maven/io.cronapp/cronapp-social-facebook@2.9.4-SP.16?classifier=sources

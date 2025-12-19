@@ -1,0 +1,2 @@
+- pkg:maven/com.xebia/munit-snap_3@0.1.6
+- pkg:maven/com.xebia/munit-snap_3@0.1.6?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/dev.zio/zio-config-xml_3@4.0.0-RC13?classifier=sources
 - pkg:maven/dev.zio/zio-config-xml_3@4.0.0-RC14
 - pkg:maven/dev.zio/zio-config-xml_3@4.0.0-RC14?classifier=sources
+- pkg:maven/dev.zio/zio-config-xml_3@4.0.0-RC16
+- pkg:maven/dev.zio/zio-config-xml_3@4.0.0-RC16?classifier=sources
 - pkg:maven/dev.zio/zio-config-xml_3@4.0.0-RC6
 - pkg:maven/dev.zio/zio-config-xml_3@4.0.0-RC6?classifier=sources
 - pkg:maven/dev.zio/zio-config-xml_3@4.0.0-RC9

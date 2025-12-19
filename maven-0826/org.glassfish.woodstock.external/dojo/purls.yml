@@ -1,2 +1,3 @@
 - pkg:maven/org.glassfish.woodstock.external/dojo@5.0.0
 - pkg:maven/org.glassfish.woodstock.external/dojo@6.0.0
+- pkg:maven/org.glassfish.woodstock.external/dojo@6.0.1

@@ -30,3 +30,5 @@
 - pkg:maven/org.neo4j/neo4j-ogm-quarkus-deployment@2.2.3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-quarkus-deployment@3.0.0
 - pkg:maven/org.neo4j/neo4j-ogm-quarkus-deployment@3.0.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-quarkus-deployment@3.2.0
+- pkg:maven/org.neo4j/neo4j-ogm-quarkus-deployment@3.2.0?classifier=sources

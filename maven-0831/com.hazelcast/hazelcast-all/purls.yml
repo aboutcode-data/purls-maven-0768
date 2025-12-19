@@ -424,6 +424,8 @@
 - pkg:maven/com.hazelcast/hazelcast-all@4.2.6?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-all@4.2.7
 - pkg:maven/com.hazelcast/hazelcast-all@4.2.7?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-all@4.2.8
+- pkg:maven/com.hazelcast/hazelcast-all@4.2.8?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-all@4.2?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-all@5.0-BETA-1
 - pkg:maven/com.hazelcast/hazelcast-all@5.0-BETA-1?classifier=sources

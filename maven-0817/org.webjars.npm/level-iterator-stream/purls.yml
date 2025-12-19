@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/level-iterator-stream@2.0.3
 - pkg:maven/org.webjars.npm/level-iterator-stream@2.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/level-iterator-stream@4.0.2
+- pkg:maven/org.webjars.npm/level-iterator-stream@4.0.2?classifier=sources

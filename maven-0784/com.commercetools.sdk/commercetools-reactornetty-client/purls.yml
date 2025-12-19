@@ -12,3 +12,6 @@
 - pkg:maven/com.commercetools.sdk/commercetools-reactornetty-client@13.3.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-reactornetty-client@14.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-reactornetty-client@14.1.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-reactornetty-client@14.2.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-reactornetty-client@14.2.1?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-reactornetty-client@14.3.0?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/io.imunity/unity-rest-api@3.11.2?classifier=sources
 - pkg:maven/io.imunity/unity-rest-api@3.12.0
 - pkg:maven/io.imunity/unity-rest-api@3.12.0?classifier=sources
+- pkg:maven/io.imunity/unity-rest-api@3.13.0
+- pkg:maven/io.imunity/unity-rest-api@3.13.0?classifier=sources
 - pkg:maven/io.imunity/unity-rest-api@3.9.0
 - pkg:maven/io.imunity/unity-rest-api@3.9.0?classifier=sources
 - pkg:maven/io.imunity/unity-rest-api@3.9.1

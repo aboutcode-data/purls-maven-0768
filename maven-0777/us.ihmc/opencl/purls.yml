@@ -1,2 +1,4 @@
 - pkg:maven/us.ihmc/opencl@3.0-1.5.9
 - pkg:maven/us.ihmc/opencl@3.0-1.5.9?classifier=sources
+- pkg:maven/us.ihmc/opencl@3.1-1.5.9
+- pkg:maven/us.ihmc/opencl@3.1-1.5.9?classifier=sources

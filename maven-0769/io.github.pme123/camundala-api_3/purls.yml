@@ -88,6 +88,12 @@
 - pkg:maven/io.github.pme123/camundala-api_3@0.8.1?classifier=sources
 - pkg:maven/io.github.pme123/camundala-api_3@0.9.0
 - pkg:maven/io.github.pme123/camundala-api_3@0.9.0?classifier=sources
+- pkg:maven/io.github.pme123/camundala-api_3@1.15.11
+- pkg:maven/io.github.pme123/camundala-api_3@1.15.11?classifier=sources
+- pkg:maven/io.github.pme123/camundala-api_3@1.15.12
+- pkg:maven/io.github.pme123/camundala-api_3@1.15.12?classifier=sources
+- pkg:maven/io.github.pme123/camundala-api_3@1.15.13
+- pkg:maven/io.github.pme123/camundala-api_3@1.15.13?classifier=sources
 - pkg:maven/io.github.pme123/camundala-api_3@1.15.9
 - pkg:maven/io.github.pme123/camundala-api_3@1.15.9?classifier=sources
 - pkg:maven/io.github.pme123/camundala-api_3@projectV%3D0.3.0

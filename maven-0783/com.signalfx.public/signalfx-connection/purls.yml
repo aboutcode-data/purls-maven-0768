@@ -1,0 +1,2 @@
+- pkg:maven/com.signalfx.public/signalfx-connection@1.0.31
+- pkg:maven/com.signalfx.public/signalfx-connection@1.0.31?classifier=sources

@@ -138,3 +138,7 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-hgdb@8.6.3-20230506?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-hgdb@8.6.3-20230508
 - pkg:maven/org.anyline/anyline-data-jdbc-hgdb@8.6.3-20230508?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-hgdb@8.6.3-20230510
+- pkg:maven/org.anyline/anyline-data-jdbc-hgdb@8.6.3-20230510?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-hgdb@8.6.3-20230511
+- pkg:maven/org.anyline/anyline-data-jdbc-hgdb@8.6.3-20230511?classifier=sources

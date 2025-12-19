@@ -267,5 +267,9 @@
 - pkg:maven/org.openjfx/javafx-fxml@20?classifier=sources
 - pkg:maven/org.openjfx/javafx-fxml@21-ea%2B17
 - pkg:maven/org.openjfx/javafx-fxml@21-ea%2B17?classifier=sources
+- pkg:maven/org.openjfx/javafx-fxml@21-ea%2B21
+- pkg:maven/org.openjfx/javafx-fxml@21-ea%2B21?classifier=sources
+- pkg:maven/org.openjfx/javafx-fxml@21-ea%2B23
+- pkg:maven/org.openjfx/javafx-fxml@21-ea%2B23?classifier=sources
 - pkg:maven/org.openjfx/javafx-fxml@21-ea%2B5
 - pkg:maven/org.openjfx/javafx-fxml@21-ea%2B5?classifier=sources

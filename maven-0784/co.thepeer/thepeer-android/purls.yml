@@ -3,3 +3,4 @@
 - pkg:maven/co.thepeer/thepeer-android@1.0.0-alpha05?classifier=sources
 - pkg:maven/co.thepeer/thepeer-android@1.0.0-beta01?classifier=sources
 - pkg:maven/co.thepeer/thepeer-android@1.0.0-beta02?classifier=sources
+- pkg:maven/co.thepeer/thepeer-android@1.0.0-beta3?classifier=sources

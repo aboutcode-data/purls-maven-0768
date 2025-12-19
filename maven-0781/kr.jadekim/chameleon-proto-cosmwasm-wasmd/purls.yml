@@ -1,0 +1,3 @@
+- pkg:maven/kr.jadekim/chameleon-proto-cosmwasm-wasmd@0.27.0?classifier=sources
+- pkg:maven/kr.jadekim/chameleon-proto-cosmwasm-wasmd@0.30.0?classifier=sources
+- pkg:maven/kr.jadekim/chameleon-proto-cosmwasm-wasmd@0.40.2?classifier=sources

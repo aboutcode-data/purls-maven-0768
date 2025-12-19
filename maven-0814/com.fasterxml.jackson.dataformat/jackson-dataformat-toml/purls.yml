@@ -22,3 +22,5 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-toml@2.15.0-rc2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-toml@2.15.0-rc3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-toml@2.15.0?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-toml@2.15.1?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-toml@2.15.2?classifier=sources

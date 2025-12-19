@@ -22,3 +22,6 @@
 - pkg:maven/org.craftercms/groovy-sandbox@4.0.0?classifier=sources
 - pkg:maven/org.craftercms/groovy-sandbox@4.0.1
 - pkg:maven/org.craftercms/groovy-sandbox@4.0.2
+- pkg:maven/org.craftercms/groovy-sandbox@4.0.4
+- pkg:maven/org.craftercms/groovy-sandbox@4.0.5
+- pkg:maven/org.craftercms/groovy-sandbox@4.1.0

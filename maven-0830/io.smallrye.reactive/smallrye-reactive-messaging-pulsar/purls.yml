@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-pulsar@4.7.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-pulsar@4.7.0?classifier=sources

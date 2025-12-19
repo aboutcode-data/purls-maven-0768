@@ -71,6 +71,8 @@
 - pkg:maven/org.bidib.jbidib/jbidibc-core@2.0.0.RC6?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-core@2.0.0?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-core@2.0.1
+- pkg:maven/org.bidib.jbidib/jbidibc-core@2.0.10
+- pkg:maven/org.bidib.jbidib/jbidibc-core@2.0.10?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-core@2.0.1?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-core@2.0.2
 - pkg:maven/org.bidib.jbidib/jbidibc-core@2.0.2?classifier=sources

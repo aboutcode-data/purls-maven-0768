@@ -30,3 +30,5 @@
 - pkg:maven/com.speedment.jpastreamer/streamconfiguration@1.1.4?classifier=sources
 - pkg:maven/com.speedment.jpastreamer/streamconfiguration@3.0.0
 - pkg:maven/com.speedment.jpastreamer/streamconfiguration@3.0.0?classifier=sources
+- pkg:maven/com.speedment.jpastreamer/streamconfiguration@3.0.1
+- pkg:maven/com.speedment.jpastreamer/streamconfiguration@3.0.1?classifier=sources

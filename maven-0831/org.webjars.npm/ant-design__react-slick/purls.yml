@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/ant-design__react-slick@0.28.4?classifier=sources
 - pkg:maven/org.webjars.npm/ant-design__react-slick@1.0.0
 - pkg:maven/org.webjars.npm/ant-design__react-slick@1.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/ant-design__react-slick@1.0.1
+- pkg:maven/org.webjars.npm/ant-design__react-slick@1.0.1?classifier=sources

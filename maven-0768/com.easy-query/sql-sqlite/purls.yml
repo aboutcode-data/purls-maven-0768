@@ -1,0 +1,10 @@
+- pkg:maven/com.easy-query/sql-sqlite@0.9.20
+- pkg:maven/com.easy-query/sql-sqlite@0.9.20?classifier=sources
+- pkg:maven/com.easy-query/sql-sqlite@0.9.21
+- pkg:maven/com.easy-query/sql-sqlite@0.9.21?classifier=sources
+- pkg:maven/com.easy-query/sql-sqlite@0.9.30
+- pkg:maven/com.easy-query/sql-sqlite@0.9.30?classifier=sources
+- pkg:maven/com.easy-query/sql-sqlite@0.9.31
+- pkg:maven/com.easy-query/sql-sqlite@0.9.31?classifier=sources
+- pkg:maven/com.easy-query/sql-sqlite@0.9.32
+- pkg:maven/com.easy-query/sql-sqlite@0.9.32?classifier=sources

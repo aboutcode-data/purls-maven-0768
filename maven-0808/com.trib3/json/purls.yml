@@ -310,3 +310,5 @@
 - pkg:maven/com.trib3/json@2.0.4260?classifier=sources
 - pkg:maven/com.trib3/json@2.0.4305
 - pkg:maven/com.trib3/json@2.0.4305?classifier=sources
+- pkg:maven/com.trib3/json@2.1.4359
+- pkg:maven/com.trib3/json@2.1.4359?classifier=sources

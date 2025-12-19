@@ -16,4 +16,9 @@
 - pkg:maven/com.pulumi/rancher2@4.1.0-alpha.1683267627%2B64ccfff4?classifier=sources
 - pkg:maven/com.pulumi/rancher2@4.1.0-alpha.1683353358%2B4f266ea6?classifier=sources
 - pkg:maven/com.pulumi/rancher2@4.1.0-alpha.1683615026%2B6c09aa37?classifier=sources
+- pkg:maven/com.pulumi/rancher2@4.1.0-alpha.1683957626%2Be8a36fbb?classifier=sources
+- pkg:maven/com.pulumi/rancher2@4.1.0-alpha.1684217250%2Bce5f0ddc?classifier=sources
+- pkg:maven/com.pulumi/rancher2@4.1.0-alpha.1684392708%2Bcbe21cfb?classifier=sources
+- pkg:maven/com.pulumi/rancher2@4.1.0-alpha.1685083734%2Bf297e97b?classifier=sources
+- pkg:maven/com.pulumi/rancher2@4.1.0-alpha.1685168300%2B2cb26c6b?classifier=sources
 - pkg:maven/com.pulumi/rancher2@v3.9.0-alpha.1657287258%2Bd72a94df?classifier=sources

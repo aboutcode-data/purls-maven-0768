@@ -95,3 +95,5 @@
 - pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.64.0
 - pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.64.2
 - pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.64.4
+- pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.64.6
+- pkg:maven/com.vladsch.flexmark/flexmark-osgi@0.64.8

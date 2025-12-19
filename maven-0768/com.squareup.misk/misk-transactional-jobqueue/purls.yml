@@ -40,3 +40,12 @@
 - pkg:maven/com.squareup.misk/misk-transactional-jobqueue@0.25.0-20230315.1722-95a0d22?classifier=sources
 - pkg:maven/com.squareup.misk/misk-transactional-jobqueue@0.25.0-20230329.1301-8aecd54?classifier=sources
 - pkg:maven/com.squareup.misk/misk-transactional-jobqueue@0.25.0-20230405.1913-51e097f?classifier=sources
+- pkg:maven/com.squareup.misk/misk-transactional-jobqueue@0.25.0-20230526.1847-c1fcb3a?classifier=sources
+- pkg:maven/com.squareup.misk/misk-transactional-jobqueue@2023.05.26.210655-2ee8422?classifier=sources
+- pkg:maven/com.squareup.misk/misk-transactional-jobqueue@2023.05.31.133205-df59fc8?classifier=sources
+- pkg:maven/com.squareup.misk/misk-transactional-jobqueue@2023.05.31.162625-69c6f8d?classifier=sources
+- pkg:maven/com.squareup.misk/misk-transactional-jobqueue@2023.06.01.000410-465569e?classifier=sources
+- pkg:maven/com.squareup.misk/misk-transactional-jobqueue@2023.06.01.145904-2420e65?classifier=sources
+- pkg:maven/com.squareup.misk/misk-transactional-jobqueue@2023.06.02.140735-df720d1?classifier=sources
+- pkg:maven/com.squareup.misk/misk-transactional-jobqueue@2023.06.02.184728-e1cc703?classifier=sources
+- pkg:maven/com.squareup.misk/misk-transactional-jobqueue@2023.06.02.193000-a2ad312?classifier=sources

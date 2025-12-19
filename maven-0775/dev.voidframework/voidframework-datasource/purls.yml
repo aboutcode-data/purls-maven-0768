@@ -32,3 +32,5 @@
 - pkg:maven/dev.voidframework/voidframework-datasource@1.6.1?classifier=sources
 - pkg:maven/dev.voidframework/voidframework-datasource@1.7.0
 - pkg:maven/dev.voidframework/voidframework-datasource@1.7.0?classifier=sources
+- pkg:maven/dev.voidframework/voidframework-datasource@1.8.0
+- pkg:maven/dev.voidframework/voidframework-datasource@1.8.0?classifier=sources

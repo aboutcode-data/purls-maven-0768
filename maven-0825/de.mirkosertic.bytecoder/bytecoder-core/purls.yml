@@ -82,3 +82,7 @@
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-core@2023-04-05?classifier=sources
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-core@2023-04-24
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-core@2023-04-24?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-core@2023-05-16
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-core@2023-05-16?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-core@2023-05-19
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-core@2023-05-19?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-deltaspike-data@2.0.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-deltaspike-data@2.0.0?classifier=sources

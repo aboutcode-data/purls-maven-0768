@@ -2,3 +2,7 @@
 - pkg:maven/com.tradplusad/tradplus-okspin@59.9.5.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-okspin@59.9.6.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-okspin@59.9.6.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-okspin@59.9.6.20.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-okspin@59.9.7.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-okspin@59.9.7.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-okspin@59.9.7.20.1?type=aar

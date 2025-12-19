@@ -2,3 +2,4 @@
 - pkg:maven/io.s-healthstack/healthdata-link@0.9?classifier=sources
 - pkg:maven/io.s-healthstack/healthdata-link@0.9b?classifier=sources
 - pkg:maven/io.s-healthstack/healthdata-link@0.9c?classifier=sources
+- pkg:maven/io.s-healthstack/healthdata-link@1.0?classifier=sources

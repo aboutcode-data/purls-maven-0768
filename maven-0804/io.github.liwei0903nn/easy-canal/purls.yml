@@ -86,3 +86,5 @@
 - pkg:maven/io.github.liwei0903nn/easy-canal@3.9.0-SNAPSHOP?classifier=sources
 - pkg:maven/io.github.liwei0903nn/easy-canal@4.0.0-SNAPSHOP
 - pkg:maven/io.github.liwei0903nn/easy-canal@4.0.0-SNAPSHOP?classifier=sources
+- pkg:maven/io.github.liwei0903nn/easy-canal@4.1.0-SNAPSHOP
+- pkg:maven/io.github.liwei0903nn/easy-canal@4.1.0-SNAPSHOP?classifier=sources

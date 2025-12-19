@@ -84,6 +84,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.48.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.50.0
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.50.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.52.0
+- pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.52.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.7.0
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.7.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-blob-plugins@1.7.1

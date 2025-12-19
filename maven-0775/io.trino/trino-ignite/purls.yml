@@ -7,3 +7,7 @@
 - pkg:maven/io.trino/trino-ignite@414?classifier=sources
 - pkg:maven/io.trino/trino-ignite@415?classifier=sources
 - pkg:maven/io.trino/trino-ignite@416?classifier=sources
+- pkg:maven/io.trino/trino-ignite@417?classifier=sources
+- pkg:maven/io.trino/trino-ignite@418?classifier=sources
+- pkg:maven/io.trino/trino-ignite@419?classifier=sources
+- pkg:maven/io.trino/trino-ignite@420?classifier=sources

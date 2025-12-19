@@ -1,1 +1,4 @@
+- pkg:maven/dev.hollowcube/minestom-ce-data@1.19.3-rv1%2B1.19.3?classifier=sources
+- pkg:maven/dev.hollowcube/minestom-ce-data@1.19.4-rv1%2B1.19.4?classifier=sources
+- pkg:maven/dev.hollowcube/minestom-ce-data@1.19.4-rv2?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce-data@627cce9160%2B1.19.3?classifier=sources

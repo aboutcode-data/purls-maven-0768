@@ -23,3 +23,5 @@
 - pkg:maven/com.dua3.utility/utility-logging@11.0.0-M3?classifier=sources
 - pkg:maven/com.dua3.utility/utility-logging@11.0.0-M4?classifier=sources
 - pkg:maven/com.dua3.utility/utility-logging@11.0.0-M5?classifier=sources
+- pkg:maven/com.dua3.utility/utility-logging@11.0.0-M6?classifier=sources
+- pkg:maven/com.dua3.utility/utility-logging@11.0.0-M7?classifier=sources

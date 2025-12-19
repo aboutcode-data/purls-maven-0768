@@ -40,3 +40,5 @@
 - pkg:maven/dev.struchkov.haiti/haiti-utils@2.6.0?classifier=sources
 - pkg:maven/dev.struchkov.haiti/haiti-utils@2.7.2
 - pkg:maven/dev.struchkov.haiti/haiti-utils@2.7.2?classifier=sources
+- pkg:maven/dev.struchkov.haiti/haiti-utils@3.0.2
+- pkg:maven/dev.struchkov.haiti/haiti-utils@3.0.2?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/com.codbex.kronos/codbex-kronos-releng-buildpacks-kyma-runtime@0.2.0
 - pkg:maven/com.codbex.kronos/codbex-kronos-releng-buildpacks-kyma-runtime@0.3.0
+- pkg:maven/com.codbex.kronos/codbex-kronos-releng-buildpacks-kyma-runtime@0.4.0

@@ -1,1 +1,4 @@
 - pkg:maven/com.codbex.kronos/kronos-modules-all@0.1.0
+- pkg:maven/com.codbex.kronos/kronos-modules-all@0.1.1
+- pkg:maven/com.codbex.kronos/kronos-modules-all@0.1.2
+- pkg:maven/com.codbex.kronos/kronos-modules-all@0.1.3

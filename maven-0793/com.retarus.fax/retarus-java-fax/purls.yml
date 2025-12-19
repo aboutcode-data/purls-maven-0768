@@ -1,0 +1,2 @@
+- pkg:maven/com.retarus.fax/retarus-java-fax@1.0
+- pkg:maven/com.retarus.fax/retarus-java-fax@1.0?classifier=sources

@@ -43,6 +43,10 @@
 - pkg:maven/stream.nebula/nebulastream-java-client@0.0.7
 - pkg:maven/stream.nebula/nebulastream-java-client@0.0.70
 - pkg:maven/stream.nebula/nebulastream-java-client@0.0.70?classifier=sources
+- pkg:maven/stream.nebula/nebulastream-java-client@0.0.73
+- pkg:maven/stream.nebula/nebulastream-java-client@0.0.73?classifier=sources
+- pkg:maven/stream.nebula/nebulastream-java-client@0.0.74
+- pkg:maven/stream.nebula/nebulastream-java-client@0.0.74?classifier=sources
 - pkg:maven/stream.nebula/nebulastream-java-client@0.0.7?classifier=sources
 - pkg:maven/stream.nebula/nebulastream-java-client@0.0.8
 - pkg:maven/stream.nebula/nebulastream-java-client@0.0.8?classifier=sources

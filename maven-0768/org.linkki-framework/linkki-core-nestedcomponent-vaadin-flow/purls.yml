@@ -1,0 +1,2 @@
+- pkg:maven/org.linkki-framework/linkki-core-nestedcomponent-vaadin-flow@2.4.0
+- pkg:maven/org.linkki-framework/linkki-core-nestedcomponent-vaadin-flow@2.4.0?classifier=sources

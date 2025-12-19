@@ -199,3 +199,9 @@
 - pkg:maven/com.tradplusad/tradplus-huawei@41.9.6.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-huawei@41.9.6.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-huawei@41.9.6.10?type=aar
+- pkg:maven/com.tradplusad/tradplus-huawei@41.9.6.20.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-huawei@41.9.6.20?type=aar
+- pkg:maven/com.tradplusad/tradplus-huawei@41.9.6.30.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-huawei@41.9.7.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-huawei@41.9.7.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-huawei@41.9.7.10?type=aar

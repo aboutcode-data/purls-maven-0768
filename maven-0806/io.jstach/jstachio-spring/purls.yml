@@ -14,6 +14,14 @@
 - pkg:maven/io.jstach/jstachio-spring@0.14.0?classifier=sources
 - pkg:maven/io.jstach/jstachio-spring@0.15.0
 - pkg:maven/io.jstach/jstachio-spring@0.15.0?classifier=sources
+- pkg:maven/io.jstach/jstachio-spring@0.16.0
+- pkg:maven/io.jstach/jstachio-spring@0.16.0?classifier=sources
+- pkg:maven/io.jstach/jstachio-spring@0.17.0
+- pkg:maven/io.jstach/jstachio-spring@0.17.0?classifier=sources
+- pkg:maven/io.jstach/jstachio-spring@0.18.0
+- pkg:maven/io.jstach/jstachio-spring@0.18.0?classifier=sources
+- pkg:maven/io.jstach/jstachio-spring@0.19.0
+- pkg:maven/io.jstach/jstachio-spring@0.19.0?classifier=sources
 - pkg:maven/io.jstach/jstachio-spring@0.8.0
 - pkg:maven/io.jstach/jstachio-spring@0.8.0?classifier=sources
 - pkg:maven/io.jstach/jstachio-spring@0.8.1
@@ -26,3 +34,7 @@
 - pkg:maven/io.jstach/jstachio-spring@0.9.2?classifier=sources
 - pkg:maven/io.jstach/jstachio-spring@0.9.3
 - pkg:maven/io.jstach/jstachio-spring@0.9.3?classifier=sources
+- pkg:maven/io.jstach/jstachio-spring@1.0.0
+- pkg:maven/io.jstach/jstachio-spring@1.0.0?classifier=sources
+- pkg:maven/io.jstach/jstachio-spring@1.0.1
+- pkg:maven/io.jstach/jstachio-spring@1.0.1?classifier=sources

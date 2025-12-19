@@ -1,2 +1,6 @@
 - pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.tools.gradle@2.7.3
 - pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.tools.gradle@2.7.3?classifier=sources
+- pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.tools.gradle@2.7.4
+- pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.tools.gradle@2.7.4?classifier=sources
+- pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.tools.gradle@2.7.5
+- pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.tools.gradle@2.7.5?classifier=sources

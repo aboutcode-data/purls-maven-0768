@@ -1,5 +1,7 @@
 - pkg:maven/com.vaadin/vaadin-messages-flow@14.10.0
 - pkg:maven/com.vaadin/vaadin-messages-flow@14.10.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-messages-flow@14.10.1
+- pkg:maven/com.vaadin/vaadin-messages-flow@14.10.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-messages-flow@14.7.0
 - pkg:maven/com.vaadin/vaadin-messages-flow@14.7.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-messages-flow@14.7.1

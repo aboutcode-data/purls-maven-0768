@@ -24,3 +24,5 @@
 - pkg:maven/link.thingscloud/mobile-area@2022.07.20?classifier=sources
 - pkg:maven/link.thingscloud/mobile-area@2022.10.06
 - pkg:maven/link.thingscloud/mobile-area@2022.10.06?classifier=sources
+- pkg:maven/link.thingscloud/mobile-area@2023.06.01
+- pkg:maven/link.thingscloud/mobile-area@2023.06.01?classifier=sources

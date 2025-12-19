@@ -1,2 +1,3 @@
 - pkg:maven/com.infinyon/fluvio@0.12.12?classifier=sources
 - pkg:maven/com.infinyon/fluvio@0.12.13?classifier=sources
+- pkg:maven/com.infinyon/fluvio@0.12.14?classifier=sources

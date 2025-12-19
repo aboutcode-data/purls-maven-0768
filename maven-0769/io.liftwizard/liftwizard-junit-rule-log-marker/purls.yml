@@ -66,3 +66,9 @@
 - pkg:maven/io.liftwizard/liftwizard-junit-rule-log-marker@0.8.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-junit-rule-log-marker@0.9.0
 - pkg:maven/io.liftwizard/liftwizard-junit-rule-log-marker@0.9.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-junit-rule-log-marker@1.0.0
+- pkg:maven/io.liftwizard/liftwizard-junit-rule-log-marker@1.0.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-junit-rule-log-marker@1.0.1
+- pkg:maven/io.liftwizard/liftwizard-junit-rule-log-marker@1.0.1?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-junit-rule-log-marker@2.0.0
+- pkg:maven/io.liftwizard/liftwizard-junit-rule-log-marker@2.0.0?classifier=sources

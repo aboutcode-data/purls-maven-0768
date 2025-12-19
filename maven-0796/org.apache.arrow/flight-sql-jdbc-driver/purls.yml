@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@11.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@12.0.0
 - pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@12.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@12.0.1
+- pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@12.0.1?classifier=sources

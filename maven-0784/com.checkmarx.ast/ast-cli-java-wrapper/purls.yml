@@ -84,3 +84,5 @@
 - pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@1.0.56?classifier=sources
 - pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@1.0.57
 - pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@1.0.57?classifier=sources
+- pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@1.0.58
+- pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@1.0.58?classifier=sources

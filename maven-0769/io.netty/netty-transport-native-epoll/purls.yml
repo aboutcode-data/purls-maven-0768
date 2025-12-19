@@ -296,5 +296,9 @@
 - pkg:maven/io.netty/netty-transport-native-epoll@4.1.91.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-native-epoll@4.1.92.Final
 - pkg:maven/io.netty/netty-transport-native-epoll@4.1.92.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-native-epoll@4.1.93.Final
+- pkg:maven/io.netty/netty-transport-native-epoll@4.1.93.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-native-epoll@4.1.94.Final
+- pkg:maven/io.netty/netty-transport-native-epoll@4.1.94.Final?classifier=sources
 - pkg:maven/io.netty/netty-transport-native-epoll@5.0.0.Alpha2
 - pkg:maven/io.netty/netty-transport-native-epoll@5.0.0.Alpha2?classifier=sources

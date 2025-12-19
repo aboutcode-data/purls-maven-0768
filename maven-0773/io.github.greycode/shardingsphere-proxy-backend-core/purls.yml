@@ -4,3 +4,5 @@
 - pkg:maven/io.github.greycode/shardingsphere-proxy-backend-core@5.3.2.3?classifier=sources
 - pkg:maven/io.github.greycode/shardingsphere-proxy-backend-core@5.3.2.4
 - pkg:maven/io.github.greycode/shardingsphere-proxy-backend-core@5.3.2.4?classifier=sources
+- pkg:maven/io.github.greycode/shardingsphere-proxy-backend-core@5.3.3.1
+- pkg:maven/io.github.greycode/shardingsphere-proxy-backend-core@5.3.3.1?classifier=sources

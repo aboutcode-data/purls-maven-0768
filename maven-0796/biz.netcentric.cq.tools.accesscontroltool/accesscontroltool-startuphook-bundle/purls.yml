@@ -44,3 +44,5 @@
 - pkg:maven/biz.netcentric.cq.tools.accesscontroltool/accesscontroltool-startuphook-bundle@3.0.7?classifier=sources
 - pkg:maven/biz.netcentric.cq.tools.accesscontroltool/accesscontroltool-startuphook-bundle@3.0.8
 - pkg:maven/biz.netcentric.cq.tools.accesscontroltool/accesscontroltool-startuphook-bundle@3.0.8?classifier=sources
+- pkg:maven/biz.netcentric.cq.tools.accesscontroltool/accesscontroltool-startuphook-bundle@3.0.9
+- pkg:maven/biz.netcentric.cq.tools.accesscontroltool/accesscontroltool-startuphook-bundle@3.0.9?classifier=sources

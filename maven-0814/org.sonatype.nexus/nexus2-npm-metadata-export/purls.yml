@@ -42,3 +42,9 @@
 - pkg:maven/org.sonatype.nexus/nexus2-npm-metadata-export@3.54.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus2-npm-metadata-export@3.54.1-01
 - pkg:maven/org.sonatype.nexus/nexus2-npm-metadata-export@3.54.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus2-npm-metadata-export@3.55.0-01
+- pkg:maven/org.sonatype.nexus/nexus2-npm-metadata-export@3.55.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus2-npm-metadata-export@3.56.0-01
+- pkg:maven/org.sonatype.nexus/nexus2-npm-metadata-export@3.56.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus2-npm-metadata-export@3.57.0-01
+- pkg:maven/org.sonatype.nexus/nexus2-npm-metadata-export@3.57.0-01?classifier=sources

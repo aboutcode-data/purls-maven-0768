@@ -326,6 +326,9 @@
 - pkg:maven/com.liferay/com.liferay.organizations.service@3.0.38
 - pkg:maven/com.liferay/com.liferay.organizations.service@3.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.organizations.service@3.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.organizations.service@3.0.39
+- pkg:maven/com.liferay/com.liferay.organizations.service@3.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.organizations.service@3.0.39?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.organizations.service@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.organizations.service@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.organizations.service@3.0.4

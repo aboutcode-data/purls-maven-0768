@@ -34,5 +34,7 @@
 - pkg:maven/org.opencds.cqf.cql/evaluator.measure-hapi@2.6.0?classifier=sources
 - pkg:maven/org.opencds.cqf.cql/evaluator.measure-hapi@3.0.0-PRE2
 - pkg:maven/org.opencds.cqf.cql/evaluator.measure-hapi@3.0.0-PRE2?classifier=sources
+- pkg:maven/org.opencds.cqf.cql/evaluator.measure-hapi@3.0.0-PRE3
+- pkg:maven/org.opencds.cqf.cql/evaluator.measure-hapi@3.0.0-PRE3?classifier=sources
 - pkg:maven/org.opencds.cqf.cql/evaluator.measure-hapi@3.0.0.PRE-1
 - pkg:maven/org.opencds.cqf.cql/evaluator.measure-hapi@3.0.0.PRE-1?classifier=sources

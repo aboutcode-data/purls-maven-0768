@@ -8,6 +8,8 @@
 - pkg:maven/org.apache.avro/trevni-avro@1.11.0?classifier=sources
 - pkg:maven/org.apache.avro/trevni-avro@1.11.1
 - pkg:maven/org.apache.avro/trevni-avro@1.11.1?classifier=sources
+- pkg:maven/org.apache.avro/trevni-avro@1.11.2
+- pkg:maven/org.apache.avro/trevni-avro@1.11.2?classifier=sources
 - pkg:maven/org.apache.avro/trevni-avro@1.7.2
 - pkg:maven/org.apache.avro/trevni-avro@1.7.2?classifier=sources
 - pkg:maven/org.apache.avro/trevni-avro@1.7.3

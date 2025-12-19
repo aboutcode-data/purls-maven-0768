@@ -5,6 +5,8 @@
 - pkg:maven/com.ritense.valtimo/klant@10.4.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/klant@10.4.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/klant@10.5.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/klant@10.5.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/klant@10.5.2.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/klant@9.10.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/klant@9.11.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/klant@9.12.0.RELEASE?classifier=sources
@@ -23,6 +25,7 @@
 - pkg:maven/com.ritense.valtimo/klant@9.24.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/klant@9.26.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/klant@9.26.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/klant@9.26.2.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/klant@9.3.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/klant@9.4.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/klant@9.5.0.RELEASE?classifier=sources

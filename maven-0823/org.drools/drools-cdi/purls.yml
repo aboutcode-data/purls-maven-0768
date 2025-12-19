@@ -220,6 +220,8 @@
 - pkg:maven/org.drools/drools-cdi@7.72.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-cdi@7.73.0.Final
 - pkg:maven/org.drools/drools-cdi@7.73.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-cdi@7.74.0.Final
+- pkg:maven/org.drools/drools-cdi@7.74.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-cdi@7.8.0.Final
 - pkg:maven/org.drools/drools-cdi@7.8.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-cdi@7.9.0.Final

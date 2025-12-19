@@ -1,3 +1,4 @@
 - pkg:maven/net.asere.omni.mvi/mvi-test@1.2.2?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi-test@1.2.3?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi-test@1.2.4?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-test@1.2.5?classifier=sources

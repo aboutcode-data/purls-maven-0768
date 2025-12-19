@@ -1,0 +1,2 @@
+- pkg:maven/dev.atchison.mariaDB4j/mariaDB4j-db-winx64@10.6.12
+- pkg:maven/dev.atchison.mariaDB4j/mariaDB4j-db-winx64@10.6.12?classifier=sources

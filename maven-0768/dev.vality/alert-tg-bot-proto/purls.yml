@@ -1,0 +1,4 @@
+- pkg:maven/dev.vality/alert-tg-bot-proto@1.3-7f1ca5a
+- pkg:maven/dev.vality/alert-tg-bot-proto@1.3-7f1ca5a?classifier=sources
+- pkg:maven/dev.vality/alert-tg-bot-proto@1.4-adf83ed
+- pkg:maven/dev.vality/alert-tg-bot-proto@1.4-adf83ed?classifier=sources

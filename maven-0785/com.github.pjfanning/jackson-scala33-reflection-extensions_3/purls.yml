@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pjfanning/jackson-scala33-reflection-extensions_3@2.15.1
+- pkg:maven/com.github.pjfanning/jackson-scala33-reflection-extensions_3@2.15.1?classifier=sources

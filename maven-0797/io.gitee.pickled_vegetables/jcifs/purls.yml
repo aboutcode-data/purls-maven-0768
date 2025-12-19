@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.pickled_vegetables/jcifs@2.2.0
+- pkg:maven/io.gitee.pickled_vegetables/jcifs@2.2.0?classifier=sources

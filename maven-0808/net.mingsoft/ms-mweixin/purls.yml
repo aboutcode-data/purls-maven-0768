@@ -7,5 +7,7 @@
 - pkg:maven/net.mingsoft/ms-mweixin@1.0.8?classifier=sources
 - pkg:maven/net.mingsoft/ms-mweixin@1.0.9
 - pkg:maven/net.mingsoft/ms-mweixin@1.0.9?classifier=sources
+- pkg:maven/net.mingsoft/ms-mweixin@2.1.19
+- pkg:maven/net.mingsoft/ms-mweixin@2.1.19?classifier=sources
 - pkg:maven/net.mingsoft/ms-mweixin@2.1.7
 - pkg:maven/net.mingsoft/ms-mweixin@2.1.7?classifier=sources

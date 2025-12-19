@@ -180,3 +180,5 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-duo@4.1.5?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-duo@4.1.6
 - pkg:maven/edu.internet2.middleware.grouper/grouper-duo@4.1.6?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-duo@4.1.7
+- pkg:maven/edu.internet2.middleware.grouper/grouper-duo@4.1.7?classifier=sources

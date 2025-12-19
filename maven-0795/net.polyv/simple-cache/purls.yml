@@ -1,0 +1,2 @@
+- pkg:maven/net.polyv/simple-cache@1.0.0.Final.RELEASE
+- pkg:maven/net.polyv/simple-cache@1.0.0.Final.RELEASE?classifier=sources

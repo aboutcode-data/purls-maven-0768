@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zhangMr123456/alphad-sdk@0.0.1
+- pkg:maven/io.github.zhangMr123456/alphad-sdk@0.0.1?classifier=sources

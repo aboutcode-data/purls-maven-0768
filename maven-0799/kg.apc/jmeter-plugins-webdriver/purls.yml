@@ -40,3 +40,5 @@
 - pkg:maven/kg.apc/jmeter-plugins-webdriver@4.8.3.1?classifier=sources
 - pkg:maven/kg.apc/jmeter-plugins-webdriver@4.8.3.2
 - pkg:maven/kg.apc/jmeter-plugins-webdriver@4.8.3.2?classifier=sources
+- pkg:maven/kg.apc/jmeter-plugins-webdriver@4.9.1.0
+- pkg:maven/kg.apc/jmeter-plugins-webdriver@4.9.1.0?classifier=sources

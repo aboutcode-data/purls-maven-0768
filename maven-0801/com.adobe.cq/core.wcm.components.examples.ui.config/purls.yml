@@ -26,7 +26,10 @@
 - pkg:maven/com.adobe.cq/core.wcm.components.examples.ui.config@2.21.2?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.examples.ui.config@2.21.4?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.examples.ui.config@2.22.0?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.examples.ui.config@2.22.10?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.examples.ui.config@2.22.12?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.examples.ui.config@2.22.2?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.examples.ui.config@2.22.4?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.examples.ui.config@2.22.6?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.examples.ui.config@2.22.8?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.examples.ui.config@2.23.0?classifier=sources

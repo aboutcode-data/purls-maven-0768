@@ -21,6 +21,7 @@
 - pkg:maven/org.deltafi/deltafi-common-test@0.106.0?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@0.107.0?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@0.108.0?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@0.109.0?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@0.21.4?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@0.9.99?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@0.95.0?classifier=sources
@@ -49,3 +50,14 @@
 - pkg:maven/org.deltafi/deltafi-common-test@0.99.6?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@0.99.7?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@0.99.8?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@0.999.998?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@1.0.0-RC1?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@1.0.0-RC2?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@1.0.0-RC3?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@1.0.0-RC5?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@1.0.0-RC6?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@1.0.0-RC7?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@1.0.0-RC8?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@1.0.0?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@1.0.1?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@1.0.2?classifier=sources

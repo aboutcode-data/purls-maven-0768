@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.jersey.examples/configured-client@2.40
+- pkg:maven/org.glassfish.jersey.examples/configured-client@2.40?classifier=sources

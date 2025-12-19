@@ -40,3 +40,5 @@
 - pkg:maven/nl.vpro.poms/poms-extjs@5.11.8?classifier=sources
 - pkg:maven/nl.vpro.poms/poms-extjs@5.11.9
 - pkg:maven/nl.vpro.poms/poms-extjs@5.11.9?classifier=sources
+- pkg:maven/nl.vpro.poms/poms-extjs@7.5.0
+- pkg:maven/nl.vpro.poms/poms-extjs@7.5.0?classifier=sources

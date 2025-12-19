@@ -52,6 +52,8 @@
 - pkg:maven/com.palantir.conjure.java.runtime/keystores@7.53.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/keystores@7.54.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/keystores@7.55.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/keystores@7.56.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/keystores@7.57.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/keystores@7.6.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/keystores@7.7.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/keystores@7.8.0?classifier=sources

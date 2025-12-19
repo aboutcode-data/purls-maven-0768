@@ -9,3 +9,4 @@
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-incubator@1.24.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-incubator@1.25.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-incubator@1.26.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-incubator@1.27.0-alpha?classifier=sources

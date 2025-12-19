@@ -234,6 +234,8 @@
 - pkg:maven/software.amazon.awscdk/resourcegroups@1.202.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/resourcegroups@1.203.0
 - pkg:maven/software.amazon.awscdk/resourcegroups@1.203.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/resourcegroups@1.204.0
+- pkg:maven/software.amazon.awscdk/resourcegroups@1.204.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/resourcegroups@1.32.0
 - pkg:maven/software.amazon.awscdk/resourcegroups@1.32.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/resourcegroups@1.32.1

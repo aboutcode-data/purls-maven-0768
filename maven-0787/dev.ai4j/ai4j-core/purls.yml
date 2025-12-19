@@ -1,0 +1,2 @@
+- pkg:maven/dev.ai4j/ai4j-core@0.3.0
+- pkg:maven/dev.ai4j/ai4j-core@0.3.0?classifier=sources

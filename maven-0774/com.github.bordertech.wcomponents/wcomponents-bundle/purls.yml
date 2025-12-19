@@ -95,6 +95,7 @@
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-bundle@1.5.26
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-bundle@1.5.27
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-bundle@1.5.28
+- pkg:maven/com.github.bordertech.wcomponents/wcomponents-bundle@1.5.29
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-bundle@1.5.3
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-bundle@1.5.4
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-bundle@1.5.5

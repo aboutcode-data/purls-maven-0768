@@ -241,6 +241,7 @@
 - pkg:maven/com.liferay.plugins/admin-theme@4.0.59?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@4.0.5?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@4.0.60?type=war
+- pkg:maven/com.liferay.plugins/admin-theme@4.0.61?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@4.0.6?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@4.0.7?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@4.0.8?type=war
@@ -299,7 +300,9 @@
 - pkg:maven/com.liferay.plugins/admin-theme@5.0.56?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@5.0.57?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@5.0.58?type=war
+- pkg:maven/com.liferay.plugins/admin-theme@5.0.59?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@5.0.5?type=war
+- pkg:maven/com.liferay.plugins/admin-theme@5.0.60?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@5.0.6?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@5.0.7?type=war
 - pkg:maven/com.liferay.plugins/admin-theme@5.0.8?type=war

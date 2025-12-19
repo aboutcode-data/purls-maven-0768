@@ -1,1 +1,8 @@
 - pkg:maven/app.rive/rive-android@0.0.1?classifier=sources
+- pkg:maven/app.rive/rive-android@4.6.3?classifier=sources
+- pkg:maven/app.rive/rive-android@4.6.4?classifier=sources
+- pkg:maven/app.rive/rive-android@5.0.0?classifier=sources
+- pkg:maven/app.rive/rive-android@5.0.1?classifier=sources
+- pkg:maven/app.rive/rive-android@5.0.2?classifier=sources
+- pkg:maven/app.rive/rive-android@5.1.0?classifier=sources
+- pkg:maven/app.rive/rive-android@5.1.1?classifier=sources

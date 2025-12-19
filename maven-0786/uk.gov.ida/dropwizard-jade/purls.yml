@@ -1,2 +1,3 @@
 - pkg:maven/uk.gov.ida/dropwizard-jade@1.3.8-10528?classifier=sources
 - pkg:maven/uk.gov.ida/dropwizard-jade@1.3.8-10529?classifier=sources
+- pkg:maven/uk.gov.ida/dropwizard-jade@1.3.8-10530?classifier=sources

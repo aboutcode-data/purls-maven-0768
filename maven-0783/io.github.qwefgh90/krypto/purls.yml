@@ -1,0 +1,2 @@
+- pkg:maven/io.github.qwefgh90/krypto@0.1
+- pkg:maven/io.github.qwefgh90/krypto@0.1?classifier=sources

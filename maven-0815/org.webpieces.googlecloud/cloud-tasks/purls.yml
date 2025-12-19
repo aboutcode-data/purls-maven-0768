@@ -32,3 +32,4 @@
 - pkg:maven/org.webpieces.googlecloud/cloud-tasks@2.1.73?classifier=sources
 - pkg:maven/org.webpieces.googlecloud/cloud-tasks@2.1.74?classifier=sources
 - pkg:maven/org.webpieces.googlecloud/cloud-tasks@2.1.75?classifier=sources
+- pkg:maven/org.webpieces.googlecloud/cloud-tasks@2.1.76?classifier=sources

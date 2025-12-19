@@ -3,4 +3,8 @@
 - pkg:maven/com.foilen/jl-smalltools-mongodb@2.2.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-mongodb@2.3.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-mongodb@2.4.0?classifier=sources
+- pkg:maven/com.foilen/jl-smalltools-mongodb@2.5.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-mongodb@3.0.0?classifier=sources
+- pkg:maven/com.foilen/jl-smalltools-mongodb@3.1.0?classifier=sources
+- pkg:maven/com.foilen/jl-smalltools-mongodb@3.2.0?classifier=sources
+- pkg:maven/com.foilen/jl-smalltools-mongodb@3.3.0?classifier=sources

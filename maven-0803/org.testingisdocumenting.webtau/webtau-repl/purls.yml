@@ -32,3 +32,5 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-repl@1.52?classifier=sources
 - pkg:maven/org.testingisdocumenting.webtau/webtau-repl@1.53
 - pkg:maven/org.testingisdocumenting.webtau/webtau-repl@1.53?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-repl@2.0
+- pkg:maven/org.testingisdocumenting.webtau/webtau-repl@2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.embedded.postgresql/quarkus-embedded-postgresql-common-deployment@0.0.5
+- pkg:maven/io.quarkiverse.embedded.postgresql/quarkus-embedded-postgresql-common-deployment@0.0.5?classifier=sources

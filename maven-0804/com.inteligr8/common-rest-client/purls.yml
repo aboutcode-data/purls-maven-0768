@@ -4,3 +4,17 @@
 - pkg:maven/com.inteligr8/common-rest-client@2.0.1-jersey
 - pkg:maven/com.inteligr8/common-rest-client@2.0.1-jersey?classifier=sources
 - pkg:maven/com.inteligr8/common-rest-client@2.0.1?classifier=sources
+- pkg:maven/com.inteligr8/common-rest-client@2.0.2
+- pkg:maven/com.inteligr8/common-rest-client@2.0.2-cxf
+- pkg:maven/com.inteligr8/common-rest-client@2.0.2-cxf?classifier=sources
+- pkg:maven/com.inteligr8/common-rest-client@2.0.2-jersey
+- pkg:maven/com.inteligr8/common-rest-client@2.0.2-jersey?classifier=sources
+- pkg:maven/com.inteligr8/common-rest-client@2.0.2?classifier=sources
+- pkg:maven/com.inteligr8/common-rest-client@2.0.3-jersey
+- pkg:maven/com.inteligr8/common-rest-client@2.0.3-jersey?classifier=sources
+- pkg:maven/com.inteligr8/common-rest-client@2.0.4
+- pkg:maven/com.inteligr8/common-rest-client@2.0.4-cxf
+- pkg:maven/com.inteligr8/common-rest-client@2.0.4-cxf?classifier=sources
+- pkg:maven/com.inteligr8/common-rest-client@2.0.4-jersey
+- pkg:maven/com.inteligr8/common-rest-client@2.0.4-jersey?classifier=sources
+- pkg:maven/com.inteligr8/common-rest-client@2.0.4?classifier=sources

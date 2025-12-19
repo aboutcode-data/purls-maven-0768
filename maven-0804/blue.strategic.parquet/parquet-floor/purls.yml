@@ -8,3 +8,5 @@
 - pkg:maven/blue.strategic.parquet/parquet-floor@1.37?classifier=sources
 - pkg:maven/blue.strategic.parquet/parquet-floor@1.38
 - pkg:maven/blue.strategic.parquet/parquet-floor@1.38?classifier=sources
+- pkg:maven/blue.strategic.parquet/parquet-floor@1.39
+- pkg:maven/blue.strategic.parquet/parquet-floor@1.39?classifier=sources

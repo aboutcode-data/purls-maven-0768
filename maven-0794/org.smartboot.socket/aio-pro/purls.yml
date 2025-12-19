@@ -229,6 +229,10 @@
 - pkg:maven/org.smartboot.socket/aio-pro@1.5.29?classifier=sources
 - pkg:maven/org.smartboot.socket/aio-pro@1.5.2?classifier=sources
 - pkg:maven/org.smartboot.socket/aio-pro@1.5.3
+- pkg:maven/org.smartboot.socket/aio-pro@1.5.30
+- pkg:maven/org.smartboot.socket/aio-pro@1.5.30?classifier=sources
+- pkg:maven/org.smartboot.socket/aio-pro@1.5.31
+- pkg:maven/org.smartboot.socket/aio-pro@1.5.31?classifier=sources
 - pkg:maven/org.smartboot.socket/aio-pro@1.5.3?classifier=sources
 - pkg:maven/org.smartboot.socket/aio-pro@1.5.4
 - pkg:maven/org.smartboot.socket/aio-pro@1.5.4?classifier=sources
