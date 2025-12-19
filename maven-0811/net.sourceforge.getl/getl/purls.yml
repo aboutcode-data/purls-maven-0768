@@ -137,6 +137,10 @@
 - pkg:maven/net.sourceforge.getl/getl@4.14.9?classifier=sources
 - pkg:maven/net.sourceforge.getl/getl@4.15.0?classifier=sources
 - pkg:maven/net.sourceforge.getl/getl@4.15.1?classifier=sources
+- pkg:maven/net.sourceforge.getl/getl@4.15.2?classifier=sources
+- pkg:maven/net.sourceforge.getl/getl@4.16.0?classifier=sources
+- pkg:maven/net.sourceforge.getl/getl@4.16.1?classifier=sources
+- pkg:maven/net.sourceforge.getl/getl@4.16.2?classifier=sources
 - pkg:maven/net.sourceforge.getl/getl@4.2.0
 - pkg:maven/net.sourceforge.getl/getl@4.2.0?classifier=sources
 - pkg:maven/net.sourceforge.getl/getl@4.2.1

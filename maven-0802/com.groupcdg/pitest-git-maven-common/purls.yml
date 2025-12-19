@@ -19,3 +19,4 @@
 - pkg:maven/com.groupcdg/pitest-git-maven-common@0.2.1
 - pkg:maven/com.groupcdg/pitest-git-maven-common@0.3.0
 - pkg:maven/com.groupcdg/pitest-git-maven-common@1.0.0
+- pkg:maven/com.groupcdg/pitest-git-maven-common@1.0.1

@@ -11,3 +11,4 @@
 - pkg:maven/com.tnkfactory/pub@7.17.2?classifier=sources
 - pkg:maven/com.tnkfactory/pub@7.18.2?classifier=sources
 - pkg:maven/com.tnkfactory/pub@7.19.2?classifier=sources
+- pkg:maven/com.tnkfactory/pub@7.20.2?classifier=sources

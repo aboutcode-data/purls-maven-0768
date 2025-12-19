@@ -581,6 +581,8 @@
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-webapp-resources@5.0.14?classifier=sources
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-webapp-resources@5.0.15
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-webapp-resources@5.0.15?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-webapp-resources@5.0.16
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-webapp-resources@5.0.16?classifier=sources
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-webapp-resources@5.0.1?classifier=sources
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-webapp-resources@5.0.2
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-webapp-resources@5.0.2?classifier=sources

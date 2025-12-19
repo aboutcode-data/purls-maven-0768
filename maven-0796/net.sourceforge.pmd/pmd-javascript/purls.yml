@@ -158,6 +158,8 @@
 - pkg:maven/net.sourceforge.pmd/pmd-javascript@6.49.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-javascript@6.5.0
 - pkg:maven/net.sourceforge.pmd/pmd-javascript@6.5.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-javascript@6.50.0
+- pkg:maven/net.sourceforge.pmd/pmd-javascript@6.50.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-javascript@6.6.0
 - pkg:maven/net.sourceforge.pmd/pmd-javascript@6.6.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-javascript@6.7.0

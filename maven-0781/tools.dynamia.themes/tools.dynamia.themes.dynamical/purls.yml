@@ -20,3 +20,5 @@
 - pkg:maven/tools.dynamia.themes/tools.dynamia.themes.dynamical@4.0.7?classifier=sources
 - pkg:maven/tools.dynamia.themes/tools.dynamia.themes.dynamical@4.0.8
 - pkg:maven/tools.dynamia.themes/tools.dynamia.themes.dynamical@4.0.8?classifier=sources
+- pkg:maven/tools.dynamia.themes/tools.dynamia.themes.dynamical@4.1.0
+- pkg:maven/tools.dynamia.themes/tools.dynamia.themes.dynamical@4.1.0?classifier=sources

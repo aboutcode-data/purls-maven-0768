@@ -15,3 +15,4 @@
 - pkg:maven/org.yakworks/spring-icu4j@5.1?classifier=sources
 - pkg:maven/org.yakworks/spring-icu4j@5.2?classifier=sources
 - pkg:maven/org.yakworks/spring-icu4j@5.3?classifier=sources
+- pkg:maven/org.yakworks/spring-icu4j@5.4?classifier=sources

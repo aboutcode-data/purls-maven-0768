@@ -3,6 +3,8 @@
 - pkg:maven/io.mateu/security-htpasswd@1.0.10?classifier=sources
 - pkg:maven/io.mateu/security-htpasswd@1.0.1?classifier=sources
 - pkg:maven/io.mateu/security-htpasswd@1.0.2
+- pkg:maven/io.mateu/security-htpasswd@1.0.20
+- pkg:maven/io.mateu/security-htpasswd@1.0.20?classifier=sources
 - pkg:maven/io.mateu/security-htpasswd@1.0.2?classifier=sources
 - pkg:maven/io.mateu/security-htpasswd@1.0.3
 - pkg:maven/io.mateu/security-htpasswd@1.0.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/xyz.opcal.xena/opcal-xena-core@1.27.3
+- pkg:maven/xyz.opcal.xena/opcal-xena-core@1.27.3?classifier=sources
+- pkg:maven/xyz.opcal.xena/opcal-xena-core@2.7.0
+- pkg:maven/xyz.opcal.xena/opcal-xena-core@2.7.0?classifier=sources

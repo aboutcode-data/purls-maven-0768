@@ -1,0 +1,12 @@
+- pkg:maven/cf.janga.knit/knit@0.0.10?classifier=sources
+- pkg:maven/cf.janga.knit/knit@0.0.12?classifier=sources
+- pkg:maven/cf.janga.knit/knit@0.0.13?classifier=sources
+- pkg:maven/cf.janga.knit/knit@0.0.14?classifier=sources
+- pkg:maven/cf.janga.knit/knit@0.0.16?classifier=sources
+- pkg:maven/cf.janga.knit/knit@0.0.20?classifier=sources
+- pkg:maven/cf.janga.knit/knit@0.0.21?classifier=sources
+- pkg:maven/cf.janga.knit/knit@0.0.22?classifier=sources
+- pkg:maven/cf.janga.knit/knit@0.0.23?classifier=sources
+- pkg:maven/cf.janga.knit/knit@0.0.24?classifier=sources
+- pkg:maven/cf.janga.knit/knit@0.0.8
+- pkg:maven/cf.janga.knit/knit@0.0.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.qweather.leframework/core@6.0.0
+- pkg:maven/com.qweather.leframework/core@6.0.0?classifier=sources

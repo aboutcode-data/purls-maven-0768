@@ -4,3 +4,5 @@
 - pkg:maven/org.finos.springbot/entities@9.0.0.BETA2?classifier=sources
 - pkg:maven/org.finos.springbot/entities@9.0.0.BETA?classifier=sources
 - pkg:maven/org.finos.springbot/entities@9.0.0?classifier=sources
+- pkg:maven/org.finos.springbot/entities@9.0.1
+- pkg:maven/org.finos.springbot/entities@9.0.1?classifier=sources

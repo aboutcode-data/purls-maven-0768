@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/webidl-conversions@5.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/webidl-conversions@6.1.0
 - pkg:maven/org.webjars.npm/webidl-conversions@6.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/webidl-conversions@7.0.0
+- pkg:maven/org.webjars.npm/webidl-conversions@7.0.0?classifier=sources

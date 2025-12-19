@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/match-sorter@4.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/match-sorter@4.2.1
 - pkg:maven/org.webjars.npm/match-sorter@4.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/match-sorter@6.3.1
+- pkg:maven/org.webjars.npm/match-sorter@6.3.1?classifier=sources

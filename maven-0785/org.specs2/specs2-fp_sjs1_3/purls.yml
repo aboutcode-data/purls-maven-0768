@@ -6,6 +6,8 @@
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@4.16.0?classifier=sources
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@4.16.1
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@4.16.1?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@4.17.0
+- pkg:maven/org.specs2/specs2-fp_sjs1_3@4.17.0?classifier=sources
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-01
 - pkg:maven/org.specs2/specs2-fp_sjs1_3@5.0.0-RC-01?classifier=sources

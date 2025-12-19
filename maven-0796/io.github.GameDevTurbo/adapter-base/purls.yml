@@ -1,0 +1,2 @@
+- pkg:maven/io.github.GameDevTurbo/adapter-base@1.9.11?classifier=sources
+- pkg:maven/io.github.GameDevTurbo/adapter-base@1.9.12?classifier=sources

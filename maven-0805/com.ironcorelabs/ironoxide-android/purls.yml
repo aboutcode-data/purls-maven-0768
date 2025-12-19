@@ -12,3 +12,5 @@
 - pkg:maven/com.ironcorelabs/ironoxide-android@0.14.4?type=aar
 - pkg:maven/com.ironcorelabs/ironoxide-android@0.14.7?classifier=sources
 - pkg:maven/com.ironcorelabs/ironoxide-android@0.14.7?type=aar
+- pkg:maven/com.ironcorelabs/ironoxide-android@0.15.0?classifier=sources
+- pkg:maven/com.ironcorelabs/ironoxide-android@0.15.0?type=aar

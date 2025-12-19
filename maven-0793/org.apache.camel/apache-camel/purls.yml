@@ -197,6 +197,7 @@
 - pkg:maven/org.apache.camel/apache-camel@3.18.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@3.18.1?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@3.18.2?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@3.19.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@3.2.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@3.3.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@3.4.0?classifier=src&type=zip

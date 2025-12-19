@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.syncope.ext.flowable/syncope-ext-flowable-rest-api@2.1.9?classifier=sources
 - pkg:maven/org.apache.syncope.ext.flowable/syncope-ext-flowable-rest-api@3.0.0-M0
 - pkg:maven/org.apache.syncope.ext.flowable/syncope-ext-flowable-rest-api@3.0.0-M0?classifier=sources
+- pkg:maven/org.apache.syncope.ext.flowable/syncope-ext-flowable-rest-api@3.0.0-M1
+- pkg:maven/org.apache.syncope.ext.flowable/syncope-ext-flowable-rest-api@3.0.0-M1?classifier=sources

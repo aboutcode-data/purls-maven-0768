@@ -6,3 +6,5 @@
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-hystrix@1.4.0-alpha
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-hystrix@1.4.0-alpha?classifier=sources
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-hystrix@1.4.0?classifier=sources
+- pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-hystrix@1.4.1
+- pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-hystrix@1.4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.simplify4u/slf4j-mock-common@2.3.0
+- pkg:maven/org.simplify4u/slf4j-mock-common@2.3.0?classifier=sources

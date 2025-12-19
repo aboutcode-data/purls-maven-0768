@@ -1,3 +1,4 @@
 - pkg:maven/com.criteo.mediation.google/criteo-adapter@4.4.0.0?classifier=sources
 - pkg:maven/com.criteo.mediation.google/criteo-adapter@4.5.0.0?classifier=sources
 - pkg:maven/com.criteo.mediation.google/criteo-adapter@4.7.0.0?classifier=sources
+- pkg:maven/com.criteo.mediation.google/criteo-adapter@4.8.0.0?classifier=sources

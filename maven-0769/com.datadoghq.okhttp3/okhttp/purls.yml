@@ -1,0 +1,4 @@
+- pkg:maven/com.datadoghq.okhttp3/okhttp@3.12.14
+- pkg:maven/com.datadoghq.okhttp3/okhttp@3.12.14?classifier=sources
+- pkg:maven/com.datadoghq.okhttp3/okhttp@3.12.15
+- pkg:maven/com.datadoghq.okhttp3/okhttp@3.12.15?classifier=sources

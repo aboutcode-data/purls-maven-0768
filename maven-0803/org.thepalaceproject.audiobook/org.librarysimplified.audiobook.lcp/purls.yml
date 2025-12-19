@@ -2,3 +2,4 @@
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.lcp@7.0.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.lcp@7.0.1?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.lcp@8.0.0?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.lcp@8.0.1?classifier=sources

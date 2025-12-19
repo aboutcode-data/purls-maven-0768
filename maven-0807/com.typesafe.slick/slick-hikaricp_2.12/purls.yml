@@ -28,3 +28,5 @@
 - pkg:maven/com.typesafe.slick/slick-hikaricp_2.12@3.4.0-RC3
 - pkg:maven/com.typesafe.slick/slick-hikaricp_2.12@3.4.0-RC3?classifier=sources
 - pkg:maven/com.typesafe.slick/slick-hikaricp_2.12@3.4.0?classifier=sources
+- pkg:maven/com.typesafe.slick/slick-hikaricp_2.12@3.4.1
+- pkg:maven/com.typesafe.slick/slick-hikaricp_2.12@3.4.1?classifier=sources

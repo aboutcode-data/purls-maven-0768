@@ -56,3 +56,4 @@
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-api@0.8?classifier=sources
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-api@0.9
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-api@0.9?classifier=sources
+- pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-api@1.0.0-alpha.1?classifier=sources

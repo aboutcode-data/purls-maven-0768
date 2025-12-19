@@ -10,6 +10,8 @@
 - pkg:maven/build.bleep/bleep-core_2.12@0.0.1-M14?classifier=sources
 - pkg:maven/build.bleep/bleep-core_2.12@0.0.1-M15
 - pkg:maven/build.bleep/bleep-core_2.12@0.0.1-M15?classifier=sources
+- pkg:maven/build.bleep/bleep-core_2.12@0.0.1-M16
+- pkg:maven/build.bleep/bleep-core_2.12@0.0.1-M16?classifier=sources
 - pkg:maven/build.bleep/bleep-core_2.12@0.0.1-M3
 - pkg:maven/build.bleep/bleep-core_2.12@0.0.1-M3?classifier=sources
 - pkg:maven/build.bleep/bleep-core_2.12@0.0.1-M4

@@ -47,3 +47,4 @@
 - pkg:maven/fish.payara.distributions/payara-ml@6.2021.1.Alpha1?classifier=sources
 - pkg:maven/fish.payara.distributions/payara-ml@6.2022.1.Alpha2?classifier=sources
 - pkg:maven/fish.payara.distributions/payara-ml@6.2022.1.Alpha3?classifier=sources
+- pkg:maven/fish.payara.distributions/payara-ml@6.2022.1.Alpha4?classifier=sources

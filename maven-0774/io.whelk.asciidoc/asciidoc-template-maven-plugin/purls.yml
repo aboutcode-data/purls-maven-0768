@@ -18,5 +18,7 @@
 - pkg:maven/io.whelk.asciidoc/asciidoc-template-maven-plugin@1.0.18?classifier=sources
 - pkg:maven/io.whelk.asciidoc/asciidoc-template-maven-plugin@1.0.20
 - pkg:maven/io.whelk.asciidoc/asciidoc-template-maven-plugin@1.0.20?classifier=sources
+- pkg:maven/io.whelk.asciidoc/asciidoc-template-maven-plugin@1.0.21
+- pkg:maven/io.whelk.asciidoc/asciidoc-template-maven-plugin@1.0.21?classifier=sources
 - pkg:maven/io.whelk.asciidoc/asciidoc-template-maven-plugin@1.0.8-RELEASE
 - pkg:maven/io.whelk.asciidoc/asciidoc-template-maven-plugin@1.0.8-RELEASE?classifier=sources

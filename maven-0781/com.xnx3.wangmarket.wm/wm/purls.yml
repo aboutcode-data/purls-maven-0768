@@ -8,6 +8,8 @@
 - pkg:maven/com.xnx3.wangmarket.wm/wm@2.10?classifier=sources
 - pkg:maven/com.xnx3.wangmarket.wm/wm@2.19
 - pkg:maven/com.xnx3.wangmarket.wm/wm@2.19?classifier=sources
+- pkg:maven/com.xnx3.wangmarket.wm/wm@2.23
+- pkg:maven/com.xnx3.wangmarket.wm/wm@2.23?classifier=sources
 - pkg:maven/com.xnx3.wangmarket.wm/wm@2.3
 - pkg:maven/com.xnx3.wangmarket.wm/wm@2.3?classifier=sources
 - pkg:maven/com.xnx3.wangmarket.wm/wm@2.9

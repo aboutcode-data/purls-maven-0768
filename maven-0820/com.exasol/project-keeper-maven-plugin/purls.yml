@@ -78,3 +78,5 @@
 - pkg:maven/com.exasol/project-keeper-maven-plugin@2.6.2?classifier=sources
 - pkg:maven/com.exasol/project-keeper-maven-plugin@2.7.0
 - pkg:maven/com.exasol/project-keeper-maven-plugin@2.7.0?classifier=sources
+- pkg:maven/com.exasol/project-keeper-maven-plugin@2.8.0
+- pkg:maven/com.exasol/project-keeper-maven-plugin@2.8.0?classifier=sources

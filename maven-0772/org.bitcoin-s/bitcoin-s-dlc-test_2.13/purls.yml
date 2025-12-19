@@ -12,3 +12,5 @@
 - pkg:maven/org.bitcoin-s/bitcoin-s-dlc-test_2.13@1.9.2?classifier=sources
 - pkg:maven/org.bitcoin-s/bitcoin-s-dlc-test_2.13@1.9.3
 - pkg:maven/org.bitcoin-s/bitcoin-s-dlc-test_2.13@1.9.3?classifier=sources
+- pkg:maven/org.bitcoin-s/bitcoin-s-dlc-test_2.13@1.9.4
+- pkg:maven/org.bitcoin-s/bitcoin-s-dlc-test_2.13@1.9.4?classifier=sources

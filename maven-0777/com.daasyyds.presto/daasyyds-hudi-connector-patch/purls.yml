@@ -1,0 +1,2 @@
+- pkg:maven/com.daasyyds.presto/daasyyds-hudi-connector-patch@0.276.1-202209.1
+- pkg:maven/com.daasyyds.presto/daasyyds-hudi-connector-patch@0.276.1-202209.1?classifier=sources

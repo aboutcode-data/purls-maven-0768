@@ -29,3 +29,5 @@
 - pkg:maven/com.codeborne/selenide-core@6.7.2?classifier=sources
 - pkg:maven/com.codeborne/selenide-core@6.7.3?classifier=sources
 - pkg:maven/com.codeborne/selenide-core@6.7.4?classifier=sources
+- pkg:maven/com.codeborne/selenide-core@6.8.0?classifier=sources
+- pkg:maven/com.codeborne/selenide-core@6.8.1?classifier=sources

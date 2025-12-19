@@ -14,3 +14,5 @@
 - pkg:maven/be.yildiz-games/engine-client-addon-statemachine@2.2.2?classifier=sources
 - pkg:maven/be.yildiz-games/engine-client-addon-statemachine@2.2.3
 - pkg:maven/be.yildiz-games/engine-client-addon-statemachine@2.2.3?classifier=sources
+- pkg:maven/be.yildiz-games/engine-client-addon-statemachine@3.0.0
+- pkg:maven/be.yildiz-games/engine-client-addon-statemachine@3.0.0?classifier=sources

@@ -24,6 +24,8 @@
 - pkg:maven/br.com.zup.nimbus/nimbus-compose@1.0.0-alpha31?classifier=sources
 - pkg:maven/br.com.zup.nimbus/nimbus-compose@1.0.0-alpha32?classifier=sources
 - pkg:maven/br.com.zup.nimbus/nimbus-compose@1.0.0-alpha33?classifier=sources
+- pkg:maven/br.com.zup.nimbus/nimbus-compose@1.0.0-alpha34?classifier=sources
+- pkg:maven/br.com.zup.nimbus/nimbus-compose@1.0.0-alpha35?classifier=sources
 - pkg:maven/br.com.zup.nimbus/nimbus-compose@1.0.0-alpha3?classifier=sources
 - pkg:maven/br.com.zup.nimbus/nimbus-compose@1.0.0-alpha4?classifier=sources
 - pkg:maven/br.com.zup.nimbus/nimbus-compose@1.0.0-alpha5?classifier=sources

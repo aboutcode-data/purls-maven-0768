@@ -56,3 +56,5 @@
 - pkg:maven/org.nasdanika.html/flow@2022.7.0?classifier=sources
 - pkg:maven/org.nasdanika.html/flow@2022.8.0
 - pkg:maven/org.nasdanika.html/flow@2022.8.0?classifier=sources
+- pkg:maven/org.nasdanika.html/flow@2022.9.0
+- pkg:maven/org.nasdanika.html/flow@2022.9.0?classifier=sources

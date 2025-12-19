@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/openapi-resolver@4.0.30
+- pkg:maven/org.webjars.npm/openapi-resolver@4.0.30?classifier=sources

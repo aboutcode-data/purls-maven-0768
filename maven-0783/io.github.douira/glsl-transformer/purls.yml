@@ -51,6 +51,10 @@
 - pkg:maven/io.github.douira/glsl-transformer@1.0.0-pre18?classifier=sources
 - pkg:maven/io.github.douira/glsl-transformer@1.0.0-pre19?classifier=sources
 - pkg:maven/io.github.douira/glsl-transformer@1.0.0-pre1?classifier=sources
+- pkg:maven/io.github.douira/glsl-transformer@1.0.0-pre20?classifier=sources
+- pkg:maven/io.github.douira/glsl-transformer@1.0.0-pre21.1?classifier=sources
+- pkg:maven/io.github.douira/glsl-transformer@1.0.0-pre21.2?classifier=sources
+- pkg:maven/io.github.douira/glsl-transformer@1.0.0-pre21?classifier=sources
 - pkg:maven/io.github.douira/glsl-transformer@1.0.0-pre2?classifier=sources
 - pkg:maven/io.github.douira/glsl-transformer@1.0.0-pre3?classifier=sources
 - pkg:maven/io.github.douira/glsl-transformer@1.0.0-pre4?classifier=sources
@@ -61,3 +65,5 @@
 - pkg:maven/io.github.douira/glsl-transformer@1.0.0-pre8.1?classifier=sources
 - pkg:maven/io.github.douira/glsl-transformer@1.0.0-pre8?classifier=sources
 - pkg:maven/io.github.douira/glsl-transformer@1.0.0-pre9?classifier=sources
+- pkg:maven/io.github.douira/glsl-transformer@1.0.0?classifier=sources
+- pkg:maven/io.github.douira/glsl-transformer@1.0.1?classifier=sources

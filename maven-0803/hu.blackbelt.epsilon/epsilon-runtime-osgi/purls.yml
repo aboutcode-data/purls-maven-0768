@@ -8,3 +8,5 @@
 - pkg:maven/hu.blackbelt.epsilon/epsilon-runtime-osgi@1.2.3?classifier=sources
 - pkg:maven/hu.blackbelt.epsilon/epsilon-runtime-osgi@1.2.4
 - pkg:maven/hu.blackbelt.epsilon/epsilon-runtime-osgi@1.2.4?classifier=sources
+- pkg:maven/hu.blackbelt.epsilon/epsilon-runtime-osgi@1.5.0
+- pkg:maven/hu.blackbelt.epsilon/epsilon-runtime-osgi@1.5.0?classifier=sources

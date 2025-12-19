@@ -1,2 +1,4 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.7.0
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.7.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.8.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.8.0?classifier=sources

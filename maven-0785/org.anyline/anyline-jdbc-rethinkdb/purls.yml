@@ -26,3 +26,8 @@
 - pkg:maven/org.anyline/anyline-jdbc-rethinkdb@8.5.7-20220906
 - pkg:maven/org.anyline/anyline-jdbc-rethinkdb@8.5.7-20220907
 - pkg:maven/org.anyline/anyline-jdbc-rethinkdb@8.5.7-20220908
+- pkg:maven/org.anyline/anyline-jdbc-rethinkdb@8.5.7-20220912
+- pkg:maven/org.anyline/anyline-jdbc-rethinkdb@8.5.7-20220920
+- pkg:maven/org.anyline/anyline-jdbc-rethinkdb@8.5.7-20220922
+- pkg:maven/org.anyline/anyline-jdbc-rethinkdb@8.5.7-20220927
+- pkg:maven/org.anyline/anyline-jdbc-rethinkdb@8.5.7-20220928

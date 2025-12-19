@@ -97,3 +97,9 @@
 - pkg:maven/com.netease.nim/camellia-redis-eureka-base@1.0.59?classifier=sources
 - pkg:maven/com.netease.nim/camellia-redis-eureka-base@1.0.60
 - pkg:maven/com.netease.nim/camellia-redis-eureka-base@1.0.60?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-eureka-base@1.0.61
+- pkg:maven/com.netease.nim/camellia-redis-eureka-base@1.0.61?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-eureka-base@1.1.0
+- pkg:maven/com.netease.nim/camellia-redis-eureka-base@1.1.0?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-eureka-base@1.1.1
+- pkg:maven/com.netease.nim/camellia-redis-eureka-base@1.1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.memgraph/graph-jdbc@0.4.4
+- pkg:maven/org.memgraph/graph-jdbc@0.4.4?classifier=sources
+- pkg:maven/org.memgraph/graph-jdbc@0.4.7
+- pkg:maven/org.memgraph/graph-jdbc@0.4.7?classifier=sources

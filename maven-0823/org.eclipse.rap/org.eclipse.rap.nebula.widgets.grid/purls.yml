@@ -48,6 +48,8 @@
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.grid@3.20.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.grid@3.21.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.grid@3.21.0?classifier=sources
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.grid@3.22.0
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.grid@3.22.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.grid@3.3.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.grid@3.3.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.nebula.widgets.grid@3.4.0

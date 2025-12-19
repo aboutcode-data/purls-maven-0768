@@ -1,1 +1,4 @@
 - pkg:maven/org.danilopianini/code-plagiarism-detector@1.0.0?classifier=sources
+- pkg:maven/org.danilopianini/code-plagiarism-detector@2.0.0?classifier=sources
+- pkg:maven/org.danilopianini/code-plagiarism-detector@3.0.0?classifier=sources
+- pkg:maven/org.danilopianini/code-plagiarism-detector@4.0.0?classifier=sources

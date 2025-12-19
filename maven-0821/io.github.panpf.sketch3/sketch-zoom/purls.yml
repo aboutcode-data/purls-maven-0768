@@ -18,3 +18,9 @@
 - pkg:maven/io.github.panpf.sketch3/sketch-zoom@3.0.0-rc08?classifier=sources
 - pkg:maven/io.github.panpf.sketch3/sketch-zoom@3.0.0-rc10?classifier=sources
 - pkg:maven/io.github.panpf.sketch3/sketch-zoom@3.0.0?classifier=sources
+- pkg:maven/io.github.panpf.sketch3/sketch-zoom@3.1.0-beta01?classifier=sources
+- pkg:maven/io.github.panpf.sketch3/sketch-zoom@3.1.0-beta03?classifier=sources
+- pkg:maven/io.github.panpf.sketch3/sketch-zoom@3.1.0-beta04?classifier=sources
+- pkg:maven/io.github.panpf.sketch3/sketch-zoom@3.1.0-rc01?classifier=sources
+- pkg:maven/io.github.panpf.sketch3/sketch-zoom@3.1.0-rc02?classifier=sources
+- pkg:maven/io.github.panpf.sketch3/sketch-zoom@3.1.0?classifier=sources

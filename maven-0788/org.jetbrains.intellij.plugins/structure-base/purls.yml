@@ -66,3 +66,4 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.235?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.236?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.237?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.238?classifier=sources

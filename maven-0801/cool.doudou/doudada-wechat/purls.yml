@@ -1,0 +1,2 @@
+- pkg:maven/cool.doudou/doudada-wechat@1.0.0?classifier=sources
+- pkg:maven/cool.doudou/doudada-wechat@2.0.0?classifier=sources

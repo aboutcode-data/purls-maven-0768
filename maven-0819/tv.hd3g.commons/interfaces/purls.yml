@@ -8,6 +8,8 @@
 - pkg:maven/tv.hd3g.commons/interfaces@0.3.0?classifier=sources
 - pkg:maven/tv.hd3g.commons/interfaces@1.0.0
 - pkg:maven/tv.hd3g.commons/interfaces@1.0.0?classifier=sources
+- pkg:maven/tv.hd3g.commons/interfaces@10.0.0
+- pkg:maven/tv.hd3g.commons/interfaces@10.0.0?classifier=sources
 - pkg:maven/tv.hd3g.commons/interfaces@3.0.0
 - pkg:maven/tv.hd3g.commons/interfaces@3.0.0?classifier=sources
 - pkg:maven/tv.hd3g.commons/interfaces@3.1.0
@@ -46,3 +48,5 @@
 - pkg:maven/tv.hd3g.commons/interfaces@9.1.2?classifier=sources
 - pkg:maven/tv.hd3g.commons/interfaces@9.2.0
 - pkg:maven/tv.hd3g.commons/interfaces@9.2.0?classifier=sources
+- pkg:maven/tv.hd3g.commons/interfaces@9.3.0
+- pkg:maven/tv.hd3g.commons/interfaces@9.3.0?classifier=sources

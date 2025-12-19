@@ -169,3 +169,5 @@
 - pkg:maven/cn.jiangzeyin.fast-boot/common-boot@2.2.4?classifier=sources
 - pkg:maven/cn.jiangzeyin.fast-boot/common-boot@2.3.0
 - pkg:maven/cn.jiangzeyin.fast-boot/common-boot@2.3.0?classifier=sources
+- pkg:maven/cn.jiangzeyin.fast-boot/common-boot@2.4.0
+- pkg:maven/cn.jiangzeyin.fast-boot/common-boot@2.4.0?classifier=sources

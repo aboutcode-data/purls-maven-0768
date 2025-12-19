@@ -282,3 +282,13 @@
 - pkg:maven/dev.zio/zio-aws-kafkaconnect_3@5.17.267.1?classifier=sources
 - pkg:maven/dev.zio/zio-aws-kafkaconnect_3@5.17.267.4
 - pkg:maven/dev.zio/zio-aws-kafkaconnect_3@5.17.267.4?classifier=sources
+- pkg:maven/dev.zio/zio-aws-kafkaconnect_3@5.17.267.6
+- pkg:maven/dev.zio/zio-aws-kafkaconnect_3@5.17.267.6?classifier=sources
+- pkg:maven/dev.zio/zio-aws-kafkaconnect_3@5.17.267.7
+- pkg:maven/dev.zio/zio-aws-kafkaconnect_3@5.17.267.7?classifier=sources
+- pkg:maven/dev.zio/zio-aws-kafkaconnect_3@5.17.269.1
+- pkg:maven/dev.zio/zio-aws-kafkaconnect_3@5.17.269.1?classifier=sources
+- pkg:maven/dev.zio/zio-aws-kafkaconnect_3@5.17.271.1
+- pkg:maven/dev.zio/zio-aws-kafkaconnect_3@5.17.271.1?classifier=sources
+- pkg:maven/dev.zio/zio-aws-kafkaconnect_3@5.17.280.1
+- pkg:maven/dev.zio/zio-aws-kafkaconnect_3@5.17.280.1?classifier=sources

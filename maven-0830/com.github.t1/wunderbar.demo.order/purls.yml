@@ -56,3 +56,5 @@
 - pkg:maven/com.github.t1/wunderbar.demo.order@2.4.7?type=war
 - pkg:maven/com.github.t1/wunderbar.demo.order@2.4.8?classifier=sources
 - pkg:maven/com.github.t1/wunderbar.demo.order@2.4.8?type=war
+- pkg:maven/com.github.t1/wunderbar.demo.order@2.4.9?classifier=sources
+- pkg:maven/com.github.t1/wunderbar.demo.order@2.4.9?type=war

@@ -137,3 +137,7 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-store-relational@3.6.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-store-relational@3.6.1
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-store-relational@3.6.1?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-store-relational@3.6.2
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-store-relational@3.6.2?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-store-relational@3.7.0
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-store-relational@3.7.0?classifier=sources

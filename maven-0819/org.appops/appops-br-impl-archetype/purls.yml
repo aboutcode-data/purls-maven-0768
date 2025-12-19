@@ -1,3 +1,5 @@
+- pkg:maven/org.appops/appops-br-impl-archetype@0.1.3
+- pkg:maven/org.appops/appops-br-impl-archetype@0.1.3?classifier=sources
 - pkg:maven/org.appops/appops-br-impl-archetype@0.3.0
 - pkg:maven/org.appops/appops-br-impl-archetype@0.3.0?classifier=sources
 - pkg:maven/org.appops/appops-br-impl-archetype@0.5.0
@@ -8,3 +10,7 @@
 - pkg:maven/org.appops/appops-br-impl-archetype@0.9.0?classifier=sources
 - pkg:maven/org.appops/appops-br-impl-archetype@1.0-RC-1
 - pkg:maven/org.appops/appops-br-impl-archetype@1.0-RC-1?classifier=sources
+- pkg:maven/org.appops/appops-br-impl-archetype@1.0-RC-2
+- pkg:maven/org.appops/appops-br-impl-archetype@1.0-RC-2?classifier=sources
+- pkg:maven/org.appops/appops-br-impl-archetype@1.0-RC-5
+- pkg:maven/org.appops/appops-br-impl-archetype@1.0-RC-5?classifier=sources

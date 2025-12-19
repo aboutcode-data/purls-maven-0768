@@ -1,1 +1,2 @@
 - pkg:maven/io.github.gao746700783/alpha-player@0.0.2?classifier=sources
+- pkg:maven/io.github.gao746700783/alpha-player@0.0.3?classifier=sources

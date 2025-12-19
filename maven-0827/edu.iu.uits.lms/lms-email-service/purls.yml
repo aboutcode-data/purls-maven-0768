@@ -4,3 +4,5 @@
 - pkg:maven/edu.iu.uits.lms/lms-email-service@5.0.2?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-email-service@5.0.3
 - pkg:maven/edu.iu.uits.lms/lms-email-service@5.0.3?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-email-service@5.0.4
+- pkg:maven/edu.iu.uits.lms/lms-email-service@5.0.4?classifier=sources

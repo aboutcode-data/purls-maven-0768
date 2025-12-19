@@ -1,0 +1,2 @@
+- pkg:maven/dk.cloudcreate.essentials.components/foundation@0.3.2
+- pkg:maven/dk.cloudcreate.essentials.components/foundation@0.3.2?classifier=sources

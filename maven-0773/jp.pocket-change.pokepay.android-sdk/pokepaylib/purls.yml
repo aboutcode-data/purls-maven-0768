@@ -14,3 +14,11 @@
 - pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.7.0?type=aar
 - pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.8.0?classifier=sources
 - pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.8.0?type=aar
+- pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.8.1?classifier=sources
+- pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.8.1?type=aar
+- pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.8.2?classifier=sources
+- pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.8.2?type=aar
+- pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.8.3?classifier=sources
+- pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.8.3?type=aar
+- pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.8.4?classifier=sources
+- pkg:maven/jp.pocket-change.pokepay.android-sdk/pokepaylib@1.8.4?type=aar

@@ -3,3 +3,4 @@
 - pkg:maven/org.wso2.orbit.org.apache.tomcat/jdbc-pool@9.0.35.wso2v1
 - pkg:maven/org.wso2.orbit.org.apache.tomcat/jdbc-pool@9.0.52.wso2v1
 - pkg:maven/org.wso2.orbit.org.apache.tomcat/jdbc-pool@9.0.56.wso2v1
+- pkg:maven/org.wso2.orbit.org.apache.tomcat/jdbc-pool@9.0.65.wso2v1

@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/moddle@5.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/moddle@5.0.3
 - pkg:maven/org.webjars.npm/moddle@5.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/moddle@6.0.0
+- pkg:maven/org.webjars.npm/moddle@6.0.0?classifier=sources

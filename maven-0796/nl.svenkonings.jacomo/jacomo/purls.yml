@@ -2,3 +2,4 @@
 - pkg:maven/nl.svenkonings.jacomo/jacomo@0.1-RC2?classifier=sources
 - pkg:maven/nl.svenkonings.jacomo/jacomo@0.1-RC3?classifier=sources
 - pkg:maven/nl.svenkonings.jacomo/jacomo@0.1-RC4?classifier=sources
+- pkg:maven/nl.svenkonings.jacomo/jacomo@0.1?classifier=sources

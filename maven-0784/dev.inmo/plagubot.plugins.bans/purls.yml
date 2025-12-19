@@ -1,0 +1,2 @@
+- pkg:maven/dev.inmo/plagubot.plugins.bans@0.4.0?classifier=sources
+- pkg:maven/dev.inmo/plagubot.plugins.bans@0.4.1?classifier=sources

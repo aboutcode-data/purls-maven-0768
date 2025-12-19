@@ -199,4 +199,14 @@
 - pkg:maven/com.thoughtworks.dsl/domains-cats_sjs0.6_2.12@2.0.0-M1?classifier=sources
 - pkg:maven/com.thoughtworks.dsl/domains-cats_sjs0.6_2.12@2.0.0?classifier=sources
 - pkg:maven/com.thoughtworks.dsl/domains-cats_sjs0.6_2.12@2.1.0
+- pkg:maven/com.thoughtworks.dsl/domains-cats_sjs0.6_2.12@2.1.0%2B1-2ec9a475
+- pkg:maven/com.thoughtworks.dsl/domains-cats_sjs0.6_2.12@2.1.0%2B1-2ec9a475?classifier=sources
+- pkg:maven/com.thoughtworks.dsl/domains-cats_sjs0.6_2.12@2.1.0%2B2-f0b7e5dd
+- pkg:maven/com.thoughtworks.dsl/domains-cats_sjs0.6_2.12@2.1.0%2B2-f0b7e5dd?classifier=sources
+- pkg:maven/com.thoughtworks.dsl/domains-cats_sjs0.6_2.12@2.1.0%2B3-70497d57
+- pkg:maven/com.thoughtworks.dsl/domains-cats_sjs0.6_2.12@2.1.0%2B3-70497d57?classifier=sources
+- pkg:maven/com.thoughtworks.dsl/domains-cats_sjs0.6_2.12@2.1.0%2B4-f5753596
+- pkg:maven/com.thoughtworks.dsl/domains-cats_sjs0.6_2.12@2.1.0%2B4-f5753596?classifier=sources
+- pkg:maven/com.thoughtworks.dsl/domains-cats_sjs0.6_2.12@2.1.0%2B5-01a8e2fc
+- pkg:maven/com.thoughtworks.dsl/domains-cats_sjs0.6_2.12@2.1.0%2B5-01a8e2fc?classifier=sources
 - pkg:maven/com.thoughtworks.dsl/domains-cats_sjs0.6_2.12@2.1.0?classifier=sources

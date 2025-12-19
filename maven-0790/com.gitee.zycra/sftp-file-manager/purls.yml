@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.zycra/sftp-file-manager@1.0.0
+- pkg:maven/com.gitee.zycra/sftp-file-manager@1.0.0?classifier=sources

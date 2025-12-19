@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.druid/druid-gcp-common@0.22.1?classifier=sources
 - pkg:maven/org.apache.druid/druid-gcp-common@0.23.0
 - pkg:maven/org.apache.druid/druid-gcp-common@0.23.0?classifier=sources
+- pkg:maven/org.apache.druid/druid-gcp-common@24.0.0
+- pkg:maven/org.apache.druid/druid-gcp-common@24.0.0?classifier=sources

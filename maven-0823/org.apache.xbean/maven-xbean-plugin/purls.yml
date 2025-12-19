@@ -85,6 +85,8 @@
 - pkg:maven/org.apache.xbean/maven-xbean-plugin@4.20?classifier=sources
 - pkg:maven/org.apache.xbean/maven-xbean-plugin@4.21
 - pkg:maven/org.apache.xbean/maven-xbean-plugin@4.21?classifier=sources
+- pkg:maven/org.apache.xbean/maven-xbean-plugin@4.22
+- pkg:maven/org.apache.xbean/maven-xbean-plugin@4.22?classifier=sources
 - pkg:maven/org.apache.xbean/maven-xbean-plugin@4.2?classifier=sources
 - pkg:maven/org.apache.xbean/maven-xbean-plugin@4.3
 - pkg:maven/org.apache.xbean/maven-xbean-plugin@4.3?classifier=sources

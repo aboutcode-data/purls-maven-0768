@@ -12,3 +12,5 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-localeencoding@22.7.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-localeencoding@22.8.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-localeencoding@22.8.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-localeencoding@22.9.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-localeencoding@22.9.0?classifier=sources

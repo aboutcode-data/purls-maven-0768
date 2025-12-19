@@ -1,2 +1,4 @@
 - pkg:maven/io.github.mmalygin/openapi-generator-online@5.3.0
 - pkg:maven/io.github.mmalygin/openapi-generator-online@5.3.0?classifier=sources
+- pkg:maven/io.github.mmalygin/openapi-generator-online@6.2.0
+- pkg:maven/io.github.mmalygin/openapi-generator-online@6.2.0?classifier=sources

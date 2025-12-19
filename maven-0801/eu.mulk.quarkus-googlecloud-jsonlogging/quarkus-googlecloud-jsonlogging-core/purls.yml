@@ -6,3 +6,5 @@
 - pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-core@4.1.0?classifier=sources
 - pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-core@4.1.1
 - pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-core@4.1.1?classifier=sources
+- pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-core@5.0.0
+- pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-core@5.0.0?classifier=sources

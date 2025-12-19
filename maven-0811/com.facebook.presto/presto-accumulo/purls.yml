@@ -162,4 +162,6 @@
 - pkg:maven/com.facebook.presto/presto-accumulo@0.273?classifier=sources
 - pkg:maven/com.facebook.presto/presto-accumulo@0.274?classifier=sources
 - pkg:maven/com.facebook.presto/presto-accumulo@0.275?classifier=sources
+- pkg:maven/com.facebook.presto/presto-accumulo@0.276.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-accumulo@0.276?classifier=sources
+- pkg:maven/com.facebook.presto/presto-accumulo@0.277?classifier=sources

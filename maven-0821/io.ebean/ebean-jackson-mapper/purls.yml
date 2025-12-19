@@ -1,0 +1,2 @@
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.10.0
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.10.0?classifier=sources

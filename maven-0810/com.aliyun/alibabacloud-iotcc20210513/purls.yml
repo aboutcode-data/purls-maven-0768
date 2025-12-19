@@ -2,3 +2,5 @@
 - pkg:maven/com.aliyun/alibabacloud-iotcc20210513@2.1.3?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-iotcc20210513@2.1.8
 - pkg:maven/com.aliyun/alibabacloud-iotcc20210513@2.1.8?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-iotcc20210513@2.2.4
+- pkg:maven/com.aliyun/alibabacloud-iotcc20210513@2.2.4?classifier=sources

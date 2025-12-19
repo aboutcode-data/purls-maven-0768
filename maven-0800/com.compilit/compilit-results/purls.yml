@@ -1,2 +1,4 @@
 - pkg:maven/com.compilit/compilit-results@2.0.0
 - pkg:maven/com.compilit/compilit-results@2.0.0?classifier=sources
+- pkg:maven/com.compilit/compilit-results@3.0.0
+- pkg:maven/com.compilit/compilit-results@3.0.0?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/ch.rabanti/nanoxlsx4j@1.2.8?classifier=sources
 - pkg:maven/ch.rabanti/nanoxlsx4j@2.0.0
 - pkg:maven/ch.rabanti/nanoxlsx4j@2.0.0?classifier=sources
+- pkg:maven/ch.rabanti/nanoxlsx4j@2.0.1
+- pkg:maven/ch.rabanti/nanoxlsx4j@2.0.1?classifier=sources

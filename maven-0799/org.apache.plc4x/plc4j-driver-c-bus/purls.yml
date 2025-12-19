@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.plc4x/plc4j-driver-c-bus@0.10.0?classifier=sources

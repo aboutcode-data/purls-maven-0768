@@ -1,0 +1,4 @@
+- pkg:maven/hu.blackbelt.judo.tatami/judo-tatami-psm2asm@1.1.0
+- pkg:maven/hu.blackbelt.judo.tatami/judo-tatami-psm2asm@1.1.0?classifier=sources
+- pkg:maven/hu.blackbelt.judo.tatami/judo-tatami-psm2asm@1.1.1
+- pkg:maven/hu.blackbelt.judo.tatami/judo-tatami-psm2asm@1.1.1?classifier=sources

@@ -8,6 +8,12 @@
 - pkg:maven/tech.neander/langoustine-meta_3@0.0.13?classifier=sources
 - pkg:maven/tech.neander/langoustine-meta_3@0.0.14
 - pkg:maven/tech.neander/langoustine-meta_3@0.0.14?classifier=sources
+- pkg:maven/tech.neander/langoustine-meta_3@0.0.15
+- pkg:maven/tech.neander/langoustine-meta_3@0.0.15?classifier=sources
+- pkg:maven/tech.neander/langoustine-meta_3@0.0.16
+- pkg:maven/tech.neander/langoustine-meta_3@0.0.16?classifier=sources
+- pkg:maven/tech.neander/langoustine-meta_3@0.0.17
+- pkg:maven/tech.neander/langoustine-meta_3@0.0.17?classifier=sources
 - pkg:maven/tech.neander/langoustine-meta_3@0.0.4
 - pkg:maven/tech.neander/langoustine-meta_3@0.0.4?classifier=sources
 - pkg:maven/tech.neander/langoustine-meta_3@0.0.5

@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda/connector-http-json@0.9.0-rc1
+- pkg:maven/io.camunda/connector-http-json@0.9.0-rc1?classifier=sources

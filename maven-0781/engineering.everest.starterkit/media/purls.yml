@@ -1,4 +1,5 @@
 - pkg:maven/engineering.everest.starterkit/media@0.9.10?classifier=sources
+- pkg:maven/engineering.everest.starterkit/media@0.9.11?classifier=sources
 - pkg:maven/engineering.everest.starterkit/media@0.9.3?classifier=sources
 - pkg:maven/engineering.everest.starterkit/media@0.9.4?classifier=sources
 - pkg:maven/engineering.everest.starterkit/media@0.9.5?classifier=sources

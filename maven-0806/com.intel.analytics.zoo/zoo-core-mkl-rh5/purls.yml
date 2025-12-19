@@ -6,3 +6,5 @@
 - pkg:maven/com.intel.analytics.zoo/zoo-core-mkl-rh5@0.9.1?classifier=sources
 - pkg:maven/com.intel.analytics.zoo/zoo-core-mkl-rh5@2.0.0
 - pkg:maven/com.intel.analytics.zoo/zoo-core-mkl-rh5@2.0.0?classifier=sources
+- pkg:maven/com.intel.analytics.zoo/zoo-core-mkl-rh5@2.1.0
+- pkg:maven/com.intel.analytics.zoo/zoo-core-mkl-rh5@2.1.0?classifier=sources

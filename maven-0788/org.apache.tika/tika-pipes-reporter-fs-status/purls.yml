@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tika/tika-pipes-reporter-fs-status@2.5.0
+- pkg:maven/org.apache.tika/tika-pipes-reporter-fs-status@2.5.0?classifier=sources

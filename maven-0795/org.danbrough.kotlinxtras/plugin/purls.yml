@@ -1,0 +1,5 @@
+- pkg:maven/org.danbrough.kotlinxtras/plugin@0.0.1-beta01?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras/plugin@0.0.1-beta02?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras/plugin@0.0.1-beta03?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras/plugin@0.0.1-beta04?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras/plugin@0.0.1-beta05?classifier=sources

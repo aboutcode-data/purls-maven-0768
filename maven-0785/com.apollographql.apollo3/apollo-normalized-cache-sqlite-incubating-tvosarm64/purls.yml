@@ -1,2 +1,4 @@
 - pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-sqlite-incubating-tvosarm64@3.4.0?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-sqlite-incubating-tvosarm64@3.5.0?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-sqlite-incubating-tvosarm64@3.6.0?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-sqlite-incubating-tvosarm64@3.6.1?classifier=sources

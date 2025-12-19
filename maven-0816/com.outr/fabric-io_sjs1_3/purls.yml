@@ -1,0 +1,8 @@
+- pkg:maven/com.outr/fabric-io_sjs1_3@1.4.0
+- pkg:maven/com.outr/fabric-io_sjs1_3@1.4.0?classifier=sources
+- pkg:maven/com.outr/fabric-io_sjs1_3@1.5.0
+- pkg:maven/com.outr/fabric-io_sjs1_3@1.5.0?classifier=sources
+- pkg:maven/com.outr/fabric-io_sjs1_3@1.6.0
+- pkg:maven/com.outr/fabric-io_sjs1_3@1.6.0?classifier=sources
+- pkg:maven/com.outr/fabric-io_sjs1_3@1.6.1
+- pkg:maven/com.outr/fabric-io_sjs1_3@1.6.1?classifier=sources

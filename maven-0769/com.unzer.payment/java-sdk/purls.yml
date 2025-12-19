@@ -24,3 +24,5 @@
 - pkg:maven/com.unzer.payment/java-sdk@1.1.2.7?classifier=sources
 - pkg:maven/com.unzer.payment/java-sdk@1.2.0.0
 - pkg:maven/com.unzer.payment/java-sdk@1.2.0.0?classifier=sources
+- pkg:maven/com.unzer.payment/java-sdk@1.2.1.0
+- pkg:maven/com.unzer.payment/java-sdk@1.2.1.0?classifier=sources

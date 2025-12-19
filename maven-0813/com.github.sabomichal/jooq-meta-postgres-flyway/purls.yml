@@ -12,3 +12,5 @@
 - pkg:maven/com.github.sabomichal/jooq-meta-postgres-flyway@1.0.6?classifier=sources
 - pkg:maven/com.github.sabomichal/jooq-meta-postgres-flyway@1.0.7
 - pkg:maven/com.github.sabomichal/jooq-meta-postgres-flyway@1.0.7?classifier=sources
+- pkg:maven/com.github.sabomichal/jooq-meta-postgres-flyway@1.0.9
+- pkg:maven/com.github.sabomichal/jooq-meta-postgres-flyway@1.0.9?classifier=sources

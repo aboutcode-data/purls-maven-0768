@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pulquero.halyard/halyard-spin@4.1
+- pkg:maven/io.github.pulquero.halyard/halyard-spin@4.1?classifier=sources

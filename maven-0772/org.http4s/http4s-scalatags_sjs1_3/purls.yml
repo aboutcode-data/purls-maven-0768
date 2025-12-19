@@ -1,0 +1,2 @@
+- pkg:maven/org.http4s/http4s-scalatags_sjs1_3@0.25.0
+- pkg:maven/org.http4s/http4s-scalatags_sjs1_3@0.25.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.anyboot/anyboot-data-jdbc@8.6.1.2612-20221008
+- pkg:maven/org.anyboot/anyboot-data-jdbc@8.6.1.2612-20221008?classifier=sources
+- pkg:maven/org.anyboot/anyboot-data-jdbc@8.6.1.2612-20221009
+- pkg:maven/org.anyboot/anyboot-data-jdbc@8.6.1.2612-20221009?classifier=sources
+- pkg:maven/org.anyboot/anyboot-data-jdbc@8.6.1.2612-20221010
+- pkg:maven/org.anyboot/anyboot-data-jdbc@8.6.1.2612-20221010?classifier=sources

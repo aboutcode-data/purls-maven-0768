@@ -62,3 +62,7 @@
 - pkg:maven/com.pingcap.tispark/tispark-core-internal@3.0.1?classifier=sources
 - pkg:maven/com.pingcap.tispark/tispark-core-internal@3.0.2
 - pkg:maven/com.pingcap.tispark/tispark-core-internal@3.0.2?classifier=sources
+- pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.0
+- pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.0?classifier=sources
+- pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.1
+- pkg:maven/com.pingcap.tispark/tispark-core-internal@3.1.1?classifier=sources

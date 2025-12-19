@@ -2,3 +2,4 @@
 - pkg:maven/org.rogmann.jsmud/jsmud-analysis@0.5.1?classifier=sources
 - pkg:maven/org.rogmann.jsmud/jsmud-analysis@0.5.2?classifier=sources
 - pkg:maven/org.rogmann.jsmud/jsmud-analysis@0.6.0?classifier=sources
+- pkg:maven/org.rogmann.jsmud/jsmud-analysis@0.6.1?classifier=sources

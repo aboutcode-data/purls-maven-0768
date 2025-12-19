@@ -43,3 +43,8 @@
 - pkg:maven/io.trino/trino-tpch@393?classifier=sources
 - pkg:maven/io.trino/trino-tpch@394?classifier=sources
 - pkg:maven/io.trino/trino-tpch@395?classifier=sources
+- pkg:maven/io.trino/trino-tpch@396?classifier=sources
+- pkg:maven/io.trino/trino-tpch@397?classifier=sources
+- pkg:maven/io.trino/trino-tpch@398?classifier=sources
+- pkg:maven/io.trino/trino-tpch@399?classifier=sources
+- pkg:maven/io.trino/trino-tpch@400?classifier=sources

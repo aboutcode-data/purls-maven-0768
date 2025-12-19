@@ -5,6 +5,8 @@
 - pkg:maven/info.tomfi.alexa/alexa-skills-tester@0.2.1
 - pkg:maven/info.tomfi.alexa/alexa-skills-tester@0.2.10
 - pkg:maven/info.tomfi.alexa/alexa-skills-tester@0.2.10?classifier=sources
+- pkg:maven/info.tomfi.alexa/alexa-skills-tester@0.2.11
+- pkg:maven/info.tomfi.alexa/alexa-skills-tester@0.2.11?classifier=sources
 - pkg:maven/info.tomfi.alexa/alexa-skills-tester@0.2.1?classifier=sources
 - pkg:maven/info.tomfi.alexa/alexa-skills-tester@0.2.2
 - pkg:maven/info.tomfi.alexa/alexa-skills-tester@0.2.2?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.organizationswitch/identity-inbound-oauth2-grant-organization-switch@1.1.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.organizationswitch/identity-inbound-oauth2-grant-organization-switch@1.1.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.organizationswitch/identity-inbound-oauth2-grant-organization-switch@1.1.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.organizationswitch/identity-inbound-oauth2-grant-organization-switch@1.1.3?classifier=source-release&type=zip

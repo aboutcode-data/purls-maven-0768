@@ -112,6 +112,8 @@
 - pkg:maven/org.mdsplus/mdsplus-api@7.138.0?classifier=sources
 - pkg:maven/org.mdsplus/mdsplus-api@7.139.5
 - pkg:maven/org.mdsplus/mdsplus-api@7.139.5?classifier=sources
+- pkg:maven/org.mdsplus/mdsplus-api@7.139.8
+- pkg:maven/org.mdsplus/mdsplus-api@7.139.8?classifier=sources
 - pkg:maven/org.mdsplus/mdsplus-api@7.82.1
 - pkg:maven/org.mdsplus/mdsplus-api@7.82.1?classifier=sources
 - pkg:maven/org.mdsplus/mdsplus-api@7.82.2

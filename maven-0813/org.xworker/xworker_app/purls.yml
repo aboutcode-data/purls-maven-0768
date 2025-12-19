@@ -4,3 +4,5 @@
 - pkg:maven/org.xworker/xworker_app@1.4.2?classifier=sources
 - pkg:maven/org.xworker/xworker_app@1.4.4
 - pkg:maven/org.xworker/xworker_app@1.4.4?classifier=sources
+- pkg:maven/org.xworker/xworker_app@2.0.1
+- pkg:maven/org.xworker/xworker_app@2.0.1?classifier=sources

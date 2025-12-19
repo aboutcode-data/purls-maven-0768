@@ -1,0 +1,1 @@
+- pkg:maven/cn.tenmg/flink-sql-connector-mongodb-cdc-log@1.0.0?classifier=sources

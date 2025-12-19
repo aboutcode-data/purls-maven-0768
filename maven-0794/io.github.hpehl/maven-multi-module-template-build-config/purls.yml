@@ -1,0 +1,4 @@
+- pkg:maven/io.github.hpehl/maven-multi-module-template-build-config@0.0.1.Final
+- pkg:maven/io.github.hpehl/maven-multi-module-template-build-config@0.0.1.Final?classifier=sources
+- pkg:maven/io.github.hpehl/maven-multi-module-template-build-config@0.0.2.Final
+- pkg:maven/io.github.hpehl/maven-multi-module-template-build-config@0.0.2.Final?classifier=sources
