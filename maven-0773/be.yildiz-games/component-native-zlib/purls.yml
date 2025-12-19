@@ -2,3 +2,4 @@
 - pkg:maven/be.yildiz-games/component-native-zlib@1.2.11.1
 - pkg:maven/be.yildiz-games/component-native-zlib@1.2.11.2
 - pkg:maven/be.yildiz-games/component-native-zlib@1.2.11.3
+- pkg:maven/be.yildiz-games/component-native-zlib@1.2.13.0

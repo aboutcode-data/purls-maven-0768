@@ -1,0 +1,2 @@
+- pkg:maven/dev.chopsticks/chopsticks-openapi_2.13@3.10.0
+- pkg:maven/dev.chopsticks/chopsticks-openapi_2.13@3.10.0?classifier=sources

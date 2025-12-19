@@ -1,0 +1,2 @@
+- pkg:maven/io.nlopez.compose.rules/core-ktlint@0.1.0?classifier=sources
+- pkg:maven/io.nlopez.compose.rules/core-ktlint@0.1.1?classifier=sources

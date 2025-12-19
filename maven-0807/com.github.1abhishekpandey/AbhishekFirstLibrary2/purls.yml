@@ -1,1 +1,2 @@
 - pkg:maven/com.github.1abhishekpandey/AbhishekFirstLibrary2@0.1.1?type=aar
+- pkg:maven/com.github.1abhishekpandey/AbhishekFirstLibrary2@0.1.2?classifier=sources

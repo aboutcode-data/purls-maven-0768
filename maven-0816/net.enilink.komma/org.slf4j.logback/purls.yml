@@ -14,3 +14,5 @@
 - pkg:maven/net.enilink.komma/org.slf4j.logback@1.7.0
 - pkg:maven/net.enilink.komma/org.slf4j.logback@1.7.1
 - pkg:maven/net.enilink.komma/org.slf4j.logback@1.7.2
+- pkg:maven/net.enilink.komma/org.slf4j.logback@1.7.3
+- pkg:maven/net.enilink.komma/org.slf4j.logback@1.7.4

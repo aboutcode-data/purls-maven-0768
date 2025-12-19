@@ -1,3 +1,4 @@
 - pkg:maven/com.fraktalio.fmodel/application-macosx64@3.0.0?classifier=sources
 - pkg:maven/com.fraktalio.fmodel/application-macosx64@3.1.0?classifier=sources
 - pkg:maven/com.fraktalio.fmodel/application-macosx64@3.2.0?classifier=sources
+- pkg:maven/com.fraktalio.fmodel/application-macosx64@3.3.0?classifier=sources

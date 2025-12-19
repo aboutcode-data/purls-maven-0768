@@ -64,3 +64,5 @@
 - pkg:maven/net.n2oapp.platform/n2o-platform-loader-client@5.0.0?classifier=sources
 - pkg:maven/net.n2oapp.platform/n2o-platform-loader-client@5.1.0
 - pkg:maven/net.n2oapp.platform/n2o-platform-loader-client@5.1.0?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-loader-client@5.1.1
+- pkg:maven/net.n2oapp.platform/n2o-platform-loader-client@5.1.1?classifier=sources

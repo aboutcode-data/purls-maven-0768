@@ -1,2 +1,16 @@
+- pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.10?classifier=sources
+- pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.11?classifier=sources
+- pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.12?classifier=sources
+- pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.13?classifier=sources
+- pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.14?classifier=sources
+- pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.16?classifier=sources
+- pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.17?classifier=sources
+- pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.18?classifier=sources
+- pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.19?classifier=sources
+- pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.20?classifier=sources
+- pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.21?classifier=sources
+- pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.22?classifier=sources
+- pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.23?classifier=sources
 - pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.7?classifier=sources
 - pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.8?classifier=sources
+- pkg:maven/com.github.jasync-sql/jasync-postgis-jts@2.1.9?classifier=sources

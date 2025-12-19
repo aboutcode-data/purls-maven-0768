@@ -348,6 +348,8 @@
 - pkg:maven/com.qaprosoft/carina-utils@7.4.26?classifier=sources
 - pkg:maven/com.qaprosoft/carina-utils@7.4.27
 - pkg:maven/com.qaprosoft/carina-utils@7.4.27?classifier=sources
+- pkg:maven/com.qaprosoft/carina-utils@7.4.28
+- pkg:maven/com.qaprosoft/carina-utils@7.4.28?classifier=sources
 - pkg:maven/com.qaprosoft/carina-utils@8.0.0
 - pkg:maven/com.qaprosoft/carina-utils@8.0.0?classifier=sources
 - pkg:maven/com.qaprosoft/carina-utils@8.0.1

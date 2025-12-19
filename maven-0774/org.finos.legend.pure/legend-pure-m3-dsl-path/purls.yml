@@ -193,3 +193,11 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-path@3.8.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-path@3.8.1
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-path@3.8.1?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-path@3.8.2
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-path@3.8.2?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-path@3.8.3
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-path@3.8.3?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-path@3.8.4
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-path@3.8.4?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-path@3.8.5
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-path@3.8.5?classifier=sources

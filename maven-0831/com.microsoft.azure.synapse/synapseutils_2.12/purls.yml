@@ -5,3 +5,4 @@
 - pkg:maven/com.microsoft.azure.synapse/synapseutils_2.12@1.4
 - pkg:maven/com.microsoft.azure.synapse/synapseutils_2.12@1.4?classifier=sources
 - pkg:maven/com.microsoft.azure.synapse/synapseutils_2.12@1.5.0?classifier=sources
+- pkg:maven/com.microsoft.azure.synapse/synapseutils_2.12@1.5.1?classifier=sources

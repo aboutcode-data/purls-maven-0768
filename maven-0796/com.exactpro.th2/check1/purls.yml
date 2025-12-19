@@ -2,6 +2,7 @@
 - pkg:maven/com.exactpro.th2/check1@2.8.0?classifier=sources
 - pkg:maven/com.exactpro.th2/check1@2.9.0?classifier=sources
 - pkg:maven/com.exactpro.th2/check1@2.9.1?classifier=sources
+- pkg:maven/com.exactpro.th2/check1@3.10.0?classifier=sources
 - pkg:maven/com.exactpro.th2/check1@3.3.0?classifier=sources
 - pkg:maven/com.exactpro.th2/check1@3.4.0?classifier=sources
 - pkg:maven/com.exactpro.th2/check1@3.5.0?classifier=sources

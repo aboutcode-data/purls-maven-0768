@@ -2,3 +2,7 @@
 - pkg:maven/org.http4s/http4s-scalatags_sjs1_3@0.25.0?classifier=sources
 - pkg:maven/org.http4s/http4s-scalatags_sjs1_3@0.25.1
 - pkg:maven/org.http4s/http4s-scalatags_sjs1_3@0.25.1?classifier=sources
+- pkg:maven/org.http4s/http4s-scalatags_sjs1_3@0.25.2
+- pkg:maven/org.http4s/http4s-scalatags_sjs1_3@0.25.2?classifier=sources
+- pkg:maven/org.http4s/http4s-scalatags_sjs1_3@1.0.0-M38
+- pkg:maven/org.http4s/http4s-scalatags_sjs1_3@1.0.0-M38?classifier=sources

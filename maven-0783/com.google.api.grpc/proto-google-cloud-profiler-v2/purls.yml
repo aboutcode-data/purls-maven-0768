@@ -68,3 +68,7 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-profiler-v2@2.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-profiler-v2@2.7.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-profiler-v2@2.7.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-profiler-v2@2.8.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-profiler-v2@2.8.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-profiler-v2@2.9.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-profiler-v2@2.9.0?classifier=sources

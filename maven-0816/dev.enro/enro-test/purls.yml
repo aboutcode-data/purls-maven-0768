@@ -49,3 +49,4 @@
 - pkg:maven/dev.enro/enro-test@2.0.0-alpha08?classifier=sources
 - pkg:maven/dev.enro/enro-test@2.0.0-alpha09?classifier=sources
 - pkg:maven/dev.enro/enro-test@2.0.0-alpha10?classifier=sources
+- pkg:maven/dev.enro/enro-test@2.0.0-alpha11?classifier=sources

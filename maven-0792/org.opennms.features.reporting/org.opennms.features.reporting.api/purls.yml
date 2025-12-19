@@ -1,0 +1,2 @@
+- pkg:maven/org.opennms.features.reporting/org.opennms.features.reporting.api@31.0.3
+- pkg:maven/org.opennms.features.reporting/org.opennms.features.reporting.api@31.0.3?classifier=sources

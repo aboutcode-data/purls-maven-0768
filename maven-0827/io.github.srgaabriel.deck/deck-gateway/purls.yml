@@ -1,3 +1,4 @@
 - pkg:maven/io.github.srgaabriel.deck/deck-gateway@0.7.21?classifier=sources
 - pkg:maven/io.github.srgaabriel.deck/deck-gateway@0.7.22?classifier=sources
 - pkg:maven/io.github.srgaabriel.deck/deck-gateway@0.7.2?classifier=sources
+- pkg:maven/io.github.srgaabriel.deck/deck-gateway@0.8?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.dslplatform/dsl-json-scala_2.11@1.10.0
+- pkg:maven/com.dslplatform/dsl-json-scala_2.11@1.10.0?classifier=sources
 - pkg:maven/com.dslplatform/dsl-json-scala_2.11@1.7.1
 - pkg:maven/com.dslplatform/dsl-json-scala_2.11@1.7.1?classifier=sources
 - pkg:maven/com.dslplatform/dsl-json-scala_2.11@1.7.2

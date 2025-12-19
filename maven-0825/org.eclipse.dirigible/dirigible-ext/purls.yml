@@ -143,3 +143,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ext@6.3.8
 - pkg:maven/org.eclipse.dirigible/dirigible-ext@6.3.9
 - pkg:maven/org.eclipse.dirigible/dirigible-ext@7.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ext@7.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ext@7.1.1

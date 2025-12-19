@@ -1,0 +1,7 @@
+- pkg:maven/com.qwlabs.doraemon/task-queue@0.1.89?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/task-queue@0.1.90?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/task-queue@0.1.92?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/task-queue@0.1.93?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/task-queue@0.1.94?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/task-queue@0.1.95?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/task-queue@0.1.96?classifier=sources

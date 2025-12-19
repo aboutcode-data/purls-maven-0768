@@ -1,0 +1,4 @@
+- pkg:maven/io.rtdi.appcontainer/postgresrealm@0.9.7
+- pkg:maven/io.rtdi.appcontainer/postgresrealm@0.9.7?classifier=sources
+- pkg:maven/io.rtdi.appcontainer/postgresrealm@0.9.8
+- pkg:maven/io.rtdi.appcontainer/postgresrealm@0.9.8?classifier=sources

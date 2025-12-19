@@ -4,3 +4,5 @@
 - pkg:maven/io.ep2p/kademlia-serialization-gson@1.0.2-RELEASE?classifier=sources
 - pkg:maven/io.ep2p/kademlia-serialization-gson@1.0.3-RELEASE
 - pkg:maven/io.ep2p/kademlia-serialization-gson@1.0.3-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/kademlia-serialization-gson@1.1.0-RELEASE
+- pkg:maven/io.ep2p/kademlia-serialization-gson@1.1.0-RELEASE?classifier=sources

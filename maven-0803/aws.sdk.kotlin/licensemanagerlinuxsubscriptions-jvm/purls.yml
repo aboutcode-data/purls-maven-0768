@@ -1,0 +1,3 @@
+- pkg:maven/aws.sdk.kotlin/licensemanagerlinuxsubscriptions-jvm@0.19.4-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/licensemanagerlinuxsubscriptions-jvm@0.19.5-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/licensemanagerlinuxsubscriptions-jvm@0.20.0-beta?classifier=sources

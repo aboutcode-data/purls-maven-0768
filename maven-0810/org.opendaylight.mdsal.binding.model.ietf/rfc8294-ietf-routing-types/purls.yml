@@ -47,12 +47,17 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@10.0.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@10.0.4?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@10.0.5?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@10.0.6
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@10.0.6?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@11.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@11.0.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@11.0.2
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@11.0.2?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@11.0.3
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@11.0.3?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@11.0.4?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@11.0.5?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@11.0.6?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@2.0.0
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8294-ietf-routing-types@2.0.1

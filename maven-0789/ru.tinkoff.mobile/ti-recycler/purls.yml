@@ -1,2 +1,4 @@
 - pkg:maven/ru.tinkoff.mobile/ti-recycler@1.0.0?classifier=sources
 - pkg:maven/ru.tinkoff.mobile/ti-recycler@2.0.0?classifier=sources
+- pkg:maven/ru.tinkoff.mobile/ti-recycler@2.1.0?classifier=sources
+- pkg:maven/ru.tinkoff.mobile/ti-recycler@2.1.1?classifier=sources

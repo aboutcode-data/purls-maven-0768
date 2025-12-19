@@ -1,0 +1,2 @@
+- pkg:maven/com.markstickel.keycloak/keycloak-kafka-publisher-event-listener-provider@1.0.0
+- pkg:maven/com.markstickel.keycloak/keycloak-kafka-publisher-event-listener-provider@1.0.0?classifier=sources

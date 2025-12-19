@@ -1,2 +1,6 @@
 - pkg:maven/io.github.uptane/libats-publish-akka_2.12@2.0.11
 - pkg:maven/io.github.uptane/libats-publish-akka_2.12@2.0.11?classifier=sources
+- pkg:maven/io.github.uptane/libats-publish-akka_2.12@2.1.0
+- pkg:maven/io.github.uptane/libats-publish-akka_2.12@2.1.0?classifier=sources
+- pkg:maven/io.github.uptane/libats-publish-akka_2.12@2.1.1
+- pkg:maven/io.github.uptane/libats-publish-akka_2.12@2.1.1?classifier=sources

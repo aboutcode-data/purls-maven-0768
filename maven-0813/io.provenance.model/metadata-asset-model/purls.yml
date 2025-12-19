@@ -13,5 +13,6 @@
 - pkg:maven/io.provenance.model/metadata-asset-model@0.1.7?classifier=sources
 - pkg:maven/io.provenance.model/metadata-asset-model@0.1.8?classifier=sources
 - pkg:maven/io.provenance.model/metadata-asset-model@0.1.9?classifier=sources
+- pkg:maven/io.provenance.model/metadata-asset-model@1.0.0-beta.2?classifier=sources
 - pkg:maven/io.provenance.model/metadata-asset-model@loan-wrapper?classifier=sources
 - pkg:maven/io.provenance.model/metadata-asset-model@main?classifier=sources

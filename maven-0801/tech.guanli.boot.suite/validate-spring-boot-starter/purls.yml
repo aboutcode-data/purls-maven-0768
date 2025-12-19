@@ -1,0 +1,2 @@
+- pkg:maven/tech.guanli.boot.suite/validate-spring-boot-starter@1.0.0-RELEASE
+- pkg:maven/tech.guanli.boot.suite/validate-spring-boot-starter@1.0.0-RELEASE?classifier=sources

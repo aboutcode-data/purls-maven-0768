@@ -1,4 +1,8 @@
 - pkg:maven/org.opencastproject/opencast-redirect@12.6
 - pkg:maven/org.opencastproject/opencast-redirect@12.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-redirect@12.7
+- pkg:maven/org.opencastproject/opencast-redirect@12.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-redirect@13.0
 - pkg:maven/org.opencastproject/opencast-redirect@13.0?classifier=sources
+- pkg:maven/org.opencastproject/opencast-redirect@13.1
+- pkg:maven/org.opencastproject/opencast-redirect@13.1?classifier=sources

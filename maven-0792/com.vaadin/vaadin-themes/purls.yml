@@ -142,6 +142,7 @@
 - pkg:maven/com.vaadin/vaadin-themes@7.7.34
 - pkg:maven/com.vaadin/vaadin-themes@7.7.35
 - pkg:maven/com.vaadin/vaadin-themes@7.7.36
+- pkg:maven/com.vaadin/vaadin-themes@7.7.37
 - pkg:maven/com.vaadin/vaadin-themes@7.7.4
 - pkg:maven/com.vaadin/vaadin-themes@7.7.5
 - pkg:maven/com.vaadin/vaadin-themes@7.7.6
@@ -234,6 +235,8 @@
 - pkg:maven/com.vaadin/vaadin-themes@8.17.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-themes@8.18.0
 - pkg:maven/com.vaadin/vaadin-themes@8.18.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-themes@8.19.0
+- pkg:maven/com.vaadin/vaadin-themes@8.19.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-themes@8.2.0
 - pkg:maven/com.vaadin/vaadin-themes@8.2.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-themes@8.2.1

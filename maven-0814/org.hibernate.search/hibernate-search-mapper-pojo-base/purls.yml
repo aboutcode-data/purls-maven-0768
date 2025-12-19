@@ -28,6 +28,8 @@
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.1.Final?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.10.Final
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.10.Final?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.11.Final
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.11.Final?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.2.Final
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.2.Final?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.0.3.Final
@@ -68,5 +70,7 @@
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.1.6.Final?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.1.7.Final
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.1.7.Final?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.1.8.Final
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.1.8.Final?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.2.0.Alpha1
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@6.2.0.Alpha1?classifier=sources

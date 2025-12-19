@@ -40,3 +40,5 @@
 - pkg:maven/org.xipki/ca-servlet@5.3.9?type=war
 - pkg:maven/org.xipki/ca-servlet@6.0.0?classifier=sources
 - pkg:maven/org.xipki/ca-servlet@6.0.0?type=war
+- pkg:maven/org.xipki/ca-servlet@6.1.0?classifier=sources
+- pkg:maven/org.xipki/ca-servlet@6.1.0?type=war

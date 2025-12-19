@@ -4,3 +4,5 @@
 - pkg:maven/com.baomidou/lock4j-test@2.2.2?classifier=sources
 - pkg:maven/com.baomidou/lock4j-test@2.2.3
 - pkg:maven/com.baomidou/lock4j-test@2.2.3?classifier=sources
+- pkg:maven/com.baomidou/lock4j-test@2.2.4
+- pkg:maven/com.baomidou/lock4j-test@2.2.4?classifier=sources

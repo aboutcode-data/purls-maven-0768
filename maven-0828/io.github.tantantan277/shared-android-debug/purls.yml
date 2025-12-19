@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tantantan277/shared-android-debug@1.0?classifier=sources
+- pkg:maven/io.github.tantantan277/shared-android-debug@1.1?classifier=sources

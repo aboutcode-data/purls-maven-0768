@@ -190,6 +190,9 @@
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@2.0.43
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@2.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@2.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@2.0.44
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@2.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@2.0.44?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@2.0.5
@@ -259,6 +262,9 @@
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.24
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.25
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.26
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.26?classifier=sources-commercial
@@ -289,6 +295,9 @@
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.34
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.35
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@3.0.4
@@ -334,6 +343,9 @@
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@4.2.11
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@4.2.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@4.2.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@4.2.12
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@4.2.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@4.2.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@4.2.13
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@4.2.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@4.2.13?classifier=sources-commercial
@@ -402,6 +414,9 @@
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@4.3.6
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@4.3.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@4.3.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@4.3.7
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@4.3.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@4.3.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@5.0.0
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@5.0.0?classifier=sources-commercial
@@ -462,6 +477,9 @@
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@6.0.4
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@6.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@6.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@6.0.5
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@6.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@6.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@6.0.6
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@6.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@6.0.6?classifier=sources-commercial
@@ -471,3 +489,6 @@
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@6.1.1
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@6.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.mail.reader.api@6.1.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@6.1.2
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@6.1.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.mail.reader.api@6.1.2?classifier=sources-commercial

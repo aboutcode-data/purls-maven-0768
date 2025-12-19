@@ -28,3 +28,5 @@
 - pkg:maven/com.republicate.modality/modality-example-bookshelf@2.1?type=war
 - pkg:maven/com.republicate.modality/modality-example-bookshelf@2.2?classifier=sources
 - pkg:maven/com.republicate.modality/modality-example-bookshelf@2.2?type=war
+- pkg:maven/com.republicate.modality/modality-example-bookshelf@2.4?classifier=sources
+- pkg:maven/com.republicate.modality/modality-example-bookshelf@2.4?type=war

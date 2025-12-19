@@ -1,0 +1,2 @@
+- pkg:maven/org.sdase.commons/sda-commons-server-spring-data-mongo@3.0.0-alpha.1
+- pkg:maven/org.sdase.commons/sda-commons-server-spring-data-mongo@3.0.0-alpha.1?classifier=sources

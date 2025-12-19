@@ -1,4 +1,6 @@
+- pkg:maven/org.udger.parserv4/udger-parser-v4@2.0.0
 - pkg:maven/org.udger.parserv4/udger-parser-v4@2.0.0.Beta1
 - pkg:maven/org.udger.parserv4/udger-parser-v4@2.0.0.Beta1?classifier=sources
 - pkg:maven/org.udger.parserv4/udger-parser-v4@2.0.0.Beta2
 - pkg:maven/org.udger.parserv4/udger-parser-v4@2.0.0.Beta2?classifier=sources
+- pkg:maven/org.udger.parserv4/udger-parser-v4@2.0.0?classifier=sources

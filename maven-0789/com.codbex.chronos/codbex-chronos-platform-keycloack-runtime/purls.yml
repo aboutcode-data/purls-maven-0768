@@ -1,2 +1,3 @@
 - pkg:maven/com.codbex.chronos/codbex-chronos-platform-keycloack-runtime@0.5.3?type=war
 - pkg:maven/com.codbex.chronos/codbex-chronos-platform-keycloack-runtime@0.5.4?type=war
+- pkg:maven/com.codbex.chronos/codbex-chronos-platform-keycloack-runtime@0.5.5?type=war

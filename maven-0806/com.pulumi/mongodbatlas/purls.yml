@@ -7,3 +7,9 @@
 - pkg:maven/com.pulumi/mongodbatlas@3.6.0-alpha.1663281841%2Bf0d46a86?classifier=sources
 - pkg:maven/com.pulumi/mongodbatlas@3.6.0-alpha.1663342864%2B3742c53a?classifier=sources
 - pkg:maven/com.pulumi/mongodbatlas@3.6.0-alpha.1668658104%2Bd1077e08?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.6.0-alpha.1673411362%2Befc04c0b?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.6.0-alpha.1673556180%2B9f5d1a0c?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.6.0-alpha.1674599876%2B695751b1?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.6.0?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.7.0-alpha.1674853617%2B07bbfd47?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.7.0-alpha.1675060842%2B085d95ba?classifier=sources

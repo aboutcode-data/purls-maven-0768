@@ -153,6 +153,14 @@
 - pkg:maven/no.entur/schema2proto-wire@1.79?classifier=sources
 - pkg:maven/no.entur/schema2proto-wire@1.7?classifier=sources
 - pkg:maven/no.entur/schema2proto-wire@1.8
+- pkg:maven/no.entur/schema2proto-wire@1.80
+- pkg:maven/no.entur/schema2proto-wire@1.80?classifier=sources
+- pkg:maven/no.entur/schema2proto-wire@1.81
+- pkg:maven/no.entur/schema2proto-wire@1.81?classifier=sources
+- pkg:maven/no.entur/schema2proto-wire@1.82
+- pkg:maven/no.entur/schema2proto-wire@1.82?classifier=sources
+- pkg:maven/no.entur/schema2proto-wire@1.83
+- pkg:maven/no.entur/schema2proto-wire@1.83?classifier=sources
 - pkg:maven/no.entur/schema2proto-wire@1.8?classifier=sources
 - pkg:maven/no.entur/schema2proto-wire@1.9
 - pkg:maven/no.entur/schema2proto-wire@1.9?classifier=sources

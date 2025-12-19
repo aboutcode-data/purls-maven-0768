@@ -8,3 +8,5 @@
 - pkg:maven/it.tidalwave.accounting/it-tidalwave-accounting-ui-importer-ibiz@1.0-ALPHA-6?classifier=sources
 - pkg:maven/it.tidalwave.accounting/it-tidalwave-accounting-ui-importer-ibiz@1.0-ALPHA-7
 - pkg:maven/it.tidalwave.accounting/it-tidalwave-accounting-ui-importer-ibiz@1.0-ALPHA-7?classifier=sources
+- pkg:maven/it.tidalwave.accounting/it-tidalwave-accounting-ui-importer-ibiz@1.0-ALPHA-8
+- pkg:maven/it.tidalwave.accounting/it-tidalwave-accounting-ui-importer-ibiz@1.0-ALPHA-8?classifier=sources

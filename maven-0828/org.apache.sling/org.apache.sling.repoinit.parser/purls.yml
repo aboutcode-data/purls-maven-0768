@@ -61,3 +61,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.repoinit.parser@1.8.0
 - pkg:maven/org.apache.sling/org.apache.sling.repoinit.parser@1.8.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.repoinit.parser@1.8.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.repoinit.parser@1.9.0
+- pkg:maven/org.apache.sling/org.apache.sling.repoinit.parser@1.9.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.repoinit.parser@1.9.0?classifier=sources

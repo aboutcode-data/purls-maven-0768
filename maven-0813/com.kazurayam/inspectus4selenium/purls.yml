@@ -1,1 +1,2 @@
 - pkg:maven/com.kazurayam/inspectus4selenium@0.1.1?classifier=sources
+- pkg:maven/com.kazurayam/inspectus4selenium@0.4.0?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/org.http4s/http4s-netty-client_2.12@0.5.3?classifier=sources
 - pkg:maven/org.http4s/http4s-netty-client_2.12@0.5.4
 - pkg:maven/org.http4s/http4s-netty-client_2.12@0.5.4?classifier=sources
+- pkg:maven/org.http4s/http4s-netty-client_2.12@0.5.5
+- pkg:maven/org.http4s/http4s-netty-client_2.12@0.5.5?classifier=sources

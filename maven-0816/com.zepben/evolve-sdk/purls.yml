@@ -71,6 +71,10 @@
 - pkg:maven/com.zepben/evolve-sdk@0.14.0-SNAPSHOT10-LOCAL
 - pkg:maven/com.zepben/evolve-sdk@0.14.0-SNAPSHOT10-LOCAL?classifier=sources
 - pkg:maven/com.zepben/evolve-sdk@0.14.0-SNAPSHOT10?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.14.0-SNAPSHOT11
+- pkg:maven/com.zepben/evolve-sdk@0.14.0-SNAPSHOT11?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.14.0-SNAPSHOT12
+- pkg:maven/com.zepben/evolve-sdk@0.14.0-SNAPSHOT12?classifier=sources
 - pkg:maven/com.zepben/evolve-sdk@0.14.0-SNAPSHOT1?classifier=sources
 - pkg:maven/com.zepben/evolve-sdk@0.14.0-SNAPSHOT2
 - pkg:maven/com.zepben/evolve-sdk@0.14.0-SNAPSHOT2?classifier=sources

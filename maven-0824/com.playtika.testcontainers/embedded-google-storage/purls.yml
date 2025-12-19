@@ -32,3 +32,5 @@
 - pkg:maven/com.playtika.testcontainers/embedded-google-storage@2.2.8?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-google-storage@2.2.9
 - pkg:maven/com.playtika.testcontainers/embedded-google-storage@2.2.9?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-google-storage@2.3.1
+- pkg:maven/com.playtika.testcontainers/embedded-google-storage@2.3.1?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/ru.tinkoff/gatling-kafka-plugin_2.13@0.10.0
+- pkg:maven/ru.tinkoff/gatling-kafka-plugin_2.13@0.10.0?classifier=sources
 - pkg:maven/ru.tinkoff/gatling-kafka-plugin_2.13@0.6.0
 - pkg:maven/ru.tinkoff/gatling-kafka-plugin_2.13@0.6.0?classifier=sources
 - pkg:maven/ru.tinkoff/gatling-kafka-plugin_2.13@0.7.0

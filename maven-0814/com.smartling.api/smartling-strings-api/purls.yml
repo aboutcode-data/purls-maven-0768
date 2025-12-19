@@ -50,3 +50,9 @@
 - pkg:maven/com.smartling.api/smartling-strings-api@0.32.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-strings-api@1.0.0
 - pkg:maven/com.smartling.api/smartling-strings-api@1.0.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-strings-api@1.1.0
+- pkg:maven/com.smartling.api/smartling-strings-api@1.1.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-strings-api@1.2.0
+- pkg:maven/com.smartling.api/smartling-strings-api@1.2.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-strings-api@1.4.0
+- pkg:maven/com.smartling.api/smartling-strings-api@1.4.0?classifier=sources

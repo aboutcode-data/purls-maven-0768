@@ -120,3 +120,5 @@
 - pkg:maven/com.cognitect.aws/sagemaker@825.2.1262.0?classifier=sources
 - pkg:maven/com.cognitect.aws/sagemaker@825.2.1266.0
 - pkg:maven/com.cognitect.aws/sagemaker@825.2.1266.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sagemaker@825.2.1283.0
+- pkg:maven/com.cognitect.aws/sagemaker@825.2.1283.0?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.helger/ph-holiday@6.1.0?classifier=sources
 - pkg:maven/com.helger/ph-holiday@6.2.0
 - pkg:maven/com.helger/ph-holiday@6.2.0?classifier=sources
+- pkg:maven/com.helger/ph-holiday@7.0.0
+- pkg:maven/com.helger/ph-holiday@7.0.0?classifier=sources

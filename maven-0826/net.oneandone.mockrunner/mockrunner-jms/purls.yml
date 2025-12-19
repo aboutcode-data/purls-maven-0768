@@ -1,0 +1,2 @@
+- pkg:maven/net.oneandone.mockrunner/mockrunner-jms@3.0.1
+- pkg:maven/net.oneandone.mockrunner/mockrunner-jms@3.0.1?classifier=sources

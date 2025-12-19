@@ -8,3 +8,6 @@
 - pkg:maven/com.pulumi/oci@0.5.0?classifier=sources
 - pkg:maven/com.pulumi/oci@0.5.1-alpha.1663282297%2B06bbfa23?classifier=sources
 - pkg:maven/com.pulumi/oci@0.5.1-alpha.1663343334%2B7b55ad6e?classifier=sources
+- pkg:maven/com.pulumi/oci@0.5.1-alpha.1673586339%2B0a8608c5?classifier=sources
+- pkg:maven/com.pulumi/oci@0.5.1-alpha.1673588915%2Bc76418ef?classifier=sources
+- pkg:maven/com.pulumi/oci@0.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.opennms.features.dnsresolver/org.opennms.features.dnsresolver.api@31.0.3
+- pkg:maven/org.opennms.features.dnsresolver/org.opennms.features.dnsresolver.api@31.0.3?classifier=sources

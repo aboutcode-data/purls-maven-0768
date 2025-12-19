@@ -1,0 +1,10 @@
+- pkg:maven/io.github.yoda31217/samodelkin-java@0.1?classifier=sources
+- pkg:maven/io.github.yoda31217/samodelkin-java@0.2?classifier=sources
+- pkg:maven/io.github.yoda31217/samodelkin-java@20230105.150256?classifier=sources
+- pkg:maven/io.github.yoda31217/samodelkin-java@20230105.151307?classifier=sources
+- pkg:maven/io.github.yoda31217/samodelkin-java@20230105.213539?classifier=sources
+- pkg:maven/io.github.yoda31217/samodelkin-java@20230105.223616?classifier=sources
+- pkg:maven/io.github.yoda31217/samodelkin-java@20230105.225733?classifier=sources
+- pkg:maven/io.github.yoda31217/samodelkin-java@20230105.231323?classifier=sources
+- pkg:maven/io.github.yoda31217/samodelkin-java@20230105.234115?classifier=sources
+- pkg:maven/io.github.yoda31217/samodelkin-java@20230108.022008?classifier=sources

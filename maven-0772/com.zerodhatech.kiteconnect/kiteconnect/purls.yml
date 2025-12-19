@@ -21,3 +21,7 @@
 - pkg:maven/com.zerodhatech.kiteconnect/kiteconnect@3.2.1-SNAPSHOT1
 - pkg:maven/com.zerodhatech.kiteconnect/kiteconnect@3.2.1-SNAPSHOT1?classifier=sources
 - pkg:maven/com.zerodhatech.kiteconnect/kiteconnect@3.2.1?classifier=sources
+- pkg:maven/com.zerodhatech.kiteconnect/kiteconnect@3.3.1
+- pkg:maven/com.zerodhatech.kiteconnect/kiteconnect@3.3.1?classifier=sources
+- pkg:maven/com.zerodhatech.kiteconnect/kiteconnect@3.3.2
+- pkg:maven/com.zerodhatech.kiteconnect/kiteconnect@3.3.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.alleriawindrunner/solidity-compiler-java@0.4.25?classifier=sources
+- pkg:maven/io.github.alleriawindrunner/solidity-compiler-java@0.5.2?classifier=sources
+- pkg:maven/io.github.alleriawindrunner/solidity-compiler-java@0.6.10?classifier=sources
+- pkg:maven/io.github.alleriawindrunner/solidity-compiler-java@0.8.11?classifier=sources

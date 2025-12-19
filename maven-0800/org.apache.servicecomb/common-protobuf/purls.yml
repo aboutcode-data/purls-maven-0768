@@ -120,3 +120,7 @@
 - pkg:maven/org.apache.servicecomb/common-protobuf@2.8.2?classifier=sources
 - pkg:maven/org.apache.servicecomb/common-protobuf@2.8.3
 - pkg:maven/org.apache.servicecomb/common-protobuf@2.8.3?classifier=sources
+- pkg:maven/org.apache.servicecomb/common-protobuf@2.8.4
+- pkg:maven/org.apache.servicecomb/common-protobuf@2.8.4?classifier=sources
+- pkg:maven/org.apache.servicecomb/common-protobuf@2.8.5
+- pkg:maven/org.apache.servicecomb/common-protobuf@2.8.5?classifier=sources

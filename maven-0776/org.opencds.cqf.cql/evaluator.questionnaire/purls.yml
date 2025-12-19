@@ -1,0 +1,2 @@
+- pkg:maven/org.opencds.cqf.cql/evaluator.questionnaire@2.5.0
+- pkg:maven/org.opencds.cqf.cql/evaluator.questionnaire@2.5.0?classifier=sources

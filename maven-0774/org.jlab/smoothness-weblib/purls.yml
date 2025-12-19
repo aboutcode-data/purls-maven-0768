@@ -1,5 +1,7 @@
 - pkg:maven/org.jlab/smoothness-weblib@3.0.0?classifier=sources
 - pkg:maven/org.jlab/smoothness-weblib@3.1.0?classifier=sources
+- pkg:maven/org.jlab/smoothness-weblib@3.10.0?classifier=sources
+- pkg:maven/org.jlab/smoothness-weblib@3.11.0?classifier=sources
 - pkg:maven/org.jlab/smoothness-weblib@3.2.0?classifier=sources
 - pkg:maven/org.jlab/smoothness-weblib@3.3.0?classifier=sources
 - pkg:maven/org.jlab/smoothness-weblib@3.5.0?classifier=sources
@@ -9,3 +11,6 @@
 - pkg:maven/org.jlab/smoothness-weblib@3.7.1?classifier=sources
 - pkg:maven/org.jlab/smoothness-weblib@3.7.2?classifier=sources
 - pkg:maven/org.jlab/smoothness-weblib@3.8.0?classifier=sources
+- pkg:maven/org.jlab/smoothness-weblib@3.9.0?classifier=sources
+- pkg:maven/org.jlab/smoothness-weblib@3.9.1?classifier=sources
+- pkg:maven/org.jlab/smoothness-weblib@3.9.2?classifier=sources

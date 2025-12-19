@@ -1,0 +1,4 @@
+- pkg:maven/io.github.qyg2297248353/ms-api@1.0.0
+- pkg:maven/io.github.qyg2297248353/ms-api@1.0.0?classifier=sources
+- pkg:maven/io.github.qyg2297248353/ms-api@v1.0.0
+- pkg:maven/io.github.qyg2297248353/ms-api@v1.0.0?classifier=sources

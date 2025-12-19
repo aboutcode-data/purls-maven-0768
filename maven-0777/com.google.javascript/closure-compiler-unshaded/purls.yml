@@ -148,3 +148,4 @@
 - pkg:maven/com.google.javascript/closure-compiler-unshaded@v20220905?classifier=sources
 - pkg:maven/com.google.javascript/closure-compiler-unshaded@v20221004?classifier=sources
 - pkg:maven/com.google.javascript/closure-compiler-unshaded@v20221102?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-unshaded@v20230103?classifier=sources

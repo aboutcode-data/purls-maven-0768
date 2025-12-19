@@ -183,6 +183,7 @@
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-database-schema-archetype@4.5.7-eu?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-database-schema-archetype@4.5.8-eu?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-database-schema-archetype@4.5.9-eu?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-database-schema-archetype@4.6.0-eu?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-database-schema-archetype@etlunit-4.2.1?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-database-schema-archetype@etlunit-4.2.2?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-database-schema-archetype@etlunit-4.2.3?classifier=sources

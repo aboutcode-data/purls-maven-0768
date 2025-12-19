@@ -47,6 +47,7 @@
 - pkg:maven/eu.binjr/binjr-adapter-rrd4j@3.0.2?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-rrd4j@3.1.0?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-rrd4j@3.10.0?classifier=sources
+- pkg:maven/eu.binjr/binjr-adapter-rrd4j@3.11.0?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-rrd4j@3.2.0?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-rrd4j@3.3.0?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-rrd4j@3.4.0?classifier=sources

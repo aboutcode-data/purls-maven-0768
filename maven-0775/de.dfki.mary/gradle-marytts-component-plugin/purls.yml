@@ -1,1 +1,2 @@
 - pkg:maven/de.dfki.mary/gradle-marytts-component-plugin@0.3.0?classifier=sources
+- pkg:maven/de.dfki.mary/gradle-marytts-component-plugin@0.3.1?classifier=sources

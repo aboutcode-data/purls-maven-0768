@@ -1,0 +1,4 @@
+- pkg:maven/org.elasticsearch/elasticsearch-h3@8.6.0
+- pkg:maven/org.elasticsearch/elasticsearch-h3@8.6.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-h3@8.6.1
+- pkg:maven/org.elasticsearch/elasticsearch-h3@8.6.1?classifier=sources

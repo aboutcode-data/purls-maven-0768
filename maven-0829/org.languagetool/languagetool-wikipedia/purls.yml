@@ -78,3 +78,5 @@
 - pkg:maven/org.languagetool/languagetool-wikipedia@5.8?classifier=sources
 - pkg:maven/org.languagetool/languagetool-wikipedia@5.9
 - pkg:maven/org.languagetool/languagetool-wikipedia@5.9?classifier=sources
+- pkg:maven/org.languagetool/languagetool-wikipedia@6.0
+- pkg:maven/org.languagetool/languagetool-wikipedia@6.0?classifier=sources

@@ -2,3 +2,13 @@
 - pkg:maven/io.accur8/a8-locus_2.13@0.1.0-20221030_1248_master?classifier=sources
 - pkg:maven/io.accur8/a8-locus_2.13@0.1.0-20221118_1754_main
 - pkg:maven/io.accur8/a8-locus_2.13@0.1.0-20221118_1754_main?classifier=sources
+- pkg:maven/io.accur8/a8-locus_2.13@0.1.0-20221228_1242_main
+- pkg:maven/io.accur8/a8-locus_2.13@0.1.0-20221228_1242_main?classifier=sources
+- pkg:maven/io.accur8/a8-locus_2.13@0.1.0-20230111_0747_main
+- pkg:maven/io.accur8/a8-locus_2.13@0.1.0-20230111_0747_main?classifier=sources
+- pkg:maven/io.accur8/a8-locus_2.13@0.1.0-20230111_1001_main
+- pkg:maven/io.accur8/a8-locus_2.13@0.1.0-20230111_1001_main?classifier=sources
+- pkg:maven/io.accur8/a8-locus_2.13@0.1.0-20230111_1030_main
+- pkg:maven/io.accur8/a8-locus_2.13@0.1.0-20230111_1030_main?classifier=sources
+- pkg:maven/io.accur8/a8-locus_2.13@0.1.0-20230111_1111_main
+- pkg:maven/io.accur8/a8-locus_2.13@0.1.0-20230111_1111_main?classifier=sources

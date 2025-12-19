@@ -14,3 +14,4 @@
 - pkg:maven/com.doinglab.foodlens/FoodLens@2.4.0?classifier=sources
 - pkg:maven/com.doinglab.foodlens/FoodLens@2.4.1?classifier=sources
 - pkg:maven/com.doinglab.foodlens/FoodLens@2.4.3?classifier=sources
+- pkg:maven/com.doinglab.foodlens/FoodLens@2.4.4?classifier=sources

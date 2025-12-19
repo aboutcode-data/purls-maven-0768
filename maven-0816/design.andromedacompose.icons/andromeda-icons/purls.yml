@@ -1,2 +1,4 @@
 - pkg:maven/design.andromedacompose.icons/andromeda-icons@1.0.0-alpha01?classifier=sources
 - pkg:maven/design.andromedacompose.icons/andromeda-icons@1.0.0-alpha02?classifier=sources
+- pkg:maven/design.andromedacompose.icons/andromeda-icons@1.1.0?classifier=sources
+- pkg:maven/design.andromedacompose.icons/andromeda-icons@1.1.1?classifier=sources

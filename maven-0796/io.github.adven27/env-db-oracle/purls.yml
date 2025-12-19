@@ -14,3 +14,4 @@
 - pkg:maven/io.github.adven27/env-db-oracle@4.0.6?classifier=sources
 - pkg:maven/io.github.adven27/env-db-oracle@4.0.7?classifier=sources
 - pkg:maven/io.github.adven27/env-db-oracle@5.0.0?classifier=sources
+- pkg:maven/io.github.adven27/env-db-oracle@5.0.1?classifier=sources

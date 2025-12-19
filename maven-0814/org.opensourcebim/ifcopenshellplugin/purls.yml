@@ -147,6 +147,10 @@
 - pkg:maven/org.opensourcebim/ifcopenshellplugin@0.5.90?classifier=sources
 - pkg:maven/org.opensourcebim/ifcopenshellplugin@0.5.91
 - pkg:maven/org.opensourcebim/ifcopenshellplugin@0.5.91?classifier=sources
+- pkg:maven/org.opensourcebim/ifcopenshellplugin@0.5.92
+- pkg:maven/org.opensourcebim/ifcopenshellplugin@0.5.92?classifier=sources
+- pkg:maven/org.opensourcebim/ifcopenshellplugin@0.5.93
+- pkg:maven/org.opensourcebim/ifcopenshellplugin@0.5.93?classifier=sources
 - pkg:maven/org.opensourcebim/ifcopenshellplugin@0.5.9?classifier=sources
 - pkg:maven/org.opensourcebim/ifcopenshellplugin@ifcopenshellplugin-0.5.75
 - pkg:maven/org.opensourcebim/ifcopenshellplugin@ifcopenshellplugin-0.5.75?classifier=sources

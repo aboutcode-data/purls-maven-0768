@@ -13,6 +13,9 @@
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.0.1-micronaut-1.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.0.1-micronaut-2.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.0.1-micronaut-3.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.0.10-micronaut-1.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.0.10-micronaut-2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.0.10-micronaut-3.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.0.2-micronaut-1.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.0.2-micronaut-2.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.0.2-micronaut-3.0?classifier=sources
@@ -37,3 +40,6 @@
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.0.9-micronaut-1.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.0.9-micronaut-2.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.0.9-micronaut-3.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.1.0-micronaut-1.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.1.0-micronaut-2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@2.1.0-micronaut-3.0?classifier=sources

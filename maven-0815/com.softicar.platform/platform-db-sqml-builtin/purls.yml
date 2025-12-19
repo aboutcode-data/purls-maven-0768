@@ -58,3 +58,12 @@
 - pkg:maven/com.softicar.platform/platform-db-sqml-builtin@27.0.2?classifier=sources
 - pkg:maven/com.softicar.platform/platform-db-sqml-builtin@28.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-db-sqml-builtin@29.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-sqml-builtin@30.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-sqml-builtin@30.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-sqml-builtin@30.0.2?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-sqml-builtin@30.0.3?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-sqml-builtin@31.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-sqml-builtin@31.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-sqml-builtin@31.1.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-sqml-builtin@31.2.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-sqml-builtin@32.0.0?classifier=sources

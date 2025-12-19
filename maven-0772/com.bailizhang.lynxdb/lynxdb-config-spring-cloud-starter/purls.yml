@@ -1,0 +1,4 @@
+- pkg:maven/com.bailizhang.lynxdb/lynxdb-config-spring-cloud-starter@2023.1.2-alpha
+- pkg:maven/com.bailizhang.lynxdb/lynxdb-config-spring-cloud-starter@2023.1.2-alpha?classifier=sources
+- pkg:maven/com.bailizhang.lynxdb/lynxdb-config-spring-cloud-starter@2023.1.4-alpha
+- pkg:maven/com.bailizhang.lynxdb/lynxdb-config-spring-cloud-starter@2023.1.4-alpha?classifier=sources

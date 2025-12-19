@@ -2,3 +2,4 @@
 - pkg:maven/org.openziti/ziti-springboot-client@0.23.16?classifier=sources
 - pkg:maven/org.openziti/ziti-springboot-client@0.23.17?classifier=sources
 - pkg:maven/org.openziti/ziti-springboot-client@0.23.18?classifier=sources
+- pkg:maven/org.openziti/ziti-springboot-client@0.24.0?classifier=sources

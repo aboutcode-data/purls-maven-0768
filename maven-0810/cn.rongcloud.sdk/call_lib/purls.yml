@@ -84,3 +84,4 @@
 - pkg:maven/cn.rongcloud.sdk/call_lib@5.1.9.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/call_lib@5.2.0?classifier=sources
 - pkg:maven/cn.rongcloud.sdk/call_lib@5.2.0?type=aar
+- pkg:maven/cn.rongcloud.sdk/call_lib@5.3.4?type=aar

@@ -170,3 +170,5 @@
 - pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.3.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.4.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.4.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.5.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.5.0?classifier=sources

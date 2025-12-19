@@ -10,3 +10,5 @@
 - pkg:maven/org.glassfish.main.featuresets/debug@7.0.0-M4
 - pkg:maven/org.glassfish.main.featuresets/debug@7.0.0-M4?classifier=sources
 - pkg:maven/org.glassfish.main.featuresets/debug@7.0.0?classifier=sources
+- pkg:maven/org.glassfish.main.featuresets/debug@7.0.1
+- pkg:maven/org.glassfish.main.featuresets/debug@7.0.1?classifier=sources

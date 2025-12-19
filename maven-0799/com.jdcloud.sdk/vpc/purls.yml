@@ -16,3 +16,5 @@
 - pkg:maven/com.jdcloud.sdk/vpc@0.9.2?classifier=sources
 - pkg:maven/com.jdcloud.sdk/vpc@1.0.1
 - pkg:maven/com.jdcloud.sdk/vpc@1.0.1?classifier=sources
+- pkg:maven/com.jdcloud.sdk/vpc@1.1.0
+- pkg:maven/com.jdcloud.sdk/vpc@1.1.0?classifier=sources

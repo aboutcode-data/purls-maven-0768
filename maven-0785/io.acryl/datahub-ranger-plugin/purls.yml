@@ -83,3 +83,4 @@
 - pkg:maven/io.acryl/datahub-ranger-plugin@0.9.3-2rc2?classifier=sources
 - pkg:maven/io.acryl/datahub-ranger-plugin@0.9.3-2rc3?classifier=sources
 - pkg:maven/io.acryl/datahub-ranger-plugin@0.9.3?classifier=sources
+- pkg:maven/io.acryl/datahub-ranger-plugin@0.9.4?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.posthog.android/posthog-wear@1.1.2?type=aar
 - pkg:maven/com.posthog.android/posthog-wear@2.0.0?classifier=sources
 - pkg:maven/com.posthog.android/posthog-wear@2.0.0?type=aar
+- pkg:maven/com.posthog.android/posthog-wear@2.0.1?classifier=sources
+- pkg:maven/com.posthog.android/posthog-wear@2.0.1?type=aar

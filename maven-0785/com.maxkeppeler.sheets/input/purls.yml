@@ -1,1 +1,2 @@
 - pkg:maven/com.maxkeppeler.sheets/input@2.3.0?classifier=sources
+- pkg:maven/com.maxkeppeler.sheets/input@2.3.1?classifier=sources

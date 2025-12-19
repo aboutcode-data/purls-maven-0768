@@ -68,3 +68,4 @@
 - pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@11.5.4?classifier=sources
 - pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@11.6.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@11.7.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-apm-okhttp-interceptor@11.8.0?classifier=sources
