@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Beta7
+- pkg:maven/io.quarkus.qe/quarkus-test-helm@1.2.0.Beta7?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.microsoft.azure/azure-toolkit-cosmos-lib@0.24.0
+- pkg:maven/com.microsoft.azure/azure-toolkit-cosmos-lib@0.24.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-cosmos-lib@0.24.1
+- pkg:maven/com.microsoft.azure/azure-toolkit-cosmos-lib@0.24.1?classifier=sources

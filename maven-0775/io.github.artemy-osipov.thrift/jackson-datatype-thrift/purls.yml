@@ -1,1 +1,2 @@
 - pkg:maven/io.github.artemy-osipov.thrift/jackson-datatype-thrift@0.4.2?classifier=sources
+- pkg:maven/io.github.artemy-osipov.thrift/jackson-datatype-thrift@0.4.3?classifier=sources

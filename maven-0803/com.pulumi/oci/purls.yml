@@ -1,2 +1,7 @@
 - pkg:maven/com.pulumi/oci@0.1.0?classifier=sources
 - pkg:maven/com.pulumi/oci@0.1.2-alpha.1658168274%2B1a69a943?classifier=sources
+- pkg:maven/com.pulumi/oci@0.2.0?classifier=sources
+- pkg:maven/com.pulumi/oci@0.2.1-alpha.1660649476%2B4d0cbb7c?classifier=sources
+- pkg:maven/com.pulumi/oci@0.3.0?classifier=sources
+- pkg:maven/com.pulumi/oci@0.3.1-alpha.1660927832%2B335aa9b5?classifier=sources
+- pkg:maven/com.pulumi/oci@0.4.0?classifier=sources

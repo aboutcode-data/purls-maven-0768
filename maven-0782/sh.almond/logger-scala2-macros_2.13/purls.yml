@@ -1,2 +1,4 @@
 - pkg:maven/sh.almond/logger-scala2-macros_2.13@0.13.0
 - pkg:maven/sh.almond/logger-scala2-macros_2.13@0.13.0?classifier=sources
+- pkg:maven/sh.almond/logger-scala2-macros_2.13@0.13.1
+- pkg:maven/sh.almond/logger-scala2-macros_2.13@0.13.1?classifier=sources

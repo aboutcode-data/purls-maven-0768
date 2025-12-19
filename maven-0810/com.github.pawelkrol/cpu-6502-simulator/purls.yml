@@ -8,3 +8,5 @@
 - pkg:maven/com.github.pawelkrol/cpu-6502-simulator@0.04?classifier=sources
 - pkg:maven/com.github.pawelkrol/cpu-6502-simulator@0.05
 - pkg:maven/com.github.pawelkrol/cpu-6502-simulator@0.05?classifier=sources
+- pkg:maven/com.github.pawelkrol/cpu-6502-simulator@1.0.0
+- pkg:maven/com.github.pawelkrol/cpu-6502-simulator@1.0.0?classifier=sources

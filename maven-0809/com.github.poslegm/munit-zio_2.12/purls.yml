@@ -4,3 +4,5 @@
 - pkg:maven/com.github.poslegm/munit-zio_2.12@0.0.2?classifier=sources
 - pkg:maven/com.github.poslegm/munit-zio_2.12@0.0.3
 - pkg:maven/com.github.poslegm/munit-zio_2.12@0.0.3?classifier=sources
+- pkg:maven/com.github.poslegm/munit-zio_2.12@0.1.1
+- pkg:maven/com.github.poslegm/munit-zio_2.12@0.1.1?classifier=sources

@@ -100,3 +100,5 @@
 - pkg:maven/net.imglib2/imglib2@5.9.2?classifier=sources
 - pkg:maven/net.imglib2/imglib2@5.9.3
 - pkg:maven/net.imglib2/imglib2@5.9.3?classifier=sources
+- pkg:maven/net.imglib2/imglib2@6.0.0
+- pkg:maven/net.imglib2/imglib2@6.0.0?classifier=sources

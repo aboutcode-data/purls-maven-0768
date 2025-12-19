@@ -28,6 +28,11 @@
 - pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@7.31.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@7.32.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@7.33.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@7.34.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@7.35.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@7.36.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@7.37.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@7.38.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@7.4.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@7.5.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@7.6.0?classifier=sources

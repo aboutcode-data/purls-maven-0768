@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-staging@6.3.20
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-staging@6.3.20?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-staging@6.3.21
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-staging@6.3.21?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.qiyukf.unicorn/unicorn_abroad@7.8.0?classifier=sources
+- pkg:maven/com.qiyukf.unicorn/unicorn_abroad@7.8.0?type=aar

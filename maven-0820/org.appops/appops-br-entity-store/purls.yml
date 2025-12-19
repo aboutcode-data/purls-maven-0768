@@ -1,2 +1,6 @@
 - pkg:maven/org.appops/appops-br-entity-store@0.7.0
 - pkg:maven/org.appops/appops-br-entity-store@0.7.0?classifier=sources
+- pkg:maven/org.appops/appops-br-entity-store@0.9.0
+- pkg:maven/org.appops/appops-br-entity-store@0.9.0?classifier=sources
+- pkg:maven/org.appops/appops-br-entity-store@1.0-RC-1
+- pkg:maven/org.appops/appops-br-entity-store@1.0-RC-1?classifier=sources

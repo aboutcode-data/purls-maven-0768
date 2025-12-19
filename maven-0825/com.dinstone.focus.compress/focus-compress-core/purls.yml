@@ -1,0 +1,2 @@
+- pkg:maven/com.dinstone.focus.compress/focus-compress-core@0.9.5
+- pkg:maven/com.dinstone.focus.compress/focus-compress-core@0.9.5?classifier=sources

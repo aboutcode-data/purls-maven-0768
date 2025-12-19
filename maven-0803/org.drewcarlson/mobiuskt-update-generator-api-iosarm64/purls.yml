@@ -1,1 +1,2 @@
 - pkg:maven/org.drewcarlson/mobiuskt-update-generator-api-iosarm64@0.6.0?classifier=sources
+- pkg:maven/org.drewcarlson/mobiuskt-update-generator-api-iosarm64@1.0.0-rc01?classifier=sources

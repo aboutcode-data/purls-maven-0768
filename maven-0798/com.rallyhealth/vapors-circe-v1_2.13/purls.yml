@@ -6,3 +6,5 @@
 - pkg:maven/com.rallyhealth/vapors-circe-v1_2.13@1.0.0-M3?classifier=sources
 - pkg:maven/com.rallyhealth/vapors-circe-v1_2.13@1.0.0-M4
 - pkg:maven/com.rallyhealth/vapors-circe-v1_2.13@1.0.0-M4?classifier=sources
+- pkg:maven/com.rallyhealth/vapors-circe-v1_2.13@1.0.0-M5
+- pkg:maven/com.rallyhealth/vapors-circe-v1_2.13@1.0.0-M5?classifier=sources

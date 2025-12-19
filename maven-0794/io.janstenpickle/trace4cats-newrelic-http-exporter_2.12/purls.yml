@@ -235,7 +235,11 @@
 - pkg:maven/io.janstenpickle/trace4cats-newrelic-http-exporter_2.12@0.13.1%2B28-2b65f192?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-newrelic-http-exporter_2.12@0.13.1%2B32-2f5aec30
 - pkg:maven/io.janstenpickle/trace4cats-newrelic-http-exporter_2.12@0.13.1%2B32-2f5aec30?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-newrelic-http-exporter_2.12@0.13.1%2B41-8fe3eae0
+- pkg:maven/io.janstenpickle/trace4cats-newrelic-http-exporter_2.12@0.13.1%2B41-8fe3eae0?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-newrelic-http-exporter_2.12@0.13.1?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-newrelic-http-exporter_2.12@0.14.0
+- pkg:maven/io.janstenpickle/trace4cats-newrelic-http-exporter_2.12@0.14.0?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-newrelic-http-exporter_2.12@0.2.0
 - pkg:maven/io.janstenpickle/trace4cats-newrelic-http-exporter_2.12@0.2.0%2B1-b13cdc37
 - pkg:maven/io.janstenpickle/trace4cats-newrelic-http-exporter_2.12@0.2.0%2B1-b13cdc37?classifier=sources

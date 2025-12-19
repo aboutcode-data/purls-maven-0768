@@ -18,3 +18,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.3.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.3.1
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.3.1?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.3.3
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.3.3?classifier=sources

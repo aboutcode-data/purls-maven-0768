@@ -2,3 +2,5 @@
 - pkg:maven/io.arkitik.audit.tale/audit-tale-core-store@v1.0.0?classifier=sources
 - pkg:maven/io.arkitik.audit.tale/audit-tale-core-store@v1.1.0
 - pkg:maven/io.arkitik.audit.tale/audit-tale-core-store@v1.1.0?classifier=sources
+- pkg:maven/io.arkitik.audit.tale/audit-tale-core-store@v1.1.1
+- pkg:maven/io.arkitik.audit.tale/audit-tale-core-store@v1.1.1?classifier=sources

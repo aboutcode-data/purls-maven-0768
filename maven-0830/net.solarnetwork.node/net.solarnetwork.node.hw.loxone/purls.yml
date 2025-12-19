@@ -1,0 +1,2 @@
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.loxone@2.0.3
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.loxone@2.0.3?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/hu.simplexion.zakadabar/markdown@2022.5.3?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/markdown@2022.6.20?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/markdown@2022.6.2?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/markdown@2022.8.10?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/markdown@2022.8.17?classifier=sources

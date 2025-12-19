@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.0.352?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.0.353?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.0.354?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.0.355?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.0.356?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.0.357?classifier=sources

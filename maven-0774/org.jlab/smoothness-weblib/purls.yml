@@ -2,3 +2,7 @@
 - pkg:maven/org.jlab/smoothness-weblib@3.1.0?classifier=sources
 - pkg:maven/org.jlab/smoothness-weblib@3.2.0?classifier=sources
 - pkg:maven/org.jlab/smoothness-weblib@3.3.0?classifier=sources
+- pkg:maven/org.jlab/smoothness-weblib@3.5.0?classifier=sources
+- pkg:maven/org.jlab/smoothness-weblib@3.5.2?classifier=sources
+- pkg:maven/org.jlab/smoothness-weblib@3.6.0?classifier=sources
+- pkg:maven/org.jlab/smoothness-weblib@3.7.0?classifier=sources

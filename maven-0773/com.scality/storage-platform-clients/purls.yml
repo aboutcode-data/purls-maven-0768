@@ -1,0 +1,2 @@
+- pkg:maven/com.scality/storage-platform-clients@0.0.3
+- pkg:maven/com.scality/storage-platform-clients@0.0.3?classifier=sources

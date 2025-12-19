@@ -26,3 +26,5 @@
 - pkg:maven/com.ti-net.spanhtml/online@1.2.0?type=aar
 - pkg:maven/com.ti-net.spanhtml/online@1.2.8?classifier=sources
 - pkg:maven/com.ti-net.spanhtml/online@1.2.8?type=aar
+- pkg:maven/com.ti-net.spanhtml/online@1.4.2?classifier=sources
+- pkg:maven/com.ti-net.spanhtml/online@1.4.2?type=aar

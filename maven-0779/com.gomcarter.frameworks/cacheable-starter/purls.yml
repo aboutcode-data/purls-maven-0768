@@ -1,2 +1,4 @@
+- pkg:maven/com.gomcarter.frameworks/cacheable-starter@2.0.10
+- pkg:maven/com.gomcarter.frameworks/cacheable-starter@2.0.10?classifier=sources
 - pkg:maven/com.gomcarter.frameworks/cacheable-starter@2.0.9
 - pkg:maven/com.gomcarter.frameworks/cacheable-starter@2.0.9?classifier=sources

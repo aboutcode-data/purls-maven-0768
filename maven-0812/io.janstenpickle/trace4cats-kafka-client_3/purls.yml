@@ -9,4 +9,10 @@
 - pkg:maven/io.janstenpickle/trace4cats-kafka-client_3@0.13.1%2B13-566c0cc2?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-kafka-client_3@0.13.1%2B20-9d90bc2a
 - pkg:maven/io.janstenpickle/trace4cats-kafka-client_3@0.13.1%2B20-9d90bc2a?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-kafka-client_3@0.13.1%2B23-7d2513c7
+- pkg:maven/io.janstenpickle/trace4cats-kafka-client_3@0.13.1%2B23-7d2513c7?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-kafka-client_3@0.13.1%2B27-6d2a0d4b
+- pkg:maven/io.janstenpickle/trace4cats-kafka-client_3@0.13.1%2B27-6d2a0d4b?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-kafka-client_3@0.13.1?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-kafka-client_3@0.14.0
+- pkg:maven/io.janstenpickle/trace4cats-kafka-client_3@0.14.0?classifier=sources

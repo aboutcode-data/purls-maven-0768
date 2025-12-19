@@ -21,3 +21,4 @@
 - pkg:maven/org.apache.pulsar/pulsar-server-distribution@2.7.2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.pulsar/pulsar-server-distribution@2.7.3?classifier=src&type=tar.gz
 - pkg:maven/org.apache.pulsar/pulsar-server-distribution@2.7.4?classifier=src&type=tar.gz
+- pkg:maven/org.apache.pulsar/pulsar-server-distribution@2.7.5?classifier=src&type=tar.gz

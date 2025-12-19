@@ -4,3 +4,4 @@
 - pkg:maven/com.github.milis92.krang/krang-compiler-plugin@2.0.4?classifier=sources
 - pkg:maven/com.github.milis92.krang/krang-compiler-plugin@2.3.0?classifier=sources
 - pkg:maven/com.github.milis92.krang/krang-compiler-plugin@2.4.0?classifier=sources
+- pkg:maven/com.github.milis92.krang/krang-compiler-plugin@2.5.0?classifier=sources

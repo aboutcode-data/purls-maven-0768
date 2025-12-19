@@ -1,5 +1,6 @@
 - pkg:maven/com.github.javakam/toolkit@1.0.0?classifier=sources
 - pkg:maven/com.github.javakam/toolkit@10.0.0?classifier=sources
+- pkg:maven/com.github.javakam/toolkit@11.0.0?classifier=sources
 - pkg:maven/com.github.javakam/toolkit@2.0.0?classifier=sources
 - pkg:maven/com.github.javakam/toolkit@3.0.0?classifier=sources
 - pkg:maven/com.github.javakam/toolkit@4.0.0?classifier=sources

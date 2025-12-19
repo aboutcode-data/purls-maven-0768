@@ -1,1 +1,2 @@
 - pkg:maven/com.growingio.android.autotracker/com.growingio.android.autotracker.gradle.plugin@3.4.0?classifier=sources
+- pkg:maven/com.growingio.android.autotracker/com.growingio.android.autotracker.gradle.plugin@3.4.1?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.figure.classification.asset/ac-client@2.0.0-figuretest09?classifier=sources
+- pkg:maven/com.figure.classification.asset/ac-client@2.0.0-figuretest10?classifier=sources
+- pkg:maven/com.figure.classification.asset/ac-client@2.0.0?classifier=sources

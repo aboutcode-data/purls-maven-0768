@@ -7,3 +7,4 @@
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.license_check.api@6.9.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.license_check.api@7.0.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.license_check.api@7.0.1?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.license_check.api@8.0.0?classifier=sources

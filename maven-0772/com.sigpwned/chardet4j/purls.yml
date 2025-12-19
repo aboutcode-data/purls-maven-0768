@@ -10,3 +10,5 @@
 - pkg:maven/com.sigpwned/chardet4j@70.1.4?classifier=sources
 - pkg:maven/com.sigpwned/chardet4j@71.1.0
 - pkg:maven/com.sigpwned/chardet4j@71.1.0?classifier=sources
+- pkg:maven/com.sigpwned/chardet4j@71.1.1
+- pkg:maven/com.sigpwned/chardet4j@71.1.1?classifier=sources

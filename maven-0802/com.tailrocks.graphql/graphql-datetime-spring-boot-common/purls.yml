@@ -1,0 +1,2 @@
+- pkg:maven/com.tailrocks.graphql/graphql-datetime-spring-boot-common@5.0.0?classifier=sources
+- pkg:maven/com.tailrocks.graphql/graphql-datetime-spring-boot-common@5.0.1?classifier=sources

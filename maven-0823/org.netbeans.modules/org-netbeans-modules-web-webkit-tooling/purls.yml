@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-webkit-tooling@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-webkit-tooling@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-webkit-tooling@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-webkit-tooling@RELEASE150?classifier=sources

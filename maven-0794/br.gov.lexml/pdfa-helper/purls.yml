@@ -1,0 +1,2 @@
+- pkg:maven/br.gov.lexml/pdfa-helper@0.10.3
+- pkg:maven/br.gov.lexml/pdfa-helper@0.10.3?classifier=sources

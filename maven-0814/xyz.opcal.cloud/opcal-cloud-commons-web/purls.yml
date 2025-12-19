@@ -29,6 +29,10 @@
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@0.2.6.1
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@0.2.6.10
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@0.2.6.10?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@0.2.6.11
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@0.2.6.11?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@0.2.6.12
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@0.2.6.12?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@0.2.6.1?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@0.2.6.2
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@0.2.6.2?classifier=sources
@@ -54,3 +58,7 @@
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@2.7.1.1?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@2.7.1.2
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@2.7.1.2?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@2.7.2.0
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@2.7.2.0?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@2.7.3.0
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-web@2.7.3.0?classifier=sources

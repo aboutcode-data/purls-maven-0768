@@ -1,1 +1,3 @@
 - pkg:maven/ca.gosyer/accompanist-snapper-android-debug@0.24.4?classifier=sources
+- pkg:maven/ca.gosyer/accompanist-snapper-android-debug@0.25.0?classifier=sources
+- pkg:maven/ca.gosyer/accompanist-snapper-android-debug@0.25.1?classifier=sources

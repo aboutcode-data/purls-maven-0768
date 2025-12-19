@@ -10,6 +10,10 @@
 - pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.14?classifier=sources
 - pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.15
 - pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.15?classifier=sources
+- pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.16
+- pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.16?classifier=sources
+- pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.17
+- pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.17?classifier=sources
 - pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.8
 - pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.8?classifier=sources
 - pkg:maven/org.polyvariant/better-tostring_2.13.5@0.3.9

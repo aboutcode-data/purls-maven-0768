@@ -3,3 +3,4 @@
 - pkg:maven/com.tngtech.valueprovider/value-provider-junit5@1.0.2?classifier=sources
 - pkg:maven/com.tngtech.valueprovider/value-provider-junit5@1.1.0?classifier=sources
 - pkg:maven/com.tngtech.valueprovider/value-provider-junit5@1.2.0?classifier=sources
+- pkg:maven/com.tngtech.valueprovider/value-provider-junit5@1.2.1?classifier=sources

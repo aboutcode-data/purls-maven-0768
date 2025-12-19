@@ -8,4 +8,6 @@
 - pkg:maven/org.xrpl/xrpl4j-integration-tests@2.2.0
 - pkg:maven/org.xrpl/xrpl4j-integration-tests@2.3.0
 - pkg:maven/org.xrpl/xrpl4j-integration-tests@2.3.0-nft-dev-preview
+- pkg:maven/org.xrpl/xrpl4j-integration-tests@2.4.0
+- pkg:maven/org.xrpl/xrpl4j-integration-tests@2.4.0-nft-dev-preview
 - pkg:maven/org.xrpl/xrpl4j-integration-tests@3.0.0-rc1

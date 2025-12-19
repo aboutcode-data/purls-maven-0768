@@ -44,3 +44,5 @@
 - pkg:maven/org.typelevel/log4cats-testing_2.12@2.3.2?classifier=sources
 - pkg:maven/org.typelevel/log4cats-testing_2.12@2.4.0
 - pkg:maven/org.typelevel/log4cats-testing_2.12@2.4.0?classifier=sources
+- pkg:maven/org.typelevel/log4cats-testing_2.12@2.5-a595fcf
+- pkg:maven/org.typelevel/log4cats-testing_2.12@2.5-a595fcf?classifier=sources

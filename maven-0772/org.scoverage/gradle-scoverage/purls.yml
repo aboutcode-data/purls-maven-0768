@@ -55,3 +55,4 @@
 - pkg:maven/org.scoverage/gradle-scoverage@6.0.0?classifier=sources
 - pkg:maven/org.scoverage/gradle-scoverage@6.1.0?classifier=sources
 - pkg:maven/org.scoverage/gradle-scoverage@7.0.0?classifier=sources
+- pkg:maven/org.scoverage/gradle-scoverage@7.0.1?classifier=sources

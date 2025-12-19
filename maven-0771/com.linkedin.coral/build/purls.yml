@@ -12,3 +12,10 @@
 - pkg:maven/com.linkedin.coral/build@2.0.85?classifier=sources
 - pkg:maven/com.linkedin.coral/build@2.0.86?classifier=sources
 - pkg:maven/com.linkedin.coral/build@2.0.87?classifier=sources
+- pkg:maven/com.linkedin.coral/build@2.0.88?classifier=sources
+- pkg:maven/com.linkedin.coral/build@2.0.89?classifier=sources
+- pkg:maven/com.linkedin.coral/build@2.0.90?classifier=sources
+- pkg:maven/com.linkedin.coral/build@2.0.91?classifier=sources
+- pkg:maven/com.linkedin.coral/build@2.0.92?classifier=sources
+- pkg:maven/com.linkedin.coral/build@2.0.93?classifier=sources
+- pkg:maven/com.linkedin.coral/build@2.0.94?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.markwalder/tomcat-session-logout-listener@1.0.0?classifier=sources
+- pkg:maven/net.markwalder/tomcat-session-logout-listener@1.1.0?classifier=sources

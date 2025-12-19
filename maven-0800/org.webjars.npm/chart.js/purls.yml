@@ -76,3 +76,5 @@
 - pkg:maven/org.webjars.npm/chart.js@3.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/chart.js@3.8.2
 - pkg:maven/org.webjars.npm/chart.js@3.8.2?classifier=sources
+- pkg:maven/org.webjars.npm/chart.js@3.9.1
+- pkg:maven/org.webjars.npm/chart.js@3.9.1?classifier=sources

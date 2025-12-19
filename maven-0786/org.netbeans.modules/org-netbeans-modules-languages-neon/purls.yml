@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-neon@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-neon@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-neon@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-neon@RELEASE150?classifier=sources

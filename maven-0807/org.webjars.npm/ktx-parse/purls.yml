@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/ktx-parse@0.2.2
+- pkg:maven/org.webjars.npm/ktx-parse@0.2.2?classifier=sources

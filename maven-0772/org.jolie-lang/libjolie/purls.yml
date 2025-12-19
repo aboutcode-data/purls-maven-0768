@@ -6,6 +6,10 @@
 - pkg:maven/org.jolie-lang/libjolie@1.10.10?classifier=sources
 - pkg:maven/org.jolie-lang/libjolie@1.10.11
 - pkg:maven/org.jolie-lang/libjolie@1.10.11?classifier=sources
+- pkg:maven/org.jolie-lang/libjolie@1.10.12
+- pkg:maven/org.jolie-lang/libjolie@1.10.12?classifier=sources
+- pkg:maven/org.jolie-lang/libjolie@1.10.13
+- pkg:maven/org.jolie-lang/libjolie@1.10.13?classifier=sources
 - pkg:maven/org.jolie-lang/libjolie@1.10.2
 - pkg:maven/org.jolie-lang/libjolie@1.10.2-rc1
 - pkg:maven/org.jolie-lang/libjolie@1.10.2-rc1?classifier=sources

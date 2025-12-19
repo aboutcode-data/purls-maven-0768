@@ -36,3 +36,5 @@
 - pkg:maven/org.dishevelled/dsh-bio-compress-hdfs@2.0.9
 - pkg:maven/org.dishevelled/dsh-bio-compress-hdfs@2.0.9?classifier=sources
 - pkg:maven/org.dishevelled/dsh-bio-compress-hdfs@2.0?classifier=sources
+- pkg:maven/org.dishevelled/dsh-bio-compress-hdfs@2.1
+- pkg:maven/org.dishevelled/dsh-bio-compress-hdfs@2.1?classifier=sources

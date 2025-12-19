@@ -1,0 +1,4 @@
+- pkg:maven/cn.zhgliu/area-reptile-from-stats-gov-cn@1.0.0
+- pkg:maven/cn.zhgliu/area-reptile-from-stats-gov-cn@1.0.0?classifier=sources
+- pkg:maven/cn.zhgliu/area-reptile-from-stats-gov-cn@1.0.1
+- pkg:maven/cn.zhgliu/area-reptile-from-stats-gov-cn@1.0.1?classifier=sources

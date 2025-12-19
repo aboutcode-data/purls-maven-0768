@@ -2,3 +2,5 @@
 - pkg:maven/com.xnx3.wangmarket/wangmarket@5.3?classifier=sources
 - pkg:maven/com.xnx3.wangmarket/wangmarket@5.4
 - pkg:maven/com.xnx3.wangmarket/wangmarket@5.4?classifier=sources
+- pkg:maven/com.xnx3.wangmarket/wangmarket@5.6.12?classifier=sources
+- pkg:maven/com.xnx3.wangmarket/wangmarket@5.6.12?type=war

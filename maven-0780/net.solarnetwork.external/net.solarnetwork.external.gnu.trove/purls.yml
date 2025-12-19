@@ -1,0 +1,2 @@
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.gnu.trove@3.0.3.SN02
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.gnu.trove@3.0.3.SN02?classifier=sources

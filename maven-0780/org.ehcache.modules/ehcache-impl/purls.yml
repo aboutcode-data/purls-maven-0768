@@ -37,6 +37,7 @@
 - pkg:maven/org.ehcache.modules/ehcache-impl@3.10.0-alpha0?classifier=sources
 - pkg:maven/org.ehcache.modules/ehcache-impl@3.10.0-alpha1?classifier=sources
 - pkg:maven/org.ehcache.modules/ehcache-impl@3.10.0?classifier=sources
+- pkg:maven/org.ehcache.modules/ehcache-impl@3.10.1?classifier=sources
 - pkg:maven/org.ehcache.modules/ehcache-impl@3.2.0
 - pkg:maven/org.ehcache.modules/ehcache-impl@3.2.0.beta1
 - pkg:maven/org.ehcache.modules/ehcache-impl@3.2.0.beta1?classifier=sources

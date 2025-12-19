@@ -52,6 +52,14 @@
 - pkg:maven/com.adobe.aem/aemanalyser-maven-plugin@1.4.0?classifier=sources
 - pkg:maven/com.adobe.aem/aemanalyser-maven-plugin@1.4.10
 - pkg:maven/com.adobe.aem/aemanalyser-maven-plugin@1.4.10?classifier=sources
+- pkg:maven/com.adobe.aem/aemanalyser-maven-plugin@1.4.12
+- pkg:maven/com.adobe.aem/aemanalyser-maven-plugin@1.4.12?classifier=sources
+- pkg:maven/com.adobe.aem/aemanalyser-maven-plugin@1.4.14
+- pkg:maven/com.adobe.aem/aemanalyser-maven-plugin@1.4.14?classifier=sources
+- pkg:maven/com.adobe.aem/aemanalyser-maven-plugin@1.4.16
+- pkg:maven/com.adobe.aem/aemanalyser-maven-plugin@1.4.16?classifier=sources
+- pkg:maven/com.adobe.aem/aemanalyser-maven-plugin@1.4.18
+- pkg:maven/com.adobe.aem/aemanalyser-maven-plugin@1.4.18?classifier=sources
 - pkg:maven/com.adobe.aem/aemanalyser-maven-plugin@1.4.2
 - pkg:maven/com.adobe.aem/aemanalyser-maven-plugin@1.4.2?classifier=sources
 - pkg:maven/com.adobe.aem/aemanalyser-maven-plugin@1.4.4

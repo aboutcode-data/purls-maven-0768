@@ -10,3 +10,5 @@
 - pkg:maven/org.jacop/jacop@4.7.0?classifier=sources
 - pkg:maven/org.jacop/jacop@4.8.0
 - pkg:maven/org.jacop/jacop@4.8.0?classifier=sources
+- pkg:maven/org.jacop/jacop@4.9.0
+- pkg:maven/org.jacop/jacop@4.9.0?classifier=sources

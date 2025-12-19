@@ -230,6 +230,14 @@
 - pkg:maven/com.nb6868.onex/uc@3.6.31?classifier=sources
 - pkg:maven/com.nb6868.onex/uc@3.6.32
 - pkg:maven/com.nb6868.onex/uc@3.6.32?classifier=sources
+- pkg:maven/com.nb6868.onex/uc@3.6.33
+- pkg:maven/com.nb6868.onex/uc@3.6.33?classifier=sources
+- pkg:maven/com.nb6868.onex/uc@3.6.34
+- pkg:maven/com.nb6868.onex/uc@3.6.34?classifier=sources
+- pkg:maven/com.nb6868.onex/uc@3.6.35
+- pkg:maven/com.nb6868.onex/uc@3.6.35?classifier=sources
+- pkg:maven/com.nb6868.onex/uc@3.6.36
+- pkg:maven/com.nb6868.onex/uc@3.6.36?classifier=sources
 - pkg:maven/com.nb6868.onex/uc@3.6.3?classifier=sources
 - pkg:maven/com.nb6868.onex/uc@3.6.4
 - pkg:maven/com.nb6868.onex/uc@3.6.4?classifier=sources

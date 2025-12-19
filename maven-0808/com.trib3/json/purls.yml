@@ -228,6 +228,12 @@
 - pkg:maven/com.trib3/json@1.32.3400?classifier=sources
 - pkg:maven/com.trib3/json@1.32.3444
 - pkg:maven/com.trib3/json@1.32.3444?classifier=sources
+- pkg:maven/com.trib3/json@1.32.3489
+- pkg:maven/com.trib3/json@1.32.3489?classifier=sources
+- pkg:maven/com.trib3/json@1.33.3527
+- pkg:maven/com.trib3/json@1.33.3527?classifier=sources
+- pkg:maven/com.trib3/json@1.33.3554
+- pkg:maven/com.trib3/json@1.33.3554?classifier=sources
 - pkg:maven/com.trib3/json@1.4.486
 - pkg:maven/com.trib3/json@1.4.486?classifier=sources
 - pkg:maven/com.trib3/json@1.4.527

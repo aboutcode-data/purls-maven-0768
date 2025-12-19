@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ejbrefactoring@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ejbrefactoring@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ejbrefactoring@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ejbrefactoring@RELEASE150?classifier=sources

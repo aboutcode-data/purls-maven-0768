@@ -1,0 +1,6 @@
+- pkg:maven/cn.hippo4j/hippo4j-monitor-base@1.4.0
+- pkg:maven/cn.hippo4j/hippo4j-monitor-base@1.4.0-RC
+- pkg:maven/cn.hippo4j/hippo4j-monitor-base@1.4.0-RC?classifier=sources
+- pkg:maven/cn.hippo4j/hippo4j-monitor-base@1.4.0-alpha
+- pkg:maven/cn.hippo4j/hippo4j-monitor-base@1.4.0-alpha?classifier=sources
+- pkg:maven/cn.hippo4j/hippo4j-monitor-base@1.4.0?classifier=sources

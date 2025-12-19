@@ -1,0 +1,2 @@
+- pkg:maven/pl.wrzasq.cform/cform-resource-aws-dynamodbitem@1.1.12
+- pkg:maven/pl.wrzasq.cform/cform-resource-aws-dynamodbitem@1.1.12?classifier=sources

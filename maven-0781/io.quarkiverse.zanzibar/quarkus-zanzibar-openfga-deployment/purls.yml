@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.zanzibar/quarkus-zanzibar-openfga-deployment@0.0.1
+- pkg:maven/io.quarkiverse.zanzibar/quarkus-zanzibar-openfga-deployment@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bric3.fireplace/fireplace-swing@0.0.1-rc2?classifier=sources
+- pkg:maven/io.github.bric3.fireplace/fireplace-swing@0.0.1-rc3?classifier=sources

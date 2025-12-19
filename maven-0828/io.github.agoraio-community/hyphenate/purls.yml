@@ -12,6 +12,8 @@
 - pkg:maven/io.github.agoraio-community/hyphenate@2.2.105?classifier=sources
 - pkg:maven/io.github.agoraio-community/hyphenate@2.2.106?classifier=sources
 - pkg:maven/io.github.agoraio-community/hyphenate@2.2.107?classifier=sources
+- pkg:maven/io.github.agoraio-community/hyphenate@2.2.108?classifier=sources
+- pkg:maven/io.github.agoraio-community/hyphenate@2.2.108?type=aar
 - pkg:maven/io.github.agoraio-community/hyphenate@2.3.0?classifier=sources
 - pkg:maven/io.github.agoraio-community/hyphenate@2.3.100?classifier=sources
 - pkg:maven/io.github.agoraio-community/hyphenate@2.3.1?classifier=sources
@@ -33,5 +35,7 @@
 - pkg:maven/io.github.agoraio-community/hyphenate@2.5.4?classifier=sources
 - pkg:maven/io.github.agoraio-community/hyphenate@2.5.5?classifier=sources
 - pkg:maven/io.github.agoraio-community/hyphenate@2.5.6?classifier=sources
+- pkg:maven/io.github.agoraio-community/hyphenate@2.5.7?classifier=sources
 - pkg:maven/io.github.agoraio-community/hyphenate@2.6.0?classifier=sources
 - pkg:maven/io.github.agoraio-community/hyphenate@2.6.1?classifier=sources
+- pkg:maven/io.github.agoraio-community/hyphenate@2.6.3?classifier=sources

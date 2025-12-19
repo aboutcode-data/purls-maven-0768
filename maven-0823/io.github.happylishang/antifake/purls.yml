@@ -2,3 +2,5 @@
 - pkg:maven/io.github.happylishang/antifake@1.4.0?type=aar
 - pkg:maven/io.github.happylishang/antifake@1.5.0?classifier=sources
 - pkg:maven/io.github.happylishang/antifake@1.5.0?type=aar
+- pkg:maven/io.github.happylishang/antifake@1.6.0?classifier=sources
+- pkg:maven/io.github.happylishang/antifake@1.7.0?classifier=sources

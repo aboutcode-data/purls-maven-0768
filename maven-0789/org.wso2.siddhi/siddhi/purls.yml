@@ -5,6 +5,7 @@
 - pkg:maven/org.wso2.siddhi/siddhi@3.2.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.siddhi/siddhi@3.2.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.siddhi/siddhi@3.2.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.siddhi/siddhi@3.2.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.siddhi/siddhi@4.0.0-M100?classifier=source-release&type=zip
 - pkg:maven/org.wso2.siddhi/siddhi@4.0.0-M101?classifier=source-release&type=zip
 - pkg:maven/org.wso2.siddhi/siddhi@4.0.0-M102?classifier=source-release&type=zip

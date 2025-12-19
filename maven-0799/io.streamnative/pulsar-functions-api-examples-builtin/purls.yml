@@ -1,0 +1,2 @@
+- pkg:maven/io.streamnative/pulsar-functions-api-examples-builtin@2.11.0.0-rc2
+- pkg:maven/io.streamnative/pulsar-functions-api-examples-builtin@2.11.0.0-rc2?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.github.lolgab/snunit-cask_native0.4_3@0.0.21?classifier=sources
 - pkg:maven/com.github.lolgab/snunit-cask_native0.4_3@0.0.22
 - pkg:maven/com.github.lolgab/snunit-cask_native0.4_3@0.0.22?classifier=sources
+- pkg:maven/com.github.lolgab/snunit-cask_native0.4_3@0.0.23
+- pkg:maven/com.github.lolgab/snunit-cask_native0.4_3@0.0.23?classifier=sources

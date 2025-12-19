@@ -7,6 +7,7 @@
 - pkg:maven/org.projectnessie.cel/cel-tools@0.2.4?classifier=sources
 - pkg:maven/org.projectnessie.cel/cel-tools@0.2.5?classifier=sources
 - pkg:maven/org.projectnessie.cel/cel-tools@0.3.0?classifier=sources
+- pkg:maven/org.projectnessie.cel/cel-tools@0.3.10?classifier=sources
 - pkg:maven/org.projectnessie.cel/cel-tools@0.3.1?classifier=sources
 - pkg:maven/org.projectnessie.cel/cel-tools@0.3.2?classifier=sources
 - pkg:maven/org.projectnessie.cel/cel-tools@0.3.3?classifier=sources
@@ -15,3 +16,4 @@
 - pkg:maven/org.projectnessie.cel/cel-tools@0.3.6?classifier=sources
 - pkg:maven/org.projectnessie.cel/cel-tools@0.3.7?classifier=sources
 - pkg:maven/org.projectnessie.cel/cel-tools@0.3.8?classifier=sources
+- pkg:maven/org.projectnessie.cel/cel-tools@0.3.9?classifier=sources

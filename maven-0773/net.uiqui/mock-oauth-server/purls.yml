@@ -1,2 +1,3 @@
 - pkg:maven/net.uiqui/mock-oauth-server@1.0.0?classifier=sources
 - pkg:maven/net.uiqui/mock-oauth-server@1.1.0?classifier=sources
+- pkg:maven/net.uiqui/mock-oauth-server@1.1.1?classifier=sources

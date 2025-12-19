@@ -1,2 +1,4 @@
 - pkg:maven/tech.antibytes.kfixture/core-iossimulatorarm64@0.1.0?classifier=sources
 - pkg:maven/tech.antibytes.kfixture/core-iossimulatorarm64@0.2.0?classifier=sources
+- pkg:maven/tech.antibytes.kfixture/core-iossimulatorarm64@0.3.0?classifier=sources
+- pkg:maven/tech.antibytes.kfixture/core-iossimulatorarm64@0.3.1?classifier=sources

@@ -11,3 +11,4 @@
 - pkg:maven/com.pinterest.ktlint/ktlint-ruleset-test@0.45.2?classifier=sources
 - pkg:maven/com.pinterest.ktlint/ktlint-ruleset-test@0.46.0?classifier=sources
 - pkg:maven/com.pinterest.ktlint/ktlint-ruleset-test@0.46.1?classifier=sources
+- pkg:maven/com.pinterest.ktlint/ktlint-ruleset-test@0.47.0?classifier=sources

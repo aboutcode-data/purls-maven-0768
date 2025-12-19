@@ -2,3 +2,5 @@
 - pkg:maven/io.streamthoughts/kafka-connect-filepulse-commons-fs@2.4.0?classifier=sources
 - pkg:maven/io.streamthoughts/kafka-connect-filepulse-commons-fs@2.4.3
 - pkg:maven/io.streamthoughts/kafka-connect-filepulse-commons-fs@2.4.3?classifier=sources
+- pkg:maven/io.streamthoughts/kafka-connect-filepulse-commons-fs@2.7.0
+- pkg:maven/io.streamthoughts/kafka-connect-filepulse-commons-fs@2.7.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-liberty-20.0@1.17.0-alpha?classifier=sources

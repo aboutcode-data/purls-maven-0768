@@ -1,0 +1,4 @@
+- pkg:maven/io.get-coursier/definitions_2.13@2.0.11
+- pkg:maven/io.get-coursier/definitions_2.13@2.0.11-1
+- pkg:maven/io.get-coursier/definitions_2.13@2.0.11-1?classifier=sources
+- pkg:maven/io.get-coursier/definitions_2.13@2.0.11?classifier=sources

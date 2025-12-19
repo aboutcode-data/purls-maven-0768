@@ -34,3 +34,4 @@
 - pkg:maven/com.discord4j/stores-jdk@3.1.8?classifier=sources
 - pkg:maven/com.discord4j/stores-jdk@3.2.0?classifier=sources
 - pkg:maven/com.discord4j/stores-jdk@3.2.1?classifier=sources
+- pkg:maven/com.discord4j/stores-jdk@3.2.2?classifier=sources

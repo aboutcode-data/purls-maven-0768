@@ -1,0 +1,2 @@
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.yaskawa.pvitl@3.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.yaskawa.pvitl@3.0.0?classifier=sources
