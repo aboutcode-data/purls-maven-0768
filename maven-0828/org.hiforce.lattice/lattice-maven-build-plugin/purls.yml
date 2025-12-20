@@ -39,6 +39,8 @@
 - pkg:maven/org.hiforce.lattice/lattice-maven-build-plugin@1.0.18.3?classifier=sources
 - pkg:maven/org.hiforce.lattice/lattice-maven-build-plugin@1.0.18.5
 - pkg:maven/org.hiforce.lattice/lattice-maven-build-plugin@1.0.18.5?classifier=sources
+- pkg:maven/org.hiforce.lattice/lattice-maven-build-plugin@1.0.18.7
+- pkg:maven/org.hiforce.lattice/lattice-maven-build-plugin@1.0.18.7?classifier=sources
 - pkg:maven/org.hiforce.lattice/lattice-maven-build-plugin@1.0.18?classifier=sources
 - pkg:maven/org.hiforce.lattice/lattice-maven-build-plugin@1.0.9
 - pkg:maven/org.hiforce.lattice/lattice-maven-build-plugin@1.0.9.1

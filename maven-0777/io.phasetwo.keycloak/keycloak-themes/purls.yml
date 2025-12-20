@@ -43,6 +43,8 @@
 - pkg:maven/io.phasetwo.keycloak/keycloak-themes@0.29?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-themes@0.2?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-themes@0.3
+- pkg:maven/io.phasetwo.keycloak/keycloak-themes@0.30
+- pkg:maven/io.phasetwo.keycloak/keycloak-themes@0.30?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-themes@0.3?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-themes@0.4
 - pkg:maven/io.phasetwo.keycloak/keycloak-themes@0.4?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/de.darkatra/feign-aws-sigv4-common@3.0.0?classifier=sources
 - pkg:maven/de.darkatra/feign-aws-sigv4-common@3.0.4
 - pkg:maven/de.darkatra/feign-aws-sigv4-common@3.0.4?classifier=sources
+- pkg:maven/de.darkatra/feign-aws-sigv4-common@3.0.5
+- pkg:maven/de.darkatra/feign-aws-sigv4-common@3.0.5?classifier=sources

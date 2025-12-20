@@ -25,3 +25,5 @@
 - pkg:maven/org.metafacture/metafacture-javaintegration@5.7.0
 - pkg:maven/org.metafacture/metafacture-javaintegration@5.7.0?classifier=sources
 - pkg:maven/org.metafacture/metafacture-javaintegration@6.0.0?classifier=sources
+- pkg:maven/org.metafacture/metafacture-javaintegration@6.1.0?classifier=sources
+- pkg:maven/org.metafacture/metafacture-javaintegration@6.1.1?classifier=sources

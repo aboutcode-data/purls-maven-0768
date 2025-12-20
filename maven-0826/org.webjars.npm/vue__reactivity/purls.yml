@@ -158,7 +158,9 @@
 - pkg:maven/org.webjars.npm/vue__reactivity@3.4.23?classifier=sources
 - pkg:maven/org.webjars.npm/vue__reactivity@3.4.25
 - pkg:maven/org.webjars.npm/vue__reactivity@3.4.27
+- pkg:maven/org.webjars.npm/vue__reactivity@3.4.29
 - pkg:maven/org.webjars.npm/vue__reactivity@3.4.3
+- pkg:maven/org.webjars.npm/vue__reactivity@3.4.31
 - pkg:maven/org.webjars.npm/vue__reactivity@3.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/vue__reactivity@3.4.4
 - pkg:maven/org.webjars.npm/vue__reactivity@3.4.4?classifier=sources

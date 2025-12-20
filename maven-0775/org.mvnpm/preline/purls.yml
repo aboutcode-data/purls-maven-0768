@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/preline@2.1.0?classifier=sources
+- pkg:maven/org.mvnpm/preline@2.3.0?classifier=sources

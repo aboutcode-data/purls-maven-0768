@@ -1,2 +1,3 @@
 - pkg:maven/money.vivid.elmslie/elmslie-core@3.0.0-alpha10?classifier=sources
 - pkg:maven/money.vivid.elmslie/elmslie-core@3.0.0-alpha11?classifier=sources
+- pkg:maven/money.vivid.elmslie/elmslie-core@3.0.0-beta1?classifier=sources

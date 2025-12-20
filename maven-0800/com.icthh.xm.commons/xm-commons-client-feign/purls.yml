@@ -14,5 +14,6 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-client-feign@3.2.1?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-client-feign@3.2.2?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-client-feign@3.2.3?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-client-feign@3.2.7?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-client-feign@4.0.3?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-client-feign@4.0.4?classifier=sources

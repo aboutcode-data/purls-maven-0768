@@ -1,1 +1,2 @@
 - pkg:maven/tech.carcadex/kotlinbukkitkit-utility@1.0.0.3?classifier=sources
+- pkg:maven/tech.carcadex/kotlinbukkitkit-utility@1.0.1.0?classifier=sources

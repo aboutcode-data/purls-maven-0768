@@ -1,6 +1,8 @@
 - pkg:maven/rocks.friedrich.engine_omega/engine-omega@0.1.0?classifier=sources
 - pkg:maven/rocks.friedrich.engine_omega/engine-omega@0.10.0?classifier=sources
 - pkg:maven/rocks.friedrich.engine_omega/engine-omega@0.11.0?classifier=sources
+- pkg:maven/rocks.friedrich.engine_omega/engine-omega@0.12.0?classifier=sources
+- pkg:maven/rocks.friedrich.engine_omega/engine-omega@0.13.0?classifier=sources
 - pkg:maven/rocks.friedrich.engine_omega/engine-omega@0.2.0?classifier=sources
 - pkg:maven/rocks.friedrich.engine_omega/engine-omega@0.3.0?classifier=sources
 - pkg:maven/rocks.friedrich.engine_omega/engine-omega@0.4.0?classifier=sources

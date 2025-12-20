@@ -1,0 +1,4 @@
+- pkg:maven/io.kinoplan/utils-logback-layout_2.13@0.0.38
+- pkg:maven/io.kinoplan/utils-logback-layout_2.13@0.0.38?classifier=sources
+- pkg:maven/io.kinoplan/utils-logback-layout_2.13@0.0.39
+- pkg:maven/io.kinoplan/utils-logback-layout_2.13@0.0.39?classifier=sources

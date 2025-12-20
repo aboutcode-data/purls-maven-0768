@@ -14,3 +14,7 @@
 - pkg:maven/org.camunda.template-engines/camunda-template-engines-freemarker@2.1.0?classifier=sources
 - pkg:maven/org.camunda.template-engines/camunda-template-engines-freemarker@2.2.0
 - pkg:maven/org.camunda.template-engines/camunda-template-engines-freemarker@2.2.0?classifier=sources
+- pkg:maven/org.camunda.template-engines/camunda-template-engines-freemarker@7.22.0-alpha2
+- pkg:maven/org.camunda.template-engines/camunda-template-engines-freemarker@7.22.0-alpha2?classifier=sources
+- pkg:maven/org.camunda.template-engines/camunda-template-engines-freemarker@7.22.0-alpha3
+- pkg:maven/org.camunda.template-engines/camunda-template-engines-freemarker@7.22.0-alpha3?classifier=sources

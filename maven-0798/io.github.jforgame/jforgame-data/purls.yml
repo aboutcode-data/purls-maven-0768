@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jforgame/jforgame-data@1.2.0
+- pkg:maven/io.github.jforgame/jforgame-data@1.2.0?classifier=sources

@@ -72,3 +72,5 @@
 - pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.14.3?classifier=sources
 - pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.14.4
 - pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.14.4?classifier=sources
+- pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.14.5
+- pkg:maven/com.spotify/scio-elasticsearch8_2.13@0.14.5?classifier=sources

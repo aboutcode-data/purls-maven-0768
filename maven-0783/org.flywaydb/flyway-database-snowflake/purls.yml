@@ -16,6 +16,10 @@
 - pkg:maven/org.flywaydb/flyway-database-snowflake@10.13.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-snowflake@10.14.0
 - pkg:maven/org.flywaydb/flyway-database-snowflake@10.14.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-snowflake@10.15.0
+- pkg:maven/org.flywaydb/flyway-database-snowflake@10.15.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-snowflake@10.15.2
+- pkg:maven/org.flywaydb/flyway-database-snowflake@10.15.2?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-snowflake@10.2.0
 - pkg:maven/org.flywaydb/flyway-database-snowflake@10.2.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-snowflake@10.3.0

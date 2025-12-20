@@ -25,6 +25,11 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/oss-index-advisor@22.5.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/oss-index-advisor@22.6.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/oss-index-advisor@22.7.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/oss-index-advisor@22.8.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/oss-index-advisor@23.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/oss-index-advisor@24.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/oss-index-advisor@25.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/oss-index-advisor@25.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/oss-index-advisor@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/oss-index-advisor@6.1.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/oss-index-advisor@7.0.0?classifier=sources

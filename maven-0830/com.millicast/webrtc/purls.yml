@@ -2,4 +2,6 @@
 - pkg:maven/com.millicast/webrtc@118.0.0-21058267?classifier=sources
 - pkg:maven/com.millicast/webrtc@118.0.0-2e2c472b?classifier=sources
 - pkg:maven/com.millicast/webrtc@118.0.0-4d27b948?classifier=sources
+- pkg:maven/com.millicast/webrtc@118.0.0-b3dbbc21?classifier=sources
+- pkg:maven/com.millicast/webrtc@118.0.0-e6b4dc85?classifier=sources
 - pkg:maven/com.millicast/webrtc@118.0.0?classifier=sources

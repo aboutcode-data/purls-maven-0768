@@ -476,6 +476,8 @@
 - pkg:maven/com.github.j5ik2o/akka-persistence-dynamodb-state-base_2.12@1.14.99
 - pkg:maven/com.github.j5ik2o/akka-persistence-dynamodb-state-base_2.12@1.14.99?classifier=sources
 - pkg:maven/com.github.j5ik2o/akka-persistence-dynamodb-state-base_2.12@1.14.9?classifier=sources
+- pkg:maven/com.github.j5ik2o/akka-persistence-dynamodb-state-base_2.12@1.16.464
+- pkg:maven/com.github.j5ik2o/akka-persistence-dynamodb-state-base_2.12@1.16.464?classifier=sources
 - pkg:maven/com.github.j5ik2o/akka-persistence-dynamodb-state-base_2.12@1.7.0
 - pkg:maven/com.github.j5ik2o/akka-persistence-dynamodb-state-base_2.12@1.7.0?classifier=sources
 - pkg:maven/com.github.j5ik2o/akka-persistence-dynamodb-state-base_2.12@1.8.0

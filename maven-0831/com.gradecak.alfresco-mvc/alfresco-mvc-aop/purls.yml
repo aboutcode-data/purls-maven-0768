@@ -12,3 +12,5 @@
 - pkg:maven/com.gradecak.alfresco-mvc/alfresco-mvc-aop@7.5.1-RELEASE?classifier=sources
 - pkg:maven/com.gradecak.alfresco-mvc/alfresco-mvc-aop@8.0.0
 - pkg:maven/com.gradecak.alfresco-mvc/alfresco-mvc-aop@8.0.0?classifier=sources
+- pkg:maven/com.gradecak.alfresco-mvc/alfresco-mvc-aop@9.0.0
+- pkg:maven/com.gradecak.alfresco-mvc/alfresco-mvc-aop@9.0.0?classifier=sources

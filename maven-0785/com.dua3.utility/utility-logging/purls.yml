@@ -63,3 +63,5 @@
 - pkg:maven/com.dua3.utility/utility-logging@12.2.1?classifier=sources
 - pkg:maven/com.dua3.utility/utility-logging@12.2?classifier=sources
 - pkg:maven/com.dua3.utility/utility-logging@13.0-BETA3?classifier=sources
+- pkg:maven/com.dua3.utility/utility-logging@13.0-BETA4?classifier=sources
+- pkg:maven/com.dua3.utility/utility-logging@13.0-BETA5?classifier=sources

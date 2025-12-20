@@ -1,0 +1,2 @@
+- pkg:maven/io.synclite/synclite-logger-extended@2024.07.07
+- pkg:maven/io.synclite/synclite-logger-extended@2024.07.07?classifier=sources

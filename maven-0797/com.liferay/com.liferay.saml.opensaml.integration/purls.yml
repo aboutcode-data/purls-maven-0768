@@ -617,6 +617,7 @@
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.3?classifier=sources

@@ -39,3 +39,5 @@
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.3.7?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.3.8?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.3.9?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.4.0?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.daml/ledger-api-value-scalapb_2.13@3.1.0-snapshot.20240620.13140.0.v996a1164
+- pkg:maven/com.daml/ledger-api-value-scalapb_2.13@3.1.0-snapshot.20240620.13140.0.v996a1164?classifier=sources

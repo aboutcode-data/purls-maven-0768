@@ -1,0 +1,1 @@
+- pkg:maven/org.eclipse.edc.azure/contract-negotiation-store-cosmos@0.7.1?classifier=sources

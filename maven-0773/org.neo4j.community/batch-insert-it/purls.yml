@@ -201,6 +201,8 @@
 - pkg:maven/org.neo4j.community/batch-insert-it@4.4.33?classifier=sources
 - pkg:maven/org.neo4j.community/batch-insert-it@4.4.34
 - pkg:maven/org.neo4j.community/batch-insert-it@4.4.34?classifier=sources
+- pkg:maven/org.neo4j.community/batch-insert-it@4.4.35
+- pkg:maven/org.neo4j.community/batch-insert-it@4.4.35?classifier=sources
 - pkg:maven/org.neo4j.community/batch-insert-it@4.4.3?classifier=sources
 - pkg:maven/org.neo4j.community/batch-insert-it@4.4.4
 - pkg:maven/org.neo4j.community/batch-insert-it@4.4.4?classifier=sources

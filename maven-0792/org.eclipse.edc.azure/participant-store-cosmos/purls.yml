@@ -1,0 +1,1 @@
+- pkg:maven/org.eclipse.edc.azure/participant-store-cosmos@0.7.1?classifier=sources

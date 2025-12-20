@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pnoker/dc3-common-transfer@2024.3.2
+- pkg:maven/io.github.pnoker/dc3-common-transfer@2024.3.2?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/host.bytedance/kotlin-newInstance-runtime@0.0.1-beta?classifier=sources
+- pkg:maven/host.bytedance/kotlin-newInstance-runtime@0.0.2-beta?classifier=sources
+- pkg:maven/host.bytedance/kotlin-newInstance-runtime@0.0.3-beta?classifier=sources

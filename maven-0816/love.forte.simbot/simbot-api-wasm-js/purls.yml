@@ -1,1 +1,4 @@
 - pkg:maven/love.forte.simbot/simbot-api-wasm-js@4.0.0-RC3?classifier=sources
+- pkg:maven/love.forte.simbot/simbot-api-wasm-js@4.0.0?classifier=sources
+- pkg:maven/love.forte.simbot/simbot-api-wasm-js@4.0.1?classifier=sources
+- pkg:maven/love.forte.simbot/simbot-api-wasm-js@4.1.0?classifier=sources

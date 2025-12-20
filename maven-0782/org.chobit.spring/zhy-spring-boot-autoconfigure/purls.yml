@@ -1,0 +1,2 @@
+- pkg:maven/org.chobit.spring/zhy-spring-boot-autoconfigure@0.0.2
+- pkg:maven/org.chobit.spring/zhy-spring-boot-autoconfigure@0.0.2?classifier=sources

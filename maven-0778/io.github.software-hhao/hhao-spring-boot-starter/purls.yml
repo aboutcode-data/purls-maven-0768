@@ -10,3 +10,5 @@
 - pkg:maven/io.github.software-hhao/hhao-spring-boot-starter@3.0.2?classifier=sources
 - pkg:maven/io.github.software-hhao/hhao-spring-boot-starter@3.0.3
 - pkg:maven/io.github.software-hhao/hhao-spring-boot-starter@3.0.3?classifier=sources
+- pkg:maven/io.github.software-hhao/hhao-spring-boot-starter@3.0.4
+- pkg:maven/io.github.software-hhao/hhao-spring-boot-starter@3.0.4?classifier=sources

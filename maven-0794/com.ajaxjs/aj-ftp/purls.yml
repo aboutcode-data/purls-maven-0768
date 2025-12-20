@@ -1,0 +1,2 @@
+- pkg:maven/com.ajaxjs/aj-ftp@1.1
+- pkg:maven/com.ajaxjs/aj-ftp@1.1?classifier=sources

@@ -92,3 +92,9 @@
 - pkg:maven/ai.tock/tock-nlp-model-opennlp@23.9.1?classifier=sources
 - pkg:maven/ai.tock/tock-nlp-model-opennlp@23.9.2
 - pkg:maven/ai.tock/tock-nlp-model-opennlp@23.9.2?classifier=sources
+- pkg:maven/ai.tock/tock-nlp-model-opennlp@24.3.0
+- pkg:maven/ai.tock/tock-nlp-model-opennlp@24.3.0?classifier=sources
+- pkg:maven/ai.tock/tock-nlp-model-opennlp@24.3.1
+- pkg:maven/ai.tock/tock-nlp-model-opennlp@24.3.1?classifier=sources
+- pkg:maven/ai.tock/tock-nlp-model-opennlp@24.3.2
+- pkg:maven/ai.tock/tock-nlp-model-opennlp@24.3.2?classifier=sources

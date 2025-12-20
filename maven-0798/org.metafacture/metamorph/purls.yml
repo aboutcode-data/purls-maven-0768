@@ -25,3 +25,5 @@
 - pkg:maven/org.metafacture/metamorph@5.7.0
 - pkg:maven/org.metafacture/metamorph@5.7.0?classifier=sources
 - pkg:maven/org.metafacture/metamorph@6.0.0?classifier=sources
+- pkg:maven/org.metafacture/metamorph@6.1.0?classifier=sources
+- pkg:maven/org.metafacture/metamorph@6.1.1?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/com.github.autoscaler/autoscale-scaler-marathon@2.0.4-996?classifier=sources
 - pkg:maven/com.github.autoscaler/autoscale-scaler-marathon@2.0.5-2
 - pkg:maven/com.github.autoscaler/autoscale-scaler-marathon@2.0.5-2?classifier=sources
+- pkg:maven/com.github.autoscaler/autoscale-scaler-marathon@2.1.0-1039
+- pkg:maven/com.github.autoscaler/autoscale-scaler-marathon@2.1.0-1039?classifier=sources

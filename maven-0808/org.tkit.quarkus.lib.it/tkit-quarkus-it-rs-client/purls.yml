@@ -22,3 +22,11 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.22.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.23.0
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.23.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.24.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.24.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.25.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.25.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.26.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.26.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.27.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.27.0?classifier=sources

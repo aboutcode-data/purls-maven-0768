@@ -10,3 +10,9 @@
 - pkg:maven/com.michaelpollmeier/codepropertygraph_3@1.6.13%2B11-85465b84?classifier=sources
 - pkg:maven/com.michaelpollmeier/codepropertygraph_3@1.6.13%2B13-0bd6923b
 - pkg:maven/com.michaelpollmeier/codepropertygraph_3@1.6.13%2B13-0bd6923b?classifier=sources
+- pkg:maven/com.michaelpollmeier/codepropertygraph_3@1.6.16%2B19-29c0a073
+- pkg:maven/com.michaelpollmeier/codepropertygraph_3@1.6.16%2B19-29c0a073?classifier=sources
+- pkg:maven/com.michaelpollmeier/codepropertygraph_3@1.6.16%2B21-b420d745
+- pkg:maven/com.michaelpollmeier/codepropertygraph_3@1.6.16%2B21-b420d745?classifier=sources
+- pkg:maven/com.michaelpollmeier/codepropertygraph_3@1.6.18%2B26-62212b63
+- pkg:maven/com.michaelpollmeier/codepropertygraph_3@1.6.18%2B26-62212b63?classifier=sources

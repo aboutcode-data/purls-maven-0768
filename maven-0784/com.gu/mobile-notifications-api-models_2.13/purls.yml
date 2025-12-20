@@ -10,3 +10,5 @@
 - pkg:maven/com.gu/mobile-notifications-api-models_2.13@1.0.18?classifier=sources
 - pkg:maven/com.gu/mobile-notifications-api-models_2.13@1.0.19
 - pkg:maven/com.gu/mobile-notifications-api-models_2.13@1.0.19?classifier=sources
+- pkg:maven/com.gu/mobile-notifications-api-models_2.13@2.0.0
+- pkg:maven/com.gu/mobile-notifications-api-models_2.13@2.0.0?classifier=sources

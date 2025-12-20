@@ -32,3 +32,4 @@
 - pkg:maven/org.danilopianini/code-plagiarism-detector@8.1.7?classifier=sources
 - pkg:maven/org.danilopianini/code-plagiarism-detector@8.1.8?classifier=sources
 - pkg:maven/org.danilopianini/code-plagiarism-detector@8.1.9?classifier=sources
+- pkg:maven/org.danilopianini/code-plagiarism-detector@9.0.0?classifier=sources

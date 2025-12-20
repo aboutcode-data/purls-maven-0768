@@ -101,6 +101,10 @@
 - pkg:maven/com.google.apis/google-api-services-networkmanagement@v1-rev20240424-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkmanagement@v1-rev20240515-2.0.0
 - pkg:maven/com.google.apis/google-api-services-networkmanagement@v1-rev20240515-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networkmanagement@v1-rev20240605-2.0.0
+- pkg:maven/com.google.apis/google-api-services-networkmanagement@v1-rev20240605-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networkmanagement@v1-rev20240612-2.0.0
+- pkg:maven/com.google.apis/google-api-services-networkmanagement@v1-rev20240612-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkmanagement@v1beta1-rev20200303-1.30.9
 - pkg:maven/com.google.apis/google-api-services-networkmanagement@v1beta1-rev20200303-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkmanagement@v1beta1-rev20200505-1.30.10
@@ -217,6 +221,10 @@
 - pkg:maven/com.google.apis/google-api-services-networkmanagement@v1beta1-rev20240501-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkmanagement@v1beta1-rev20240515-2.0.0
 - pkg:maven/com.google.apis/google-api-services-networkmanagement@v1beta1-rev20240515-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networkmanagement@v1beta1-rev20240605-2.0.0
+- pkg:maven/com.google.apis/google-api-services-networkmanagement@v1beta1-rev20240605-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networkmanagement@v1beta1-rev20240612-2.0.0
+- pkg:maven/com.google.apis/google-api-services-networkmanagement@v1beta1-rev20240612-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkmanagement@v1beta1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-networkmanagement@v1beta1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkmanagement@v1beta1-rev3-1.25.0

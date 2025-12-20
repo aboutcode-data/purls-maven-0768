@@ -19,6 +19,8 @@
 - pkg:maven/br.com.m4rc310/br-com-m4rc310-gql@1.0.19
 - pkg:maven/br.com.m4rc310/br-com-m4rc310-gql@1.0.19?classifier=sources
 - pkg:maven/br.com.m4rc310/br-com-m4rc310-gql@1.0.2
+- pkg:maven/br.com.m4rc310/br-com-m4rc310-gql@1.0.20
+- pkg:maven/br.com.m4rc310/br-com-m4rc310-gql@1.0.20?classifier=sources
 - pkg:maven/br.com.m4rc310/br-com-m4rc310-gql@1.0.2?classifier=sources
 - pkg:maven/br.com.m4rc310/br-com-m4rc310-gql@1.0.3
 - pkg:maven/br.com.m4rc310/br-com-m4rc310-gql@1.0.3?classifier=sources

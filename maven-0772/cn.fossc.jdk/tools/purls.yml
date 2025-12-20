@@ -1,0 +1,6 @@
+- pkg:maven/cn.fossc.jdk/tools@1.8
+- pkg:maven/cn.fossc.jdk/tools@1.8.0_211
+- pkg:maven/cn.fossc.jdk/tools@1.8.0_211?classifier=sources
+- pkg:maven/cn.fossc.jdk/tools@1.8.0_212
+- pkg:maven/cn.fossc.jdk/tools@1.8.0_212?classifier=sources
+- pkg:maven/cn.fossc.jdk/tools@1.8?classifier=sources

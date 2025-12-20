@@ -1,0 +1,4 @@
+- pkg:maven/it.netgrid/bauer-mqtt@0.0.14
+- pkg:maven/it.netgrid/bauer-mqtt@0.0.14?classifier=sources
+- pkg:maven/it.netgrid/bauer-mqtt@0.0.15
+- pkg:maven/it.netgrid/bauer-mqtt@0.0.15?classifier=sources

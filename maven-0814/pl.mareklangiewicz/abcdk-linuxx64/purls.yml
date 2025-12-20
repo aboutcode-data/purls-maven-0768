@@ -7,3 +7,5 @@
 - pkg:maven/pl.mareklangiewicz/abcdk-linuxx64@0.0.16?classifier=sources
 - pkg:maven/pl.mareklangiewicz/abcdk-linuxx64@0.0.17?classifier=sources
 - pkg:maven/pl.mareklangiewicz/abcdk-linuxx64@0.0.18?classifier=sources
+- pkg:maven/pl.mareklangiewicz/abcdk-linuxx64@0.0.23?classifier=sources
+- pkg:maven/pl.mareklangiewicz/abcdk-linuxx64@0.0.24?classifier=sources

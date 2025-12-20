@@ -1,0 +1,2 @@
+- pkg:maven/hu.icellmobilsoft.dookug.testsuite/dookug-ts-common-base@1.0.0
+- pkg:maven/hu.icellmobilsoft.dookug.testsuite/dookug-ts-common-base@1.0.0?classifier=sources

@@ -2,6 +2,10 @@
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.10?classifier=sources
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.11
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.11?classifier=sources
+- pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.12
+- pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.12?classifier=sources
+- pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.13
+- pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.13?classifier=sources
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.5
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.5?classifier=sources
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.6
@@ -12,3 +16,5 @@
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.8?classifier=sources
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.9
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.9?classifier=sources
+- pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.4.0
+- pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.4.0?classifier=sources

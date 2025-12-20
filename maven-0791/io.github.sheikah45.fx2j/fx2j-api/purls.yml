@@ -1,1 +1,2 @@
 - pkg:maven/io.github.sheikah45.fx2j/fx2j-api@0.0.0?classifier=sources
+- pkg:maven/io.github.sheikah45.fx2j/fx2j-api@0.1.0?classifier=sources

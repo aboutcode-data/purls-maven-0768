@@ -36,3 +36,4 @@
 - pkg:maven/io.github.serpro69/kotlin-faker@2.0.0-rc.2?classifier=sources
 - pkg:maven/io.github.serpro69/kotlin-faker@2.0.0-rc.3?classifier=sources
 - pkg:maven/io.github.serpro69/kotlin-faker@2.0.0-rc.4?classifier=sources
+- pkg:maven/io.github.serpro69/kotlin-faker@2.0.0-rc.5?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/ca.kaxx/kaxx-items@0.0.4?classifier=sources
+- pkg:maven/ca.kaxx/kaxx-items@0.0.5?classifier=sources

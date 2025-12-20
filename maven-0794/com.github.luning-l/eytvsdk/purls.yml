@@ -21,3 +21,8 @@
 - pkg:maven/com.github.luning-l/eytvsdk@T0.0101.2405.1701?classifier=sources
 - pkg:maven/com.github.luning-l/eytvsdk@T0.0101.2405.2301?classifier=sources
 - pkg:maven/com.github.luning-l/eytvsdk@T0.0101.2405.3101?classifier=sources
+- pkg:maven/com.github.luning-l/eytvsdk@T0.0101.2407.0201?classifier=sources
+- pkg:maven/com.github.luning-l/eytvsdk@T0.0101.2407.0501?classifier=sources
+- pkg:maven/com.github.luning-l/eytvsdk@T0.0101.2407.1001?classifier=sources
+- pkg:maven/com.github.luning-l/eytvsdk@T0.0101.2407.1002?classifier=sources
+- pkg:maven/com.github.luning-l/eytvsdk@T0.0101.2407.1101?classifier=sources

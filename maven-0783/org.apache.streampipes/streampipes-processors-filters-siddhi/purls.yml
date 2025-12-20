@@ -8,3 +8,7 @@
 - pkg:maven/org.apache.streampipes/streampipes-processors-filters-siddhi@0.92.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-processors-filters-siddhi@0.93.0
 - pkg:maven/org.apache.streampipes/streampipes-processors-filters-siddhi@0.93.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-processors-filters-siddhi@0.95.0
+- pkg:maven/org.apache.streampipes/streampipes-processors-filters-siddhi@0.95.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-processors-filters-siddhi@0.95.1
+- pkg:maven/org.apache.streampipes/streampipes-processors-filters-siddhi@0.95.1?classifier=sources

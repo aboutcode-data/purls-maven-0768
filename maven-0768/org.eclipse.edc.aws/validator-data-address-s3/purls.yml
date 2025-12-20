@@ -1,0 +1,1 @@
+- pkg:maven/org.eclipse.edc.aws/validator-data-address-s3@0.7.1?classifier=sources

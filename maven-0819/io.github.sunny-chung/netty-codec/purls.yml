@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sunny-chung/netty-codec@4.1.110.Final-patch1
+- pkg:maven/io.github.sunny-chung/netty-codec@4.1.110.Final-patch1?classifier=sources

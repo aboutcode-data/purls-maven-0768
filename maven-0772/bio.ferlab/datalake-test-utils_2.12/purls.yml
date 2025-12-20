@@ -54,6 +54,10 @@
 - pkg:maven/bio.ferlab/datalake-test-utils_2.12@14.0.2?classifier=sources
 - pkg:maven/bio.ferlab/datalake-test-utils_2.12@14.0.3
 - pkg:maven/bio.ferlab/datalake-test-utils_2.12@14.0.3?classifier=sources
+- pkg:maven/bio.ferlab/datalake-test-utils_2.12@14.0.4
+- pkg:maven/bio.ferlab/datalake-test-utils_2.12@14.0.4?classifier=sources
+- pkg:maven/bio.ferlab/datalake-test-utils_2.12@14.1.0
+- pkg:maven/bio.ferlab/datalake-test-utils_2.12@14.1.0?classifier=sources
 - pkg:maven/bio.ferlab/datalake-test-utils_2.12@8.10.0
 - pkg:maven/bio.ferlab/datalake-test-utils_2.12@8.10.0?classifier=sources
 - pkg:maven/bio.ferlab/datalake-test-utils_2.12@8.9.0

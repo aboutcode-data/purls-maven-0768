@@ -38,3 +38,5 @@
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api-integration-tests@1.320.0?classifier=sources
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api-integration-tests@1.321.0
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api-integration-tests@1.321.0?classifier=sources
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api-integration-tests@1.322.0
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api-integration-tests@1.322.0?classifier=sources

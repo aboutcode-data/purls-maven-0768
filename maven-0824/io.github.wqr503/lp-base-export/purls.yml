@@ -1,0 +1,9 @@
+- pkg:maven/io.github.wqr503/lp-base-export@1.0.1.FINAL?classifier=sources
+- pkg:maven/io.github.wqr503/lp-base-export@1.1.1.FINAL?classifier=sources
+- pkg:maven/io.github.wqr503/lp-base-export@1.2.1.FINAL?classifier=sources
+- pkg:maven/io.github.wqr503/lp-base-export@1.2.2.FINAL?classifier=sources
+- pkg:maven/io.github.wqr503/lp-base-export@1.2.3.FINAL?classifier=sources
+- pkg:maven/io.github.wqr503/lp-base-export@1.2.4.FINAL?classifier=sources
+- pkg:maven/io.github.wqr503/lp-base-export@1.2.5-SPRING3.FINAL?classifier=sources
+- pkg:maven/io.github.wqr503/lp-base-export@1.2.5.FINAL?classifier=sources
+- pkg:maven/io.github.wqr503/lp-base-export@1.2.6.FINAL?classifier=sources

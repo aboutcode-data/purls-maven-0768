@@ -4,6 +4,8 @@
 - pkg:maven/tech.mgl/mgl-boot-tenant@2024.4.3?classifier=sources
 - pkg:maven/tech.mgl/mgl-boot-tenant@2024.5.1
 - pkg:maven/tech.mgl/mgl-boot-tenant@2024.5.1?classifier=sources
+- pkg:maven/tech.mgl/mgl-boot-tenant@2024.5.24
+- pkg:maven/tech.mgl/mgl-boot-tenant@2024.5.24?classifier=sources
 - pkg:maven/tech.mgl/mgl-boot-tenant@2024.5.8
 - pkg:maven/tech.mgl/mgl-boot-tenant@2024.5.8?classifier=sources
 - pkg:maven/tech.mgl/mgl-boot-tenant@3.2.2

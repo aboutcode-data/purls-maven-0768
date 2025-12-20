@@ -66,3 +66,5 @@
 - pkg:maven/net.dreamlu/mica-mqtt-client-spring-boot-starter@2.2.9?classifier=sources
 - pkg:maven/net.dreamlu/mica-mqtt-client-spring-boot-starter@2.3.0
 - pkg:maven/net.dreamlu/mica-mqtt-client-spring-boot-starter@2.3.0?classifier=sources
+- pkg:maven/net.dreamlu/mica-mqtt-client-spring-boot-starter@2.3.1
+- pkg:maven/net.dreamlu/mica-mqtt-client-spring-boot-starter@2.3.1?classifier=sources

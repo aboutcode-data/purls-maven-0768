@@ -3,3 +3,10 @@
 - pkg:maven/pl.mareklangiewicz/uwidgets-jvm@0.0.06?classifier=sources
 - pkg:maven/pl.mareklangiewicz/uwidgets-jvm@0.0.08?classifier=sources
 - pkg:maven/pl.mareklangiewicz/uwidgets-jvm@0.0.11?classifier=sources
+- pkg:maven/pl.mareklangiewicz/uwidgets-jvm@0.0.15?classifier=sources
+- pkg:maven/pl.mareklangiewicz/uwidgets-jvm@0.0.17?classifier=sources
+- pkg:maven/pl.mareklangiewicz/uwidgets-jvm@0.0.19?classifier=sources
+- pkg:maven/pl.mareklangiewicz/uwidgets-jvm@0.0.21?classifier=sources
+- pkg:maven/pl.mareklangiewicz/uwidgets-jvm@0.0.22?classifier=sources
+- pkg:maven/pl.mareklangiewicz/uwidgets-jvm@0.0.23?classifier=sources
+- pkg:maven/pl.mareklangiewicz/uwidgets-jvm@0.0.24?classifier=sources

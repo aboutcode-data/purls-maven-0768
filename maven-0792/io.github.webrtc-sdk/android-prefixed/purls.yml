@@ -5,3 +5,5 @@
 - pkg:maven/io.github.webrtc-sdk/android-prefixed@114.5735.10?classifier=sources
 - pkg:maven/io.github.webrtc-sdk/android-prefixed@114.5735.11?classifier=sources
 - pkg:maven/io.github.webrtc-sdk/android-prefixed@125.6422.01?classifier=sources
+- pkg:maven/io.github.webrtc-sdk/android-prefixed@125.6422.02?classifier=sources
+- pkg:maven/io.github.webrtc-sdk/android-prefixed@125.6422.03?classifier=sources

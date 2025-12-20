@@ -5,3 +5,13 @@
 - pkg:maven/com.pulsatehq.sdk/PulsateSdkDevelopment@4.5.1RC5?classifier=sources
 - pkg:maven/com.pulsatehq.sdk/PulsateSdkDevelopment@4.5.1RC6?classifier=sources
 - pkg:maven/com.pulsatehq.sdk/PulsateSdkDevelopment@4.5.1RC8?classifier=sources
+- pkg:maven/com.pulsatehq.sdk/PulsateSdkDevelopment@4.5.1RC9?classifier=sources
+- pkg:maven/com.pulsatehq.sdk/PulsateSdkDevelopment@4.5.5RC10?classifier=sources
+- pkg:maven/com.pulsatehq.sdk/PulsateSdkDevelopment@4.5.5RC2?classifier=sources
+- pkg:maven/com.pulsatehq.sdk/PulsateSdkDevelopment@4.5.5RC3?classifier=sources
+- pkg:maven/com.pulsatehq.sdk/PulsateSdkDevelopment@4.5.5RC4?classifier=sources
+- pkg:maven/com.pulsatehq.sdk/PulsateSdkDevelopment@4.5.5RC5?classifier=sources
+- pkg:maven/com.pulsatehq.sdk/PulsateSdkDevelopment@4.5.5RC6?classifier=sources
+- pkg:maven/com.pulsatehq.sdk/PulsateSdkDevelopment@4.5.5RC7?classifier=sources
+- pkg:maven/com.pulsatehq.sdk/PulsateSdkDevelopment@4.5.5RC8?classifier=sources
+- pkg:maven/com.pulsatehq.sdk/PulsateSdkDevelopment@4.5.5RC9?classifier=sources

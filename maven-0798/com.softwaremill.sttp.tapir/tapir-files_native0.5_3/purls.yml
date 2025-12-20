@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-files_native0.5_3@1.10.11
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-files_native0.5_3@1.10.11?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-files_native0.5_3@1.10.12
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-files_native0.5_3@1.10.12?classifier=sources

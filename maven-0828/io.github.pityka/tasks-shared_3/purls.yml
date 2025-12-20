@@ -1,0 +1,4 @@
+- pkg:maven/io.github.pityka/tasks-shared_3@3.0.0-M10
+- pkg:maven/io.github.pityka/tasks-shared_3@3.0.0-M10?classifier=sources
+- pkg:maven/io.github.pityka/tasks-shared_3@3.0.0-M12
+- pkg:maven/io.github.pityka/tasks-shared_3@3.0.0-M12?classifier=sources

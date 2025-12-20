@@ -138,3 +138,5 @@
 - pkg:maven/com.urbanairship/java-client@9.2.1?classifier=sources
 - pkg:maven/com.urbanairship/java-client@9.3.0
 - pkg:maven/com.urbanairship/java-client@9.3.0?classifier=sources
+- pkg:maven/com.urbanairship/java-client@9.3.1
+- pkg:maven/com.urbanairship/java-client@9.3.1?classifier=sources

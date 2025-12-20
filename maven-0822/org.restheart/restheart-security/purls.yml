@@ -195,6 +195,8 @@
 - pkg:maven/org.restheart/restheart-security@7.7.1
 - pkg:maven/org.restheart/restheart-security@7.7.10
 - pkg:maven/org.restheart/restheart-security@7.7.10?classifier=sources
+- pkg:maven/org.restheart/restheart-security@7.7.11
+- pkg:maven/org.restheart/restheart-security@7.7.11?classifier=sources
 - pkg:maven/org.restheart/restheart-security@7.7.1?classifier=sources
 - pkg:maven/org.restheart/restheart-security@7.7.2
 - pkg:maven/org.restheart/restheart-security@7.7.2?classifier=sources
@@ -218,3 +220,7 @@
 - pkg:maven/org.restheart/restheart-security@8.0.0?classifier=sources
 - pkg:maven/org.restheart/restheart-security@8.0.1
 - pkg:maven/org.restheart/restheart-security@8.0.1?classifier=sources
+- pkg:maven/org.restheart/restheart-security@8.0.2
+- pkg:maven/org.restheart/restheart-security@8.0.2?classifier=sources
+- pkg:maven/org.restheart/restheart-security@8.0.3
+- pkg:maven/org.restheart/restheart-security@8.0.3?classifier=sources

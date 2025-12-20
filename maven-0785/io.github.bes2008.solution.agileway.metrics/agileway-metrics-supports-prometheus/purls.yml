@@ -28,3 +28,5 @@
 - pkg:maven/io.github.bes2008.solution.agileway.metrics/agileway-metrics-supports-prometheus@4.4.5?classifier=sources
 - pkg:maven/io.github.bes2008.solution.agileway.metrics/agileway-metrics-supports-prometheus@4.4.6
 - pkg:maven/io.github.bes2008.solution.agileway.metrics/agileway-metrics-supports-prometheus@4.4.6?classifier=sources
+- pkg:maven/io.github.bes2008.solution.agileway.metrics/agileway-metrics-supports-prometheus@5.0.0
+- pkg:maven/io.github.bes2008.solution.agileway.metrics/agileway-metrics-supports-prometheus@5.0.0?classifier=sources

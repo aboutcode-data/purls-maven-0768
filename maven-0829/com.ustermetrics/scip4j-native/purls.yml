@@ -1,0 +1,2 @@
+- pkg:maven/com.ustermetrics/scip4j-native@0.0.1-9.1.0
+- pkg:maven/com.ustermetrics/scip4j-native@0.0.1-9.1.0?classifier=sources

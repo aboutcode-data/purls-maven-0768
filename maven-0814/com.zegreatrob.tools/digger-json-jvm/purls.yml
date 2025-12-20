@@ -1,3 +1,4 @@
+- pkg:maven/com.zegreatrob.tools/digger-json-jvm@1.0.100?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-json-jvm@1.0.46?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-json-jvm@1.0.47?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-json-jvm@1.0.48?classifier=sources
@@ -50,3 +51,4 @@
 - pkg:maven/com.zegreatrob.tools/digger-json-jvm@1.0.96?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-json-jvm@1.0.97?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-json-jvm@1.0.98?classifier=sources
+- pkg:maven/com.zegreatrob.tools/digger-json-jvm@1.0.99?classifier=sources

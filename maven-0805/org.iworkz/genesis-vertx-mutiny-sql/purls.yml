@@ -62,3 +62,5 @@
 - pkg:maven/org.iworkz/genesis-vertx-mutiny-sql@1.0.60?classifier=sources
 - pkg:maven/org.iworkz/genesis-vertx-mutiny-sql@1.0.61
 - pkg:maven/org.iworkz/genesis-vertx-mutiny-sql@1.0.61?classifier=sources
+- pkg:maven/org.iworkz/genesis-vertx-mutiny-sql@1.0.62
+- pkg:maven/org.iworkz/genesis-vertx-mutiny-sql@1.0.62?classifier=sources

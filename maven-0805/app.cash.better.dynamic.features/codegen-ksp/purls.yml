@@ -7,3 +7,5 @@
 - pkg:maven/app.cash.better.dynamic.features/codegen-ksp@0.2.2?classifier=sources
 - pkg:maven/app.cash.better.dynamic.features/codegen-ksp@0.3.0?classifier=sources
 - pkg:maven/app.cash.better.dynamic.features/codegen-ksp@0.3.1?classifier=sources
+- pkg:maven/app.cash.better.dynamic.features/codegen-ksp@0.4.0?classifier=sources
+- pkg:maven/app.cash.better.dynamic.features/codegen-ksp@0.4.1?classifier=sources

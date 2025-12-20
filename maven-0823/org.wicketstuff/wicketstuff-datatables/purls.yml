@@ -36,6 +36,10 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datatables@10.0.0-M2
 - pkg:maven/org.wicketstuff/wicketstuff-datatables@10.0.0-M2?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datatables@10.0.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datatables@10.1.0
+- pkg:maven/org.wicketstuff/wicketstuff-datatables@10.1.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datatables@10.1.1
+- pkg:maven/org.wicketstuff/wicketstuff-datatables@10.1.1?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datatables@6.0.0
 - pkg:maven/org.wicketstuff/wicketstuff-datatables@6.0.0-beta1
 - pkg:maven/org.wicketstuff/wicketstuff-datatables@6.0.0-beta1.1
@@ -182,6 +186,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datatables@8.14.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datatables@8.15.0
 - pkg:maven/org.wicketstuff/wicketstuff-datatables@8.15.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datatables@8.16.0
+- pkg:maven/org.wicketstuff/wicketstuff-datatables@8.16.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datatables@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-datatables@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datatables@8.3.0

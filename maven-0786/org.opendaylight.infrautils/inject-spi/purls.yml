@@ -109,3 +109,4 @@
 - pkg:maven/org.opendaylight.infrautils/inject-spi@6.0.7?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/inject-spi@6.0.8?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/inject-spi@6.0.9?classifier=sources
+- pkg:maven/org.opendaylight.infrautils/inject-spi@7.0.0?classifier=sources
