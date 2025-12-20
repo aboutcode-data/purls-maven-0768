@@ -140,5 +140,11 @@
 - pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@2.1.2?classifier=sources
 - pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@2.1.3
 - pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@2.1.3?classifier=sources
+- pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@2.1.4
 - pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@2.1.4-fix-config
 - pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@2.1.4-fix-config?classifier=sources
+- pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@2.1.4?classifier=sources
+- pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@2.1.5
+- pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@2.1.5?classifier=sources
+- pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@2.1.6
+- pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper@2.1.6?classifier=sources

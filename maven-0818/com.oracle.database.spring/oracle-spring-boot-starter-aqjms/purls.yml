@@ -16,6 +16,8 @@
 - pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-aqjms@24.2.0?classifier=sources
 - pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-aqjms@24.3.0
 - pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-aqjms@24.3.0?classifier=sources
+- pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-aqjms@24.4.0
+- pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-aqjms@24.4.0?classifier=sources
 - pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-aqjms@3.0.2
 - pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-aqjms@3.0.2?classifier=sources
 - pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-aqjms@3.0.3

@@ -14,3 +14,5 @@
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-alibaba@2023.3.01?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-alibaba@2024.01?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-alibaba@2024.11?classifier=sources
+- pkg:maven/io.github.shuigedeng/taotao-cloud-starter-alibaba@2024.12?classifier=sources
+- pkg:maven/io.github.shuigedeng/taotao-cloud-starter-alibaba@2025.01?classifier=sources

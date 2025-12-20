@@ -48,6 +48,10 @@
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-20241120?classifier=sources
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-20241125
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-20241125?classifier=sources
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-20241231
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-20241231?classifier=sources
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-20250101
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-20250101?classifier=sources
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk11-20240816?classifier=sources
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk11-20240819
@@ -66,6 +70,10 @@
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk11-20241015?classifier=sources
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk11-20241022
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk11-20241022?classifier=sources
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk11-20241231
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk11-20241231?classifier=sources
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk11-20250101
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk11-20250101?classifier=sources
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk17-20240815
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk17-20240815?classifier=sources
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk17-20240819
@@ -98,6 +106,10 @@
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk17-20241022?classifier=sources
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk17-20241125
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk17-20241125?classifier=sources
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk17-20241231
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk17-20241231?classifier=sources
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk17-20250101
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk17-20250101?classifier=sources
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk21-20240815
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk21-20240815?classifier=sources
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk21-20240819
@@ -132,3 +144,9 @@
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk21-20241025?classifier=sources
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk21-20241125
 - pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk21-20241125?classifier=sources
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk21-20241203
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk21-20241203?classifier=sources
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk21-20241231
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk21-20241231?classifier=sources
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk21-20250101
+- pkg:maven/org.anyline/anyline-environment-spring-data@8.7.2-jdk21-20250101?classifier=sources

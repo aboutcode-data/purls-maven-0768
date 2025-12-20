@@ -16,6 +16,7 @@
 - pkg:maven/org.webjars.npm/feather-icons@4.29.0?classifier=sources
 - pkg:maven/org.webjars.npm/feather-icons@4.29.1
 - pkg:maven/org.webjars.npm/feather-icons@4.29.1?classifier=sources
+- pkg:maven/org.webjars.npm/feather-icons@4.29.2
 - pkg:maven/org.webjars.npm/feather-icons@4.6.0
 - pkg:maven/org.webjars.npm/feather-icons@4.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/feather-icons@4.7.0

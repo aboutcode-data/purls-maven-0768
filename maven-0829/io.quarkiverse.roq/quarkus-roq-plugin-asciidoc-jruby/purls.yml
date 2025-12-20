@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-asciidoc-jruby@1.0.8?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-asciidoc-jruby@1.0.9?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-asciidoc-jruby@1.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-asciidoc-jruby@1.1.1?classifier=sources

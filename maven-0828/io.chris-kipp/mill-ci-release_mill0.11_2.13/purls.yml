@@ -2,3 +2,5 @@
 - pkg:maven/io.chris-kipp/mill-ci-release_mill0.11_2.13@0.1.10?classifier=sources
 - pkg:maven/io.chris-kipp/mill-ci-release_mill0.11_2.13@0.1.9
 - pkg:maven/io.chris-kipp/mill-ci-release_mill0.11_2.13@0.1.9?classifier=sources
+- pkg:maven/io.chris-kipp/mill-ci-release_mill0.11_2.13@0.2.0
+- pkg:maven/io.chris-kipp/mill-ci-release_mill0.11_2.13@0.2.0?classifier=sources

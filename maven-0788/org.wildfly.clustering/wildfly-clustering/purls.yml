@@ -37,3 +37,9 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering@4.0.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering/wildfly-clustering@4.0.4.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering/wildfly-clustering@4.0.5.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering@5.0.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering@5.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering@5.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering@5.0.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering@5.0.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering@5.0.4.Final?classifier=source-release&type=zip

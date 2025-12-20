@@ -1,2 +1,4 @@
 - pkg:maven/com.cashfree.verification.java/cashfree_verification@1.0.1?classifier=sources
 - pkg:maven/com.cashfree.verification.java/cashfree_verification@1.0.3?classifier=sources
+- pkg:maven/com.cashfree.verification.java/cashfree_verification@2.0.10?classifier=sources
+- pkg:maven/com.cashfree.verification.java/cashfree_verification@2.0.1?classifier=sources

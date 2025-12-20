@@ -74,3 +74,7 @@
 - pkg:maven/us.fatehi/schemacrawler-teiid@16.23.1?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-teiid@16.23.2
 - pkg:maven/us.fatehi/schemacrawler-teiid@16.23.2?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-teiid@16.24.1
+- pkg:maven/us.fatehi/schemacrawler-teiid@16.24.1?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-teiid@16.24.2
+- pkg:maven/us.fatehi/schemacrawler-teiid@16.24.2?classifier=sources

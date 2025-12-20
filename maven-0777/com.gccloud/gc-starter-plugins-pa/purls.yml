@@ -1,0 +1,2 @@
+- pkg:maven/com.gccloud/gc-starter-plugins-pa@2.3.5.RELEASE
+- pkg:maven/com.gccloud/gc-starter-plugins-pa@2.3.5.RELEASE?classifier=sources

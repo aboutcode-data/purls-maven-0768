@@ -18,3 +18,9 @@
 - pkg:maven/net.rsprot/osrs-224-common@1.0.0-ALPHA-20241108-2?classifier=sources
 - pkg:maven/net.rsprot/osrs-224-common@1.0.0-ALPHA-20241108?classifier=sources
 - pkg:maven/net.rsprot/osrs-224-common@1.0.0-ALPHA-20241122?classifier=sources
+- pkg:maven/net.rsprot/osrs-224-common@1.0.0-ALPHA-20241201?classifier=sources
+- pkg:maven/net.rsprot/osrs-224-common@1.0.0-ALPHA-20241220?classifier=sources
+- pkg:maven/net.rsprot/osrs-224-common@1.0.0-ALPHA-20241221?classifier=sources
+- pkg:maven/net.rsprot/osrs-224-common@1.0.0-ALPHA-20241223?classifier=sources
+- pkg:maven/net.rsprot/osrs-224-common@1.0.0-ALPHA-20241227?classifier=sources
+- pkg:maven/net.rsprot/osrs-224-common@1.0.0-ALPHA-20241228?classifier=sources

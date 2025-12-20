@@ -130,3 +130,5 @@
 - pkg:maven/no.mnemonic.commons/testtools@0.4.9?classifier=sources
 - pkg:maven/no.mnemonic.commons/testtools@0.5.0
 - pkg:maven/no.mnemonic.commons/testtools@0.5.0?classifier=sources
+- pkg:maven/no.mnemonic.commons/testtools@0.5.1
+- pkg:maven/no.mnemonic.commons/testtools@0.5.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.lycoriscafe/nexus-http@1.0.0-DEV?classifier=sources
+- pkg:maven/io.github.lycoriscafe/nexus-http@1.0.0?classifier=sources

@@ -146,6 +146,8 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@2.72.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@2.73.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@2.73.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@2.79.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@2.79.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@3.0.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@3.0.0-beta1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@3.0.0-beta1?classifier=sources
@@ -324,6 +326,10 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@3.53.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@3.54.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@3.54.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@3.55.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@3.55.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@3.55.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@3.55.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@3.6.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@3.6.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemanagerproxy@3.7.0

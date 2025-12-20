@@ -28,3 +28,5 @@
 - pkg:maven/com.gccloud/gc-starter-plugins-cache-pubsub-redis-native@2.1.0.2023042801.bugfix.RELEASE?classifier=sources
 - pkg:maven/com.gccloud/gc-starter-plugins-cache-pubsub-redis-native@2.1.0.RELEASE
 - pkg:maven/com.gccloud/gc-starter-plugins-cache-pubsub-redis-native@2.1.0.RELEASE?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-plugins-cache-pubsub-redis-native@2.3.5.RELEASE
+- pkg:maven/com.gccloud/gc-starter-plugins-cache-pubsub-redis-native@2.3.5.RELEASE?classifier=sources

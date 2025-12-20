@@ -25,3 +25,4 @@
 - pkg:maven/com.nordstrom.ui-tools/local-safari-node@2.0.0
 - pkg:maven/com.nordstrom.ui-tools/local-safari-node@2.0.1
 - pkg:maven/com.nordstrom.ui-tools/local-safari-node@2.1.0
+- pkg:maven/com.nordstrom.ui-tools/local-safari-node@2.1.1

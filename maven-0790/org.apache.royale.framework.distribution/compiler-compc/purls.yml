@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.royale.framework.distribution/compiler-compc@0.9.10
 - pkg:maven/org.apache.royale.framework.distribution/compiler-compc@0.9.10?classifier=sources
+- pkg:maven/org.apache.royale.framework.distribution/compiler-compc@0.9.12
+- pkg:maven/org.apache.royale.framework.distribution/compiler-compc@0.9.12?classifier=sources
 - pkg:maven/org.apache.royale.framework.distribution/compiler-compc@0.9.7
 - pkg:maven/org.apache.royale.framework.distribution/compiler-compc@0.9.7?classifier=sources
 - pkg:maven/org.apache.royale.framework.distribution/compiler-compc@0.9.8

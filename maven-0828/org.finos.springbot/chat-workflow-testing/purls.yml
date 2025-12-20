@@ -1,5 +1,7 @@
 - pkg:maven/org.finos.springbot/chat-workflow-testing@10.0.0
 - pkg:maven/org.finos.springbot/chat-workflow-testing@10.0.0?classifier=sources
+- pkg:maven/org.finos.springbot/chat-workflow-testing@10.0.1
+- pkg:maven/org.finos.springbot/chat-workflow-testing@10.0.1?classifier=sources
 - pkg:maven/org.finos.springbot/chat-workflow-testing@9.0.0
 - pkg:maven/org.finos.springbot/chat-workflow-testing@9.0.0.BETA
 - pkg:maven/org.finos.springbot/chat-workflow-testing@9.0.0.BETA2

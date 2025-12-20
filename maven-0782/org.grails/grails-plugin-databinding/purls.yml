@@ -282,3 +282,4 @@
 - pkg:maven/org.grails/grails-plugin-databinding@6.2.0?classifier=sources
 - pkg:maven/org.grails/grails-plugin-databinding@6.2.1?classifier=sources
 - pkg:maven/org.grails/grails-plugin-databinding@6.2.2?classifier=sources
+- pkg:maven/org.grails/grails-plugin-databinding@7.0.0-M1?classifier=sources

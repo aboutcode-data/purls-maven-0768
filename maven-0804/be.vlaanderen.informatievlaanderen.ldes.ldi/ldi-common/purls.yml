@@ -1,0 +1,2 @@
+- pkg:maven/be.vlaanderen.informatievlaanderen.ldes.ldi/ldi-common@2.12.0
+- pkg:maven/be.vlaanderen.informatievlaanderen.ldes.ldi/ldi-common@2.12.0?classifier=sources

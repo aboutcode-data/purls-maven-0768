@@ -12,3 +12,4 @@
 - pkg:maven/com.bennyhuo.kotlin/trimindent-compiler@1.9.10-1.1.0?classifier=sources
 - pkg:maven/com.bennyhuo.kotlin/trimindent-compiler@1.9.20-1.1.0?classifier=sources
 - pkg:maven/com.bennyhuo.kotlin/trimindent-compiler@2.0.0-1.1.0?classifier=sources
+- pkg:maven/com.bennyhuo.kotlin/trimindent-compiler@2.1.0-1.1.0?classifier=sources

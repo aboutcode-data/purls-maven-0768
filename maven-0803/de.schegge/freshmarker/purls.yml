@@ -108,3 +108,5 @@
 - pkg:maven/de.schegge/freshmarker@1.6.7?classifier=sources
 - pkg:maven/de.schegge/freshmarker@1.6.8
 - pkg:maven/de.schegge/freshmarker@1.6.8?classifier=sources
+- pkg:maven/de.schegge/freshmarker@1.6.9
+- pkg:maven/de.schegge/freshmarker@1.6.9?classifier=sources

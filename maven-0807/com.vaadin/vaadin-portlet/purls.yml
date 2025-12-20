@@ -58,3 +58,5 @@
 - pkg:maven/com.vaadin/vaadin-portlet@8.27.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-portlet@8.27.3
 - pkg:maven/com.vaadin/vaadin-portlet@8.27.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-portlet@8.27.4
+- pkg:maven/com.vaadin/vaadin-portlet@8.27.4?classifier=sources

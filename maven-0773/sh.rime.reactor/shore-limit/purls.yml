@@ -25,3 +25,4 @@
 - pkg:maven/sh.rime.reactor/shore-limit@2.1.2?classifier=sources
 - pkg:maven/sh.rime.reactor/shore-limit@2.1.3?classifier=sources
 - pkg:maven/sh.rime.reactor/shore-limit@2.2.0?classifier=sources
+- pkg:maven/sh.rime.reactor/shore-limit@2.2.1?classifier=sources

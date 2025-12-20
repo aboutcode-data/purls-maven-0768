@@ -230,6 +230,8 @@
 - pkg:maven/org.apache.camel/camel-mongodb-gridfs@3.22.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-mongodb-gridfs@3.22.2
 - pkg:maven/org.apache.camel/camel-mongodb-gridfs@3.22.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-mongodb-gridfs@3.22.3
+- pkg:maven/org.apache.camel/camel-mongodb-gridfs@3.22.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-mongodb-gridfs@3.3.0
 - pkg:maven/org.apache.camel/camel-mongodb-gridfs@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-mongodb-gridfs@3.4.0
@@ -320,3 +322,7 @@
 - pkg:maven/org.apache.camel/camel-mongodb-gridfs@4.8.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-mongodb-gridfs@4.8.1
 - pkg:maven/org.apache.camel/camel-mongodb-gridfs@4.8.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-mongodb-gridfs@4.8.2
+- pkg:maven/org.apache.camel/camel-mongodb-gridfs@4.8.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-mongodb-gridfs@4.9.0
+- pkg:maven/org.apache.camel/camel-mongodb-gridfs@4.9.0?classifier=sources

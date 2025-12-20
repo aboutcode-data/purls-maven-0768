@@ -70,3 +70,7 @@
 - pkg:maven/io.github.srcimon/screwbox-tiled@2.6.0?classifier=sources
 - pkg:maven/io.github.srcimon/screwbox-tiled@2.7.0
 - pkg:maven/io.github.srcimon/screwbox-tiled@2.7.0?classifier=sources
+- pkg:maven/io.github.srcimon/screwbox-tiled@2.8.0
+- pkg:maven/io.github.srcimon/screwbox-tiled@2.8.0?classifier=sources
+- pkg:maven/io.github.srcimon/screwbox-tiled@2.9.0
+- pkg:maven/io.github.srcimon/screwbox-tiled@2.9.0?classifier=sources

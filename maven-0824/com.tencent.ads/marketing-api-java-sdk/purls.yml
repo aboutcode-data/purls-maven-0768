@@ -148,6 +148,12 @@
 - pkg:maven/com.tencent.ads/marketing-api-java-sdk@1.1.86?classifier=sources
 - pkg:maven/com.tencent.ads/marketing-api-java-sdk@1.1.87
 - pkg:maven/com.tencent.ads/marketing-api-java-sdk@1.1.87?classifier=sources
+- pkg:maven/com.tencent.ads/marketing-api-java-sdk@1.1.88
+- pkg:maven/com.tencent.ads/marketing-api-java-sdk@1.1.88?classifier=sources
+- pkg:maven/com.tencent.ads/marketing-api-java-sdk@1.1.89
+- pkg:maven/com.tencent.ads/marketing-api-java-sdk@1.1.89?classifier=sources
 - pkg:maven/com.tencent.ads/marketing-api-java-sdk@1.1.8?classifier=sources
 - pkg:maven/com.tencent.ads/marketing-api-java-sdk@1.1.9
+- pkg:maven/com.tencent.ads/marketing-api-java-sdk@1.1.90
+- pkg:maven/com.tencent.ads/marketing-api-java-sdk@1.1.90?classifier=sources
 - pkg:maven/com.tencent.ads/marketing-api-java-sdk@1.1.9?classifier=sources

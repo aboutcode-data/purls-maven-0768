@@ -3,4 +3,5 @@
 - pkg:maven/org.web3j/web3j-openapi-core@4.11.1?classifier=sources
 - pkg:maven/org.web3j/web3j-openapi-core@4.11.2?classifier=sources
 - pkg:maven/org.web3j/web3j-openapi-core@4.12.2?classifier=sources
+- pkg:maven/org.web3j/web3j-openapi-core@4.12.3?classifier=sources
 - pkg:maven/org.web3j/web3j-openapi-core@4.9.4?classifier=sources

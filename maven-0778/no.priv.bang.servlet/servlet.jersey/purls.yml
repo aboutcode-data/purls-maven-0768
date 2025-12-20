@@ -62,3 +62,5 @@
 - pkg:maven/no.priv.bang.servlet/servlet.jersey@1.7.0?classifier=sources
 - pkg:maven/no.priv.bang.servlet/servlet.jersey@1.8.0
 - pkg:maven/no.priv.bang.servlet/servlet.jersey@1.8.0?classifier=sources
+- pkg:maven/no.priv.bang.servlet/servlet.jersey@1.8.1
+- pkg:maven/no.priv.bang.servlet/servlet.jersey@1.8.1?classifier=sources

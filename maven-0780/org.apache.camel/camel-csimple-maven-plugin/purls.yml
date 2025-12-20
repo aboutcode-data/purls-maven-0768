@@ -106,6 +106,8 @@
 - pkg:maven/org.apache.camel/camel-csimple-maven-plugin@3.22.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-csimple-maven-plugin@3.22.2
 - pkg:maven/org.apache.camel/camel-csimple-maven-plugin@3.22.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-csimple-maven-plugin@3.22.3
+- pkg:maven/org.apache.camel/camel-csimple-maven-plugin@3.22.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-csimple-maven-plugin@3.7.0
 - pkg:maven/org.apache.camel/camel-csimple-maven-plugin@3.7.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-csimple-maven-plugin@3.7.1
@@ -176,3 +178,7 @@
 - pkg:maven/org.apache.camel/camel-csimple-maven-plugin@4.8.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-csimple-maven-plugin@4.8.1
 - pkg:maven/org.apache.camel/camel-csimple-maven-plugin@4.8.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-csimple-maven-plugin@4.8.2
+- pkg:maven/org.apache.camel/camel-csimple-maven-plugin@4.8.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-csimple-maven-plugin@4.9.0
+- pkg:maven/org.apache.camel/camel-csimple-maven-plugin@4.9.0?classifier=sources

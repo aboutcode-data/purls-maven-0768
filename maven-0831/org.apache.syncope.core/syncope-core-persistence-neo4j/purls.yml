@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.syncope.core/syncope-core-persistence-neo4j@4.0.0-M0
+- pkg:maven/org.apache.syncope.core/syncope-core-persistence-neo4j@4.0.0-M0?classifier=sources

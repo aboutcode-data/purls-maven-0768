@@ -1,0 +1,2 @@
+- pkg:maven/ru.thisistails.tailslib/tailslib@1.6-alpha?classifier=sources
+- pkg:maven/ru.thisistails.tailslib/tailslib@1.7-alpha?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.begcode/captcha-spring-boot-starter@8.6.2
 - pkg:maven/com.begcode/captcha-spring-boot-starter@8.6.2?classifier=sources
+- pkg:maven/com.begcode/captcha-spring-boot-starter@8.6.3
+- pkg:maven/com.begcode/captcha-spring-boot-starter@8.6.3?classifier=sources

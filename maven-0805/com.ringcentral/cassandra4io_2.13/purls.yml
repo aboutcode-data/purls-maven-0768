@@ -18,6 +18,12 @@
 - pkg:maven/com.ringcentral/cassandra4io_2.13@0.1.19.1?classifier=sources
 - pkg:maven/com.ringcentral/cassandra4io_2.13@0.1.19.2
 - pkg:maven/com.ringcentral/cassandra4io_2.13@0.1.19.2?classifier=sources
+- pkg:maven/com.ringcentral/cassandra4io_2.13@0.1.20
+- pkg:maven/com.ringcentral/cassandra4io_2.13@0.1.20.1
+- pkg:maven/com.ringcentral/cassandra4io_2.13@0.1.20.1?classifier=sources
+- pkg:maven/com.ringcentral/cassandra4io_2.13@0.1.20.2
+- pkg:maven/com.ringcentral/cassandra4io_2.13@0.1.20.2?classifier=sources
+- pkg:maven/com.ringcentral/cassandra4io_2.13@0.1.20?classifier=sources
 - pkg:maven/com.ringcentral/cassandra4io_2.13@0.1.5
 - pkg:maven/com.ringcentral/cassandra4io_2.13@0.1.5?classifier=sources
 - pkg:maven/com.ringcentral/cassandra4io_2.13@0.1.6

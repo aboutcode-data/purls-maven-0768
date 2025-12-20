@@ -1,1 +1,2 @@
 - pkg:maven/io.matthewnelson.kmp-tor/resource-lib-tor@408.12.0?classifier=sources
+- pkg:maven/io.matthewnelson.kmp-tor/resource-lib-tor@408.13.0?classifier=sources

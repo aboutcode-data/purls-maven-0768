@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ejbrefactoring@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ejbrefactoring@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ejbrefactoring@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ejbrefactoring@RELEASE240?classifier=sources

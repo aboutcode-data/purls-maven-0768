@@ -12,3 +12,7 @@
 - pkg:maven/io.trino/trino-filesystem-alluxio@465?classifier=sources
 - pkg:maven/io.trino/trino-filesystem-alluxio@466
 - pkg:maven/io.trino/trino-filesystem-alluxio@466?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-alluxio@467
+- pkg:maven/io.trino/trino-filesystem-alluxio@467?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-alluxio@468
+- pkg:maven/io.trino/trino-filesystem-alluxio@468?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.ikasan.studio/ikasan-studio-extension@1.0.0
+- pkg:maven/org.ikasan.studio/ikasan-studio-extension@1.0.0?classifier=sources
+- pkg:maven/org.ikasan.studio/ikasan-studio-extension@1.0.1
+- pkg:maven/org.ikasan.studio/ikasan-studio-extension@1.0.1?classifier=sources

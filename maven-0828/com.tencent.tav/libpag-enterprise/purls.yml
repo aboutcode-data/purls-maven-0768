@@ -294,6 +294,9 @@
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.4.15-movie?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.4.15-noffavc?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.4.15?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.4.20-movie?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.4.20-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag-enterprise@4.4.20?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.4.8-movie?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.4.8-noffavc?classifier=sources
 - pkg:maven/com.tencent.tav/libpag-enterprise@4.4.8?classifier=sources

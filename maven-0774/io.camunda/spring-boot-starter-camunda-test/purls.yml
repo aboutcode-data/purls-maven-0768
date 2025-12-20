@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.7-rc1
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.7-rc1?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.solace.connector.core.plugin/build-resource-processor-maven-plugin@2.10.8?classifier=sources
 - pkg:maven/com.solace.connector.core.plugin/build-resource-processor-maven-plugin@2.11.0
 - pkg:maven/com.solace.connector.core.plugin/build-resource-processor-maven-plugin@2.11.0?classifier=sources
+- pkg:maven/com.solace.connector.core.plugin/build-resource-processor-maven-plugin@2.11.1
+- pkg:maven/com.solace.connector.core.plugin/build-resource-processor-maven-plugin@2.11.1?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/dev.soundness/exoskeleton-args@0.21.0?classifier=sources
 - pkg:maven/dev.soundness/exoskeleton-args@0.22.0
 - pkg:maven/dev.soundness/exoskeleton-args@0.22.0?classifier=sources
+- pkg:maven/dev.soundness/exoskeleton-args@0.23.0
+- pkg:maven/dev.soundness/exoskeleton-args@0.23.0?classifier=sources
+- pkg:maven/dev.soundness/exoskeleton-args@0.24.0
+- pkg:maven/dev.soundness/exoskeleton-args@0.24.0?classifier=sources

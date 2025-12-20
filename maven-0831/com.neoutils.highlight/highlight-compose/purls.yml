@@ -11,6 +11,11 @@
 - pkg:maven/com.neoutils.highlight/highlight-compose@2.2.0-rc2?classifier=sources
 - pkg:maven/com.neoutils.highlight/highlight-compose@2.2.0?classifier=sources
 - pkg:maven/com.neoutils.highlight/highlight-compose@2.3.0-snapshot10?classifier=sources
+- pkg:maven/com.neoutils.highlight/highlight-compose@2.3.0-snapshot12?classifier=sources
+- pkg:maven/com.neoutils.highlight/highlight-compose@2.3.0-snapshot13?classifier=sources
+- pkg:maven/com.neoutils.highlight/highlight-compose@2.3.0-snapshot14?classifier=sources
+- pkg:maven/com.neoutils.highlight/highlight-compose@2.3.0-snapshot15?classifier=sources
+- pkg:maven/com.neoutils.highlight/highlight-compose@2.3.0-snapshot16?classifier=sources
 - pkg:maven/com.neoutils.highlight/highlight-compose@2.3.0-snapshot1?classifier=sources
 - pkg:maven/com.neoutils.highlight/highlight-compose@2.3.0-snapshot2?classifier=sources
 - pkg:maven/com.neoutils.highlight/highlight-compose@2.3.0-snapshot3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.flowcentraltech.flowcentral/flowcentral-integration-rest@4.0.1
+- pkg:maven/com.flowcentraltech.flowcentral/flowcentral-integration-rest@4.0.1?classifier=sources

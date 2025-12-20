@@ -1,0 +1,6 @@
+- pkg:maven/uk.co.unclealex/mongodb-scala-test_3@4.0.0
+- pkg:maven/uk.co.unclealex/mongodb-scala-test_3@4.0.0?classifier=sources
+- pkg:maven/uk.co.unclealex/mongodb-scala-test_3@4.0.1
+- pkg:maven/uk.co.unclealex/mongodb-scala-test_3@4.0.1?classifier=sources
+- pkg:maven/uk.co.unclealex/mongodb-scala-test_3@4.0.2
+- pkg:maven/uk.co.unclealex/mongodb-scala-test_3@4.0.2?classifier=sources

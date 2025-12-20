@@ -1,0 +1,2 @@
+- pkg:maven/tech.dev-scion/canvaspainter-iosx64@1.1.0?classifier=sources
+- pkg:maven/tech.dev-scion/canvaspainter-iosx64@1.1.1?classifier=sources

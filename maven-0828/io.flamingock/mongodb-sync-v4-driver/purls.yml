@@ -5,3 +5,17 @@
 - pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.14-beta?classifier=sources
 - pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.15-beta?classifier=sources
 - pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.16-beta?classifier=sources
+- pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.17-beta?classifier=sources
+- pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.18-beta?classifier=sources
+- pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.19-beta?classifier=sources
+- pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.20-beta?classifier=sources
+- pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.21-beta?classifier=sources
+- pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.22-beta?classifier=sources
+- pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.23-beta?classifier=sources
+- pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.24-beta?classifier=sources
+- pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.25-beta?classifier=sources
+- pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.26-beta?classifier=sources
+- pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.27-beta?classifier=sources
+- pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.28-beta?classifier=sources
+- pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.29-beta?classifier=sources
+- pkg:maven/io.flamingock/mongodb-sync-v4-driver@0.0.30-beta?classifier=sources

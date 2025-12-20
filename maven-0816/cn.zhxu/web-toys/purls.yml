@@ -34,3 +34,17 @@
 - pkg:maven/cn.zhxu/web-toys@0.3.1.sb2jdk8
 - pkg:maven/cn.zhxu/web-toys@0.3.1.sb2jdk8?classifier=sources
 - pkg:maven/cn.zhxu/web-toys@0.3.1?classifier=sources
+- pkg:maven/cn.zhxu/web-toys@0.3.2
+- pkg:maven/cn.zhxu/web-toys@0.3.2.sb2jdk8
+- pkg:maven/cn.zhxu/web-toys@0.3.2.sb2jdk8?classifier=sources
+- pkg:maven/cn.zhxu/web-toys@0.3.2?classifier=sources
+- pkg:maven/cn.zhxu/web-toys@0.3.3
+- pkg:maven/cn.zhxu/web-toys@0.3.3?classifier=sources
+- pkg:maven/cn.zhxu/web-toys@0.3.4
+- pkg:maven/cn.zhxu/web-toys@0.3.4.sb2jdk8
+- pkg:maven/cn.zhxu/web-toys@0.3.4.sb2jdk8?classifier=sources
+- pkg:maven/cn.zhxu/web-toys@0.3.4?classifier=sources
+- pkg:maven/cn.zhxu/web-toys@0.3.5
+- pkg:maven/cn.zhxu/web-toys@0.3.5.sb2jdk8
+- pkg:maven/cn.zhxu/web-toys@0.3.5.sb2jdk8?classifier=sources
+- pkg:maven/cn.zhxu/web-toys@0.3.5?classifier=sources

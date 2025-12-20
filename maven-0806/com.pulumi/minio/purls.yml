@@ -157,6 +157,7 @@
 - pkg:maven/com.pulumi/minio@0.16.0-alpha.1723136009?classifier=sources
 - pkg:maven/com.pulumi/minio@0.16.0?classifier=sources
 - pkg:maven/com.pulumi/minio@0.16.1?classifier=sources
+- pkg:maven/com.pulumi/minio@0.16.2?classifier=sources
 - pkg:maven/com.pulumi/minio@0.17.0-alpha.1723819857?classifier=sources
 - pkg:maven/com.pulumi/minio@0.17.0-alpha.1724478300?classifier=sources
 - pkg:maven/com.pulumi/minio@0.17.0-alpha.1724910545?classifier=sources

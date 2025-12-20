@@ -1,2 +1,6 @@
+- pkg:maven/io.camunda.migration/migration-api@8.7.0-alpha2
 - pkg:maven/io.camunda.migration/migration-api@8.7.0-alpha2-rc1
 - pkg:maven/io.camunda.migration/migration-api@8.7.0-alpha2-rc1?classifier=sources
+- pkg:maven/io.camunda.migration/migration-api@8.7.0-alpha2?classifier=sources
+- pkg:maven/io.camunda.migration/migration-api@8.7.0-alpha3-rc1
+- pkg:maven/io.camunda.migration/migration-api@8.7.0-alpha3-rc1?classifier=sources

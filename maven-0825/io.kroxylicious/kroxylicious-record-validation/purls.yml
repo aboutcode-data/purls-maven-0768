@@ -12,3 +12,5 @@
 - pkg:maven/io.kroxylicious/kroxylicious-record-validation@0.7.0?classifier=sources
 - pkg:maven/io.kroxylicious/kroxylicious-record-validation@0.8.0
 - pkg:maven/io.kroxylicious/kroxylicious-record-validation@0.8.0?classifier=sources
+- pkg:maven/io.kroxylicious/kroxylicious-record-validation@0.9.0
+- pkg:maven/io.kroxylicious/kroxylicious-record-validation@0.9.0?classifier=sources

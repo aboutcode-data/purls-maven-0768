@@ -1,1 +1,2 @@
 - pkg:maven/io.qtjambi/qtjambi-graphswidgets@6.8.0?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-graphswidgets@6.8.1?classifier=sources

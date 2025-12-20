@@ -14,3 +14,5 @@
 - pkg:maven/cn.schoolwow/QuickWorkFlow@1.0.6?classifier=sources
 - pkg:maven/cn.schoolwow/QuickWorkFlow@1.0.7
 - pkg:maven/cn.schoolwow/QuickWorkFlow@1.0.7?classifier=sources
+- pkg:maven/cn.schoolwow/QuickWorkFlow@1.1.0
+- pkg:maven/cn.schoolwow/QuickWorkFlow@1.1.0?classifier=sources

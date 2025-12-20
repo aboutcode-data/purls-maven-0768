@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect.aws/backupsearch@871.2.29.39
+- pkg:maven/com.cognitect.aws/backupsearch@871.2.29.39?classifier=sources

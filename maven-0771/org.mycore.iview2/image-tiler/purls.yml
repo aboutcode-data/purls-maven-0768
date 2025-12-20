@@ -16,3 +16,5 @@
 - pkg:maven/org.mycore.iview2/image-tiler@3.1?classifier=sources
 - pkg:maven/org.mycore.iview2/image-tiler@4.0
 - pkg:maven/org.mycore.iview2/image-tiler@4.0?classifier=sources
+- pkg:maven/org.mycore.iview2/image-tiler@4.1
+- pkg:maven/org.mycore.iview2/image-tiler@4.1?classifier=sources

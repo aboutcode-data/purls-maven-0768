@@ -1,0 +1,3 @@
+- pkg:maven/org.openani.mediamp/mediamp-api@0.0.4?classifier=sources
+- pkg:maven/org.openani.mediamp/mediamp-api@0.0.6?classifier=sources
+- pkg:maven/org.openani.mediamp/mediamp-api@0.1.0-dev-1?classifier=sources

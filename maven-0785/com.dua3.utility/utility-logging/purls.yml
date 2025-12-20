@@ -80,4 +80,9 @@
 - pkg:maven/com.dua3.utility/utility-logging@14-rc-2?classifier=sources
 - pkg:maven/com.dua3.utility/utility-logging@14.0-BETA-1?classifier=sources
 - pkg:maven/com.dua3.utility/utility-logging@14.0.1?classifier=sources
+- pkg:maven/com.dua3.utility/utility-logging@14.1.0?classifier=sources
 - pkg:maven/com.dua3.utility/utility-logging@14?classifier=sources
+- pkg:maven/com.dua3.utility/utility-logging@15.0.0?classifier=sources
+- pkg:maven/com.dua3.utility/utility-logging@15.0.1?classifier=sources
+- pkg:maven/com.dua3.utility/utility-logging@15.0.2?classifier=sources
+- pkg:maven/com.dua3.utility/utility-logging@15.1.0-rc?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.meta.spatial/meta-spatial-sdk-compose@0.5.3?classifier=sources
+- pkg:maven/com.meta.spatial/meta-spatial-sdk-compose@0.5.3?type=aar

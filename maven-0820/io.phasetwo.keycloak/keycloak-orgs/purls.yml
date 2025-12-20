@@ -151,6 +151,10 @@
 - pkg:maven/io.phasetwo.keycloak/keycloak-orgs@0.79?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-orgs@0.7?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-orgs@0.8
+- pkg:maven/io.phasetwo.keycloak/keycloak-orgs@0.80
+- pkg:maven/io.phasetwo.keycloak/keycloak-orgs@0.80?classifier=sources
+- pkg:maven/io.phasetwo.keycloak/keycloak-orgs@0.81
+- pkg:maven/io.phasetwo.keycloak/keycloak-orgs@0.81?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-orgs@0.8?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-orgs@0.9
 - pkg:maven/io.phasetwo.keycloak/keycloak-orgs@0.9?classifier=sources

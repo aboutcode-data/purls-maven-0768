@@ -24,3 +24,13 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-common-tmd@0.126.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-common-tmd@0.127.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-common-tmd@0.127.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-common-tmd@0.128.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-common-tmd@0.128.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-common-tmd@0.129.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-common-tmd@0.129.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-common-tmd@0.130.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-common-tmd@0.130.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-common-tmd@0.131.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-common-tmd@0.131.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-common-tmd@0.132.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-common-tmd@0.132.0?classifier=sources

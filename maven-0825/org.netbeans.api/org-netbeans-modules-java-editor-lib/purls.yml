@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-editor-lib@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-editor-lib@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-editor-lib@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-java-editor-lib@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-editor-lib@RELEASE90?classifier=sources

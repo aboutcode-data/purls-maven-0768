@@ -1,3 +1,4 @@
 - pkg:maven/dev.galasa/dev.galasa.vtp.manager@0.20.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.vtp.manager@0.21.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.vtp.manager@0.25.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.vtp.manager@0.38.0?classifier=sources

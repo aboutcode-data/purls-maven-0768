@@ -77,6 +77,8 @@
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-milvus-deployment@0.22.0.CR1?classifier=sources
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-milvus-deployment@0.22.0.CR2?classifier=sources
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-milvus-deployment@0.22.0?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-milvus-deployment@0.23.0.CR1?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-milvus-deployment@0.23.0.CR2?classifier=sources
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-milvus-deployment@0.5.0
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-milvus-deployment@0.5.0?classifier=sources
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-milvus-deployment@0.5.1

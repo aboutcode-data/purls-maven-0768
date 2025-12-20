@@ -1,4 +1,11 @@
+- pkg:maven/io.dyuti/dropwizard-healthcheck-extras@2.1.12-10?classifier=sources
 - pkg:maven/io.dyuti/dropwizard-healthcheck-extras@2.1.12-1?classifier=sources
 - pkg:maven/io.dyuti/dropwizard-healthcheck-extras@2.1.12-2?classifier=sources
 - pkg:maven/io.dyuti/dropwizard-healthcheck-extras@2.1.12-3?classifier=sources
 - pkg:maven/io.dyuti/dropwizard-healthcheck-extras@2.1.12-4?classifier=sources
+- pkg:maven/io.dyuti/dropwizard-healthcheck-extras@2.1.12-6?classifier=sources
+- pkg:maven/io.dyuti/dropwizard-healthcheck-extras@2.1.12-7?classifier=sources
+- pkg:maven/io.dyuti/dropwizard-healthcheck-extras@2.1.12-8?classifier=sources
+- pkg:maven/io.dyuti/dropwizard-healthcheck-extras@2.1.12-9?classifier=sources
+- pkg:maven/io.dyuti/dropwizard-healthcheck-extras@3.0.11-2?classifier=sources
+- pkg:maven/io.dyuti/dropwizard-healthcheck-extras@4.0.11-2?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/cz.smarteon.loxone/loxone-client-kotlin-jvm@0.3.0?classifier=sources
 - pkg:maven/cz.smarteon.loxone/loxone-client-kotlin-jvm@0.4.0?classifier=sources
 - pkg:maven/cz.smarteon.loxone/loxone-client-kotlin-jvm@0.4.1?classifier=sources
+- pkg:maven/cz.smarteon.loxone/loxone-client-kotlin-jvm@0.5.0?classifier=sources
+- pkg:maven/cz.smarteon.loxone/loxone-client-kotlin-jvm@0.5.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.matthewnelson.kmp-tor/resource-noexec-tor-gpl-iosarm64@408.12.0?classifier=sources
+- pkg:maven/io.matthewnelson.kmp-tor/resource-noexec-tor-gpl-iosarm64@408.13.0?classifier=sources

@@ -51,8 +51,12 @@
 - pkg:maven/com.yandex.div/picasso@30.26.0?classifier=sources
 - pkg:maven/com.yandex.div/picasso@30.27.0?classifier=sources
 - pkg:maven/com.yandex.div/picasso@30.28.0?classifier=sources
+- pkg:maven/com.yandex.div/picasso@30.29.0?classifier=sources
 - pkg:maven/com.yandex.div/picasso@30.3.0?classifier=sources
 - pkg:maven/com.yandex.div/picasso@30.3.1?classifier=sources
+- pkg:maven/com.yandex.div/picasso@30.30.0?classifier=sources
+- pkg:maven/com.yandex.div/picasso@30.31.0?classifier=sources
+- pkg:maven/com.yandex.div/picasso@30.32.0?classifier=sources
 - pkg:maven/com.yandex.div/picasso@30.4.0?classifier=sources
 - pkg:maven/com.yandex.div/picasso@30.5.0?classifier=sources
 - pkg:maven/com.yandex.div/picasso@30.6.0?classifier=sources

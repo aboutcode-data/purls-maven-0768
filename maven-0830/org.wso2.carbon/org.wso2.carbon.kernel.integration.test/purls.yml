@@ -12,6 +12,7 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.kernel.integration.test@4.10.22
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.kernel.integration.test@4.10.22?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.kernel.integration.test@4.10.2?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.kernel.integration.test@4.10.31
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.kernel.integration.test@4.4.19
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.kernel.integration.test@4.4.19?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.kernel.integration.test@4.4.20

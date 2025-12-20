@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.graphql.dgs/dgs-starter@10.0.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/dgs-starter@10.0.1?classifier=sources

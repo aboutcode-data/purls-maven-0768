@@ -9,3 +9,6 @@
 - pkg:maven/com.dua3.meja/meja-ui@6-rc-2?classifier=sources
 - pkg:maven/com.dua3.meja/meja-ui@6-rc?classifier=sources
 - pkg:maven/com.dua3.meja/meja-ui@6.0.0?classifier=sources
+- pkg:maven/com.dua3.meja/meja-ui@6.1.0?classifier=sources
+- pkg:maven/com.dua3.meja/meja-ui@6.2.0?classifier=sources
+- pkg:maven/com.dua3.meja/meja-ui@6.2.1?classifier=sources

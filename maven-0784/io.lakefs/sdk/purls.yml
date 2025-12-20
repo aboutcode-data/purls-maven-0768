@@ -92,6 +92,12 @@
 - pkg:maven/io.lakefs/sdk@1.42.0?classifier=sources
 - pkg:maven/io.lakefs/sdk@1.43.0
 - pkg:maven/io.lakefs/sdk@1.43.0?classifier=sources
+- pkg:maven/io.lakefs/sdk@1.44.0
+- pkg:maven/io.lakefs/sdk@1.44.0?classifier=sources
+- pkg:maven/io.lakefs/sdk@1.45.0
+- pkg:maven/io.lakefs/sdk@1.45.0?classifier=sources
+- pkg:maven/io.lakefs/sdk@1.46.0
+- pkg:maven/io.lakefs/sdk@1.46.0?classifier=sources
 - pkg:maven/io.lakefs/sdk@1.6.0
 - pkg:maven/io.lakefs/sdk@1.6.0?classifier=sources
 - pkg:maven/io.lakefs/sdk@1.7.0

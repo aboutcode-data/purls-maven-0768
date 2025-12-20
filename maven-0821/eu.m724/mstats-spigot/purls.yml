@@ -1,0 +1,2 @@
+- pkg:maven/eu.m724/mstats-spigot@0.0.0?classifier=sources
+- pkg:maven/eu.m724/mstats-spigot@0.1.0?classifier=sources

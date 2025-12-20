@@ -1,0 +1,2 @@
+- pkg:maven/org.opendcs.testing/gradle-plugin@1.0.0-M10?classifier=sources
+- pkg:maven/org.opendcs.testing/gradle-plugin@1.0.0-M11?classifier=sources

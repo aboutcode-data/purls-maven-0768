@@ -3,3 +3,4 @@
 - pkg:maven/io.github.5gene/ksp-poe@0.0.3?classifier=sources
 - pkg:maven/io.github.5gene/ksp-poe@0.0.4?classifier=sources
 - pkg:maven/io.github.5gene/ksp-poe@1.0?classifier=sources
+- pkg:maven/io.github.5gene/ksp-poe@1.1?classifier=sources

@@ -3,6 +3,9 @@
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.100.2?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.100.3?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.101.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.101.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.101.2?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.101.3?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.72.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.72.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.72.2?classifier=sources

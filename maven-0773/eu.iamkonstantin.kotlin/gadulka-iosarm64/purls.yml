@@ -1,2 +1,6 @@
 - pkg:maven/eu.iamkonstantin.kotlin/gadulka-iosarm64@1.1.0?classifier=sources
 - pkg:maven/eu.iamkonstantin.kotlin/gadulka-iosarm64@1.3.0?classifier=sources
+- pkg:maven/eu.iamkonstantin.kotlin/gadulka-iosarm64@1.4.0?classifier=sources
+- pkg:maven/eu.iamkonstantin.kotlin/gadulka-iosarm64@1.4.1?classifier=sources
+- pkg:maven/eu.iamkonstantin.kotlin/gadulka-iosarm64@1.4.2?classifier=sources
+- pkg:maven/eu.iamkonstantin.kotlin/gadulka-iosarm64@1.4.3?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/me.ahoo.cosky/cosky-test@4.4.3?classifier=sources
 - pkg:maven/me.ahoo.cosky/cosky-test@4.4.4?classifier=sources
 - pkg:maven/me.ahoo.cosky/cosky-test@4.5.0?classifier=sources
+- pkg:maven/me.ahoo.cosky/cosky-test@4.6.0?classifier=sources
+- pkg:maven/me.ahoo.cosky/cosky-test@4.6.1?classifier=sources

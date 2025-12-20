@@ -155,3 +155,4 @@
 - pkg:maven/com.pulumi/archive@0.3.0-alpha.1732597911?classifier=sources
 - pkg:maven/com.pulumi/archive@0.3.0-alpha.1732684242?classifier=sources
 - pkg:maven/com.pulumi/archive@0.3.0-alpha.1732770649?classifier=sources
+- pkg:maven/com.pulumi/archive@0.3.0?classifier=sources

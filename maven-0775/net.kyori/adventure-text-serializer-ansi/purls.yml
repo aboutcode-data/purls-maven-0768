@@ -2,3 +2,4 @@
 - pkg:maven/net.kyori/adventure-text-serializer-ansi@4.15.0?classifier=sources
 - pkg:maven/net.kyori/adventure-text-serializer-ansi@4.16.0?classifier=sources
 - pkg:maven/net.kyori/adventure-text-serializer-ansi@4.17.0?classifier=sources
+- pkg:maven/net.kyori/adventure-text-serializer-ansi@4.18.0?classifier=sources
