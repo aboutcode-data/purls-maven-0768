@@ -60,6 +60,7 @@
 - pkg:maven/org.vibur/vibur-dbcp@24.0?classifier=sources
 - pkg:maven/org.vibur/vibur-dbcp@25.0
 - pkg:maven/org.vibur/vibur-dbcp@25.0?classifier=sources
+- pkg:maven/org.vibur/vibur-dbcp@26.0?classifier=sources
 - pkg:maven/org.vibur/vibur-dbcp@3.0
 - pkg:maven/org.vibur/vibur-dbcp@3.0?classifier=sources
 - pkg:maven/org.vibur/vibur-dbcp@4.0

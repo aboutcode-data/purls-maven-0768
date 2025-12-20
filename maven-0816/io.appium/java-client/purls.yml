@@ -124,3 +124,4 @@
 - pkg:maven/io.appium/java-client@9.2.2?classifier=sources
 - pkg:maven/io.appium/java-client@9.2.3?classifier=sources
 - pkg:maven/io.appium/java-client@9.3.0?classifier=sources
+- pkg:maven/io.appium/java-client@9.4.0?classifier=sources

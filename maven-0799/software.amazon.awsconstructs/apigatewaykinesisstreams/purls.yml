@@ -428,6 +428,8 @@
 - pkg:maven/software.amazon.awsconstructs/apigatewaykinesisstreams@2.75.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/apigatewaykinesisstreams@2.76.0
 - pkg:maven/software.amazon.awsconstructs/apigatewaykinesisstreams@2.76.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/apigatewaykinesisstreams@2.77.0
+- pkg:maven/software.amazon.awsconstructs/apigatewaykinesisstreams@2.77.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/apigatewaykinesisstreams@2.8.0
 - pkg:maven/software.amazon.awsconstructs/apigatewaykinesisstreams@2.8.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/apigatewaykinesisstreams@2.9.0

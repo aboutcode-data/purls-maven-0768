@@ -26,3 +26,5 @@
 - pkg:maven/de.sonallux.spotify/spotify-web-api-java-generator@4.2.0?classifier=sources
 - pkg:maven/de.sonallux.spotify/spotify-web-api-java-generator@4.3.0
 - pkg:maven/de.sonallux.spotify/spotify-web-api-java-generator@4.3.0?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-java-generator@4.3.1
+- pkg:maven/de.sonallux.spotify/spotify-web-api-java-generator@4.3.1?classifier=sources

@@ -30,3 +30,6 @@
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-painter-jvm@1.36.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-painter-jvm@1.37.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-painter-jvm@1.38.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-painter-jvm@1.39.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-painter-jvm@1.40.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-painter-jvm@1.40.1?classifier=sources

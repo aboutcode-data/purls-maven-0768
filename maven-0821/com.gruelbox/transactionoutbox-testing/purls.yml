@@ -2,3 +2,7 @@
 - pkg:maven/com.gruelbox/transactionoutbox-testing@5.4.421?classifier=sources
 - pkg:maven/com.gruelbox/transactionoutbox-testing@5.5.447
 - pkg:maven/com.gruelbox/transactionoutbox-testing@5.5.447?classifier=sources
+- pkg:maven/com.gruelbox/transactionoutbox-testing@6.0.535
+- pkg:maven/com.gruelbox/transactionoutbox-testing@6.0.535?classifier=sources
+- pkg:maven/com.gruelbox/transactionoutbox-testing@6.0.553
+- pkg:maven/com.gruelbox/transactionoutbox-testing@6.0.553?classifier=sources

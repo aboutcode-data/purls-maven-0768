@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/types__type-is@1.6.3
 - pkg:maven/org.webjars.npm/types__type-is@1.6.3?classifier=sources
+- pkg:maven/org.webjars.npm/types__type-is@1.6.6

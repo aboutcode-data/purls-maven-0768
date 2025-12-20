@@ -1,2 +1,4 @@
 - pkg:maven/de.killaitis/peloton-persistence-mysqll_3@0.4.4
 - pkg:maven/de.killaitis/peloton-persistence-mysqll_3@0.4.4?classifier=sources
+- pkg:maven/de.killaitis/peloton-persistence-mysqll_3@0.4.5
+- pkg:maven/de.killaitis/peloton-persistence-mysqll_3@0.4.5?classifier=sources

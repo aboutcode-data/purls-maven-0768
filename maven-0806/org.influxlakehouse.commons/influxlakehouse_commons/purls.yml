@@ -1,3 +1,4 @@
 - pkg:maven/org.influxlakehouse.commons/influxlakehouse_commons@1.0.0?classifier=sources
 - pkg:maven/org.influxlakehouse.commons/influxlakehouse_commons@1.1.0?classifier=sources
 - pkg:maven/org.influxlakehouse.commons/influxlakehouse_commons@1.1.1?classifier=sources
+- pkg:maven/org.influxlakehouse.commons/influxlakehouse_commons@1.1.2?classifier=sources

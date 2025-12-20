@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-netserver@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-netserver@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-netserver@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-netserver@RELEASE250?classifier=sources

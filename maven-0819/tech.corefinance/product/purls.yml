@@ -1,2 +1,4 @@
+- pkg:maven/tech.corefinance/product@0.0.18?classifier=sources
+- pkg:maven/tech.corefinance/product@0.0.19?classifier=sources
 - pkg:maven/tech.corefinance/product@0.0.3?classifier=sources
 - pkg:maven/tech.corefinance/product@0.0.4?classifier=sources

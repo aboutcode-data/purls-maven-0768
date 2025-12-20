@@ -70,3 +70,6 @@
 - pkg:maven/com.capacitorjs/core@6.1.2?classifier=sources
 - pkg:maven/com.capacitorjs/core@6.2.0?classifier=sources
 - pkg:maven/com.capacitorjs/core@7.0.0-rc.0?classifier=sources
+- pkg:maven/com.capacitorjs/core@7.0.0-rc.1?classifier=sources
+- pkg:maven/com.capacitorjs/core@7.0.0?classifier=sources
+- pkg:maven/com.capacitorjs/core@7.0.1?classifier=sources

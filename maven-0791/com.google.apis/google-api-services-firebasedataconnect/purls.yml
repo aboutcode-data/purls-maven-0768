@@ -6,3 +6,5 @@
 - pkg:maven/com.google.apis/google-api-services-firebasedataconnect@v1beta-rev20241108-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebasedataconnect@v1beta-rev20241208-2.0.0
 - pkg:maven/com.google.apis/google-api-services-firebasedataconnect@v1beta-rev20241208-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebasedataconnect@v1beta-rev20250105-2.0.0
+- pkg:maven/com.google.apis/google-api-services-firebasedataconnect@v1beta-rev20250105-2.0.0?classifier=sources

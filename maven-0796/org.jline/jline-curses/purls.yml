@@ -1,3 +1,4 @@
 - pkg:maven/org.jline/jline-curses@3.27.0?classifier=sources
 - pkg:maven/org.jline/jline-curses@3.27.1?classifier=sources
 - pkg:maven/org.jline/jline-curses@3.28.0?classifier=sources
+- pkg:maven/org.jline/jline-curses@3.29.0?classifier=sources

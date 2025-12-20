@@ -1,0 +1,2 @@
+- pkg:maven/com.blazebit/blaze-notify-template-thymeleaf@1.0.0-Alpha6
+- pkg:maven/com.blazebit/blaze-notify-template-thymeleaf@1.0.0-Alpha6?classifier=sources

@@ -1,2 +1,10 @@
+- pkg:maven/us.ihmc/opencv@4.10.0-1.5.11
+- pkg:maven/us.ihmc/opencv@4.10.0-1.5.11-ihmc
+- pkg:maven/us.ihmc/opencv@4.10.0-1.5.11-ihmc-2
+- pkg:maven/us.ihmc/opencv@4.10.0-1.5.11-ihmc-2?classifier=sources
+- pkg:maven/us.ihmc/opencv@4.10.0-1.5.11-ihmc?classifier=sources
+- pkg:maven/us.ihmc/opencv@4.10.0-1.5.11?classifier=sources
+- pkg:maven/us.ihmc/opencv@4.7.0-1.5.11-ihmc-2
+- pkg:maven/us.ihmc/opencv@4.7.0-1.5.11-ihmc-2?classifier=sources
 - pkg:maven/us.ihmc/opencv@4.7.0-1.5.9
 - pkg:maven/us.ihmc/opencv@4.7.0-1.5.9?classifier=sources

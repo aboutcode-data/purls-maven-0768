@@ -1,2 +1,4 @@
 - pkg:maven/pro.fessional.wings/tiny-grow@3.2.130
 - pkg:maven/pro.fessional.wings/tiny-grow@3.2.130?classifier=sources
+- pkg:maven/pro.fessional.wings/tiny-grow@3.3.140
+- pkg:maven/pro.fessional.wings/tiny-grow@3.3.140?classifier=sources

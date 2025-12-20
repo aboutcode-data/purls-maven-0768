@@ -16,3 +16,5 @@
 - pkg:maven/com.exasol/spark-connector-s3_2.12@2.1.6-spark-3.4.2?classifier=sources
 - pkg:maven/com.exasol/spark-connector-s3_2.12@2.2.0-spark-3.4.2
 - pkg:maven/com.exasol/spark-connector-s3_2.12@2.2.0-spark-3.4.2?classifier=sources
+- pkg:maven/com.exasol/spark-connector-s3_2.12@2.2.1-spark-3.4.2
+- pkg:maven/com.exasol/spark-connector-s3_2.12@2.2.1-spark-3.4.2?classifier=sources

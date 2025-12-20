@@ -50,3 +50,4 @@
 - pkg:maven/io.github.resilience4j/resilience4j-timelimiter@2.0.2?classifier=sources
 - pkg:maven/io.github.resilience4j/resilience4j-timelimiter@2.1.0?classifier=sources
 - pkg:maven/io.github.resilience4j/resilience4j-timelimiter@2.2.0?classifier=sources
+- pkg:maven/io.github.resilience4j/resilience4j-timelimiter@2.3.0?classifier=sources

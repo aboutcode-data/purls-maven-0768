@@ -62,8 +62,17 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@43.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@43.0.2?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@44.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@45.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@46.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@47.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@48.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@49.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@5.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@50.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@51.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@51.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@52.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/web-app-reporter@6.1.1?classifier=sources

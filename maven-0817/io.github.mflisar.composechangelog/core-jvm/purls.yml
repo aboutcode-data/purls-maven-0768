@@ -7,3 +7,4 @@
 - pkg:maven/io.github.mflisar.composechangelog/core-jvm@0.5.0-test12?classifier=sources
 - pkg:maven/io.github.mflisar.composechangelog/core-jvm@0.5.0-test13?classifier=sources
 - pkg:maven/io.github.mflisar.composechangelog/core-jvm@0.5.0-test14?classifier=sources
+- pkg:maven/io.github.mflisar.composechangelog/core-jvm@1.0.0?classifier=sources

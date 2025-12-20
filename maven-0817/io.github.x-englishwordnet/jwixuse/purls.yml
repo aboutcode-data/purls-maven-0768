@@ -6,3 +6,5 @@
 - pkg:maven/io.github.x-englishwordnet/jwixuse@2.4.0.6?classifier=sources
 - pkg:maven/io.github.x-englishwordnet/jwixuse@2.4.0.7
 - pkg:maven/io.github.x-englishwordnet/jwixuse@2.4.0.7?classifier=sources
+- pkg:maven/io.github.x-englishwordnet/jwixuse@2.4.1.1
+- pkg:maven/io.github.x-englishwordnet/jwixuse@2.4.1.1?classifier=sources

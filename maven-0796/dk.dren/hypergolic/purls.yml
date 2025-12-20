@@ -1,0 +1,2 @@
+- pkg:maven/dk.dren/hypergolic@1.0.0?classifier=sources
+- pkg:maven/dk.dren/hypergolic@1.1.0?classifier=sources

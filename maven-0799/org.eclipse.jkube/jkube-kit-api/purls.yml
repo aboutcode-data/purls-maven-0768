@@ -22,6 +22,8 @@
 - pkg:maven/org.eclipse.jkube/jkube-kit-api@1.16.2?classifier=sources
 - pkg:maven/org.eclipse.jkube/jkube-kit-api@1.17.0
 - pkg:maven/org.eclipse.jkube/jkube-kit-api@1.17.0?classifier=sources
+- pkg:maven/org.eclipse.jkube/jkube-kit-api@1.18.0
+- pkg:maven/org.eclipse.jkube/jkube-kit-api@1.18.0?classifier=sources
 - pkg:maven/org.eclipse.jkube/jkube-kit-api@1.9.0
 - pkg:maven/org.eclipse.jkube/jkube-kit-api@1.9.0?classifier=sources
 - pkg:maven/org.eclipse.jkube/jkube-kit-api@1.9.1

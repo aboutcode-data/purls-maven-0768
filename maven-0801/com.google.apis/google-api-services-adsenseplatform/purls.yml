@@ -6,3 +6,15 @@
 - pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20240710-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20241203-2.0.0
 - pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20241203-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20250106-2.0.0
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20250106-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20250108-2.0.0
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20250108-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20250114-2.0.0
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20250114-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20250115-2.0.0
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20250115-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20250120-2.0.0
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20250120-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20250123-2.0.0
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20250123-2.0.0?classifier=sources

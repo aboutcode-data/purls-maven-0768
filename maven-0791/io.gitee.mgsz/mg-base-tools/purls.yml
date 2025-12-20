@@ -4,6 +4,8 @@
 - pkg:maven/io.gitee.mgsz/mg-base-tools@2.4.5-HY-4?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-tools@2.4.5-HY-5?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-tools@2.4.5-HY-6?classifier=sources
+- pkg:maven/io.gitee.mgsz/mg-base-tools@2.4.5-HY-7?classifier=sources
+- pkg:maven/io.gitee.mgsz/mg-base-tools@2.4.5-HY-8?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-tools@2.4.5-PG-1?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-tools@2.4.5-PG-2?classifier=sources
 - pkg:maven/io.gitee.mgsz/mg-base-tools@2.4.5-PG-3?classifier=sources

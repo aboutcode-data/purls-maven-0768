@@ -440,6 +440,8 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-apt@15.10.14?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-apt@15.10.15
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-apt@15.10.15?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-apt@15.10.16
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-apt@15.10.16?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-apt@15.10.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-apt@15.10.2
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-apt@15.10.2?classifier=sources

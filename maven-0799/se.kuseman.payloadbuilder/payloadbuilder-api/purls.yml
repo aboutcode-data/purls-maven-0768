@@ -34,5 +34,13 @@
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-api@1.0.5?classifier=sources
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-api@1.6.0
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-api@1.6.0?classifier=sources
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-api@1.7.0
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-api@1.7.0?classifier=sources
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-api@1.8.0
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-api@1.8.0?classifier=sources
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-api@1.9.1
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-api@1.9.1?classifier=sources
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-api@1.9.2
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-api@1.9.2?classifier=sources
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-api@v1.0.0-RC1
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-api@v1.0.0-RC1?classifier=sources

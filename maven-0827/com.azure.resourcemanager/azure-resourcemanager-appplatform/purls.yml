@@ -68,6 +68,7 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-appplatform@2.44.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-appplatform@2.45.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-appplatform@2.46.0?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-appplatform@2.47.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-appplatform@2.5.0
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-appplatform@2.5.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-appplatform@2.6.0

@@ -1,0 +1,2 @@
+- pkg:maven/it.maicol07.spraypaintkt/ktor-integration-wasm-js@2.0.0-2.0?classifier=sources
+- pkg:maven/it.maicol07.spraypaintkt/ktor-integration-wasm-js@2.0.0?classifier=sources

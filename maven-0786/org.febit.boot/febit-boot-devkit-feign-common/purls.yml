@@ -1,3 +1,4 @@
 - pkg:maven/org.febit.boot/febit-boot-devkit-feign-common@3.0.0?classifier=sources
 - pkg:maven/org.febit.boot/febit-boot-devkit-feign-common@3.3.0?classifier=sources
 - pkg:maven/org.febit.boot/febit-boot-devkit-feign-common@3.3.1?classifier=sources
+- pkg:maven/org.febit.boot/febit-boot-devkit-feign-common@3.4.0?classifier=sources

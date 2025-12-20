@@ -1,0 +1,2 @@
+- pkg:maven/top.osjf.sdk/sdk-http-annotation-processor@1.0.2
+- pkg:maven/top.osjf.sdk/sdk-http-annotation-processor@1.0.2?classifier=sources

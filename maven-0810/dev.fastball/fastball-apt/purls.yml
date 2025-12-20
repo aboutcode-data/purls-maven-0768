@@ -1,2 +1,5 @@
 - pkg:maven/dev.fastball/fastball-apt@0.4.0
 - pkg:maven/dev.fastball/fastball-apt@0.4.0?classifier=sources
+- pkg:maven/dev.fastball/fastball-apt@0.6.0?classifier=sources
+- pkg:maven/dev.fastball/fastball-apt@0.6.1?classifier=sources
+- pkg:maven/dev.fastball/fastball-apt@0.6.2?classifier=sources

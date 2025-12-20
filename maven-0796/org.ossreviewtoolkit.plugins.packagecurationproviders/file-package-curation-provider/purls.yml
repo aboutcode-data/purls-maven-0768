@@ -62,8 +62,17 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@43.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@43.0.2?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@44.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@45.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@46.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@47.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@48.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@49.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@5.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@50.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@51.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@51.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@52.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@6.1.1?classifier=sources

@@ -19,3 +19,7 @@
 - pkg:maven/org.opendaylight.netconf/restconf-client@8.0.2
 - pkg:maven/org.opendaylight.netconf/restconf-client@8.0.2?classifier=sources
 - pkg:maven/org.opendaylight.netconf/restconf-client@8.0.3?classifier=sources
+- pkg:maven/org.opendaylight.netconf/restconf-client@8.0.4
+- pkg:maven/org.opendaylight.netconf/restconf-client@8.0.4?classifier=sources
+- pkg:maven/org.opendaylight.netconf/restconf-client@8.0.5
+- pkg:maven/org.opendaylight.netconf/restconf-client@8.0.5?classifier=sources

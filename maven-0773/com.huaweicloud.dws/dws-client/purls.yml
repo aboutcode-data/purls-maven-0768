@@ -29,3 +29,4 @@
 - pkg:maven/com.huaweicloud.dws/dws-client@1.1.0.3?classifier=sources
 - pkg:maven/com.huaweicloud.dws/dws-client@1.1.0?classifier=sources
 - pkg:maven/com.huaweicloud.dws/dws-client@2.0.0-r0?classifier=sources
+- pkg:maven/com.huaweicloud.dws/dws-client@2.0.0-r1?classifier=sources

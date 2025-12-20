@@ -11,3 +11,5 @@
 - pkg:maven/org.wildfly.arquillian/domain@5.1.0.Beta5
 - pkg:maven/org.wildfly.arquillian/domain@5.1.0.Beta6
 - pkg:maven/org.wildfly.arquillian/domain@5.1.0.Beta7
+- pkg:maven/org.wildfly.arquillian/domain@5.1.0.Beta8
+- pkg:maven/org.wildfly.arquillian/domain@5.1.0.Beta9

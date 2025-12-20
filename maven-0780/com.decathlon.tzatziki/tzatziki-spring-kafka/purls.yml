@@ -204,3 +204,5 @@
 - pkg:maven/com.decathlon.tzatziki/tzatziki-spring-kafka@1.6.2?classifier=sources
 - pkg:maven/com.decathlon.tzatziki/tzatziki-spring-kafka@1.7.0
 - pkg:maven/com.decathlon.tzatziki/tzatziki-spring-kafka@1.7.0?classifier=sources
+- pkg:maven/com.decathlon.tzatziki/tzatziki-spring-kafka@1.8.0
+- pkg:maven/com.decathlon.tzatziki/tzatziki-spring-kafka@1.8.0?classifier=sources

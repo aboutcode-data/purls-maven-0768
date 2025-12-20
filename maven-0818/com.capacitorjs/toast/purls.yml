@@ -15,3 +15,4 @@
 - pkg:maven/com.capacitorjs/toast@6.0.0?classifier=sources
 - pkg:maven/com.capacitorjs/toast@6.0.2?classifier=sources
 - pkg:maven/com.capacitorjs/toast@6.0.3?classifier=sources
+- pkg:maven/com.capacitorjs/toast@7.0.0?classifier=sources

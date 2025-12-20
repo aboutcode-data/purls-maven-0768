@@ -1,1 +1,3 @@
 - pkg:maven/io.github.rikezero/mtgapi-kotlin-sdk@1.0.0.71?classifier=sources
+- pkg:maven/io.github.rikezero/mtgapi-kotlin-sdk@1.0.0.79?classifier=sources
+- pkg:maven/io.github.rikezero/mtgapi-kotlin-sdk@1.0.0.81?classifier=sources

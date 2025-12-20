@@ -21,3 +21,4 @@
 - pkg:maven/de.eacg/ecs-mvn-plugin@0.2.6
 - pkg:maven/de.eacg/ecs-mvn-plugin@0.2.7
 - pkg:maven/de.eacg/ecs-mvn-plugin@0.2.8
+- pkg:maven/de.eacg/ecs-mvn-plugin@0.2.9

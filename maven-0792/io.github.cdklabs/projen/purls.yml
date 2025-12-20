@@ -2726,3 +2726,5 @@
 - pkg:maven/io.github.cdklabs/projen@0.91.4?classifier=sources
 - pkg:maven/io.github.cdklabs/projen@0.91.5
 - pkg:maven/io.github.cdklabs/projen@0.91.5?classifier=sources
+- pkg:maven/io.github.cdklabs/projen@0.91.6
+- pkg:maven/io.github.cdklabs/projen@0.91.6?classifier=sources

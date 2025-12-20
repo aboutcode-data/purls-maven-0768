@@ -282,3 +282,5 @@
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2024.9.17882.20240919T100659Z-240800?classifier=sources
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2024.9.17964.20240924T170544Z-240800
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2024.9.17964.20240924T170544Z-240800?classifier=sources
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.1.19149.20250116T154450Z-241100
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.1.19149.20250116T154450Z-241100?classifier=sources

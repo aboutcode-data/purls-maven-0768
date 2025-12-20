@@ -2,3 +2,5 @@
 - pkg:maven/com.expediagroup/xap-sdk@0.0.4?classifier=sources
 - pkg:maven/com.expediagroup/xap-sdk@1.0.0
 - pkg:maven/com.expediagroup/xap-sdk@1.0.0?classifier=sources
+- pkg:maven/com.expediagroup/xap-sdk@1.1.0
+- pkg:maven/com.expediagroup/xap-sdk@1.1.0?classifier=sources

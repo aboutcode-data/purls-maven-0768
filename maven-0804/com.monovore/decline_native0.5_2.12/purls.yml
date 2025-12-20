@@ -1,0 +1,2 @@
+- pkg:maven/com.monovore/decline_native0.5_2.12@2.5.0
+- pkg:maven/com.monovore/decline_native0.5_2.12@2.5.0?classifier=sources

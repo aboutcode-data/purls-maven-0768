@@ -1,0 +1,2 @@
+- pkg:maven/com.apzda.cloud/apzda-cloud-xxl-job-adapter@1.2.22
+- pkg:maven/com.apzda.cloud/apzda-cloud-xxl-job-adapter@1.2.22?classifier=sources

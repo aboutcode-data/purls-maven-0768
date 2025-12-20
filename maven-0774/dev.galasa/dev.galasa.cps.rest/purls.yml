@@ -5,3 +5,4 @@
 - pkg:maven/dev.galasa/dev.galasa.cps.rest@0.36.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.cps.rest@0.37.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.cps.rest@0.38.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.cps.rest@0.39.0?classifier=sources

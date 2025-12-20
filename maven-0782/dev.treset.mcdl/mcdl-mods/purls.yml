@@ -1,3 +1,4 @@
 - pkg:maven/dev.treset.mcdl/mcdl-mods@1.0.0?classifier=sources
 - pkg:maven/dev.treset.mcdl/mcdl-mods@2.0.0?classifier=sources
 - pkg:maven/dev.treset.mcdl/mcdl-mods@2.1.2?classifier=sources
+- pkg:maven/dev.treset.mcdl/mcdl-mods@2.2.0?classifier=sources

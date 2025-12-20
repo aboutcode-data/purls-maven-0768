@@ -25,3 +25,4 @@
 - pkg:maven/com.xnx3.wangmarket.wm/wm@3.19?classifier=sources
 - pkg:maven/com.xnx3.wangmarket.wm/wm@3.20?classifier=sources
 - pkg:maven/com.xnx3.wangmarket.wm/wm@3.22?classifier=sources
+- pkg:maven/com.xnx3.wangmarket.wm/wm@3.24?classifier=sources

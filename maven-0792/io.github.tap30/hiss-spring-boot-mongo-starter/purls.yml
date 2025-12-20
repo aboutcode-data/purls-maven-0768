@@ -1,1 +1,2 @@
+- pkg:maven/io.github.tap30/hiss-spring-boot-mongo-starter@0.10.0?classifier=sources
 - pkg:maven/io.github.tap30/hiss-spring-boot-mongo-starter@0.9.8?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/org.opensearch/opensearch-ml-spi@2.17.0.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ml-spi@2.17.1.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ml-spi@2.18.0.0?classifier=sources
+- pkg:maven/org.opensearch/opensearch-ml-spi@2.19.0.0?classifier=sources

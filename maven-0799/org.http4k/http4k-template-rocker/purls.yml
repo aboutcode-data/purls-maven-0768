@@ -128,6 +128,13 @@
 - pkg:maven/org.http4k/http4k-template-rocker@5.41.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-rocker@5.42.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-rocker@5.43.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@5.44.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@5.44.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@5.44.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@5.44.3.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@5.45.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@5.45.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-rocker@5.45.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-rocker@5.5.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-rocker@5.6.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-rocker@5.6.1.0?classifier=sources

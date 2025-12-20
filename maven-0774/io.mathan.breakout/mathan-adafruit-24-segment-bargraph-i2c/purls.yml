@@ -1,0 +1,2 @@
+- pkg:maven/io.mathan.breakout/mathan-adafruit-24-segment-bargraph-i2c@1.0.0
+- pkg:maven/io.mathan.breakout/mathan-adafruit-24-segment-bargraph-i2c@1.0.0?classifier=sources

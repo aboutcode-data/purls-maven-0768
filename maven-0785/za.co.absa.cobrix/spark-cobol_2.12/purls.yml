@@ -112,3 +112,5 @@
 - pkg:maven/za.co.absa.cobrix/spark-cobol_2.12@2.7.9?classifier=sources
 - pkg:maven/za.co.absa.cobrix/spark-cobol_2.12@2.8.0
 - pkg:maven/za.co.absa.cobrix/spark-cobol_2.12@2.8.0?classifier=sources
+- pkg:maven/za.co.absa.cobrix/spark-cobol_2.12@2.8.1
+- pkg:maven/za.co.absa.cobrix/spark-cobol_2.12@2.8.1?classifier=sources

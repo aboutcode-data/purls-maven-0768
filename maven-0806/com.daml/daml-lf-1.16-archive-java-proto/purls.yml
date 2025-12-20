@@ -194,5 +194,7 @@
 - pkg:maven/com.daml/daml-lf-1.16-archive-java-proto@2.9.5-snapshot.20240923.12896.0.va7af1e18
 - pkg:maven/com.daml/daml-lf-1.16-archive-java-proto@2.9.5-snapshot.20240923.12896.0.va7af1e18?classifier=sources
 - pkg:maven/com.daml/daml-lf-1.16-archive-java-proto@2.9.5?classifier=sources
+- pkg:maven/com.daml/daml-lf-1.16-archive-java-proto@2.9.6
 - pkg:maven/com.daml/daml-lf-1.16-archive-java-proto@2.9.6-snapshot.20241030.12898.0.v1e848e2c
 - pkg:maven/com.daml/daml-lf-1.16-archive-java-proto@2.9.6-snapshot.20241030.12898.0.v1e848e2c?classifier=sources
+- pkg:maven/com.daml/daml-lf-1.16-archive-java-proto@2.9.6?classifier=sources

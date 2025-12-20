@@ -38,3 +38,7 @@
 - pkg:maven/org.htmlunit/htmlunit-cssparser@4.6.0?classifier=sources
 - pkg:maven/org.htmlunit/htmlunit-cssparser@4.7.0
 - pkg:maven/org.htmlunit/htmlunit-cssparser@4.7.0?classifier=sources
+- pkg:maven/org.htmlunit/htmlunit-cssparser@4.8.0
+- pkg:maven/org.htmlunit/htmlunit-cssparser@4.8.0?classifier=sources
+- pkg:maven/org.htmlunit/htmlunit-cssparser@4.9.0
+- pkg:maven/org.htmlunit/htmlunit-cssparser@4.9.0?classifier=sources

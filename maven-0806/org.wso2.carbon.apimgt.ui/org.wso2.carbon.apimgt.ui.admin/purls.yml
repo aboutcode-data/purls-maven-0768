@@ -108,6 +108,10 @@
 - pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.1.15?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.1.167?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.1.16?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.1.175?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.1.176?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.1.177?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.1.178?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.1.17?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.1.18?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.1.19?classifier=sources
@@ -129,3 +133,6 @@
 - pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.1.89?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.1.8?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.1.9?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.2.27?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.2.28?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt.ui/org.wso2.carbon.apimgt.ui.admin@9.2.29?classifier=sources

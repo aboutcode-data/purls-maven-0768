@@ -39,3 +39,5 @@
 - pkg:maven/org.craftercms/groovy-sandbox@4.1.8
 - pkg:maven/org.craftercms/groovy-sandbox@4.1.9
 - pkg:maven/org.craftercms/groovy-sandbox@4.2.0
+- pkg:maven/org.craftercms/groovy-sandbox@4.2.1
+- pkg:maven/org.craftercms/groovy-sandbox@4.2.2

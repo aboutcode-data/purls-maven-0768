@@ -12,6 +12,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@10.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@10.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@10.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@10.4.0
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@10.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@6.13.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@6.13.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@6.14.0
@@ -128,6 +130,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@8.15.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@8.16.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@8.16.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@8.17.0
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@8.17.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@8.3.0
@@ -184,6 +188,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@9.19.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@9.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@9.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@9.20.0
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@9.20.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@9.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@9.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@9.4.0

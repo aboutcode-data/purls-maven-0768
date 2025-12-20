@@ -171,3 +171,4 @@
 - pkg:maven/org.mnode.ical4j/ical4j@4.0.6?classifier=sources
 - pkg:maven/org.mnode.ical4j/ical4j@4.0.7?classifier=sources
 - pkg:maven/org.mnode.ical4j/ical4j@4.0.8?classifier=sources
+- pkg:maven/org.mnode.ical4j/ical4j@4.1.0?classifier=sources

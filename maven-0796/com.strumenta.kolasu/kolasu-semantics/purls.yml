@@ -25,3 +25,4 @@
 - pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.71?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.72?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.73?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.74?classifier=sources

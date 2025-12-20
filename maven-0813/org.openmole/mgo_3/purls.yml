@@ -14,3 +14,9 @@
 - pkg:maven/org.openmole/mgo_3@3.58?classifier=sources
 - pkg:maven/org.openmole/mgo_3@3.59
 - pkg:maven/org.openmole/mgo_3@3.59?classifier=sources
+- pkg:maven/org.openmole/mgo_3@3.60
+- pkg:maven/org.openmole/mgo_3@3.60?classifier=sources
+- pkg:maven/org.openmole/mgo_3@3.61
+- pkg:maven/org.openmole/mgo_3@3.61?classifier=sources
+- pkg:maven/org.openmole/mgo_3@3.62
+- pkg:maven/org.openmole/mgo_3@3.62?classifier=sources

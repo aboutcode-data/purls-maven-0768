@@ -2,4 +2,5 @@
 - pkg:maven/org.webjars.npm/types__js-cookie@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/types__js-cookie@2.2.4
 - pkg:maven/org.webjars.npm/types__js-cookie@2.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/types__js-cookie@2.2.7
 - pkg:maven/org.webjars.npm/types__js-cookie@3.0.6

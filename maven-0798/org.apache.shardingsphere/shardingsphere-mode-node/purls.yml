@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shardingsphere/shardingsphere-mode-node@5.5.2
+- pkg:maven/org.apache.shardingsphere/shardingsphere-mode-node@5.5.2?classifier=sources
