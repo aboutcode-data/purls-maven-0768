@@ -138,6 +138,10 @@
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-shaded@2.12.1?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-shaded@2.13.0
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-shaded@2.13.0?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-shaded@2.14.0
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-shaded@2.14.0?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-shaded@2.14.1
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-shaded@2.14.1?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-shaded@2.2.0
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-shaded@2.2.0?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-shaded@2.3.0

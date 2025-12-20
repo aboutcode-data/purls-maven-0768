@@ -64,3 +64,7 @@
 - pkg:maven/com.datastax.oss/pulsar-jms-all@4.0.1?classifier=sources
 - pkg:maven/com.datastax.oss/pulsar-jms-all@4.1.0-alpha
 - pkg:maven/com.datastax.oss/pulsar-jms-all@4.1.0-alpha?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-all@4.1.1-alpha
+- pkg:maven/com.datastax.oss/pulsar-jms-all@4.1.1-alpha?classifier=sources
+- pkg:maven/com.datastax.oss/pulsar-jms-all@4.1.2-alpha
+- pkg:maven/com.datastax.oss/pulsar-jms-all@4.1.2-alpha?classifier=sources

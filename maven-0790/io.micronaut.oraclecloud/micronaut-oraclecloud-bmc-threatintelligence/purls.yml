@@ -30,3 +30,5 @@
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-threatintelligence@3.7.0?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-threatintelligence@3.7.1?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-threatintelligence@3.7.2?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-threatintelligence@3.8.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-threatintelligence@4.0.0?classifier=sources

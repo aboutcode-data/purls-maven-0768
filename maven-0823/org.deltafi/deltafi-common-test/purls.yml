@@ -94,7 +94,14 @@
 - pkg:maven/org.deltafi/deltafi-common-test@1.2.2?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@1.2.3?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@1.2.4?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@1.2.5?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@1.2.6?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@1.2.7?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@2.0-alpha2?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@2.0-alpha3?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@2.0-alpha4?classifier=sources
 - pkg:maven/org.deltafi/deltafi-common-test@2.0-alpha5?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@2.0-alpha7?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@2.0-alpha8?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@2.0-beta1?classifier=sources
+- pkg:maven/org.deltafi/deltafi-common-test@2.0-beta2?classifier=sources

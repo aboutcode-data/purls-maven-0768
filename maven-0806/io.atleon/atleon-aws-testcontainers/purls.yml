@@ -70,6 +70,12 @@
 - pkg:maven/io.atleon/atleon-aws-testcontainers@0.25.1?classifier=sources
 - pkg:maven/io.atleon/atleon-aws-testcontainers@0.26.0
 - pkg:maven/io.atleon/atleon-aws-testcontainers@0.26.0?classifier=sources
+- pkg:maven/io.atleon/atleon-aws-testcontainers@0.26.1
+- pkg:maven/io.atleon/atleon-aws-testcontainers@0.26.1?classifier=sources
+- pkg:maven/io.atleon/atleon-aws-testcontainers@0.26.2
+- pkg:maven/io.atleon/atleon-aws-testcontainers@0.26.2?classifier=sources
+- pkg:maven/io.atleon/atleon-aws-testcontainers@0.26.3
+- pkg:maven/io.atleon/atleon-aws-testcontainers@0.26.3?classifier=sources
 - pkg:maven/io.atleon/atleon-aws-testcontainers@0.7.0
 - pkg:maven/io.atleon/atleon-aws-testcontainers@0.7.0?classifier=sources
 - pkg:maven/io.atleon/atleon-aws-testcontainers@0.7.1

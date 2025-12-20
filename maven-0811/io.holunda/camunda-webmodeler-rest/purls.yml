@@ -1,0 +1,2 @@
+- pkg:maven/io.holunda/camunda-webmodeler-rest@0.0.1
+- pkg:maven/io.holunda/camunda-webmodeler-rest@0.0.1?classifier=sources

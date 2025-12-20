@@ -1,0 +1,2 @@
+- pkg:maven/tf.tofu/tofu-zio2-logging_3@0.13.0
+- pkg:maven/tf.tofu/tofu-zio2-logging_3@0.13.0?classifier=sources

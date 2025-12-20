@@ -9,3 +9,4 @@
 - pkg:maven/com.r3.corda.notary.plugin.nonvalidating/notary-plugin-non-validating-server@5.0.0.0-Iguana1.0
 - pkg:maven/com.r3.corda.notary.plugin.nonvalidating/notary-plugin-non-validating-server@5.0.1.0
 - pkg:maven/com.r3.corda.notary.plugin.nonvalidating/notary-plugin-non-validating-server@5.1.0.0
+- pkg:maven/com.r3.corda.notary.plugin.nonvalidating/notary-plugin-non-validating-server@5.2.0.0

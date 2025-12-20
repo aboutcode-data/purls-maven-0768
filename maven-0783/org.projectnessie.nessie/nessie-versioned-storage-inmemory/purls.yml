@@ -49,3 +49,7 @@
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-inmemory@0.77.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-inmemory@0.78.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-inmemory@0.79.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-inmemory@0.80.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-inmemory@0.81.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-inmemory@0.81.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-inmemory@0.82.0?classifier=sources

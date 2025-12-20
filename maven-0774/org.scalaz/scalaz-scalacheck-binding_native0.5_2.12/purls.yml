@@ -1,0 +1,4 @@
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_native0.5_2.12@7.2.36-scalacheck-1.15
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_native0.5_2.12@7.2.36-scalacheck-1.15?classifier=sources
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_native0.5_2.12@7.3.8
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_native0.5_2.12@7.3.8?classifier=sources

@@ -58,6 +58,7 @@
 - pkg:maven/org.apache.activemq/activemq-parent@5.18.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.activemq/activemq-parent@5.18.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.activemq/activemq-parent@5.18.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.activemq/activemq-parent@5.18.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.activemq/activemq-parent@5.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.activemq/activemq-parent@5.3.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.activemq/activemq-parent@5.3.2?classifier=source-release&type=zip
@@ -76,3 +77,4 @@
 - pkg:maven/org.apache.activemq/activemq-parent@6.0.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.activemq/activemq-parent@6.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.activemq/activemq-parent@6.1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.activemq/activemq-parent@6.1.2?classifier=source-release&type=zip

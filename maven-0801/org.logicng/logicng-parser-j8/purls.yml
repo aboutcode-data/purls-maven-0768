@@ -1,0 +1,2 @@
+- pkg:maven/org.logicng/logicng-parser-j8@2.5.0
+- pkg:maven/org.logicng/logicng-parser-j8@2.5.0?classifier=sources

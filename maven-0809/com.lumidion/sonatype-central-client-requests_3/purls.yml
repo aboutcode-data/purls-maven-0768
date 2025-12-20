@@ -1,0 +1,2 @@
+- pkg:maven/com.lumidion/sonatype-central-client-requests_3@0.2.0
+- pkg:maven/com.lumidion/sonatype-central-client-requests_3@0.2.0?classifier=sources

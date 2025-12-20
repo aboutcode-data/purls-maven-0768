@@ -1,2 +1,5 @@
 - pkg:maven/com.agentsflex/agents-flex-bom@1.0.0-alpha.3
 - pkg:maven/com.agentsflex/agents-flex-bom@1.0.0-alpha.4
+- pkg:maven/com.agentsflex/agents-flex-bom@1.0.0-alpha.5
+- pkg:maven/com.agentsflex/agents-flex-bom@1.0.0-beta.0
+- pkg:maven/com.agentsflex/agents-flex-bom@1.0.0-beta.1

@@ -128,6 +128,8 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-servicedirectory-v1beta1@0.5.1?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-servicedirectory-v1beta1@0.50.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-servicedirectory-v1beta1@0.50.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-servicedirectory-v1beta1@0.51.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-servicedirectory-v1beta1@0.51.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-servicedirectory-v1beta1@0.6.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-servicedirectory-v1beta1@0.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-servicedirectory-v1beta1@0.6.1

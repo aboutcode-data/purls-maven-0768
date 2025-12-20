@@ -46,3 +46,5 @@
 - pkg:maven/com.phloc/phloc-commons@4.6.7?classifier=sources
 - pkg:maven/com.phloc/phloc-commons@4.7.0
 - pkg:maven/com.phloc/phloc-commons@4.7.0?classifier=sources
+- pkg:maven/com.phloc/phloc-commons@5.0.0
+- pkg:maven/com.phloc/phloc-commons@5.0.0?classifier=sources

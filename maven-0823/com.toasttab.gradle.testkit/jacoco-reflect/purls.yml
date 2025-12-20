@@ -1,3 +1,5 @@
+- pkg:maven/com.toasttab.gradle.testkit/jacoco-reflect@0.0.10?classifier=sources
+- pkg:maven/com.toasttab.gradle.testkit/jacoco-reflect@0.0.11?classifier=sources
 - pkg:maven/com.toasttab.gradle.testkit/jacoco-reflect@0.0.7?classifier=sources
 - pkg:maven/com.toasttab.gradle.testkit/jacoco-reflect@0.0.8?classifier=sources
 - pkg:maven/com.toasttab.gradle.testkit/jacoco-reflect@0.0.9?classifier=sources

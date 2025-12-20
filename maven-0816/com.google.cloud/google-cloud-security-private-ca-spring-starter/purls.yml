@@ -14,6 +14,8 @@
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca-spring-starter@4.10.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca-spring-starter@4.10.1-preview
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca-spring-starter@4.10.1-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-security-private-ca-spring-starter@4.10.2-preview
+- pkg:maven/com.google.cloud/google-cloud-security-private-ca-spring-starter@4.10.2-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca-spring-starter@4.2.0-preview
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca-spring-starter@4.2.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca-spring-starter@4.3.0-preview
@@ -66,3 +68,5 @@
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca-spring-starter@5.1.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca-spring-starter@5.1.2-preview
 - pkg:maven/com.google.cloud/google-cloud-security-private-ca-spring-starter@5.1.2-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-security-private-ca-spring-starter@5.2.0-preview
+- pkg:maven/com.google.cloud/google-cloud-security-private-ca-spring-starter@5.2.0-preview?classifier=sources

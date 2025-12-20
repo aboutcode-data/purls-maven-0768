@@ -40,6 +40,8 @@
 - pkg:maven/io.helidon.integrations.openapi-ui/helidon-integrations-openapi-ui@3.2.6?classifier=sources
 - pkg:maven/io.helidon.integrations.openapi-ui/helidon-integrations-openapi-ui@3.2.7
 - pkg:maven/io.helidon.integrations.openapi-ui/helidon-integrations-openapi-ui@3.2.7?classifier=sources
+- pkg:maven/io.helidon.integrations.openapi-ui/helidon-integrations-openapi-ui@3.2.8
+- pkg:maven/io.helidon.integrations.openapi-ui/helidon-integrations-openapi-ui@3.2.8?classifier=sources
 - pkg:maven/io.helidon.integrations.openapi-ui/helidon-integrations-openapi-ui@4.0.0
 - pkg:maven/io.helidon.integrations.openapi-ui/helidon-integrations-openapi-ui@4.0.0-RC2
 - pkg:maven/io.helidon.integrations.openapi-ui/helidon-integrations-openapi-ui@4.0.0-RC2?classifier=sources
@@ -58,3 +60,5 @@
 - pkg:maven/io.helidon.integrations.openapi-ui/helidon-integrations-openapi-ui@4.0.6?classifier=sources
 - pkg:maven/io.helidon.integrations.openapi-ui/helidon-integrations-openapi-ui@4.0.7
 - pkg:maven/io.helidon.integrations.openapi-ui/helidon-integrations-openapi-ui@4.0.7?classifier=sources
+- pkg:maven/io.helidon.integrations.openapi-ui/helidon-integrations-openapi-ui@4.0.8
+- pkg:maven/io.helidon.integrations.openapi-ui/helidon-integrations-openapi-ui@4.0.8?classifier=sources

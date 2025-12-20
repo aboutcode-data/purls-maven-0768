@@ -4,3 +4,7 @@
 - pkg:maven/tech.harmonysoft/mental-mate-util@1.9.0?classifier=sources
 - pkg:maven/tech.harmonysoft/mental-mate-util@2.0.0?classifier=sources
 - pkg:maven/tech.harmonysoft/mental-mate-util@2.1.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-util@2.2.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-util@2.3.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-util@2.4.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-util@2.5.0?classifier=sources

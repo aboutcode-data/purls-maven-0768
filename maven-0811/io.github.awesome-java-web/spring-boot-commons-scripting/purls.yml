@@ -1,0 +1,2 @@
+- pkg:maven/io.github.awesome-java-web/spring-boot-commons-scripting@1.0.0
+- pkg:maven/io.github.awesome-java-web/spring-boot-commons-scripting@1.0.0?classifier=sources

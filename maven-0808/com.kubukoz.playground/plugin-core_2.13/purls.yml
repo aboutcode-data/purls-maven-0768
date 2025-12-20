@@ -50,3 +50,5 @@
 - pkg:maven/com.kubukoz.playground/plugin-core_2.13@0.7.0-M6
 - pkg:maven/com.kubukoz.playground/plugin-core_2.13@0.7.0-M6?classifier=sources
 - pkg:maven/com.kubukoz.playground/plugin-core_2.13@0.7.0?classifier=sources
+- pkg:maven/com.kubukoz.playground/plugin-core_2.13@0.7.1
+- pkg:maven/com.kubukoz.playground/plugin-core_2.13@0.7.1?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/dev.bannmann.labs/annotations@0.0.15?classifier=sources
 - pkg:maven/dev.bannmann.labs/annotations@0.0.16
 - pkg:maven/dev.bannmann.labs/annotations@0.0.16?classifier=sources
+- pkg:maven/dev.bannmann.labs/annotations@0.0.17
+- pkg:maven/dev.bannmann.labs/annotations@0.0.17?classifier=sources
+- pkg:maven/dev.bannmann.labs/annotations@0.0.18
+- pkg:maven/dev.bannmann.labs/annotations@0.0.18?classifier=sources

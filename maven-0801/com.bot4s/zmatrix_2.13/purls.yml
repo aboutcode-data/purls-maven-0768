@@ -16,3 +16,5 @@
 - pkg:maven/com.bot4s/zmatrix_2.13@0.3.3?classifier=sources
 - pkg:maven/com.bot4s/zmatrix_2.13@0.3.4
 - pkg:maven/com.bot4s/zmatrix_2.13@0.3.4?classifier=sources
+- pkg:maven/com.bot4s/zmatrix_2.13@0.4.0
+- pkg:maven/com.bot4s/zmatrix_2.13@0.4.0?classifier=sources

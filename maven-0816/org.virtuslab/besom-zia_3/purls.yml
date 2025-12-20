@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-zia_3@0.0.6-core.0.3
+- pkg:maven/org.virtuslab/besom-zia_3@0.0.6-core.0.3?classifier=sources

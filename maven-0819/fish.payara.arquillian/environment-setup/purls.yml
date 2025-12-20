@@ -14,6 +14,7 @@
 - pkg:maven/fish.payara.arquillian/environment-setup@2.4?classifier=sources
 - pkg:maven/fish.payara.arquillian/environment-setup@2.5
 - pkg:maven/fish.payara.arquillian/environment-setup@2.5?classifier=sources
+- pkg:maven/fish.payara.arquillian/environment-setup@3.0
 - pkg:maven/fish.payara.arquillian/environment-setup@3.0.alpha2
 - pkg:maven/fish.payara.arquillian/environment-setup@3.0.alpha2?classifier=sources
 - pkg:maven/fish.payara.arquillian/environment-setup@3.0.alpha3
@@ -26,3 +27,4 @@
 - pkg:maven/fish.payara.arquillian/environment-setup@3.0.alpha7?classifier=sources
 - pkg:maven/fish.payara.arquillian/environment-setup@3.0.alpha8
 - pkg:maven/fish.payara.arquillian/environment-setup@3.0.alpha8?classifier=sources
+- pkg:maven/fish.payara.arquillian/environment-setup@3.0?classifier=sources

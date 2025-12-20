@@ -168,6 +168,12 @@
 - pkg:maven/com.hashicorp/cdktf-provider-aws@19.12.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-aws@19.13.0
 - pkg:maven/com.hashicorp/cdktf-provider-aws@19.13.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-aws@19.14.0
+- pkg:maven/com.hashicorp/cdktf-provider-aws@19.14.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-aws@19.15.0
+- pkg:maven/com.hashicorp/cdktf-provider-aws@19.15.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-aws@19.16.0
+- pkg:maven/com.hashicorp/cdktf-provider-aws@19.16.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-aws@19.2.0
 - pkg:maven/com.hashicorp/cdktf-provider-aws@19.2.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-aws@19.3.0

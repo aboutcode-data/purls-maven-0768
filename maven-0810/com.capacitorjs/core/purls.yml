@@ -59,4 +59,6 @@
 - pkg:maven/com.capacitorjs/core@5.7.2?classifier=sources
 - pkg:maven/com.capacitorjs/core@5.7.3?classifier=sources
 - pkg:maven/com.capacitorjs/core@5.7.4?classifier=sources
+- pkg:maven/com.capacitorjs/core@5.7.5?classifier=sources
 - pkg:maven/com.capacitorjs/core@6.0.0-rc.0?classifier=sources
+- pkg:maven/com.capacitorjs/core@6.0.0?classifier=sources

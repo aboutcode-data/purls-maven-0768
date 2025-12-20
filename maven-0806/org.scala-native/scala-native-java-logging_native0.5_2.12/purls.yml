@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-native/scala-native-java-logging_native0.5_2.12@1.0.0
+- pkg:maven/org.scala-native/scala-native-java-logging_native0.5_2.12@1.0.0?classifier=sources

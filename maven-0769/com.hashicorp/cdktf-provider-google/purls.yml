@@ -982,6 +982,12 @@
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.12.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.13.0
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.13.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-google@13.14.0
+- pkg:maven/com.hashicorp/cdktf-provider-google@13.14.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-google@13.15.0
+- pkg:maven/com.hashicorp/cdktf-provider-google@13.15.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-google@13.16.0
+- pkg:maven/com.hashicorp/cdktf-provider-google@13.16.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.2.0
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.2.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.3.0

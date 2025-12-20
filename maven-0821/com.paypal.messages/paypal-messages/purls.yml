@@ -1,3 +1,4 @@
 - pkg:maven/com.paypal.messages/paypal-messages@1.0.0-alpha.00?classifier=sources
 - pkg:maven/com.paypal.messages/paypal-messages@1.0.0-alpha.02?classifier=sources
 - pkg:maven/com.paypal.messages/paypal-messages@1.0.0-alpha.03?classifier=sources
+- pkg:maven/com.paypal.messages/paypal-messages@1.0.0-develop.2?classifier=sources

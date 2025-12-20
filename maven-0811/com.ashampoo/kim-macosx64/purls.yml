@@ -23,6 +23,10 @@
 - pkg:maven/com.ashampoo/kim-macosx64@0.17.1?classifier=sources
 - pkg:maven/com.ashampoo/kim-macosx64@0.17.2?classifier=sources
 - pkg:maven/com.ashampoo/kim-macosx64@0.17.3?classifier=sources
+- pkg:maven/com.ashampoo/kim-macosx64@0.17.4?classifier=sources
+- pkg:maven/com.ashampoo/kim-macosx64@0.17.5?classifier=sources
+- pkg:maven/com.ashampoo/kim-macosx64@0.17.6?classifier=sources
+- pkg:maven/com.ashampoo/kim-macosx64@0.17.7?classifier=sources
 - pkg:maven/com.ashampoo/kim-macosx64@0.17?classifier=sources
 - pkg:maven/com.ashampoo/kim-macosx64@0.2.0?classifier=sources
 - pkg:maven/com.ashampoo/kim-macosx64@0.2.1?classifier=sources

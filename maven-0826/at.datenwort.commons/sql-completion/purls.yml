@@ -9,3 +9,5 @@
 - pkg:maven/at.datenwort.commons/sql-completion@0.7?classifier=sources
 - pkg:maven/at.datenwort.commons/sql-completion@0.8
 - pkg:maven/at.datenwort.commons/sql-completion@0.8?classifier=sources
+- pkg:maven/at.datenwort.commons/sql-completion@0.9
+- pkg:maven/at.datenwort.commons/sql-completion@0.9?classifier=sources

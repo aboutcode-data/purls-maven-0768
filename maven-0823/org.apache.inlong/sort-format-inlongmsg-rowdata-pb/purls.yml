@@ -1,1 +1,3 @@
 - pkg:maven/org.apache.inlong/sort-format-inlongmsg-rowdata-pb@1.11.0?classifier=sources
+- pkg:maven/org.apache.inlong/sort-format-inlongmsg-rowdata-pb@1.12.0
+- pkg:maven/org.apache.inlong/sort-format-inlongmsg-rowdata-pb@1.12.0?classifier=sources

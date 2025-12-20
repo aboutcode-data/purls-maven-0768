@@ -10,3 +10,5 @@
 - pkg:maven/org.projectnessie.nessie-runner/nessie-runner-common@0.31.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie-runner/nessie-runner-common@0.32.0
 - pkg:maven/org.projectnessie.nessie-runner/nessie-runner-common@0.32.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie-runner/nessie-runner-common@0.32.1
+- pkg:maven/org.projectnessie.nessie-runner/nessie-runner-common@0.32.1?classifier=sources

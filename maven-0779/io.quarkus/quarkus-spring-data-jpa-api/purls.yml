@@ -12,3 +12,5 @@
 - pkg:maven/io.quarkus/quarkus-spring-data-jpa-api@2.2.Alpha3?classifier=sources
 - pkg:maven/io.quarkus/quarkus-spring-data-jpa-api@2.2.Final
 - pkg:maven/io.quarkus/quarkus-spring-data-jpa-api@2.2.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-spring-data-jpa-api@3.2
+- pkg:maven/io.quarkus/quarkus-spring-data-jpa-api@3.2?classifier=sources

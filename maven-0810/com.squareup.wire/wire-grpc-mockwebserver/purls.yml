@@ -22,3 +22,4 @@
 - pkg:maven/com.squareup.wire/wire-grpc-mockwebserver@4.0.0-alpha.6?classifier=sources
 - pkg:maven/com.squareup.wire/wire-grpc-mockwebserver@4.0.0-alpha.7
 - pkg:maven/com.squareup.wire/wire-grpc-mockwebserver@4.0.0-alpha.7?classifier=sources
+- pkg:maven/com.squareup.wire/wire-grpc-mockwebserver@5.0.0-alpha01?classifier=sources

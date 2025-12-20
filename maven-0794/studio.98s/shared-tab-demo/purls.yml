@@ -1,1 +1,2 @@
 - pkg:maven/studio.98s/shared-tab-demo@1.0.0?classifier=sources
+- pkg:maven/studio.98s/shared-tab-demo@1.0.1?classifier=sources

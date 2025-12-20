@@ -64,6 +64,8 @@
 - pkg:maven/com.github.dreamroute/sqlprinter-spring-boot-starter@2.3.11-RELEASE?classifier=sources
 - pkg:maven/com.github.dreamroute/sqlprinter-spring-boot-starter@2.3.12-RELEASE
 - pkg:maven/com.github.dreamroute/sqlprinter-spring-boot-starter@2.3.12-RELEASE?classifier=sources
+- pkg:maven/com.github.dreamroute/sqlprinter-spring-boot-starter@2.3.13-RELEASE
+- pkg:maven/com.github.dreamroute/sqlprinter-spring-boot-starter@2.3.13-RELEASE?classifier=sources
 - pkg:maven/com.github.dreamroute/sqlprinter-spring-boot-starter@2.3.2-RELEASE
 - pkg:maven/com.github.dreamroute/sqlprinter-spring-boot-starter@2.3.2-RELEASE?classifier=sources
 - pkg:maven/com.github.dreamroute/sqlprinter-spring-boot-starter@2.3.3-RELEASE

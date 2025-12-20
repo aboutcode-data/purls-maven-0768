@@ -8,3 +8,5 @@
 - pkg:maven/com.ti-net/smartlink-serversdk@2.51.0?classifier=sources
 - pkg:maven/com.ti-net/smartlink-serversdk@2.64.0
 - pkg:maven/com.ti-net/smartlink-serversdk@2.64.0?classifier=sources
+- pkg:maven/com.ti-net/smartlink-serversdk@2.70.0
+- pkg:maven/com.ti-net/smartlink-serversdk@2.70.0?classifier=sources

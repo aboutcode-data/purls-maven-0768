@@ -1,0 +1,2 @@
+- pkg:maven/org.hisp.dhis.rules/rule-engine-jvm@2.3.0?classifier=sources
+- pkg:maven/org.hisp.dhis.rules/rule-engine-jvm@3.0.0?classifier=sources

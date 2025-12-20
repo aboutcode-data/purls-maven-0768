@@ -21,3 +21,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json@5.7.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json@5.8.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json@6.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json@7.0.0?classifier=sources

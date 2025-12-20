@@ -115,6 +115,7 @@
 - pkg:maven/io.peekandpoke.kraft/addons-nxcompile@0.44.3?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-nxcompile@0.44.4?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-nxcompile@0.45.0?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-nxcompile@0.46.0?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-nxcompile@0.5.6-kotlin170?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-nxcompile@0.5.7-kotlin170?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-nxcompile@0.6.0-kotlin170?classifier=sources

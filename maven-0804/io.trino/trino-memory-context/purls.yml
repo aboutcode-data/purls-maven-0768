@@ -184,3 +184,9 @@
 - pkg:maven/io.trino/trino-memory-context@443?classifier=sources
 - pkg:maven/io.trino/trino-memory-context@444
 - pkg:maven/io.trino/trino-memory-context@444?classifier=sources
+- pkg:maven/io.trino/trino-memory-context@445
+- pkg:maven/io.trino/trino-memory-context@445?classifier=sources
+- pkg:maven/io.trino/trino-memory-context@446
+- pkg:maven/io.trino/trino-memory-context@446?classifier=sources
+- pkg:maven/io.trino/trino-memory-context@447
+- pkg:maven/io.trino/trino-memory-context@447?classifier=sources

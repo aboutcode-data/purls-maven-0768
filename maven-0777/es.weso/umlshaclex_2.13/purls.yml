@@ -1,2 +1,6 @@
 - pkg:maven/es.weso/umlshaclex_2.13@0.0.82
 - pkg:maven/es.weso/umlshaclex_2.13@0.0.82?classifier=sources
+- pkg:maven/es.weso/umlshaclex_2.13@0.1.0
+- pkg:maven/es.weso/umlshaclex_2.13@0.1.0?classifier=sources
+- pkg:maven/es.weso/umlshaclex_2.13@0.1.1
+- pkg:maven/es.weso/umlshaclex_2.13@0.1.1?classifier=sources

@@ -355,6 +355,8 @@
 - pkg:maven/org.apache.camel/camel-mybatis@3.22.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-mybatis@3.22.1
 - pkg:maven/org.apache.camel/camel-mybatis@3.22.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-mybatis@3.22.2
+- pkg:maven/org.apache.camel/camel-mybatis@3.22.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-mybatis@3.3.0
 - pkg:maven/org.apache.camel/camel-mybatis@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-mybatis@3.4.0
@@ -415,6 +417,8 @@
 - pkg:maven/org.apache.camel/camel-mybatis@4.0.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-mybatis@4.0.4
 - pkg:maven/org.apache.camel/camel-mybatis@4.0.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-mybatis@4.0.5
+- pkg:maven/org.apache.camel/camel-mybatis@4.0.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-mybatis@4.1.0
 - pkg:maven/org.apache.camel/camel-mybatis@4.1.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-mybatis@4.2.0
@@ -425,5 +429,9 @@
 - pkg:maven/org.apache.camel/camel-mybatis@4.4.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-mybatis@4.4.1
 - pkg:maven/org.apache.camel/camel-mybatis@4.4.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-mybatis@4.4.2
+- pkg:maven/org.apache.camel/camel-mybatis@4.4.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-mybatis@4.5.0
 - pkg:maven/org.apache.camel/camel-mybatis@4.5.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-mybatis@4.6.0
+- pkg:maven/org.apache.camel/camel-mybatis@4.6.0?classifier=sources

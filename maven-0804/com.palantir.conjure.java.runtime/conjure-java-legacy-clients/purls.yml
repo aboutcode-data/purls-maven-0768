@@ -76,3 +76,4 @@
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-legacy-clients@8.5.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-legacy-clients@8.6.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-legacy-clients@8.7.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-legacy-clients@8.8.0?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/com.sap.cloud.instancemanager/client@3.8.0?classifier=sources
 - pkg:maven/com.sap.cloud.instancemanager/client@3.9.0
 - pkg:maven/com.sap.cloud.instancemanager/client@3.9.0?classifier=sources
+- pkg:maven/com.sap.cloud.instancemanager/client@4.8.0
+- pkg:maven/com.sap.cloud.instancemanager/client@4.8.0?classifier=sources

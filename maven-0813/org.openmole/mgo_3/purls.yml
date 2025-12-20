@@ -6,3 +6,5 @@
 - pkg:maven/org.openmole/mgo_3@3.54?classifier=sources
 - pkg:maven/org.openmole/mgo_3@3.55
 - pkg:maven/org.openmole/mgo_3@3.55?classifier=sources
+- pkg:maven/org.openmole/mgo_3@3.56
+- pkg:maven/org.openmole/mgo_3@3.56?classifier=sources

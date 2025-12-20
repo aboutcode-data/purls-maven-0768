@@ -32,6 +32,8 @@
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-metrics@3.2.6?classifier=sources
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-metrics@3.2.7
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-metrics@3.2.7?classifier=sources
+- pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-metrics@3.2.8
+- pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-metrics@3.2.8?classifier=sources
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-metrics@4.0.0
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-metrics@4.0.0-ALPHA1
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-metrics@4.0.0-ALPHA1?classifier=sources
@@ -68,3 +70,5 @@
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-metrics@4.0.6?classifier=sources
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-metrics@4.0.7
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-metrics@4.0.7?classifier=sources
+- pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-metrics@4.0.8
+- pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-metrics@4.0.8?classifier=sources

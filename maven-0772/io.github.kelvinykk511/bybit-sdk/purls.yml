@@ -1,1 +1,2 @@
+- pkg:maven/io.github.kelvinykk511/bybit-sdk@1.0.0?classifier=sources
 - pkg:maven/io.github.kelvinykk511/bybit-sdk@1.0?classifier=sources

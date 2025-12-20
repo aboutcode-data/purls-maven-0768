@@ -6,6 +6,7 @@
 - pkg:maven/org.mvnpm.at.vaadin/overlay@23.3.7?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/overlay@23.3.8?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/overlay@23.4.0?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/overlay@23.5.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/overlay@24.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/overlay@24.0.14?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/overlay@24.0.2?classifier=sources
@@ -28,6 +29,9 @@
 - pkg:maven/org.mvnpm.at.vaadin/overlay@24.2.9?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/overlay@24.3.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/overlay@24.3.10?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/overlay@24.3.11?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/overlay@24.3.12?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/overlay@24.3.13?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/overlay@24.3.1?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/overlay@24.3.2?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/overlay@24.3.3?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/com.github.p2m2/n3js_sjs1_2.13@1.13.0?classifier=sources
 - pkg:maven/com.github.p2m2/n3js_sjs1_2.13@1.16.3
 - pkg:maven/com.github.p2m2/n3js_sjs1_2.13@1.16.3?classifier=sources
+- pkg:maven/com.github.p2m2/n3js_sjs1_2.13@1.17.2
+- pkg:maven/com.github.p2m2/n3js_sjs1_2.13@1.17.2?classifier=sources
 - pkg:maven/com.github.p2m2/n3js_sjs1_2.13@v1.17.2
 - pkg:maven/com.github.p2m2/n3js_sjs1_2.13@v1.17.2?classifier=sources
 - pkg:maven/com.github.p2m2/n3js_sjs1_2.13@v1.17.2d

@@ -34,3 +34,4 @@
 - pkg:maven/com.intellisrc/groovy-extend@3.0.8.7?classifier=sources
 - pkg:maven/com.intellisrc/groovy-extend@4.0.15.11?classifier=sources
 - pkg:maven/com.intellisrc/groovy-extend@4.0.15.12?classifier=sources
+- pkg:maven/com.intellisrc/groovy-extend@4.0.20.13?classifier=sources

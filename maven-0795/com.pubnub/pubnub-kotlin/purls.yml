@@ -56,3 +56,4 @@
 - pkg:maven/com.pubnub/pubnub-kotlin@8.0.0?classifier=sources
 - pkg:maven/com.pubnub/pubnub-kotlin@9.0.0?classifier=sources
 - pkg:maven/com.pubnub/pubnub-kotlin@9.1.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-kotlin@9.1.1?classifier=sources

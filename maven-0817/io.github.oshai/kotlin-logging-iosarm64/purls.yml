@@ -36,3 +36,6 @@
 - pkg:maven/io.github.oshai/kotlin-logging-iosarm64@6.0.2?classifier=sources
 - pkg:maven/io.github.oshai/kotlin-logging-iosarm64@6.0.3?classifier=sources
 - pkg:maven/io.github.oshai/kotlin-logging-iosarm64@6.0.4?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-iosarm64@6.0.7?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-iosarm64@6.0.8?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-iosarm64@6.0.9?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-geotools@4.5.0?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-geotools@4.6.0?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-geotools@4.7.0?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-geotools@4.7.1?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-geotools@4.7.2?classifier=sources

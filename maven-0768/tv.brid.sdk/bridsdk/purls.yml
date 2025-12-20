@@ -33,3 +33,5 @@
 - pkg:maven/tv.brid.sdk/bridsdk@1.1.84-SHAPSHOT?classifier=sources
 - pkg:maven/tv.brid.sdk/bridsdk@1.1?classifier=sources
 - pkg:maven/tv.brid.sdk/bridsdk@1.2-media3?classifier=sources
+- pkg:maven/tv.brid.sdk/bridsdk@1.2.1?classifier=sources
+- pkg:maven/tv.brid.sdk/bridsdk@1.2?classifier=sources

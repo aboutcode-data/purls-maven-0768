@@ -6,4 +6,8 @@
 - pkg:maven/com.github.omarmiatello.telegram/dataclass@5.7?classifier=sources
 - pkg:maven/com.github.omarmiatello.telegram/dataclass@6.0.1?classifier=sources
 - pkg:maven/com.github.omarmiatello.telegram/dataclass@6.0?classifier=sources
+- pkg:maven/com.github.omarmiatello.telegram/dataclass@6.1.1?classifier=sources
 - pkg:maven/com.github.omarmiatello.telegram/dataclass@6.1?classifier=sources
+- pkg:maven/com.github.omarmiatello.telegram/dataclass@7.2.1?classifier=sources
+- pkg:maven/com.github.omarmiatello.telegram/dataclass@7.2.2?classifier=sources
+- pkg:maven/com.github.omarmiatello.telegram/dataclass@7.2?classifier=sources

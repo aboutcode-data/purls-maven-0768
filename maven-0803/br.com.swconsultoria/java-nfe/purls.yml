@@ -42,3 +42,5 @@
 - pkg:maven/br.com.swconsultoria/java-nfe@4.00.30?classifier=sources
 - pkg:maven/br.com.swconsultoria/java-nfe@4.00.31
 - pkg:maven/br.com.swconsultoria/java-nfe@4.00.31?classifier=sources
+- pkg:maven/br.com.swconsultoria/java-nfe@4.00.32
+- pkg:maven/br.com.swconsultoria/java-nfe@4.00.32?classifier=sources

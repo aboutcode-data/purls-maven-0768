@@ -28,6 +28,8 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.22.13?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.22.14
 - pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.22.14?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.22.15
+- pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.22.15?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.22.4
 - pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.22.4?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-sae@1.22.5

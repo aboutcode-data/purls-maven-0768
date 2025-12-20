@@ -104,3 +104,5 @@
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.46.13-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.47.0-public
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.47.0-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-graph-local@0.48.0-public
+- pkg:maven/com.aliyun.odps/odps-graph-local@0.48.0-public?classifier=sources

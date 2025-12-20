@@ -7,3 +7,4 @@
 - pkg:maven/com.liferay/com.liferay.accessibility.settings.state.web@1.0.2
 - pkg:maven/com.liferay/com.liferay.accessibility.settings.state.web@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.accessibility.settings.state.web@1.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.accessibility.settings.state.web@1.0.4?classifier=sources

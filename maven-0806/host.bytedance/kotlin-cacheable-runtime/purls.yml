@@ -1,0 +1,5 @@
+- pkg:maven/host.bytedance/kotlin-cacheable-runtime@0.0.1-beta?classifier=sources
+- pkg:maven/host.bytedance/kotlin-cacheable-runtime@0.0.2-beta?classifier=sources
+- pkg:maven/host.bytedance/kotlin-cacheable-runtime@0.0.3-beta?classifier=sources
+- pkg:maven/host.bytedance/kotlin-cacheable-runtime@0.0.4-beta?classifier=sources
+- pkg:maven/host.bytedance/kotlin-cacheable-runtime@0.0.5-beta?classifier=sources

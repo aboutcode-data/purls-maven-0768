@@ -1,0 +1,2 @@
+- pkg:maven/com.spotify/scio-test-core_2.13@0.14.4
+- pkg:maven/com.spotify/scio-test-core_2.13@0.14.4?classifier=sources

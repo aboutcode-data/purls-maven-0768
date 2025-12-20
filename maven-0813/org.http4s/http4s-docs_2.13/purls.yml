@@ -42,6 +42,8 @@
 - pkg:maven/org.http4s/http4s-docs_2.13@0.23.25?classifier=sources
 - pkg:maven/org.http4s/http4s-docs_2.13@0.23.26
 - pkg:maven/org.http4s/http4s-docs_2.13@0.23.26?classifier=sources
+- pkg:maven/org.http4s/http4s-docs_2.13@0.23.27
+- pkg:maven/org.http4s/http4s-docs_2.13@0.23.27?classifier=sources
 - pkg:maven/org.http4s/http4s-docs_2.13@1.0.0-M32
 - pkg:maven/org.http4s/http4s-docs_2.13@1.0.0-M32?classifier=sources
 - pkg:maven/org.http4s/http4s-docs_2.13@1.0.0-M33

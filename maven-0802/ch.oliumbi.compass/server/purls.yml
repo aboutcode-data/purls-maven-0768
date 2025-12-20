@@ -1,1 +1,2 @@
 - pkg:maven/ch.oliumbi.compass/server@1.0.0?classifier=sources
+- pkg:maven/ch.oliumbi.compass/server@1.1.0?classifier=sources

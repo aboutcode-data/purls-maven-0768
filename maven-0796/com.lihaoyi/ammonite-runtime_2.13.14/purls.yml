@@ -1,0 +1,6 @@
+- pkg:maven/com.lihaoyi/ammonite-runtime_2.13.14@3.0.0-M1-17-2ee6a197
+- pkg:maven/com.lihaoyi/ammonite-runtime_2.13.14@3.0.0-M1-17-2ee6a197?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-runtime_2.13.14@3.0.0-M1-18-99efad1f
+- pkg:maven/com.lihaoyi/ammonite-runtime_2.13.14@3.0.0-M1-18-99efad1f?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-runtime_2.13.14@3.0.0-M1-19-a7973e17
+- pkg:maven/com.lihaoyi/ammonite-runtime_2.13.14@3.0.0-M1-19-a7973e17?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.slack.lint/slack-lint-checks@0.6.1?classifier=sources
 - pkg:maven/com.slack.lint/slack-lint-checks@0.7.0?classifier=sources
 - pkg:maven/com.slack.lint/slack-lint-checks@0.7.1?classifier=sources
+- pkg:maven/com.slack.lint/slack-lint-checks@0.7.2?classifier=sources
+- pkg:maven/com.slack.lint/slack-lint-checks@0.7.3?classifier=sources

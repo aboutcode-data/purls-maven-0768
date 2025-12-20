@@ -1,1 +1,2 @@
 - pkg:maven/org.testcontainers/openfga@1.19.7?classifier=sources
+- pkg:maven/org.testcontainers/openfga@1.19.8?classifier=sources

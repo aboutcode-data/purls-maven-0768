@@ -834,3 +834,5 @@
 - pkg:maven/ch.epfl.scala/bloop-config_2.13@1.5.4?classifier=sources
 - pkg:maven/ch.epfl.scala/bloop-config_2.13@1.5.5
 - pkg:maven/ch.epfl.scala/bloop-config_2.13@1.5.5?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-config_2.13@2.0.0
+- pkg:maven/ch.epfl.scala/bloop-config_2.13@2.0.0?classifier=sources

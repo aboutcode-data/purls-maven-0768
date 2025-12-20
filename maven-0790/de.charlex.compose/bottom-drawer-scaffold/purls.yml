@@ -3,3 +3,8 @@
 - pkg:maven/de.charlex.compose/bottom-drawer-scaffold@1.1.0-alpha01?classifier=sources
 - pkg:maven/de.charlex.compose/bottom-drawer-scaffold@1.1.0-beta01?classifier=sources
 - pkg:maven/de.charlex.compose/bottom-drawer-scaffold@1.1.0-beta02?classifier=sources
+- pkg:maven/de.charlex.compose/bottom-drawer-scaffold@2.0.0-alpha01?classifier=sources
+- pkg:maven/de.charlex.compose/bottom-drawer-scaffold@2.0.0-alpha02?classifier=sources
+- pkg:maven/de.charlex.compose/bottom-drawer-scaffold@2.0.0-beta01?classifier=sources
+- pkg:maven/de.charlex.compose/bottom-drawer-scaffold@2.0.0-beta02?classifier=sources
+- pkg:maven/de.charlex.compose/bottom-drawer-scaffold@2.0.0-beta03?classifier=sources

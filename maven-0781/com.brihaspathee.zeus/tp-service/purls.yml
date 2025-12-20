@@ -6,3 +6,5 @@
 - pkg:maven/com.brihaspathee.zeus/tp-service@0.0.4?classifier=sources
 - pkg:maven/com.brihaspathee.zeus/tp-service@1.0.0
 - pkg:maven/com.brihaspathee.zeus/tp-service@1.0.0?classifier=sources
+- pkg:maven/com.brihaspathee.zeus/tp-service@1.0.1
+- pkg:maven/com.brihaspathee.zeus/tp-service@1.0.1?classifier=sources

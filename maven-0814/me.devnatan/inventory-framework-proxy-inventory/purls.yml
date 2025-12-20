@@ -1,2 +1,3 @@
+- pkg:maven/me.devnatan/inventory-framework-proxy-inventory@3.0.10?classifier=sources
 - pkg:maven/me.devnatan/inventory-framework-proxy-inventory@3.1.0-beta?classifier=sources
 - pkg:maven/me.devnatan/inventory-framework-proxy-inventory@3.1.0-rc?classifier=sources

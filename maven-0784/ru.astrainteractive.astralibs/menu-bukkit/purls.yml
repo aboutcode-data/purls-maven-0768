@@ -7,3 +7,5 @@
 - pkg:maven/ru.astrainteractive.astralibs/menu-bukkit@3.1.0-alpha?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/menu-bukkit@3.2.0-alpha?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/menu-bukkit@3.3.0-alpha?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/menu-bukkit@3.3.1-alpha?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/menu-bukkit@3.4.0-alpha?classifier=sources

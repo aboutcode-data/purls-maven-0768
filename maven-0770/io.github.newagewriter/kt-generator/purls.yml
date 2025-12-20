@@ -3,3 +3,4 @@
 - pkg:maven/io.github.newagewriter/kt-generator@0.1.0-beta.3?classifier=sources
 - pkg:maven/io.github.newagewriter/kt-generator@0.1.0-beta.4?classifier=sources
 - pkg:maven/io.github.newagewriter/kt-generator@0.1.0-beta.5?classifier=sources
+- pkg:maven/io.github.newagewriter/kt-generator@0.1.0?classifier=sources

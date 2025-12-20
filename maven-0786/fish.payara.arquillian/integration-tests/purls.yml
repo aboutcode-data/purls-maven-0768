@@ -12,6 +12,7 @@
 - pkg:maven/fish.payara.arquillian/integration-tests@2.4.5
 - pkg:maven/fish.payara.arquillian/integration-tests@2.4.6
 - pkg:maven/fish.payara.arquillian/integration-tests@2.5
+- pkg:maven/fish.payara.arquillian/integration-tests@3.0
 - pkg:maven/fish.payara.arquillian/integration-tests@3.0.alpha2
 - pkg:maven/fish.payara.arquillian/integration-tests@3.0.alpha3
 - pkg:maven/fish.payara.arquillian/integration-tests@3.0.alpha6

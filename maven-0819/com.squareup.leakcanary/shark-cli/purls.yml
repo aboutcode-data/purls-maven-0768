@@ -8,6 +8,7 @@
 - pkg:maven/com.squareup.leakcanary/shark-cli@2.11?classifier=sources
 - pkg:maven/com.squareup.leakcanary/shark-cli@2.12?classifier=sources
 - pkg:maven/com.squareup.leakcanary/shark-cli@2.13?classifier=sources
+- pkg:maven/com.squareup.leakcanary/shark-cli@2.14?classifier=sources
 - pkg:maven/com.squareup.leakcanary/shark-cli@2.1?classifier=sources
 - pkg:maven/com.squareup.leakcanary/shark-cli@2.2?classifier=sources
 - pkg:maven/com.squareup.leakcanary/shark-cli@2.3?classifier=sources
@@ -20,3 +21,6 @@
 - pkg:maven/com.squareup.leakcanary/shark-cli@2.9.1?classifier=sources
 - pkg:maven/com.squareup.leakcanary/shark-cli@2.9?classifier=sources
 - pkg:maven/com.squareup.leakcanary/shark-cli@3.0-alpha-1?classifier=sources
+- pkg:maven/com.squareup.leakcanary/shark-cli@3.0-alpha-2?classifier=sources
+- pkg:maven/com.squareup.leakcanary/shark-cli@3.0-alpha-3?classifier=sources
+- pkg:maven/com.squareup.leakcanary/shark-cli@3.0-alpha-4?classifier=sources

@@ -249,6 +249,7 @@
 - pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.23.13?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.23.14?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.23.15?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.23.16?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.23.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.23.2
 - pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.23.2?classifier=sources
@@ -270,6 +271,8 @@
 - pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.25.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.25.1
 - pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.25.1?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.25.2?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.25.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.8-Beryllium
 - pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.8-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/opendaylight-l2-types@2013.08.27.8.1-Beryllium-SR1

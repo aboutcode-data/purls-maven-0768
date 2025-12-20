@@ -40,3 +40,5 @@
 - pkg:maven/fun.fengwk.convention4j/convention4j-oauth2-server@0.0.39?classifier=sources
 - pkg:maven/fun.fengwk.convention4j/convention4j-oauth2-server@0.0.40
 - pkg:maven/fun.fengwk.convention4j/convention4j-oauth2-server@0.0.40?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-oauth2-server@0.0.41
+- pkg:maven/fun.fengwk.convention4j/convention4j-oauth2-server@0.0.41?classifier=sources

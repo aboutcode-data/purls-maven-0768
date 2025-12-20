@@ -1,0 +1,1 @@
+- pkg:maven/io.github.joker1007/embulk-output-cassandra@0.6.0?classifier=sources

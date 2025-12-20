@@ -16,3 +16,4 @@
 - pkg:maven/com.epam.deltix/dfp@0.12.8?classifier=sources
 - pkg:maven/com.epam.deltix/dfp@1.0.1?classifier=sources
 - pkg:maven/com.epam.deltix/dfp@1.0.2?classifier=sources
+- pkg:maven/com.epam.deltix/dfp@1.0.3?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.snap.business.sdk.v3/snap-capi@1.0.0?classifier=sources
+- pkg:maven/com.snap.business.sdk.v3/snap-capi@1.1.2?classifier=sources
+- pkg:maven/com.snap.business.sdk.v3/snap-capi@1.1.4?classifier=sources

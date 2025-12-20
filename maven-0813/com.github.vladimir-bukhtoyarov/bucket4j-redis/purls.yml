@@ -14,3 +14,5 @@
 - pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-redis@7.5.0?classifier=sources
 - pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-redis@7.6.0
 - pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-redis@7.6.0?classifier=sources
+- pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-redis@7.6.1
+- pkg:maven/com.github.vladimir-bukhtoyarov/bucket4j-redis@8.0.1

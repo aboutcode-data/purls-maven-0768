@@ -34,3 +34,6 @@
 - pkg:maven/org.apache.maven.shared/maven-invoker@3.2.0
 - pkg:maven/org.apache.maven.shared/maven-invoker@3.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.shared/maven-invoker@3.2.0?classifier=sources
+- pkg:maven/org.apache.maven.shared/maven-invoker@3.3.0
+- pkg:maven/org.apache.maven.shared/maven-invoker@3.3.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.shared/maven-invoker@3.3.0?classifier=sources

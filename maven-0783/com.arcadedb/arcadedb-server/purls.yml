@@ -58,3 +58,5 @@
 - pkg:maven/com.arcadedb/arcadedb-server@24.1.1?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-server@24.2.1
 - pkg:maven/com.arcadedb/arcadedb-server@24.2.1?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-server@24.4.1
+- pkg:maven/com.arcadedb/arcadedb-server@24.4.1?classifier=sources
