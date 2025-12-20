@@ -50,3 +50,5 @@
 - pkg:maven/io.highlight/highlight-log-log4j@-b93
 - pkg:maven/io.highlight/highlight-log-log4j@-b94
 - pkg:maven/io.highlight/highlight-log-log4j@-b95
+- pkg:maven/io.highlight/highlight-log-log4j@0.1.0
+- pkg:maven/io.highlight/highlight-log-log4j@0.1.1

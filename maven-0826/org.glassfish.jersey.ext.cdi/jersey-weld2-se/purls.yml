@@ -94,6 +94,8 @@
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@2.39?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@2.40
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@2.40?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@2.41
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@2.41?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@3.0.0
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@3.0.0-M1
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@3.0.0-M1?classifier=sources
@@ -107,6 +109,8 @@
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@3.0.10?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@3.0.11
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@3.0.11?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@3.0.12
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@3.0.12?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@3.0.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@3.0.2
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-weld2-se@3.0.2?classifier=sources

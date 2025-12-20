@@ -5,3 +5,5 @@
 - pkg:maven/org.echocat.maven.plugins/hugo-maven-plugin@0.2.5
 - pkg:maven/org.echocat.maven.plugins/hugo-maven-plugin@0.2.6
 - pkg:maven/org.echocat.maven.plugins/hugo-maven-plugin@0.2.7
+- pkg:maven/org.echocat.maven.plugins/hugo-maven-plugin@0.2.8
+- pkg:maven/org.echocat.maven.plugins/hugo-maven-plugin@0.2.9

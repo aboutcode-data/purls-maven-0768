@@ -350,6 +350,8 @@
 - pkg:maven/com.immomo.momomedia/mmcv@3.2.1.202306131037?type=aar
 - pkg:maven/com.immomo.momomedia/mmcv@3.2.1.202306131101?classifier=sources
 - pkg:maven/com.immomo.momomedia/mmcv@3.2.1.202306131101?type=aar
+- pkg:maven/com.immomo.momomedia/mmcv@3.2.1.202311061436?classifier=sources
+- pkg:maven/com.immomo.momomedia/mmcv@3.2.1.202311061436?type=aar
 - pkg:maven/com.immomo.momomedia/mmcv@od-202105211728?classifier=sources
 - pkg:maven/com.immomo.momomedia/mmcv@od-202105211728?type=aar
 - pkg:maven/com.immomo.momomedia/mmcv@od-202105221007?classifier=sources

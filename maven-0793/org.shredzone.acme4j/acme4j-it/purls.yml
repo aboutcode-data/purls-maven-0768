@@ -34,3 +34,5 @@
 - pkg:maven/org.shredzone.acme4j/acme4j-it@2.9?classifier=sources
 - pkg:maven/org.shredzone.acme4j/acme4j-it@3.0.0
 - pkg:maven/org.shredzone.acme4j/acme4j-it@3.0.0?classifier=sources
+- pkg:maven/org.shredzone.acme4j/acme4j-it@3.1.0
+- pkg:maven/org.shredzone.acme4j/acme4j-it@3.1.0?classifier=sources

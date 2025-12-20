@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.sydx/scaffold-mybatis-plus@1.0.0
+- pkg:maven/io.gitee.sydx/scaffold-mybatis-plus@1.0.0?classifier=sources

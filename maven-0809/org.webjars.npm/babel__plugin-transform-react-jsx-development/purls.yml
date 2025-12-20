@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/babel__plugin-transform-react-jsx-development@7.16.7?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-react-jsx-development@7.18.6
 - pkg:maven/org.webjars.npm/babel__plugin-transform-react-jsx-development@7.18.6?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-transform-react-jsx-development@8.0.0-alpha.3
+- pkg:maven/org.webjars.npm/babel__plugin-transform-react-jsx-development@8.0.0-alpha.3?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-transform-react-jsx-development@8.0.0-alpha.4
+- pkg:maven/org.webjars.npm/babel__plugin-transform-react-jsx-development@8.0.0-alpha.4?classifier=sources

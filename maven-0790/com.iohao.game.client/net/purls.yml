@@ -1,0 +1,2 @@
+- pkg:maven/com.iohao.game.client/net@17.1
+- pkg:maven/com.iohao.game.client/net@17.1?classifier=sources

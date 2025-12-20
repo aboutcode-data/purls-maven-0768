@@ -70,3 +70,5 @@
 - pkg:maven/com.github.haflife3/datazilla@1.4.3?classifier=sources
 - pkg:maven/com.github.haflife3/datazilla@1.4.4
 - pkg:maven/com.github.haflife3/datazilla@1.4.4?classifier=sources
+- pkg:maven/com.github.haflife3/datazilla@1.4.5
+- pkg:maven/com.github.haflife3/datazilla@1.4.5?classifier=sources

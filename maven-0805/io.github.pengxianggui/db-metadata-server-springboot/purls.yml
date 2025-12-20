@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pengxianggui/db-metadata-server-springboot@2.4
+- pkg:maven/io.github.pengxianggui/db-metadata-server-springboot@2.4?classifier=sources

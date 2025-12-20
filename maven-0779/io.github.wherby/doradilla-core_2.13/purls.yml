@@ -10,3 +10,5 @@
 - pkg:maven/io.github.wherby/doradilla-core_2.13@1.8.0.4?classifier=sources
 - pkg:maven/io.github.wherby/doradilla-core_2.13@1.8.0.5.113
 - pkg:maven/io.github.wherby/doradilla-core_2.13@1.8.0.5.113?classifier=sources
+- pkg:maven/io.github.wherby/doradilla-core_2.13@1.8.0.5.114
+- pkg:maven/io.github.wherby/doradilla-core_2.13@1.8.0.5.114?classifier=sources

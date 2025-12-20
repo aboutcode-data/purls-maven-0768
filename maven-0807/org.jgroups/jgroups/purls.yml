@@ -400,6 +400,8 @@
 - pkg:maven/org.jgroups/jgroups@4.2.22.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@4.2.23.Final
 - pkg:maven/org.jgroups/jgroups@4.2.23.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@4.2.24.Final
+- pkg:maven/org.jgroups/jgroups@4.2.24.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@4.2.3.Final
 - pkg:maven/org.jgroups/jgroups@4.2.3.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@4.2.4.Final

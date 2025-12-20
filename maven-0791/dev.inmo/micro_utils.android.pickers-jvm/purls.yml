@@ -1,6 +1,12 @@
+- pkg:maven/dev.inmo/micro_utils.android.pickers-jvm@0.20.10?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.android.pickers-jvm@0.20.11?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.android.pickers-jvm@0.20.12?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.android.pickers-jvm@0.20.1?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.android.pickers-jvm@0.20.2?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.android.pickers-jvm@0.20.3?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.android.pickers-jvm@0.20.4?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.android.pickers-jvm@0.20.5?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.android.pickers-jvm@0.20.6?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.android.pickers-jvm@0.20.7?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.android.pickers-jvm@0.20.8?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.android.pickers-jvm@0.20.9?classifier=sources

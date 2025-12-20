@@ -1206,3 +1206,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-archive@7.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-archive@8.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-archive@8.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-archive@9.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-archive@9.0.0?classifier=sources

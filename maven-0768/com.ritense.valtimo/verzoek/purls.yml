@@ -7,3 +7,4 @@
 - pkg:maven/com.ritense.valtimo/verzoek@10.5.2.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/verzoek@10.5.3.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/verzoek@10.6.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/verzoek@10.7.0.RELEASE?classifier=sources

@@ -41,3 +41,4 @@
 - pkg:maven/io.pivotal.cfenv/java-cfenv-boot-pivotal-sso@3.0.0?classifier=sources
 - pkg:maven/io.pivotal.cfenv/java-cfenv-boot-pivotal-sso@3.1.0?classifier=sources
 - pkg:maven/io.pivotal.cfenv/java-cfenv-boot-pivotal-sso@3.1.1?classifier=sources
+- pkg:maven/io.pivotal.cfenv/java-cfenv-boot-pivotal-sso@3.1.2?classifier=sources

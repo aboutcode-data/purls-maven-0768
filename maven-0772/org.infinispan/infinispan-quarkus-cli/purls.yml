@@ -1,3 +1,4 @@
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@15.0.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@15.0.0.Dev02?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@15.0.0.Dev03?classifier=sources
+- pkg:maven/org.infinispan/infinispan-quarkus-cli@15.0.0.Dev04?classifier=sources

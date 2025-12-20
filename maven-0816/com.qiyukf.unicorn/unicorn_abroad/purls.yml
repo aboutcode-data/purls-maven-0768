@@ -12,6 +12,7 @@
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@7.9.1?type=aar
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@8.1.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@8.1.0?type=aar
+- pkg:maven/com.qiyukf.unicorn/unicorn_abroad@8.10.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@8.2.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@8.2.0?type=aar
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@8.3.0?classifier=sources

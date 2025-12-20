@@ -122,3 +122,5 @@
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-core@3.3.0?classifier=sources
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-core@4.0.0
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-core@4.0.0?classifier=sources
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-core@4.0.2
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-core@4.0.2?classifier=sources

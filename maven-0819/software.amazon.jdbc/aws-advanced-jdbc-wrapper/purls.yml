@@ -10,3 +10,4 @@
 - pkg:maven/software.amazon.jdbc/aws-advanced-jdbc-wrapper@2.2.2?classifier=sources
 - pkg:maven/software.amazon.jdbc/aws-advanced-jdbc-wrapper@2.2.3?classifier=sources
 - pkg:maven/software.amazon.jdbc/aws-advanced-jdbc-wrapper@2.2.4?classifier=sources
+- pkg:maven/software.amazon.jdbc/aws-advanced-jdbc-wrapper@2.2.5?classifier=sources

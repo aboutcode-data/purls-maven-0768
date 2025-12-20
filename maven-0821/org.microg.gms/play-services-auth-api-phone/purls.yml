@@ -1,1 +1,2 @@
 - pkg:maven/org.microg.gms/play-services-auth-api-phone@0.2.29.233013?classifier=sources
+- pkg:maven/org.microg.gms/play-services-auth-api-phone@0.3.0.233515?classifier=sources

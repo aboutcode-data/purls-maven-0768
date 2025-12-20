@@ -20,3 +20,4 @@
 - pkg:maven/com.yandex.ads.adapter/ironsource-mobileads@5.9.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.adapter/ironsource-mobileads@6.0.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.adapter/ironsource-mobileads@6.0.1.0?classifier=sources
+- pkg:maven/com.yandex.ads.adapter/ironsource-mobileads@6.1.0.0?classifier=sources

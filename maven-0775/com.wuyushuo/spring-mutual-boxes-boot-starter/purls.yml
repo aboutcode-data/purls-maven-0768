@@ -6,3 +6,5 @@
 - pkg:maven/com.wuyushuo/spring-mutual-boxes-boot-starter@2.0.3?classifier=sources
 - pkg:maven/com.wuyushuo/spring-mutual-boxes-boot-starter@2.0.4
 - pkg:maven/com.wuyushuo/spring-mutual-boxes-boot-starter@2.0.4?classifier=sources
+- pkg:maven/com.wuyushuo/spring-mutual-boxes-boot-starter@2.0.5
+- pkg:maven/com.wuyushuo/spring-mutual-boxes-boot-starter@2.0.5?classifier=sources

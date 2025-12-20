@@ -3,3 +3,5 @@
 - pkg:maven/io.github.bluegroundltd/enum-convertible-annotations@1.0.2?classifier=sources
 - pkg:maven/io.github.bluegroundltd/enum-convertible-annotations@1.0.3-alpha01?classifier=sources
 - pkg:maven/io.github.bluegroundltd/enum-convertible-annotations@1.0.3?classifier=sources
+- pkg:maven/io.github.bluegroundltd/enum-convertible-annotations@1.0.4-aplha01?classifier=sources
+- pkg:maven/io.github.bluegroundltd/enum-convertible-annotations@1.0.4-aplha02?classifier=sources

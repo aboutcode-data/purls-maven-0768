@@ -4,3 +4,6 @@
 - pkg:maven/de.codelix.commandapi/paper@2.2.3?classifier=sources
 - pkg:maven/de.codelix.commandapi/paper@2.2.4?classifier=sources
 - pkg:maven/de.codelix.commandapi/paper@3.0.0?classifier=sources
+- pkg:maven/de.codelix.commandapi/paper@3.0.1?classifier=sources
+- pkg:maven/de.codelix.commandapi/paper@3.0.2?classifier=sources
+- pkg:maven/de.codelix.commandapi/paper@3.0.3?classifier=sources

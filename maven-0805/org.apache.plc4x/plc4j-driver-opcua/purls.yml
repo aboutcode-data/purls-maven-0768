@@ -1,4 +1,5 @@
 - pkg:maven/org.apache.plc4x/plc4j-driver-opcua@0.10.0?classifier=sources
+- pkg:maven/org.apache.plc4x/plc4j-driver-opcua@0.11.0?classifier=sources
 - pkg:maven/org.apache.plc4x/plc4j-driver-opcua@0.4.0
 - pkg:maven/org.apache.plc4x/plc4j-driver-opcua@0.4.0?classifier=sources
 - pkg:maven/org.apache.plc4x/plc4j-driver-opcua@0.5.0

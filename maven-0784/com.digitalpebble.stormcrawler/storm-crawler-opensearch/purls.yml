@@ -1,3 +1,5 @@
+- pkg:maven/com.digitalpebble.stormcrawler/storm-crawler-opensearch@2.10
+- pkg:maven/com.digitalpebble.stormcrawler/storm-crawler-opensearch@2.10?classifier=sources
 - pkg:maven/com.digitalpebble.stormcrawler/storm-crawler-opensearch@2.7
 - pkg:maven/com.digitalpebble.stormcrawler/storm-crawler-opensearch@2.7?classifier=sources
 - pkg:maven/com.digitalpebble.stormcrawler/storm-crawler-opensearch@2.8

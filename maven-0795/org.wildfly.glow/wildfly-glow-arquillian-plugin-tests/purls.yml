@@ -3,3 +3,4 @@
 - pkg:maven/org.wildfly.glow/wildfly-glow-arquillian-plugin-tests@1.0.0.Alpha4
 - pkg:maven/org.wildfly.glow/wildfly-glow-arquillian-plugin-tests@1.0.0.Alpha5
 - pkg:maven/org.wildfly.glow/wildfly-glow-arquillian-plugin-tests@1.0.0.Alpha6
+- pkg:maven/org.wildfly.glow/wildfly-glow-arquillian-plugin-tests@1.0.0.Alpha7

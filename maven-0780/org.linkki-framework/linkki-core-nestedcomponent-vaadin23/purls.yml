@@ -28,3 +28,5 @@
 - pkg:maven/org.linkki-framework/linkki-core-nestedcomponent-vaadin23@2.3.6?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-core-nestedcomponent-vaadin23@2.3.7
 - pkg:maven/org.linkki-framework/linkki-core-nestedcomponent-vaadin23@2.3.7?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-core-nestedcomponent-vaadin23@2.3.8
+- pkg:maven/org.linkki-framework/linkki-core-nestedcomponent-vaadin23@2.3.8?classifier=sources

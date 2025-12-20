@@ -6,3 +6,4 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.examples.styletest@0.6.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.examples.styletest@1.0.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.examples.styletest@1.1.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconlet.examples.styletest@1.2.0?classifier=sources

@@ -1,6 +1,9 @@
 - pkg:maven/foundation.cmo.service/foundation-cmo-opensales-starter@1.0.10
 - pkg:maven/foundation.cmo.service/foundation-cmo-opensales-starter@1.0.11
 - pkg:maven/foundation.cmo.service/foundation-cmo-opensales-starter@1.0.12
+- pkg:maven/foundation.cmo.service/foundation-cmo-opensales-starter@1.0.14
+- pkg:maven/foundation.cmo.service/foundation-cmo-opensales-starter@1.0.15
+- pkg:maven/foundation.cmo.service/foundation-cmo-opensales-starter@1.0.16
 - pkg:maven/foundation.cmo.service/foundation-cmo-opensales-starter@1.0.6
 - pkg:maven/foundation.cmo.service/foundation-cmo-opensales-starter@1.0.8
 - pkg:maven/foundation.cmo.service/foundation-cmo-opensales-starter@1.0.9

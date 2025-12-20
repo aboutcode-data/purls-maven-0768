@@ -12,3 +12,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jacoco@6.8.1
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jacoco@6.8.2
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jacoco@6.8.3
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jacoco@6.8.4
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jacoco@6.8.5

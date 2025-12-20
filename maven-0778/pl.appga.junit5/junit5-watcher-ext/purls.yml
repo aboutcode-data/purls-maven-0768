@@ -1,0 +1,4 @@
+- pkg:maven/pl.appga.junit5/junit5-watcher-ext@1.0
+- pkg:maven/pl.appga.junit5/junit5-watcher-ext@1.0?classifier=sources
+- pkg:maven/pl.appga.junit5/junit5-watcher-ext@1.1
+- pkg:maven/pl.appga.junit5/junit5-watcher-ext@1.1?classifier=sources

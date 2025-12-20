@@ -26,3 +26,4 @@
 - pkg:maven/net.folivo/trixnity-client-repository-realm@3.7.2?classifier=sources
 - pkg:maven/net.folivo/trixnity-client-repository-realm@3.8.0?classifier=sources
 - pkg:maven/net.folivo/trixnity-client-repository-realm@3.9.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-client-repository-realm@4.0.0-beta1?classifier=sources

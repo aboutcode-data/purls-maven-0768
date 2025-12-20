@@ -46,6 +46,7 @@
 - pkg:maven/io.airlift/airbase-policy@145
 - pkg:maven/io.airlift/airbase-policy@146
 - pkg:maven/io.airlift/airbase-policy@147
+- pkg:maven/io.airlift/airbase-policy@148
 - pkg:maven/io.airlift/airbase-policy@79
 - pkg:maven/io.airlift/airbase-policy@80
 - pkg:maven/io.airlift/airbase-policy@81

@@ -265,6 +265,8 @@
 - pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.0.20?classifier=sources
 - pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.0.21
 - pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.0.21?classifier=sources
+- pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.0.22
+- pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.0.22?classifier=sources
 - pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.0.2?classifier=sources
 - pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.0.3
 - pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.0.3?classifier=sources
@@ -302,3 +304,9 @@
 - pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.1.0-ALPHA-8?classifier=sources
 - pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.1.0-ALPHA-9
 - pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.1.0-ALPHA-9?classifier=sources
+- pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.1.0-BETA-1
+- pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.1.0-BETA-1?classifier=sources
+- pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.1.0-BETA-2
+- pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.1.0-BETA-2?classifier=sources
+- pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.1.0-BETA-3
+- pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.1.0-BETA-3?classifier=sources

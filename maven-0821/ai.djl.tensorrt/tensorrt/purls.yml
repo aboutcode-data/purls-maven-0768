@@ -22,3 +22,5 @@
 - pkg:maven/ai.djl.tensorrt/tensorrt@0.22.1?classifier=sources
 - pkg:maven/ai.djl.tensorrt/tensorrt@0.23.0
 - pkg:maven/ai.djl.tensorrt/tensorrt@0.23.0?classifier=sources
+- pkg:maven/ai.djl.tensorrt/tensorrt@0.24.0
+- pkg:maven/ai.djl.tensorrt/tensorrt@0.24.0?classifier=sources

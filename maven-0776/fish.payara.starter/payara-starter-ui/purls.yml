@@ -1,0 +1,2 @@
+- pkg:maven/fish.payara.starter/payara-starter-ui@1.0-beta1?classifier=sources
+- pkg:maven/fish.payara.starter/payara-starter-ui@1.0-beta1?type=war

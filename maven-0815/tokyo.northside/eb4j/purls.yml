@@ -1,1 +1,3 @@
 - pkg:maven/tokyo.northside/eb4j@3.0.1?classifier=sources
+- pkg:maven/tokyo.northside/eb4j@4.0.0?classifier=sources
+- pkg:maven/tokyo.northside/eb4j@4.1.0?classifier=sources

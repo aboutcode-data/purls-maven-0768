@@ -17,3 +17,5 @@
 - pkg:maven/com.flash3388.flashlib/flashlib.core.hid@3.2.0-beta.6?classifier=sources
 - pkg:maven/com.flash3388.flashlib/flashlib.core.hid@3.2.0-beta.7?classifier=sources
 - pkg:maven/com.flash3388.flashlib/flashlib.core.hid@3.2.0-beta.8?classifier=sources
+- pkg:maven/com.flash3388.flashlib/flashlib.core.hid@3.2.0?classifier=sources
+- pkg:maven/com.flash3388.flashlib/flashlib.core.hid@3.2.1?classifier=sources

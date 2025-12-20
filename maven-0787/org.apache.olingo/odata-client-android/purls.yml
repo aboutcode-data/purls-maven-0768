@@ -16,6 +16,8 @@
 - pkg:maven/org.apache.olingo/odata-client-android@4.0.0?classifier=sources
 - pkg:maven/org.apache.olingo/odata-client-android@4.1.0
 - pkg:maven/org.apache.olingo/odata-client-android@4.1.0?classifier=sources
+- pkg:maven/org.apache.olingo/odata-client-android@4.10.0
+- pkg:maven/org.apache.olingo/odata-client-android@4.10.0?classifier=sources
 - pkg:maven/org.apache.olingo/odata-client-android@4.2.0
 - pkg:maven/org.apache.olingo/odata-client-android@4.2.0?classifier=sources
 - pkg:maven/org.apache.olingo/odata-client-android@4.3.0

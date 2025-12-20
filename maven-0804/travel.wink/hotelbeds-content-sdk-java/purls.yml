@@ -1,0 +1,2 @@
+- pkg:maven/travel.wink/hotelbeds-content-sdk-java@0.0.2
+- pkg:maven/travel.wink/hotelbeds-content-sdk-java@0.0.2?classifier=sources

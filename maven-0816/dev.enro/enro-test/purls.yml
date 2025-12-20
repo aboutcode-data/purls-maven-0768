@@ -72,3 +72,6 @@
 - pkg:maven/dev.enro/enro-test@2.0.0-beta06?classifier=sources
 - pkg:maven/dev.enro/enro-test@2.0.0-beta07?classifier=sources
 - pkg:maven/dev.enro/enro-test@2.0.0?classifier=sources
+- pkg:maven/dev.enro/enro-test@2.1.0?classifier=sources
+- pkg:maven/dev.enro/enro-test@2.1.1?classifier=sources
+- pkg:maven/dev.enro/enro-test@2.2.0?classifier=sources

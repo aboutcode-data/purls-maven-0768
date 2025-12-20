@@ -155,3 +155,5 @@
 - pkg:maven/com.walmartlabs.concord/concord-dependency-manager@1.99.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-dependency-manager@2.0.0
 - pkg:maven/com.walmartlabs.concord/concord-dependency-manager@2.0.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-dependency-manager@2.1.0
+- pkg:maven/com.walmartlabs.concord/concord-dependency-manager@2.1.0?classifier=sources

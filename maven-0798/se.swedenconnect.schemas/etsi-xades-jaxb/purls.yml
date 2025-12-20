@@ -6,3 +6,7 @@
 - pkg:maven/se.swedenconnect.schemas/etsi-xades-jaxb@2.0.0?classifier=sources
 - pkg:maven/se.swedenconnect.schemas/etsi-xades-jaxb@2.0.1
 - pkg:maven/se.swedenconnect.schemas/etsi-xades-jaxb@2.0.1?classifier=sources
+- pkg:maven/se.swedenconnect.schemas/etsi-xades-jaxb@3.0.0
+- pkg:maven/se.swedenconnect.schemas/etsi-xades-jaxb@3.0.0?classifier=sources
+- pkg:maven/se.swedenconnect.schemas/etsi-xades-jaxb@3.0.1
+- pkg:maven/se.swedenconnect.schemas/etsi-xades-jaxb@3.0.1?classifier=sources

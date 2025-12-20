@@ -10,3 +10,5 @@
 - pkg:maven/com.deque.html.axe-core/playwright@4.6.0?classifier=sources
 - pkg:maven/com.deque.html.axe-core/playwright@4.7.0
 - pkg:maven/com.deque.html.axe-core/playwright@4.7.0?classifier=sources
+- pkg:maven/com.deque.html.axe-core/playwright@4.8.0
+- pkg:maven/com.deque.html.axe-core/playwright@4.8.0?classifier=sources

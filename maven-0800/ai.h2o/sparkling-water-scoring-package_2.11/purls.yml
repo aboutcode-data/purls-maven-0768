@@ -188,3 +188,11 @@
 - pkg:maven/ai.h2o/sparkling-water-scoring-package_2.11@3.42.0.3-1-2.3?classifier=sources
 - pkg:maven/ai.h2o/sparkling-water-scoring-package_2.11@3.42.0.3-1-2.4
 - pkg:maven/ai.h2o/sparkling-water-scoring-package_2.11@3.42.0.3-1-2.4?classifier=sources
+- pkg:maven/ai.h2o/sparkling-water-scoring-package_2.11@3.42.0.4-1-2.3
+- pkg:maven/ai.h2o/sparkling-water-scoring-package_2.11@3.42.0.4-1-2.3?classifier=sources
+- pkg:maven/ai.h2o/sparkling-water-scoring-package_2.11@3.42.0.4-1-2.4
+- pkg:maven/ai.h2o/sparkling-water-scoring-package_2.11@3.42.0.4-1-2.4?classifier=sources
+- pkg:maven/ai.h2o/sparkling-water-scoring-package_2.11@3.44.0.1-1-2.3
+- pkg:maven/ai.h2o/sparkling-water-scoring-package_2.11@3.44.0.1-1-2.3?classifier=sources
+- pkg:maven/ai.h2o/sparkling-water-scoring-package_2.11@3.44.0.1-1-2.4
+- pkg:maven/ai.h2o/sparkling-water-scoring-package_2.11@3.44.0.1-1-2.4?classifier=sources

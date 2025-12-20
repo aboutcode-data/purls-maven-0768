@@ -8,3 +8,5 @@
 - pkg:maven/com.gitee.tingen/oss4j-provider@0.1.6?classifier=sources
 - pkg:maven/com.gitee.tingen/oss4j-provider@1.0
 - pkg:maven/com.gitee.tingen/oss4j-provider@1.0?classifier=sources
+- pkg:maven/com.gitee.tingen/oss4j-provider@1.1
+- pkg:maven/com.gitee.tingen/oss4j-provider@1.1?classifier=sources

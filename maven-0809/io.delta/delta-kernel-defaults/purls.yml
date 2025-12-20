@@ -1,0 +1,2 @@
+- pkg:maven/io.delta/delta-kernel-defaults@3.0.0
+- pkg:maven/io.delta/delta-kernel-defaults@3.0.0?classifier=sources

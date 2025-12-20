@@ -1,0 +1,2 @@
+- pkg:maven/de.tschuehly/spring-view-component-jte-compiler@0.7.0?classifier=sources
+- pkg:maven/de.tschuehly/spring-view-component-jte-compiler@0.7.1?classifier=sources

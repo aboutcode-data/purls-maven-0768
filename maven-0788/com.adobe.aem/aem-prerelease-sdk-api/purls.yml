@@ -138,6 +138,16 @@
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.1.10912.20230130T173736Z-220900?classifier=sources
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.1.10912.20230130T173736Z-230100
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.1.10912.20230130T173736Z-230100?classifier=sources
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.10.13804.20231005T183332Z-230900
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.10.13804.20231005T183332Z-230900?classifier=sources
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.10.13804.20231005T183332Z-230901
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.10.13804.20231005T183332Z-230901?classifier=sources
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.10.13804.20231005T183332Z-230902
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.10.13804.20231005T183332Z-230902?classifier=sources
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.10.13804.20231005T183332Z-231000
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.10.13804.20231005T183332Z-231000?classifier=sources
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.10.14029.20231020T111912Z-230902
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.10.14029.20231020T111912Z-230902?classifier=sources
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.2.11289.20230224T170559Z-230100
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.2.11289.20230224T170559Z-230100?classifier=sources
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.3.11382.20230315T073850Z-230100
@@ -190,3 +200,5 @@
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.8.13323.20230831T134651Z-230800?classifier=sources
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.9.13420.20230907T185228Z-230800
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.9.13420.20230907T185228Z-230800?classifier=sources
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.9.13665.20230927T063259Z-230800
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2023.9.13665.20230927T063259Z-230800?classifier=sources

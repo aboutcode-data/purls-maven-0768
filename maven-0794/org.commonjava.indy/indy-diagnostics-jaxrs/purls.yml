@@ -185,3 +185,5 @@
 - pkg:maven/org.commonjava.indy/indy-diagnostics-jaxrs@3.2.2?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-diagnostics-jaxrs@3.2.3
 - pkg:maven/org.commonjava.indy/indy-diagnostics-jaxrs@3.2.3?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-diagnostics-jaxrs@3.3.1
+- pkg:maven/org.commonjava.indy/indy-diagnostics-jaxrs@3.3.1?classifier=sources

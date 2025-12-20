@@ -4,3 +4,5 @@
 - pkg:maven/org.mycore.pica2mods/pica2mods-runner@2.6?classifier=sources
 - pkg:maven/org.mycore.pica2mods/pica2mods-runner@2.7
 - pkg:maven/org.mycore.pica2mods/pica2mods-runner@2.7?classifier=sources
+- pkg:maven/org.mycore.pica2mods/pica2mods-runner@2.8
+- pkg:maven/org.mycore.pica2mods/pica2mods-runner@2.8?classifier=sources

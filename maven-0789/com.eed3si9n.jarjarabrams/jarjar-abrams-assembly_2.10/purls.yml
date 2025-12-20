@@ -1,0 +1,2 @@
+- pkg:maven/com.eed3si9n.jarjarabrams/jarjar-abrams-assembly_2.10@1.10.0
+- pkg:maven/com.eed3si9n.jarjarabrams/jarjar-abrams-assembly_2.10@1.10.0?classifier=sources

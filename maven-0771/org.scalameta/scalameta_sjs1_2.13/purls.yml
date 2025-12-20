@@ -153,6 +153,8 @@
 - pkg:maven/org.scalameta/scalameta_sjs1_2.13@4.8.10?classifier=sources
 - pkg:maven/org.scalameta/scalameta_sjs1_2.13@4.8.11
 - pkg:maven/org.scalameta/scalameta_sjs1_2.13@4.8.11?classifier=sources
+- pkg:maven/org.scalameta/scalameta_sjs1_2.13@4.8.12
+- pkg:maven/org.scalameta/scalameta_sjs1_2.13@4.8.12?classifier=sources
 - pkg:maven/org.scalameta/scalameta_sjs1_2.13@4.8.1?classifier=sources
 - pkg:maven/org.scalameta/scalameta_sjs1_2.13@4.8.2
 - pkg:maven/org.scalameta/scalameta_sjs1_2.13@4.8.2?classifier=sources

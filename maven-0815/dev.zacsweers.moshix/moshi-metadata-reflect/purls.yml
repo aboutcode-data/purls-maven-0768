@@ -43,6 +43,7 @@
 - pkg:maven/dev.zacsweers.moshix/moshi-metadata-reflect@0.24.2?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-metadata-reflect@0.24.3?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-metadata-reflect@0.25.0-alpha01?classifier=sources
+- pkg:maven/dev.zacsweers.moshix/moshi-metadata-reflect@0.25.0?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-metadata-reflect@0.3.0?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-metadata-reflect@0.3.1?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-metadata-reflect@0.3.2?classifier=sources

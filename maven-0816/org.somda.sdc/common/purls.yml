@@ -12,3 +12,5 @@
 - pkg:maven/org.somda.sdc/common@4.0.0?classifier=sources
 - pkg:maven/org.somda.sdc/common@5.0.0
 - pkg:maven/org.somda.sdc/common@5.0.0?classifier=sources
+- pkg:maven/org.somda.sdc/common@5.1.0
+- pkg:maven/org.somda.sdc/common@5.1.0?classifier=sources

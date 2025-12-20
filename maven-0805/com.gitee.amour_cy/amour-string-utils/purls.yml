@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.amour_cy/amour-string-utils@0.0.1
+- pkg:maven/com.gitee.amour_cy/amour-string-utils@0.0.1?classifier=sources

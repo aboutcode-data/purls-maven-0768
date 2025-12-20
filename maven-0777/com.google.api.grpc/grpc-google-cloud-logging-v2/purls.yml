@@ -123,6 +123,12 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.104.1
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.104.10
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.104.10?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.104.11
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.104.11?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.104.12
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.104.12?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.104.13
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.104.13?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.104.1?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.104.2
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.104.2?classifier=sources

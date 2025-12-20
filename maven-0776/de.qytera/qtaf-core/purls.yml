@@ -38,5 +38,9 @@
 - pkg:maven/de.qytera/qtaf-core@0.2.6?classifier=sources
 - pkg:maven/de.qytera/qtaf-core@0.2.7
 - pkg:maven/de.qytera/qtaf-core@0.2.7?classifier=sources
+- pkg:maven/de.qytera/qtaf-core@0.2.8
+- pkg:maven/de.qytera/qtaf-core@0.2.8?classifier=sources
+- pkg:maven/de.qytera/qtaf-core@0.2.9
+- pkg:maven/de.qytera/qtaf-core@0.2.9?classifier=sources
 - pkg:maven/de.qytera/qtaf-core@SNAPSHOT-LOCAL-03
 - pkg:maven/de.qytera/qtaf-core@SNAPSHOT-LOCAL-03?classifier=sources

@@ -16,6 +16,12 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.18.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.19.0
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.19.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.20.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.20.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.21.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.21.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.22.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.22.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.7.0
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.7.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@0.8.0
@@ -40,3 +46,9 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@1.7.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.0.0
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.0.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.1.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.1.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.2.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.2.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.3.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.3.0?classifier=sources

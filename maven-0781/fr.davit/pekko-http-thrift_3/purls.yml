@@ -1,0 +1,2 @@
+- pkg:maven/fr.davit/pekko-http-thrift_3@1.0.0
+- pkg:maven/fr.davit/pekko-http-thrift_3@1.0.0?classifier=sources

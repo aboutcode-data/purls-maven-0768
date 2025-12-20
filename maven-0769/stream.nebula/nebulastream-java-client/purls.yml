@@ -50,6 +50,7 @@
 - pkg:maven/stream.nebula/nebulastream-java-client@0.0.7?classifier=sources
 - pkg:maven/stream.nebula/nebulastream-java-client@0.0.8
 - pkg:maven/stream.nebula/nebulastream-java-client@0.0.82?classifier=sources
+- pkg:maven/stream.nebula/nebulastream-java-client@0.0.83?classifier=sources
 - pkg:maven/stream.nebula/nebulastream-java-client@0.0.8?classifier=sources
 - pkg:maven/stream.nebula/nebulastream-java-client@0.0.9
 - pkg:maven/stream.nebula/nebulastream-java-client@0.0.9?classifier=sources

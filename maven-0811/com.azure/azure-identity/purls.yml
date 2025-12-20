@@ -53,7 +53,11 @@
 - pkg:maven/com.azure/azure-identity@1.10.0-beta.1?classifier=sources
 - pkg:maven/com.azure/azure-identity@1.10.0?classifier=sources
 - pkg:maven/com.azure/azure-identity@1.10.1?classifier=sources
+- pkg:maven/com.azure/azure-identity@1.10.2?classifier=sources
+- pkg:maven/com.azure/azure-identity@1.10.3?classifier=sources
+- pkg:maven/com.azure/azure-identity@1.10.4?classifier=sources
 - pkg:maven/com.azure/azure-identity@1.11.0-beta.1?classifier=sources
+- pkg:maven/com.azure/azure-identity@1.11.0-beta.2?classifier=sources
 - pkg:maven/com.azure/azure-identity@1.2.0
 - pkg:maven/com.azure/azure-identity@1.2.0-beta.1
 - pkg:maven/com.azure/azure-identity@1.2.0-beta.1?classifier=sources

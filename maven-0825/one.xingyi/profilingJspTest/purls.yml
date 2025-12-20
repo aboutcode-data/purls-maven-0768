@@ -1,0 +1,4 @@
+- pkg:maven/one.xingyi/profilingJspTest@1.5.8
+- pkg:maven/one.xingyi/profilingJspTest@1.5.8?classifier=sources
+- pkg:maven/one.xingyi/profilingJspTest@1.5.9
+- pkg:maven/one.xingyi/profilingJspTest@1.5.9?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/io.hypersistence/hypersistence-utils-hibernate-62@3.5.2?classifier=sources
 - pkg:maven/io.hypersistence/hypersistence-utils-hibernate-62@3.5.3
 - pkg:maven/io.hypersistence/hypersistence-utils-hibernate-62@3.5.3?classifier=sources
+- pkg:maven/io.hypersistence/hypersistence-utils-hibernate-62@3.6.0
+- pkg:maven/io.hypersistence/hypersistence-utils-hibernate-62@3.6.0?classifier=sources

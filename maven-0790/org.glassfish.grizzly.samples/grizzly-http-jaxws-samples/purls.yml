@@ -216,3 +216,5 @@
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-http-jaxws-samples@3.0.1?classifier=sources
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-http-jaxws-samples@4.0.0
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-http-jaxws-samples@4.0.0?classifier=sources
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-http-jaxws-samples@4.0.1
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-http-jaxws-samples@4.0.1?classifier=sources

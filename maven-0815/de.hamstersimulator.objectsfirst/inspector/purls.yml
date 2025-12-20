@@ -16,3 +16,5 @@
 - pkg:maven/de.hamstersimulator.objectsfirst/inspector@4.3.4?classifier=sources
 - pkg:maven/de.hamstersimulator.objectsfirst/inspector@5.0.0
 - pkg:maven/de.hamstersimulator.objectsfirst/inspector@5.0.0?classifier=sources
+- pkg:maven/de.hamstersimulator.objectsfirst/inspector@5.0.1
+- pkg:maven/de.hamstersimulator.objectsfirst/inspector@5.0.1?classifier=sources

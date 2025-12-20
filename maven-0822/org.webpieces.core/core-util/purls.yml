@@ -72,3 +72,7 @@
 - pkg:maven/org.webpieces.core/core-util@2.1.90?classifier=sources
 - pkg:maven/org.webpieces.core/core-util@2.1.91?classifier=sources
 - pkg:maven/org.webpieces.core/core-util@2.1.93?classifier=sources
+- pkg:maven/org.webpieces.core/core-util@2.1.94?classifier=sources
+- pkg:maven/org.webpieces.core/core-util@2.1.95?classifier=sources
+- pkg:maven/org.webpieces.core/core-util@2.1.96?classifier=sources
+- pkg:maven/org.webpieces.core/core-util@2.1.97?classifier=sources

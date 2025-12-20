@@ -50,6 +50,8 @@
 - pkg:maven/org.fcrepo/fcrepo-jms@4.7.4?classifier=sources
 - pkg:maven/org.fcrepo/fcrepo-jms@4.7.5
 - pkg:maven/org.fcrepo/fcrepo-jms@4.7.5?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-jms@4.7.6
+- pkg:maven/org.fcrepo/fcrepo-jms@4.7.6?classifier=sources
 - pkg:maven/org.fcrepo/fcrepo-jms@5.0.0
 - pkg:maven/org.fcrepo/fcrepo-jms@5.0.0?classifier=sources
 - pkg:maven/org.fcrepo/fcrepo-jms@5.0.1
@@ -60,8 +62,10 @@
 - pkg:maven/org.fcrepo/fcrepo-jms@5.1.0?classifier=sources
 - pkg:maven/org.fcrepo/fcrepo-jms@5.1.1
 - pkg:maven/org.fcrepo/fcrepo-jms@5.1.1?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-jms@5.1.2
 - pkg:maven/org.fcrepo/fcrepo-jms@5.1.2-RC-1
 - pkg:maven/org.fcrepo/fcrepo-jms@5.1.2-RC-1?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-jms@5.1.2?classifier=sources
 - pkg:maven/org.fcrepo/fcrepo-jms@6.0.0
 - pkg:maven/org.fcrepo/fcrepo-jms@6.0.0-RC-2
 - pkg:maven/org.fcrepo/fcrepo-jms@6.0.0-RC-2?classifier=sources
@@ -82,3 +86,5 @@
 - pkg:maven/org.fcrepo/fcrepo-jms@6.3.0?classifier=sources
 - pkg:maven/org.fcrepo/fcrepo-jms@6.4.0
 - pkg:maven/org.fcrepo/fcrepo-jms@6.4.0?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-jms@6.4.1
+- pkg:maven/org.fcrepo/fcrepo-jms@6.4.1?classifier=sources

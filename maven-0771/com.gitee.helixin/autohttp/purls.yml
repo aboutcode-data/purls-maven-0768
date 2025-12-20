@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.helixin/autohttp@2023.10.08?classifier=sources
+- pkg:maven/com.gitee.helixin/autohttp@2023.10.15?classifier=sources
+- pkg:maven/com.gitee.helixin/autohttp@20230926?classifier=sources
+- pkg:maven/com.gitee.helixin/autohttp@20231008?classifier=sources

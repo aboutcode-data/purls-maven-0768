@@ -8,4 +8,7 @@
 - pkg:maven/org.octopusden.octopus.employee/common@2.0.26?classifier=sources
 - pkg:maven/org.octopusden.octopus.employee/common@2.0.27?classifier=sources
 - pkg:maven/org.octopusden.octopus.employee/common@2.0.28?classifier=sources
+- pkg:maven/org.octopusden.octopus.employee/common@2.0.30?classifier=sources
+- pkg:maven/org.octopusden.octopus.employee/common@2.0.31?classifier=sources
+- pkg:maven/org.octopusden.octopus.employee/common@2.0.32?classifier=sources
 - pkg:maven/org.octopusden.octopus.employee/common@unspecified?classifier=sources

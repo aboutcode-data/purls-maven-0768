@@ -24,6 +24,8 @@
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@1.19?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@1.20
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@1.20?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@1.21
+- pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@1.21?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@1.3
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@1.3.1
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@1.3.1?classifier=sources
@@ -72,6 +74,8 @@
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@2.0.3?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@2.0.4
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@2.0.4?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@2.0.5
+- pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@2.0.5?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@2.1.0
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@2.1.0-M1
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@2.1.0-M1?classifier=sources
@@ -86,3 +90,5 @@
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@2.1.2?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@2.1.3
 - pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@2.1.3?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@2.1.4
+- pkg:maven/org.glassfish.tyrus/tyrus-container-grizzly-server@2.1.4?classifier=sources

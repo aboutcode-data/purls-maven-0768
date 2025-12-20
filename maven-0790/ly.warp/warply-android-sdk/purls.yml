@@ -192,7 +192,11 @@
 - pkg:maven/ly.warp/warply-android-sdk@4.5.4.6rc75?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.4.6rc76?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.4.6rc77?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.4.6rc78?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.4.6rc79?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.4.6rc7?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.4.6rc80?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.4.6rc81?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.4.6rc8?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.4.6rc9?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.4?classifier=sources
@@ -201,3 +205,5 @@
 - pkg:maven/ly.warp/warply-android-sdk@4.5.5.2?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.5.3?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.5.4?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.5.4r1?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.5.4r2?classifier=sources

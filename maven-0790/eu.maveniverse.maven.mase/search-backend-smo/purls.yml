@@ -1,0 +1,2 @@
+- pkg:maven/eu.maveniverse.maven.mase/search-backend-smo@1.0.0
+- pkg:maven/eu.maveniverse.maven.mase/search-backend-smo@1.0.0?classifier=sources

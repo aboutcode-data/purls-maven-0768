@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/ktx-parse@0.4.5?classifier=sources
 - pkg:maven/org.webjars.npm/ktx-parse@0.5.0
 - pkg:maven/org.webjars.npm/ktx-parse@0.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/ktx-parse@0.6.0
+- pkg:maven/org.webjars.npm/ktx-parse@0.6.0?classifier=sources

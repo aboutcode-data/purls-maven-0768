@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mjakubowski84/parquet4s-pekko_2.13@2.14.0
+- pkg:maven/com.github.mjakubowski84/parquet4s-pekko_2.13@2.14.0?classifier=sources

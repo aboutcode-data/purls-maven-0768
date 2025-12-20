@@ -6,3 +6,4 @@
 - pkg:maven/software.amazon.smithy/smithy-syntax@1.38.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-syntax@1.39.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-syntax@1.39.1?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-syntax@1.40.0?classifier=sources

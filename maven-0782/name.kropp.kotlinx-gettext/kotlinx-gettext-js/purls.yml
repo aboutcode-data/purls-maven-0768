@@ -7,3 +7,4 @@
 - pkg:maven/name.kropp.kotlinx-gettext/kotlinx-gettext-js@0.5.0?classifier=sources
 - pkg:maven/name.kropp.kotlinx-gettext/kotlinx-gettext-js@0.5.1?classifier=sources
 - pkg:maven/name.kropp.kotlinx-gettext/kotlinx-gettext-js@0.5.2?classifier=sources
+- pkg:maven/name.kropp.kotlinx-gettext/kotlinx-gettext-js@0.6.0?classifier=sources

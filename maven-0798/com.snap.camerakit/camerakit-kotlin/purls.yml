@@ -20,3 +20,4 @@
 - pkg:maven/com.snap.camerakit/camerakit-kotlin@1.24.0?classifier=sources
 - pkg:maven/com.snap.camerakit/camerakit-kotlin@1.25.0?classifier=sources
 - pkg:maven/com.snap.camerakit/camerakit-kotlin@1.26.0?classifier=sources
+- pkg:maven/com.snap.camerakit/camerakit-kotlin@1.26.1?classifier=sources

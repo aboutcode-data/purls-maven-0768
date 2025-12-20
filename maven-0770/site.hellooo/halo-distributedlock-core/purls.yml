@@ -1,0 +1,2 @@
+- pkg:maven/site.hellooo/halo-distributedlock-core@0.0.7-GA
+- pkg:maven/site.hellooo/halo-distributedlock-core@0.0.7-GA?classifier=sources

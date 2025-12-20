@@ -1,3 +1,4 @@
+- pkg:maven/org.zkoss.zk/zkbind-api@10.0.0-Beta?classifier=sources
 - pkg:maven/org.zkoss.zk/zkbind-api@8.0.2.2
 - pkg:maven/org.zkoss.zk/zkbind-api@8.0.2.2?classifier=sources
 - pkg:maven/org.zkoss.zk/zkbind-api@8.5.0
