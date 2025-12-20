@@ -4,3 +4,5 @@
 - pkg:maven/io.milton/aspirin@0.10.03.11?classifier=sources
 - pkg:maven/io.milton/aspirin@0.10.03.12?classifier=sources
 - pkg:maven/io.milton/aspirin@0.10.03.13?classifier=sources
+- pkg:maven/io.milton/aspirin@0.11.01.01
+- pkg:maven/io.milton/aspirin@0.11.01.01?classifier=sources

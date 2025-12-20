@@ -1,0 +1,6 @@
+- pkg:maven/org.apichart.common/spring-slf4j-api-starter@2.3.12.RELEASE
+- pkg:maven/org.apichart.common/spring-slf4j-api-starter@2.3.12.RELEASE?classifier=sources
+- pkg:maven/org.apichart.common/spring-slf4j-api-starter@2.3.13.RELEASE
+- pkg:maven/org.apichart.common/spring-slf4j-api-starter@2.3.13.RELEASE?classifier=sources
+- pkg:maven/org.apichart.common/spring-slf4j-api-starter@2.3.14.RELEASE
+- pkg:maven/org.apichart.common/spring-slf4j-api-starter@2.3.14.RELEASE?classifier=sources

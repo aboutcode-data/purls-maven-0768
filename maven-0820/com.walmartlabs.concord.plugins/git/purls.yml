@@ -71,3 +71,4 @@
 - pkg:maven/com.walmartlabs.concord.plugins/git@2.3.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/git@2.3.1?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/git@2.4.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/git@2.5.0?classifier=sources

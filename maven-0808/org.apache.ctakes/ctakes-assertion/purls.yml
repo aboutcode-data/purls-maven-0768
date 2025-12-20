@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.ctakes/ctakes-assertion@4.0.0?classifier=sources
 - pkg:maven/org.apache.ctakes/ctakes-assertion@5.1.0
 - pkg:maven/org.apache.ctakes/ctakes-assertion@5.1.0?classifier=sources
+- pkg:maven/org.apache.ctakes/ctakes-assertion@6.0.0
+- pkg:maven/org.apache.ctakes/ctakes-assertion@6.0.0?classifier=sources

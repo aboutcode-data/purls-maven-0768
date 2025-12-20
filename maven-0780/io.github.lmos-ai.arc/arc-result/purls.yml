@@ -12,3 +12,5 @@
 - pkg:maven/io.github.lmos-ai.arc/arc-result@0.27.0?classifier=sources
 - pkg:maven/io.github.lmos-ai.arc/arc-result@0.30.0
 - pkg:maven/io.github.lmos-ai.arc/arc-result@0.30.0?classifier=sources
+- pkg:maven/io.github.lmos-ai.arc/arc-result@0.70.0
+- pkg:maven/io.github.lmos-ai.arc/arc-result@0.70.0?classifier=sources

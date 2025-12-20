@@ -46,6 +46,8 @@
 - pkg:maven/org.webjars/webjars-play_2.13@3.0.0?classifier=sources
 - pkg:maven/org.webjars/webjars-play_2.13@3.0.1
 - pkg:maven/org.webjars/webjars-play_2.13@3.0.1?classifier=sources
+- pkg:maven/org.webjars/webjars-play_2.13@3.0.2
+- pkg:maven/org.webjars/webjars-play_2.13@3.0.2?classifier=sources
 - pkg:maven/org.webjars/webjars-play_2.13@7c2856c5579e9faa048fe01b876261ddb601575c
 - pkg:maven/org.webjars/webjars-play_2.13@7c2856c5579e9faa048fe01b876261ddb601575c?classifier=sources
 - pkg:maven/org.webjars/webjars-play_2.13@91adf8433c1a7b245f398549138771fb2ff05035

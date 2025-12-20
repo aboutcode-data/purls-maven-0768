@@ -1,0 +1,9 @@
+- pkg:maven/com.jasonernst.icmp/icmp_android@0.0.10?classifier=sources
+- pkg:maven/com.jasonernst.icmp/icmp_android@0.0.11?classifier=sources
+- pkg:maven/com.jasonernst.icmp/icmp_android@0.0.14?classifier=sources
+- pkg:maven/com.jasonernst.icmp/icmp_android@0.0.15?classifier=sources
+- pkg:maven/com.jasonernst.icmp/icmp_android@0.0.16?classifier=sources
+- pkg:maven/com.jasonernst.icmp/icmp_android@0.0.17?classifier=sources
+- pkg:maven/com.jasonernst.icmp/icmp_android@0.0.18?classifier=sources
+- pkg:maven/com.jasonernst.icmp/icmp_android@0.0.19?classifier=sources
+- pkg:maven/com.jasonernst.icmp/icmp_android@0.0.20?classifier=sources

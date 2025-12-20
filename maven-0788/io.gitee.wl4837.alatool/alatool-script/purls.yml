@@ -1,0 +1,3 @@
+- pkg:maven/io.gitee.wl4837.alatool/alatool-script@0.0.2?classifier=sources
+- pkg:maven/io.gitee.wl4837.alatool/alatool-script@0.0.3?classifier=sources
+- pkg:maven/io.gitee.wl4837.alatool/alatool-script@0.0.4?classifier=sources

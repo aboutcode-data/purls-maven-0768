@@ -36,3 +36,5 @@
 - pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-rabbitmq@3.7.0.20240627
 - pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-rabbitmq@3.7.0.20240627?classifier=sources
 - pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-rabbitmq@3.7.0?classifier=sources
+- pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-rabbitmq@3.7.1
+- pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-rabbitmq@3.7.1?classifier=sources

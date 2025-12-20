@@ -6,3 +6,5 @@
 - pkg:maven/org.grails.profiles/react@5.0.1?classifier=sources
 - pkg:maven/org.grails.profiles/react@5.0.2
 - pkg:maven/org.grails.profiles/react@5.0.2?classifier=sources
+- pkg:maven/org.grails.profiles/react@6.0.0?classifier=sources
+- pkg:maven/org.grails.profiles/react@7.0.0?classifier=sources

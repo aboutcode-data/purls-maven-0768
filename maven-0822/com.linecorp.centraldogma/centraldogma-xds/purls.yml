@@ -9,4 +9,7 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-xds@0.67.0?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-xds@0.67.1?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-xds@0.67.2?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-xds@0.67.3?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-xds@0.68.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-xds@0.69.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-xds@0.69.1?classifier=sources

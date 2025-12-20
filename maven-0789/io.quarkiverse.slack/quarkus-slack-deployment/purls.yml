@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.slack/quarkus-slack-deployment@0.0.3?classifier=sources
+- pkg:maven/io.quarkiverse.slack/quarkus-slack-deployment@0.0.5?classifier=sources

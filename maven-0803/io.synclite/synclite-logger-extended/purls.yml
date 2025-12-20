@@ -6,3 +6,5 @@
 - pkg:maven/io.synclite/synclite-logger-extended@2024.07.26?classifier=sources
 - pkg:maven/io.synclite/synclite-logger-extended@2024.07.31
 - pkg:maven/io.synclite/synclite-logger-extended@2024.07.31?classifier=sources
+- pkg:maven/io.synclite/synclite-logger-extended@2024.08.08
+- pkg:maven/io.synclite/synclite-logger-extended@2024.08.08?classifier=sources

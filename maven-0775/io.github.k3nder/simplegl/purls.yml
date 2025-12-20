@@ -1,3 +1,4 @@
 - pkg:maven/io.github.k3nder/simplegl@1.0?classifier=sources
 - pkg:maven/io.github.k3nder/simplegl@1.1?classifier=sources
 - pkg:maven/io.github.k3nder/simplegl@2.0?classifier=sources
+- pkg:maven/io.github.k3nder/simplegl@3.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.coil-kt.coil3/coil-network-ktor2-android@3.0.0-alpha09?classifier=sources
+- pkg:maven/io.coil-kt.coil3/coil-network-ktor2-android@3.0.0-alpha10?classifier=sources

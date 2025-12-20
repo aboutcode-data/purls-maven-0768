@@ -202,6 +202,16 @@
 - pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.41?classifier=sources
 - pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.42
 - pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.42?classifier=sources
+- pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.43
+- pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.43?classifier=sources
+- pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.44
+- pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.44?classifier=sources
+- pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.45
+- pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.45?classifier=sources
+- pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.46
+- pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.46?classifier=sources
+- pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.47
+- pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.47?classifier=sources
 - pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.4?classifier=sources
 - pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.5
 - pkg:maven/io.cronapp/cronapp-social-facebook@3.0.0-SP.5?classifier=sources

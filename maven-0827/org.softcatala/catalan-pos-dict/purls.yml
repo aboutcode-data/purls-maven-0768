@@ -27,6 +27,7 @@
 - pkg:maven/org.softcatala/catalan-pos-dict@2.23
 - pkg:maven/org.softcatala/catalan-pos-dict@2.24
 - pkg:maven/org.softcatala/catalan-pos-dict@2.25
+- pkg:maven/org.softcatala/catalan-pos-dict@2.26
 - pkg:maven/org.softcatala/catalan-pos-dict@2.3
 - pkg:maven/org.softcatala/catalan-pos-dict@2.4
 - pkg:maven/org.softcatala/catalan-pos-dict@2.5

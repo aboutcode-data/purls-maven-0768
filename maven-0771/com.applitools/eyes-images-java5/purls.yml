@@ -122,3 +122,5 @@
 - pkg:maven/com.applitools/eyes-images-java5@5.69.3?classifier=sources
 - pkg:maven/com.applitools/eyes-images-java5@5.69.4
 - pkg:maven/com.applitools/eyes-images-java5@5.69.4?classifier=sources
+- pkg:maven/com.applitools/eyes-images-java5@5.69.5
+- pkg:maven/com.applitools/eyes-images-java5@5.69.5?classifier=sources

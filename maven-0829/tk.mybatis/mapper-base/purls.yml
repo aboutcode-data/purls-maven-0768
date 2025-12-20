@@ -38,3 +38,11 @@
 - pkg:maven/tk.mybatis/mapper-base@4.2.3?classifier=sources
 - pkg:maven/tk.mybatis/mapper-base@4.3.0
 - pkg:maven/tk.mybatis/mapper-base@4.3.0?classifier=sources
+- pkg:maven/tk.mybatis/mapper-base@5.0.0
+- pkg:maven/tk.mybatis/mapper-base@5.0.0-rc1
+- pkg:maven/tk.mybatis/mapper-base@5.0.0-rc1?classifier=sources
+- pkg:maven/tk.mybatis/mapper-base@5.0.0-rc2
+- pkg:maven/tk.mybatis/mapper-base@5.0.0-rc2?classifier=sources
+- pkg:maven/tk.mybatis/mapper-base@5.0.0-rc3
+- pkg:maven/tk.mybatis/mapper-base@5.0.0-rc3?classifier=sources
+- pkg:maven/tk.mybatis/mapper-base@5.0.0?classifier=sources

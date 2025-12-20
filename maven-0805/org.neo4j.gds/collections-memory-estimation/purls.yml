@@ -106,3 +106,4 @@
 - pkg:maven/org.neo4j.gds/collections-memory-estimation@2.7.0-alpha03?classifier=sources
 - pkg:maven/org.neo4j.gds/collections-memory-estimation@2.7.0?classifier=sources
 - pkg:maven/org.neo4j.gds/collections-memory-estimation@2.8.0?classifier=sources
+- pkg:maven/org.neo4j.gds/collections-memory-estimation@2.9.0?classifier=sources

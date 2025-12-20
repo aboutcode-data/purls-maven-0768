@@ -56,3 +56,4 @@
 - pkg:maven/com.arkivanov.essenty/utils-internal-tvosx64@2.2.0-alpha01?classifier=sources
 - pkg:maven/com.arkivanov.essenty/utils-internal-tvosx64@2.2.0-alpha02?classifier=sources
 - pkg:maven/com.arkivanov.essenty/utils-internal-tvosx64@2.2.0-alpha03?classifier=sources
+- pkg:maven/com.arkivanov.essenty/utils-internal-tvosx64@2.2.0-alpha04?classifier=sources

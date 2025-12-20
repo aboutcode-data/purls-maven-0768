@@ -41,6 +41,7 @@
 - pkg:maven/com.mx.path-core/testing@3.13.1?classifier=sources
 - pkg:maven/com.mx.path-core/testing@3.13.2?classifier=sources
 - pkg:maven/com.mx.path-core/testing@3.14.0?classifier=sources
+- pkg:maven/com.mx.path-core/testing@3.15.0?classifier=sources
 - pkg:maven/com.mx.path-core/testing@3.2.0?classifier=sources
 - pkg:maven/com.mx.path-core/testing@3.2.1?classifier=sources
 - pkg:maven/com.mx.path-core/testing@3.2.2?classifier=sources
@@ -61,3 +62,4 @@
 - pkg:maven/com.mx.path-core/testing@3.9.0?classifier=sources
 - pkg:maven/com.mx.path-core/testing@3.9.1?classifier=sources
 - pkg:maven/com.mx.path-core/testing@3.9.2?classifier=sources
+- pkg:maven/com.mx.path-core/testing@4.0.0?classifier=sources

@@ -472,7 +472,15 @@
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.0.3?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.0.4
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.0.4?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@6.0.5
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@6.0.5?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@6.0.6
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@6.0.6?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.1.0
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.1.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.2.0
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.2.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@6.3.0
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@6.3.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@6.4.0
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@6.4.0?classifier=sources

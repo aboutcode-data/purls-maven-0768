@@ -1,0 +1,2 @@
+- pkg:maven/com.mdsol/mauth-signer-http4s-023_2.12@17.0.0
+- pkg:maven/com.mdsol/mauth-signer-http4s-023_2.12@17.0.0?classifier=sources

@@ -1,1 +1,3 @@
+- pkg:maven/org.mvnpm.at.patternfly/patternfly@5.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.patternfly/patternfly@5.2.0?classifier=sources
+- pkg:maven/org.mvnpm.at.patternfly/patternfly@5.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fun.adaptive/adaptive-gradle-plugin@0.6.0?classifier=sources
+- pkg:maven/fun.adaptive/adaptive-gradle-plugin@0.6.1?classifier=sources

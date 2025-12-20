@@ -4,3 +4,5 @@
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping@2.12.0?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping@2.13.0
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping@2.13.0?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping@2.14.0
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping@2.14.0?classifier=sources

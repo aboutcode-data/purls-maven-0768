@@ -18,3 +18,4 @@
 - pkg:maven/org.webjars.npm/firebase__database-types@0.9.6?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__database-types@0.9.7
 - pkg:maven/org.webjars.npm/firebase__database-types@0.9.7?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__database-types@1.0.4

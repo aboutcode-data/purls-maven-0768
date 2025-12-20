@@ -22,3 +22,5 @@
 - pkg:maven/org.tpolecat/natchez-http4s_3@0.5.0-M2
 - pkg:maven/org.tpolecat/natchez-http4s_3@0.5.0-M2?classifier=sources
 - pkg:maven/org.tpolecat/natchez-http4s_3@0.5.0?classifier=sources
+- pkg:maven/org.tpolecat/natchez-http4s_3@0.6.0
+- pkg:maven/org.tpolecat/natchez-http4s_3@0.6.0?classifier=sources

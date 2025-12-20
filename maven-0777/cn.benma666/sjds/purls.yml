@@ -1,0 +1,2 @@
+- pkg:maven/cn.benma666/sjds@0.2.5
+- pkg:maven/cn.benma666/sjds@0.2.5?classifier=sources

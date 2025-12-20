@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-bracesmatching@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-bracesmatching@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-bracesmatching@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-bracesmatching@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-bracesmatching@RELEASE90?classifier=sources

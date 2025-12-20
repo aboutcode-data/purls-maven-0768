@@ -1,0 +1,2 @@
+- pkg:maven/com.powersync/powersync-iosarm64@0.0.1-ALPHA16?classifier=sources
+- pkg:maven/com.powersync/powersync-iosarm64@0.0.1-ALPHA17?classifier=sources

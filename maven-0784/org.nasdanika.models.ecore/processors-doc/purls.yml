@@ -26,3 +26,5 @@
 - pkg:maven/org.nasdanika.models.ecore/processors-doc@2024.7.0?classifier=sources
 - pkg:maven/org.nasdanika.models.ecore/processors-doc@2024.7.1
 - pkg:maven/org.nasdanika.models.ecore/processors-doc@2024.7.1?classifier=sources
+- pkg:maven/org.nasdanika.models.ecore/processors-doc@2024.8.0
+- pkg:maven/org.nasdanika.models.ecore/processors-doc@2024.8.0?classifier=sources

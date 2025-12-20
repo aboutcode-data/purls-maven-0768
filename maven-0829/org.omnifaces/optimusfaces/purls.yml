@@ -17,6 +17,8 @@
 - pkg:maven/org.omnifaces/optimusfaces@0.16.J1
 - pkg:maven/org.omnifaces/optimusfaces@0.16.J1?classifier=sources
 - pkg:maven/org.omnifaces/optimusfaces@0.16?classifier=sources
+- pkg:maven/org.omnifaces/optimusfaces@0.17.J1
+- pkg:maven/org.omnifaces/optimusfaces@0.17.J1?classifier=sources
 - pkg:maven/org.omnifaces/optimusfaces@0.1?classifier=sources
 - pkg:maven/org.omnifaces/optimusfaces@0.2
 - pkg:maven/org.omnifaces/optimusfaces@0.2?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-lambda@7.3.8?classifier=sources
 - pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-lambda@7.3.9
 - pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-lambda@7.3.9?classifier=sources
+- pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-lambda@8.0.2
+- pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-lambda@8.0.2?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.nativeblocks/nativeblocks-gradle-plugin@1.0.0?classifier=sources
+- pkg:maven/io.nativeblocks/nativeblocks-gradle-plugin@1.0.1?classifier=sources

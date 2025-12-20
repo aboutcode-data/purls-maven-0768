@@ -1,0 +1,5 @@
+- pkg:maven/io.github.detomarco.kotlinfixture/fixture-generex@0.1.3?classifier=sources
+- pkg:maven/io.github.detomarco.kotlinfixture/fixture-generex@0.1.4?classifier=sources
+- pkg:maven/io.github.detomarco.kotlinfixture/fixture-generex@0.1.7?classifier=sources
+- pkg:maven/io.github.detomarco.kotlinfixture/fixture-generex@0.2.0?classifier=sources
+- pkg:maven/io.github.detomarco.kotlinfixture/fixture-generex@2.0.1?classifier=sources

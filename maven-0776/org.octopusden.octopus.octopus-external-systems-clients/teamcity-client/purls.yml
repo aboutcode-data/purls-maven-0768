@@ -2,3 +2,4 @@
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/teamcity-client@2.0.45?classifier=sources
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/teamcity-client@2.0.46?classifier=sources
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/teamcity-client@2.0.47?classifier=sources
+- pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/teamcity-client@2.0.48?classifier=sources

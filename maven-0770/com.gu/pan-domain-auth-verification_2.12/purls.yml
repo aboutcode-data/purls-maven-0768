@@ -62,3 +62,9 @@
 - pkg:maven/com.gu/pan-domain-auth-verification_2.12@4.0.0?classifier=sources
 - pkg:maven/com.gu/pan-domain-auth-verification_2.12@5.0.0
 - pkg:maven/com.gu/pan-domain-auth-verification_2.12@5.0.0?classifier=sources
+- pkg:maven/com.gu/pan-domain-auth-verification_2.12@6.0.0-PREVIEW.update-settings-loading-and-parsing-code.2024-08-08T1103.af01b6ba
+- pkg:maven/com.gu/pan-domain-auth-verification_2.12@6.0.0-PREVIEW.update-settings-loading-and-parsing-code.2024-08-08T1103.af01b6ba?classifier=sources
+- pkg:maven/com.gu/pan-domain-auth-verification_2.12@6.0.0-PREVIEW.update-settings-loading-and-parsing-code.2024-08-08T1351.c4835010
+- pkg:maven/com.gu/pan-domain-auth-verification_2.12@6.0.0-PREVIEW.update-settings-loading-and-parsing-code.2024-08-08T1351.c4835010?classifier=sources
+- pkg:maven/com.gu/pan-domain-auth-verification_2.12@6.0.0-PREVIEW.update-settings-loading-and-parsing-code.2024-08-09T1450.4c87946a
+- pkg:maven/com.gu/pan-domain-auth-verification_2.12@6.0.0-PREVIEW.update-settings-loading-and-parsing-code.2024-08-09T1450.4c87946a?classifier=sources

@@ -22,3 +22,4 @@
 - pkg:maven/com.azure.cosmos.spark/azure-cosmos-spark_3-4_2-12@4.32.0?classifier=sources
 - pkg:maven/com.azure.cosmos.spark/azure-cosmos-spark_3-4_2-12@4.32.1?classifier=sources
 - pkg:maven/com.azure.cosmos.spark/azure-cosmos-spark_3-4_2-12@4.33.0?classifier=sources
+- pkg:maven/com.azure.cosmos.spark/azure-cosmos-spark_3-4_2-12@4.33.1?classifier=sources

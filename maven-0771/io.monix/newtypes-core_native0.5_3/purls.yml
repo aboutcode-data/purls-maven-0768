@@ -1,0 +1,2 @@
+- pkg:maven/io.monix/newtypes-core_native0.5_3@0.3.0
+- pkg:maven/io.monix/newtypes-core_native0.5_3@0.3.0?classifier=sources

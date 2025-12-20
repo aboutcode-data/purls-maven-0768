@@ -54,3 +54,5 @@
 - pkg:maven/com.facebook.airlift/event@0.211?classifier=sources
 - pkg:maven/com.facebook.airlift/event@0.214
 - pkg:maven/com.facebook.airlift/event@0.214?classifier=sources
+- pkg:maven/com.facebook.airlift/event@0.215
+- pkg:maven/com.facebook.airlift/event@0.215?classifier=sources

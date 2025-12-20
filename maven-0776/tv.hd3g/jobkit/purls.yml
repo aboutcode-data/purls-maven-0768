@@ -112,6 +112,8 @@
 - pkg:maven/tv.hd3g/jobkit@21.0.0?classifier=sources
 - pkg:maven/tv.hd3g/jobkit@21.1.0
 - pkg:maven/tv.hd3g/jobkit@21.1.0?classifier=sources
+- pkg:maven/tv.hd3g/jobkit@21.2.0
+- pkg:maven/tv.hd3g/jobkit@21.2.0?classifier=sources
 - pkg:maven/tv.hd3g/jobkit@3.0.0
 - pkg:maven/tv.hd3g/jobkit@3.0.0?classifier=sources
 - pkg:maven/tv.hd3g/jobkit@3.0.1

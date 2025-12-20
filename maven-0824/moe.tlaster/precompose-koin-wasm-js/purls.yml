@@ -7,3 +7,4 @@
 - pkg:maven/moe.tlaster/precompose-koin-wasm-js@1.6.0-rc05?classifier=sources
 - pkg:maven/moe.tlaster/precompose-koin-wasm-js@1.6.0?classifier=sources
 - pkg:maven/moe.tlaster/precompose-koin-wasm-js@1.6.1?classifier=sources
+- pkg:maven/moe.tlaster/precompose-koin-wasm-js@1.6.2?classifier=sources

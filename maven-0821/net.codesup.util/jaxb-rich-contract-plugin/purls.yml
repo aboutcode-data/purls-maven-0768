@@ -6,3 +6,5 @@
 - pkg:maven/net.codesup.util/jaxb-rich-contract-plugin@4.1.4.1?classifier=sources
 - pkg:maven/net.codesup.util/jaxb-rich-contract-plugin@4.2.0.0
 - pkg:maven/net.codesup.util/jaxb-rich-contract-plugin@4.2.0.0?classifier=sources
+- pkg:maven/net.codesup.util/jaxb-rich-contract-plugin@4.2.1.2
+- pkg:maven/net.codesup.util/jaxb-rich-contract-plugin@4.2.1.2?classifier=sources

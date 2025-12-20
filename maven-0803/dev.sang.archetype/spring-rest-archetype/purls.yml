@@ -1,0 +1,2 @@
+- pkg:maven/dev.sang.archetype/spring-rest-archetype@0.1.1?classifier=sources
+- pkg:maven/dev.sang.archetype/spring-rest-archetype@0.1?classifier=sources

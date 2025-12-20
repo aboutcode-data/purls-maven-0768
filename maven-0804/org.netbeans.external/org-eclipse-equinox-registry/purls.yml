@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-registry@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-registry@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-registry@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-equinox-registry@RELEASE230?classifier=sources

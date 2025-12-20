@@ -536,6 +536,12 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-resteasy-client-configurator@3.45.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-resteasy-client-configurator@3.46.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-resteasy-client-configurator@3.46.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-resteasy-client-configurator@3.46.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-resteasy-client-configurator@3.46.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-resteasy-client-configurator@3.47.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-resteasy-client-configurator@3.47.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-resteasy-client-configurator@3.48.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-resteasy-client-configurator@3.48.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-resteasy-client-configurator@3.5.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-resteasy-client-configurator@3.5.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-resteasy-client-configurator@3.6.0

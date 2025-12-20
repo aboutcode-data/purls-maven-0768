@@ -26,6 +26,8 @@
 - pkg:maven/io.github.ableron/ableron-spring-boot-autoconfigure@2.6.0?classifier=sources
 - pkg:maven/io.github.ableron/ableron-spring-boot-autoconfigure@2.7.0
 - pkg:maven/io.github.ableron/ableron-spring-boot-autoconfigure@2.7.0?classifier=sources
+- pkg:maven/io.github.ableron/ableron-spring-boot-autoconfigure@2.8.0
+- pkg:maven/io.github.ableron/ableron-spring-boot-autoconfigure@2.8.0?classifier=sources
 - pkg:maven/io.github.ableron/ableron-spring-boot-autoconfigure@3.0.0
 - pkg:maven/io.github.ableron/ableron-spring-boot-autoconfigure@3.0.0?classifier=sources
 - pkg:maven/io.github.ableron/ableron-spring-boot-autoconfigure@3.0.1
@@ -52,3 +54,5 @@
 - pkg:maven/io.github.ableron/ableron-spring-boot-autoconfigure@3.6.0?classifier=sources
 - pkg:maven/io.github.ableron/ableron-spring-boot-autoconfigure@3.7.0
 - pkg:maven/io.github.ableron/ableron-spring-boot-autoconfigure@3.7.0?classifier=sources
+- pkg:maven/io.github.ableron/ableron-spring-boot-autoconfigure@3.8.0
+- pkg:maven/io.github.ableron/ableron-spring-boot-autoconfigure@3.8.0?classifier=sources

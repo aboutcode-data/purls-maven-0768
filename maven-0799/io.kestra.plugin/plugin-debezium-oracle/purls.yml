@@ -1,0 +1,1 @@
+- pkg:maven/io.kestra.plugin/plugin-debezium-oracle@0.18.0?classifier=sources

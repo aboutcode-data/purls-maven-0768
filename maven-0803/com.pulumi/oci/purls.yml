@@ -254,3 +254,14 @@
 - pkg:maven/com.pulumi/oci@2.5.0-alpha.1722606028?classifier=sources
 - pkg:maven/com.pulumi/oci@2.5.0?classifier=sources
 - pkg:maven/com.pulumi/oci@2.6.0-alpha.1722924801?classifier=sources
+- pkg:maven/com.pulumi/oci@2.6.0-alpha.1723011044?classifier=sources
+- pkg:maven/com.pulumi/oci@2.6.0-alpha.1723107075?classifier=sources
+- pkg:maven/com.pulumi/oci@2.6.0?classifier=sources
+- pkg:maven/com.pulumi/oci@2.7.0-alpha.1723456529?classifier=sources
+- pkg:maven/com.pulumi/oci@2.7.0-alpha.1723624751?classifier=sources
+- pkg:maven/com.pulumi/oci@2.7.0?classifier=sources
+- pkg:maven/com.pulumi/oci@2.8.0-alpha.1724316519?classifier=sources
+- pkg:maven/com.pulumi/oci@2.8.0?classifier=sources
+- pkg:maven/com.pulumi/oci@2.9.0-alpha.1724479778?classifier=sources
+- pkg:maven/com.pulumi/oci@2.9.0-alpha.1724836493?classifier=sources
+- pkg:maven/com.pulumi/oci@2.9.0?classifier=sources

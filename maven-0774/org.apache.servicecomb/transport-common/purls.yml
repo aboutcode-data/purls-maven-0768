@@ -127,8 +127,12 @@
 - pkg:maven/org.apache.servicecomb/transport-common@2.8.17?classifier=sources
 - pkg:maven/org.apache.servicecomb/transport-common@2.8.18
 - pkg:maven/org.apache.servicecomb/transport-common@2.8.18?classifier=sources
+- pkg:maven/org.apache.servicecomb/transport-common@2.8.19
+- pkg:maven/org.apache.servicecomb/transport-common@2.8.19?classifier=sources
 - pkg:maven/org.apache.servicecomb/transport-common@2.8.1?classifier=sources
 - pkg:maven/org.apache.servicecomb/transport-common@2.8.2
+- pkg:maven/org.apache.servicecomb/transport-common@2.8.20
+- pkg:maven/org.apache.servicecomb/transport-common@2.8.20?classifier=sources
 - pkg:maven/org.apache.servicecomb/transport-common@2.8.2?classifier=sources
 - pkg:maven/org.apache.servicecomb/transport-common@2.8.3
 - pkg:maven/org.apache.servicecomb/transport-common@2.8.3?classifier=sources
@@ -158,3 +162,7 @@
 - pkg:maven/org.apache.servicecomb/transport-common@3.1.2?classifier=sources
 - pkg:maven/org.apache.servicecomb/transport-common@3.2.0
 - pkg:maven/org.apache.servicecomb/transport-common@3.2.0?classifier=sources
+- pkg:maven/org.apache.servicecomb/transport-common@3.2.1
+- pkg:maven/org.apache.servicecomb/transport-common@3.2.1?classifier=sources
+- pkg:maven/org.apache.servicecomb/transport-common@3.2.2
+- pkg:maven/org.apache.servicecomb/transport-common@3.2.2?classifier=sources

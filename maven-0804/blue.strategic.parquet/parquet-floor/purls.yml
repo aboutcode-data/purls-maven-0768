@@ -22,3 +22,5 @@
 - pkg:maven/blue.strategic.parquet/parquet-floor@1.44?classifier=sources
 - pkg:maven/blue.strategic.parquet/parquet-floor@1.45
 - pkg:maven/blue.strategic.parquet/parquet-floor@1.45?classifier=sources
+- pkg:maven/blue.strategic.parquet/parquet-floor@1.46
+- pkg:maven/blue.strategic.parquet/parquet-floor@1.46?classifier=sources

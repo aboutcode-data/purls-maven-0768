@@ -103,3 +103,11 @@
 - pkg:maven/com.apihug/it-common-spring-data@0.9.9-r6?classifier=sources
 - pkg:maven/com.apihug/it-common-spring-data@1.0.0-RELEASE?classifier=sources
 - pkg:maven/com.apihug/it-common-spring-data@1.0.1-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-data@1.0.2-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-data@1.0.3-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-data@1.0.4-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-data@1.0.5-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-data@1.0.6-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-data@1.0.7-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-data@1.0.8-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-data@1.0.9-RELEASE?classifier=sources

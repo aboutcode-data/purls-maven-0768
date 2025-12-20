@@ -43,6 +43,10 @@
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@10.0.21?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@10.0.22
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@10.0.22?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@10.0.23
+- pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@10.0.23?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@10.0.24
+- pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@10.0.24?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@10.0.2?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@10.0.3
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@10.0.3?classifier=sources
@@ -97,6 +101,10 @@
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@11.0.21?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@11.0.22
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@11.0.22?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@11.0.23
+- pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@11.0.23?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@11.0.24
+- pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@11.0.24?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@11.0.2?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@11.0.3
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@11.0.3?classifier=sources
@@ -139,6 +147,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@12.0.11?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@12.0.12
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@12.0.12?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@12.0.13
+- pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@12.0.13?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@12.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@12.0.2
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@12.0.2?classifier=sources
@@ -258,6 +268,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@9.4.54.v20240208?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@9.4.55.v20240627
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@9.4.55.v20240627?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@9.4.56.v20240826
+- pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@9.4.56.v20240826?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@9.4.8.v20171121
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@9.4.8.v20171121?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-client@9.4.8.v20180619

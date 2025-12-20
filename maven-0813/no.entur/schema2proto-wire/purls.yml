@@ -185,4 +185,8 @@
 - pkg:maven/no.entur/schema2proto-wire@1.94?classifier=sources
 - pkg:maven/no.entur/schema2proto-wire@1.95
 - pkg:maven/no.entur/schema2proto-wire@1.95?classifier=sources
+- pkg:maven/no.entur/schema2proto-wire@1.96
+- pkg:maven/no.entur/schema2proto-wire@1.96?classifier=sources
+- pkg:maven/no.entur/schema2proto-wire@1.97
+- pkg:maven/no.entur/schema2proto-wire@1.97?classifier=sources
 - pkg:maven/no.entur/schema2proto-wire@1.9?classifier=sources

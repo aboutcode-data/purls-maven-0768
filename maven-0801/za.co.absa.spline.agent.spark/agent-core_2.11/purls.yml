@@ -74,3 +74,5 @@
 - pkg:maven/za.co.absa.spline.agent.spark/agent-core_2.11@2.0.0?classifier=sources
 - pkg:maven/za.co.absa.spline.agent.spark/agent-core_2.11@2.1.0
 - pkg:maven/za.co.absa.spline.agent.spark/agent-core_2.11@2.1.0?classifier=sources
+- pkg:maven/za.co.absa.spline.agent.spark/agent-core_2.11@2.2.0
+- pkg:maven/za.co.absa.spline.agent.spark/agent-core_2.11@2.2.0?classifier=sources

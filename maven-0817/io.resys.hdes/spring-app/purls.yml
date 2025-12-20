@@ -72,6 +72,8 @@
 - pkg:maven/io.resys.hdes/spring-app@3.130.76?classifier=sources
 - pkg:maven/io.resys.hdes/spring-app@3.130.77
 - pkg:maven/io.resys.hdes/spring-app@3.130.77?classifier=sources
+- pkg:maven/io.resys.hdes/spring-app@3.130.78
+- pkg:maven/io.resys.hdes/spring-app@3.130.78?classifier=sources
 - pkg:maven/io.resys.hdes/spring-app@3.130.7?classifier=sources
 - pkg:maven/io.resys.hdes/spring-app@3.130.8
 - pkg:maven/io.resys.hdes/spring-app@3.130.8?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.restheart/restheart-core@8.0.6?classifier=sources
 - pkg:maven/org.restheart/restheart-core@8.0.7
 - pkg:maven/org.restheart/restheart-core@8.0.7?classifier=sources
+- pkg:maven/org.restheart/restheart-core@8.0.8
+- pkg:maven/org.restheart/restheart-core@8.0.8?classifier=sources

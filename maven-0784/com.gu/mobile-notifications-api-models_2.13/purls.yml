@@ -12,3 +12,7 @@
 - pkg:maven/com.gu/mobile-notifications-api-models_2.13@1.0.19?classifier=sources
 - pkg:maven/com.gu/mobile-notifications-api-models_2.13@2.0.0
 - pkg:maven/com.gu/mobile-notifications-api-models_2.13@2.0.0?classifier=sources
+- pkg:maven/com.gu/mobile-notifications-api-models_2.13@3.0.0-PREVIEW.acadd-us-elections.2024-08-28T1304.8cc59d19
+- pkg:maven/com.gu/mobile-notifications-api-models_2.13@3.0.0-PREVIEW.acadd-us-elections.2024-08-28T1304.8cc59d19?classifier=sources
+- pkg:maven/com.gu/mobile-notifications-api-models_2.13@3.0.0-PREVIEW.acadd-us-elections.2024-08-28T1436.87b9f306
+- pkg:maven/com.gu/mobile-notifications-api-models_2.13@3.0.0-PREVIEW.acadd-us-elections.2024-08-28T1436.87b9f306?classifier=sources

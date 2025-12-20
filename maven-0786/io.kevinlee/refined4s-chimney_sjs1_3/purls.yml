@@ -1,0 +1,4 @@
+- pkg:maven/io.kevinlee/refined4s-chimney_sjs1_3@0.17.0
+- pkg:maven/io.kevinlee/refined4s-chimney_sjs1_3@0.17.0?classifier=sources
+- pkg:maven/io.kevinlee/refined4s-chimney_sjs1_3@0.18.0
+- pkg:maven/io.kevinlee/refined4s-chimney_sjs1_3@0.18.0?classifier=sources

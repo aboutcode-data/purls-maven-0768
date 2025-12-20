@@ -73,6 +73,10 @@
 - pkg:maven/edu.iu.uits.lms/lms-email-service@5.2.39?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-email-service@5.2.3?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-email-service@5.2.4
+- pkg:maven/edu.iu.uits.lms/lms-email-service@5.2.40
+- pkg:maven/edu.iu.uits.lms/lms-email-service@5.2.40?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-email-service@5.2.41
+- pkg:maven/edu.iu.uits.lms/lms-email-service@5.2.41?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-email-service@5.2.4?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-email-service@5.2.5
 - pkg:maven/edu.iu.uits.lms/lms-email-service@5.2.5?classifier=sources
@@ -82,3 +86,5 @@
 - pkg:maven/edu.iu.uits.lms/lms-email-service@5.2.8?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-email-service@5.2.9
 - pkg:maven/edu.iu.uits.lms/lms-email-service@5.2.9?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-email-service@6.0.0
+- pkg:maven/edu.iu.uits.lms/lms-email-service@6.0.0?classifier=sources

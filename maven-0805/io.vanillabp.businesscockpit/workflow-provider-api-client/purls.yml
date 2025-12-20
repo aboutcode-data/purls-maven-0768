@@ -1,0 +1,2 @@
+- pkg:maven/io.vanillabp.businesscockpit/workflow-provider-api-client@0.0.3
+- pkg:maven/io.vanillabp.businesscockpit/workflow-provider-api-client@0.0.3?classifier=sources

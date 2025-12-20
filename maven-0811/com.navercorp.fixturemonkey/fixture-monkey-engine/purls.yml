@@ -52,6 +52,7 @@
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-engine@1.0.20?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-engine@1.0.21?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-engine@1.0.22?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-engine@1.0.23?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-engine@1.0.2?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-engine@1.0.3?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-engine@1.0.4?classifier=sources

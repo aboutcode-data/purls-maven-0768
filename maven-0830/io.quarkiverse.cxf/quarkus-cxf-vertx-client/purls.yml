@@ -2,3 +2,7 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-vertx-client@3.13.0?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-vertx-client@3.13.1
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-vertx-client@3.13.1?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-vertx-client@3.14.0
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-vertx-client@3.14.0?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-vertx-client@3.15.0
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-vertx-client@3.15.0?classifier=sources

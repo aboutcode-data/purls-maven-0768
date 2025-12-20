@@ -6,3 +6,4 @@
 - pkg:maven/pro.streem.pbandk/protoc-gen-pbandk-lib-jvm@0.14.2?classifier=sources
 - pkg:maven/pro.streem.pbandk/protoc-gen-pbandk-lib-jvm@0.14.3?classifier=sources
 - pkg:maven/pro.streem.pbandk/protoc-gen-pbandk-lib-jvm@0.15.0?classifier=sources
+- pkg:maven/pro.streem.pbandk/protoc-gen-pbandk-lib-jvm@0.16.0?classifier=sources

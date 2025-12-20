@@ -1,0 +1,2 @@
+- pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter-security@7.22.0-alpha5
+- pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter-security@7.22.0-alpha5?classifier=sources

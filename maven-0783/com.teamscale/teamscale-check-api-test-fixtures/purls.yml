@@ -1,3 +1,6 @@
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@2024.7.0-rc1?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@2024.7.0-rc2?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@2024.7.0-rc3?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@5.9.0
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@5.9.0-rc1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@5.9.0-rc3
@@ -774,6 +777,9 @@
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.7.12?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.7.13?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.7.14?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.7.15?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.7.16?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.7.17?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.7.1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.7.2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.7.3?classifier=sources
@@ -787,6 +793,8 @@
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.8.0-rc2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.8.0-rc3?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.8.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.8.10?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.8.11?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.8.1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.8.2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.8.3?classifier=sources
@@ -795,9 +803,13 @@
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.8.6?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.8.7?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.8.8?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.8.9?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.9.0-rc1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.9.0-rc2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.9.0-rc3?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.9.0?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.9.1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.9.2?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.9.3?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.9.4?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.9.5?classifier=sources

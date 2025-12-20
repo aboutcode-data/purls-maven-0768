@@ -7,3 +7,5 @@
 - pkg:maven/org.eclipse.keyple/keyple-distributed-network-java-lib@2.3.0?classifier=sources
 - pkg:maven/org.eclipse.keyple/keyple-distributed-network-java-lib@2.3.1?classifier=sources
 - pkg:maven/org.eclipse.keyple/keyple-distributed-network-java-lib@2.4.0?classifier=sources
+- pkg:maven/org.eclipse.keyple/keyple-distributed-network-java-lib@2.5.0?classifier=sources
+- pkg:maven/org.eclipse.keyple/keyple-distributed-network-java-lib@2.5.1?classifier=sources

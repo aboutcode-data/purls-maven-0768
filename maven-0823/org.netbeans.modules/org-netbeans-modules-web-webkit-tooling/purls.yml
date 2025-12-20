@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-webkit-tooling@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-webkit-tooling@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-webkit-tooling@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-webkit-tooling@RELEASE230?classifier=sources

@@ -77,6 +77,8 @@
 - pkg:maven/global.maplink/sdk-geocode-google-maps-extension@1.5.1
 - pkg:maven/global.maplink/sdk-geocode-google-maps-extension@1.5.10
 - pkg:maven/global.maplink/sdk-geocode-google-maps-extension@1.5.10?classifier=sources
+- pkg:maven/global.maplink/sdk-geocode-google-maps-extension@1.5.11
+- pkg:maven/global.maplink/sdk-geocode-google-maps-extension@1.5.11?classifier=sources
 - pkg:maven/global.maplink/sdk-geocode-google-maps-extension@1.5.1?classifier=sources
 - pkg:maven/global.maplink/sdk-geocode-google-maps-extension@1.5.2
 - pkg:maven/global.maplink/sdk-geocode-google-maps-extension@1.5.2?classifier=sources

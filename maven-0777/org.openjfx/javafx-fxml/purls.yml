@@ -333,11 +333,17 @@
 - pkg:maven/org.openjfx/javafx-fxml@22.0.2
 - pkg:maven/org.openjfx/javafx-fxml@22.0.2?classifier=sources
 - pkg:maven/org.openjfx/javafx-fxml@22?classifier=sources
+- pkg:maven/org.openjfx/javafx-fxml@23
 - pkg:maven/org.openjfx/javafx-fxml@23-ea%2B18
 - pkg:maven/org.openjfx/javafx-fxml@23-ea%2B18?classifier=sources
 - pkg:maven/org.openjfx/javafx-fxml@23-ea%2B20
 - pkg:maven/org.openjfx/javafx-fxml@23-ea%2B20?classifier=sources
 - pkg:maven/org.openjfx/javafx-fxml@23-ea%2B22
 - pkg:maven/org.openjfx/javafx-fxml@23-ea%2B22?classifier=sources
+- pkg:maven/org.openjfx/javafx-fxml@23-ea%2B27
+- pkg:maven/org.openjfx/javafx-fxml@23-ea%2B27?classifier=sources
 - pkg:maven/org.openjfx/javafx-fxml@23-ea%2B3
 - pkg:maven/org.openjfx/javafx-fxml@23-ea%2B3?classifier=sources
+- pkg:maven/org.openjfx/javafx-fxml@23?classifier=sources
+- pkg:maven/org.openjfx/javafx-fxml@24-ea%2B5
+- pkg:maven/org.openjfx/javafx-fxml@24-ea%2B5?classifier=sources

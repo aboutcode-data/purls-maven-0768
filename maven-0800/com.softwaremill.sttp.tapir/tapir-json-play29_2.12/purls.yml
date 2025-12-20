@@ -28,6 +28,8 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-json-play29_2.12@1.10.9?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-json-play29_2.12@1.11.0
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-json-play29_2.12@1.11.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-json-play29_2.12@1.11.1
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-json-play29_2.12@1.11.1?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-json-play29_2.12@1.9.10
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-json-play29_2.12@1.9.10?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-json-play29_2.12@1.9.11

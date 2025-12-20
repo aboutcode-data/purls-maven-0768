@@ -45,3 +45,15 @@
 - pkg:maven/com.yahoo.vespa/container-llama@8.384.11?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-llama@8.385.27?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-llama@8.386.11?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.387.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.388.11?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.390.12?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.391.23?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.392.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.393.3?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.395.28?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.396.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.397.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.398.4?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.399.59?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.400.15?classifier=sources

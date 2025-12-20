@@ -3,3 +3,4 @@
 - pkg:maven/com.niubaite.boot/jpa-dao@1.1.12-2024?classifier=sources
 - pkg:maven/com.niubaite.boot/jpa-dao@1.1.13-2024?classifier=sources
 - pkg:maven/com.niubaite.boot/jpa-dao@1.1.14-2024?classifier=sources
+- pkg:maven/com.niubaite.boot/jpa-dao@1.1.16-2024?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/top.tshare.maven/ddd-scaffold-lite-test@1.0
+- pkg:maven/top.tshare.maven/ddd-scaffold-lite-test@1.0?classifier=sources

@@ -16,3 +16,4 @@
 - pkg:maven/org.webjars.npm/ant-design__colors@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/ant-design__colors@7.0.0
 - pkg:maven/org.webjars.npm/ant-design__colors@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/ant-design__colors@7.1.0
