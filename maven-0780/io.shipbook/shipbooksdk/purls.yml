@@ -4,3 +4,4 @@
 - pkg:maven/io.shipbook/shipbooksdk@1.7.0?classifier=sources
 - pkg:maven/io.shipbook/shipbooksdk@1.7.1?classifier=sources
 - pkg:maven/io.shipbook/shipbooksdk@1.7.2?classifier=sources
+- pkg:maven/io.shipbook/shipbooksdk@1.8.0?classifier=sources

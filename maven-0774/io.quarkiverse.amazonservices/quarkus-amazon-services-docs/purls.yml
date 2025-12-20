@@ -32,6 +32,9 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-docs@2.11.1
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-docs@2.12.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-docs@2.12.1
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-docs@2.12.2
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-docs@2.13.0
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-docs@2.13.1
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-docs@2.2.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-docs@2.3.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-services-docs@2.3.1

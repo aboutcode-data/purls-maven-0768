@@ -13,3 +13,4 @@
 - pkg:maven/me.magicall/html@1.3.2
 - pkg:maven/me.magicall/html@1.3.2?classifier=sources
 - pkg:maven/me.magicall/html@2.0.0
+- pkg:maven/me.magicall/html@2.1.0

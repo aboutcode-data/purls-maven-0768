@@ -70,6 +70,8 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.15.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.16.0
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.16.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.17.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.17.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.2.0
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.2.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@2.3.0

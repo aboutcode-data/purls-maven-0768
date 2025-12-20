@@ -1,0 +1,2 @@
+- pkg:maven/tech.toolpack/IJPay-JDPay@3.9.10
+- pkg:maven/tech.toolpack/IJPay-JDPay@3.9.10?classifier=sources

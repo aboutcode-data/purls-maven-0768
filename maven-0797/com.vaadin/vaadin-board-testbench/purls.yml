@@ -36,6 +36,10 @@
 - pkg:maven/com.vaadin/vaadin-board-testbench@14.11.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-board-testbench@14.11.5
 - pkg:maven/com.vaadin/vaadin-board-testbench@14.11.5?classifier=sources
+- pkg:maven/com.vaadin/vaadin-board-testbench@14.11.6
+- pkg:maven/com.vaadin/vaadin-board-testbench@14.11.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-board-testbench@14.11.7
+- pkg:maven/com.vaadin/vaadin-board-testbench@14.11.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-board-testbench@14.5.0
 - pkg:maven/com.vaadin/vaadin-board-testbench@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-board-testbench@14.5.1
@@ -488,6 +492,8 @@
 - pkg:maven/com.vaadin/vaadin-board-testbench@23.3.9?classifier=sources
 - pkg:maven/com.vaadin/vaadin-board-testbench@23.4.0
 - pkg:maven/com.vaadin/vaadin-board-testbench@23.4.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-board-testbench@23.5.0
+- pkg:maven/com.vaadin/vaadin-board-testbench@23.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-board-testbench@24.0.0
 - pkg:maven/com.vaadin/vaadin-board-testbench@24.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-board-testbench@24.0.1
@@ -559,6 +565,8 @@
 - pkg:maven/com.vaadin/vaadin-board-testbench@24.2.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin-board-testbench@24.2.11
 - pkg:maven/com.vaadin/vaadin-board-testbench@24.2.11?classifier=sources
+- pkg:maven/com.vaadin/vaadin-board-testbench@24.2.12
+- pkg:maven/com.vaadin/vaadin-board-testbench@24.2.12?classifier=sources
 - pkg:maven/com.vaadin/vaadin-board-testbench@24.2.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-board-testbench@24.2.2
 - pkg:maven/com.vaadin/vaadin-board-testbench@24.2.2?classifier=sources
@@ -592,6 +600,10 @@
 - pkg:maven/com.vaadin/vaadin-board-testbench@24.3.6?classifier=sources
 - pkg:maven/com.vaadin/vaadin-board-testbench@24.3.7
 - pkg:maven/com.vaadin/vaadin-board-testbench@24.3.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-board-testbench@24.3.8
+- pkg:maven/com.vaadin/vaadin-board-testbench@24.3.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-board-testbench@24.3.9
+- pkg:maven/com.vaadin/vaadin-board-testbench@24.3.9?classifier=sources
 - pkg:maven/com.vaadin/vaadin-board-testbench@3.0.0
 - pkg:maven/com.vaadin/vaadin-board-testbench@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-board-testbench@3.0.1

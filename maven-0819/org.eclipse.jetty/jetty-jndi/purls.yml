@@ -138,6 +138,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-jndi@12.0.6?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-jndi@12.0.7
 - pkg:maven/org.eclipse.jetty/jetty-jndi@12.0.7?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-jndi@12.0.8
+- pkg:maven/org.eclipse.jetty/jetty-jndi@12.0.8?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-jndi@7.0.0.M0
 - pkg:maven/org.eclipse.jetty/jetty-jndi@7.0.0.M0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-jndi@7.0.0.M1

@@ -45,6 +45,8 @@
 - pkg:maven/io.qameta.allure/allure-model@2.23.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-model@2.24.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-model@2.25.0?classifier=sources
+- pkg:maven/io.qameta.allure/allure-model@2.26.0?classifier=sources
+- pkg:maven/io.qameta.allure/allure-model@2.27.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-model@2.8.0
 - pkg:maven/io.qameta.allure/allure-model@2.8.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-model@2.8.1

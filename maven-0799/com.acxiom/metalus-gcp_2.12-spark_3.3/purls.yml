@@ -1,2 +1,6 @@
 - pkg:maven/com.acxiom/metalus-gcp_2.12-spark_3.3@1.9.4
 - pkg:maven/com.acxiom/metalus-gcp_2.12-spark_3.3@1.9.4?classifier=sources
+- pkg:maven/com.acxiom/metalus-gcp_2.12-spark_3.3@1.9.6
+- pkg:maven/com.acxiom/metalus-gcp_2.12-spark_3.3@1.9.6?classifier=sources
+- pkg:maven/com.acxiom/metalus-gcp_2.12-spark_3.3@1.9.7
+- pkg:maven/com.acxiom/metalus-gcp_2.12-spark_3.3@1.9.7?classifier=sources

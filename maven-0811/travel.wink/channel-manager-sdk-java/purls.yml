@@ -102,6 +102,10 @@
 - pkg:maven/travel.wink/channel-manager-sdk-java@29.41.0?classifier=sources
 - pkg:maven/travel.wink/channel-manager-sdk-java@29.42.12
 - pkg:maven/travel.wink/channel-manager-sdk-java@29.42.12?classifier=sources
+- pkg:maven/travel.wink/channel-manager-sdk-java@29.53.6
+- pkg:maven/travel.wink/channel-manager-sdk-java@29.53.6?classifier=sources
+- pkg:maven/travel.wink/channel-manager-sdk-java@29.56.0
+- pkg:maven/travel.wink/channel-manager-sdk-java@29.56.0?classifier=sources
 - pkg:maven/travel.wink/channel-manager-sdk-java@29.7.0
 - pkg:maven/travel.wink/channel-manager-sdk-java@29.7.0?classifier=sources
 - pkg:maven/travel.wink/channel-manager-sdk-java@29.8.0

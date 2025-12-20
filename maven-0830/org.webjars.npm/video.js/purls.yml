@@ -116,6 +116,8 @@
 - pkg:maven/org.webjars.npm/video.js@8.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/video.js@8.11.4
 - pkg:maven/org.webjars.npm/video.js@8.11.4?classifier=sources
+- pkg:maven/org.webjars.npm/video.js@8.11.8
+- pkg:maven/org.webjars.npm/video.js@8.11.8?classifier=sources
 - pkg:maven/org.webjars.npm/video.js@8.3.0
 - pkg:maven/org.webjars.npm/video.js@8.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/video.js@8.5.0

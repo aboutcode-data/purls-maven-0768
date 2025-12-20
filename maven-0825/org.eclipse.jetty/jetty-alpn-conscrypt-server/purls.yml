@@ -138,6 +138,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-server@12.0.6?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-server@12.0.7
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-server@12.0.7?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-server@12.0.8
+- pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-server@12.0.8?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-server@9.4.10.RC0
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-server@9.4.10.RC0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-server@9.4.10.RC1

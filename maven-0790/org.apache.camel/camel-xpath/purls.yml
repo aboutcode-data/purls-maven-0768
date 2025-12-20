@@ -190,3 +190,5 @@
 - pkg:maven/org.apache.camel/camel-xpath@4.4.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-xpath@4.4.1
 - pkg:maven/org.apache.camel/camel-xpath@4.4.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-xpath@4.5.0
+- pkg:maven/org.apache.camel/camel-xpath@4.5.0?classifier=sources

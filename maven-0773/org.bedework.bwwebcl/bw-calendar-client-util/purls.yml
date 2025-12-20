@@ -6,3 +6,5 @@
 - pkg:maven/org.bedework.bwwebcl/bw-calendar-client-util@4.0.1?classifier=sources
 - pkg:maven/org.bedework.bwwebcl/bw-calendar-client-util@4.0.2
 - pkg:maven/org.bedework.bwwebcl/bw-calendar-client-util@4.0.2?classifier=sources
+- pkg:maven/org.bedework.bwwebcl/bw-calendar-client-util@4.1.1
+- pkg:maven/org.bedework.bwwebcl/bw-calendar-client-util@4.1.1?classifier=sources

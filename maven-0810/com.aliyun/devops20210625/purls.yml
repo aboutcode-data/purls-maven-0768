@@ -80,6 +80,16 @@
 - pkg:maven/com.aliyun/devops20210625@4.10.1?classifier=sources
 - pkg:maven/com.aliyun/devops20210625@4.11.0
 - pkg:maven/com.aliyun/devops20210625@4.11.0?classifier=sources
+- pkg:maven/com.aliyun/devops20210625@4.12.0
+- pkg:maven/com.aliyun/devops20210625@4.12.0?classifier=sources
+- pkg:maven/com.aliyun/devops20210625@4.13.0
+- pkg:maven/com.aliyun/devops20210625@4.13.0?classifier=sources
+- pkg:maven/com.aliyun/devops20210625@4.13.1
+- pkg:maven/com.aliyun/devops20210625@4.13.1?classifier=sources
+- pkg:maven/com.aliyun/devops20210625@4.13.2
+- pkg:maven/com.aliyun/devops20210625@4.13.2?classifier=sources
+- pkg:maven/com.aliyun/devops20210625@4.13.3
+- pkg:maven/com.aliyun/devops20210625@4.13.3?classifier=sources
 - pkg:maven/com.aliyun/devops20210625@4.2.0
 - pkg:maven/com.aliyun/devops20210625@4.2.0?classifier=sources
 - pkg:maven/com.aliyun/devops20210625@4.2.1

@@ -96,3 +96,5 @@
 - pkg:maven/org.openurp.qos/openurp-qos-api@0.37.2?classifier=sources
 - pkg:maven/org.openurp.qos/openurp-qos-api@0.37.3
 - pkg:maven/org.openurp.qos/openurp-qos-api@0.37.3?classifier=sources
+- pkg:maven/org.openurp.qos/openurp-qos-api@0.38.0
+- pkg:maven/org.openurp.qos/openurp-qos-api@0.38.0?classifier=sources

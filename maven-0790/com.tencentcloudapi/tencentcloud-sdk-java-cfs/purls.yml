@@ -1030,3 +1030,5 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cfs@3.1.970?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cfs@3.1.977
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cfs@3.1.977?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cfs@3.1.983
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cfs@3.1.983?classifier=sources

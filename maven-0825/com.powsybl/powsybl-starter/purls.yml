@@ -14,3 +14,4 @@
 - pkg:maven/com.powsybl/powsybl-starter@2023.4.0
 - pkg:maven/com.powsybl/powsybl-starter@2024.0.0
 - pkg:maven/com.powsybl/powsybl-starter@2024.0.1
+- pkg:maven/com.powsybl/powsybl-starter@2024.1.0

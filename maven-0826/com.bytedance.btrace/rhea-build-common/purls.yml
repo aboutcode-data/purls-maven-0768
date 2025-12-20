@@ -14,3 +14,5 @@
 - pkg:maven/com.bytedance.btrace/rhea-build-common@2.0.3-rc01?classifier=sources
 - pkg:maven/com.bytedance.btrace/rhea-build-common@2.0.3-rc02
 - pkg:maven/com.bytedance.btrace/rhea-build-common@2.0.3-rc02?classifier=sources
+- pkg:maven/com.bytedance.btrace/rhea-build-common@2.0.3-rc03
+- pkg:maven/com.bytedance.btrace/rhea-build-common@2.0.3-rc03?classifier=sources

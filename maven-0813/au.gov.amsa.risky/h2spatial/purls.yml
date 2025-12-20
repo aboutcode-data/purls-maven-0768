@@ -13,6 +13,8 @@
 - pkg:maven/au.gov.amsa.risky/h2spatial@0.6.15
 - pkg:maven/au.gov.amsa.risky/h2spatial@0.6.16
 - pkg:maven/au.gov.amsa.risky/h2spatial@0.6.17
+- pkg:maven/au.gov.amsa.risky/h2spatial@0.6.18
+- pkg:maven/au.gov.amsa.risky/h2spatial@0.6.19
 - pkg:maven/au.gov.amsa.risky/h2spatial@0.6.2.0
 - pkg:maven/au.gov.amsa.risky/h2spatial@0.6.3
 - pkg:maven/au.gov.amsa.risky/h2spatial@0.6.4

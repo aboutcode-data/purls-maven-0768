@@ -1,0 +1,2 @@
+- pkg:maven/io.hotmoka/io-hotmoka-moka@1.4.3
+- pkg:maven/io.hotmoka/io-hotmoka-moka@1.4.3?classifier=sources

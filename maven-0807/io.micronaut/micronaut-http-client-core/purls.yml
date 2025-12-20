@@ -65,6 +65,7 @@
 - pkg:maven/io.micronaut/micronaut-http-client-core@3.10.1?classifier=sources
 - pkg:maven/io.micronaut/micronaut-http-client-core@3.10.2?classifier=sources
 - pkg:maven/io.micronaut/micronaut-http-client-core@3.10.3?classifier=sources
+- pkg:maven/io.micronaut/micronaut-http-client-core@3.10.4?classifier=sources
 - pkg:maven/io.micronaut/micronaut-http-client-core@3.2.0?classifier=sources
 - pkg:maven/io.micronaut/micronaut-http-client-core@3.2.1?classifier=sources
 - pkg:maven/io.micronaut/micronaut-http-client-core@3.2.2?classifier=sources
@@ -168,6 +169,10 @@
 - pkg:maven/io.micronaut/micronaut-http-client-core@4.2.4?classifier=sources
 - pkg:maven/io.micronaut/micronaut-http-client-core@4.3.0?classifier=sources
 - pkg:maven/io.micronaut/micronaut-http-client-core@4.3.10?classifier=sources
+- pkg:maven/io.micronaut/micronaut-http-client-core@4.3.11?classifier=sources
+- pkg:maven/io.micronaut/micronaut-http-client-core@4.3.12?classifier=sources
+- pkg:maven/io.micronaut/micronaut-http-client-core@4.3.13?classifier=sources
+- pkg:maven/io.micronaut/micronaut-http-client-core@4.3.14?classifier=sources
 - pkg:maven/io.micronaut/micronaut-http-client-core@4.3.1?classifier=sources
 - pkg:maven/io.micronaut/micronaut-http-client-core@4.3.2?classifier=sources
 - pkg:maven/io.micronaut/micronaut-http-client-core@4.3.3?classifier=sources
@@ -177,3 +182,5 @@
 - pkg:maven/io.micronaut/micronaut-http-client-core@4.3.7?classifier=sources
 - pkg:maven/io.micronaut/micronaut-http-client-core@4.3.8?classifier=sources
 - pkg:maven/io.micronaut/micronaut-http-client-core@4.3.9?classifier=sources
+- pkg:maven/io.micronaut/micronaut-http-client-core@4.4.0?classifier=sources
+- pkg:maven/io.micronaut/micronaut-http-client-core@4.4.1?classifier=sources

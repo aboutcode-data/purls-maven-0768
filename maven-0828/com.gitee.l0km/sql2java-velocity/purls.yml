@@ -142,6 +142,8 @@
 - pkg:maven/com.gitee.l0km/sql2java-velocity@3.29.8?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-velocity@3.29.9
 - pkg:maven/com.gitee.l0km/sql2java-velocity@3.29.9?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-velocity@3.30.0
+- pkg:maven/com.gitee.l0km/sql2java-velocity@3.30.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-velocity@3.4.0
 - pkg:maven/com.gitee.l0km/sql2java-velocity@3.4.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-velocity@3.4.1

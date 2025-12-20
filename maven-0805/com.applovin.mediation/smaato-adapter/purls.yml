@@ -68,3 +68,4 @@
 - pkg:maven/com.applovin.mediation/smaato-adapter@22.5.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/smaato-adapter@22.5.1.0?classifier=sources
 - pkg:maven/com.applovin.mediation/smaato-adapter@22.6.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/smaato-adapter@22.6.1.0?classifier=sources

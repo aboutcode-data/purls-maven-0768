@@ -1,0 +1,2 @@
+- pkg:maven/com.redis/testcontainers-redis-test@2.2.1?classifier=sources
+- pkg:maven/com.redis/testcontainers-redis-test@2.2.2?classifier=sources

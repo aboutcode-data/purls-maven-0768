@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/cats-tagless-fs2_sjs1_3@0.16.0
+- pkg:maven/org.typelevel/cats-tagless-fs2_sjs1_3@0.16.0?classifier=sources

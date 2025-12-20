@@ -65,6 +65,10 @@
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.34-PREVIEW.rtyley-patch-2.2024-03-12T1241.1ef19995
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.34-PREVIEW.rtyley-patch-2.2024-03-12T1241.1ef19995?classifier=sources
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.34?classifier=sources
+- pkg:maven/com.gu/redirect-resolver_2.13@0.0.35
+- pkg:maven/com.gu/redirect-resolver_2.13@0.0.35?classifier=sources
+- pkg:maven/com.gu/redirect-resolver_2.13@0.0.36
+- pkg:maven/com.gu/redirect-resolver_2.13@0.0.36?classifier=sources
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.3?classifier=sources
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.4
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.4?classifier=sources

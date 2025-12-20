@@ -94,3 +94,5 @@
 - pkg:maven/com.flowcentraltech.flowcentral/flowcentral-javax@1.0.61?classifier=sources
 - pkg:maven/com.flowcentraltech.flowcentral/flowcentral-javax@1.0.62
 - pkg:maven/com.flowcentraltech.flowcentral/flowcentral-javax@1.0.62?classifier=sources
+- pkg:maven/com.flowcentraltech.flowcentral/flowcentral-javax@1.0.64
+- pkg:maven/com.flowcentraltech.flowcentral/flowcentral-javax@1.0.64?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/io.kroxylicious/kroxylicious-record-validation@0.4.0?classifier=sources
 - pkg:maven/io.kroxylicious/kroxylicious-record-validation@0.4.1
 - pkg:maven/io.kroxylicious/kroxylicious-record-validation@0.4.1?classifier=sources
+- pkg:maven/io.kroxylicious/kroxylicious-record-validation@0.5.0
+- pkg:maven/io.kroxylicious/kroxylicious-record-validation@0.5.0?classifier=sources
+- pkg:maven/io.kroxylicious/kroxylicious-record-validation@0.5.1
+- pkg:maven/io.kroxylicious/kroxylicious-record-validation@0.5.1?classifier=sources

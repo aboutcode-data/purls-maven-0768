@@ -16,3 +16,4 @@
 - pkg:maven/com.landawn/abacus-cache@0.9.6?classifier=sources
 - pkg:maven/com.landawn/abacus-cache@0.9.7?classifier=sources
 - pkg:maven/com.landawn/abacus-cache@0.9.8?classifier=sources
+- pkg:maven/com.landawn/abacus-cache@1.0?classifier=sources

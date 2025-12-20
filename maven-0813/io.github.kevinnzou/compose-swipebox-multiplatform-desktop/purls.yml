@@ -1,1 +1,2 @@
 - pkg:maven/io.github.kevinnzou/compose-swipebox-multiplatform-desktop@1.0.0?classifier=sources
+- pkg:maven/io.github.kevinnzou/compose-swipebox-multiplatform-desktop@1.2.0?classifier=sources

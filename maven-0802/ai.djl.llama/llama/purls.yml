@@ -1,2 +1,4 @@
 - pkg:maven/ai.djl.llama/llama@0.26.0
 - pkg:maven/ai.djl.llama/llama@0.26.0?classifier=sources
+- pkg:maven/ai.djl.llama/llama@0.27.0
+- pkg:maven/ai.djl.llama/llama@0.27.0?classifier=sources

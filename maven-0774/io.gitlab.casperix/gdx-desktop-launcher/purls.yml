@@ -1,2 +1,3 @@
 - pkg:maven/io.gitlab.casperix/gdx-desktop-launcher@1.4.0?classifier=sources
 - pkg:maven/io.gitlab.casperix/gdx-desktop-launcher@1.5.0?classifier=sources
+- pkg:maven/io.gitlab.casperix/gdx-desktop-launcher@1.7.0?classifier=sources

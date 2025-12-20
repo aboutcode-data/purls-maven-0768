@@ -1,0 +1,12 @@
+- pkg:maven/software.amazon.awssdk/route53profiles@2.25.36
+- pkg:maven/software.amazon.awssdk/route53profiles@2.25.36?classifier=sources
+- pkg:maven/software.amazon.awssdk/route53profiles@2.25.37
+- pkg:maven/software.amazon.awssdk/route53profiles@2.25.37?classifier=sources
+- pkg:maven/software.amazon.awssdk/route53profiles@2.25.38
+- pkg:maven/software.amazon.awssdk/route53profiles@2.25.38?classifier=sources
+- pkg:maven/software.amazon.awssdk/route53profiles@2.25.39
+- pkg:maven/software.amazon.awssdk/route53profiles@2.25.39?classifier=sources
+- pkg:maven/software.amazon.awssdk/route53profiles@2.25.40
+- pkg:maven/software.amazon.awssdk/route53profiles@2.25.40?classifier=sources
+- pkg:maven/software.amazon.awssdk/route53profiles@2.25.41
+- pkg:maven/software.amazon.awssdk/route53profiles@2.25.41?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/playcanvas@1.69.2
+- pkg:maven/org.webjars.npm/playcanvas@1.69.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.quafadas/peer-scalajs_sjs1_3@0.0.3
+- pkg:maven/io.github.quafadas/peer-scalajs_sjs1_3@0.0.3?classifier=sources

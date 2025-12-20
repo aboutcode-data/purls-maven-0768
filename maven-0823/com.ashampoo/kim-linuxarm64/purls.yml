@@ -1,2 +1,11 @@
 - pkg:maven/com.ashampoo/kim-linuxarm64@0.15.1?classifier=sources
 - pkg:maven/com.ashampoo/kim-linuxarm64@0.15?classifier=sources
+- pkg:maven/com.ashampoo/kim-linuxarm64@0.16.1?classifier=sources
+- pkg:maven/com.ashampoo/kim-linuxarm64@0.16.2?classifier=sources
+- pkg:maven/com.ashampoo/kim-linuxarm64@0.16.3?classifier=sources
+- pkg:maven/com.ashampoo/kim-linuxarm64@0.16.4?classifier=sources
+- pkg:maven/com.ashampoo/kim-linuxarm64@0.16?classifier=sources
+- pkg:maven/com.ashampoo/kim-linuxarm64@0.17.1?classifier=sources
+- pkg:maven/com.ashampoo/kim-linuxarm64@0.17.2?classifier=sources
+- pkg:maven/com.ashampoo/kim-linuxarm64@0.17.3?classifier=sources
+- pkg:maven/com.ashampoo/kim-linuxarm64@0.17?classifier=sources

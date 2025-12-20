@@ -1,3 +1,6 @@
+- pkg:maven/org.http4k/http4k-connect-gitlab@5.10.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-gitlab@5.10.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-gitlab@5.11.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-gitlab@5.5.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-gitlab@5.6.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-gitlab@5.6.10.0?classifier=sources

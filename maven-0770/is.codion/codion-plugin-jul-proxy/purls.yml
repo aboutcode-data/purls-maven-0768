@@ -12,3 +12,11 @@
 - pkg:maven/is.codion/codion-plugin-jul-proxy@0.17.28?classifier=sources
 - pkg:maven/is.codion/codion-plugin-jul-proxy@0.17.29?classifier=sources
 - pkg:maven/is.codion/codion-plugin-jul-proxy@0.17.30?classifier=sources
+- pkg:maven/is.codion/codion-plugin-jul-proxy@0.17.31?classifier=sources
+- pkg:maven/is.codion/codion-plugin-jul-proxy@0.17.32?classifier=sources
+- pkg:maven/is.codion/codion-plugin-jul-proxy@0.17.33?classifier=sources
+- pkg:maven/is.codion/codion-plugin-jul-proxy@0.17.34?classifier=sources
+- pkg:maven/is.codion/codion-plugin-jul-proxy@0.17.35?classifier=sources
+- pkg:maven/is.codion/codion-plugin-jul-proxy@0.17.36?classifier=sources
+- pkg:maven/is.codion/codion-plugin-jul-proxy@0.17.37?classifier=sources
+- pkg:maven/is.codion/codion-plugin-jul-proxy@0.17.38?classifier=sources

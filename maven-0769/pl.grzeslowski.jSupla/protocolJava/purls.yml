@@ -1,2 +1,10 @@
 - pkg:maven/pl.grzeslowski.jSupla/protocolJava@0.10.0
 - pkg:maven/pl.grzeslowski.jSupla/protocolJava@0.10.0?classifier=sources
+- pkg:maven/pl.grzeslowski.jSupla/protocolJava@0.12.0
+- pkg:maven/pl.grzeslowski.jSupla/protocolJava@0.12.0?classifier=sources
+- pkg:maven/pl.grzeslowski.jSupla/protocolJava@0.13.0
+- pkg:maven/pl.grzeslowski.jSupla/protocolJava@0.13.0?classifier=sources
+- pkg:maven/pl.grzeslowski.jSupla/protocolJava@0.14.0
+- pkg:maven/pl.grzeslowski.jSupla/protocolJava@0.14.0?classifier=sources
+- pkg:maven/pl.grzeslowski.jSupla/protocolJava@0.15.0
+- pkg:maven/pl.grzeslowski.jSupla/protocolJava@0.15.0?classifier=sources

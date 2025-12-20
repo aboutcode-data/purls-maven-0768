@@ -102,3 +102,7 @@
 - pkg:maven/com.google.apis/google-api-services-bigtableadmin@v2-rev20240225-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigtableadmin@v2-rev20240306-2.0.0
 - pkg:maven/com.google.apis/google-api-services-bigtableadmin@v2-rev20240306-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigtableadmin@v2-rev20240318-2.0.0
+- pkg:maven/com.google.apis/google-api-services-bigtableadmin@v2-rev20240318-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigtableadmin@v2-rev20240319-2.0.0
+- pkg:maven/com.google.apis/google-api-services-bigtableadmin@v2-rev20240319-2.0.0?classifier=sources

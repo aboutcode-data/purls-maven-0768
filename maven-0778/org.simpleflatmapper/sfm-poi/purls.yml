@@ -314,5 +314,7 @@
 - pkg:maven/org.simpleflatmapper/sfm-poi@8.2.2?classifier=sources
 - pkg:maven/org.simpleflatmapper/sfm-poi@8.2.3
 - pkg:maven/org.simpleflatmapper/sfm-poi@8.2.3?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-poi@9.0.0
 - pkg:maven/org.simpleflatmapper/sfm-poi@9.0.0.A
 - pkg:maven/org.simpleflatmapper/sfm-poi@9.0.0.A?classifier=sources
+- pkg:maven/org.simpleflatmapper/sfm-poi@9.0.0?classifier=sources

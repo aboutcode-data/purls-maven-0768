@@ -34,6 +34,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@10.0.0-M1?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@10.0.0-M2?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@10.0.0-M2?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-phonebook@10.0.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-phonebook@10.0.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@6.0.0-beta1.1?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@6.0.0-beta1.1?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@6.0.0-beta1?classifier=sources
@@ -226,6 +228,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@9.15.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@9.16.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@9.16.0?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-phonebook@9.17.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-phonebook@9.17.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@9.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@9.2.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-phonebook@9.3.0?classifier=sources

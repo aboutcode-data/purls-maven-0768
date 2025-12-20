@@ -36,3 +36,5 @@
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.message.processor.feature@4.7.177?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.message.processor.feature@4.7.190?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.message.processor.feature@4.7.191?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.message.processor.feature@4.7.200?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.message.processor.feature@4.7.205?classifier=source-release&type=zip

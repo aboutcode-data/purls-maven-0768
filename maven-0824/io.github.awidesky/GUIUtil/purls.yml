@@ -10,3 +10,5 @@
 - pkg:maven/io.github.awidesky/GUIUtil@1.1.3?classifier=sources
 - pkg:maven/io.github.awidesky/GUIUtil@1.2.0
 - pkg:maven/io.github.awidesky/GUIUtil@1.2.0?classifier=sources
+- pkg:maven/io.github.awidesky/GUIUtil@1.2.1
+- pkg:maven/io.github.awidesky/GUIUtil@1.2.1?classifier=sources

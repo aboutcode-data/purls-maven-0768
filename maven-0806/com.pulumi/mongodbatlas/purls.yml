@@ -70,6 +70,8 @@
 - pkg:maven/com.pulumi/mongodbatlas@3.14.0-alpha.1707046442%2B8ef3dc6b?classifier=sources
 - pkg:maven/com.pulumi/mongodbatlas@3.14.0?classifier=sources
 - pkg:maven/com.pulumi/mongodbatlas@3.14.1?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.14.2?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.14.3?classifier=sources
 - pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1707287392%2Bae5d439f?classifier=sources
 - pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1707417157%2B7471b580?classifier=sources
 - pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1707546592%2Bb4fe4cdc?classifier=sources
@@ -84,6 +86,15 @@
 - pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1709214924%2B6e1dcf6d?classifier=sources
 - pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1709365305%2Bb872310d?classifier=sources
 - pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1710157248%2B02f40f03?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1710779134%2B52c6739d?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1710918240%2Bb41c5095?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1711028181%2Bb4b6f3ab?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1711519307%2B5015e8f9?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1711736929%2Bf15fdcb1?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1711966527%2B7b7868f6?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1712400401%2Bb95341e7?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1712469205%2Be4ec2a21?classifier=sources
+- pkg:maven/com.pulumi/mongodbatlas@3.15.0-alpha.1712728547%2B622149e3?classifier=sources
 - pkg:maven/com.pulumi/mongodbatlas@3.5.1?classifier=sources
 - pkg:maven/com.pulumi/mongodbatlas@3.5.2?classifier=sources
 - pkg:maven/com.pulumi/mongodbatlas@3.6.0-alpha.1662645483%2Bcdbfe599?classifier=sources

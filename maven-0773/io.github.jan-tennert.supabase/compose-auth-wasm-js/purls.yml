@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jan-tennert.supabase/compose-auth-wasm-js@2.2.2-wasm0?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/compose-auth-wasm-js@2.2.3-wasm0?classifier=sources

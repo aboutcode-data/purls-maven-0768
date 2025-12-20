@@ -157,6 +157,10 @@
 - pkg:maven/com.walmartlabs.concord/concord-dependency-manager@2.0.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-dependency-manager@2.1.0
 - pkg:maven/com.walmartlabs.concord/concord-dependency-manager@2.1.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-dependency-manager@2.10.0
+- pkg:maven/com.walmartlabs.concord/concord-dependency-manager@2.10.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-dependency-manager@2.10.1
+- pkg:maven/com.walmartlabs.concord/concord-dependency-manager@2.10.1?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-dependency-manager@2.2.0
 - pkg:maven/com.walmartlabs.concord/concord-dependency-manager@2.2.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-dependency-manager@2.3.0

@@ -19,3 +19,4 @@
 - pkg:maven/com.manticore-projects.jsqlformatter/jsqlformatter@1.0.0
 - pkg:maven/com.manticore-projects.jsqlformatter/jsqlformatter@1.0.0?classifier=sources
 - pkg:maven/com.manticore-projects.jsqlformatter/jsqlformatter@4.8?classifier=sources
+- pkg:maven/com.manticore-projects.jsqlformatter/jsqlformatter@4.9?classifier=sources

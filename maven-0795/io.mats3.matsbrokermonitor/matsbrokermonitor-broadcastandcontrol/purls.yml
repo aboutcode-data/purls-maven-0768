@@ -1,3 +1,5 @@
 - pkg:maven/io.mats3.matsbrokermonitor/matsbrokermonitor-broadcastandcontrol@0.1.5-2022-11-13?classifier=sources
 - pkg:maven/io.mats3.matsbrokermonitor/matsbrokermonitor-broadcastandcontrol@0.1.6-2023-11-13?classifier=sources
 - pkg:maven/io.mats3.matsbrokermonitor/matsbrokermonitor-broadcastandcontrol@0.1.7-2023-11-28?classifier=sources
+- pkg:maven/io.mats3.matsbrokermonitor/matsbrokermonitor-broadcastandcontrol@1.0.0-2024-04-05?classifier=sources
+- pkg:maven/io.mats3.matsbrokermonitor/matsbrokermonitor-broadcastandcontrol@1.0.1-2024-04-08?classifier=sources

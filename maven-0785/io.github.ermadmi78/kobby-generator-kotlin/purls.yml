@@ -38,3 +38,5 @@
 - pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@3.0.2-alpha.12?classifier=sources
 - pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@3.0.2?classifier=sources
 - pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@3.1.0?classifier=sources
+- pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@4.0.0-alpha.01?classifier=sources
+- pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@4.0.0?classifier=sources

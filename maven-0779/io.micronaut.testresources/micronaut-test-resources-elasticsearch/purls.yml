@@ -36,3 +36,4 @@
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-elasticsearch@2.3.2?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-elasticsearch@2.3.3?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-elasticsearch@2.4.0?classifier=sources
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-elasticsearch@2.5.0?classifier=sources

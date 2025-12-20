@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.hawkbit/hawkbit-extension-artifact-repository-mongo@0.3.0M9?classifier=sources
 - pkg:maven/org.eclipse.hawkbit/hawkbit-extension-artifact-repository-mongo@0.4.1
 - pkg:maven/org.eclipse.hawkbit/hawkbit-extension-artifact-repository-mongo@0.4.1?classifier=sources
+- pkg:maven/org.eclipse.hawkbit/hawkbit-extension-artifact-repository-mongo@0.5.0
+- pkg:maven/org.eclipse.hawkbit/hawkbit-extension-artifact-repository-mongo@0.5.0?classifier=sources

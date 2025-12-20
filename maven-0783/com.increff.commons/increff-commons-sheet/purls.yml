@@ -2,3 +2,5 @@
 - pkg:maven/com.increff.commons/increff-commons-sheet@1.8.3?classifier=sources
 - pkg:maven/com.increff.commons/increff-commons-sheet@1.8.5
 - pkg:maven/com.increff.commons/increff-commons-sheet@1.8.5?classifier=sources
+- pkg:maven/com.increff.commons/increff-commons-sheet@1.8.7
+- pkg:maven/com.increff.commons/increff-commons-sheet@1.8.7?classifier=sources

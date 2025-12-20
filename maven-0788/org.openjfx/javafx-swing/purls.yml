@@ -305,6 +305,7 @@
 - pkg:maven/org.openjfx/javafx-swing@21.0.3-ea%2B1
 - pkg:maven/org.openjfx/javafx-swing@21.0.3-ea%2B1?classifier=sources
 - pkg:maven/org.openjfx/javafx-swing@21?classifier=sources
+- pkg:maven/org.openjfx/javafx-swing@22
 - pkg:maven/org.openjfx/javafx-swing@22-ea%2B11
 - pkg:maven/org.openjfx/javafx-swing@22-ea%2B11?classifier=sources
 - pkg:maven/org.openjfx/javafx-swing@22-ea%2B16
@@ -315,5 +316,6 @@
 - pkg:maven/org.openjfx/javafx-swing@22-ea%2B28?classifier=sources
 - pkg:maven/org.openjfx/javafx-swing@22-ea%2B9
 - pkg:maven/org.openjfx/javafx-swing@22-ea%2B9?classifier=sources
+- pkg:maven/org.openjfx/javafx-swing@22?classifier=sources
 - pkg:maven/org.openjfx/javafx-swing@23-ea%2B3
 - pkg:maven/org.openjfx/javafx-swing@23-ea%2B3?classifier=sources

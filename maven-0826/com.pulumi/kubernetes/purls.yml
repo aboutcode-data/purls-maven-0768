@@ -159,6 +159,17 @@
 - pkg:maven/com.pulumi/kubernetes@4.10.0-alpha.1709855027%2Be174e298?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.10.0-alpha.1709923578%2B7246ed37?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.10.0-alpha.1710288589%2Bb0d1611e?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@4.10.0-alpha.1710355461%2B76bf6180?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@4.10.0-alpha.1710887817%2B11992433?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@4.10.0-alpha.1710956270%2Ba6d364ae?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@4.10.0-alpha.1711057466%2Be0064102?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@4.10.0-alpha.1711061608%2B5b47b32c?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@4.10.0-alpha.1711065706%2B99a295ec?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@4.10.0-alpha.1711067533%2B130f4a30?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@4.10.0-alpha.1711070822%2Ba15641e4?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@4.10.0-alpha.1711579363%2B76baec9e?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@4.10.0-alpha.1711651086%2B10103331?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@4.10.0-alpha.1711728170%2B78ab3874?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.2.0-alpha.1692640048%2B07ceb619?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.2.0-alpha.1692825804%2B199ed9e6?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.2.0-alpha.1693262085%2Bb9b9c143?classifier=sources
@@ -266,3 +277,4 @@
 - pkg:maven/com.pulumi/kubernetes@4.9.0-alpha.1709231639%2B53f0563e?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.9.0-alpha.1709600505%2B0b393b10?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.9.0?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@4.9.1?classifier=sources

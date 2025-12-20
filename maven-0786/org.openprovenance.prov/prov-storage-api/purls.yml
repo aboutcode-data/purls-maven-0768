@@ -70,3 +70,5 @@
 - pkg:maven/org.openprovenance.prov/prov-storage-api@2.0.3?classifier=sources
 - pkg:maven/org.openprovenance.prov/prov-storage-api@2.0.4
 - pkg:maven/org.openprovenance.prov/prov-storage-api@2.0.4?classifier=sources
+- pkg:maven/org.openprovenance.prov/prov-storage-api@2.0.5
+- pkg:maven/org.openprovenance.prov/prov-storage-api@2.0.5?classifier=sources

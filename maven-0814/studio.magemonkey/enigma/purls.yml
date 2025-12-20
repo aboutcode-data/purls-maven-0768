@@ -1,0 +1,2 @@
+- pkg:maven/studio.magemonkey/enigma@1.0.0-R1
+- pkg:maven/studio.magemonkey/enigma@1.0.0-R1?classifier=sources

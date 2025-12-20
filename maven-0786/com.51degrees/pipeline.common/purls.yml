@@ -111,6 +111,10 @@
 - pkg:maven/com.51degrees/pipeline.common@4.4.4
 - pkg:maven/com.51degrees/pipeline.common@4.4.40
 - pkg:maven/com.51degrees/pipeline.common@4.4.40?classifier=sources
+- pkg:maven/com.51degrees/pipeline.common@4.4.41
+- pkg:maven/com.51degrees/pipeline.common@4.4.41?classifier=sources
+- pkg:maven/com.51degrees/pipeline.common@4.4.42
+- pkg:maven/com.51degrees/pipeline.common@4.4.42?classifier=sources
 - pkg:maven/com.51degrees/pipeline.common@4.4.4?classifier=sources
 - pkg:maven/com.51degrees/pipeline.common@4.4.6
 - pkg:maven/com.51degrees/pipeline.common@4.4.6?classifier=sources

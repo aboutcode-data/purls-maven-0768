@@ -28,3 +28,9 @@
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@2.9.1.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@2.9.2.Final
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@2.9.2.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.9.0
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.9.0.CR1
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.9.0.CR2
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.9.1
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.9.2
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.9.3

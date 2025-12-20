@@ -1,0 +1,1 @@
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-graphql-java-common@2.2.0-alpha?classifier=sources

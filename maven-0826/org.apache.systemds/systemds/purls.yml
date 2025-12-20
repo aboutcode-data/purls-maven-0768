@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.systemds/systemds@2.2.1?classifier=src&type=zip
 - pkg:maven/org.apache.systemds/systemds@2.2.2?classifier=src&type=zip
 - pkg:maven/org.apache.systemds/systemds@3.0.0?classifier=src&type=zip
+- pkg:maven/org.apache.systemds/systemds@3.2.0?classifier=src&type=zip

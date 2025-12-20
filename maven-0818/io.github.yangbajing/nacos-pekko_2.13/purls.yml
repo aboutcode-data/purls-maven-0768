@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yangbajing/nacos-pekko_2.13@2.0.0
+- pkg:maven/io.github.yangbajing/nacos-pekko_2.13@2.0.0?classifier=sources

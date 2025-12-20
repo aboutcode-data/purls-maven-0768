@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.spring-cattle/cattle-cloud-enhancement@1.0.0-R2
+- pkg:maven/io.gitlab.spring-cattle/cattle-cloud-enhancement@1.0.0-R2?classifier=sources

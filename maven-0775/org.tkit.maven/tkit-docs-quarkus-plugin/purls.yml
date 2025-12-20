@@ -1,0 +1,4 @@
+- pkg:maven/org.tkit.maven/tkit-docs-quarkus-plugin@0.0.0
+- pkg:maven/org.tkit.maven/tkit-docs-quarkus-plugin@0.0.0?classifier=sources
+- pkg:maven/org.tkit.maven/tkit-docs-quarkus-plugin@0.1.0
+- pkg:maven/org.tkit.maven/tkit-docs-quarkus-plugin@0.1.0?classifier=sources

@@ -262,6 +262,12 @@
 - pkg:maven/org.wso2.carbon.identity.server.api/identity-api-server@1.2.171?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.server.api/identity-api-server@1.2.172?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.server.api/identity-api-server@1.2.17?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.server.api/identity-api-server@1.2.181?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.server.api/identity-api-server@1.2.182?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.server.api/identity-api-server@1.2.184?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.server.api/identity-api-server@1.2.185?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.server.api/identity-api-server@1.2.186?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.server.api/identity-api-server@1.2.187?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.server.api/identity-api-server@1.2.18?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.server.api/identity-api-server@1.2.19?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.server.api/identity-api-server@1.2.1?classifier=source-release&type=zip

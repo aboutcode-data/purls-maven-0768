@@ -197,6 +197,12 @@
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service@0.157.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service@0.157.1
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service@0.157.1?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service@0.158.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service@0.158.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service@0.158.1
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service@0.158.1?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service@0.159.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service@0.159.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service@0.27.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service@0.27.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service@0.28.0

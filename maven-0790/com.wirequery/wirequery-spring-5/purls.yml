@@ -24,3 +24,13 @@
 - pkg:maven/com.wirequery/wirequery-spring-5@0.7.2?classifier=sources
 - pkg:maven/com.wirequery/wirequery-spring-5@0.7.3
 - pkg:maven/com.wirequery/wirequery-spring-5@0.7.3?classifier=sources
+- pkg:maven/com.wirequery/wirequery-spring-5@0.7.4
+- pkg:maven/com.wirequery/wirequery-spring-5@0.7.4?classifier=sources
+- pkg:maven/com.wirequery/wirequery-spring-5@0.7.5
+- pkg:maven/com.wirequery/wirequery-spring-5@0.7.5?classifier=sources
+- pkg:maven/com.wirequery/wirequery-spring-5@0.7.7
+- pkg:maven/com.wirequery/wirequery-spring-5@0.7.7?classifier=sources
+- pkg:maven/com.wirequery/wirequery-spring-5@0.7.8
+- pkg:maven/com.wirequery/wirequery-spring-5@0.7.8?classifier=sources
+- pkg:maven/com.wirequery/wirequery-spring-5@0.7.9
+- pkg:maven/com.wirequery/wirequery-spring-5@0.7.9?classifier=sources

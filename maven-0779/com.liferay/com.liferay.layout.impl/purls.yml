@@ -578,6 +578,7 @@
 - pkg:maven/com.liferay/com.liferay.layout.impl@5.0.85?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@5.0.86?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@5.0.87?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.impl@5.0.88?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@5.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@5.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.impl@5.0.9
@@ -645,9 +646,11 @@
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.126?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.127?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.128?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.impl@6.0.129?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.13
+- pkg:maven/com.liferay/com.liferay.layout.impl@6.0.130?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.14

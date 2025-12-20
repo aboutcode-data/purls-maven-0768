@@ -39,6 +39,8 @@
 - pkg:maven/com.commercetools.sdk/commercetools-money@17.5.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-money@17.6.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-money@17.7.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-money@17.8.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-money@17.9.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-money@8.10.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-money@8.10.1?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-money@8.4.0?classifier=sources

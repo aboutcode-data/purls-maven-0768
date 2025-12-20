@@ -6,3 +6,5 @@
 - pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.7.0?classifier=sources
 - pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.7.1
 - pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.7.1?classifier=sources
+- pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.8.0
+- pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.8.0?classifier=sources

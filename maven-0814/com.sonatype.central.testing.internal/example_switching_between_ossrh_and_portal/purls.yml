@@ -8,3 +8,5 @@
 - pkg:maven/com.sonatype.central.testing.internal/example_switching_between_ossrh_and_portal@0.0.7?classifier=sources
 - pkg:maven/com.sonatype.central.testing.internal/example_switching_between_ossrh_and_portal@0.0.8
 - pkg:maven/com.sonatype.central.testing.internal/example_switching_between_ossrh_and_portal@0.0.8?classifier=sources
+- pkg:maven/com.sonatype.central.testing.internal/example_switching_between_ossrh_and_portal@0.0.9
+- pkg:maven/com.sonatype.central.testing.internal/example_switching_between_ossrh_and_portal@0.0.9?classifier=sources

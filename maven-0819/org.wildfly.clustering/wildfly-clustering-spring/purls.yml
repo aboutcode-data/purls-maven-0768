@@ -1,2 +1,3 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring@11.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring@11.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-spring@12.0.0.Final?classifier=source-release&type=zip

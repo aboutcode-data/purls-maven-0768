@@ -1,0 +1,2 @@
+- pkg:maven/com.zto.fire/fire-bundle-spark_3.1_2.12@2.4.4
+- pkg:maven/com.zto.fire/fire-bundle-spark_3.1_2.12@2.4.4?classifier=sources

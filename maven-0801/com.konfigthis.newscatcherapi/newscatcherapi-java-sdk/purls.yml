@@ -8,3 +8,5 @@
 - pkg:maven/com.konfigthis.newscatcherapi/newscatcherapi-java-sdk@2.1.0?classifier=sources
 - pkg:maven/com.konfigthis.newscatcherapi/newscatcherapi-java-sdk@6.0.0
 - pkg:maven/com.konfigthis.newscatcherapi/newscatcherapi-java-sdk@6.0.0?classifier=sources
+- pkg:maven/com.konfigthis.newscatcherapi/newscatcherapi-java-sdk@6.0.1
+- pkg:maven/com.konfigthis.newscatcherapi/newscatcherapi-java-sdk@6.0.1?classifier=sources

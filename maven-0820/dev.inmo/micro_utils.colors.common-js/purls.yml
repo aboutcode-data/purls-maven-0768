@@ -12,3 +12,7 @@
 - pkg:maven/dev.inmo/micro_utils.colors.common-js@0.20.36?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.colors.common-js@0.20.37?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.colors.common-js@0.20.38?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.colors.common-js@0.20.39?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.colors.common-js@0.20.40?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.colors.common-js@0.20.41?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.colors.common-js@0.20.43?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/cloud.subzero/subzero@2.0.8?classifier=sources
+- pkg:maven/cloud.subzero/subzero@3.0.0?classifier=sources
+- pkg:maven/cloud.subzero/subzero@3.0.1?classifier=sources

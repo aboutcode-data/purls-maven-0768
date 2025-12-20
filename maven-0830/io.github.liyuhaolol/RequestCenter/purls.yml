@@ -1,0 +1,4 @@
+- pkg:maven/io.github.liyuhaolol/RequestCenter@1.3.3?classifier=sources
+- pkg:maven/io.github.liyuhaolol/RequestCenter@1.3.3?type=aar
+- pkg:maven/io.github.liyuhaolol/RequestCenter@1.3.4?classifier=sources
+- pkg:maven/io.github.liyuhaolol/RequestCenter@1.3.4?type=aar

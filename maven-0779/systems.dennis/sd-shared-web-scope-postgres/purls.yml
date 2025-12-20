@@ -1,0 +1,6 @@
+- pkg:maven/systems.dennis/sd-shared-web-scope-postgres@1.0.2
+- pkg:maven/systems.dennis/sd-shared-web-scope-postgres@1.0.2?classifier=sources
+- pkg:maven/systems.dennis/sd-shared-web-scope-postgres@1.0.3
+- pkg:maven/systems.dennis/sd-shared-web-scope-postgres@1.0.3?classifier=sources
+- pkg:maven/systems.dennis/sd-shared-web-scope-postgres@1.0.4
+- pkg:maven/systems.dennis/sd-shared-web-scope-postgres@1.0.4?classifier=sources

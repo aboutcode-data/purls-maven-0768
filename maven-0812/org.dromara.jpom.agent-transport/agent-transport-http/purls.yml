@@ -76,3 +76,5 @@
 - pkg:maven/org.dromara.jpom.agent-transport/agent-transport-http@2.11.0.5?classifier=sources
 - pkg:maven/org.dromara.jpom.agent-transport/agent-transport-http@2.11.3
 - pkg:maven/org.dromara.jpom.agent-transport/agent-transport-http@2.11.3?classifier=sources
+- pkg:maven/org.dromara.jpom.agent-transport/agent-transport-http@2.11.4
+- pkg:maven/org.dromara.jpom.agent-transport/agent-transport-http@2.11.4?classifier=sources

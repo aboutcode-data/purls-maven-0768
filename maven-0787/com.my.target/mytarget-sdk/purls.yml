@@ -30,3 +30,4 @@
 - pkg:maven/com.my.target/mytarget-sdk@5.18.0?type=aar
 - pkg:maven/com.my.target/mytarget-sdk@5.19.0?type=aar
 - pkg:maven/com.my.target/mytarget-sdk@5.20.0?type=aar
+- pkg:maven/com.my.target/mytarget-sdk@5.20.1?type=aar

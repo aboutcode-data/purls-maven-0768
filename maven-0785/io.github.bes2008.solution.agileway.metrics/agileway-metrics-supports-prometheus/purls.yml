@@ -20,3 +20,9 @@
 - pkg:maven/io.github.bes2008.solution.agileway.metrics/agileway-metrics-supports-prometheus@4.4.1?classifier=sources
 - pkg:maven/io.github.bes2008.solution.agileway.metrics/agileway-metrics-supports-prometheus@4.4.2
 - pkg:maven/io.github.bes2008.solution.agileway.metrics/agileway-metrics-supports-prometheus@4.4.2?classifier=sources
+- pkg:maven/io.github.bes2008.solution.agileway.metrics/agileway-metrics-supports-prometheus@4.4.3
+- pkg:maven/io.github.bes2008.solution.agileway.metrics/agileway-metrics-supports-prometheus@4.4.3?classifier=sources
+- pkg:maven/io.github.bes2008.solution.agileway.metrics/agileway-metrics-supports-prometheus@4.4.4
+- pkg:maven/io.github.bes2008.solution.agileway.metrics/agileway-metrics-supports-prometheus@4.4.4?classifier=sources
+- pkg:maven/io.github.bes2008.solution.agileway.metrics/agileway-metrics-supports-prometheus@4.4.5
+- pkg:maven/io.github.bes2008.solution.agileway.metrics/agileway-metrics-supports-prometheus@4.4.5?classifier=sources

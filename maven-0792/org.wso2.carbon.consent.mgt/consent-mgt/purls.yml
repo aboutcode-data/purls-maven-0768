@@ -118,3 +118,4 @@
 - pkg:maven/org.wso2.carbon.consent.mgt/consent-mgt@2.5.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.consent.mgt/consent-mgt@2.5.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.consent.mgt/consent-mgt@2.5.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.consent.mgt/consent-mgt@2.5.5?classifier=source-release&type=zip
