@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.cloud.environment.servicebinding/java-sap-spring-properties@0.20.0
+- pkg:maven/com.sap.cloud.environment.servicebinding/java-sap-spring-properties@0.20.0?classifier=sources

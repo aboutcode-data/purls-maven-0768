@@ -1,1 +1,2 @@
 - pkg:maven/io.xconn/wampproto@0.1.0?classifier=sources
+- pkg:maven/io.xconn/wampproto@0.1.1?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/org.mvnpm/sass@1.77.1?classifier=sources
 - pkg:maven/org.mvnpm/sass@1.77.4?classifier=sources
 - pkg:maven/org.mvnpm/sass@1.77.8?classifier=sources
+- pkg:maven/org.mvnpm/sass@1.81.0?classifier=sources

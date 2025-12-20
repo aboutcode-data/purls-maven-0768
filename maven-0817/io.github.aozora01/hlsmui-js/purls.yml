@@ -1,0 +1,5 @@
+- pkg:maven/io.github.aozora01/hlsmui-js@1.0.1?classifier=sources
+- pkg:maven/io.github.aozora01/hlsmui-js@1.0.2?classifier=sources
+- pkg:maven/io.github.aozora01/hlsmui-js@1.0.52?classifier=sources
+- pkg:maven/io.github.aozora01/hlsmui-js@1.0.53?classifier=sources
+- pkg:maven/io.github.aozora01/hlsmui-js@1.0.5?classifier=sources

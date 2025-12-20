@@ -76,6 +76,8 @@
 - pkg:maven/io.github.apimorphism/telegramium-core_2.13@8.74.0?classifier=sources
 - pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.710.0
 - pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.710.0?classifier=sources
+- pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.711.0
+- pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.711.0?classifier=sources
 - pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.74.0
 - pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.74.0?classifier=sources
 - pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.75.0
@@ -88,3 +90,5 @@
 - pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.78.0?classifier=sources
 - pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.79.0
 - pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.79.0?classifier=sources
+- pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.800.0
+- pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.800.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.gwtproject.web.bindery/requestfactory-server-jakarta@2.11.0?classifier=sources
 - pkg:maven/org.gwtproject.web.bindery/requestfactory-server-jakarta@2.12.0
 - pkg:maven/org.gwtproject.web.bindery/requestfactory-server-jakarta@2.12.0?classifier=sources
+- pkg:maven/org.gwtproject.web.bindery/requestfactory-server-jakarta@2.12.1
+- pkg:maven/org.gwtproject.web.bindery/requestfactory-server-jakarta@2.12.1?classifier=sources

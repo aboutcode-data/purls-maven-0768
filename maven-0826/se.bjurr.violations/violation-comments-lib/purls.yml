@@ -18,6 +18,7 @@
 - pkg:maven/se.bjurr.violations/violation-comments-lib@1.107.0?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-lib@1.107.1?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-lib@1.109.0?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-lib@1.109.1?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-lib@1.10?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-lib@1.11
 - pkg:maven/se.bjurr.violations/violation-comments-lib@1.11?classifier=sources

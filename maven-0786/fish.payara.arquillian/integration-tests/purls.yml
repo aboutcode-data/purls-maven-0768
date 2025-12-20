@@ -19,3 +19,4 @@
 - pkg:maven/fish.payara.arquillian/integration-tests@3.0.alpha7
 - pkg:maven/fish.payara.arquillian/integration-tests@3.1
 - pkg:maven/fish.payara.arquillian/integration-tests@4.0.alpha1
+- pkg:maven/fish.payara.arquillian/integration-tests@4.0.alpha2

@@ -78,3 +78,7 @@
 - pkg:maven/io.dyte/proto-entities-jvm@2.88.4?classifier=sources
 - pkg:maven/io.dyte/proto-entities-jvm@2.89.0?classifier=sources
 - pkg:maven/io.dyte/proto-entities-jvm@2.90.0?classifier=sources
+- pkg:maven/io.dyte/proto-entities-jvm@2.92.0?classifier=sources
+- pkg:maven/io.dyte/proto-entities-jvm@2.93.0?classifier=sources
+- pkg:maven/io.dyte/proto-entities-jvm@2.94.0?classifier=sources
+- pkg:maven/io.dyte/proto-entities-jvm@2.95.0?classifier=sources

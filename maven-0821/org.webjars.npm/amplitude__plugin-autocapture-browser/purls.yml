@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars.npm/amplitude__plugin-autocapture-browser@1.0.0
+- pkg:maven/org.webjars.npm/amplitude__plugin-autocapture-browser@1.0.3

@@ -35,6 +35,7 @@
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.0.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.0.1?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.1.0?classifier=sources
+- pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.10.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.2.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.3.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.4.0?classifier=sources
@@ -43,3 +44,5 @@
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.6.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.7.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.8.0?classifier=sources
+- pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.9.0?classifier=sources
+- pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.9.1?classifier=sources

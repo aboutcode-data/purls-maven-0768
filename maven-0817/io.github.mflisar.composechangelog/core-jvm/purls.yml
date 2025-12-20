@@ -1,0 +1,9 @@
+- pkg:maven/io.github.mflisar.composechangelog/core-jvm@0.5.0-test06?classifier=sources
+- pkg:maven/io.github.mflisar.composechangelog/core-jvm@0.5.0-test07?classifier=sources
+- pkg:maven/io.github.mflisar.composechangelog/core-jvm@0.5.0-test08?classifier=sources
+- pkg:maven/io.github.mflisar.composechangelog/core-jvm@0.5.0-test09?classifier=sources
+- pkg:maven/io.github.mflisar.composechangelog/core-jvm@0.5.0-test10?classifier=sources
+- pkg:maven/io.github.mflisar.composechangelog/core-jvm@0.5.0-test11?classifier=sources
+- pkg:maven/io.github.mflisar.composechangelog/core-jvm@0.5.0-test12?classifier=sources
+- pkg:maven/io.github.mflisar.composechangelog/core-jvm@0.5.0-test13?classifier=sources
+- pkg:maven/io.github.mflisar.composechangelog/core-jvm@0.5.0-test14?classifier=sources

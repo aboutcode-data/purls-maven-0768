@@ -16,3 +16,5 @@
 - pkg:maven/org.bndtools/org.bndtools.applaunch@6.4.0?classifier=sources
 - pkg:maven/org.bndtools/org.bndtools.applaunch@7.0.0
 - pkg:maven/org.bndtools/org.bndtools.applaunch@7.0.0?classifier=sources
+- pkg:maven/org.bndtools/org.bndtools.applaunch@7.1.0
+- pkg:maven/org.bndtools/org.bndtools.applaunch@7.1.0?classifier=sources

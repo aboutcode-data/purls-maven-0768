@@ -34,3 +34,9 @@
 - pkg:maven/io.trino.benchto/benchto-service@0.29?classifier=sources
 - pkg:maven/io.trino.benchto/benchto-service@0.30
 - pkg:maven/io.trino.benchto/benchto-service@0.30?classifier=sources
+- pkg:maven/io.trino.benchto/benchto-service@0.31
+- pkg:maven/io.trino.benchto/benchto-service@0.31?classifier=sources
+- pkg:maven/io.trino.benchto/benchto-service@0.32
+- pkg:maven/io.trino.benchto/benchto-service@0.32?classifier=sources
+- pkg:maven/io.trino.benchto/benchto-service@0.33
+- pkg:maven/io.trino.benchto/benchto-service@0.33?classifier=sources

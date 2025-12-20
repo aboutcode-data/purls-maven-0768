@@ -1,3 +1,4 @@
 - pkg:maven/org.bedework.bw-cat/bw-category-war@4.0.0?type=war
 - pkg:maven/org.bedework.bw-cat/bw-category-war@4.0.1?type=war
 - pkg:maven/org.bedework.bw-cat/bw-category-war@4.0.2?type=war
+- pkg:maven/org.bedework.bw-cat/bw-category-war@4.0.3?type=war

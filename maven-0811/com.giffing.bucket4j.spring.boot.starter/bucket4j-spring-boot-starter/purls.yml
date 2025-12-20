@@ -82,6 +82,8 @@
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter@0.12.6?classifier=sources
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter@0.12.7
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter@0.12.7?classifier=sources
+- pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter@0.12.8
+- pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter@0.12.8?classifier=sources
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter@0.2.0
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter@0.2.0?classifier=sources
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter@0.3.1

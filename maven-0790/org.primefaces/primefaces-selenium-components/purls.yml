@@ -56,3 +56,9 @@
 - pkg:maven/org.primefaces/primefaces-selenium-components@14.0.5?classifier=sources
 - pkg:maven/org.primefaces/primefaces-selenium-components@14.0.6
 - pkg:maven/org.primefaces/primefaces-selenium-components@14.0.6?classifier=sources
+- pkg:maven/org.primefaces/primefaces-selenium-components@14.0.7
+- pkg:maven/org.primefaces/primefaces-selenium-components@14.0.7?classifier=sources
+- pkg:maven/org.primefaces/primefaces-selenium-components@14.0.8
+- pkg:maven/org.primefaces/primefaces-selenium-components@14.0.8?classifier=sources
+- pkg:maven/org.primefaces/primefaces-selenium-components@15.0.0-RC1
+- pkg:maven/org.primefaces/primefaces-selenium-components@15.0.0-RC1?classifier=sources

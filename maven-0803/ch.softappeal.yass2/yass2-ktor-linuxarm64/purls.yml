@@ -2,3 +2,4 @@
 - pkg:maven/ch.softappeal.yass2/yass2-ktor-linuxarm64@15.0.5?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-ktor-linuxarm64@16.0.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-ktor-linuxarm64@16.1.0?classifier=sources
+- pkg:maven/ch.softappeal.yass2/yass2-ktor-linuxarm64@17.0.0?classifier=sources

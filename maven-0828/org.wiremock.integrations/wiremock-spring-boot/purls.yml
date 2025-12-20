@@ -5,4 +5,5 @@
 - pkg:maven/org.wiremock.integrations/wiremock-spring-boot@3.0.3?classifier=sources
 - pkg:maven/org.wiremock.integrations/wiremock-spring-boot@3.1.0?classifier=sources
 - pkg:maven/org.wiremock.integrations/wiremock-spring-boot@3.2.0?classifier=sources
+- pkg:maven/org.wiremock.integrations/wiremock-spring-boot@3.3.0?classifier=sources
 - pkg:maven/org.wiremock.integrations/wiremock-spring-boot@next?classifier=sources

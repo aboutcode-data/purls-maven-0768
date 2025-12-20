@@ -15,3 +15,7 @@
 - pkg:maven/com.agentsflex/agents-flex-bom@1.0.0-beta.7
 - pkg:maven/com.agentsflex/agents-flex-bom@1.0.0-beta.8
 - pkg:maven/com.agentsflex/agents-flex-bom@1.0.0-beta.9
+- pkg:maven/com.agentsflex/agents-flex-bom@1.0.0-rc.0
+- pkg:maven/com.agentsflex/agents-flex-bom@1.0.0-rc.1
+- pkg:maven/com.agentsflex/agents-flex-bom@1.0.0-rc.2
+- pkg:maven/com.agentsflex/agents-flex-bom@1.0.0-rc.3

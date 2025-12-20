@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cafdataprocessing.workers.languagedetection/worker-languagedetection@6.0.0-1506
+- pkg:maven/com.github.cafdataprocessing.workers.languagedetection/worker-languagedetection@6.0.0-1506?classifier=sources

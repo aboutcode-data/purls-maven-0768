@@ -1,0 +1,6 @@
+- pkg:maven/cn.sliew/carp-framework-license@0.0.13
+- pkg:maven/cn.sliew/carp-framework-license@0.0.13?classifier=sources
+- pkg:maven/cn.sliew/carp-framework-license@0.0.14
+- pkg:maven/cn.sliew/carp-framework-license@0.0.14?classifier=sources
+- pkg:maven/cn.sliew/carp-framework-license@0.0.16?classifier=sources
+- pkg:maven/cn.sliew/carp-framework-license@0.0.17?classifier=sources

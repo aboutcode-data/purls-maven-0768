@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.unomi/graphql-providers-sample-feature@2.3.0?classifier=sources
 - pkg:maven/org.apache.unomi/graphql-providers-sample-feature@2.4.0?classifier=sources
 - pkg:maven/org.apache.unomi/graphql-providers-sample-feature@2.5.0?classifier=sources
+- pkg:maven/org.apache.unomi/graphql-providers-sample-feature@2.6.0?classifier=sources

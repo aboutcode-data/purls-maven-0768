@@ -88,3 +88,17 @@
 - pkg:maven/com.yahoo.vespa/container-llama@8.430.10?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-llama@8.431.32?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-llama@8.432.4?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.434.33?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.435.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.436.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.437.12?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.439.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.440.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.441.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.442.54?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.443.12?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.444.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.445.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.447.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.448.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.449.13?classifier=sources

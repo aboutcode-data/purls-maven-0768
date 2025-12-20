@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@17.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@18.0.0
 - pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@18.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@18.1.0
+- pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@18.1.0?classifier=sources

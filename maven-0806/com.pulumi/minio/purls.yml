@@ -175,6 +175,15 @@
 - pkg:maven/com.pulumi/minio@0.17.0-alpha.1729057770?classifier=sources
 - pkg:maven/com.pulumi/minio@0.17.0-alpha.1729897918?classifier=sources
 - pkg:maven/com.pulumi/minio@0.17.0-alpha.1730180504?classifier=sources
+- pkg:maven/com.pulumi/minio@0.17.0-alpha.1730526174?classifier=sources
+- pkg:maven/com.pulumi/minio@0.17.0-alpha.1730757117?classifier=sources
+- pkg:maven/com.pulumi/minio@0.17.0-alpha.1730871970?classifier=sources
+- pkg:maven/com.pulumi/minio@0.17.0-alpha.1731391996?classifier=sources
+- pkg:maven/com.pulumi/minio@0.17.0-alpha.1731652036?classifier=sources
+- pkg:maven/com.pulumi/minio@0.17.0-alpha.1731736856?classifier=sources
+- pkg:maven/com.pulumi/minio@0.17.0-alpha.1732600770?classifier=sources
+- pkg:maven/com.pulumi/minio@0.17.0-alpha.1732686904?classifier=sources
+- pkg:maven/com.pulumi/minio@0.17.0-alpha.1732773268?classifier=sources
 - pkg:maven/com.pulumi/minio@0.4.2-alpha.1660861611%2Bba05df91?classifier=sources
 - pkg:maven/com.pulumi/minio@0.5.0?classifier=sources
 - pkg:maven/com.pulumi/minio@0.5.1-alpha.1668658056%2B50775b56?classifier=sources

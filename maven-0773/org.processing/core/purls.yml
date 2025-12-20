@@ -40,3 +40,4 @@
 - pkg:maven/org.processing/core@3.3.6?classifier=sources
 - pkg:maven/org.processing/core@3.3.7
 - pkg:maven/org.processing/core@3.3.7?classifier=sources
+- pkg:maven/org.processing/core@4.3.1?classifier=sources

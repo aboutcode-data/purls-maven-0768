@@ -21,6 +21,16 @@
 - pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.109?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.110
 - pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.110?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.111
+- pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.111?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.112
+- pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.112?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.113
+- pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.113?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.114
+- pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.114?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.115
+- pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.115?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.1?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.2
 - pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3@0.0.2?classifier=sources

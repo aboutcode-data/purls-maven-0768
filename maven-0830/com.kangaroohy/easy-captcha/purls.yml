@@ -1,0 +1,4 @@
+- pkg:maven/com.kangaroohy/easy-captcha@2.2.4
+- pkg:maven/com.kangaroohy/easy-captcha@2.2.4?classifier=sources
+- pkg:maven/com.kangaroohy/easy-captcha@2.2.5
+- pkg:maven/com.kangaroohy/easy-captcha@2.2.5?classifier=sources

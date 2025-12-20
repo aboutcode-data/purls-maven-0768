@@ -370,6 +370,8 @@
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@4.8.6?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@4.8.7
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@4.8.7?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@4.8.8
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@4.8.8?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@5.0.0
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@5.0.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@5.0.1
@@ -484,6 +486,8 @@
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.0.7?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.0.8
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.0.8?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@6.0.9
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@6.0.9?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.1.0
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.1.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.2.0
@@ -506,3 +510,13 @@
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.4.6?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.5.0
 - pkg:maven/io.gravitee.node/gravitee-node-reporter@6.5.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@6.6.0
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@6.6.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@7.0.0-alpha.1
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@7.0.0-alpha.1?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@7.0.0-alpha.2
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@7.0.0-alpha.2?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@7.0.0-alpha.3
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@7.0.0-alpha.3?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@7.0.0-alpha.4
+- pkg:maven/io.gravitee.node/gravitee-node-reporter@7.0.0-alpha.4?classifier=sources

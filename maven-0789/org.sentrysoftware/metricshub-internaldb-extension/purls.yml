@@ -1,0 +1,2 @@
+- pkg:maven/org.sentrysoftware/metricshub-internaldb-extension@0.9.08
+- pkg:maven/org.sentrysoftware/metricshub-internaldb-extension@0.9.08?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/fish.payara.arquillian/environment-setup@3.1?classifier=sources
 - pkg:maven/fish.payara.arquillian/environment-setup@4.0.alpha1
 - pkg:maven/fish.payara.arquillian/environment-setup@4.0.alpha1?classifier=sources
+- pkg:maven/fish.payara.arquillian/environment-setup@4.0.alpha2
+- pkg:maven/fish.payara.arquillian/environment-setup@4.0.alpha2?classifier=sources

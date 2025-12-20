@@ -1,3 +1,5 @@
 - pkg:maven/com.woowla.compose.icon.collections/tabler-wasm-js@3.19.0-b?classifier=sources
 - pkg:maven/com.woowla.compose.icon.collections/tabler-wasm-js@3.19.0?classifier=sources
 - pkg:maven/com.woowla.compose.icon.collections/tabler-wasm-js@3.20.0?classifier=sources
+- pkg:maven/com.woowla.compose.icon.collections/tabler-wasm-js@3.21.0?classifier=sources
+- pkg:maven/com.woowla.compose.icon.collections/tabler-wasm-js@3.22.0?classifier=sources

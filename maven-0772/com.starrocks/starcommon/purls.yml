@@ -31,6 +31,8 @@
 - pkg:maven/com.starrocks/starcommon@3.1.0
 - pkg:maven/com.starrocks/starcommon@3.1.0?classifier=sources
 - pkg:maven/com.starrocks/starcommon@3.1.1
+- pkg:maven/com.starrocks/starcommon@3.1.10
+- pkg:maven/com.starrocks/starcommon@3.1.10?classifier=sources
 - pkg:maven/com.starrocks/starcommon@3.1.1?classifier=sources
 - pkg:maven/com.starrocks/starcommon@3.1.2
 - pkg:maven/com.starrocks/starcommon@3.1.2?classifier=sources
@@ -74,6 +76,8 @@
 - pkg:maven/com.starrocks/starcommon@3.2.2?classifier=sources
 - pkg:maven/com.starrocks/starcommon@3.2.4
 - pkg:maven/com.starrocks/starcommon@3.2.4?classifier=sources
+- pkg:maven/com.starrocks/starcommon@3.2.5
+- pkg:maven/com.starrocks/starcommon@3.2.5?classifier=sources
 - pkg:maven/com.starrocks/starcommon@3.3-rc0
 - pkg:maven/com.starrocks/starcommon@3.3-rc0?classifier=sources
 - pkg:maven/com.starrocks/starcommon@3.3-rc1
@@ -86,3 +90,5 @@
 - pkg:maven/com.starrocks/starcommon@3.3-rc4?classifier=sources
 - pkg:maven/com.starrocks/starcommon@3.3-rc5
 - pkg:maven/com.starrocks/starcommon@3.3-rc5?classifier=sources
+- pkg:maven/com.starrocks/starcommon@3.4-rc1
+- pkg:maven/com.starrocks/starcommon@3.4-rc1?classifier=sources

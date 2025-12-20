@@ -88,6 +88,7 @@
 - pkg:maven/org.webjars.npm/tinymce@6.8.3
 - pkg:maven/org.webjars.npm/tinymce@6.8.3?classifier=sources
 - pkg:maven/org.webjars.npm/tinymce@6.8.4
+- pkg:maven/org.webjars.npm/tinymce@6.8.5
 - pkg:maven/org.webjars.npm/tinymce@7.0.0
 - pkg:maven/org.webjars.npm/tinymce@7.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/tinymce@7.0.1
@@ -95,3 +96,4 @@
 - pkg:maven/org.webjars.npm/tinymce@7.2.1
 - pkg:maven/org.webjars.npm/tinymce@7.3.0
 - pkg:maven/org.webjars.npm/tinymce@7.4.1
+- pkg:maven/org.webjars.npm/tinymce@7.5.1

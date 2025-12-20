@@ -1,0 +1,8 @@
+- pkg:maven/com.gu/play-json-extensions_2.13@1.0.0
+- pkg:maven/com.gu/play-json-extensions_2.13@1.0.0?classifier=sources
+- pkg:maven/com.gu/play-json-extensions_2.13@1.0.2
+- pkg:maven/com.gu/play-json-extensions_2.13@1.0.2?classifier=sources
+- pkg:maven/com.gu/play-json-extensions_2.13@1.0.3
+- pkg:maven/com.gu/play-json-extensions_2.13@1.0.3-PREVIEW.ldadd-implicit-return-types.2024-11-07T1532.e86e65f5
+- pkg:maven/com.gu/play-json-extensions_2.13@1.0.3-PREVIEW.ldadd-implicit-return-types.2024-11-07T1532.e86e65f5?classifier=sources
+- pkg:maven/com.gu/play-json-extensions_2.13@1.0.3?classifier=sources

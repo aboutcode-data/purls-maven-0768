@@ -18,3 +18,9 @@
 - pkg:maven/io.get-coursier.jvm.indices/index-linux-ppc64@0.0.4-65-49e940?classifier=sources
 - pkg:maven/io.get-coursier.jvm.indices/index-linux-ppc64@0.0.4-66-20fa89
 - pkg:maven/io.get-coursier.jvm.indices/index-linux-ppc64@0.0.4-66-20fa89?classifier=sources
+- pkg:maven/io.get-coursier.jvm.indices/index-linux-ppc64@0.0.4-68-5732fa
+- pkg:maven/io.get-coursier.jvm.indices/index-linux-ppc64@0.0.4-68-5732fa?classifier=sources
+- pkg:maven/io.get-coursier.jvm.indices/index-linux-ppc64@0.0.4-70-51469f
+- pkg:maven/io.get-coursier.jvm.indices/index-linux-ppc64@0.0.4-70-51469f?classifier=sources
+- pkg:maven/io.get-coursier.jvm.indices/index-linux-ppc64@0.0.4-71-a6652a
+- pkg:maven/io.get-coursier.jvm.indices/index-linux-ppc64@0.0.4-71-a6652a?classifier=sources

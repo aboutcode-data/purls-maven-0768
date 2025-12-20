@@ -7,3 +7,4 @@
 - pkg:maven/com.javiersc.kotlin/kotlin-stdlib-android-debug@0.1.0-alpha.16?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kotlin-stdlib-android-debug@0.1.0-alpha.17?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kotlin-stdlib-android-debug@0.1.0-alpha.9?classifier=sources
+- pkg:maven/com.javiersc.kotlin/kotlin-stdlib-android-debug@0.1.0?classifier=sources

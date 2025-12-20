@@ -1,0 +1,2 @@
+- pkg:maven/io.datarouter/datarouter-relay@0.0.126
+- pkg:maven/io.datarouter/datarouter-relay@0.0.126?classifier=sources

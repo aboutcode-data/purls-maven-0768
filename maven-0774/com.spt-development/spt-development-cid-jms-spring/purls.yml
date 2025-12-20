@@ -51,6 +51,10 @@
 - pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.21?classifier=sources
 - pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.22
 - pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.22?classifier=sources
+- pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.23
+- pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.23?classifier=sources
+- pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.24
+- pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.24?classifier=sources
 - pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.2?classifier=sources
 - pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.3
 - pkg:maven/com.spt-development/spt-development-cid-jms-spring@3.0.3?classifier=sources

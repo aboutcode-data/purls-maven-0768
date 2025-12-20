@@ -19,3 +19,4 @@
 - pkg:maven/jp.pay/payjp-android-verifier@1.7.0?classifier=sources
 - pkg:maven/jp.pay/payjp-android-verifier@2.0.0?classifier=sources
 - pkg:maven/jp.pay/payjp-android-verifier@2.1.0?classifier=sources
+- pkg:maven/jp.pay/payjp-android-verifier@2.1.1?classifier=sources

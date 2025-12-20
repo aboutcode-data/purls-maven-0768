@@ -559,3 +559,5 @@
 - pkg:maven/org.jgroups/jgroups@5.3.8.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups@5.3.9.Final
 - pkg:maven/org.jgroups/jgroups@5.3.9.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups@5.4.0.Final
+- pkg:maven/org.jgroups/jgroups@5.4.0.Final?classifier=sources

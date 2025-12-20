@@ -1024,3 +1024,7 @@
 - pkg:maven/net.openhft/chronicle-wire@2.26ea8?classifier=sources
 - pkg:maven/net.openhft/chronicle-wire@2.26ea9
 - pkg:maven/net.openhft/chronicle-wire@2.26ea9?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@2.27ea0
+- pkg:maven/net.openhft/chronicle-wire@2.27ea0?classifier=sources
+- pkg:maven/net.openhft/chronicle-wire@2.27ea1
+- pkg:maven/net.openhft/chronicle-wire@2.27ea1?classifier=sources

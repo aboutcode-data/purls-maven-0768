@@ -1,0 +1,2 @@
+- pkg:maven/io.nemesis.platform.module.wms/nemesis-module-peoplevox@2.3.19.RELEASE
+- pkg:maven/io.nemesis.platform.module.wms/nemesis-module-peoplevox@2.3.19.RELEASE?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/cn.jiguang.sdk.ad.adapter/ksadbase@3.3.63.06031?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.adapter/ksadbase@3.3.69.09061?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.adapter/ksadbase@3.3.69.09061?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/ksadbase@3.3.69.11111?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/ksadbase@3.3.69.11111?type=aar

@@ -34,3 +34,5 @@
 - pkg:maven/biz.aQute.bnd/biz.aQute.remote.fixup@6.4.1?classifier=sources
 - pkg:maven/biz.aQute.bnd/biz.aQute.remote.fixup@7.0.0
 - pkg:maven/biz.aQute.bnd/biz.aQute.remote.fixup@7.0.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.remote.fixup@7.1.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.remote.fixup@7.1.0?classifier=sources

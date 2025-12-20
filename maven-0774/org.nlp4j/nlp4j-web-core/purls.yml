@@ -1,0 +1,2 @@
+- pkg:maven/org.nlp4j/nlp4j-web-core@1.0.0.0
+- pkg:maven/org.nlp4j/nlp4j-web-core@1.0.0.0?classifier=sources

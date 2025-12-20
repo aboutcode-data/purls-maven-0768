@@ -1,0 +1,4 @@
+- pkg:maven/org.noear/solon-serialization-abc@3.0.4
+- pkg:maven/org.noear/solon-serialization-abc@3.0.4-RC2
+- pkg:maven/org.noear/solon-serialization-abc@3.0.4-RC2?classifier=sources
+- pkg:maven/org.noear/solon-serialization-abc@3.0.4?classifier=sources

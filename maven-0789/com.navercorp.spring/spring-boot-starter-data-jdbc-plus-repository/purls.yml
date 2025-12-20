@@ -99,6 +99,8 @@
 - pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@3.1.6?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@3.2.0?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@3.2.10?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@3.2.11?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@3.2.12?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@3.2.1?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@3.2.2?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@3.2.3?classifier=sources
@@ -117,3 +119,6 @@
 - pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@3.3.3.1?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@3.3.3?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@3.3.4?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@3.3.5?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@3.3.6?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-boot-starter-data-jdbc-plus-repository@3.4.0?classifier=sources

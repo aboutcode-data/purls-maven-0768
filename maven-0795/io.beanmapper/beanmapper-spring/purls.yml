@@ -64,3 +64,5 @@
 - pkg:maven/io.beanmapper/beanmapper-spring@5.0.4?classifier=sources
 - pkg:maven/io.beanmapper/beanmapper-spring@5.0.5
 - pkg:maven/io.beanmapper/beanmapper-spring@5.0.5?classifier=sources
+- pkg:maven/io.beanmapper/beanmapper-spring@6.0.0
+- pkg:maven/io.beanmapper/beanmapper-spring@6.0.0?classifier=sources

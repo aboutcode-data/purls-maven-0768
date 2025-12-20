@@ -34,3 +34,5 @@
 - pkg:maven/net.openhft/chronicle-logger-tools@4.22ea6?classifier=sources
 - pkg:maven/net.openhft/chronicle-logger-tools@4.26ea0
 - pkg:maven/net.openhft/chronicle-logger-tools@4.26ea0?classifier=sources
+- pkg:maven/net.openhft/chronicle-logger-tools@4.27ea0
+- pkg:maven/net.openhft/chronicle-logger-tools@4.27ea0?classifier=sources

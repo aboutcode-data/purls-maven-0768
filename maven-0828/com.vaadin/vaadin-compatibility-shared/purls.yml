@@ -78,6 +78,8 @@
 - pkg:maven/com.vaadin/vaadin-compatibility-shared@8.14.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-compatibility-shared@8.14.3
 - pkg:maven/com.vaadin/vaadin-compatibility-shared@8.14.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-compatibility-shared@8.14.4
+- pkg:maven/com.vaadin/vaadin-compatibility-shared@8.14.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-compatibility-shared@8.15.0
 - pkg:maven/com.vaadin/vaadin-compatibility-shared@8.15.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-compatibility-shared@8.15.1

@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/webgpu__types@0.1.21?classifier=sources
 - pkg:maven/org.webjars.npm/webgpu__types@0.1.40
 - pkg:maven/org.webjars.npm/webgpu__types@0.1.40?classifier=sources
+- pkg:maven/org.webjars.npm/webgpu__types@0.1.51

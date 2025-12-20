@@ -1,1 +1,2 @@
 - pkg:maven/org.bedework.deploy/bw-hawtio@4.0.2?type=war
+- pkg:maven/org.bedework.deploy/bw-hawtio@4.0.3?type=war

@@ -34,6 +34,8 @@
 - pkg:maven/io.github.jmisabella/maze_2.13@0.0.26?classifier=sources
 - pkg:maven/io.github.jmisabella/maze_2.13@0.0.27
 - pkg:maven/io.github.jmisabella/maze_2.13@0.0.27?classifier=sources
+- pkg:maven/io.github.jmisabella/maze_2.13@0.0.28
+- pkg:maven/io.github.jmisabella/maze_2.13@0.0.28?classifier=sources
 - pkg:maven/io.github.jmisabella/maze_2.13@0.0.3
 - pkg:maven/io.github.jmisabella/maze_2.13@0.0.3?classifier=sources
 - pkg:maven/io.github.jmisabella/maze_2.13@0.0.4%29

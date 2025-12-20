@@ -228,6 +228,8 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@151.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@152.0.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@152.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@153.0.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.kernel@153.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@16.0.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@16.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.kernel@16.0.1

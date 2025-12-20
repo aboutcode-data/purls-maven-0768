@@ -1,0 +1,8 @@
+- pkg:maven/software.amazon.awssdk/s3tables@2.29.26
+- pkg:maven/software.amazon.awssdk/s3tables@2.29.26?classifier=sources
+- pkg:maven/software.amazon.awssdk/s3tables@2.29.27
+- pkg:maven/software.amazon.awssdk/s3tables@2.29.27?classifier=sources
+- pkg:maven/software.amazon.awssdk/s3tables@2.29.28
+- pkg:maven/software.amazon.awssdk/s3tables@2.29.28?classifier=sources
+- pkg:maven/software.amazon.awssdk/s3tables@2.29.29
+- pkg:maven/software.amazon.awssdk/s3tables@2.29.29?classifier=sources

@@ -204,3 +204,4 @@
 - pkg:maven/org.apache.camel.springboot/camel-web3j-starter@4.8.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-web3j-starter@4.8.1
 - pkg:maven/org.apache.camel.springboot/camel-web3j-starter@4.8.1?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-web3j-starter@4.9.0

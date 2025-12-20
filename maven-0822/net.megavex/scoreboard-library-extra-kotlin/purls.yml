@@ -7,3 +7,4 @@
 - pkg:maven/net.megavex/scoreboard-library-extra-kotlin@2.1.8?classifier=sources
 - pkg:maven/net.megavex/scoreboard-library-extra-kotlin@2.1.9?classifier=sources
 - pkg:maven/net.megavex/scoreboard-library-extra-kotlin@2.2.0?classifier=sources
+- pkg:maven/net.megavex/scoreboard-library-extra-kotlin@2.2.1?classifier=sources

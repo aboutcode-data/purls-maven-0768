@@ -1,0 +1,4 @@
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-conversion-plugin@0.126.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-conversion-plugin@0.126.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-conversion-plugin@0.127.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-conversion-plugin@0.127.0?classifier=sources

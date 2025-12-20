@@ -106,3 +106,5 @@
 - pkg:maven/com.tencent.polaris/location-provider-local@2.0.0.0-RC2?classifier=sources
 - pkg:maven/com.tencent.polaris/location-provider-local@2.0.0.0-RC3
 - pkg:maven/com.tencent.polaris/location-provider-local@2.0.0.0-RC3?classifier=sources
+- pkg:maven/com.tencent.polaris/location-provider-local@2.0.0.0-RC5
+- pkg:maven/com.tencent.polaris/location-provider-local@2.0.0.0-RC5?classifier=sources

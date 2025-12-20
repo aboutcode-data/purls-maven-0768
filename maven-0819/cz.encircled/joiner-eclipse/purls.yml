@@ -53,6 +53,10 @@
 - pkg:maven/cz.encircled/joiner-eclipse@1.12?classifier=sources
 - pkg:maven/cz.encircled/joiner-eclipse@1.13
 - pkg:maven/cz.encircled/joiner-eclipse@1.13?classifier=sources
+- pkg:maven/cz.encircled/joiner-eclipse@1.14
+- pkg:maven/cz.encircled/joiner-eclipse@1.14?classifier=sources
+- pkg:maven/cz.encircled/joiner-eclipse@1.15
+- pkg:maven/cz.encircled/joiner-eclipse@1.15?classifier=sources
 - pkg:maven/cz.encircled/joiner-eclipse@1.1?classifier=sources
 - pkg:maven/cz.encircled/joiner-eclipse@1.2
 - pkg:maven/cz.encircled/joiner-eclipse@1.2?classifier=sources

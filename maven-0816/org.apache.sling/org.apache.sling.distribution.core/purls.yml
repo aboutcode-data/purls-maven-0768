@@ -67,3 +67,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.distribution.core@0.5.0
 - pkg:maven/org.apache.sling/org.apache.sling.distribution.core@0.5.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.distribution.core@0.5.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.distribution.core@0.6.0
+- pkg:maven/org.apache.sling/org.apache.sling.distribution.core@0.6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.distribution.core@0.6.0?classifier=sources

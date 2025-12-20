@@ -1,0 +1,2 @@
+- pkg:maven/com.affise/module-rustore@1.6.48?classifier=sources
+- pkg:maven/com.affise/module-rustore@1.6.49?classifier=sources

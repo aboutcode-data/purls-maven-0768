@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.tycho/tycho-wrap-plugin@4.0.10
+- pkg:maven/org.eclipse.tycho/tycho-wrap-plugin@4.0.10?classifier=sources

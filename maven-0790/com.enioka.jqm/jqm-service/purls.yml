@@ -10,3 +10,4 @@
 - pkg:maven/com.enioka.jqm/jqm-service@2.2.7?classifier=sources
 - pkg:maven/com.enioka.jqm/jqm-service@2.2.8?classifier=sources
 - pkg:maven/com.enioka.jqm/jqm-service@2.2.9?classifier=sources
+- pkg:maven/com.enioka.jqm/jqm-service@3.0.0?classifier=sources

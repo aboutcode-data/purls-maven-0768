@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars.npm/pdfme__generator@1.0.14
 - pkg:maven/org.webjars.npm/pdfme__generator@1.0.14?classifier=sources
 - pkg:maven/org.webjars.npm/pdfme__generator@4.3.2
+- pkg:maven/org.webjars.npm/pdfme__generator@5.2.9

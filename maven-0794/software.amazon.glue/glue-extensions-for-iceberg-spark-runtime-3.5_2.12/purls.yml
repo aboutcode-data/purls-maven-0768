@@ -1,0 +1,1 @@
+- pkg:maven/software.amazon.glue/glue-extensions-for-iceberg-spark-runtime-3.5_2.12@0.1.0?classifier=sources

@@ -38,3 +38,9 @@
 - pkg:maven/com.nimbusds/nimbus-jwkset-loader@5.3?classifier=sources
 - pkg:maven/com.nimbusds/nimbus-jwkset-loader@6.0
 - pkg:maven/com.nimbusds/nimbus-jwkset-loader@6.0?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jwkset-loader@7.0
+- pkg:maven/com.nimbusds/nimbus-jwkset-loader@7.0?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jwkset-loader@7.1
+- pkg:maven/com.nimbusds/nimbus-jwkset-loader@7.1?classifier=sources
+- pkg:maven/com.nimbusds/nimbus-jwkset-loader@7.2
+- pkg:maven/com.nimbusds/nimbus-jwkset-loader@7.2?classifier=sources

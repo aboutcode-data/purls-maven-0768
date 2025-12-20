@@ -1,0 +1,2 @@
+- pkg:maven/com.outr/halodb-revive@0.5.7
+- pkg:maven/com.outr/halodb-revive@0.5.7?classifier=sources

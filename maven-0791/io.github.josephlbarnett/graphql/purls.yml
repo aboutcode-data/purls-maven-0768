@@ -9,3 +9,6 @@
 - pkg:maven/io.github.josephlbarnett/graphql@3.2.255?classifier=sources
 - pkg:maven/io.github.josephlbarnett/graphql@3.2.270?classifier=sources
 - pkg:maven/io.github.josephlbarnett/graphql@3.2.293?classifier=sources
+- pkg:maven/io.github.josephlbarnett/graphql@3.2.306?classifier=sources
+- pkg:maven/io.github.josephlbarnett/graphql@3.2.321?classifier=sources
+- pkg:maven/io.github.josephlbarnett/graphql@3.2.340?classifier=sources

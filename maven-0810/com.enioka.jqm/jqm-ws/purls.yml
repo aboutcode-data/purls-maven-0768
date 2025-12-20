@@ -46,3 +46,5 @@
 - pkg:maven/com.enioka.jqm/jqm-ws@2.2.8?type=war
 - pkg:maven/com.enioka.jqm/jqm-ws@2.2.9?classifier=sources
 - pkg:maven/com.enioka.jqm/jqm-ws@2.2.9?type=war
+- pkg:maven/com.enioka.jqm/jqm-ws@3.0.0?classifier=sources
+- pkg:maven/com.enioka.jqm/jqm-ws@3.0.0?type=war

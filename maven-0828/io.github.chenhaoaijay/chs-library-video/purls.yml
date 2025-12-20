@@ -3,3 +3,5 @@
 - pkg:maven/io.github.chenhaoaijay/chs-library-video@1.0.2?type=aar
 - pkg:maven/io.github.chenhaoaijay/chs-library-video@1.0.3?type=aar
 - pkg:maven/io.github.chenhaoaijay/chs-library-video@1.0.4?type=aar
+- pkg:maven/io.github.chenhaoaijay/chs-library-video@2.0.0?classifier=sources
+- pkg:maven/io.github.chenhaoaijay/chs-library-video@2.0.2?classifier=sources

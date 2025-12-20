@@ -8,7 +8,9 @@
 - pkg:maven/io.devbench.uibuilder.data/uibuilder-spring-data@2.1.4
 - pkg:maven/io.devbench.uibuilder.data/uibuilder-spring-data@2.1.5
 - pkg:maven/io.devbench.uibuilder.data/uibuilder-spring-data@2.1.6
+- pkg:maven/io.devbench.uibuilder.data/uibuilder-spring-data@2.1.7
 - pkg:maven/io.devbench.uibuilder.data/uibuilder-spring-data@3.0.0
 - pkg:maven/io.devbench.uibuilder.data/uibuilder-spring-data@3.0.1
 - pkg:maven/io.devbench.uibuilder.data/uibuilder-spring-data@3.0.2
 - pkg:maven/io.devbench.uibuilder.data/uibuilder-spring-data@3.0.3
+- pkg:maven/io.devbench.uibuilder.data/uibuilder-spring-data@3.0.4

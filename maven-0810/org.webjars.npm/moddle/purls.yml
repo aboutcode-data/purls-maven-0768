@@ -14,6 +14,7 @@
 - pkg:maven/org.webjars.npm/moddle@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/moddle@6.2.3
 - pkg:maven/org.webjars.npm/moddle@6.2.3?classifier=sources
+- pkg:maven/org.webjars.npm/moddle@7.0.0
 - pkg:maven/org.webjars.npm/moddle@7.0.0-exp.0
 - pkg:maven/org.webjars.npm/moddle@7.0.0-exp.0?classifier=sources
 - pkg:maven/org.webjars.npm/moddle@7.0.0-exp.3

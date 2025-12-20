@@ -52,3 +52,5 @@
 - pkg:maven/org.apache.cxf.fediz.examples.wsclientWebapp/webapp@1.6.1?type=war
 - pkg:maven/org.apache.cxf.fediz.examples.wsclientWebapp/webapp@1.6.2?classifier=sources
 - pkg:maven/org.apache.cxf.fediz.examples.wsclientWebapp/webapp@1.6.2?type=war
+- pkg:maven/org.apache.cxf.fediz.examples.wsclientWebapp/webapp@1.7.0?classifier=sources
+- pkg:maven/org.apache.cxf.fediz.examples.wsclientWebapp/webapp@1.7.0?type=war

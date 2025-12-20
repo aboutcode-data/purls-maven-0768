@@ -36,3 +36,5 @@
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.exporters@6.4.1?classifier=sources
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.exporters@7.0.0
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.exporters@7.0.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.exporters@7.1.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.exporters@7.1.0?classifier=sources

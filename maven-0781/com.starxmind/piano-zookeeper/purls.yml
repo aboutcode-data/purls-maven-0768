@@ -13,3 +13,5 @@
 - pkg:maven/com.starxmind/piano-zookeeper@0.1.8
 - pkg:maven/com.starxmind/piano-zookeeper@0.1.9
 - pkg:maven/com.starxmind/piano-zookeeper@0.2.0
+- pkg:maven/com.starxmind/piano-zookeeper@0.2.1
+- pkg:maven/com.starxmind/piano-zookeeper@0.2.2

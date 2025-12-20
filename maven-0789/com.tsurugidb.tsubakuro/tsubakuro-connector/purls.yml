@@ -7,3 +7,4 @@
 - pkg:maven/com.tsurugidb.tsubakuro/tsubakuro-connector@1.4.0?classifier=sources
 - pkg:maven/com.tsurugidb.tsubakuro/tsubakuro-connector@1.5.0?classifier=sources
 - pkg:maven/com.tsurugidb.tsubakuro/tsubakuro-connector@1.6.0?classifier=sources
+- pkg:maven/com.tsurugidb.tsubakuro/tsubakuro-connector@1.7.0?classifier=sources
