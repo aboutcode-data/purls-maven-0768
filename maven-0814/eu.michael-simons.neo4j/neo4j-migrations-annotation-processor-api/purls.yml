@@ -72,3 +72,5 @@
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-annotation-processor-api@2.8.0?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-annotation-processor-api@2.8.1
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-annotation-processor-api@2.8.1?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-annotation-processor-api@2.8.2
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-annotation-processor-api@2.8.2?classifier=sources

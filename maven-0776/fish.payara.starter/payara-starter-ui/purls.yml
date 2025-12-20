@@ -6,3 +6,5 @@
 - pkg:maven/fish.payara.starter/payara-starter-ui@1.0-beta3?type=war
 - pkg:maven/fish.payara.starter/payara-starter-ui@1.0-beta4?classifier=sources
 - pkg:maven/fish.payara.starter/payara-starter-ui@1.0-beta4?type=war
+- pkg:maven/fish.payara.starter/payara-starter-ui@1.0-beta5?classifier=sources
+- pkg:maven/fish.payara.starter/payara-starter-ui@1.0-beta5?type=war

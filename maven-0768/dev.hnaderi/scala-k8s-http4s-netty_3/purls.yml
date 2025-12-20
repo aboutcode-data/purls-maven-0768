@@ -22,3 +22,5 @@
 - pkg:maven/dev.hnaderi/scala-k8s-http4s-netty_3@0.15.3?classifier=sources
 - pkg:maven/dev.hnaderi/scala-k8s-http4s-netty_3@0.16.0
 - pkg:maven/dev.hnaderi/scala-k8s-http4s-netty_3@0.16.0?classifier=sources
+- pkg:maven/dev.hnaderi/scala-k8s-http4s-netty_3@0.16.1
+- pkg:maven/dev.hnaderi/scala-k8s-http4s-netty_3@0.16.1?classifier=sources

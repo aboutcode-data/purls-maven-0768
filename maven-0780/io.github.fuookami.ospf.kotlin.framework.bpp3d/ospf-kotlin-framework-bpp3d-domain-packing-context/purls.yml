@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.bpp3d/ospf-kotlin-framework-bpp3d-domain-packing-context@1.0.0
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.bpp3d/ospf-kotlin-framework-bpp3d-domain-packing-context@1.0.0?classifier=sources

@@ -80,6 +80,10 @@
 - pkg:maven/com.stripe/stripecardscan@20.35.1?classifier=sources
 - pkg:maven/com.stripe/stripecardscan@20.35.2?classifier=sources
 - pkg:maven/com.stripe/stripecardscan@20.36.0?classifier=sources
+- pkg:maven/com.stripe/stripecardscan@20.36.1?classifier=sources
+- pkg:maven/com.stripe/stripecardscan@20.37.0?classifier=sources
+- pkg:maven/com.stripe/stripecardscan@20.37.1?classifier=sources
+- pkg:maven/com.stripe/stripecardscan@20.37.2?classifier=sources
 - pkg:maven/com.stripe/stripecardscan@20.4.0?classifier=sources
 - pkg:maven/com.stripe/stripecardscan@20.5.0?classifier=sources
 - pkg:maven/com.stripe/stripecardscan@20.6.1?classifier=sources

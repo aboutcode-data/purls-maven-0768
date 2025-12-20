@@ -1,1 +1,7 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering@1.0.0.Beta2?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering@1.0.0.CR1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering@1.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering@1.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering@1.0.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering@1.0.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering@1.0.4.Final?classifier=source-release&type=zip

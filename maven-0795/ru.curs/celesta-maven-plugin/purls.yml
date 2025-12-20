@@ -288,3 +288,7 @@
 - pkg:maven/ru.curs/celesta-maven-plugin@7.4.8?classifier=sources
 - pkg:maven/ru.curs/celesta-maven-plugin@7.4.9
 - pkg:maven/ru.curs/celesta-maven-plugin@7.4.9?classifier=sources
+- pkg:maven/ru.curs/celesta-maven-plugin@8.0.0
+- pkg:maven/ru.curs/celesta-maven-plugin@8.0.0?classifier=sources
+- pkg:maven/ru.curs/celesta-maven-plugin@8.0.1
+- pkg:maven/ru.curs/celesta-maven-plugin@8.0.1?classifier=sources

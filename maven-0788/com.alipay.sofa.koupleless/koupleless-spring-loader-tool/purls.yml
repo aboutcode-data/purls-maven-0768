@@ -1,0 +1,2 @@
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-spring-loader-tool@1.0.0
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-spring-loader-tool@1.0.0?classifier=sources

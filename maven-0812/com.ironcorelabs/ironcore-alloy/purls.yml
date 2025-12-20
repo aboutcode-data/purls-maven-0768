@@ -1,2 +1,4 @@
+- pkg:maven/com.ironcorelabs/ironcore-alloy@0.10.2?classifier=sources
+- pkg:maven/com.ironcorelabs/ironcore-alloy@0.10.3?classifier=sources
 - pkg:maven/com.ironcorelabs/ironcore-alloy@0.9.0?classifier=sources
 - pkg:maven/com.ironcorelabs/ironcore-alloy@0.9.1?classifier=sources

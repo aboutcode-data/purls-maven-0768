@@ -1,3 +1,8 @@
+- pkg:maven/com.atlan/package-toolkit-testing@1.10.0?classifier=sources
+- pkg:maven/com.atlan/package-toolkit-testing@1.10.1?classifier=sources
+- pkg:maven/com.atlan/package-toolkit-testing@1.10.2?classifier=sources
+- pkg:maven/com.atlan/package-toolkit-testing@1.10.3?classifier=sources
+- pkg:maven/com.atlan/package-toolkit-testing@1.10.4?classifier=sources
 - pkg:maven/com.atlan/package-toolkit-testing@1.8.1?classifier=sources
 - pkg:maven/com.atlan/package-toolkit-testing@1.8.2?classifier=sources
 - pkg:maven/com.atlan/package-toolkit-testing@1.8.3?classifier=sources

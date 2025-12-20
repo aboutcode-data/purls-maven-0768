@@ -20,3 +20,7 @@
 - pkg:maven/com.foreach.across.modules/oauth2-module@3.1.0.RELEASE?classifier=sources
 - pkg:maven/com.foreach.across.modules/oauth2-module@3.2.1.RELEASE
 - pkg:maven/com.foreach.across.modules/oauth2-module@3.2.1.RELEASE?classifier=sources
+- pkg:maven/com.foreach.across.modules/oauth2-module@4.3.0
+- pkg:maven/com.foreach.across.modules/oauth2-module@4.3.0?classifier=sources
+- pkg:maven/com.foreach.across.modules/oauth2-module@4.4.0
+- pkg:maven/com.foreach.across.modules/oauth2-module@4.4.0?classifier=sources

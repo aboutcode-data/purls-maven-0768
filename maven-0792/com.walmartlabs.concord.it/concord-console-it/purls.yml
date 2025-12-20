@@ -160,3 +160,5 @@
 - pkg:maven/com.walmartlabs.concord.it/concord-console-it@2.4.0
 - pkg:maven/com.walmartlabs.concord.it/concord-console-it@2.5.0
 - pkg:maven/com.walmartlabs.concord.it/concord-console-it@2.6.0
+- pkg:maven/com.walmartlabs.concord.it/concord-console-it@2.7.0
+- pkg:maven/com.walmartlabs.concord.it/concord-console-it@2.8.0

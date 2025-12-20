@@ -19,3 +19,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-metro-lib@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-metro-lib@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-metro-lib@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-metro-lib@RELEASE210?classifier=sources

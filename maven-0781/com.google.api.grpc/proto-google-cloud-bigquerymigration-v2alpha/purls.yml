@@ -68,6 +68,12 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerymigration-v2alpha@0.34.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerymigration-v2alpha@0.35.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerymigration-v2alpha@0.35.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerymigration-v2alpha@0.36.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerymigration-v2alpha@0.36.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerymigration-v2alpha@0.37.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerymigration-v2alpha@0.37.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerymigration-v2alpha@0.38.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerymigration-v2alpha@0.38.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerymigration-v2alpha@0.4.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerymigration-v2alpha@0.4.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerymigration-v2alpha@0.5.0

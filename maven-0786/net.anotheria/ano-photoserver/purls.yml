@@ -20,3 +20,5 @@
 - pkg:maven/net.anotheria/ano-photoserver@1.3.4
 - pkg:maven/net.anotheria/ano-photoserver@1.3.4?classifier=sources
 - pkg:maven/net.anotheria/ano-photoserver@1.3?classifier=sources
+- pkg:maven/net.anotheria/ano-photoserver@4.0.0
+- pkg:maven/net.anotheria/ano-photoserver@4.0.0?classifier=sources

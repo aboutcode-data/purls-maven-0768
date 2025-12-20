@@ -1,0 +1,2 @@
+- pkg:maven/org.incendo/cloud-javacord@2.0.0-beta.1?classifier=sources
+- pkg:maven/org.incendo/cloud-javacord@2.0.0-beta.2?classifier=sources

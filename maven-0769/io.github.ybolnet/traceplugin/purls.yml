@@ -1,0 +1,5 @@
+- pkg:maven/io.github.ybolnet/traceplugin@0.0.13?classifier=sources
+- pkg:maven/io.github.ybolnet/traceplugin@0.0.15?classifier=sources
+- pkg:maven/io.github.ybolnet/traceplugin@0.0.16?classifier=sources
+- pkg:maven/io.github.ybolnet/traceplugin@0.0.17?classifier=sources
+- pkg:maven/io.github.ybolnet/traceplugin@0.1.0?classifier=sources

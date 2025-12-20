@@ -124,6 +124,8 @@
 - pkg:maven/net.oschina.durcframework/fastmybatis-core@2.1.1?classifier=sources
 - pkg:maven/net.oschina.durcframework/fastmybatis-core@2.10.0
 - pkg:maven/net.oschina.durcframework/fastmybatis-core@2.10.0?classifier=sources
+- pkg:maven/net.oschina.durcframework/fastmybatis-core@2.11.0
+- pkg:maven/net.oschina.durcframework/fastmybatis-core@2.11.0?classifier=sources
 - pkg:maven/net.oschina.durcframework/fastmybatis-core@2.2.0
 - pkg:maven/net.oschina.durcframework/fastmybatis-core@2.2.0?classifier=sources
 - pkg:maven/net.oschina.durcframework/fastmybatis-core@2.2.1

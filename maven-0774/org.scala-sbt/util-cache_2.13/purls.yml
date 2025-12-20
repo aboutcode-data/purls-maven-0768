@@ -138,3 +138,5 @@
 - pkg:maven/org.scala-sbt/util-cache_2.13@1.9.7?classifier=sources
 - pkg:maven/org.scala-sbt/util-cache_2.13@1.9.8
 - pkg:maven/org.scala-sbt/util-cache_2.13@1.9.8?classifier=sources
+- pkg:maven/org.scala-sbt/util-cache_2.13@1.9.9
+- pkg:maven/org.scala-sbt/util-cache_2.13@1.9.9?classifier=sources

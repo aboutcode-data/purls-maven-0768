@@ -10,3 +10,7 @@
 - pkg:maven/com.foreach.across/across-autoconfigure@2.1.0.RELEASE?classifier=sources
 - pkg:maven/com.foreach.across/across-autoconfigure@2.2.1.RELEASE
 - pkg:maven/com.foreach.across/across-autoconfigure@2.2.1.RELEASE?classifier=sources
+- pkg:maven/com.foreach.across/across-autoconfigure@2.3.0
+- pkg:maven/com.foreach.across/across-autoconfigure@2.3.0?classifier=sources
+- pkg:maven/com.foreach.across/across-autoconfigure@2.4.0
+- pkg:maven/com.foreach.across/across-autoconfigure@2.4.0?classifier=sources

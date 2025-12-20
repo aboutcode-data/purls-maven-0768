@@ -24,3 +24,5 @@
 - pkg:maven/me.hsgamer/hscore-bukkit-skull@4.3.27?classifier=sources
 - pkg:maven/me.hsgamer/hscore-bukkit-skull@4.3.28
 - pkg:maven/me.hsgamer/hscore-bukkit-skull@4.3.28?classifier=sources
+- pkg:maven/me.hsgamer/hscore-bukkit-skull@4.3.29
+- pkg:maven/me.hsgamer/hscore-bukkit-skull@4.3.29?classifier=sources

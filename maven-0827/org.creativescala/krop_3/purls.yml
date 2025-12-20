@@ -10,3 +10,5 @@
 - pkg:maven/org.creativescala/krop_3@0.4?classifier=sources
 - pkg:maven/org.creativescala/krop_3@0.6.0
 - pkg:maven/org.creativescala/krop_3@0.6.0?classifier=sources
+- pkg:maven/org.creativescala/krop_3@0.7.0
+- pkg:maven/org.creativescala/krop_3@0.7.0?classifier=sources

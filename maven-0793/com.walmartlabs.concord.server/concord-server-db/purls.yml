@@ -167,3 +167,7 @@
 - pkg:maven/com.walmartlabs.concord.server/concord-server-db@2.5.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server/concord-server-db@2.6.0
 - pkg:maven/com.walmartlabs.concord.server/concord-server-db@2.6.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-db@2.7.0
+- pkg:maven/com.walmartlabs.concord.server/concord-server-db@2.7.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-db@2.8.0
+- pkg:maven/com.walmartlabs.concord.server/concord-server-db@2.8.0?classifier=sources

@@ -1,2 +1,5 @@
 - pkg:maven/org.neo4j.gds/legacy-cypher-projection@2.6.0-alpha01?classifier=sources
 - pkg:maven/org.neo4j.gds/legacy-cypher-projection@2.6.0-alpha02?classifier=sources
+- pkg:maven/org.neo4j.gds/legacy-cypher-projection@2.6.0?classifier=sources
+- pkg:maven/org.neo4j.gds/legacy-cypher-projection@2.6.1?classifier=sources
+- pkg:maven/org.neo4j.gds/legacy-cypher-projection@2.7.0-alpha01?classifier=sources

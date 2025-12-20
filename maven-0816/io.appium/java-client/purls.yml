@@ -118,3 +118,4 @@
 - pkg:maven/io.appium/java-client@8.5.1?classifier=sources
 - pkg:maven/io.appium/java-client@8.6.0?classifier=sources
 - pkg:maven/io.appium/java-client@9.0.0?classifier=sources
+- pkg:maven/io.appium/java-client@9.1.0?classifier=sources

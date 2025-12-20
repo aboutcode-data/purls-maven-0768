@@ -54,3 +54,5 @@
 - pkg:maven/com.spotify/magnolify-avro_2.13@0.6.3?classifier=sources
 - pkg:maven/com.spotify/magnolify-avro_2.13@0.6.4
 - pkg:maven/com.spotify/magnolify-avro_2.13@0.6.4?classifier=sources
+- pkg:maven/com.spotify/magnolify-avro_2.13@0.7.0
+- pkg:maven/com.spotify/magnolify-avro_2.13@0.7.0?classifier=sources

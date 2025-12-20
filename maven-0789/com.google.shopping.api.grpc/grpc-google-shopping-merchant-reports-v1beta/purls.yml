@@ -1,3 +1,7 @@
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-reports-v1beta@0.10.0
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-reports-v1beta@0.10.0?classifier=sources
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-reports-v1beta@0.11.0
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-reports-v1beta@0.11.0?classifier=sources
 - pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-reports-v1beta@0.3.0
 - pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-reports-v1beta@0.3.0?classifier=sources
 - pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-reports-v1beta@0.4.0
@@ -10,3 +14,5 @@
 - pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-reports-v1beta@0.7.0?classifier=sources
 - pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-reports-v1beta@0.8.0
 - pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-reports-v1beta@0.8.0?classifier=sources
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-reports-v1beta@0.9.0
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-reports-v1beta@0.9.0?classifier=sources

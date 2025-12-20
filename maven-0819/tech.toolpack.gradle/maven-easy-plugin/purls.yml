@@ -1,0 +1,1 @@
+- pkg:maven/tech.toolpack.gradle/maven-easy-plugin@1.0.1?classifier=sources

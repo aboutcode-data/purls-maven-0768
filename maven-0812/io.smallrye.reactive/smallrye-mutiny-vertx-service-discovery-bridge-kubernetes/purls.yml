@@ -104,3 +104,5 @@
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-bridge-kubernetes@3.7.2?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-bridge-kubernetes@3.8.0
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-bridge-kubernetes@3.8.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-bridge-kubernetes@3.9.0
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-bridge-kubernetes@3.9.0?classifier=sources

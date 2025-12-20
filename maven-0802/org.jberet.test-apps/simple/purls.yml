@@ -1,0 +1,2 @@
+- pkg:maven/org.jberet.test-apps/simple@1.3.9.SP3
+- pkg:maven/org.jberet.test-apps/simple@1.3.9.SP3?classifier=sources

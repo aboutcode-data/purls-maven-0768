@@ -1,4 +1,7 @@
 - pkg:maven/com.vk.recompose-highlighter/compiler-plugin@0.1?classifier=sources
 - pkg:maven/com.vk.recompose-highlighter/compiler-plugin@0.2?classifier=sources
 - pkg:maven/com.vk.recompose-highlighter/compiler-plugin@0.3.1?classifier=sources
+- pkg:maven/com.vk.recompose-highlighter/compiler-plugin@0.3.2?classifier=sources
 - pkg:maven/com.vk.recompose-highlighter/compiler-plugin@0.3?classifier=sources
+- pkg:maven/com.vk.recompose-highlighter/compiler-plugin@0.4.1?classifier=sources
+- pkg:maven/com.vk.recompose-highlighter/compiler-plugin@0.4?classifier=sources

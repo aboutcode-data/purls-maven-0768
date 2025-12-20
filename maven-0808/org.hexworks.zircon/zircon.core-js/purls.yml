@@ -1,1 +1,2 @@
 - pkg:maven/org.hexworks.zircon/zircon.core-js@2022.1.0-RELEASE?classifier=sources
+- pkg:maven/org.hexworks.zircon/zircon.core-js@2024.1.0-ALPHA?classifier=sources

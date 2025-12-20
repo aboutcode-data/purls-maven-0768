@@ -1,4 +1,12 @@
+- pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.0
 - pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.0.0.M2
 - pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.0.0.M2?classifier=sources
 - pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.0.0.M3
 - pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.0.0.M3?classifier=sources
+- pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.0.0.RC1
+- pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.0.0.RC1?classifier=sources
+- pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.0.1
+- pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.0.1?classifier=sources
+- pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.0.2
+- pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.0.2?classifier=sources
+- pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.0?classifier=sources

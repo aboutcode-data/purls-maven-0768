@@ -6,3 +6,5 @@
 - pkg:maven/org.pac4j/spring-webflux-pac4j@1.2.0?classifier=sources
 - pkg:maven/org.pac4j/spring-webflux-pac4j@2.0.0
 - pkg:maven/org.pac4j/spring-webflux-pac4j@2.0.0?classifier=sources
+- pkg:maven/org.pac4j/spring-webflux-pac4j@3.0.0
+- pkg:maven/org.pac4j/spring-webflux-pac4j@3.0.0?classifier=sources

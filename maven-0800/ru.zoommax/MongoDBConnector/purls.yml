@@ -1,0 +1,4 @@
+- pkg:maven/ru.zoommax/MongoDBConnector@1.0
+- pkg:maven/ru.zoommax/MongoDBConnector@1.0?classifier=sources
+- pkg:maven/ru.zoommax/MongoDBConnector@1.1
+- pkg:maven/ru.zoommax/MongoDBConnector@1.1?classifier=sources

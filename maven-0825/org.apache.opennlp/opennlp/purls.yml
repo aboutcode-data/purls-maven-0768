@@ -21,3 +21,4 @@
 - pkg:maven/org.apache.opennlp/opennlp@2.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.opennlp/opennlp@2.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.opennlp/opennlp@2.3.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.opennlp/opennlp@2.3.2?classifier=source-release&type=zip

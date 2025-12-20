@@ -698,6 +698,10 @@
 - pkg:maven/com.pepperize/cdk-ssm-parameters-cross-region@0.0.413?classifier=sources
 - pkg:maven/com.pepperize/cdk-ssm-parameters-cross-region@0.0.414
 - pkg:maven/com.pepperize/cdk-ssm-parameters-cross-region@0.0.414?classifier=sources
+- pkg:maven/com.pepperize/cdk-ssm-parameters-cross-region@0.0.415
+- pkg:maven/com.pepperize/cdk-ssm-parameters-cross-region@0.0.415?classifier=sources
+- pkg:maven/com.pepperize/cdk-ssm-parameters-cross-region@0.0.416
+- pkg:maven/com.pepperize/cdk-ssm-parameters-cross-region@0.0.416?classifier=sources
 - pkg:maven/com.pepperize/cdk-ssm-parameters-cross-region@0.0.41?classifier=sources
 - pkg:maven/com.pepperize/cdk-ssm-parameters-cross-region@0.0.42
 - pkg:maven/com.pepperize/cdk-ssm-parameters-cross-region@0.0.42?classifier=sources

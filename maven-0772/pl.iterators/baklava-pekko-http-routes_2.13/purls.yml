@@ -1,0 +1,2 @@
+- pkg:maven/pl.iterators/baklava-pekko-http-routes_2.13@0.3.0
+- pkg:maven/pl.iterators/baklava-pekko-http-routes_2.13@0.3.0?classifier=sources

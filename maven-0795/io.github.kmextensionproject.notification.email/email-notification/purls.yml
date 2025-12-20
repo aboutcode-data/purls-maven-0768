@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kmextensionproject.notification.email/email-notification@1.3?classifier=sources
+- pkg:maven/io.github.kmextensionproject.notification.email/email-notification@2.0?classifier=sources

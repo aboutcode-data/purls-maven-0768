@@ -253,6 +253,8 @@
 - pkg:maven/org.faktorips/faktorips-runtime@24.1.1.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime@24.1.2.release
 - pkg:maven/org.faktorips/faktorips-runtime@24.1.2.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime@24.1.3.release
+- pkg:maven/org.faktorips/faktorips-runtime@24.1.3.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime@3.13.0
 - pkg:maven/org.faktorips/faktorips-runtime@3.13.0?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime@3.13.1

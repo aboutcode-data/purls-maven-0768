@@ -12,3 +12,7 @@
 - pkg:maven/com.yandex.div/picasso@28.9.0?classifier=sources
 - pkg:maven/com.yandex.div/picasso@29.0.0?classifier=sources
 - pkg:maven/com.yandex.div/picasso@29.1.0?classifier=sources
+- pkg:maven/com.yandex.div/picasso@29.2.0?classifier=sources
+- pkg:maven/com.yandex.div/picasso@29.3.0?classifier=sources
+- pkg:maven/com.yandex.div/picasso@29.4.0?classifier=sources
+- pkg:maven/com.yandex.div/picasso@29.5.0?classifier=sources

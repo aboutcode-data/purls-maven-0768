@@ -1,2 +1,4 @@
+- pkg:maven/org.groovymc.gml/transform@4.0.10?classifier=sources
 - pkg:maven/org.groovymc.gml/transform@4.0.7?classifier=sources
 - pkg:maven/org.groovymc.gml/transform@4.0.9?classifier=sources
+- pkg:maven/org.groovymc.gml/transform@5.0.0?classifier=sources

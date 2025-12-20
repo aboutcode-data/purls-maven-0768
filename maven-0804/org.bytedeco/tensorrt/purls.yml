@@ -16,5 +16,7 @@
 - pkg:maven/org.bytedeco/tensorrt@8.2-1.5.7?classifier=sources
 - pkg:maven/org.bytedeco/tensorrt@8.4-1.5.8
 - pkg:maven/org.bytedeco/tensorrt@8.4-1.5.8?classifier=sources
+- pkg:maven/org.bytedeco/tensorrt@8.6-1.5.10
+- pkg:maven/org.bytedeco/tensorrt@8.6-1.5.10?classifier=sources
 - pkg:maven/org.bytedeco/tensorrt@8.6-1.5.9
 - pkg:maven/org.bytedeco/tensorrt@8.6-1.5.9?classifier=sources

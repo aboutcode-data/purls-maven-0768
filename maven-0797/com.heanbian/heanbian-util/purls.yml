@@ -22,3 +22,5 @@
 - pkg:maven/com.heanbian/heanbian-util@17.1?classifier=sources
 - pkg:maven/com.heanbian/heanbian-util@18.1
 - pkg:maven/com.heanbian/heanbian-util@18.1?classifier=sources
+- pkg:maven/com.heanbian/heanbian-util@19.1
+- pkg:maven/com.heanbian/heanbian-util@19.1?classifier=sources

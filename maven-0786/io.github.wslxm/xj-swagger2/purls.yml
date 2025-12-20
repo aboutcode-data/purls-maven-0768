@@ -18,3 +18,5 @@
 - pkg:maven/io.github.wslxm/xj-swagger2@2.2.3?classifier=sources
 - pkg:maven/io.github.wslxm/xj-swagger2@2.2.4
 - pkg:maven/io.github.wslxm/xj-swagger2@2.2.4?classifier=sources
+- pkg:maven/io.github.wslxm/xj-swagger2@2.2.5
+- pkg:maven/io.github.wslxm/xj-swagger2@2.2.5?classifier=sources

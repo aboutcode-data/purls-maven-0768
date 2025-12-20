@@ -8,3 +8,5 @@
 - pkg:maven/com.wudgaby.platform/logger-api@1.0.5?classifier=sources
 - pkg:maven/com.wudgaby.platform/logger-api@1.0.7
 - pkg:maven/com.wudgaby.platform/logger-api@1.0.7?classifier=sources
+- pkg:maven/com.wudgaby.platform/logger-api@1.1.0
+- pkg:maven/com.wudgaby.platform/logger-api@1.1.0?classifier=sources

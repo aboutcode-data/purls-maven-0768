@@ -206,6 +206,8 @@
 - pkg:maven/org.apache.lucene/lucene-misc@8.11.1?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-misc@8.11.2
 - pkg:maven/org.apache.lucene/lucene-misc@8.11.2?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-misc@8.11.3
+- pkg:maven/org.apache.lucene/lucene-misc@8.11.3?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-misc@8.2.0
 - pkg:maven/org.apache.lucene/lucene-misc@8.2.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-misc@8.3.0
@@ -258,3 +260,4 @@
 - pkg:maven/org.apache.lucene/lucene-misc@9.8.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-misc@9.9.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-misc@9.9.1?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-misc@9.9.2?classifier=sources

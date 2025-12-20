@@ -168,3 +168,7 @@
 - pkg:maven/com.walmartlabs.concord.plugins.basic/ansible-tasks@2.5.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins.basic/ansible-tasks@2.6.0
 - pkg:maven/com.walmartlabs.concord.plugins.basic/ansible-tasks@2.6.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins.basic/ansible-tasks@2.7.0
+- pkg:maven/com.walmartlabs.concord.plugins.basic/ansible-tasks@2.7.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins.basic/ansible-tasks@2.8.0
+- pkg:maven/com.walmartlabs.concord.plugins.basic/ansible-tasks@2.8.0?classifier=sources

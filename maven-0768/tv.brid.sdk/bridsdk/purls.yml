@@ -21,4 +21,7 @@
 - pkg:maven/tv.brid.sdk/bridsdk@1.1.5?classifier=sources
 - pkg:maven/tv.brid.sdk/bridsdk@1.1.6-alpha?classifier=sources
 - pkg:maven/tv.brid.sdk/bridsdk@1.1.6?classifier=sources
+- pkg:maven/tv.brid.sdk/bridsdk@1.1.7?classifier=sources
+- pkg:maven/tv.brid.sdk/bridsdk@1.1.81-SHAPSHOT?classifier=sources
+- pkg:maven/tv.brid.sdk/bridsdk@1.1.82-SHAPSHOT?classifier=sources
 - pkg:maven/tv.brid.sdk/bridsdk@1.1?classifier=sources

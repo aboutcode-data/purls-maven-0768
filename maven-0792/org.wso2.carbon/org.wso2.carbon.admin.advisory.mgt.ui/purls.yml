@@ -1,2 +1,4 @@
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.admin.advisory.mgt.ui@4.10.2
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.admin.advisory.mgt.ui@4.10.2?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.admin.advisory.mgt.ui@4.9.22
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.admin.advisory.mgt.ui@4.9.22?classifier=sources

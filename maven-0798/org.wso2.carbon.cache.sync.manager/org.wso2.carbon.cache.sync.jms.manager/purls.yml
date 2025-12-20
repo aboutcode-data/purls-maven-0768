@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.cache.sync.manager/org.wso2.carbon.cache.sync.jms.manager@2.0.0
+- pkg:maven/org.wso2.carbon.cache.sync.manager/org.wso2.carbon.cache.sync.jms.manager@2.0.0?classifier=sources

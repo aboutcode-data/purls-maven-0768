@@ -1,0 +1,2 @@
+- pkg:maven/com.docusign/docusign-webforms-java@1.0.2-RC12
+- pkg:maven/com.docusign/docusign-webforms-java@1.0.2-RC12?classifier=sources

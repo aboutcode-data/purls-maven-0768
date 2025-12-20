@@ -114,3 +114,7 @@
 - pkg:maven/org.hibernate.search/hibernate-search-util-common@7.0.0.Final?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-util-common@7.1.0.Alpha1
 - pkg:maven/org.hibernate.search/hibernate-search-util-common@7.1.0.Alpha1?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-util-common@7.1.0.Alpha2
+- pkg:maven/org.hibernate.search/hibernate-search-util-common@7.1.0.Alpha2?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-util-common@7.1.0.CR1
+- pkg:maven/org.hibernate.search/hibernate-search-util-common@7.1.0.CR1?classifier=sources

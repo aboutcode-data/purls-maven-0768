@@ -167,3 +167,4 @@
 - pkg:maven/io.mantisrx/mantis-examples-sine-function@2.0.98?classifier=sources
 - pkg:maven/io.mantisrx/mantis-examples-sine-function@2.0.99?classifier=sources
 - pkg:maven/io.mantisrx/mantis-examples-sine-function@2.0.9?classifier=sources
+- pkg:maven/io.mantisrx/mantis-examples-sine-function@3.0.0?classifier=sources

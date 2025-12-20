@@ -28,3 +28,5 @@
 - pkg:maven/io.github.bes2008.solution.easyjson/simplejson-to-easyjson@4.1.3?classifier=sources
 - pkg:maven/io.github.bes2008.solution.easyjson/simplejson-to-easyjson@4.1.4
 - pkg:maven/io.github.bes2008.solution.easyjson/simplejson-to-easyjson@4.1.4?classifier=sources
+- pkg:maven/io.github.bes2008.solution.easyjson/simplejson-to-easyjson@4.1.5
+- pkg:maven/io.github.bes2008.solution.easyjson/simplejson-to-easyjson@4.1.5?classifier=sources

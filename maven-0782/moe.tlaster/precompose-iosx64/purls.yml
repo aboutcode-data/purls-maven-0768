@@ -5,3 +5,5 @@
 - pkg:maven/moe.tlaster/precompose-iosx64@1.5.7?classifier=sources
 - pkg:maven/moe.tlaster/precompose-iosx64@1.5.8?classifier=sources
 - pkg:maven/moe.tlaster/precompose-iosx64@1.5.9?classifier=sources
+- pkg:maven/moe.tlaster/precompose-iosx64@1.6.0-beta01?classifier=sources
+- pkg:maven/moe.tlaster/precompose-iosx64@1.6.0-beta02?classifier=sources

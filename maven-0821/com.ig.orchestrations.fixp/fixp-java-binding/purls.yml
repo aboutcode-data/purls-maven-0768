@@ -33,6 +33,12 @@
 - pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.21?classifier=sources
 - pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.24
 - pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.24?classifier=sources
+- pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.26
+- pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.26?classifier=sources
+- pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.27
+- pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.27?classifier=sources
+- pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.28
+- pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.28?classifier=sources
 - pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.2?classifier=sources
 - pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.3
 - pkg:maven/com.ig.orchestrations.fixp/fixp-java-binding@0.4.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.metadatacenter/cedar-model-validation-library@2.6.54
+- pkg:maven/org.metadatacenter/cedar-model-validation-library@2.6.54?classifier=sources

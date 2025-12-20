@@ -178,6 +178,16 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-20240122?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-20240123
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-20240123?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-20240125
+- pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-20240125?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-20240127
+- pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-20240127?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-20240131
+- pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-20240131?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-20240202
+- pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-20240202?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-20240207
+- pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-20240207?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk17-20231108
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk17-20231108?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk17-20231115
@@ -208,6 +218,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk17-20240122?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk17-20240123
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk17-20240123?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk17-20240125
+- pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk17-20240125?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk21-20231215
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk21-20231215?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk21-20231222
@@ -224,3 +236,5 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk21-20240122?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk21-20240123
 - pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk21-20240123?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk21-20240125
+- pkg:maven/org.anyline/anyline-data-jdbc-highgo@8.7.1-jdk21-20240125?classifier=sources

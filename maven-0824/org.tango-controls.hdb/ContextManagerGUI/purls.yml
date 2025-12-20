@@ -1,0 +1,4 @@
+- pkg:maven/org.tango-controls.hdb/ContextManagerGUI@1.4
+- pkg:maven/org.tango-controls.hdb/ContextManagerGUI@1.4?classifier=sources
+- pkg:maven/org.tango-controls.hdb/ContextManagerGUI@1.5
+- pkg:maven/org.tango-controls.hdb/ContextManagerGUI@1.5?classifier=sources

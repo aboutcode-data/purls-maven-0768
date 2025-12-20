@@ -10,6 +10,8 @@
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.12.0?classifier=sources
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.13.0
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.13.0?classifier=sources
+- pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.14.0
+- pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.14.0?classifier=sources
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.2.0
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.2.0?classifier=sources
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.3.0
@@ -26,3 +28,5 @@
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.8.0?classifier=sources
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.9.0
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@0.9.0?classifier=sources
+- pkg:maven/com.github.crabs-hue.commons/commons-retryable@1.0.0
+- pkg:maven/com.github.crabs-hue.commons/commons-retryable@1.0.0?classifier=sources

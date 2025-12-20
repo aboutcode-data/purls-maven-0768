@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/babylonjs@4.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/babylonjs@5.1.0
 - pkg:maven/org.webjars.npm/babylonjs@5.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/babylonjs@6.44.0
+- pkg:maven/org.webjars.npm/babylonjs@6.44.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.amy-keibler.weird.weird_parent/weird_child@0.1.6?classifier=sources
+- pkg:maven/io.github.amy-keibler.weird.weird_parent/weird_child@0.1.7?classifier=sources

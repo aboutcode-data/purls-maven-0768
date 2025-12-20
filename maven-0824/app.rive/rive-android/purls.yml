@@ -37,3 +37,4 @@
 - pkg:maven/app.rive/rive-android@9.0.8?classifier=sources
 - pkg:maven/app.rive/rive-android@9.0.9?classifier=sources
 - pkg:maven/app.rive/rive-android@9.1.0?classifier=sources
+- pkg:maven/app.rive/rive-android@9.1.2?classifier=sources

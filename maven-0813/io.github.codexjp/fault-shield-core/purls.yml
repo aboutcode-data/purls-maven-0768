@@ -1,0 +1,12 @@
+- pkg:maven/io.github.codexjp/fault-shield-core@0.0.20
+- pkg:maven/io.github.codexjp/fault-shield-core@0.0.20?classifier=sources
+- pkg:maven/io.github.codexjp/fault-shield-core@0.0.49
+- pkg:maven/io.github.codexjp/fault-shield-core@0.0.49?classifier=sources
+- pkg:maven/io.github.codexjp/fault-shield-core@0.0.53
+- pkg:maven/io.github.codexjp/fault-shield-core@0.0.53?classifier=sources
+- pkg:maven/io.github.codexjp/fault-shield-core@0.0.55
+- pkg:maven/io.github.codexjp/fault-shield-core@0.0.55?classifier=sources
+- pkg:maven/io.github.codexjp/fault-shield-core@0.0.57
+- pkg:maven/io.github.codexjp/fault-shield-core@0.0.57?classifier=sources
+- pkg:maven/io.github.codexjp/fault-shield-core@0.0.59
+- pkg:maven/io.github.codexjp/fault-shield-core@0.0.59?classifier=sources

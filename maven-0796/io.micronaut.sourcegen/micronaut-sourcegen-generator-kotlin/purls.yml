@@ -1,3 +1,5 @@
+- pkg:maven/io.micronaut.sourcegen/micronaut-sourcegen-generator-kotlin@1.0.0-M10?classifier=sources
+- pkg:maven/io.micronaut.sourcegen/micronaut-sourcegen-generator-kotlin@1.0.0-M11?classifier=sources
 - pkg:maven/io.micronaut.sourcegen/micronaut-sourcegen-generator-kotlin@1.0.0-M1?classifier=sources
 - pkg:maven/io.micronaut.sourcegen/micronaut-sourcegen-generator-kotlin@1.0.0-M2?classifier=sources
 - pkg:maven/io.micronaut.sourcegen/micronaut-sourcegen-generator-kotlin@1.0.0-M3?classifier=sources

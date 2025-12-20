@@ -13,3 +13,7 @@
 - pkg:maven/com.swirlds/swirlds-test-framework@0.44.2?classifier=sources
 - pkg:maven/com.swirlds/swirlds-test-framework@0.44.3?classifier=sources
 - pkg:maven/com.swirlds/swirlds-test-framework@0.45.1?classifier=sources
+- pkg:maven/com.swirlds/swirlds-test-framework@0.46.0?classifier=sources
+- pkg:maven/com.swirlds/swirlds-test-framework@0.46.1?classifier=sources
+- pkg:maven/com.swirlds/swirlds-test-framework@0.46.2?classifier=sources
+- pkg:maven/com.swirlds/swirlds-test-framework@0.46.3?classifier=sources

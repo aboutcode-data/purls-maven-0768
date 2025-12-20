@@ -1,0 +1,2 @@
+- pkg:maven/cool.scx/scx-jdbc-meta-data@0.0.1
+- pkg:maven/cool.scx/scx-jdbc-meta-data@0.0.1?classifier=sources

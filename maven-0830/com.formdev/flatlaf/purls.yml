@@ -106,3 +106,4 @@
 - pkg:maven/com.formdev/flatlaf@3.2.4?classifier=sources
 - pkg:maven/com.formdev/flatlaf@3.2.5?classifier=sources
 - pkg:maven/com.formdev/flatlaf@3.2?classifier=sources
+- pkg:maven/com.formdev/flatlaf@3.3?classifier=sources

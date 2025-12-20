@@ -16,3 +16,5 @@
 - pkg:maven/org.notima.generic/businessobjects@0.1.21?classifier=sources
 - pkg:maven/org.notima.generic/businessobjects@0.1.22
 - pkg:maven/org.notima.generic/businessobjects@0.1.22?classifier=sources
+- pkg:maven/org.notima.generic/businessobjects@0.1.23
+- pkg:maven/org.notima.generic/businessobjects@0.1.23?classifier=sources

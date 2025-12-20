@@ -96,5 +96,7 @@
 - pkg:maven/com.heanbian.boot/heanbian-spring-boot-starter@17.1?classifier=sources
 - pkg:maven/com.heanbian.boot/heanbian-spring-boot-starter@18.1
 - pkg:maven/com.heanbian.boot/heanbian-spring-boot-starter@18.1?classifier=sources
+- pkg:maven/com.heanbian.boot/heanbian-spring-boot-starter@19.1
+- pkg:maven/com.heanbian.boot/heanbian-spring-boot-starter@19.1?classifier=sources
 - pkg:maven/com.heanbian.boot/heanbian-spring-boot-starter@20200807
 - pkg:maven/com.heanbian.boot/heanbian-spring-boot-starter@20200807?classifier=sources

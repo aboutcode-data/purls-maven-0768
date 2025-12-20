@@ -33,3 +33,4 @@
 - pkg:maven/com.applovin.mediation/line-adapter@2022.2.16.4?classifier=sources
 - pkg:maven/com.applovin.mediation/line-adapter@2023.2.15.0?classifier=sources
 - pkg:maven/com.applovin.mediation/line-adapter@2023.6.7.0?classifier=sources
+- pkg:maven/com.applovin.mediation/line-adapter@2024.1.12.0?classifier=sources

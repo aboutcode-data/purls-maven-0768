@@ -29,3 +29,16 @@
 - pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.58?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.59?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.60?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.61?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.62?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.63?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.64?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.65?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.66?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.67?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.68?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.69?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.metadata.saml2/identity-metadata-saml2@1.7.70?classifier=source-release&type=zip

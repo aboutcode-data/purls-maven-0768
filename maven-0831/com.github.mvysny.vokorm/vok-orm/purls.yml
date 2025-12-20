@@ -20,3 +20,5 @@
 - pkg:maven/com.github.mvysny.vokorm/vok-orm@1.6?classifier=sources
 - pkg:maven/com.github.mvysny.vokorm/vok-orm@1.7?classifier=sources
 - pkg:maven/com.github.mvysny.vokorm/vok-orm@2.0?classifier=sources
+- pkg:maven/com.github.mvysny.vokorm/vok-orm@3.0?classifier=sources
+- pkg:maven/com.github.mvysny.vokorm/vok-orm@3.1?classifier=sources

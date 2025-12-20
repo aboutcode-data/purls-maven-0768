@@ -10,3 +10,5 @@
 - pkg:maven/com.basistech.rosette/rosette-api-osgi-itests@1.25.1?classifier=sources
 - pkg:maven/com.basistech.rosette/rosette-api-osgi-itests@1.26.0
 - pkg:maven/com.basistech.rosette/rosette-api-osgi-itests@1.26.0?classifier=sources
+- pkg:maven/com.basistech.rosette/rosette-api-osgi-itests@1.28.0
+- pkg:maven/com.basistech.rosette/rosette-api-osgi-itests@1.28.0?classifier=sources

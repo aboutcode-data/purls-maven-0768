@@ -56,3 +56,5 @@
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@6.0.7?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@6.0.8
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@6.0.8?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@7.0.0
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@7.0.0?classifier=sources

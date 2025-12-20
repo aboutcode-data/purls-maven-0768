@@ -72,3 +72,7 @@
 - pkg:maven/cn.aotcloud/commons-tool@1.6.8?classifier=sources
 - pkg:maven/cn.aotcloud/commons-tool@1.6.9
 - pkg:maven/cn.aotcloud/commons-tool@1.6.9?classifier=sources
+- pkg:maven/cn.aotcloud/commons-tool@2.0.0
+- pkg:maven/cn.aotcloud/commons-tool@2.0.0?classifier=sources
+- pkg:maven/cn.aotcloud/commons-tool@2.0.1
+- pkg:maven/cn.aotcloud/commons-tool@2.0.1?classifier=sources

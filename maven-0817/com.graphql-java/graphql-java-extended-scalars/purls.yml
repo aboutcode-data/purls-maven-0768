@@ -16,6 +16,7 @@
 - pkg:maven/com.graphql-java/graphql-java-extended-scalars@0.0.0-2024-01-02T23-17-05-3182277?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-extended-scalars@0.0.0-2024-01-02T23-21-26-c933a33?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-extended-scalars@0.0.0-2024-01-03T00-48-47-40f8f40?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-extended-scalars@0.0.0-2024-02-05T21-14-36-f6191ff?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-extended-scalars@1.0
 - pkg:maven/com.graphql-java/graphql-java-extended-scalars@1.0-rc1
 - pkg:maven/com.graphql-java/graphql-java-extended-scalars@1.0-rc1?classifier=sources

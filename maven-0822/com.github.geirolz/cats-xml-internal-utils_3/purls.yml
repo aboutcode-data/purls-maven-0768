@@ -8,6 +8,8 @@
 - pkg:maven/com.github.geirolz/cats-xml-internal-utils_3@0.0.13?classifier=sources
 - pkg:maven/com.github.geirolz/cats-xml-internal-utils_3@0.0.14
 - pkg:maven/com.github.geirolz/cats-xml-internal-utils_3@0.0.14?classifier=sources
+- pkg:maven/com.github.geirolz/cats-xml-internal-utils_3@0.0.15
+- pkg:maven/com.github.geirolz/cats-xml-internal-utils_3@0.0.15?classifier=sources
 - pkg:maven/com.github.geirolz/cats-xml-internal-utils_3@0.0.7
 - pkg:maven/com.github.geirolz/cats-xml-internal-utils_3@0.0.7?classifier=sources
 - pkg:maven/com.github.geirolz/cats-xml-internal-utils_3@0.0.8

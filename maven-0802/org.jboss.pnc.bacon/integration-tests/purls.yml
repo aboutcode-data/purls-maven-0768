@@ -28,3 +28,4 @@
 - pkg:maven/org.jboss.pnc.bacon/integration-tests@2.5.3
 - pkg:maven/org.jboss.pnc.bacon/integration-tests@2.5.4
 - pkg:maven/org.jboss.pnc.bacon/integration-tests@2.5.5
+- pkg:maven/org.jboss.pnc.bacon/integration-tests@2.5.6

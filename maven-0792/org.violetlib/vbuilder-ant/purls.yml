@@ -1,0 +1,2 @@
+- pkg:maven/org.violetlib/vbuilder-ant@1?classifier=sources
+- pkg:maven/org.violetlib/vbuilder-ant@2?classifier=sources

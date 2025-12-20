@@ -137,6 +137,8 @@
 - pkg:maven/com.instana/android-agent-plugin@5.2.7?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@6.0.0?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@6.0.11?classifier=sources
+- pkg:maven/com.instana/android-agent-plugin@6.0.12?classifier=sources
+- pkg:maven/com.instana/android-agent-plugin@6.0.13?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@6.0.1?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@6.0.2?classifier=sources
 - pkg:maven/com.instana/android-agent-plugin@6.0.3?classifier=sources

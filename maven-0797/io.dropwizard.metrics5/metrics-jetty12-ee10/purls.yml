@@ -1,0 +1,2 @@
+- pkg:maven/io.dropwizard.metrics5/metrics-jetty12-ee10@5.0.0-rc20
+- pkg:maven/io.dropwizard.metrics5/metrics-jetty12-ee10@5.0.0-rc20?classifier=sources

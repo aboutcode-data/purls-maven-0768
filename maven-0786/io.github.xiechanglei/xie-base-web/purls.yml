@@ -6,3 +6,5 @@
 - pkg:maven/io.github.xiechanglei/xie-base-web@2.7.17.3?classifier=sources
 - pkg:maven/io.github.xiechanglei/xie-base-web@2.7.17.4
 - pkg:maven/io.github.xiechanglei/xie-base-web@2.7.17.4?classifier=sources
+- pkg:maven/io.github.xiechanglei/xie-base-web@2.7.18.5
+- pkg:maven/io.github.xiechanglei/xie-base-web@2.7.18.5?classifier=sources

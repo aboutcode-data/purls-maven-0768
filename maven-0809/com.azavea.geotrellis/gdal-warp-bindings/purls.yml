@@ -12,5 +12,7 @@
 - pkg:maven/com.azavea.geotrellis/gdal-warp-bindings@3.6.4?classifier=sources
 - pkg:maven/com.azavea.geotrellis/gdal-warp-bindings@3.7.0
 - pkg:maven/com.azavea.geotrellis/gdal-warp-bindings@3.7.0?classifier=sources
+- pkg:maven/com.azavea.geotrellis/gdal-warp-bindings@3.8.0
+- pkg:maven/com.azavea.geotrellis/gdal-warp-bindings@3.8.0?classifier=sources
 - pkg:maven/com.azavea.geotrellis/gdal-warp-bindings@33.567d940
 - pkg:maven/com.azavea.geotrellis/gdal-warp-bindings@33.567d940?classifier=sources

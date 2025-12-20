@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-editor@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-editor@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-editor@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-editor@RELEASE210?classifier=sources

@@ -305,4 +305,12 @@
 - pkg:maven/me.shadaj/slinky-readwrite_sjs1_2.13@0.7.4
 - pkg:maven/me.shadaj/slinky-readwrite_sjs1_2.13@0.7.4%2B1-e3ba8c29
 - pkg:maven/me.shadaj/slinky-readwrite_sjs1_2.13@0.7.4%2B1-e3ba8c29?classifier=sources
+- pkg:maven/me.shadaj/slinky-readwrite_sjs1_2.13@0.7.4%2B2-08f94dc9
+- pkg:maven/me.shadaj/slinky-readwrite_sjs1_2.13@0.7.4%2B2-08f94dc9?classifier=sources
+- pkg:maven/me.shadaj/slinky-readwrite_sjs1_2.13@0.7.4%2B3-29f11a46
+- pkg:maven/me.shadaj/slinky-readwrite_sjs1_2.13@0.7.4%2B3-29f11a46?classifier=sources
+- pkg:maven/me.shadaj/slinky-readwrite_sjs1_2.13@0.7.4%2B4-d2cd0c3a
+- pkg:maven/me.shadaj/slinky-readwrite_sjs1_2.13@0.7.4%2B4-d2cd0c3a?classifier=sources
+- pkg:maven/me.shadaj/slinky-readwrite_sjs1_2.13@0.7.4%2B5-b12bd9d5
+- pkg:maven/me.shadaj/slinky-readwrite_sjs1_2.13@0.7.4%2B5-b12bd9d5?classifier=sources
 - pkg:maven/me.shadaj/slinky-readwrite_sjs1_2.13@0.7.4?classifier=sources
