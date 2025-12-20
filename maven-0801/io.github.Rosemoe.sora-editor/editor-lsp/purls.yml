@@ -25,3 +25,6 @@
 - pkg:maven/io.github.Rosemoe.sora-editor/editor-lsp@0.22.2?classifier=sources
 - pkg:maven/io.github.Rosemoe.sora-editor/editor-lsp@0.23.0?classifier=sources
 - pkg:maven/io.github.Rosemoe.sora-editor/editor-lsp@0.23.1?classifier=sources
+- pkg:maven/io.github.Rosemoe.sora-editor/editor-lsp@0.23.2?classifier=sources
+- pkg:maven/io.github.Rosemoe.sora-editor/editor-lsp@0.23.3?classifier=sources
+- pkg:maven/io.github.Rosemoe.sora-editor/editor-lsp@0.23.4?classifier=sources

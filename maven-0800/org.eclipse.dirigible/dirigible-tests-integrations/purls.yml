@@ -1,0 +1,6 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.0.1
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.0.2
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.0.3
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.0.4
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.0.5

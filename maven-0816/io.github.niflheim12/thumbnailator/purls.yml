@@ -1,0 +1,2 @@
+- pkg:maven/io.github.niflheim12/thumbnailator@1.0.0
+- pkg:maven/io.github.niflheim12/thumbnailator@1.0.0?classifier=sources

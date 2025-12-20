@@ -34,3 +34,5 @@
 - pkg:maven/org.smallmind/memcached-cubby@5.3.0?classifier=sources
 - pkg:maven/org.smallmind/memcached-cubby@5.4.0
 - pkg:maven/org.smallmind/memcached-cubby@5.4.0?classifier=sources
+- pkg:maven/org.smallmind/memcached-cubby@5.5.0
+- pkg:maven/org.smallmind/memcached-cubby@5.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.apicatalog/iron-eddsa-rdfc-cryptosuite-2022@0.10.0
+- pkg:maven/com.apicatalog/iron-eddsa-rdfc-cryptosuite-2022@0.10.0?classifier=sources

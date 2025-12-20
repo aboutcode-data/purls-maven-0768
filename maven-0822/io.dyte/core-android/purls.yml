@@ -87,5 +87,10 @@
 - pkg:maven/io.dyte/core-android@1.31.3?classifier=sources
 - pkg:maven/io.dyte/core-android@1.31.4?classifier=sources
 - pkg:maven/io.dyte/core-android@1.31.5?classifier=sources
+- pkg:maven/io.dyte/core-android@1.31.6?classifier=sources
+- pkg:maven/io.dyte/core-android@1.32.0?classifier=sources
+- pkg:maven/io.dyte/core-android@1.32.2?classifier=sources
+- pkg:maven/io.dyte/core-android@1.32.3?classifier=sources
+- pkg:maven/io.dyte/core-android@1.32.4?classifier=sources
 - pkg:maven/io.dyte/core-android@1.4.0-staging.3?classifier=sources
 - pkg:maven/io.dyte/core-android@1.4.0-staging.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.lufm0628/ggcloud-spring-boot-starter@1.0.0
+- pkg:maven/io.github.lufm0628/ggcloud-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/io.github.lufm0628/ggcloud-spring-boot-starter@1.0.0_beta1
+- pkg:maven/io.github.lufm0628/ggcloud-spring-boot-starter@1.0.0_beta1?classifier=sources

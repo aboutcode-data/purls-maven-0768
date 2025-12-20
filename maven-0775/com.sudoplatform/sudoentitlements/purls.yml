@@ -2,6 +2,8 @@
 - pkg:maven/com.sudoplatform/sudoentitlements@1.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoentitlements@1.2.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoentitlements@1.2.0?type=aar
+- pkg:maven/com.sudoplatform/sudoentitlements@10.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoentitlements@10.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoentitlements@2.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoentitlements@2.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoentitlements@2.0.4?classifier=sources

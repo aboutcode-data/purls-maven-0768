@@ -8,3 +8,5 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.1-catalina@19.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.1-catalina@20.0.0.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.1-catalina@20.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.1-catalina@21.0.0.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.1-catalina@21.0.0.Final?classifier=sources

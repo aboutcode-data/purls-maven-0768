@@ -32,6 +32,8 @@
 - pkg:maven/org.apache.rocketmq/rocketmq-acl@4.9.6?classifier=sources
 - pkg:maven/org.apache.rocketmq/rocketmq-acl@4.9.7
 - pkg:maven/org.apache.rocketmq/rocketmq-acl@4.9.7?classifier=sources
+- pkg:maven/org.apache.rocketmq/rocketmq-acl@4.9.8
+- pkg:maven/org.apache.rocketmq/rocketmq-acl@4.9.8?classifier=sources
 - pkg:maven/org.apache.rocketmq/rocketmq-acl@5.0.0
 - pkg:maven/org.apache.rocketmq/rocketmq-acl@5.0.0-ALPHA
 - pkg:maven/org.apache.rocketmq/rocketmq-acl@5.0.0-ALPHA?classifier=sources
@@ -48,3 +50,5 @@
 - pkg:maven/org.apache.rocketmq/rocketmq-acl@5.1.3?classifier=sources
 - pkg:maven/org.apache.rocketmq/rocketmq-acl@5.1.4
 - pkg:maven/org.apache.rocketmq/rocketmq-acl@5.1.4?classifier=sources
+- pkg:maven/org.apache.rocketmq/rocketmq-acl@5.2.0
+- pkg:maven/org.apache.rocketmq/rocketmq-acl@5.2.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/world.edgecenter.edgeconf/edgeconf-sdk@2.6.16?classifier=sources
+- pkg:maven/world.edgecenter.edgeconf/edgeconf-sdk@2.6.16?type=aar
+- pkg:maven/world.edgecenter.edgeconf/edgeconf-sdk@2.6.17?classifier=sources
+- pkg:maven/world.edgecenter.edgeconf/edgeconf-sdk@2.6.17?type=aar
+- pkg:maven/world.edgecenter.edgeconf/edgeconf-sdk@2.6.18?classifier=sources
+- pkg:maven/world.edgecenter.edgeconf/edgeconf-sdk@2.6.18?type=aar

@@ -62,6 +62,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@1.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@1.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@1.0.42?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@1.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@2.0.24
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@2.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@2.0.24?classifier=sources-commercial
@@ -148,6 +149,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@2.0.52?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@2.0.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@2.0.54?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@2.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.0
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.0?classifier=sources-commercial
@@ -291,6 +293,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.56?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.57?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.58?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.59?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.synonyms.web@3.0.6

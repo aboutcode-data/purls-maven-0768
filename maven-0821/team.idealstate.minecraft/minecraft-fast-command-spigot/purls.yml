@@ -1,3 +1,4 @@
 - pkg:maven/team.idealstate.minecraft/minecraft-fast-command-spigot@1.0.0?classifier=sources
 - pkg:maven/team.idealstate.minecraft/minecraft-fast-command-spigot@1.0.1?classifier=sources
 - pkg:maven/team.idealstate.minecraft/minecraft-fast-command-spigot@1.0.2?classifier=sources
+- pkg:maven/team.idealstate.minecraft/minecraft-fast-command-spigot@1.0.3?classifier=sources

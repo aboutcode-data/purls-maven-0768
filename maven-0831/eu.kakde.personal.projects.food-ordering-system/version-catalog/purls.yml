@@ -1,0 +1,5 @@
+- pkg:maven/eu.kakde.personal.projects.food-ordering-system/version-catalog@1.0.0?classifier=sources
+- pkg:maven/eu.kakde.personal.projects.food-ordering-system/version-catalog@1.0.1?classifier=sources
+- pkg:maven/eu.kakde.personal.projects.food-ordering-system/version-catalog@1.0.2?classifier=sources
+- pkg:maven/eu.kakde.personal.projects.food-ordering-system/version-catalog@1.0.3?classifier=sources
+- pkg:maven/eu.kakde.personal.projects.food-ordering-system/version-catalog@1.0.4?classifier=sources

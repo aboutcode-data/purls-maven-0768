@@ -158,6 +158,8 @@
 - pkg:maven/com.github.javaparser/javaparser-core-serialization@3.25.7?classifier=sources
 - pkg:maven/com.github.javaparser/javaparser-core-serialization@3.25.8
 - pkg:maven/com.github.javaparser/javaparser-core-serialization@3.25.8?classifier=sources
+- pkg:maven/com.github.javaparser/javaparser-core-serialization@3.25.9
+- pkg:maven/com.github.javaparser/javaparser-core-serialization@3.25.9?classifier=sources
 - pkg:maven/com.github.javaparser/javaparser-core-serialization@3.6.17
 - pkg:maven/com.github.javaparser/javaparser-core-serialization@3.6.17?classifier=sources
 - pkg:maven/com.github.javaparser/javaparser-core-serialization@3.6.18

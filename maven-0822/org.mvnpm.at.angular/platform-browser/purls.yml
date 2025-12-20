@@ -3,3 +3,6 @@
 - pkg:maven/org.mvnpm.at.angular/platform-browser@17.1.2?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/platform-browser@17.2.1?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/platform-browser@17.2.2?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/platform-browser@17.2.3?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/platform-browser@17.2.4?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/platform-browser@17.3.0?classifier=sources

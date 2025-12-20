@@ -1,0 +1,2 @@
+- pkg:maven/io.ultreia.java4all.validation.core/impl-spi@2.0.0-RC-2
+- pkg:maven/io.ultreia.java4all.validation.core/impl-spi@2.0.0-RC-2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.5
+- pkg:maven/io.github.bes2008.solution.langx/langx-java-all@5.3.5?classifier=sources

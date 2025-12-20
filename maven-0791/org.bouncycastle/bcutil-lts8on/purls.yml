@@ -3,3 +3,4 @@
 - pkg:maven/org.bouncycastle/bcutil-lts8on@2.73.2?classifier=sources
 - pkg:maven/org.bouncycastle/bcutil-lts8on@2.73.3?classifier=sources
 - pkg:maven/org.bouncycastle/bcutil-lts8on@2.73.4?classifier=sources
+- pkg:maven/org.bouncycastle/bcutil-lts8on@2.73.5?classifier=sources

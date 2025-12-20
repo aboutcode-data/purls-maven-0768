@@ -374,3 +374,9 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common.stub@4.9.3
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common.stub@4.9.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common.stub@4.9.3?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common.stub@4.9.6
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common.stub@4.9.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common.stub@4.9.6?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common.stub@4.9.7
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common.stub@4.9.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common.stub@4.9.7?classifier=sources

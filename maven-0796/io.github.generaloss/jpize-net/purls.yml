@@ -1,0 +1,2 @@
+- pkg:maven/io.github.generaloss/jpize-net@24.2.1?classifier=sources
+- pkg:maven/io.github.generaloss/jpize-net@24.2.2?classifier=sources

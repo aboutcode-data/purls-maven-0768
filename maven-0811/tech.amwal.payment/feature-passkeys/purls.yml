@@ -12,3 +12,4 @@
 - pkg:maven/tech.amwal.payment/feature-passkeys@1.0.0-rc6?classifier=sources
 - pkg:maven/tech.amwal.payment/feature-passkeys@1.0.0-rc7?classifier=sources
 - pkg:maven/tech.amwal.payment/feature-passkeys@1.0.0-rc8?classifier=sources
+- pkg:maven/tech.amwal.payment/feature-passkeys@1.0.0-rc9?classifier=sources

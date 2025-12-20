@@ -24,3 +24,5 @@
 - pkg:maven/io.github.marcinzh/turbolift-core_3@0.70.0?classifier=sources
 - pkg:maven/io.github.marcinzh/turbolift-core_3@0.72.0
 - pkg:maven/io.github.marcinzh/turbolift-core_3@0.72.0?classifier=sources
+- pkg:maven/io.github.marcinzh/turbolift-core_3@0.74.0
+- pkg:maven/io.github.marcinzh/turbolift-core_3@0.74.0?classifier=sources

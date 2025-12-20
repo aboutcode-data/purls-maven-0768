@@ -1,2 +1,4 @@
 - pkg:maven/com.uid2/attestation-aws@1.1.0
 - pkg:maven/com.uid2/attestation-aws@1.1.0?classifier=sources
+- pkg:maven/com.uid2/attestation-aws@2.0.0-f7c174410e
+- pkg:maven/com.uid2/attestation-aws@2.0.0-f7c174410e?classifier=sources

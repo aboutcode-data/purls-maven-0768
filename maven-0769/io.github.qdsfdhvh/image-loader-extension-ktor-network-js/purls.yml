@@ -1,3 +1,7 @@
 - pkg:maven/io.github.qdsfdhvh/image-loader-extension-ktor-network-js@1.7.2?classifier=sources
 - pkg:maven/io.github.qdsfdhvh/image-loader-extension-ktor-network-js@1.7.3?classifier=sources
 - pkg:maven/io.github.qdsfdhvh/image-loader-extension-ktor-network-js@1.7.4?classifier=sources
+- pkg:maven/io.github.qdsfdhvh/image-loader-extension-ktor-network-js@1.7.5?classifier=sources
+- pkg:maven/io.github.qdsfdhvh/image-loader-extension-ktor-network-js@1.7.6?classifier=sources
+- pkg:maven/io.github.qdsfdhvh/image-loader-extension-ktor-network-js@1.7.7?classifier=sources
+- pkg:maven/io.github.qdsfdhvh/image-loader-extension-ktor-network-js@1.7.8?classifier=sources

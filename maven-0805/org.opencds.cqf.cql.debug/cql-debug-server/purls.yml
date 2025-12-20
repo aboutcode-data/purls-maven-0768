@@ -6,3 +6,5 @@
 - pkg:maven/org.opencds.cqf.cql.debug/cql-debug-server@1.5.9?classifier=sources
 - pkg:maven/org.opencds.cqf.cql.debug/cql-debug-server@2.0.0
 - pkg:maven/org.opencds.cqf.cql.debug/cql-debug-server@2.0.0?classifier=sources
+- pkg:maven/org.opencds.cqf.cql.debug/cql-debug-server@3.0.0
+- pkg:maven/org.opencds.cqf.cql.debug/cql-debug-server@3.0.0?classifier=sources

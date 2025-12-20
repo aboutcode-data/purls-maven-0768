@@ -2,6 +2,8 @@
 - pkg:maven/org.duckdb/duckdb_jdbc@0.1.8?classifier=sources
 - pkg:maven/org.duckdb/duckdb_jdbc@0.1.9
 - pkg:maven/org.duckdb/duckdb_jdbc@0.1.9?classifier=sources
+- pkg:maven/org.duckdb/duckdb_jdbc@0.10.0
+- pkg:maven/org.duckdb/duckdb_jdbc@0.10.0?classifier=sources
 - pkg:maven/org.duckdb/duckdb_jdbc@0.2.0
 - pkg:maven/org.duckdb/duckdb_jdbc@0.2.0?classifier=sources
 - pkg:maven/org.duckdb/duckdb_jdbc@0.2.1

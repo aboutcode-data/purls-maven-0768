@@ -69,6 +69,7 @@
 - pkg:maven/com.palantir.conjure/conjure-core@4.39.0?classifier=sources
 - pkg:maven/com.palantir.conjure/conjure-core@4.4.0
 - pkg:maven/com.palantir.conjure/conjure-core@4.4.0?classifier=sources
+- pkg:maven/com.palantir.conjure/conjure-core@4.40.0?classifier=sources
 - pkg:maven/com.palantir.conjure/conjure-core@4.5.0
 - pkg:maven/com.palantir.conjure/conjure-core@4.5.0?classifier=sources
 - pkg:maven/com.palantir.conjure/conjure-core@4.5.1

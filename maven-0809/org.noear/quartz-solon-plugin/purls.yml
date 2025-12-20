@@ -1186,3 +1186,7 @@
 - pkg:maven/org.noear/quartz-solon-plugin@2.7.1-M2
 - pkg:maven/org.noear/quartz-solon-plugin@2.7.1-M2?classifier=sources
 - pkg:maven/org.noear/quartz-solon-plugin@2.7.1?classifier=sources
+- pkg:maven/org.noear/quartz-solon-plugin@2.7.2
+- pkg:maven/org.noear/quartz-solon-plugin@2.7.2-M2
+- pkg:maven/org.noear/quartz-solon-plugin@2.7.2-M2?classifier=sources
+- pkg:maven/org.noear/quartz-solon-plugin@2.7.2?classifier=sources

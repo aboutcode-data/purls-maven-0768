@@ -360,6 +360,15 @@
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.7.99?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.7.9?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.0?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.100?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.101?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.102?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.103?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.104?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.105?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.106?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.107?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.108?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.10?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.11?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.12?classifier=sources
@@ -452,4 +461,10 @@
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.91?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.92?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.93?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.94?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.95?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.96?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.97?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.98?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.99?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.8.9?classifier=sources

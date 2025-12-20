@@ -1,0 +1,2 @@
+- pkg:maven/net.osslabz/xchange-exmo@5.1.2.2
+- pkg:maven/net.osslabz/xchange-exmo@5.1.2.2?classifier=sources

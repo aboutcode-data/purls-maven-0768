@@ -328,3 +328,5 @@
 - pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.1.0-BETA-7?classifier=sources
 - pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.1.0-BETA-8
 - pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.1.0-BETA-8?classifier=sources
+- pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.1.0-BETA-9
+- pkg:maven/io.stargate.db.dse/persistence-dse-6.8@2.1.0-BETA-9?classifier=sources

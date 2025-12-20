@@ -5,6 +5,7 @@
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@23.3.6?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@23.3.7?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@23.3.8?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/vertical-layout@23.4.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.0.2?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.0.5?classifier=sources
@@ -23,6 +24,7 @@
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.2.4?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.2.5?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.2.6?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.2.9?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.3.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.3.1?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.3.2?classifier=sources
@@ -31,3 +33,4 @@
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.3.5?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.3.6?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.3.7?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/vertical-layout@24.3.8?classifier=sources

@@ -898,6 +898,8 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oidc.session@6.13.2?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oidc.session@6.13.3
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oidc.session@6.13.3?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oidc.session@6.13.9
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oidc.session@6.13.9?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oidc.session@6.2.123
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oidc.session@6.2.123?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.oauth2/org.wso2.carbon.identity.oidc.session@6.2.124

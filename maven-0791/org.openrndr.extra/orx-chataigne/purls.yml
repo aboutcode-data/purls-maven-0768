@@ -34,3 +34,4 @@
 - pkg:maven/org.openrndr.extra/orx-chataigne@0.4.4-alpha7?classifier=sources
 - pkg:maven/org.openrndr.extra/orx-chataigne@0.4.4?classifier=sources
 - pkg:maven/org.openrndr.extra/orx-chataigne@0.4.5-alpha1?classifier=sources
+- pkg:maven/org.openrndr.extra/orx-chataigne@0.4.5-alpha2?classifier=sources

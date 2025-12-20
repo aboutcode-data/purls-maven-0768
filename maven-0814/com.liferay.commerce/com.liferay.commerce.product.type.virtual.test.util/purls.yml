@@ -115,3 +115,4 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.test.util@4.0.9
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.test.util@4.0.9?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.test.util@4.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.type.virtual.test.util@5.0.0?classifier=sources

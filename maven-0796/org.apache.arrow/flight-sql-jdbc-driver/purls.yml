@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@14.0.2?classifier=sources
 - pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@15.0.0
 - pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@15.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@15.0.1
+- pkg:maven/org.apache.arrow/flight-sql-jdbc-driver@15.0.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/carbon__feature-flags@0.16.0
 - pkg:maven/org.webjars.npm/carbon__feature-flags@0.16.0?classifier=sources
+- pkg:maven/org.webjars.npm/carbon__feature-flags@0.17.0
+- pkg:maven/org.webjars.npm/carbon__feature-flags@0.17.0?classifier=sources

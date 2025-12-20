@@ -1,0 +1,2 @@
+- pkg:maven/com.tangzc/auto-table-dynamicdatasource-test@1.0.0?classifier=sources
+- pkg:maven/com.tangzc/auto-table-dynamicdatasource-test@1.1.0?classifier=sources

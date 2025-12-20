@@ -4,3 +4,4 @@
 - pkg:maven/com.google.appengine/stagingtests@2.0.22
 - pkg:maven/com.google.appengine/stagingtests@2.0.23
 - pkg:maven/com.google.appengine/stagingtests@2.0.24
+- pkg:maven/com.google.appengine/stagingtests@2.0.25

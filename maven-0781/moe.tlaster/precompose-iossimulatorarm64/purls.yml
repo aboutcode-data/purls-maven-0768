@@ -1,4 +1,5 @@
 - pkg:maven/moe.tlaster/precompose-iossimulatorarm64@1.5.10?classifier=sources
+- pkg:maven/moe.tlaster/precompose-iossimulatorarm64@1.5.11?classifier=sources
 - pkg:maven/moe.tlaster/precompose-iossimulatorarm64@1.5.4?classifier=sources
 - pkg:maven/moe.tlaster/precompose-iossimulatorarm64@1.5.5?classifier=sources
 - pkg:maven/moe.tlaster/precompose-iossimulatorarm64@1.5.6?classifier=sources
@@ -7,3 +8,5 @@
 - pkg:maven/moe.tlaster/precompose-iossimulatorarm64@1.5.9?classifier=sources
 - pkg:maven/moe.tlaster/precompose-iossimulatorarm64@1.6.0-beta01?classifier=sources
 - pkg:maven/moe.tlaster/precompose-iossimulatorarm64@1.6.0-beta02?classifier=sources
+- pkg:maven/moe.tlaster/precompose-iossimulatorarm64@1.6.0-rc01?classifier=sources
+- pkg:maven/moe.tlaster/precompose-iossimulatorarm64@1.6.0-rc02?classifier=sources

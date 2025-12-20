@@ -45,7 +45,9 @@
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-webhook@3.20.26?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-webhook@3.20.27?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-webhook@3.20.28?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-webhook@3.20.29?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-webhook@3.20.2?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-webhook@3.20.30?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-webhook@3.20.3?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-webhook@3.20.4?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-webhook@3.20.5?classifier=sources

@@ -80,6 +80,8 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@4.45.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@4.46.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@4.46.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@4.47.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@4.47.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@5.0.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@5.0.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@5.0.1
@@ -92,6 +94,10 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@5.10.1?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@5.10.2
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@5.10.2?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@5.11.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@5.11.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@5.12.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@5.12.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@5.2.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@5.2.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo-reactivestreams@5.3.0

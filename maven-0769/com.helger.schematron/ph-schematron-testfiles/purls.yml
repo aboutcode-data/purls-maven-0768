@@ -48,3 +48,5 @@
 - pkg:maven/com.helger.schematron/ph-schematron-testfiles@7.1.2?classifier=sources
 - pkg:maven/com.helger.schematron/ph-schematron-testfiles@7.1.3
 - pkg:maven/com.helger.schematron/ph-schematron-testfiles@7.1.3?classifier=sources
+- pkg:maven/com.helger.schematron/ph-schematron-testfiles@8.0.0
+- pkg:maven/com.helger.schematron/ph-schematron-testfiles@8.0.0?classifier=sources

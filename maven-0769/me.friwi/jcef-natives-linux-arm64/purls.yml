@@ -2,6 +2,8 @@
 - pkg:maven/me.friwi/jcef-natives-linux-arm64@jcef-08efede%2Bcef-100.0.14%2Bg4e5ba66%2Bchromium-100.0.4896.75?classifier=sources
 - pkg:maven/me.friwi/jcef-natives-linux-arm64@jcef-0aee584%2Bcef-100.0.14%2Bg4e5ba66%2Bchromium-100.0.4896.75
 - pkg:maven/me.friwi/jcef-natives-linux-arm64@jcef-0aee584%2Bcef-100.0.14%2Bg4e5ba66%2Bchromium-100.0.4896.75?classifier=sources
+- pkg:maven/me.friwi/jcef-natives-linux-arm64@jcef-0b8e42e%2Bcef-122.1.10%2Bgc902316%2Bchromium-122.0.6261.112
+- pkg:maven/me.friwi/jcef-natives-linux-arm64@jcef-0b8e42e%2Bcef-122.1.10%2Bgc902316%2Bchromium-122.0.6261.112?classifier=sources
 - pkg:maven/me.friwi/jcef-natives-linux-arm64@jcef-0cdd84c%2Bcef-105.3.36%2Bg88e0038%2Bchromium-105.0.5195.102
 - pkg:maven/me.friwi/jcef-natives-linux-arm64@jcef-0cdd84c%2Bcef-105.3.36%2Bg88e0038%2Bchromium-105.0.5195.102?classifier=sources
 - pkg:maven/me.friwi/jcef-natives-linux-arm64@jcef-108adb8%2Bcef-109.1.11%2Bg6d4fdb2%2Bchromium-109.0.5414.87

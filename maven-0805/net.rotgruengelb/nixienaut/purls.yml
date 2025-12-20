@@ -1,2 +1,3 @@
 - pkg:maven/net.rotgruengelb/nixienaut@0.1.0?classifier=sources
 - pkg:maven/net.rotgruengelb/nixienaut@0.3.0?classifier=sources
+- pkg:maven/net.rotgruengelb/nixienaut@1.0.0?classifier=sources

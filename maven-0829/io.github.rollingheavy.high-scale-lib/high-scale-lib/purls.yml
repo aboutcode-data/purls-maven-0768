@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rollingheavy.high-scale-lib/high-scale-lib@1.1.5
+- pkg:maven/io.github.rollingheavy.high-scale-lib/high-scale-lib@1.1.5?classifier=sources

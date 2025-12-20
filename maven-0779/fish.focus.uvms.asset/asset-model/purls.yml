@@ -4,3 +4,4 @@
 - pkg:maven/fish.focus.uvms.asset/asset-model@6.8.26?classifier=sources
 - pkg:maven/fish.focus.uvms.asset/asset-model@6.8.27?classifier=sources
 - pkg:maven/fish.focus.uvms.asset/asset-model@6.8.29?classifier=sources
+- pkg:maven/fish.focus.uvms.asset/asset-model@6.8.30?classifier=sources

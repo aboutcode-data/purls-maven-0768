@@ -8,3 +8,7 @@
 - pkg:maven/de.fraunhofer.aisec/cpg-language-java@7.1.2?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg-language-java@8.0.0
 - pkg:maven/de.fraunhofer.aisec/cpg-language-java@8.0.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-java@8.1.0
+- pkg:maven/de.fraunhofer.aisec/cpg-language-java@8.1.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-java@8.1.1
+- pkg:maven/de.fraunhofer.aisec/cpg-language-java@8.1.1?classifier=sources

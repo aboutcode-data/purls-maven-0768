@@ -1,2 +1,4 @@
 - pkg:maven/io.gitee.l_like_w/EasyTree@1.0.0
 - pkg:maven/io.gitee.l_like_w/EasyTree@1.0.0?classifier=sources
+- pkg:maven/io.gitee.l_like_w/EasyTree@2.0.0
+- pkg:maven/io.gitee.l_like_w/EasyTree@2.0.0?classifier=sources

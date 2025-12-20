@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seatunnel/seatunnel-format-avro@2.3.4
+- pkg:maven/org.apache.seatunnel/seatunnel-format-avro@2.3.4?classifier=sources

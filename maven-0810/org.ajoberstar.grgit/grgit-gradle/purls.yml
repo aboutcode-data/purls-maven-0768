@@ -10,3 +10,5 @@
 - pkg:maven/org.ajoberstar.grgit/grgit-gradle@5.1.0?classifier=sources
 - pkg:maven/org.ajoberstar.grgit/grgit-gradle@5.2.0?classifier=sources
 - pkg:maven/org.ajoberstar.grgit/grgit-gradle@5.2.1?classifier=sources
+- pkg:maven/org.ajoberstar.grgit/grgit-gradle@5.2.2-rc.2?classifier=sources
+- pkg:maven/org.ajoberstar.grgit/grgit-gradle@5.2.2?classifier=sources

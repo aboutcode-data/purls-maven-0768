@@ -2,3 +2,5 @@
 - pkg:maven/com.github.nbbrd.java-desktop-util/java-desktop-util-demo@2.2.8?classifier=sources
 - pkg:maven/com.github.nbbrd.java-desktop-util/java-desktop-util-demo@2.3.0
 - pkg:maven/com.github.nbbrd.java-desktop-util/java-desktop-util-demo@2.3.0?classifier=sources
+- pkg:maven/com.github.nbbrd.java-desktop-util/java-desktop-util-demo@2.3.1
+- pkg:maven/com.github.nbbrd.java-desktop-util/java-desktop-util-demo@2.3.1?classifier=sources

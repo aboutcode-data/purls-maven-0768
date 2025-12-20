@@ -1030,3 +1030,11 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cynosdb@3.1.947?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cynosdb@3.1.955
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cynosdb@3.1.955?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cynosdb@3.1.966
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cynosdb@3.1.966?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cynosdb@3.1.969
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cynosdb@3.1.969?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cynosdb@3.1.971
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cynosdb@3.1.971?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cynosdb@3.1.977
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cynosdb@3.1.977?classifier=sources

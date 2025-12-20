@@ -8,3 +8,5 @@
 - pkg:maven/dev.fitko.fitconnect/jwkvalidator@1.6.0?classifier=sources
 - pkg:maven/dev.fitko.fitconnect/jwkvalidator@2.0.0
 - pkg:maven/dev.fitko.fitconnect/jwkvalidator@2.0.0?classifier=sources
+- pkg:maven/dev.fitko.fitconnect/jwkvalidator@2.1.0
+- pkg:maven/dev.fitko.fitconnect/jwkvalidator@2.1.0?classifier=sources

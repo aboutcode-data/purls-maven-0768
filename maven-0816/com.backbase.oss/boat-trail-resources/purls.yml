@@ -129,7 +129,15 @@
 - pkg:maven/com.backbase.oss/boat-trail-resources@0.17.26?classifier=sources
 - pkg:maven/com.backbase.oss/boat-trail-resources@0.17.27
 - pkg:maven/com.backbase.oss/boat-trail-resources@0.17.27?classifier=sources
+- pkg:maven/com.backbase.oss/boat-trail-resources@0.17.28
+- pkg:maven/com.backbase.oss/boat-trail-resources@0.17.28?classifier=sources
+- pkg:maven/com.backbase.oss/boat-trail-resources@0.17.29
+- pkg:maven/com.backbase.oss/boat-trail-resources@0.17.29?classifier=sources
 - pkg:maven/com.backbase.oss/boat-trail-resources@0.17.2?classifier=sources
+- pkg:maven/com.backbase.oss/boat-trail-resources@0.17.30
+- pkg:maven/com.backbase.oss/boat-trail-resources@0.17.30?classifier=sources
+- pkg:maven/com.backbase.oss/boat-trail-resources@0.17.31
+- pkg:maven/com.backbase.oss/boat-trail-resources@0.17.31?classifier=sources
 - pkg:maven/com.backbase.oss/boat-trail-resources@0.17.4
 - pkg:maven/com.backbase.oss/boat-trail-resources@0.17.4?classifier=sources
 - pkg:maven/com.backbase.oss/boat-trail-resources@0.17.5

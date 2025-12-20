@@ -380,3 +380,5 @@
 - pkg:maven/com.github.vhall.sdk.foundersc_sdk/foundersc@2.3.2.1?type=aar
 - pkg:maven/com.github.vhall.sdk.foundersc_sdk/foundersc@2.3.2?classifier=sources
 - pkg:maven/com.github.vhall.sdk.foundersc_sdk/foundersc@2.3.2?type=aar
+- pkg:maven/com.github.vhall.sdk.foundersc_sdk/foundersc@2.3.3?classifier=sources
+- pkg:maven/com.github.vhall.sdk.foundersc_sdk/foundersc@2.3.3?type=aar

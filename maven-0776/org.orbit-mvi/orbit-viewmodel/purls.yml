@@ -19,3 +19,4 @@
 - pkg:maven/org.orbit-mvi/orbit-viewmodel@5.0.0?classifier=sources
 - pkg:maven/org.orbit-mvi/orbit-viewmodel@6.0.0?classifier=sources
 - pkg:maven/org.orbit-mvi/orbit-viewmodel@6.1.0?classifier=sources
+- pkg:maven/org.orbit-mvi/orbit-viewmodel@6.1.1?classifier=sources

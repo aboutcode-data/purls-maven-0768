@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sdu8080/java-examples@1.0
+- pkg:maven/io.github.sdu8080/java-examples@1.0?classifier=sources

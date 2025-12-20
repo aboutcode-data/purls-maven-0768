@@ -2197,6 +2197,8 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@5.25.686?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@5.25.687
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@5.25.687?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@5.25.694
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@5.25.694?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@5.25.6?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@5.25.7
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@5.25.77
@@ -2318,3 +2320,11 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@7.0.45?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@7.0.46
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@7.0.46?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@7.0.80
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@7.0.80?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@7.0.81
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@7.0.81?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@7.0.82
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@7.0.82?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@7.0.83
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.default.auth.sequence.mgt.stub@7.0.83?classifier=sources

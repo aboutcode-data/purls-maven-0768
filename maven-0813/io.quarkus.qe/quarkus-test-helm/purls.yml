@@ -112,3 +112,7 @@
 - pkg:maven/io.quarkus.qe/quarkus-test-helm@1.4.0.Beta7?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-helm@1.4.0.Beta8
 - pkg:maven/io.quarkus.qe/quarkus-test-helm@1.4.0.Beta8?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-helm@1.4.1.Beta8
+- pkg:maven/io.quarkus.qe/quarkus-test-helm@1.4.1.Beta8?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-helm@1.4.2.Beta8
+- pkg:maven/io.quarkus.qe/quarkus-test-helm@1.4.2.Beta8?classifier=sources

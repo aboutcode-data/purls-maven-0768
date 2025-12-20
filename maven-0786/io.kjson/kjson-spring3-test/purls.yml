@@ -10,3 +10,5 @@
 - pkg:maven/io.kjson/kjson-spring3-test@7.0?classifier=sources
 - pkg:maven/io.kjson/kjson-spring3-test@7.1
 - pkg:maven/io.kjson/kjson-spring3-test@7.1?classifier=sources
+- pkg:maven/io.kjson/kjson-spring3-test@7.5
+- pkg:maven/io.kjson/kjson-spring3-test@7.5?classifier=sources

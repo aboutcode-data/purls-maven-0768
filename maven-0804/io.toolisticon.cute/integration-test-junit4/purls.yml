@@ -8,3 +8,4 @@
 - pkg:maven/io.toolisticon.cute/integration-test-junit4@1.0.0_RC1
 - pkg:maven/io.toolisticon.cute/integration-test-junit4@1.0.0_RC2
 - pkg:maven/io.toolisticon.cute/integration-test-junit4@1.0.1
+- pkg:maven/io.toolisticon.cute/integration-test-junit4@1.1.0

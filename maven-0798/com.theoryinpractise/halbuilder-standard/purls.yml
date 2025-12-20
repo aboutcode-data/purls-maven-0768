@@ -6,3 +6,5 @@
 - pkg:maven/com.theoryinpractise/halbuilder-standard@4.0.1?classifier=sources
 - pkg:maven/com.theoryinpractise/halbuilder-standard@4.1.1
 - pkg:maven/com.theoryinpractise/halbuilder-standard@4.1.1?classifier=sources
+- pkg:maven/com.theoryinpractise/halbuilder-standard@4.1.2
+- pkg:maven/com.theoryinpractise/halbuilder-standard@4.1.2?classifier=sources

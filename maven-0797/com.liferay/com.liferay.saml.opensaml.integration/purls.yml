@@ -46,6 +46,7 @@
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@1.1.53
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@1.1.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@1.1.53?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@1.1.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@2.0.47
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@2.0.47?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@2.0.47?classifier=sources-commercial
@@ -126,6 +127,7 @@
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@2.0.73?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@2.0.74?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@2.0.75?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@2.0.76?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@3.0.37
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@3.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@3.0.37?classifier=sources-commercial
@@ -226,6 +228,7 @@
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@3.0.69?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@3.0.70?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@3.0.71?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@3.0.72?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@4.0.19
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@4.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@4.0.19?classifier=sources-commercial
@@ -377,6 +380,7 @@
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@4.0.70?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@4.0.71?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@4.0.72?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@4.0.73?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@5.0.0
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@5.0.0?classifier=sources-commercial
@@ -607,6 +611,8 @@
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.1.9
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.1.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.3?classifier=sources
@@ -615,3 +621,4 @@
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.opensaml.integration@6.2.9?classifier=sources

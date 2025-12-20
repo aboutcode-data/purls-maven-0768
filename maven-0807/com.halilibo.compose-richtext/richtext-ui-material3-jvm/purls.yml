@@ -4,3 +4,4 @@
 - pkg:maven/com.halilibo.compose-richtext/richtext-ui-material3-jvm@0.16.0?classifier=sources
 - pkg:maven/com.halilibo.compose-richtext/richtext-ui-material3-jvm@0.17.0?classifier=sources
 - pkg:maven/com.halilibo.compose-richtext/richtext-ui-material3-jvm@0.20.0?classifier=sources
+- pkg:maven/com.halilibo.compose-richtext/richtext-ui-material3-jvm@1.0.0-alpha01?classifier=sources

@@ -179,6 +179,7 @@
 - pkg:maven/com.pulumi/spotinst@3.67.0-alpha.1706306934%2B108a110a?classifier=sources
 - pkg:maven/com.pulumi/spotinst@3.67.0?classifier=sources
 - pkg:maven/com.pulumi/spotinst@3.67.1?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.67.2?classifier=sources
 - pkg:maven/com.pulumi/spotinst@3.68.0-alpha.1706310862%2B8c942ebd?classifier=sources
 - pkg:maven/com.pulumi/spotinst@3.68.0-alpha.1706749868%2Bea31adbf?classifier=sources
 - pkg:maven/com.pulumi/spotinst@3.68.0-alpha.1706781586%2B4bf257bf?classifier=sources
@@ -187,3 +188,18 @@
 - pkg:maven/com.pulumi/spotinst@3.68.0-alpha.1707288639%2B6a38d076?classifier=sources
 - pkg:maven/com.pulumi/spotinst@3.68.0-alpha.1707499140%2B2d20fef4?classifier=sources
 - pkg:maven/com.pulumi/spotinst@3.68.0-alpha.1707547832%2Bf5d2895a?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.68.0-alpha.1707856372%2B98c107d1?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.68.0-alpha.1707893705%2B3f03c8de?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.68.0-alpha.1707980808%2B97258d62?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.68.0-alpha.1708066414%2B7e6d6881?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.68.0-alpha.1708333296%2Bd4b2f6a5?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.68.0?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.69.0-alpha.1708498396%2B491e8de0?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.69.0-alpha.1708671566%2Bd0358e33?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.69.0-alpha.1708728415%2B9a7d236b?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.69.0-alpha.1709017409%2B57841406?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.69.0-alpha.1709045065%2B58ac1f91?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.69.0-alpha.1709103780%2B68fd4bdf?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.69.0-alpha.1709217749%2B600069f0?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.69.0-alpha.1709368063%2Bbdfc8ed4?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.69.0-alpha.1710160614%2B64fdca21?classifier=sources

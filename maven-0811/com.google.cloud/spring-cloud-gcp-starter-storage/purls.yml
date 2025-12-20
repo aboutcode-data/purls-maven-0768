@@ -45,6 +45,8 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@3.7.5
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@3.7.6
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@3.7.7
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@3.7.8
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@3.7.9
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@4.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@4.1.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@4.1.1
@@ -69,6 +71,11 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@4.9.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@4.9.1
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@4.9.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@4.9.3
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@4.9.4
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@5.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@5.0.1
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@5.0.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@5.0.3
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@5.0.4
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-storage@5.1.0

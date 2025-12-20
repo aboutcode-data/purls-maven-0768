@@ -10,3 +10,5 @@
 - pkg:maven/fish.focus.uvms.asset/asset-client@6.8.27?classifier=sources
 - pkg:maven/fish.focus.uvms.asset/asset-client@6.8.29
 - pkg:maven/fish.focus.uvms.asset/asset-client@6.8.29?classifier=sources
+- pkg:maven/fish.focus.uvms.asset/asset-client@6.8.30
+- pkg:maven/fish.focus.uvms.asset/asset-client@6.8.30?classifier=sources

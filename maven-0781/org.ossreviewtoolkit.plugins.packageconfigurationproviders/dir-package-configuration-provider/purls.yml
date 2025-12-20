@@ -11,6 +11,10 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@15.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@15.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@16.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@17.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@17.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@17.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@18.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@4.0.0?classifier=sources

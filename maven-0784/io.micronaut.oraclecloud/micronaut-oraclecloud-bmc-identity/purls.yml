@@ -24,3 +24,8 @@
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-identity@3.4.0?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-identity@3.5.0?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-identity@3.5.1?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-identity@3.6.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-identity@3.6.1?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-identity@3.6.2?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-identity@3.7.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-identity@3.7.1?classifier=sources

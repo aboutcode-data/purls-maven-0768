@@ -74,3 +74,4 @@
 - pkg:maven/org.apache.activemq/activemq-parent@5.9.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.activemq/activemq-parent@6.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.activemq/activemq-parent@6.0.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.activemq/activemq-parent@6.1.0?classifier=source-release&type=zip

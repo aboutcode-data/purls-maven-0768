@@ -8,6 +8,7 @@
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.http@11.7.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.http@11.8.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.http@12.0.0?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.http@12.1.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.http@6.10.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.http@6.10.1?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.http@6.11.0?classifier=sources

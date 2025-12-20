@@ -24,6 +24,10 @@
 - pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.23.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.24.0
 - pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.24.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.25.0
+- pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.25.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.26.0
+- pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.26.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.3.0
 - pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.3.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.4.0

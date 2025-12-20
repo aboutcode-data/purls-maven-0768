@@ -18,3 +18,5 @@
 - pkg:maven/cool.scx/live-room-watcher@0.1.8?classifier=sources
 - pkg:maven/cool.scx/live-room-watcher@0.1.9
 - pkg:maven/cool.scx/live-room-watcher@0.1.9?classifier=sources
+- pkg:maven/cool.scx/live-room-watcher@0.2.0
+- pkg:maven/cool.scx/live-room-watcher@0.2.0?classifier=sources

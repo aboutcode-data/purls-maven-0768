@@ -299,7 +299,17 @@
 - pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.14.6%2B28-b7819363?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.14.6%2B30-6c5c2267
 - pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.14.6%2B30-6c5c2267?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.14.6%2B42-61164d80
+- pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.14.6%2B42-61164d80?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.14.6%2B53-d2a77aff
+- pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.14.6%2B53-d2a77aff?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.14.6%2B58-e51f9d48
+- pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.14.6%2B58-e51f9d48?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.14.6%2B60-4407376d
+- pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.14.6%2B60-4407376d?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.14.6?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.14.7
+- pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.14.7?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.6.0%2B32-9c0fbbf8
 - pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.6.0%2B32-9c0fbbf8?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-tail-sampling_2.13@0.6.0%2B34-3596e503

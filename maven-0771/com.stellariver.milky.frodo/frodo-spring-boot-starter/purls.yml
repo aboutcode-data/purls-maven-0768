@@ -1,0 +1,2 @@
+- pkg:maven/com.stellariver.milky.frodo/frodo-spring-boot-starter@0.2.5
+- pkg:maven/com.stellariver.milky.frodo/frodo-spring-boot-starter@0.2.5?classifier=sources

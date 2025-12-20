@@ -38,3 +38,5 @@
 - pkg:maven/de.ahus1.keycloak.dropwizard/keycloak-dropwizard@1.2.0?classifier=sources
 - pkg:maven/de.ahus1.keycloak.dropwizard/keycloak-dropwizard@2.0.0
 - pkg:maven/de.ahus1.keycloak.dropwizard/keycloak-dropwizard@2.0.0?classifier=sources
+- pkg:maven/de.ahus1.keycloak.dropwizard/keycloak-dropwizard@3.0.0
+- pkg:maven/de.ahus1.keycloak.dropwizard/keycloak-dropwizard@3.0.0?classifier=sources

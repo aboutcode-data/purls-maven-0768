@@ -4,9 +4,12 @@
 - pkg:maven/io.github.bayescom/advance-csj@4.3.0_5416_core?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@4.3.0_5516_core?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@4.3.0_5708_core?type=aar
+- pkg:maven/io.github.bayescom/advance-csj@4.3.0_5914_core?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@4.3.0_rr1_5416_core?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@4.3.1_5704?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@4.3.1_5704_core?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@4.3.2_5906?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@4.3.2_5906_1?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@4.3.2_5906_core?type=aar
+- pkg:maven/io.github.bayescom/advance-csj@4.3.3_5906?type=aar
+- pkg:maven/io.github.bayescom/advance-csj@4.3.3_5906_core?type=aar

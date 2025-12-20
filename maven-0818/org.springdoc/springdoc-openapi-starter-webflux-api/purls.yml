@@ -32,3 +32,5 @@
 - pkg:maven/org.springdoc/springdoc-openapi-starter-webflux-api@2.2.0?classifier=sources
 - pkg:maven/org.springdoc/springdoc-openapi-starter-webflux-api@2.3.0
 - pkg:maven/org.springdoc/springdoc-openapi-starter-webflux-api@2.3.0?classifier=sources
+- pkg:maven/org.springdoc/springdoc-openapi-starter-webflux-api@2.4.0
+- pkg:maven/org.springdoc/springdoc-openapi-starter-webflux-api@2.4.0?classifier=sources

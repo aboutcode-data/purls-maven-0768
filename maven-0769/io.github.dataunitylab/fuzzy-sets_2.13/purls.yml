@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dataunitylab/fuzzy-sets_2.13@0.4.0
+- pkg:maven/io.github.dataunitylab/fuzzy-sets_2.13@0.4.0?classifier=sources
