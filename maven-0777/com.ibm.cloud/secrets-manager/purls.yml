@@ -58,3 +58,5 @@
 - pkg:maven/com.ibm.cloud/secrets-manager@2.0.4?classifier=sources
 - pkg:maven/com.ibm.cloud/secrets-manager@2.0.5
 - pkg:maven/com.ibm.cloud/secrets-manager@2.0.5?classifier=sources
+- pkg:maven/com.ibm.cloud/secrets-manager@2.0.9
+- pkg:maven/com.ibm.cloud/secrets-manager@2.0.9?classifier=sources

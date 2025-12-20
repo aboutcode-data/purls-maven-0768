@@ -8,3 +8,5 @@
 - pkg:maven/io.avaje/avaje-prism-core@1.15?classifier=sources
 - pkg:maven/io.avaje/avaje-prism-core@1.16
 - pkg:maven/io.avaje/avaje-prism-core@1.16?classifier=sources
+- pkg:maven/io.avaje/avaje-prism-core@1.17
+- pkg:maven/io.avaje/avaje-prism-core@1.17?classifier=sources

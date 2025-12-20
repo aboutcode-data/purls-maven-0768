@@ -4,4 +4,14 @@
 - pkg:maven/dev.inmo/micro_utils.fsm.repos.common-linuxarm64@0.20.13?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.fsm.repos.common-linuxarm64@0.20.14?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.fsm.repos.common-linuxarm64@0.20.15?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.repos.common-linuxarm64@0.20.16?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.repos.common-linuxarm64@0.20.17?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.repos.common-linuxarm64@0.20.18?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.repos.common-linuxarm64@0.20.19?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.repos.common-linuxarm64@0.20.20?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.repos.common-linuxarm64@0.20.21?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.repos.common-linuxarm64@0.20.22?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.repos.common-linuxarm64@0.20.23?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.repos.common-linuxarm64@0.20.24?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.repos.common-linuxarm64@0.20.25?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.fsm.repos.common-linuxarm64@0.20.9?classifier=sources

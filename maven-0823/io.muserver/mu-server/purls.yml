@@ -502,3 +502,9 @@
 - pkg:maven/io.muserver/mu-server@0.9.5?classifier=sources
 - pkg:maven/io.muserver/mu-server@1.0.0
 - pkg:maven/io.muserver/mu-server@1.0.0?classifier=sources
+- pkg:maven/io.muserver/mu-server@1.0.1
+- pkg:maven/io.muserver/mu-server@1.0.1?classifier=sources
+- pkg:maven/io.muserver/mu-server@1.0.2
+- pkg:maven/io.muserver/mu-server@1.0.2?classifier=sources
+- pkg:maven/io.muserver/mu-server@1.0.4
+- pkg:maven/io.muserver/mu-server@1.0.4?classifier=sources

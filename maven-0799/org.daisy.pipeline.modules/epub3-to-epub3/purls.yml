@@ -28,3 +28,7 @@
 - pkg:maven/org.daisy.pipeline.modules/epub3-to-epub3@4.0.3?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/epub3-to-epub3@4.0.4
 - pkg:maven/org.daisy.pipeline.modules/epub3-to-epub3@4.0.4?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/epub3-to-epub3@4.0.5
+- pkg:maven/org.daisy.pipeline.modules/epub3-to-epub3@4.0.5?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/epub3-to-epub3@4.1.0
+- pkg:maven/org.daisy.pipeline.modules/epub3-to-epub3@4.1.0?classifier=sources

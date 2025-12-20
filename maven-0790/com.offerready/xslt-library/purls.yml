@@ -42,3 +42,5 @@
 - pkg:maven/com.offerready/xslt-library@8.2.0?classifier=sources
 - pkg:maven/com.offerready/xslt-library@8.3.0
 - pkg:maven/com.offerready/xslt-library@8.3.0?classifier=sources
+- pkg:maven/com.offerready/xslt-library@8.3.1
+- pkg:maven/com.offerready/xslt-library@8.3.1?classifier=sources

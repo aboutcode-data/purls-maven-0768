@@ -34,3 +34,5 @@
 - pkg:maven/com.facebook.presto/presto-node-ttl-fetchers@0.282?classifier=sources
 - pkg:maven/com.facebook.presto/presto-node-ttl-fetchers@0.283?classifier=sources
 - pkg:maven/com.facebook.presto/presto-node-ttl-fetchers@0.284?classifier=sources
+- pkg:maven/com.facebook.presto/presto-node-ttl-fetchers@0.285.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-node-ttl-fetchers@0.285?classifier=sources

@@ -124,6 +124,8 @@
 - pkg:maven/io.debezium/debezium-server-dist@1.9.6.Final?type=zip
 - pkg:maven/io.debezium/debezium-server-dist@1.9.7.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-server-dist@1.9.7.Final?type=zip
+- pkg:maven/io.debezium/debezium-server-dist@1.9.8.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-server-dist@1.9.8.Final?type=zip
 - pkg:maven/io.debezium/debezium-server-dist@2.0.0.Alpha1?classifier=sources
 - pkg:maven/io.debezium/debezium-server-dist@2.0.0.Alpha1?type=zip
 - pkg:maven/io.debezium/debezium-server-dist@2.0.0.Alpha2?classifier=sources
@@ -186,6 +188,8 @@
 - pkg:maven/io.debezium/debezium-server-dist@2.3.3.Final?type=zip
 - pkg:maven/io.debezium/debezium-server-dist@2.3.4.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-server-dist@2.3.4.Final?type=zip
+- pkg:maven/io.debezium/debezium-server-dist@2.3.5.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-server-dist@2.3.5.Final?type=zip
 - pkg:maven/io.debezium/debezium-server-dist@2.4.0.Alpha1?classifier=sources
 - pkg:maven/io.debezium/debezium-server-dist@2.4.0.Alpha1?type=zip
 - pkg:maven/io.debezium/debezium-server-dist@2.4.0.Alpha2?classifier=sources
@@ -200,7 +204,15 @@
 - pkg:maven/io.debezium/debezium-server-dist@2.4.0.Final?type=zip
 - pkg:maven/io.debezium/debezium-server-dist@2.4.1.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-server-dist@2.4.1.Final?type=zip
+- pkg:maven/io.debezium/debezium-server-dist@2.4.2.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-server-dist@2.4.2.Final?type=zip
 - pkg:maven/io.debezium/debezium-server-dist@2.5.0.Alpha1?classifier=sources
 - pkg:maven/io.debezium/debezium-server-dist@2.5.0.Alpha1?type=zip
 - pkg:maven/io.debezium/debezium-server-dist@2.5.0.Alpha2?classifier=sources
 - pkg:maven/io.debezium/debezium-server-dist@2.5.0.Alpha2?type=zip
+- pkg:maven/io.debezium/debezium-server-dist@2.5.0.Beta1?classifier=sources
+- pkg:maven/io.debezium/debezium-server-dist@2.5.0.Beta1?type=zip
+- pkg:maven/io.debezium/debezium-server-dist@2.5.0.CR1?classifier=sources
+- pkg:maven/io.debezium/debezium-server-dist@2.5.0.CR1?type=zip
+- pkg:maven/io.debezium/debezium-server-dist@2.5.0.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-server-dist@2.5.0.Final?type=zip

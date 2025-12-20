@@ -3,3 +3,4 @@
 - pkg:maven/com.newrelic.agent.java.security/newrelic-security-agent@1.0.4-public-preview?classifier=sources
 - pkg:maven/com.newrelic.agent.java.security/newrelic-security-agent@1.0.5-public-preview?classifier=sources
 - pkg:maven/com.newrelic.agent.java.security/newrelic-security-agent@1.0.6-public-preview?classifier=sources
+- pkg:maven/com.newrelic.agent.java.security/newrelic-security-agent@1.0.7-public-preview?classifier=sources

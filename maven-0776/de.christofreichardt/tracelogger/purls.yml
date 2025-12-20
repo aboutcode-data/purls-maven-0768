@@ -1,3 +1,5 @@
+- pkg:maven/de.christofreichardt/tracelogger@1.10.0
+- pkg:maven/de.christofreichardt/tracelogger@1.10.0?classifier=sources
 - pkg:maven/de.christofreichardt/tracelogger@1.7.0
 - pkg:maven/de.christofreichardt/tracelogger@1.7.0-rc2
 - pkg:maven/de.christofreichardt/tracelogger@1.7.0-rc2?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/com.ownid.android-sdk/gigya@1.0.0?classifier=sources
 - pkg:maven/com.ownid.android-sdk/gigya@2.0.0?classifier=sources
 - pkg:maven/com.ownid.android-sdk/gigya@2.1.0?classifier=sources
+- pkg:maven/com.ownid.android-sdk/gigya@2.2.1?classifier=sources

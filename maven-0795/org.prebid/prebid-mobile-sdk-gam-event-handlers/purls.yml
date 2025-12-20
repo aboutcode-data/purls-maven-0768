@@ -40,3 +40,7 @@
 - pkg:maven/org.prebid/prebid-mobile-sdk-gam-event-handlers@2.1.7?classifier=sources
 - pkg:maven/org.prebid/prebid-mobile-sdk-gam-event-handlers@2.1.8
 - pkg:maven/org.prebid/prebid-mobile-sdk-gam-event-handlers@2.1.8?classifier=sources
+- pkg:maven/org.prebid/prebid-mobile-sdk-gam-event-handlers@2.1.9
+- pkg:maven/org.prebid/prebid-mobile-sdk-gam-event-handlers@2.1.9?classifier=sources
+- pkg:maven/org.prebid/prebid-mobile-sdk-gam-event-handlers@2.2.0
+- pkg:maven/org.prebid/prebid-mobile-sdk-gam-event-handlers@2.2.0?classifier=sources

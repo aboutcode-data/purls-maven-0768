@@ -10,3 +10,7 @@
 - pkg:maven/com.intuit.player/j2v8-android@0.4.3?classifier=sources
 - pkg:maven/com.intuit.player/j2v8-android@0.4.4
 - pkg:maven/com.intuit.player/j2v8-android@0.4.4?classifier=sources
+- pkg:maven/com.intuit.player/j2v8-android@0.5.0
+- pkg:maven/com.intuit.player/j2v8-android@0.5.0?classifier=sources
+- pkg:maven/com.intuit.player/j2v8-android@0.5.1
+- pkg:maven/com.intuit.player/j2v8-android@0.5.1?classifier=sources

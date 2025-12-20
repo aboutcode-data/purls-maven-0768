@@ -3,5 +3,6 @@
 - pkg:maven/io.github.adempiere/extend@3.9.4-rc-1.0.2?classifier=sources
 - pkg:maven/io.github.adempiere/extend@3.9.4-rc-1.0.4?classifier=sources
 - pkg:maven/io.github.adempiere/extend@3.9.4-rc-1.0.6?classifier=sources
+- pkg:maven/io.github.adempiere/extend@3.9.4.001?classifier=sources
 - pkg:maven/io.github.adempiere/extend@3.9.4?classifier=sources
 - pkg:maven/io.github.adempiere/extend@v3.9.4.001?classifier=sources

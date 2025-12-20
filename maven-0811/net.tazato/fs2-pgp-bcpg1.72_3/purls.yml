@@ -1,0 +1,2 @@
+- pkg:maven/net.tazato/fs2-pgp-bcpg1.72_3@0.5.0
+- pkg:maven/net.tazato/fs2-pgp-bcpg1.72_3@0.5.0?classifier=sources

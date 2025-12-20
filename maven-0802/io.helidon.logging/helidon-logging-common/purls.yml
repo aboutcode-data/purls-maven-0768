@@ -44,6 +44,8 @@
 - pkg:maven/io.helidon.logging/helidon-logging-common@2.6.3?classifier=sources
 - pkg:maven/io.helidon.logging/helidon-logging-common@2.6.4
 - pkg:maven/io.helidon.logging/helidon-logging-common@2.6.4?classifier=sources
+- pkg:maven/io.helidon.logging/helidon-logging-common@2.6.5
+- pkg:maven/io.helidon.logging/helidon-logging-common@2.6.5?classifier=sources
 - pkg:maven/io.helidon.logging/helidon-logging-common@3.0.0
 - pkg:maven/io.helidon.logging/helidon-logging-common@3.0.0-M1
 - pkg:maven/io.helidon.logging/helidon-logging-common@3.0.0-M1?classifier=sources
@@ -74,6 +76,8 @@
 - pkg:maven/io.helidon.logging/helidon-logging-common@3.2.3?classifier=sources
 - pkg:maven/io.helidon.logging/helidon-logging-common@3.2.4
 - pkg:maven/io.helidon.logging/helidon-logging-common@3.2.4?classifier=sources
+- pkg:maven/io.helidon.logging/helidon-logging-common@3.2.5
+- pkg:maven/io.helidon.logging/helidon-logging-common@3.2.5?classifier=sources
 - pkg:maven/io.helidon.logging/helidon-logging-common@4.0.0
 - pkg:maven/io.helidon.logging/helidon-logging-common@4.0.0-ALPHA1
 - pkg:maven/io.helidon.logging/helidon-logging-common@4.0.0-ALPHA1?classifier=sources
@@ -98,3 +102,5 @@
 - pkg:maven/io.helidon.logging/helidon-logging-common@4.0.0?classifier=sources
 - pkg:maven/io.helidon.logging/helidon-logging-common@4.0.1
 - pkg:maven/io.helidon.logging/helidon-logging-common@4.0.1?classifier=sources
+- pkg:maven/io.helidon.logging/helidon-logging-common@4.0.2
+- pkg:maven/io.helidon.logging/helidon-logging-common@4.0.2?classifier=sources

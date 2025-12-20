@@ -1,0 +1,2 @@
+- pkg:maven/com.github.auties00/cobalt@0.0.1
+- pkg:maven/com.github.auties00/cobalt@0.0.1?classifier=sources

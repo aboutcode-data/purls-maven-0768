@@ -34,6 +34,12 @@
 - pkg:maven/com.arcadedb/arcadedb-server@23.1.2?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-server@23.10.1
 - pkg:maven/com.arcadedb/arcadedb-server@23.10.1?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-server@23.11.1
+- pkg:maven/com.arcadedb/arcadedb-server@23.11.1?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-server@23.12.1
+- pkg:maven/com.arcadedb/arcadedb-server@23.12.1?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-server@23.12.2
+- pkg:maven/com.arcadedb/arcadedb-server@23.12.2?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-server@23.2.1
 - pkg:maven/com.arcadedb/arcadedb-server@23.2.1?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-server@23.3.1

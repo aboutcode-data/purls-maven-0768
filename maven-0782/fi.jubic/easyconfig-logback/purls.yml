@@ -1,3 +1,5 @@
+- pkg:maven/fi.jubic/easyconfig-logback@0.10.0
+- pkg:maven/fi.jubic/easyconfig-logback@0.10.0?classifier=sources
 - pkg:maven/fi.jubic/easyconfig-logback@0.8.0
 - pkg:maven/fi.jubic/easyconfig-logback@0.8.0?classifier=sources
 - pkg:maven/fi.jubic/easyconfig-logback@0.8.1

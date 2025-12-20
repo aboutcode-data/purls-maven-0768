@@ -1,1 +1,2 @@
 - pkg:maven/org.orbisgis.data/jdbc@2.0.0
+- pkg:maven/org.orbisgis.data/jdbc@2.1.0

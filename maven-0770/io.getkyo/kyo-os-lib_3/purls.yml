@@ -1,0 +1,2 @@
+- pkg:maven/io.getkyo/kyo-os-lib_3@0.8.2
+- pkg:maven/io.getkyo/kyo-os-lib_3@0.8.2?classifier=sources

@@ -50,6 +50,8 @@
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@2.1.5?classifier=sources
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@2.1.6
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@2.1.6?classifier=sources
+- pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@2.1.7
+- pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@2.1.7?classifier=sources
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@3.1.0
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@3.1.0?classifier=sources
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@3.1.1
@@ -64,6 +66,8 @@
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@3.1.5?classifier=sources
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@3.1.6
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@3.1.6?classifier=sources
+- pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@3.1.7
+- pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@3.1.7?classifier=sources
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@4.0.0
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@4.0.0.alpha2
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@4.0.0.alpha2?classifier=sources
@@ -84,3 +88,5 @@
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@4.0.2?classifier=sources
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@4.0.4
 - pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@4.0.4?classifier=sources
+- pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@4.0.5
+- pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-client@4.0.5?classifier=sources

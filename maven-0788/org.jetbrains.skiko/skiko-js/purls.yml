@@ -1,3 +1,4 @@
 - pkg:maven/org.jetbrains.skiko/skiko-js@0.7.85.4?classifier=sources
 - pkg:maven/org.jetbrains.skiko/skiko-js@0.7.85?classifier=sources
 - pkg:maven/org.jetbrains.skiko/skiko-js@0.7.89.1?classifier=sources
+- pkg:maven/org.jetbrains.skiko/skiko-js@0.7.90?classifier=sources

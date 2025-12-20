@@ -1,0 +1,2 @@
+- pkg:maven/org.zoomba-lang/medeia-validator-core@1.5
+- pkg:maven/org.zoomba-lang/medeia-validator-core@1.5?classifier=sources

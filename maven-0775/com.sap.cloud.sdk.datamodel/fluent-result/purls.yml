@@ -202,6 +202,8 @@
 - pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.26.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.27.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.27.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.28.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.28.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.3.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.3.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.4.0
@@ -216,3 +218,7 @@
 - pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.8.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.9.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@4.9.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@5.0.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@5.0.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@5.1.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/fluent-result@5.1.0?classifier=sources

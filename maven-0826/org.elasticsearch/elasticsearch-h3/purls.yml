@@ -16,6 +16,10 @@
 - pkg:maven/org.elasticsearch/elasticsearch-h3@8.11.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-h3@8.11.3
 - pkg:maven/org.elasticsearch/elasticsearch-h3@8.11.3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-h3@8.11.4
+- pkg:maven/org.elasticsearch/elasticsearch-h3@8.11.4?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-h3@8.12.0
+- pkg:maven/org.elasticsearch/elasticsearch-h3@8.12.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-h3@8.6.0
 - pkg:maven/org.elasticsearch/elasticsearch-h3@8.6.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-h3@8.6.1

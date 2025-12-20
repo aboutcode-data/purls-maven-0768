@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-persistence-jpa@3.0.6
+- pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-persistence-jpa@3.0.6?classifier=sources

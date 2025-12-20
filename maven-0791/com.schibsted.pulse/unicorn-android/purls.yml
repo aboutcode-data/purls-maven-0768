@@ -1,0 +1,2 @@
+- pkg:maven/com.schibsted.pulse/unicorn-android@1.1.3?classifier=sources
+- pkg:maven/com.schibsted.pulse/unicorn-android@1.1.5?classifier=sources

@@ -10,6 +10,9 @@
 - pkg:maven/com.ritense.valtimo/document-generation@10.5.3.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/document-generation@10.6.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/document-generation@10.7.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/document-generation@10.8.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/document-generation@11.0.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/document-generation@11.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/document-generation@9.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/document-generation@9.10.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/document-generation@9.11.0.RELEASE?classifier=sources

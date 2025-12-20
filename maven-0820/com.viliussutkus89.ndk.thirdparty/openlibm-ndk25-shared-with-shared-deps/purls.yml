@@ -1,0 +1,2 @@
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/openlibm-ndk25-shared-with-shared-deps@0.8.1-beta-2?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/openlibm-ndk25-shared-with-shared-deps@0.8.1-beta-3?classifier=sources

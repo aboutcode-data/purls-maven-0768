@@ -323,4 +323,8 @@
 - pkg:maven/io.github.valdemargr/gql-parser_2.13@0.3.3-71-516a95d?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-parser_2.13@0.3.3-74-83a9a59
 - pkg:maven/io.github.valdemargr/gql-parser_2.13@0.3.3-74-83a9a59?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-parser_2.13@0.3.3-76-1844c45
+- pkg:maven/io.github.valdemargr/gql-parser_2.13@0.3.3-76-1844c45?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-parser_2.13@0.3.3-77-3eefea4
+- pkg:maven/io.github.valdemargr/gql-parser_2.13@0.3.3-77-3eefea4?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-parser_2.13@0.3.3?classifier=sources

@@ -195,6 +195,8 @@
 - pkg:maven/org.joinfaces/joinfaces-gradle-plugin@5.1.4?classifier=sources
 - pkg:maven/org.joinfaces/joinfaces-gradle-plugin@5.1.5?classifier=sources
 - pkg:maven/org.joinfaces/joinfaces-gradle-plugin@5.1.6?classifier=sources
+- pkg:maven/org.joinfaces/joinfaces-gradle-plugin@5.1.7?classifier=sources
+- pkg:maven/org.joinfaces/joinfaces-gradle-plugin@5.1.8?classifier=sources
 - pkg:maven/org.joinfaces/joinfaces-gradle-plugin@5.2.0-m1?classifier=sources
 - pkg:maven/org.joinfaces/joinfaces-gradle-plugin@5.2.0-m2?classifier=sources
 - pkg:maven/org.joinfaces/joinfaces-gradle-plugin@5.2.0-m3?classifier=sources

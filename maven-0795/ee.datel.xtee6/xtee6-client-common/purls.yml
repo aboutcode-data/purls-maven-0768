@@ -4,5 +4,11 @@
 - pkg:maven/ee.datel.xtee6/xtee6-client-common@2.2.0?classifier=sources
 - pkg:maven/ee.datel.xtee6/xtee6-client-common@2.3.0
 - pkg:maven/ee.datel.xtee6/xtee6-client-common@2.3.0?classifier=sources
+- pkg:maven/ee.datel.xtee6/xtee6-client-common@2.4.0
+- pkg:maven/ee.datel.xtee6/xtee6-client-common@2.4.0?classifier=sources
 - pkg:maven/ee.datel.xtee6/xtee6-client-common@4.0.0
 - pkg:maven/ee.datel.xtee6/xtee6-client-common@4.0.0?classifier=sources
+- pkg:maven/ee.datel.xtee6/xtee6-client-common@4.1.0
+- pkg:maven/ee.datel.xtee6/xtee6-client-common@4.1.0?classifier=sources
+- pkg:maven/ee.datel.xtee6/xtee6-client-common@4.1.1
+- pkg:maven/ee.datel.xtee6/xtee6-client-common@4.1.1?classifier=sources

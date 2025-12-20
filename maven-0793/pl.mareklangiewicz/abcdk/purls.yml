@@ -6,3 +6,4 @@
 - pkg:maven/pl.mareklangiewicz/abcdk@0.0.14?classifier=sources
 - pkg:maven/pl.mareklangiewicz/abcdk@0.0.16?classifier=sources
 - pkg:maven/pl.mareklangiewicz/abcdk@0.0.17?classifier=sources
+- pkg:maven/pl.mareklangiewicz/abcdk@0.0.18?classifier=sources

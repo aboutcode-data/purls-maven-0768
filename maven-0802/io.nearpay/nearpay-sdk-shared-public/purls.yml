@@ -31,3 +31,5 @@
 - pkg:maven/io.nearpay/nearpay-sdk-shared-public@2.1.78?classifier=sources
 - pkg:maven/io.nearpay/nearpay-sdk-shared-public@2.1.79?classifier=sources
 - pkg:maven/io.nearpay/nearpay-sdk-shared-public@2.1.80?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk-shared-public@2.1.81?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk-shared-public@2.1.82?classifier=sources

@@ -138,6 +138,8 @@
 - pkg:maven/com.sap.cds/cds-adapter-rest@1.34.6?classifier=sources
 - pkg:maven/com.sap.cds/cds-adapter-rest@1.34.7
 - pkg:maven/com.sap.cds/cds-adapter-rest@1.34.7?classifier=sources
+- pkg:maven/com.sap.cds/cds-adapter-rest@1.34.8
+- pkg:maven/com.sap.cds/cds-adapter-rest@1.34.8?classifier=sources
 - pkg:maven/com.sap.cds/cds-adapter-rest@1.4.0
 - pkg:maven/com.sap.cds/cds-adapter-rest@1.4.0?classifier=sources
 - pkg:maven/com.sap.cds/cds-adapter-rest@1.5.1

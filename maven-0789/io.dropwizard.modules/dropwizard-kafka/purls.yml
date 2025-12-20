@@ -36,3 +36,5 @@
 - pkg:maven/io.dropwizard.modules/dropwizard-kafka@3.0.0?classifier=sources
 - pkg:maven/io.dropwizard.modules/dropwizard-kafka@4.0.0
 - pkg:maven/io.dropwizard.modules/dropwizard-kafka@4.0.0?classifier=sources
+- pkg:maven/io.dropwizard.modules/dropwizard-kafka@4.0.1-rc.1
+- pkg:maven/io.dropwizard.modules/dropwizard-kafka@4.0.1-rc.1?classifier=sources

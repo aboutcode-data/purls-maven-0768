@@ -2,3 +2,5 @@
 - pkg:maven/com.dwolla/pgp-testkit-bcpg1.74_2.12@0.4.3?classifier=sources
 - pkg:maven/com.dwolla/pgp-testkit-bcpg1.74_2.12@0.4.4
 - pkg:maven/com.dwolla/pgp-testkit-bcpg1.74_2.12@0.4.4?classifier=sources
+- pkg:maven/com.dwolla/pgp-testkit-bcpg1.74_2.12@0.4.5
+- pkg:maven/com.dwolla/pgp-testkit-bcpg1.74_2.12@0.4.5?classifier=sources

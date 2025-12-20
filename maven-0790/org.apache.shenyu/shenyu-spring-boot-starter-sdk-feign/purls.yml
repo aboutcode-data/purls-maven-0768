@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-sdk-feign@2.6.1
+- pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-sdk-feign@2.6.1?classifier=sources

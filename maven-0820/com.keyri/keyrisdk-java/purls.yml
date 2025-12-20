@@ -32,3 +32,5 @@
 - pkg:maven/com.keyri/keyrisdk-java@4.0.0?classifier=sources
 - pkg:maven/com.keyri/keyrisdk-java@4.0.1?classifier=sources
 - pkg:maven/com.keyri/keyrisdk-java@4.0.2?classifier=sources
+- pkg:maven/com.keyri/keyrisdk-java@4.1.0?classifier=sources
+- pkg:maven/com.keyri/keyrisdk-java@4.1.1?classifier=sources

@@ -42,3 +42,4 @@
 - pkg:maven/org.apache.tomee/tomee-project@9.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.tomee/tomee-project@9.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.tomee/tomee-project@9.1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.tomee/tomee-project@9.1.2?classifier=source-release&type=zip

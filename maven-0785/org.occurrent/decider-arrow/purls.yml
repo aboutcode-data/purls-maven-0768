@@ -1,2 +1,4 @@
 - pkg:maven/org.occurrent/decider-arrow@0.16.11
 - pkg:maven/org.occurrent/decider-arrow@0.16.11?classifier=sources
+- pkg:maven/org.occurrent/decider-arrow@0.17.0
+- pkg:maven/org.occurrent/decider-arrow@0.17.0?classifier=sources

@@ -31,3 +31,4 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@3.0.5.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@3.0.6.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@3.0.7.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-tests@3.0.8.Final

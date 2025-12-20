@@ -15,6 +15,8 @@
 - pkg:maven/io.github.kirill5k/mongo4cats-zio_2.12@0.6.15?classifier=sources
 - pkg:maven/io.github.kirill5k/mongo4cats-zio_2.12@0.6.16
 - pkg:maven/io.github.kirill5k/mongo4cats-zio_2.12@0.6.16?classifier=sources
+- pkg:maven/io.github.kirill5k/mongo4cats-zio_2.12@0.6.17
+- pkg:maven/io.github.kirill5k/mongo4cats-zio_2.12@0.6.17?classifier=sources
 - pkg:maven/io.github.kirill5k/mongo4cats-zio_2.12@0.6.1?classifier=sources
 - pkg:maven/io.github.kirill5k/mongo4cats-zio_2.12@0.6.2
 - pkg:maven/io.github.kirill5k/mongo4cats-zio_2.12@0.6.2?classifier=sources

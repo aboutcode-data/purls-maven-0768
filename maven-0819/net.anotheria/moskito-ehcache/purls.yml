@@ -102,3 +102,7 @@
 - pkg:maven/net.anotheria/moskito-ehcache@3.2.6?classifier=sources
 - pkg:maven/net.anotheria/moskito-ehcache@3.2.7
 - pkg:maven/net.anotheria/moskito-ehcache@3.2.7?classifier=sources
+- pkg:maven/net.anotheria/moskito-ehcache@3.2.8
+- pkg:maven/net.anotheria/moskito-ehcache@3.2.8?classifier=sources
+- pkg:maven/net.anotheria/moskito-ehcache@4.0.0
+- pkg:maven/net.anotheria/moskito-ehcache@4.0.0?classifier=sources

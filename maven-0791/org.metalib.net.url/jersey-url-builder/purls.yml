@@ -1,0 +1,2 @@
+- pkg:maven/org.metalib.net.url/jersey-url-builder@0.0.1
+- pkg:maven/org.metalib.net.url/jersey-url-builder@0.0.1?classifier=sources

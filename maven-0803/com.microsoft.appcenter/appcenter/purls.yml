@@ -85,3 +85,4 @@
 - pkg:maven/com.microsoft.appcenter/appcenter@5.0.1?classifier=sources
 - pkg:maven/com.microsoft.appcenter/appcenter@5.0.2?classifier=sources
 - pkg:maven/com.microsoft.appcenter/appcenter@5.0.3?classifier=sources
+- pkg:maven/com.microsoft.appcenter/appcenter@5.0.4?classifier=sources

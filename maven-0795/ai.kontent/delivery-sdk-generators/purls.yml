@@ -1,1 +1,2 @@
 - pkg:maven/ai.kontent/delivery-sdk-generators@5.0.0?classifier=sources
+- pkg:maven/ai.kontent/delivery-sdk-generators@5.0.5?classifier=sources

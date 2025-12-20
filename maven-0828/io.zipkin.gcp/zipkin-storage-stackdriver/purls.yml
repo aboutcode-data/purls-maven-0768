@@ -98,3 +98,15 @@
 - pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@1.0.3?classifier=sources
 - pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@1.0.4
 - pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@1.0.4?classifier=sources
+- pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@1.1.0
+- pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@1.1.0?classifier=sources
+- pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@1.1.1
+- pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@1.1.1?classifier=sources
+- pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@2.0.0
+- pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@2.0.0?classifier=sources
+- pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@2.1.0
+- pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@2.1.0?classifier=sources
+- pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@2.1.1
+- pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@2.1.1?classifier=sources
+- pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@2.2.0
+- pkg:maven/io.zipkin.gcp/zipkin-storage-stackdriver@2.2.0?classifier=sources

@@ -32,6 +32,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.scripting.executor@3.0.14
 - pkg:maven/com.liferay/com.liferay.portal.scripting.executor@3.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scripting.executor@3.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.scripting.executor@3.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scripting.executor@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scripting.executor@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scripting.executor@3.0.2
@@ -167,6 +168,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.scripting.executor@7.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scripting.executor@7.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scripting.executor@7.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scripting.executor@7.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scripting.executor@7.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scripting.executor@7.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scripting.executor@7.0.2

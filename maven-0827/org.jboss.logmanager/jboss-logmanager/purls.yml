@@ -232,3 +232,9 @@
 - pkg:maven/org.jboss.logmanager/jboss-logmanager@3.0.2.Final
 - pkg:maven/org.jboss.logmanager/jboss-logmanager@3.0.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.logmanager/jboss-logmanager@3.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.logmanager/jboss-logmanager@3.0.3.Final
+- pkg:maven/org.jboss.logmanager/jboss-logmanager@3.0.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.logmanager/jboss-logmanager@3.0.3.Final?classifier=sources
+- pkg:maven/org.jboss.logmanager/jboss-logmanager@3.0.4.Final
+- pkg:maven/org.jboss.logmanager/jboss-logmanager@3.0.4.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.logmanager/jboss-logmanager@3.0.4.Final?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-pulsar@2.50.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-pulsar@2.51.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-pulsar@2.52.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-pulsar@2.53.0?classifier=sources

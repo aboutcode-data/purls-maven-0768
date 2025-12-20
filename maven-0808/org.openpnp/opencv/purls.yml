@@ -48,3 +48,5 @@
 - pkg:maven/org.openpnp/opencv@4.7.0-0?classifier=sources
 - pkg:maven/org.openpnp/opencv@4.8.1-0
 - pkg:maven/org.openpnp/opencv@4.8.1-0?classifier=sources
+- pkg:maven/org.openpnp/opencv@4.9.0-0
+- pkg:maven/org.openpnp/opencv@4.9.0-0?classifier=sources

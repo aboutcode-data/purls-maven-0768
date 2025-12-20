@@ -1,0 +1,6 @@
+- pkg:maven/net.reevik/mikron@0.1.1.A
+- pkg:maven/net.reevik/mikron@0.1.1.A?classifier=sources
+- pkg:maven/net.reevik/mikron@0.2.0
+- pkg:maven/net.reevik/mikron@0.2.0?classifier=sources
+- pkg:maven/net.reevik/mikron@0.2.1
+- pkg:maven/net.reevik/mikron@0.2.1?classifier=sources

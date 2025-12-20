@@ -18,3 +18,11 @@
 - pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-cache-plugin@1.2.18?classifier=sources
 - pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-cache-plugin@1.2.19
 - pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-cache-plugin@1.2.19?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-cache-plugin@1.2.20
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-cache-plugin@1.2.20?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-cache-plugin@1.2.21
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-cache-plugin@1.2.21?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-cache-plugin@1.2.22
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-cache-plugin@1.2.22?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-cache-plugin@1.2.23
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-cache-plugin@1.2.23?classifier=sources

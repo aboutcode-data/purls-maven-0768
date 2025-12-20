@@ -24,3 +24,15 @@
 - pkg:maven/cn.com.vastdata/vastbase-jdbc@2.8v_jre6?classifier=sources
 - pkg:maven/cn.com.vastdata/vastbase-jdbc@2.8v_jre7
 - pkg:maven/cn.com.vastdata/vastbase-jdbc@2.8v_jre7?classifier=sources
+- pkg:maven/cn.com.vastdata/vastbase-jdbc@2.9p
+- pkg:maven/cn.com.vastdata/vastbase-jdbc@2.9p?classifier=sources
+- pkg:maven/cn.com.vastdata/vastbase-jdbc@2.9p_jre6
+- pkg:maven/cn.com.vastdata/vastbase-jdbc@2.9p_jre6?classifier=sources
+- pkg:maven/cn.com.vastdata/vastbase-jdbc@2.9p_jre7
+- pkg:maven/cn.com.vastdata/vastbase-jdbc@2.9p_jre7?classifier=sources
+- pkg:maven/cn.com.vastdata/vastbase-jdbc@2.9v
+- pkg:maven/cn.com.vastdata/vastbase-jdbc@2.9v?classifier=sources
+- pkg:maven/cn.com.vastdata/vastbase-jdbc@2.9v_jre6
+- pkg:maven/cn.com.vastdata/vastbase-jdbc@2.9v_jre6?classifier=sources
+- pkg:maven/cn.com.vastdata/vastbase-jdbc@2.9v_jre7
+- pkg:maven/cn.com.vastdata/vastbase-jdbc@2.9v_jre7?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.ilyapavlovskii/youtubeplayer-compose-android@2023.11.16?classifier=sources
+- pkg:maven/io.github.ilyapavlovskii/youtubeplayer-compose-android@2023.12.20?classifier=sources

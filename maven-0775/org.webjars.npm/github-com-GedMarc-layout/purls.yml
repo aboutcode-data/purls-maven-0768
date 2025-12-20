@@ -1,2 +1,8 @@
+- pkg:maven/org.webjars.npm/github-com-GedMarc-layout@1.4.3
+- pkg:maven/org.webjars.npm/github-com-GedMarc-layout@1.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-GedMarc-layout@1.7.4
 - pkg:maven/org.webjars.npm/github-com-GedMarc-layout@1.7.4?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-GedMarc-layout@1.8.4
+- pkg:maven/org.webjars.npm/github-com-GedMarc-layout@1.8.4?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-GedMarc-layout@1.8.5
+- pkg:maven/org.webjars.npm/github-com-GedMarc-layout@1.8.5?classifier=sources

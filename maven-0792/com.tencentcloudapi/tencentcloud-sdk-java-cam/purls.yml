@@ -1020,3 +1020,7 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cam@3.1.896?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cam@3.1.914
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cam@3.1.914?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cam@3.1.923
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cam@3.1.923?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cam@3.1.924
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cam@3.1.924?classifier=sources

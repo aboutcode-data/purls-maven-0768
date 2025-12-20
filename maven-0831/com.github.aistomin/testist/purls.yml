@@ -8,3 +8,5 @@
 - pkg:maven/com.github.aistomin/testist@0.4?classifier=sources
 - pkg:maven/com.github.aistomin/testist@0.5
 - pkg:maven/com.github.aistomin/testist@0.5?classifier=sources
+- pkg:maven/com.github.aistomin/testist@1.0
+- pkg:maven/com.github.aistomin/testist@1.0?classifier=sources

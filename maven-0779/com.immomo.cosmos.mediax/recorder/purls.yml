@@ -372,3 +372,5 @@
 - pkg:maven/com.immomo.cosmos.mediax/recorder@3.0.0_090800?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/recorder@3.0.0_091401?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/recorder@3.0.0_091401?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/recorder@3.0.1_120400?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/recorder@3.0.1_120400?type=aar

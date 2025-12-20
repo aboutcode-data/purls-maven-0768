@@ -24,6 +24,7 @@
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@0.14.5?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@0.14.6?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@0.14.7?classifier=sources
+- pkg:maven/com.morpheusdata/morpheus-plugin-api@0.14.8?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@0.15.0?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@0.15.1?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@0.15.2?classifier=sources
@@ -32,6 +33,8 @@
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@0.15.5?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@0.15.6?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@0.15.7?classifier=sources
+- pkg:maven/com.morpheusdata/morpheus-plugin-api@0.15.8?classifier=sources
+- pkg:maven/com.morpheusdata/morpheus-plugin-api@0.15.9?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@0.7.0?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@0.7.1?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@0.8.0?classifier=sources
@@ -40,4 +43,6 @@
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@1.0.1?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@1.0.2?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@1.0.3?classifier=sources
+- pkg:maven/com.morpheusdata/morpheus-plugin-api@1.0.4?classifier=sources
+- pkg:maven/com.morpheusdata/morpheus-plugin-api@1.0.5?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-api@unspecified?classifier=sources

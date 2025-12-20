@@ -63,4 +63,17 @@
 - pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1700200633%2B5ba1e166?classifier=sources
 - pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1700546634%2Bd01b946f?classifier=sources
 - pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1700615970%2B0273a46b?classifier=sources
+- pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1701842404%2B33d3fd69?classifier=sources
+- pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1702101105%2Be3dd7875?classifier=sources
+- pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1702350655%2Bcfd48341?classifier=sources
+- pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1702360652%2B63338953?classifier=sources
+- pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1702406512%2Ba884c7f4?classifier=sources
+- pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1702447608%2B1aca5140?classifier=sources
+- pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1703047159%2B53882bcb?classifier=sources
+- pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1703139451%2Bd48c3192?classifier=sources
+- pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1703657298%2B39a339c5?classifier=sources
+- pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1703779345%2B42412470?classifier=sources
+- pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1704348642%2B999b1925?classifier=sources
+- pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1704388444%2B1d973539?classifier=sources
+- pkg:maven/com.pulumi/rancher2@5.3.0-alpha.1704430239%2Bf046600a?classifier=sources
 - pkg:maven/com.pulumi/rancher2@v3.9.0-alpha.1657287258%2Bd72a94df?classifier=sources

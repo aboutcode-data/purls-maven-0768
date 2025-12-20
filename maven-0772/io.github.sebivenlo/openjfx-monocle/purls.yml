@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sebivenlo/openjfx-monocle@jdk-21.0.1
+- pkg:maven/io.github.sebivenlo/openjfx-monocle@jdk-21.0.1?classifier=sources

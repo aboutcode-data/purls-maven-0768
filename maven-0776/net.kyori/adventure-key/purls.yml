@@ -5,6 +5,7 @@
 - pkg:maven/net.kyori/adventure-key@4.13.0?classifier=sources
 - pkg:maven/net.kyori/adventure-key@4.13.1?classifier=sources
 - pkg:maven/net.kyori/adventure-key@4.14.0?classifier=sources
+- pkg:maven/net.kyori/adventure-key@4.15.0?classifier=sources
 - pkg:maven/net.kyori/adventure-key@4.4.0?classifier=sources
 - pkg:maven/net.kyori/adventure-key@4.5.0?classifier=sources
 - pkg:maven/net.kyori/adventure-key@4.5.1?classifier=sources

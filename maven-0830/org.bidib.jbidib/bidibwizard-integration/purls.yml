@@ -12,6 +12,10 @@
 - pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.15?classifier=sources
 - pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.16
 - pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.16?classifier=sources
+- pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.17
+- pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.17?classifier=sources
+- pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.18
+- pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.18?classifier=sources
 - pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.5
 - pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.5?classifier=sources
 - pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.6

@@ -3,4 +3,8 @@
 - pkg:maven/eu.codlab/kotlin-permissions-iosarm64@1.11.1?classifier=sources
 - pkg:maven/eu.codlab/kotlin-permissions-iosarm64@1.12.0?classifier=sources
 - pkg:maven/eu.codlab/kotlin-permissions-iosarm64@1.13.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-permissions-iosarm64@1.13.3?classifier=sources
+- pkg:maven/eu.codlab/kotlin-permissions-iosarm64@1.14.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-permissions-iosarm64@1.14.1?classifier=sources
+- pkg:maven/eu.codlab/kotlin-permissions-iosarm64@1.14.2?classifier=sources
 - pkg:maven/eu.codlab/kotlin-permissions-iosarm64@1.9.0?classifier=sources

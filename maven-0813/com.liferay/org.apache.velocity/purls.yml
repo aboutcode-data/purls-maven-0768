@@ -3,3 +3,4 @@
 - pkg:maven/com.liferay/org.apache.velocity@1.6.4.LIFERAY-PATCHED-2
 - pkg:maven/com.liferay/org.apache.velocity@1.6.4.LIFERAY-PATCHED-2?classifier=sources
 - pkg:maven/com.liferay/org.apache.velocity@1.6.4.LIFERAY-PATCHED-2?classifier=sources-commercial
+- pkg:maven/com.liferay/org.apache.velocity@1.6.4.LIFERAY-PATCHED-3?classifier=sources

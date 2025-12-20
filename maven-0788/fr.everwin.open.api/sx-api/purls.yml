@@ -18,6 +18,8 @@
 - pkg:maven/fr.everwin.open.api/sx-api@1.13?classifier=sources
 - pkg:maven/fr.everwin.open.api/sx-api@1.14
 - pkg:maven/fr.everwin.open.api/sx-api@1.14?classifier=sources
+- pkg:maven/fr.everwin.open.api/sx-api@1.15
+- pkg:maven/fr.everwin.open.api/sx-api@1.15?classifier=sources
 - pkg:maven/fr.everwin.open.api/sx-api@1.4
 - pkg:maven/fr.everwin.open.api/sx-api@1.4?classifier=sources
 - pkg:maven/fr.everwin.open.api/sx-api@1.6

@@ -46,3 +46,5 @@
 - pkg:maven/com.gu/pan-domain-auth-verification_2.12@1.4.0?classifier=sources
 - pkg:maven/com.gu/pan-domain-auth-verification_2.12@3.0.0
 - pkg:maven/com.gu/pan-domain-auth-verification_2.12@3.0.0?classifier=sources
+- pkg:maven/com.gu/pan-domain-auth-verification_2.12@3.0.1
+- pkg:maven/com.gu/pan-domain-auth-verification_2.12@3.0.1?classifier=sources

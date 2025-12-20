@@ -154,6 +154,7 @@
 - pkg:maven/net.sourceforge.getl/getl@4.18.6?classifier=sources
 - pkg:maven/net.sourceforge.getl/getl@4.18.7?classifier=sources
 - pkg:maven/net.sourceforge.getl/getl@4.18.8?classifier=sources
+- pkg:maven/net.sourceforge.getl/getl@4.18.9?classifier=sources
 - pkg:maven/net.sourceforge.getl/getl@4.2.0
 - pkg:maven/net.sourceforge.getl/getl@4.2.0?classifier=sources
 - pkg:maven/net.sourceforge.getl/getl@4.2.1

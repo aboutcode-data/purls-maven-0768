@@ -1,0 +1,2 @@
+- pkg:maven/io.openepcis/openepcis-document-validation-restassured@0.9.2
+- pkg:maven/io.openepcis/openepcis-document-validation-restassured@0.9.2?classifier=sources

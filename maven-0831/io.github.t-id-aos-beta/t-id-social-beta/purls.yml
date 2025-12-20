@@ -1,3 +1,8 @@
+- pkg:maven/io.github.t-id-aos-beta/t-id-social-beta@2.4.5.01?classifier=sources
+- pkg:maven/io.github.t-id-aos-beta/t-id-social-beta@2.4.5.09?classifier=sources
 - pkg:maven/io.github.t-id-aos-beta/t-id-social-beta@2.4.5?classifier=sources
 - pkg:maven/io.github.t-id-aos-beta/t-id-social-beta@2.4.6?classifier=sources
 - pkg:maven/io.github.t-id-aos-beta/t-id-social-beta@2.4.7?classifier=sources
+- pkg:maven/io.github.t-id-aos-beta/t-id-social-beta@2.4.9?classifier=sources
+- pkg:maven/io.github.t-id-aos-beta/t-id-social-beta@2.5.0?classifier=sources
+- pkg:maven/io.github.t-id-aos-beta/t-id-social-beta@2.6.0?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.lukashian/lukashian@1.6.0?classifier=sources
 - pkg:maven/org.lukashian/lukashian@1.7.0?classifier=sources
 - pkg:maven/org.lukashian/lukashian@1.8.0?classifier=sources
+- pkg:maven/org.lukashian/lukashian@1.9.0?classifier=sources

@@ -4,3 +4,8 @@
 - pkg:maven/org.ysb33r.gradle/grolifant80@2.0.2?classifier=sources
 - pkg:maven/org.ysb33r.gradle/grolifant80@2.1.0?classifier=sources
 - pkg:maven/org.ysb33r.gradle/grolifant80@2.1.1?classifier=sources
+- pkg:maven/org.ysb33r.gradle/grolifant80@2.2.0?classifier=sources
+- pkg:maven/org.ysb33r.gradle/grolifant80@2.2.1?classifier=sources
+- pkg:maven/org.ysb33r.gradle/grolifant80@2.2.2?classifier=sources
+- pkg:maven/org.ysb33r.gradle/grolifant80@2.2.3?classifier=sources
+- pkg:maven/org.ysb33r.gradle/grolifant80@3.0.0?classifier=sources

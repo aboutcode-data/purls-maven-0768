@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars/webjars-play_2.13@02e54007d6e7e6f8a1a8a03810289033033e4f8f
+- pkg:maven/org.webjars/webjars-play_2.13@02e54007d6e7e6f8a1a8a03810289033033e4f8f?classifier=sources
 - pkg:maven/org.webjars/webjars-play_2.13@15a4628ccd13309d0ed8ed6034f3213fde0b51e0
 - pkg:maven/org.webjars/webjars-play_2.13@15a4628ccd13309d0ed8ed6034f3213fde0b51e0?classifier=sources
 - pkg:maven/org.webjars/webjars-play_2.13@2.7.3
@@ -36,9 +38,15 @@
 - pkg:maven/org.webjars/webjars-play_2.13@2.9.0-RC2
 - pkg:maven/org.webjars/webjars-play_2.13@2.9.0-RC2?classifier=sources
 - pkg:maven/org.webjars/webjars-play_2.13@2.9.0?classifier=sources
+- pkg:maven/org.webjars/webjars-play_2.13@2.9.1
+- pkg:maven/org.webjars/webjars-play_2.13@2.9.1?classifier=sources
 - pkg:maven/org.webjars/webjars-play_2.13@3.0.0
 - pkg:maven/org.webjars/webjars-play_2.13@3.0.0-M3
 - pkg:maven/org.webjars/webjars-play_2.13@3.0.0-M3?classifier=sources
 - pkg:maven/org.webjars/webjars-play_2.13@3.0.0?classifier=sources
+- pkg:maven/org.webjars/webjars-play_2.13@3.0.1
+- pkg:maven/org.webjars/webjars-play_2.13@3.0.1?classifier=sources
+- pkg:maven/org.webjars/webjars-play_2.13@7c2856c5579e9faa048fe01b876261ddb601575c
+- pkg:maven/org.webjars/webjars-play_2.13@7c2856c5579e9faa048fe01b876261ddb601575c?classifier=sources
 - pkg:maven/org.webjars/webjars-play_2.13@91adf8433c1a7b245f398549138771fb2ff05035
 - pkg:maven/org.webjars/webjars-play_2.13@91adf8433c1a7b245f398549138771fb2ff05035?classifier=sources

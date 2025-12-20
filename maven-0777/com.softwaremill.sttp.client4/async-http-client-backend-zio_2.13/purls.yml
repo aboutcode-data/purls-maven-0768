@@ -12,3 +12,5 @@
 - pkg:maven/com.softwaremill.sttp.client4/async-http-client-backend-zio_2.13@4.0.0-M6?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client4/async-http-client-backend-zio_2.13@4.0.0-M7
 - pkg:maven/com.softwaremill.sttp.client4/async-http-client-backend-zio_2.13@4.0.0-M7?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client4/async-http-client-backend-zio_2.13@4.0.0-M8
+- pkg:maven/com.softwaremill.sttp.client4/async-http-client-backend-zio_2.13@4.0.0-M8?classifier=sources

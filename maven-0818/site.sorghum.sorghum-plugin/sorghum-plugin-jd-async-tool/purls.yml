@@ -2,3 +2,7 @@
 - pkg:maven/site.sorghum.sorghum-plugin/sorghum-plugin-jd-async-tool@0.0.1.M2?classifier=sources
 - pkg:maven/site.sorghum.sorghum-plugin/sorghum-plugin-jd-async-tool@0.0.1.M3
 - pkg:maven/site.sorghum.sorghum-plugin/sorghum-plugin-jd-async-tool@0.0.1.M3?classifier=sources
+- pkg:maven/site.sorghum.sorghum-plugin/sorghum-plugin-jd-async-tool@0.0.1.M6
+- pkg:maven/site.sorghum.sorghum-plugin/sorghum-plugin-jd-async-tool@0.0.1.M6?classifier=sources
+- pkg:maven/site.sorghum.sorghum-plugin/sorghum-plugin-jd-async-tool@0.0.1.M7
+- pkg:maven/site.sorghum.sorghum-plugin/sorghum-plugin-jd-async-tool@0.0.1.M7?classifier=sources

@@ -111,6 +111,10 @@
 - pkg:maven/com.iohao.game/bolt-client@17.1.59?classifier=sources
 - pkg:maven/com.iohao.game/bolt-client@17.1.5?classifier=sources
 - pkg:maven/com.iohao.game/bolt-client@17.1.6
+- pkg:maven/com.iohao.game/bolt-client@17.1.60
+- pkg:maven/com.iohao.game/bolt-client@17.1.60?classifier=sources
+- pkg:maven/com.iohao.game/bolt-client@17.1.61
+- pkg:maven/com.iohao.game/bolt-client@17.1.61?classifier=sources
 - pkg:maven/com.iohao.game/bolt-client@17.1.6?classifier=sources
 - pkg:maven/com.iohao.game/bolt-client@17.1.7
 - pkg:maven/com.iohao.game/bolt-client@17.1.7?classifier=sources

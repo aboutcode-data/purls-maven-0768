@@ -28,3 +28,7 @@
 - pkg:maven/com.akamai.edgegrid/edgegrid-signer-google-http-client@5.0.0?classifier=sources
 - pkg:maven/com.akamai.edgegrid/edgegrid-signer-google-http-client@5.1.0
 - pkg:maven/com.akamai.edgegrid/edgegrid-signer-google-http-client@5.1.0?classifier=sources
+- pkg:maven/com.akamai.edgegrid/edgegrid-signer-google-http-client@5.1.1
+- pkg:maven/com.akamai.edgegrid/edgegrid-signer-google-http-client@5.1.1-rc.1
+- pkg:maven/com.akamai.edgegrid/edgegrid-signer-google-http-client@5.1.1-rc.1?classifier=sources
+- pkg:maven/com.akamai.edgegrid/edgegrid-signer-google-http-client@5.1.1?classifier=sources

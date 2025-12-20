@@ -1,5 +1,7 @@
 - pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-request-executor-apache-base@1.10.0
 - pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-request-executor-apache-base@1.10.0?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-request-executor-apache-base@1.11.0
+- pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-request-executor-apache-base@1.11.0?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-request-executor-apache-base@1.6.1
 - pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-request-executor-apache-base@1.6.1-RC02
 - pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-request-executor-apache-base@1.6.1-RC02?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.hurelhuyag/ebarimt@3.0.1%2B0
+- pkg:maven/io.github.hurelhuyag/ebarimt@3.0.1%2B0?classifier=sources
+- pkg:maven/io.github.hurelhuyag/ebarimt@3.0.1%2B1
+- pkg:maven/io.github.hurelhuyag/ebarimt@3.0.1%2B1?classifier=sources
+- pkg:maven/io.github.hurelhuyag/ebarimt@3.0.1%2B2
+- pkg:maven/io.github.hurelhuyag/ebarimt@3.0.1%2B2?classifier=sources

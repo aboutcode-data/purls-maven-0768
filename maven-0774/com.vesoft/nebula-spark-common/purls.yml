@@ -10,3 +10,7 @@
 - pkg:maven/com.vesoft/nebula-spark-common@3.6.0?classifier=sources
 - pkg:maven/com.vesoft/nebula-spark-common@3.6.1
 - pkg:maven/com.vesoft/nebula-spark-common@3.6.1?classifier=sources
+- pkg:maven/com.vesoft/nebula-spark-common@3.7.0-auth
+- pkg:maven/com.vesoft/nebula-spark-common@3.7.0-auth?classifier=sources
+- pkg:maven/com.vesoft/nebula-spark-common@3.7.0-zszq
+- pkg:maven/com.vesoft/nebula-spark-common@3.7.0-zszq?classifier=sources

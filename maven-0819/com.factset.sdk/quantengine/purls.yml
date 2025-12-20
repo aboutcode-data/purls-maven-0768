@@ -5,3 +5,4 @@
 - pkg:maven/com.factset.sdk/quantengine@0.1.4?classifier=sources
 - pkg:maven/com.factset.sdk/quantengine@0.2.0?classifier=sources
 - pkg:maven/com.factset.sdk/quantengine@1.0.0?classifier=sources
+- pkg:maven/com.factset.sdk/quantengine@1.0.1?classifier=sources

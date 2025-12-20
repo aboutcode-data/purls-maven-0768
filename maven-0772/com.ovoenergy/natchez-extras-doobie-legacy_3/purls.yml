@@ -1,2 +1,4 @@
+- pkg:maven/com.ovoenergy/natchez-extras-doobie-legacy_3@8.0.0
 - pkg:maven/com.ovoenergy/natchez-extras-doobie-legacy_3@8.0.0-M4
 - pkg:maven/com.ovoenergy/natchez-extras-doobie-legacy_3@8.0.0-M4?classifier=sources
+- pkg:maven/com.ovoenergy/natchez-extras-doobie-legacy_3@8.0.0?classifier=sources

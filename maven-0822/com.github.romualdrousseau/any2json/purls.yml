@@ -29,6 +29,8 @@
 - pkg:maven/com.github.romualdrousseau/any2json@2.3
 - pkg:maven/com.github.romualdrousseau/any2json@2.33
 - pkg:maven/com.github.romualdrousseau/any2json@2.33?classifier=sources
+- pkg:maven/com.github.romualdrousseau/any2json@2.34
+- pkg:maven/com.github.romualdrousseau/any2json@2.34?classifier=sources
 - pkg:maven/com.github.romualdrousseau/any2json@2.3?classifier=sources
 - pkg:maven/com.github.romualdrousseau/any2json@2.4
 - pkg:maven/com.github.romualdrousseau/any2json@2.4?classifier=sources

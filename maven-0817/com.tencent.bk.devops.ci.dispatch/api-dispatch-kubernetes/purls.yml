@@ -1,0 +1,1 @@
+- pkg:maven/com.tencent.bk.devops.ci.dispatch/api-dispatch-kubernetes@1.14.0-rc.1?classifier=sources

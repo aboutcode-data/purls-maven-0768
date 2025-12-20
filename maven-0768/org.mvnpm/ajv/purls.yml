@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/ajv@6.10.0?classifier=sources
+- pkg:maven/org.mvnpm/ajv@8.12.0?classifier=sources

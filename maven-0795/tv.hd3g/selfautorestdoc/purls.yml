@@ -101,6 +101,8 @@
 - pkg:maven/tv.hd3g/selfautorestdoc@18.0.1?classifier=sources
 - pkg:maven/tv.hd3g/selfautorestdoc@18.0.2
 - pkg:maven/tv.hd3g/selfautorestdoc@18.0.2?classifier=sources
+- pkg:maven/tv.hd3g/selfautorestdoc@19.0.0
+- pkg:maven/tv.hd3g/selfautorestdoc@19.0.0?classifier=sources
 - pkg:maven/tv.hd3g/selfautorestdoc@9.0.0
 - pkg:maven/tv.hd3g/selfautorestdoc@9.0.0?classifier=sources
 - pkg:maven/tv.hd3g/selfautorestdoc@9.0.1

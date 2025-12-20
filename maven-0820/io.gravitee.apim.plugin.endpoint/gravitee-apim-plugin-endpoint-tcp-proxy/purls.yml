@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.apim.plugin.endpoint/gravitee-apim-plugin-endpoint-tcp-proxy@4.2.0-alpha.2?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.endpoint/gravitee-apim-plugin-endpoint-tcp-proxy@4.2.0?classifier=sources
