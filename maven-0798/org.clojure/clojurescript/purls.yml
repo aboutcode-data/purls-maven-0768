@@ -291,6 +291,8 @@
 - pkg:maven/org.clojure/clojurescript@1.10.896?classifier=sources
 - pkg:maven/org.clojure/clojurescript@1.10.914
 - pkg:maven/org.clojure/clojurescript@1.10.914?classifier=sources
+- pkg:maven/org.clojure/clojurescript@1.11.121
+- pkg:maven/org.clojure/clojurescript@1.11.121?classifier=sources
 - pkg:maven/org.clojure/clojurescript@1.11.4
 - pkg:maven/org.clojure/clojurescript@1.11.4?classifier=sources
 - pkg:maven/org.clojure/clojurescript@1.11.50

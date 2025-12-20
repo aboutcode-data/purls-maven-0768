@@ -1,0 +1,4 @@
+- pkg:maven/io.trino/trino-ignite-patched@426
+- pkg:maven/io.trino/trino-ignite-patched@426?classifier=sources
+- pkg:maven/io.trino/trino-ignite-patched@427
+- pkg:maven/io.trino/trino-ignite-patched@427?classifier=sources

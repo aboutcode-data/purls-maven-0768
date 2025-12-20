@@ -1,0 +1,4 @@
+- pkg:maven/no.nrk.bigquery/bigquery-core_3@0.10.0
+- pkg:maven/no.nrk.bigquery/bigquery-core_3@0.10.0?classifier=sources
+- pkg:maven/no.nrk.bigquery/bigquery-core_3@0.10.1
+- pkg:maven/no.nrk.bigquery/bigquery-core_3@0.10.1?classifier=sources

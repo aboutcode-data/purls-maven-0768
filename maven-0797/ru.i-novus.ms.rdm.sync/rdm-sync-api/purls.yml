@@ -50,5 +50,7 @@
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-api@1.38.1?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-api@1.38.2
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-api@1.38.2?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-api@1.39.0
+- pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-api@1.39.0?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-api@1.6.0
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-api@1.6.0?classifier=sources

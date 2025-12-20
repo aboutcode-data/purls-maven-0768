@@ -1,3 +1,5 @@
 - pkg:maven/com.wavesenterprise/we-node-client-grpc-java@0.2.0?classifier=sources
 - pkg:maven/com.wavesenterprise/we-node-client-grpc-java@0.3.0?classifier=sources
 - pkg:maven/com.wavesenterprise/we-node-client-grpc-java@0.3.1?classifier=sources
+- pkg:maven/com.wavesenterprise/we-node-client-grpc-java@1.0.0?classifier=sources
+- pkg:maven/com.wavesenterprise/we-node-client-grpc-java@1.1.0?classifier=sources

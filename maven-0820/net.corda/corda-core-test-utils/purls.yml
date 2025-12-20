@@ -1,4 +1,6 @@
 - pkg:maven/net.corda/corda-core-test-utils@4.10
+- pkg:maven/net.corda/corda-core-test-utils@4.10.3
+- pkg:maven/net.corda/corda-core-test-utils@4.10.3?classifier=sources
 - pkg:maven/net.corda/corda-core-test-utils@4.10?classifier=sources
 - pkg:maven/net.corda/corda-core-test-utils@4.5
 - pkg:maven/net.corda/corda-core-test-utils@4.5?classifier=sources
@@ -21,4 +23,6 @@
 - pkg:maven/net.corda/corda-core-test-utils@4.9.6?classifier=sources
 - pkg:maven/net.corda/corda-core-test-utils@4.9.7
 - pkg:maven/net.corda/corda-core-test-utils@4.9.7?classifier=sources
+- pkg:maven/net.corda/corda-core-test-utils@4.9.8
+- pkg:maven/net.corda/corda-core-test-utils@4.9.8?classifier=sources
 - pkg:maven/net.corda/corda-core-test-utils@4.9?classifier=sources

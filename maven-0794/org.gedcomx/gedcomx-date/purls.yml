@@ -302,8 +302,12 @@
 - pkg:maven/org.gedcomx/gedcomx-date@2.156.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-date@2.157.0
 - pkg:maven/org.gedcomx/gedcomx-date@2.157.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-date@2.159.0
+- pkg:maven/org.gedcomx/gedcomx-date@2.159.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-date@2.16.0
 - pkg:maven/org.gedcomx/gedcomx-date@2.16.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-date@2.160.0
+- pkg:maven/org.gedcomx/gedcomx-date@2.160.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-date@2.17.0
 - pkg:maven/org.gedcomx/gedcomx-date@2.17.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-date@2.18.0
@@ -490,3 +494,7 @@
 - pkg:maven/org.gedcomx/gedcomx-date@3.4.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-date@3.5.0
 - pkg:maven/org.gedcomx/gedcomx-date@3.5.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-date@3.6.0
+- pkg:maven/org.gedcomx/gedcomx-date@3.6.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-date@3.7.0
+- pkg:maven/org.gedcomx/gedcomx-date@3.7.0?classifier=sources

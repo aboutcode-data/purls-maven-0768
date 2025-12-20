@@ -48,3 +48,5 @@
 - pkg:maven/com.sinvay/oakenshield-security@0.3.7?classifier=sources
 - pkg:maven/com.sinvay/oakenshield-security@0.4.0
 - pkg:maven/com.sinvay/oakenshield-security@0.4.0?classifier=sources
+- pkg:maven/com.sinvay/oakenshield-security@0.4.1
+- pkg:maven/com.sinvay/oakenshield-security@0.4.1?classifier=sources

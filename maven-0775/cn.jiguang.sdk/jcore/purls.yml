@@ -32,3 +32,5 @@
 - pkg:maven/cn.jiguang.sdk/jcore@4.2.2?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore@4.2.3?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore@4.2.4?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore@4.3.3?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore@4.4.0?classifier=sources

@@ -1354,6 +1354,14 @@
 - pkg:maven/org.sdase.commons/sda-commons-server-swagger@2.64.93?classifier=sources
 - pkg:maven/org.sdase.commons/sda-commons-server-swagger@2.64.94
 - pkg:maven/org.sdase.commons/sda-commons-server-swagger@2.64.94?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-swagger@2.64.95
+- pkg:maven/org.sdase.commons/sda-commons-server-swagger@2.64.95?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-swagger@2.64.96
+- pkg:maven/org.sdase.commons/sda-commons-server-swagger@2.64.96?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-swagger@2.64.97
+- pkg:maven/org.sdase.commons/sda-commons-server-swagger@2.64.97?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-swagger@2.64.98
+- pkg:maven/org.sdase.commons/sda-commons-server-swagger@2.64.98?classifier=sources
 - pkg:maven/org.sdase.commons/sda-commons-server-swagger@2.64.9?classifier=sources
 - pkg:maven/org.sdase.commons/sda-commons-server-swagger@2.7.0
 - pkg:maven/org.sdase.commons/sda-commons-server-swagger@2.7.0?classifier=sources

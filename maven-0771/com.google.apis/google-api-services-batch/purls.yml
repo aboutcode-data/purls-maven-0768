@@ -32,3 +32,9 @@
 - pkg:maven/com.google.apis/google-api-services-batch@v1-rev20230804-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-batch@v1-rev20230807-2.0.0
 - pkg:maven/com.google.apis/google-api-services-batch@v1-rev20230807-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-batch@v1-rev20230826-2.0.0
+- pkg:maven/com.google.apis/google-api-services-batch@v1-rev20230826-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-batch@v1-rev20230914-2.0.0
+- pkg:maven/com.google.apis/google-api-services-batch@v1-rev20230914-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-batch@v1-rev20230929-2.0.0
+- pkg:maven/com.google.apis/google-api-services-batch@v1-rev20230929-2.0.0?classifier=sources

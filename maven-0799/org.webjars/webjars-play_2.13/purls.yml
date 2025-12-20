@@ -28,3 +28,7 @@
 - pkg:maven/org.webjars/webjars-play_2.13@2.9.0-M6?classifier=sources
 - pkg:maven/org.webjars/webjars-play_2.13@2.9.0-M7
 - pkg:maven/org.webjars/webjars-play_2.13@2.9.0-M7?classifier=sources
+- pkg:maven/org.webjars/webjars-play_2.13@2.9.0-RC1
+- pkg:maven/org.webjars/webjars-play_2.13@2.9.0-RC1?classifier=sources
+- pkg:maven/org.webjars/webjars-play_2.13@2.9.0-RC2
+- pkg:maven/org.webjars/webjars-play_2.13@2.9.0-RC2?classifier=sources

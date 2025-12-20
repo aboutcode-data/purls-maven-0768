@@ -3,3 +3,4 @@
 - pkg:maven/org.togglz/togglz-webmvc-spring-boot-starter@4.1.0
 - pkg:maven/org.togglz/togglz-webmvc-spring-boot-starter@4.2.0
 - pkg:maven/org.togglz/togglz-webmvc-spring-boot-starter@4.3.0
+- pkg:maven/org.togglz/togglz-webmvc-spring-boot-starter@4.4.0

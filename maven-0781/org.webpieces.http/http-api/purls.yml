@@ -69,3 +69,6 @@
 - pkg:maven/org.webpieces.http/http-api@2.1.88?classifier=sources
 - pkg:maven/org.webpieces.http/http-api@2.1.89?classifier=sources
 - pkg:maven/org.webpieces.http/http-api@2.1.8?classifier=sources
+- pkg:maven/org.webpieces.http/http-api@2.1.90?classifier=sources
+- pkg:maven/org.webpieces.http/http-api@2.1.91?classifier=sources
+- pkg:maven/org.webpieces.http/http-api@2.1.93?classifier=sources

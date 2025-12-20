@@ -18,3 +18,4 @@
 - pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-geotools@4.4.1?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-geotools@4.4.2-alpha1?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-geotools@4.4.2?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/lets-plot-kotlin-geotools@4.4.3?classifier=sources

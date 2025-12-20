@@ -24,3 +24,7 @@
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-datastream-v1_sjs1_2.13@1.21.0%2B0.0.5?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-datastream-v1_sjs1_2.13@1.22.0%2B0.0.5
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-datastream-v1_sjs1_2.13@1.22.0%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-datastream-v1_sjs1_2.13@1.23.0%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-datastream-v1_sjs1_2.13@1.23.0%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-datastream-v1_sjs1_2.13@1.26.0%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-datastream-v1_sjs1_2.13@1.26.0%2B0.0.5?classifier=sources

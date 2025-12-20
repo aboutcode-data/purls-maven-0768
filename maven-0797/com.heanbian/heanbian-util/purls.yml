@@ -16,3 +16,5 @@
 - pkg:maven/com.heanbian/heanbian-util@14?classifier=sources
 - pkg:maven/com.heanbian/heanbian-util@15.1
 - pkg:maven/com.heanbian/heanbian-util@15.1?classifier=sources
+- pkg:maven/com.heanbian/heanbian-util@16.1
+- pkg:maven/com.heanbian/heanbian-util@16.1?classifier=sources

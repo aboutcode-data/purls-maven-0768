@@ -6,3 +6,5 @@
 - pkg:maven/org.autumnframework/autumn-service-rabbit-batch-client@4.6.3?classifier=sources
 - pkg:maven/org.autumnframework/autumn-service-rabbit-batch-client@4.6.4
 - pkg:maven/org.autumnframework/autumn-service-rabbit-batch-client@4.6.4?classifier=sources
+- pkg:maven/org.autumnframework/autumn-service-rabbit-batch-client@4.6.5
+- pkg:maven/org.autumnframework/autumn-service-rabbit-batch-client@4.6.5?classifier=sources

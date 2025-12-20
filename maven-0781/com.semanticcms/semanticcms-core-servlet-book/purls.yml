@@ -28,3 +28,5 @@
 - pkg:maven/com.semanticcms/semanticcms-core-servlet-book@1.18.3?classifier=sources
 - pkg:maven/com.semanticcms/semanticcms-core-servlet-book@1.18.4
 - pkg:maven/com.semanticcms/semanticcms-core-servlet-book@1.18.4?classifier=sources
+- pkg:maven/com.semanticcms/semanticcms-core-servlet-book@1.19.1
+- pkg:maven/com.semanticcms/semanticcms-core-servlet-book@1.19.1?classifier=sources

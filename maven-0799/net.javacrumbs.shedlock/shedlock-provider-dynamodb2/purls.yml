@@ -76,6 +76,10 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@4.43.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@4.44.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@4.44.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@4.45.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@4.45.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@4.46.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@4.46.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@4.8.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@4.8.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@4.9.0
@@ -104,3 +108,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@5.6.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@5.7.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@5.7.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@5.8.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb2@5.8.0?classifier=sources

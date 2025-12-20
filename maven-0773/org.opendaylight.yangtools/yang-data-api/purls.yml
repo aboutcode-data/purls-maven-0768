@@ -78,6 +78,9 @@
 - pkg:maven/org.opendaylight.yangtools/yang-data-api@10.0.9?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-api@11.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-api@11.0.1?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-api@11.0.2?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-api@11.0.3
+- pkg:maven/org.opendaylight.yangtools/yang-data-api@11.0.3?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-api@2.0.0
 - pkg:maven/org.opendaylight.yangtools/yang-data-api@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-api@2.0.1

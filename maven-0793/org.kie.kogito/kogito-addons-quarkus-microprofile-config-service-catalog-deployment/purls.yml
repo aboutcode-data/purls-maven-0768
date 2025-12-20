@@ -1,0 +1,3 @@
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-microprofile-config-service-catalog-deployment@1.44.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-microprofile-config-service-catalog-deployment@1.44.1.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-microprofile-config-service-catalog-deployment@2.44.0.Alpha

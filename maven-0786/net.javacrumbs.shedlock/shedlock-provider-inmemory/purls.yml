@@ -28,6 +28,10 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@4.43.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@4.44.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@4.44.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@4.45.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@4.45.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@4.46.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@4.46.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@5.0.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@5.0.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@5.0.1
@@ -46,3 +50,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@5.6.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@5.7.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@5.7.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@5.8.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-inmemory@5.8.0?classifier=sources

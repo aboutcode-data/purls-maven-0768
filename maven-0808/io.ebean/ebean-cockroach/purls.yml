@@ -100,6 +100,10 @@
 - pkg:maven/io.ebean/ebean-cockroach@13.21.0-jakarta
 - pkg:maven/io.ebean/ebean-cockroach@13.21.0-jakarta?classifier=sources
 - pkg:maven/io.ebean/ebean-cockroach@13.21.0?classifier=sources
+- pkg:maven/io.ebean/ebean-cockroach@13.22.0
+- pkg:maven/io.ebean/ebean-cockroach@13.22.0-jakarta
+- pkg:maven/io.ebean/ebean-cockroach@13.22.0-jakarta?classifier=sources
+- pkg:maven/io.ebean/ebean-cockroach@13.22.0?classifier=sources
 - pkg:maven/io.ebean/ebean-cockroach@13.3.0
 - pkg:maven/io.ebean/ebean-cockroach@13.3.0?classifier=sources
 - pkg:maven/io.ebean/ebean-cockroach@13.3.1

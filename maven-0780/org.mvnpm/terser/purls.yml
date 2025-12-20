@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/terser@5.19.4?classifier=sources
+- pkg:maven/org.mvnpm/terser@5.20.0?classifier=sources

@@ -44,6 +44,14 @@
 - pkg:maven/com.quasiris.qsf/qsf-commons@1.20.0?classifier=sources
 - pkg:maven/com.quasiris.qsf/qsf-commons@1.21.0
 - pkg:maven/com.quasiris.qsf/qsf-commons@1.21.0?classifier=sources
+- pkg:maven/com.quasiris.qsf/qsf-commons@1.22.0
+- pkg:maven/com.quasiris.qsf/qsf-commons@1.22.0?classifier=sources
+- pkg:maven/com.quasiris.qsf/qsf-commons@1.23.0
+- pkg:maven/com.quasiris.qsf/qsf-commons@1.23.0?classifier=sources
+- pkg:maven/com.quasiris.qsf/qsf-commons@1.24.0
+- pkg:maven/com.quasiris.qsf/qsf-commons@1.24.0?classifier=sources
+- pkg:maven/com.quasiris.qsf/qsf-commons@1.25.0
+- pkg:maven/com.quasiris.qsf/qsf-commons@1.25.0?classifier=sources
 - pkg:maven/com.quasiris.qsf/qsf-commons@1.3.0
 - pkg:maven/com.quasiris.qsf/qsf-commons@1.3.0?classifier=sources
 - pkg:maven/com.quasiris.qsf/qsf-commons@1.4.0

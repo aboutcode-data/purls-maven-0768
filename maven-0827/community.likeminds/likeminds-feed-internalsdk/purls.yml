@@ -1,0 +1,2 @@
+- pkg:maven/community.likeminds/likeminds-feed-internalsdk@1.5.0?classifier=sources
+- pkg:maven/community.likeminds/likeminds-feed-internalsdk@1.6.0?classifier=sources

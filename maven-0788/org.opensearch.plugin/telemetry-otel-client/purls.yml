@@ -1,1 +1,2 @@
+- pkg:maven/org.opensearch.plugin/telemetry-otel-client@2.10.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/telemetry-otel-client@2.9.0?classifier=sources

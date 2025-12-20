@@ -44,6 +44,8 @@
 - pkg:maven/io.ebean/ebean-postgis@12.16.0?classifier=sources
 - pkg:maven/io.ebean/ebean-postgis@12.16.1
 - pkg:maven/io.ebean/ebean-postgis@12.16.1?classifier=sources
+- pkg:maven/io.ebean/ebean-postgis@12.16.2
+- pkg:maven/io.ebean/ebean-postgis@12.16.2?classifier=sources
 - pkg:maven/io.ebean/ebean-postgis@12.2.1
 - pkg:maven/io.ebean/ebean-postgis@12.2.1?classifier=sources
 - pkg:maven/io.ebean/ebean-postgis@12.4.1
@@ -188,6 +190,10 @@
 - pkg:maven/io.ebean/ebean-postgis@13.21.0-jakarta
 - pkg:maven/io.ebean/ebean-postgis@13.21.0-jakarta?classifier=sources
 - pkg:maven/io.ebean/ebean-postgis@13.21.0?classifier=sources
+- pkg:maven/io.ebean/ebean-postgis@13.22.0
+- pkg:maven/io.ebean/ebean-postgis@13.22.0-jakarta
+- pkg:maven/io.ebean/ebean-postgis@13.22.0-jakarta?classifier=sources
+- pkg:maven/io.ebean/ebean-postgis@13.22.0?classifier=sources
 - pkg:maven/io.ebean/ebean-postgis@13.3.0
 - pkg:maven/io.ebean/ebean-postgis@13.3.0?classifier=sources
 - pkg:maven/io.ebean/ebean-postgis@13.3.1

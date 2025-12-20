@@ -40,3 +40,5 @@
 - pkg:maven/io.github.bdezonia/zorbage-viewer@0.2.0?classifier=sources
 - pkg:maven/io.github.bdezonia/zorbage-viewer@0.3.0
 - pkg:maven/io.github.bdezonia/zorbage-viewer@0.3.0?classifier=sources
+- pkg:maven/io.github.bdezonia/zorbage-viewer@0.3.2
+- pkg:maven/io.github.bdezonia/zorbage-viewer@0.3.2?classifier=sources

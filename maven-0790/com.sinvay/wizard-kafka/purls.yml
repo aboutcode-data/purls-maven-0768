@@ -18,3 +18,4 @@
 - pkg:maven/com.sinvay/wizard-kafka@0.1.4
 - pkg:maven/com.sinvay/wizard-kafka@0.1.5
 - pkg:maven/com.sinvay/wizard-kafka@0.2.0
+- pkg:maven/com.sinvay/wizard-kafka@0.2.1

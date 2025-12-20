@@ -1,2 +1,4 @@
 - pkg:maven/com.dinstone.focus/focus-polaris-client@0.9.9
 - pkg:maven/com.dinstone.focus/focus-polaris-client@0.9.9?classifier=sources
+- pkg:maven/com.dinstone.focus/focus-polaris-client@1.0.0
+- pkg:maven/com.dinstone.focus/focus-polaris-client@1.0.0?classifier=sources

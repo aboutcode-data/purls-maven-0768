@@ -9,3 +9,4 @@
 - pkg:maven/com.moengage/integration-verifier@4.1.0?classifier=sources
 - pkg:maven/com.moengage/integration-verifier@4.2.0?classifier=sources
 - pkg:maven/com.moengage/integration-verifier@4.3.0?classifier=sources
+- pkg:maven/com.moengage/integration-verifier@4.3.1?classifier=sources

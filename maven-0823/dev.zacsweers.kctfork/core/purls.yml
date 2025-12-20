@@ -5,3 +5,4 @@
 - pkg:maven/dev.zacsweers.kctfork/core@0.3.0?classifier=sources
 - pkg:maven/dev.zacsweers.kctfork/core@0.3.1?classifier=sources
 - pkg:maven/dev.zacsweers.kctfork/core@0.3.2?classifier=sources
+- pkg:maven/dev.zacsweers.kctfork/core@0.4.0-alpha01?classifier=sources

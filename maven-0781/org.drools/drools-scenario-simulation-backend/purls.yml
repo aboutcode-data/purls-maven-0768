@@ -234,7 +234,11 @@
 - pkg:maven/org.drools/drools-scenario-simulation-backend@8.42.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-scenario-simulation-backend@8.43.0.Final
 - pkg:maven/org.drools/drools-scenario-simulation-backend@8.43.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-scenario-simulation-backend@8.44.0.Final
+- pkg:maven/org.drools/drools-scenario-simulation-backend@8.44.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-scenario-simulation-backend@9.42.0.Alpha
 - pkg:maven/org.drools/drools-scenario-simulation-backend@9.42.0.Alpha?classifier=sources
 - pkg:maven/org.drools/drools-scenario-simulation-backend@9.43.0.Alpha
 - pkg:maven/org.drools/drools-scenario-simulation-backend@9.43.0.Alpha?classifier=sources
+- pkg:maven/org.drools/drools-scenario-simulation-backend@9.44.0.Final
+- pkg:maven/org.drools/drools-scenario-simulation-backend@9.44.0.Final?classifier=sources

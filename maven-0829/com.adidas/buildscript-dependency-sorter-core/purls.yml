@@ -1,1 +1,4 @@
 - pkg:maven/com.adidas/buildscript-dependency-sorter-core@0.1.0-alpha02?classifier=sources
+- pkg:maven/com.adidas/buildscript-dependency-sorter-core@0.1.0-alpha03?classifier=sources
+- pkg:maven/com.adidas/buildscript-dependency-sorter-core@0.1.0-beta01?classifier=sources
+- pkg:maven/com.adidas/buildscript-dependency-sorter-core@0.1.0-beta02?classifier=sources

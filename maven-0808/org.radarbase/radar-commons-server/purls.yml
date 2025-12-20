@@ -2,3 +2,5 @@
 - pkg:maven/org.radarbase/radar-commons-server@0.13.2?classifier=sources
 - pkg:maven/org.radarbase/radar-commons-server@0.15.0?classifier=sources
 - pkg:maven/org.radarbase/radar-commons-server@1.0.0?classifier=sources
+- pkg:maven/org.radarbase/radar-commons-server@1.1.0?classifier=sources
+- pkg:maven/org.radarbase/radar-commons-server@1.1.1?classifier=sources

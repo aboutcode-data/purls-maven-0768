@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/swagger-api__apidom-error@0.76.0
+- pkg:maven/org.webjars.npm/swagger-api__apidom-error@0.76.0?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-api__apidom-error@0.76.2
+- pkg:maven/org.webjars.npm/swagger-api__apidom-error@0.76.2?classifier=sources

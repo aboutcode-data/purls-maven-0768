@@ -6,3 +6,5 @@
 - pkg:maven/com.fibanez/json-schema-content-generator@1.0.2?classifier=sources
 - pkg:maven/com.fibanez/json-schema-content-generator@1.0.3
 - pkg:maven/com.fibanez/json-schema-content-generator@1.0.3?classifier=sources
+- pkg:maven/com.fibanez/json-schema-content-generator@1.0.4
+- pkg:maven/com.fibanez/json-schema-content-generator@1.0.4?classifier=sources

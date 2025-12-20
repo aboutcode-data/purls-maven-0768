@@ -136,3 +136,7 @@
 - pkg:maven/se.michaelthelin.spotify/spotify-web-api-java@7.3.0?classifier=sources
 - pkg:maven/se.michaelthelin.spotify/spotify-web-api-java@8.0.0
 - pkg:maven/se.michaelthelin.spotify/spotify-web-api-java@8.0.0?classifier=sources
+- pkg:maven/se.michaelthelin.spotify/spotify-web-api-java@8.1.0
+- pkg:maven/se.michaelthelin.spotify/spotify-web-api-java@8.1.0?classifier=sources
+- pkg:maven/se.michaelthelin.spotify/spotify-web-api-java@8.2.0
+- pkg:maven/se.michaelthelin.spotify/spotify-web-api-java@8.2.0?classifier=sources

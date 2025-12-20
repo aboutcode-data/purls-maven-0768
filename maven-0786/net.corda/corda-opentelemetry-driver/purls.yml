@@ -1,2 +1,4 @@
 - pkg:maven/net.corda/corda-opentelemetry-driver@4.10
+- pkg:maven/net.corda/corda-opentelemetry-driver@4.10.3
+- pkg:maven/net.corda/corda-opentelemetry-driver@4.10.3?classifier=sources
 - pkg:maven/net.corda/corda-opentelemetry-driver@4.10?classifier=sources

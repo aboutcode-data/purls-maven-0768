@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/play-brotli-filter_3@0.12-RC2
+- pkg:maven/com.gu/play-brotli-filter_3@0.12-RC2?classifier=sources

@@ -8,3 +8,6 @@
 - pkg:maven/org.rgbtools/rgb-lib-android@0.1.8?classifier=sources
 - pkg:maven/org.rgbtools/rgb-lib-android@0.1.9?classifier=sources
 - pkg:maven/org.rgbtools/rgb-lib-android@0.2.0-alpha.2?classifier=sources
+- pkg:maven/org.rgbtools/rgb-lib-android@0.2.0-alpha.3?classifier=sources
+- pkg:maven/org.rgbtools/rgb-lib-android@0.2.0-alpha.4?classifier=sources
+- pkg:maven/org.rgbtools/rgb-lib-android@0.2.0-alpha.5?classifier=sources

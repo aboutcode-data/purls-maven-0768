@@ -5,3 +5,4 @@
 - pkg:maven/com.qoreid/qoreid-sdk@1.1.2?classifier=sources
 - pkg:maven/com.qoreid/qoreid-sdk@1.1.31?classifier=sources
 - pkg:maven/com.qoreid/qoreid-sdk@1.1.32?classifier=sources
+- pkg:maven/com.qoreid/qoreid-sdk@1.1.40?classifier=sources

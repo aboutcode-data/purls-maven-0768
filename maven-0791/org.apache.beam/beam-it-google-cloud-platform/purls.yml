@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.beam/beam-it-google-cloud-platform@2.50.0?classifier=sources

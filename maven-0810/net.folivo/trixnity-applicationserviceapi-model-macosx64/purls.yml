@@ -21,6 +21,7 @@
 - pkg:maven/net.folivo/trixnity-applicationserviceapi-model-macosx64@3.10.1?classifier=sources
 - pkg:maven/net.folivo/trixnity-applicationserviceapi-model-macosx64@3.10.2?classifier=sources
 - pkg:maven/net.folivo/trixnity-applicationserviceapi-model-macosx64@3.10.3?classifier=sources
+- pkg:maven/net.folivo/trixnity-applicationserviceapi-model-macosx64@3.10.4?classifier=sources
 - pkg:maven/net.folivo/trixnity-applicationserviceapi-model-macosx64@3.2.0?classifier=sources
 - pkg:maven/net.folivo/trixnity-applicationserviceapi-model-macosx64@3.3.0?classifier=sources
 - pkg:maven/net.folivo/trixnity-applicationserviceapi-model-macosx64@3.3.1?classifier=sources

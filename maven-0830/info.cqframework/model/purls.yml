@@ -71,3 +71,4 @@
 - pkg:maven/info.cqframework/model@2.8.0?classifier=sources
 - pkg:maven/info.cqframework/model@2.9.0?classifier=sources
 - pkg:maven/info.cqframework/model@3.0.0?classifier=sources
+- pkg:maven/info.cqframework/model@3.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.israiloff/rpc4rj@1.0.0
+- pkg:maven/io.github.israiloff/rpc4rj@1.0.0?classifier=sources

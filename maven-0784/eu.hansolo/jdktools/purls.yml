@@ -30,6 +30,8 @@
 - pkg:maven/eu.hansolo/jdktools@17.0.31?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@17.0.33?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@17.0.35?classifier=sources
+- pkg:maven/eu.hansolo/jdktools@17.0.37?classifier=sources
+- pkg:maven/eu.hansolo/jdktools@17.0.39?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@17.0.3?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@17.0.4?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@17.0.5?classifier=sources

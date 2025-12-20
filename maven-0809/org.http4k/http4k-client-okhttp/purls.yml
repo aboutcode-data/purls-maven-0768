@@ -988,3 +988,7 @@
 - pkg:maven/org.http4k/http4k-client-okhttp@5.7.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-client-okhttp@5.7.3.0?classifier=sources
 - pkg:maven/org.http4k/http4k-client-okhttp@5.7.4.0?classifier=sources
+- pkg:maven/org.http4k/http4k-client-okhttp@5.7.5.0?classifier=sources
+- pkg:maven/org.http4k/http4k-client-okhttp@5.8.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-client-okhttp@5.8.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-client-okhttp@5.8.2.0?classifier=sources

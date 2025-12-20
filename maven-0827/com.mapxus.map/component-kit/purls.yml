@@ -3,7 +3,12 @@
 - pkg:maven/com.mapxus.map/component-kit@0.0.13?classifier=sources
 - pkg:maven/com.mapxus.map/component-kit@0.0.14?classifier=sources
 - pkg:maven/com.mapxus.map/component-kit@0.0.16?classifier=sources
+- pkg:maven/com.mapxus.map/component-kit@0.0.18?classifier=sources
+- pkg:maven/com.mapxus.map/component-kit@0.0.19?classifier=sources
 - pkg:maven/com.mapxus.map/component-kit@0.0.1?classifier=sources
+- pkg:maven/com.mapxus.map/component-kit@0.0.20?classifier=sources
+- pkg:maven/com.mapxus.map/component-kit@0.0.21?classifier=sources
+- pkg:maven/com.mapxus.map/component-kit@0.0.22?classifier=sources
 - pkg:maven/com.mapxus.map/component-kit@0.0.2?classifier=sources
 - pkg:maven/com.mapxus.map/component-kit@0.0.3?classifier=sources
 - pkg:maven/com.mapxus.map/component-kit@0.0.4?classifier=sources

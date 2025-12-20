@@ -28,5 +28,7 @@
 - pkg:maven/org.smartboot.mqtt/smart-mqtt-broker@0.26?classifier=sources
 - pkg:maven/org.smartboot.mqtt/smart-mqtt-broker@0.27
 - pkg:maven/org.smartboot.mqtt/smart-mqtt-broker@0.27?classifier=sources
+- pkg:maven/org.smartboot.mqtt/smart-mqtt-broker@0.28
+- pkg:maven/org.smartboot.mqtt/smart-mqtt-broker@0.28?classifier=sources
 - pkg:maven/org.smartboot.mqtt/smart-mqtt-broker@0.8
 - pkg:maven/org.smartboot.mqtt/smart-mqtt-broker@0.8?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/tokyo.northside/cssbox4@4.20?classifier=sources
 - pkg:maven/tokyo.northside/cssbox4@4.21?classifier=sources
 - pkg:maven/tokyo.northside/cssbox4@4.22?classifier=sources
+- pkg:maven/tokyo.northside/cssbox4@4.23?classifier=sources

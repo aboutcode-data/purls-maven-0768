@@ -20,3 +20,6 @@
 - pkg:maven/org.yakworks/gorm-audit@7.3.52?classifier=sources
 - pkg:maven/org.yakworks/gorm-audit@7.3.53?classifier=sources
 - pkg:maven/org.yakworks/gorm-audit@7.3.54?classifier=sources
+- pkg:maven/org.yakworks/gorm-audit@7.3.55?classifier=sources
+- pkg:maven/org.yakworks/gorm-audit@7.3.56?classifier=sources
+- pkg:maven/org.yakworks/gorm-audit@7.3.57?classifier=sources

@@ -98,4 +98,5 @@
 - pkg:maven/com.formdev/flatlaf-swingx@3.0?classifier=sources
 - pkg:maven/com.formdev/flatlaf-swingx@3.1.1?classifier=sources
 - pkg:maven/com.formdev/flatlaf-swingx@3.1?classifier=sources
+- pkg:maven/com.formdev/flatlaf-swingx@3.2.1?classifier=sources
 - pkg:maven/com.formdev/flatlaf-swingx@3.2?classifier=sources

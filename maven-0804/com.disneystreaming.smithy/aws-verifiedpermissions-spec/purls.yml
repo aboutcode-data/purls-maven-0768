@@ -1,0 +1,2 @@
+- pkg:maven/com.disneystreaming.smithy/aws-verifiedpermissions-spec@2023.09.22
+- pkg:maven/com.disneystreaming.smithy/aws-verifiedpermissions-spec@2023.09.22?classifier=sources

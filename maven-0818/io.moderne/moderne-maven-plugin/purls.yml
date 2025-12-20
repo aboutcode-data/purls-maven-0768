@@ -91,3 +91,4 @@
 - pkg:maven/io.moderne/moderne-maven-plugin@1.7.0
 - pkg:maven/io.moderne/moderne-maven-plugin@1.7.1
 - pkg:maven/io.moderne/moderne-maven-plugin@1.7.2
+- pkg:maven/io.moderne/moderne-maven-plugin@1.8.0

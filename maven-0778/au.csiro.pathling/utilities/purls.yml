@@ -32,3 +32,5 @@
 - pkg:maven/au.csiro.pathling/utilities@6.2.3?classifier=sources
 - pkg:maven/au.csiro.pathling/utilities@6.3.0
 - pkg:maven/au.csiro.pathling/utilities@6.3.0?classifier=sources
+- pkg:maven/au.csiro.pathling/utilities@6.3.1
+- pkg:maven/au.csiro.pathling/utilities@6.3.1?classifier=sources

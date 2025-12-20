@@ -16,3 +16,5 @@
 - pkg:maven/org.primefaces/primefaces-selenium-components@13.0.0-RC2
 - pkg:maven/org.primefaces/primefaces-selenium-components@13.0.0-RC2?classifier=sources
 - pkg:maven/org.primefaces/primefaces-selenium-components@13.0.0?classifier=sources
+- pkg:maven/org.primefaces/primefaces-selenium-components@13.0.1
+- pkg:maven/org.primefaces/primefaces-selenium-components@13.0.1?classifier=sources

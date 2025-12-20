@@ -52,6 +52,10 @@
 - pkg:maven/com.tencent.polaris/location-provider-local@1.12.9?classifier=sources
 - pkg:maven/com.tencent.polaris/location-provider-local@1.13.0
 - pkg:maven/com.tencent.polaris/location-provider-local@1.13.0?classifier=sources
+- pkg:maven/com.tencent.polaris/location-provider-local@1.14.0
+- pkg:maven/com.tencent.polaris/location-provider-local@1.14.0?classifier=sources
+- pkg:maven/com.tencent.polaris/location-provider-local@1.14.1
+- pkg:maven/com.tencent.polaris/location-provider-local@1.14.1?classifier=sources
 - pkg:maven/com.tencent.polaris/location-provider-local@1.9.0
 - pkg:maven/com.tencent.polaris/location-provider-local@1.9.0?classifier=sources
 - pkg:maven/com.tencent.polaris/location-provider-local@1.9.1

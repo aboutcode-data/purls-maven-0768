@@ -17,6 +17,8 @@
 - pkg:maven/io.github.open-coap/kotlin-mbedtls@1.17.2?classifier=sources
 - pkg:maven/io.github.open-coap/kotlin-mbedtls@1.18.0?classifier=sources
 - pkg:maven/io.github.open-coap/kotlin-mbedtls@1.18.1?classifier=sources
+- pkg:maven/io.github.open-coap/kotlin-mbedtls@1.19.0?classifier=sources
+- pkg:maven/io.github.open-coap/kotlin-mbedtls@1.19.1?classifier=sources
 - pkg:maven/io.github.open-coap/kotlin-mbedtls@1.7.1-rc1?classifier=sources
 - pkg:maven/io.github.open-coap/kotlin-mbedtls@1.7.2?classifier=sources
 - pkg:maven/io.github.open-coap/kotlin-mbedtls@1.8.0?classifier=sources

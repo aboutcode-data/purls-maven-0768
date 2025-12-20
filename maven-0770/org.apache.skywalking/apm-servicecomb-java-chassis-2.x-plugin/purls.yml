@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.skywalking/apm-servicecomb-java-chassis-2.x-plugin@8.15.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-servicecomb-java-chassis-2.x-plugin@8.16.0
 - pkg:maven/org.apache.skywalking/apm-servicecomb-java-chassis-2.x-plugin@8.16.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-servicecomb-java-chassis-2.x-plugin@9.0.0
+- pkg:maven/org.apache.skywalking/apm-servicecomb-java-chassis-2.x-plugin@9.0.0?classifier=sources

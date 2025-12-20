@@ -66,3 +66,4 @@
 - pkg:maven/io.kvision/kvision-state@6.5.2?classifier=sources
 - pkg:maven/io.kvision/kvision-state@6.6.0?classifier=sources
 - pkg:maven/io.kvision/kvision-state@7.0.0?classifier=sources
+- pkg:maven/io.kvision/kvision-state@7.0.1?classifier=sources

@@ -22,3 +22,4 @@
 - pkg:maven/io.piano.android/id-oauth-google@2.6.2?classifier=sources
 - pkg:maven/io.piano.android/id-oauth-google@2.7.0?classifier=sources
 - pkg:maven/io.piano.android/id-oauth-google@2.8.0?classifier=sources
+- pkg:maven/io.piano.android/id-oauth-google@2.8.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.apicurio/apicurio-registry-operator-api-model@2.2.0.Final
 - pkg:maven/io.apicurio/apicurio-registry-operator-api-model@2.2.0.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-operator-api-model@2.3.0.Final
+- pkg:maven/io.apicurio/apicurio-registry-operator-api-model@2.3.0.Final?classifier=sources

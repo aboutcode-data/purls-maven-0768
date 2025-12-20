@@ -1,0 +1,3 @@
+- pkg:maven/org.apache.submarine/submarine-server-database@0.8.0
+- pkg:maven/org.apache.submarine/submarine-server-database@0.8.0-RC0
+- pkg:maven/org.apache.submarine/submarine-server-database@0.8.0?classifier=sources

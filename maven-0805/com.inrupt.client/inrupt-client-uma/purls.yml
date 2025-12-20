@@ -6,3 +6,5 @@
 - pkg:maven/com.inrupt.client/inrupt-client-uma@1.0.0.Beta4
 - pkg:maven/com.inrupt.client/inrupt-client-uma@1.0.0.Beta4?classifier=sources
 - pkg:maven/com.inrupt.client/inrupt-client-uma@1.0.0?classifier=sources
+- pkg:maven/com.inrupt.client/inrupt-client-uma@1.0.1
+- pkg:maven/com.inrupt.client/inrupt-client-uma@1.0.1?classifier=sources

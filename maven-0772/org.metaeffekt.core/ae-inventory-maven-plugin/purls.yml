@@ -178,3 +178,5 @@
 - pkg:maven/org.metaeffekt.core/ae-inventory-maven-plugin@0.9.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-inventory-maven-plugin@0.90.0
 - pkg:maven/org.metaeffekt.core/ae-inventory-maven-plugin@0.90.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-inventory-maven-plugin@0.91.0
+- pkg:maven/org.metaeffekt.core/ae-inventory-maven-plugin@0.91.0?classifier=sources

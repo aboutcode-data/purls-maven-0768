@@ -14,6 +14,10 @@
 - pkg:maven/com.google.appengine.api.memcache.jsr107cache/appengine-jsr107@2.0.16?classifier=sources
 - pkg:maven/com.google.appengine.api.memcache.jsr107cache/appengine-jsr107@2.0.17
 - pkg:maven/com.google.appengine.api.memcache.jsr107cache/appengine-jsr107@2.0.17?classifier=sources
+- pkg:maven/com.google.appengine.api.memcache.jsr107cache/appengine-jsr107@2.0.19
+- pkg:maven/com.google.appengine.api.memcache.jsr107cache/appengine-jsr107@2.0.19?classifier=sources
+- pkg:maven/com.google.appengine.api.memcache.jsr107cache/appengine-jsr107@2.0.20
+- pkg:maven/com.google.appengine.api.memcache.jsr107cache/appengine-jsr107@2.0.20?classifier=sources
 - pkg:maven/com.google.appengine.api.memcache.jsr107cache/appengine-jsr107@2.0.6
 - pkg:maven/com.google.appengine.api.memcache.jsr107cache/appengine-jsr107@2.0.6?classifier=sources
 - pkg:maven/com.google.appengine.api.memcache.jsr107cache/appengine-jsr107@2.0.7
