@@ -1028,6 +1028,8 @@
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.31.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.32.0
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.32.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-google@13.32.1
+- pkg:maven/com.hashicorp/cdktf-provider-google@13.32.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.4.0
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.4.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.5.0
@@ -1040,6 +1042,16 @@
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.8.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.9.0
 - pkg:maven/com.hashicorp/cdktf-provider-google@13.9.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-google@14.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-google@14.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-google@14.1.0
+- pkg:maven/com.hashicorp/cdktf-provider-google@14.1.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-google@14.2.0
+- pkg:maven/com.hashicorp/cdktf-provider-google@14.2.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-google@14.3.0
+- pkg:maven/com.hashicorp/cdktf-provider-google@14.3.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-google@14.4.0
+- pkg:maven/com.hashicorp/cdktf-provider-google@14.4.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-google@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-google@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-google@2.0.1

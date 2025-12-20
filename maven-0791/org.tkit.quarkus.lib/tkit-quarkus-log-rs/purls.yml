@@ -106,6 +106,8 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-rs@2.31.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-rs@2.32.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-rs@2.32.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-rs@2.33.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-rs@2.33.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-rs@2.4.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-rs@2.4.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-log-rs@2.5.0

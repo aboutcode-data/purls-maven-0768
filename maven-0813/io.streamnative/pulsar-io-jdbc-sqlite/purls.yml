@@ -1386,6 +1386,10 @@
 - pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.0.6.5?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.0.6.6
 - pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.0.6.6?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.0.6.7
+- pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.0.6.7?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.0.6.8
+- pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.0.6.8?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.1.0.1
 - pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.1.0.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.1.0.2
@@ -1468,6 +1472,10 @@
 - pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.3.1.5?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.3.1.6
 - pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.3.1.6?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.3.1.7
+- pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.3.1.7?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.3.1.8
+- pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.3.1.8?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.4.0-SNAPSHOT.ursa0815
 - pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@3.4.0-SNAPSHOT.ursa0815?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-jdbc-sqlite@4.0.0-SNAPSHOT.ursa

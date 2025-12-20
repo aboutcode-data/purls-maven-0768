@@ -1,0 +1,2 @@
+- pkg:maven/org.casbin/vertx-authz@1.0.0?classifier=sources
+- pkg:maven/org.casbin/vertx-authz@1.1.0?classifier=sources

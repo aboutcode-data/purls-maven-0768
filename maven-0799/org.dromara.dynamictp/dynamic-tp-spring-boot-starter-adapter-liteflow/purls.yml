@@ -1,0 +1,4 @@
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-spring-boot-starter-adapter-liteflow@1.1.9
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-spring-boot-starter-adapter-liteflow@1.1.9-3.x
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-spring-boot-starter-adapter-liteflow@1.1.9-3.x?classifier=sources
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-spring-boot-starter-adapter-liteflow@1.1.9?classifier=sources

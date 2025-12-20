@@ -122,6 +122,10 @@
 - pkg:maven/com.google.cloud/google-cloud-life-sciences@0.5.7?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-life-sciences@0.50.0
 - pkg:maven/com.google.cloud/google-cloud-life-sciences@0.50.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-life-sciences@0.51.0
+- pkg:maven/com.google.cloud/google-cloud-life-sciences@0.51.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-life-sciences@0.53.0
+- pkg:maven/com.google.cloud/google-cloud-life-sciences@0.53.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-life-sciences@0.6.0
 - pkg:maven/com.google.cloud/google-cloud-life-sciences@0.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-life-sciences@0.7.0

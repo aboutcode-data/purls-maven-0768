@@ -1,0 +1,2 @@
+- pkg:maven/com.atlassian.prosemirror/util-iossimulatorarm64@1.0.3?classifier=sources
+- pkg:maven/com.atlassian.prosemirror/util-iossimulatorarm64@1.0.4?classifier=sources

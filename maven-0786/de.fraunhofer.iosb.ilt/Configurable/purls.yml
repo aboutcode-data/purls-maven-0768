@@ -10,3 +10,5 @@
 - pkg:maven/de.fraunhofer.iosb.ilt/Configurable@0.34?classifier=sources
 - pkg:maven/de.fraunhofer.iosb.ilt/Configurable@0.35
 - pkg:maven/de.fraunhofer.iosb.ilt/Configurable@0.35?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt/Configurable@0.36
+- pkg:maven/de.fraunhofer.iosb.ilt/Configurable@0.36?classifier=sources

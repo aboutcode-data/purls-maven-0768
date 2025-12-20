@@ -5,6 +5,7 @@
 - pkg:maven/com.zendesk/sunshine-conversations-client@12.4.0?classifier=sources
 - pkg:maven/com.zendesk/sunshine-conversations-client@12.6.2?classifier=sources
 - pkg:maven/com.zendesk/sunshine-conversations-client@12.7.0?classifier=sources
+- pkg:maven/com.zendesk/sunshine-conversations-client@12.8.0?classifier=sources
 - pkg:maven/com.zendesk/sunshine-conversations-client@9.0.0?classifier=sources
 - pkg:maven/com.zendesk/sunshine-conversations-client@9.0.1?classifier=sources
 - pkg:maven/com.zendesk/sunshine-conversations-client@9.1.0?classifier=sources

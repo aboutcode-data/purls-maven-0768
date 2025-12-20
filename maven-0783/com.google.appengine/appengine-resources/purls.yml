@@ -36,6 +36,8 @@
 - pkg:maven/com.google.appengine/appengine-resources@2.0.28?classifier=sources
 - pkg:maven/com.google.appengine/appengine-resources@2.0.29
 - pkg:maven/com.google.appengine/appengine-resources@2.0.29?classifier=sources
+- pkg:maven/com.google.appengine/appengine-resources@2.0.30
+- pkg:maven/com.google.appengine/appengine-resources@2.0.30?classifier=sources
 - pkg:maven/com.google.appengine/appengine-resources@2.0.7
 - pkg:maven/com.google.appengine/appengine-resources@2.0.7?classifier=sources
 - pkg:maven/com.google.appengine/appengine-resources@2.0.8

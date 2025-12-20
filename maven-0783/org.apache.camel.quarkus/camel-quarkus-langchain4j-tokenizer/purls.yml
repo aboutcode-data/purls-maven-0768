@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-langchain4j-tokenizer@3.15.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-langchain4j-tokenizer@3.15.0?classifier=sources

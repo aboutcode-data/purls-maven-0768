@@ -14,3 +14,13 @@
 - pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.65.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.66.0
 - pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.66.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.67.0
+- pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.67.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.68.0
+- pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.68.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.69.0
+- pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.69.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.70.0
+- pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.70.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.71.0
+- pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.71.0?classifier=sources

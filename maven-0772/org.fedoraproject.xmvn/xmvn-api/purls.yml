@@ -8,3 +8,5 @@
 - pkg:maven/org.fedoraproject.xmvn/xmvn-api@4.1.0?classifier=sources
 - pkg:maven/org.fedoraproject.xmvn/xmvn-api@4.2.0
 - pkg:maven/org.fedoraproject.xmvn/xmvn-api@4.2.0?classifier=sources
+- pkg:maven/org.fedoraproject.xmvn/xmvn-api@4.3.0
+- pkg:maven/org.fedoraproject.xmvn/xmvn-api@4.3.0?classifier=sources

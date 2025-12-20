@@ -1,3 +1,4 @@
 - pkg:maven/io.github.frango9000/maven-dependency-plugin@3.6.2.0
 - pkg:maven/io.github.frango9000/maven-dependency-plugin@3.6.2.1
 - pkg:maven/io.github.frango9000/maven-dependency-plugin@3.6.2.2
+- pkg:maven/io.github.frango9000/maven-dependency-plugin@3.8.1.1

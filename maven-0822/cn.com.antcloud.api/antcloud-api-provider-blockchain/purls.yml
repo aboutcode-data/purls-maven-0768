@@ -111,6 +111,8 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-blockchain@1.28.2
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-blockchain@1.28.20
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-blockchain@1.28.20?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-blockchain@1.28.24
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-blockchain@1.28.24?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-blockchain@1.28.2?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-blockchain@1.3.12
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-blockchain@1.3.12?classifier=sources

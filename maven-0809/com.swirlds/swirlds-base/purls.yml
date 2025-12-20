@@ -24,3 +24,6 @@
 - pkg:maven/com.swirlds/swirlds-base@0.53.2?classifier=sources
 - pkg:maven/com.swirlds/swirlds-base@0.53.3?classifier=sources
 - pkg:maven/com.swirlds/swirlds-base@0.53.4?classifier=sources
+- pkg:maven/com.swirlds/swirlds-base@0.53.5?classifier=sources
+- pkg:maven/com.swirlds/swirlds-base@0.54.0?classifier=sources
+- pkg:maven/com.swirlds/swirlds-base@0.54.1?classifier=sources

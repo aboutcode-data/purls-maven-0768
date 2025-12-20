@@ -76,6 +76,12 @@
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-deprecation-report@1.22.4?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-deprecation-report@1.22.6
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-deprecation-report@1.22.6?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-deprecation-report@1.22.7
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-deprecation-report@1.22.7?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-deprecation-report@1.23.0
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-deprecation-report@1.23.0?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-deprecation-report@1.23.1
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-deprecation-report@1.23.1?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-deprecation-report@1.6.90
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-deprecation-report@1.6.90?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-deprecation-report@1.6.91

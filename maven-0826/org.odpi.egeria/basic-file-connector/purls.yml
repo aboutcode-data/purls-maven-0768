@@ -77,3 +77,4 @@
 - pkg:maven/org.odpi.egeria/basic-file-connector@4.2?classifier=sources
 - pkg:maven/org.odpi.egeria/basic-file-connector@4.3?classifier=sources
 - pkg:maven/org.odpi.egeria/basic-file-connector@5.0?classifier=sources
+- pkg:maven/org.odpi.egeria/basic-file-connector@5.1?classifier=sources

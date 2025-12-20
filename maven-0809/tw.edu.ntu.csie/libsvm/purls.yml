@@ -13,4 +13,6 @@
 - pkg:maven/tw.edu.ntu.csie/libsvm@3.30?classifier=sources
 - pkg:maven/tw.edu.ntu.csie/libsvm@3.31
 - pkg:maven/tw.edu.ntu.csie/libsvm@3.31?classifier=sources
+- pkg:maven/tw.edu.ntu.csie/libsvm@3.35
+- pkg:maven/tw.edu.ntu.csie/libsvm@3.35?classifier=sources
 - pkg:maven/tw.edu.ntu.csie/libsvm@3.3?classifier=sources

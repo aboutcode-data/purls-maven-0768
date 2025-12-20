@@ -1,2 +1,4 @@
 - pkg:maven/com.github.ldeitos/extendedValidation-spring-boot-test-support@2.0.0-Final
 - pkg:maven/com.github.ldeitos/extendedValidation-spring-boot-test-support@2.0.0-Final?classifier=sources
+- pkg:maven/com.github.ldeitos/extendedValidation-spring-boot-test-support@3.3.3
+- pkg:maven/com.github.ldeitos/extendedValidation-spring-boot-test-support@3.3.3?classifier=sources

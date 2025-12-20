@@ -1,3 +1,7 @@
+- pkg:maven/com.revenuecat.purchases/purchases-kmp-core@1.0.0%2B13.2.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-kmp-core@1.0.0-beta.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-kmp-core@1.0.0-beta.2?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-kmp-core@1.0.0-beta.3?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-kmp-core@1.0.1%2B13.2.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-kmp-core@1.1.0%2B13.3.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-kmp-core@1.1.1%2B13.4.0?classifier=sources

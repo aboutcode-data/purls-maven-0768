@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/y18n@4.0.3?classifier=sources
 - pkg:maven/org.mvnpm/y18n@5.0.8?classifier=sources

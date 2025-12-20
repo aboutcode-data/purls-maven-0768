@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.kylin/kylin-rec-feign-api@5.0.0
+- pkg:maven/org.apache.kylin/kylin-rec-feign-api@5.0.0?classifier=sources

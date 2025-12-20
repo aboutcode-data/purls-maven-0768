@@ -10,3 +10,4 @@
 - pkg:maven/de.wenzlaff.lebenskalender/de.wenzlaff.lebenskalender@0.0.7?classifier=sources
 - pkg:maven/de.wenzlaff.lebenskalender/de.wenzlaff.lebenskalender@0.0.8
 - pkg:maven/de.wenzlaff.lebenskalender/de.wenzlaff.lebenskalender@0.0.8?classifier=sources
+- pkg:maven/de.wenzlaff.lebenskalender/de.wenzlaff.lebenskalender@0.0.9?classifier=sources

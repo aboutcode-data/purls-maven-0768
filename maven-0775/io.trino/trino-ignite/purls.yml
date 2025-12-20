@@ -49,3 +49,5 @@
 - pkg:maven/io.trino/trino-ignite@456?classifier=sources
 - pkg:maven/io.trino/trino-ignite@457?classifier=sources
 - pkg:maven/io.trino/trino-ignite@458?classifier=sources
+- pkg:maven/io.trino/trino-ignite@459?classifier=sources
+- pkg:maven/io.trino/trino-ignite@460?classifier=sources

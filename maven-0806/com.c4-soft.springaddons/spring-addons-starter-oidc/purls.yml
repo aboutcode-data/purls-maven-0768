@@ -111,6 +111,10 @@
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.0
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.0?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.1
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.10
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.10?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.11
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.11?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.1?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.2
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.2?classifier=sources
@@ -126,5 +130,11 @@
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.7?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.8
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.8?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.9
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.8.9?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.9.0-M3
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.9.0-M3?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.9.0-M4
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@7.9.0-M4?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@git
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc@git?classifier=sources

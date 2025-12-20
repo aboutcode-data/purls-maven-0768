@@ -1,3 +1,4 @@
+- pkg:maven/com.pubnub/pubnub-kotlin@10.0.0?classifier=sources
 - pkg:maven/com.pubnub/pubnub-kotlin@4.0.0
 - pkg:maven/com.pubnub/pubnub-kotlin@4.0.0?classifier=sources
 - pkg:maven/com.pubnub/pubnub-kotlin@4.0.1

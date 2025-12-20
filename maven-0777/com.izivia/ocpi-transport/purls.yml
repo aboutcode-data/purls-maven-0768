@@ -27,5 +27,9 @@
 - pkg:maven/com.izivia/ocpi-transport@0.0.36?classifier=sources
 - pkg:maven/com.izivia/ocpi-transport@0.0.37?classifier=sources
 - pkg:maven/com.izivia/ocpi-transport@0.0.38?classifier=sources
+- pkg:maven/com.izivia/ocpi-transport@0.0.39?classifier=sources
+- pkg:maven/com.izivia/ocpi-transport@0.0.40?classifier=sources
+- pkg:maven/com.izivia/ocpi-transport@0.0.41?classifier=sources
+- pkg:maven/com.izivia/ocpi-transport@0.0.42?classifier=sources
 - pkg:maven/com.izivia/ocpi-transport@0.0.6?classifier=sources
 - pkg:maven/com.izivia/ocpi-transport@0.0.9?classifier=sources

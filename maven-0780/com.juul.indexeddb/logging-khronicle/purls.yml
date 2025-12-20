@@ -1,0 +1,2 @@
+- pkg:maven/com.juul.indexeddb/logging-khronicle@0.7.2-logging-alpha1?classifier=sources
+- pkg:maven/com.juul.indexeddb/logging-khronicle@0.7.2-logging-alpha2?classifier=sources

@@ -51,6 +51,10 @@
 - pkg:maven/com.iohao.game/external-netty@21.14?classifier=sources
 - pkg:maven/com.iohao.game/external-netty@21.15
 - pkg:maven/com.iohao.game/external-netty@21.15?classifier=sources
+- pkg:maven/com.iohao.game/external-netty@21.16
+- pkg:maven/com.iohao.game/external-netty@21.16?classifier=sources
+- pkg:maven/com.iohao.game/external-netty@21.17
+- pkg:maven/com.iohao.game/external-netty@21.17?classifier=sources
 - pkg:maven/com.iohao.game/external-netty@21.1?classifier=sources
 - pkg:maven/com.iohao.game/external-netty@21.2
 - pkg:maven/com.iohao.game/external-netty@21.2?classifier=sources

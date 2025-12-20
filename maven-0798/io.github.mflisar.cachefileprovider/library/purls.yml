@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mflisar.cachefileprovider/library@0.4.0-alpha01?classifier=sources
+- pkg:maven/io.github.mflisar.cachefileprovider/library@0.4.0?classifier=sources

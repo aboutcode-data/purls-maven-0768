@@ -1,0 +1,3 @@
+- pkg:maven/com.mxalbert.paparazzi/paparazzi@1.3.5-3d3ba13?classifier=sources
+- pkg:maven/com.mxalbert.paparazzi/paparazzi@1.3.5-c3ee64c-2?classifier=sources
+- pkg:maven/com.mxalbert.paparazzi/paparazzi@1.3.5-c3ee64c?classifier=sources

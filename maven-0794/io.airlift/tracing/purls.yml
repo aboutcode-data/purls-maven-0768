@@ -58,3 +58,15 @@
 - pkg:maven/io.airlift/tracing@259?classifier=sources
 - pkg:maven/io.airlift/tracing@260?classifier=sources
 - pkg:maven/io.airlift/tracing@261?classifier=sources
+- pkg:maven/io.airlift/tracing@262?classifier=sources
+- pkg:maven/io.airlift/tracing@263?classifier=sources
+- pkg:maven/io.airlift/tracing@264?classifier=sources
+- pkg:maven/io.airlift/tracing@265?classifier=sources
+- pkg:maven/io.airlift/tracing@266?classifier=sources
+- pkg:maven/io.airlift/tracing@267?classifier=sources
+- pkg:maven/io.airlift/tracing@268?classifier=sources
+- pkg:maven/io.airlift/tracing@269?classifier=sources
+- pkg:maven/io.airlift/tracing@270?classifier=sources
+- pkg:maven/io.airlift/tracing@271?classifier=sources
+- pkg:maven/io.airlift/tracing@272?classifier=sources
+- pkg:maven/io.airlift/tracing@273?classifier=sources

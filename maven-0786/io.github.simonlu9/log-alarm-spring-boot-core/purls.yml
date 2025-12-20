@@ -6,3 +6,11 @@
 - pkg:maven/io.github.simonlu9/log-alarm-spring-boot-core@1.0.2-SB3
 - pkg:maven/io.github.simonlu9/log-alarm-spring-boot-core@1.0.2-SB3?classifier=sources
 - pkg:maven/io.github.simonlu9/log-alarm-spring-boot-core@1.0.2?classifier=sources
+- pkg:maven/io.github.simonlu9/log-alarm-spring-boot-core@1.0.3
+- pkg:maven/io.github.simonlu9/log-alarm-spring-boot-core@1.0.3?classifier=sources
+- pkg:maven/io.github.simonlu9/log-alarm-spring-boot-core@1.0.4
+- pkg:maven/io.github.simonlu9/log-alarm-spring-boot-core@1.0.4-SB3
+- pkg:maven/io.github.simonlu9/log-alarm-spring-boot-core@1.0.4-SB3?classifier=sources
+- pkg:maven/io.github.simonlu9/log-alarm-spring-boot-core@1.0.4?classifier=sources
+- pkg:maven/io.github.simonlu9/log-alarm-spring-boot-core@1.0.5-SB3
+- pkg:maven/io.github.simonlu9/log-alarm-spring-boot-core@1.0.5-SB3?classifier=sources

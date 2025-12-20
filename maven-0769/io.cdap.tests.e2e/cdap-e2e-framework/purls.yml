@@ -8,3 +8,5 @@
 - pkg:maven/io.cdap.tests.e2e/cdap-e2e-framework@0.3.0?classifier=sources
 - pkg:maven/io.cdap.tests.e2e/cdap-e2e-framework@0.3.1
 - pkg:maven/io.cdap.tests.e2e/cdap-e2e-framework@0.3.1?classifier=sources
+- pkg:maven/io.cdap.tests.e2e/cdap-e2e-framework@0.3.2
+- pkg:maven/io.cdap.tests.e2e/cdap-e2e-framework@0.3.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/de.lhns/fs2-compress-zip4j_3@2.0.0
 - pkg:maven/de.lhns/fs2-compress-zip4j_3@2.0.0?classifier=sources
+- pkg:maven/de.lhns/fs2-compress-zip4j_3@2.1.0
+- pkg:maven/de.lhns/fs2-compress-zip4j_3@2.1.0?classifier=sources

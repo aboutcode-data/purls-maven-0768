@@ -40,3 +40,5 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.31.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.32.0
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.32.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.33.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client@2.33.0?classifier=sources

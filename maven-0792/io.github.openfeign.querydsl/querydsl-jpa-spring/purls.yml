@@ -28,3 +28,5 @@
 - pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.6?classifier=sources
 - pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.7
 - pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.7?classifier=sources
+- pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.8
+- pkg:maven/io.github.openfeign.querydsl/querydsl-jpa-spring@6.8?classifier=sources

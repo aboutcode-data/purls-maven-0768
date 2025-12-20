@@ -1,0 +1,4 @@
+- pkg:maven/io.github.bvantur/inspektify-ktor3-iosx64@1.0.0-alpha01?classifier=sources
+- pkg:maven/io.github.bvantur/inspektify-ktor3-iosx64@1.0.0-alpha03?classifier=sources
+- pkg:maven/io.github.bvantur/inspektify-ktor3-iosx64@1.0.0-beta01?classifier=sources
+- pkg:maven/io.github.bvantur/inspektify-ktor3-iosx64@1.0.0-beta02?classifier=sources

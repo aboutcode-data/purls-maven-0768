@@ -6,6 +6,7 @@
 - pkg:maven/de.smartsquare/mqtt-starter@0.15.0?classifier=sources
 - pkg:maven/de.smartsquare/mqtt-starter@0.16.0?classifier=sources
 - pkg:maven/de.smartsquare/mqtt-starter@0.17.0?classifier=sources
+- pkg:maven/de.smartsquare/mqtt-starter@0.17.2?classifier=sources
 - pkg:maven/de.smartsquare/mqtt-starter@0.9.1?classifier=sources
 - pkg:maven/de.smartsquare/mqtt-starter@0.9.8?classifier=sources
 - pkg:maven/de.smartsquare/mqtt-starter@0.9.9?classifier=sources

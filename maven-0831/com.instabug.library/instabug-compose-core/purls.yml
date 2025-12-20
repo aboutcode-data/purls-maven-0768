@@ -22,3 +22,6 @@
 - pkg:maven/com.instabug.library/instabug-compose-core@13.2.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-compose-core@13.2.1?classifier=sources
 - pkg:maven/com.instabug.library/instabug-compose-core@13.3.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose-core@13.4.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose-core@13.4.1-no-diagnostics?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose-core@13.4.1?classifier=sources

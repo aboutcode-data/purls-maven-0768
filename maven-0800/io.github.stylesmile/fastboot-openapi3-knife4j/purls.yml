@@ -1,0 +1,2 @@
+- pkg:maven/io.github.stylesmile/fastboot-openapi3-knife4j@2.10.2
+- pkg:maven/io.github.stylesmile/fastboot-openapi3-knife4j@2.10.2?classifier=sources

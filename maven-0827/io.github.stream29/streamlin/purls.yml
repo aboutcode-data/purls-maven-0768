@@ -1,0 +1,5 @@
+- pkg:maven/io.github.stream29/streamlin@1.0?classifier=sources
+- pkg:maven/io.github.stream29/streamlin@2.0?classifier=sources
+- pkg:maven/io.github.stream29/streamlin@2.1?classifier=sources
+- pkg:maven/io.github.stream29/streamlin@2.2?classifier=sources
+- pkg:maven/io.github.stream29/streamlin@2.3?classifier=sources

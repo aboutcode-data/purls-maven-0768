@@ -1,0 +1,2 @@
+- pkg:maven/ink.literate/crowous-android@1.0.0?classifier=sources
+- pkg:maven/ink.literate/crowous-android@1.1.0?classifier=sources

@@ -9,6 +9,7 @@
 - pkg:maven/com.github.bordertech.common/build-tools@1.0.18
 - pkg:maven/com.github.bordertech.common/build-tools@1.0.19
 - pkg:maven/com.github.bordertech.common/build-tools@1.0.20
+- pkg:maven/com.github.bordertech.common/build-tools@1.0.21
 - pkg:maven/com.github.bordertech.common/build-tools@1.0.3
 - pkg:maven/com.github.bordertech.common/build-tools@1.0.4
 - pkg:maven/com.github.bordertech.common/build-tools@1.0.5

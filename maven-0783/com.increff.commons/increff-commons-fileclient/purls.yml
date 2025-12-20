@@ -10,3 +10,5 @@
 - pkg:maven/com.increff.commons/increff-commons-fileclient@2.1.0?classifier=sources
 - pkg:maven/com.increff.commons/increff-commons-fileclient@2.4.0
 - pkg:maven/com.increff.commons/increff-commons-fileclient@2.4.0?classifier=sources
+- pkg:maven/com.increff.commons/increff-commons-fileclient@2.4.1
+- pkg:maven/com.increff.commons/increff-commons-fileclient@2.4.1?classifier=sources

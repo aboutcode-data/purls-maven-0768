@@ -2,3 +2,5 @@
 - pkg:maven/com.dyescape/jackson-dataformat-nbt@1.0?classifier=sources
 - pkg:maven/com.dyescape/jackson-dataformat-nbt@1.1.0
 - pkg:maven/com.dyescape/jackson-dataformat-nbt@1.1.0?classifier=sources
+- pkg:maven/com.dyescape/jackson-dataformat-nbt@1.2.0
+- pkg:maven/com.dyescape/jackson-dataformat-nbt@1.2.0?classifier=sources

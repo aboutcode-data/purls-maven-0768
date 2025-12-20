@@ -22,3 +22,5 @@
 - pkg:maven/com.github.phillip-kruger/apiee-providers@2.0.0-oa3
 - pkg:maven/com.github.phillip-kruger/apiee-providers@2.0.0-oa3?classifier=sources
 - pkg:maven/com.github.phillip-kruger/apiee-providers@2.0.0?classifier=sources
+- pkg:maven/com.github.phillip-kruger/apiee-providers@2.0.1
+- pkg:maven/com.github.phillip-kruger/apiee-providers@2.0.1?classifier=sources

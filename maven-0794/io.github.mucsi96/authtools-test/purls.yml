@@ -1,2 +1,4 @@
 - pkg:maven/io.github.mucsi96/authtools-test@1.0.0?classifier=sources
 - pkg:maven/io.github.mucsi96/authtools-test@2.0.0?classifier=sources
+- pkg:maven/io.github.mucsi96/authtools-test@3.0.0?classifier=sources
+- pkg:maven/io.github.mucsi96/authtools-test@4.0.0?classifier=sources

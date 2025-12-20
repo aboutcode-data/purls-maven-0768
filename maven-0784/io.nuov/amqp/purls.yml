@@ -1,3 +1,4 @@
 - pkg:maven/io.nuov/amqp@1.0.12?classifier=sources
 - pkg:maven/io.nuov/amqp@1.0.13?classifier=sources
 - pkg:maven/io.nuov/amqp@1.0.14?classifier=sources
+- pkg:maven/io.nuov/amqp@1.0.15?classifier=sources

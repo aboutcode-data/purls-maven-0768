@@ -239,6 +239,8 @@
 - pkg:maven/com.rabbitmq/amqp-client@5.20.0?classifier=sources
 - pkg:maven/com.rabbitmq/amqp-client@5.21.0
 - pkg:maven/com.rabbitmq/amqp-client@5.21.0?classifier=sources
+- pkg:maven/com.rabbitmq/amqp-client@5.22.0
+- pkg:maven/com.rabbitmq/amqp-client@5.22.0?classifier=sources
 - pkg:maven/com.rabbitmq/amqp-client@5.3.0
 - pkg:maven/com.rabbitmq/amqp-client@5.3.0?classifier=sources
 - pkg:maven/com.rabbitmq/amqp-client@5.4.0

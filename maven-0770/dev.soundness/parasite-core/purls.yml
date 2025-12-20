@@ -10,6 +10,8 @@
 - pkg:maven/dev.soundness/parasite-core@0.14.0?classifier=sources
 - pkg:maven/dev.soundness/parasite-core@0.15.0
 - pkg:maven/dev.soundness/parasite-core@0.15.0?classifier=sources
+- pkg:maven/dev.soundness/parasite-core@0.16.0
+- pkg:maven/dev.soundness/parasite-core@0.16.0?classifier=sources
 - pkg:maven/dev.soundness/parasite-core@0.2.0
 - pkg:maven/dev.soundness/parasite-core@0.2.0?classifier=sources
 - pkg:maven/dev.soundness/parasite-core@0.3.0

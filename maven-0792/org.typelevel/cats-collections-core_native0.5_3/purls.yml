@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/cats-collections-core_native0.5_3@0.9.9
+- pkg:maven/org.typelevel/cats-collections-core_native0.5_3@0.9.9?classifier=sources

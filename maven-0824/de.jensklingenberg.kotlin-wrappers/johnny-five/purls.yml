@@ -1,0 +1,2 @@
+- pkg:maven/de.jensklingenberg.kotlin-wrappers/johnny-five@0.8.2?classifier=sources
+- pkg:maven/de.jensklingenberg.kotlin-wrappers/johnny-five@0.8.3?classifier=sources

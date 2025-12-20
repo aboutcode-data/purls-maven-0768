@@ -1,2 +1,3 @@
 - pkg:maven/dev.gitlive/firebase-analytics-js@1.13.0?classifier=sources
 - pkg:maven/dev.gitlive/firebase-analytics-js@2.0.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-analytics-js@2.1.0?classifier=sources

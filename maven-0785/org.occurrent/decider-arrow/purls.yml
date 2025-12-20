@@ -16,3 +16,7 @@
 - pkg:maven/org.occurrent/decider-arrow@0.19.2?classifier=sources
 - pkg:maven/org.occurrent/decider-arrow@0.19.3
 - pkg:maven/org.occurrent/decider-arrow@0.19.3?classifier=sources
+- pkg:maven/org.occurrent/decider-arrow@0.19.4
+- pkg:maven/org.occurrent/decider-arrow@0.19.4?classifier=sources
+- pkg:maven/org.occurrent/decider-arrow@0.19.5
+- pkg:maven/org.occurrent/decider-arrow@0.19.5?classifier=sources

@@ -410,3 +410,10 @@
 - pkg:maven/cn.herodotus.engine/data-spring-boot-starter@3.3.2.2?classifier=sources
 - pkg:maven/cn.herodotus.engine/data-spring-boot-starter@3.3.3.0
 - pkg:maven/cn.herodotus.engine/data-spring-boot-starter@3.3.3.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/data-spring-boot-starter@3.3.3.1
+- pkg:maven/cn.herodotus.engine/data-spring-boot-starter@3.3.3.1?classifier=sources
+- pkg:maven/cn.herodotus.engine/data-spring-boot-starter@3.3.3.2
+- pkg:maven/cn.herodotus.engine/data-spring-boot-starter@3.3.3.2?classifier=sources
+- pkg:maven/cn.herodotus.engine/data-spring-boot-starter@3.3.4.0
+- pkg:maven/cn.herodotus.engine/data-spring-boot-starter@3.3.4.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/data-spring-boot-starter@3.3.4.1?classifier=sources

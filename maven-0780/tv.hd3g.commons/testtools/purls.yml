@@ -2,3 +2,5 @@
 - pkg:maven/tv.hd3g.commons/testtools@21.1.0?classifier=sources
 - pkg:maven/tv.hd3g.commons/testtools@21.2.0
 - pkg:maven/tv.hd3g.commons/testtools@21.2.0?classifier=sources
+- pkg:maven/tv.hd3g.commons/testtools@22.0.0
+- pkg:maven/tv.hd3g.commons/testtools@22.0.0?classifier=sources

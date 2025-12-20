@@ -1,3 +1,4 @@
+- pkg:maven/io.camunda/operate-schema@8.6.0
 - pkg:maven/io.camunda/operate-schema@8.6.0-alpha1
 - pkg:maven/io.camunda/operate-schema@8.6.0-alpha1-rc1
 - pkg:maven/io.camunda/operate-schema@8.6.0-alpha1-rc1?classifier=sources
@@ -24,5 +25,16 @@
 - pkg:maven/io.camunda/operate-schema@8.6.0-alpha4-rc2
 - pkg:maven/io.camunda/operate-schema@8.6.0-alpha4-rc2?classifier=sources
 - pkg:maven/io.camunda/operate-schema@8.6.0-alpha4?classifier=sources
+- pkg:maven/io.camunda/operate-schema@8.6.0-alpha5
 - pkg:maven/io.camunda/operate-schema@8.6.0-alpha5-rc1
 - pkg:maven/io.camunda/operate-schema@8.6.0-alpha5-rc1?classifier=sources
+- pkg:maven/io.camunda/operate-schema@8.6.0-alpha5-rc2
+- pkg:maven/io.camunda/operate-schema@8.6.0-alpha5-rc2?classifier=sources
+- pkg:maven/io.camunda/operate-schema@8.6.0-alpha5?classifier=sources
+- pkg:maven/io.camunda/operate-schema@8.6.0-rc1
+- pkg:maven/io.camunda/operate-schema@8.6.0-rc1?classifier=sources
+- pkg:maven/io.camunda/operate-schema@8.6.0-rc2
+- pkg:maven/io.camunda/operate-schema@8.6.0-rc2?classifier=sources
+- pkg:maven/io.camunda/operate-schema@8.6.0-rc3
+- pkg:maven/io.camunda/operate-schema@8.6.0-rc3?classifier=sources
+- pkg:maven/io.camunda/operate-schema@8.6.0?classifier=sources

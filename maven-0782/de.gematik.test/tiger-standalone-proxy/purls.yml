@@ -124,3 +124,5 @@
 - pkg:maven/de.gematik.test/tiger-standalone-proxy@3.2.5?classifier=sources
 - pkg:maven/de.gematik.test/tiger-standalone-proxy@3.2.7
 - pkg:maven/de.gematik.test/tiger-standalone-proxy@3.2.7?classifier=sources
+- pkg:maven/de.gematik.test/tiger-standalone-proxy@3.3.0
+- pkg:maven/de.gematik.test/tiger-standalone-proxy@3.3.0?classifier=sources

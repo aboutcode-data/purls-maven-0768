@@ -1,1 +1,2 @@
+- pkg:maven/gov.nih.ncats/gsrs-spring-legacy-sequence-indexer@3.1.1?classifier=sources
 - pkg:maven/gov.nih.ncats/gsrs-spring-legacy-sequence-indexer@3.1?classifier=sources

@@ -28,3 +28,4 @@
 - pkg:maven/net.gini.android/gini-bank-api-lib@3.2.0?classifier=sources
 - pkg:maven/net.gini.android/gini-bank-api-lib@3.2.1?classifier=sources
 - pkg:maven/net.gini.android/gini-bank-api-lib@3.2.2?classifier=sources
+- pkg:maven/net.gini.android/gini-bank-api-lib@3.3.0?classifier=sources

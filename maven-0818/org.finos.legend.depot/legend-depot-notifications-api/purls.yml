@@ -74,3 +74,5 @@
 - pkg:maven/org.finos.legend.depot/legend-depot-notifications-api@2.41.1?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-notifications-api@2.42.0
 - pkg:maven/org.finos.legend.depot/legend-depot-notifications-api@2.42.0?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-notifications-api@2.43.0
+- pkg:maven/org.finos.legend.depot/legend-depot-notifications-api@2.43.0?classifier=sources

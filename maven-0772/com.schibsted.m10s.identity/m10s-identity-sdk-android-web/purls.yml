@@ -1,0 +1,6 @@
+- pkg:maven/com.schibsted.m10s.identity/m10s-identity-sdk-android-web@0.0.1-m10s-1?classifier=sources
+- pkg:maven/com.schibsted.m10s.identity/m10s-identity-sdk-android-web@7.0.0-rc1?classifier=sources
+- pkg:maven/com.schibsted.m10s.identity/m10s-identity-sdk-android-web@7.0.0-rc2?classifier=sources
+- pkg:maven/com.schibsted.m10s.identity/m10s-identity-sdk-android-web@7.0.0?classifier=sources
+- pkg:maven/com.schibsted.m10s.identity/m10s-identity-sdk-android-web@7.0.1?classifier=sources
+- pkg:maven/com.schibsted.m10s.identity/m10s-identity-sdk-android-web@7.1.0?classifier=sources

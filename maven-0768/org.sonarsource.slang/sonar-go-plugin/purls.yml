@@ -7,6 +7,7 @@
 - pkg:maven/org.sonarsource.slang/sonar-go-plugin@1.15.1.6141?classifier=sources
 - pkg:maven/org.sonarsource.slang/sonar-go-plugin@1.15.2.6150?classifier=sources
 - pkg:maven/org.sonarsource.slang/sonar-go-plugin@1.17.0.123?classifier=sources
+- pkg:maven/org.sonarsource.slang/sonar-go-plugin@1.17.1.145?classifier=sources
 - pkg:maven/org.sonarsource.slang/sonar-go-plugin@1.7.0.883
 - pkg:maven/org.sonarsource.slang/sonar-go-plugin@1.7.0.883?classifier=sources
 - pkg:maven/org.sonarsource.slang/sonar-go-plugin@1.8.0.1775

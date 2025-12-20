@@ -14,3 +14,5 @@
 - pkg:maven/fish.payara.starter/payara-starter-ui@1.0-beta7?type=war
 - pkg:maven/fish.payara.starter/payara-starter-ui@1.0-beta8?classifier=sources
 - pkg:maven/fish.payara.starter/payara-starter-ui@1.0-beta8?type=war
+- pkg:maven/fish.payara.starter/payara-starter-ui@1.0-beta9?classifier=sources
+- pkg:maven/fish.payara.starter/payara-starter-ui@1.0-beta9?type=war

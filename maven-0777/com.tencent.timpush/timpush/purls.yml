@@ -13,3 +13,5 @@
 - pkg:maven/com.tencent.timpush/timpush@8.1.6107?classifier=sources
 - pkg:maven/com.tencent.timpush/timpush@8.1.6109?classifier=sources
 - pkg:maven/com.tencent.timpush/timpush@8.1.6902?classifier=sources
+- pkg:maven/com.tencent.timpush/timpush@8.1.6906?classifier=sources
+- pkg:maven/com.tencent.timpush/timpush@8.2.6325?classifier=sources

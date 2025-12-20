@@ -8,3 +8,5 @@
 - pkg:maven/cn.ujava/ujava-common@3.0.3?classifier=sources
 - pkg:maven/cn.ujava/ujava-common@4.0.0
 - pkg:maven/cn.ujava/ujava-common@4.0.0?classifier=sources
+- pkg:maven/cn.ujava/ujava-common@7.0.0
+- pkg:maven/cn.ujava/ujava-common@7.0.0?classifier=sources

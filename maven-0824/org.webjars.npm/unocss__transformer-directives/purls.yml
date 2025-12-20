@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/unocss__transformer-directives@0.51.4?classifier=sources
 - pkg:maven/org.webjars.npm/unocss__transformer-directives@0.51.8
 - pkg:maven/org.webjars.npm/unocss__transformer-directives@0.51.8?classifier=sources
+- pkg:maven/org.webjars.npm/unocss__transformer-directives@0.63.3

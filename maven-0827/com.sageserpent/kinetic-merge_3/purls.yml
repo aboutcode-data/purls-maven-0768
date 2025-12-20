@@ -48,3 +48,7 @@
 - pkg:maven/com.sageserpent/kinetic-merge_3@1.2.3?classifier=sources
 - pkg:maven/com.sageserpent/kinetic-merge_3@1.2.4
 - pkg:maven/com.sageserpent/kinetic-merge_3@1.2.4?classifier=sources
+- pkg:maven/com.sageserpent/kinetic-merge_3@1.3.0
+- pkg:maven/com.sageserpent/kinetic-merge_3@1.3.0?classifier=sources
+- pkg:maven/com.sageserpent/kinetic-merge_3@1.3.1
+- pkg:maven/com.sageserpent/kinetic-merge_3@1.3.1?classifier=sources

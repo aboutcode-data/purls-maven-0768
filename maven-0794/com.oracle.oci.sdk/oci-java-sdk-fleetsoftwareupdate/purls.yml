@@ -104,3 +104,9 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetsoftwareupdate@3.47.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetsoftwareupdate@3.48.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetsoftwareupdate@3.48.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetsoftwareupdate@3.49.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetsoftwareupdate@3.49.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetsoftwareupdate@3.50.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetsoftwareupdate@3.50.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetsoftwareupdate@3.50.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetsoftwareupdate@3.50.1?classifier=sources

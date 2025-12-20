@@ -220,3 +220,5 @@
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.8.2?classifier=sources
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.8.3
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.8.3?classifier=sources
+- pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.8.4-RC1
+- pkg:maven/org.scalameta/scalafmt-dynamic_2.12@3.8.4-RC1?classifier=sources

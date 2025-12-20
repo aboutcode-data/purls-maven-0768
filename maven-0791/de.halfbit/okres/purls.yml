@@ -7,3 +7,4 @@
 - pkg:maven/de.halfbit/okres@5.0?classifier=sources
 - pkg:maven/de.halfbit/okres@5.1?classifier=sources
 - pkg:maven/de.halfbit/okres@5.2?classifier=sources
+- pkg:maven/de.halfbit/okres@5.3?classifier=sources

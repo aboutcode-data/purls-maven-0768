@@ -1,0 +1,2 @@
+- pkg:maven/edu.jhuapl.ses.vtk/vtk-java-example@9.2.6.0
+- pkg:maven/edu.jhuapl.ses.vtk/vtk-java-example@9.2.6.0?classifier=sources

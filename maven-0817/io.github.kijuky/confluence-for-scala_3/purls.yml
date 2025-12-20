@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kijuky/confluence-for-scala_3@1.0.0
+- pkg:maven/io.github.kijuky/confluence-for-scala_3@1.0.0?classifier=sources

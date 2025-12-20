@@ -104,6 +104,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.49.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.5.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.5.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.50.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.50.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.52.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.52.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.6.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tpu-v2alpha1@2.7.0

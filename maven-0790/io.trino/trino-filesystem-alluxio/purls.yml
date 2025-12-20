@@ -1,0 +1,2 @@
+- pkg:maven/io.trino/trino-filesystem-alluxio@460
+- pkg:maven/io.trino/trino-filesystem-alluxio@460?classifier=sources

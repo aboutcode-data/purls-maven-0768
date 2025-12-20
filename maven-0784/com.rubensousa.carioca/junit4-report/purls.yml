@@ -1,0 +1,2 @@
+- pkg:maven/com.rubensousa.carioca/junit4-report@%221.0.0-alpha02%22?classifier=sources
+- pkg:maven/com.rubensousa.carioca/junit4-report@1.0.0-alpha01?classifier=sources

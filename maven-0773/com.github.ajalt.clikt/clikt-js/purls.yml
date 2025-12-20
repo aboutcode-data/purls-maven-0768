@@ -20,3 +20,5 @@
 - pkg:maven/com.github.ajalt.clikt/clikt-js@4.2.2?classifier=sources
 - pkg:maven/com.github.ajalt.clikt/clikt-js@4.3.0?classifier=sources
 - pkg:maven/com.github.ajalt.clikt/clikt-js@4.4.0?classifier=sources
+- pkg:maven/com.github.ajalt.clikt/clikt-js@5.0.0?classifier=sources
+- pkg:maven/com.github.ajalt.clikt/clikt-js@5.0.1?classifier=sources

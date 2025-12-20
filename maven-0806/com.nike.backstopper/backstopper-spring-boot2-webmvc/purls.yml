@@ -6,3 +6,4 @@
 - pkg:maven/com.nike.backstopper/backstopper-spring-boot2-webmvc@0.14.1?classifier=sources
 - pkg:maven/com.nike.backstopper/backstopper-spring-boot2-webmvc@0.15.0?classifier=sources
 - pkg:maven/com.nike.backstopper/backstopper-spring-boot2-webmvc@0.15.1?classifier=sources
+- pkg:maven/com.nike.backstopper/backstopper-spring-boot2-webmvc@1.15.2?classifier=sources

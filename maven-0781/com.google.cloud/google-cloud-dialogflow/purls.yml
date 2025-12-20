@@ -366,6 +366,10 @@
 - pkg:maven/com.google.cloud/google-cloud-dialogflow@4.53.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dialogflow@4.54.0
 - pkg:maven/com.google.cloud/google-cloud-dialogflow@4.54.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dialogflow@4.55.0
+- pkg:maven/com.google.cloud/google-cloud-dialogflow@4.55.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dialogflow@4.57.0
+- pkg:maven/com.google.cloud/google-cloud-dialogflow@4.57.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dialogflow@4.6.0
 - pkg:maven/com.google.cloud/google-cloud-dialogflow@4.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dialogflow@4.7.0

@@ -34,3 +34,5 @@
 - pkg:maven/org.commonjava.util/path-mapped-storage@2.6?classifier=sources
 - pkg:maven/org.commonjava.util/path-mapped-storage@2.8
 - pkg:maven/org.commonjava.util/path-mapped-storage@2.8?classifier=sources
+- pkg:maven/org.commonjava.util/path-mapped-storage@2.9
+- pkg:maven/org.commonjava.util/path-mapped-storage@2.9?classifier=sources

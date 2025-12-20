@@ -30,3 +30,5 @@
 - pkg:maven/com.aliyun/alibabacloud-elasticsearch20170613@2.0.4?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-elasticsearch20170613@2.0.5
 - pkg:maven/com.aliyun/alibabacloud-elasticsearch20170613@2.0.5?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-elasticsearch20170613@2.0.6
+- pkg:maven/com.aliyun/alibabacloud-elasticsearch20170613@2.0.6?classifier=sources

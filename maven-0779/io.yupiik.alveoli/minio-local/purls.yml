@@ -26,3 +26,4 @@
 - pkg:maven/io.yupiik.alveoli/minio-local@1.0.26?classifier=sources
 - pkg:maven/io.yupiik.alveoli/minio-local@1.0.27
 - pkg:maven/io.yupiik.alveoli/minio-local@1.0.27?classifier=sources
+- pkg:maven/io.yupiik.alveoli/minio-local@1.0.28?classifier=sources

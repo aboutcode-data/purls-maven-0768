@@ -1,0 +1,2 @@
+- pkg:maven/com.mqttsnet.thinglinks/open-exp-json-impl-jackson@1.0.3?classifier=sources
+- pkg:maven/com.mqttsnet.thinglinks/open-exp-json-impl-jackson@1.0.4?classifier=sources

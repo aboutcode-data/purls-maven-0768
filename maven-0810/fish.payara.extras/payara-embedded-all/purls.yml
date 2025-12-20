@@ -109,3 +109,4 @@
 - pkg:maven/fish.payara.extras/payara-embedded-all@6.2024.6?classifier=sources
 - pkg:maven/fish.payara.extras/payara-embedded-all@6.2024.7?classifier=sources
 - pkg:maven/fish.payara.extras/payara-embedded-all@6.2024.8?classifier=sources
+- pkg:maven/fish.payara.extras/payara-embedded-all@6.2024.9?classifier=sources
