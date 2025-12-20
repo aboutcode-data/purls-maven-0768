@@ -1,0 +1,2 @@
+- pkg:maven/xyz.muses.framework/muses-orm@1.0.0?classifier=sources
+- pkg:maven/xyz.muses.framework/muses-orm@1.0.1?classifier=sources

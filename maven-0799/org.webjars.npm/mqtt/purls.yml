@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/mqtt@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/mqtt@4.3.7
 - pkg:maven/org.webjars.npm/mqtt@4.3.7?classifier=sources
+- pkg:maven/org.webjars.npm/mqtt@5.8.1

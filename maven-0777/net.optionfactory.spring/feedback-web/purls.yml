@@ -30,6 +30,12 @@
 - pkg:maven/net.optionfactory.spring/feedback-web@13.4?classifier=sources
 - pkg:maven/net.optionfactory.spring/feedback-web@13.6
 - pkg:maven/net.optionfactory.spring/feedback-web@13.6?classifier=sources
+- pkg:maven/net.optionfactory.spring/feedback-web@13.7
+- pkg:maven/net.optionfactory.spring/feedback-web@13.7?classifier=sources
+- pkg:maven/net.optionfactory.spring/feedback-web@13.8
+- pkg:maven/net.optionfactory.spring/feedback-web@13.8?classifier=sources
+- pkg:maven/net.optionfactory.spring/feedback-web@14.0
+- pkg:maven/net.optionfactory.spring/feedback-web@14.0?classifier=sources
 - pkg:maven/net.optionfactory.spring/feedback-web@4.0
 - pkg:maven/net.optionfactory.spring/feedback-web@4.0?classifier=sources
 - pkg:maven/net.optionfactory.spring/feedback-web@4.1

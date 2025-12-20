@@ -48,6 +48,7 @@
 - pkg:maven/dev.inmo/plagubot.plugin@3.2.0?classifier=sources
 - pkg:maven/dev.inmo/plagubot.plugin@3.2.1?classifier=sources
 - pkg:maven/dev.inmo/plagubot.plugin@3.2.2?classifier=sources
+- pkg:maven/dev.inmo/plagubot.plugin@3.2.3?classifier=sources
 - pkg:maven/dev.inmo/plagubot.plugin@3.3.0?classifier=sources
 - pkg:maven/dev.inmo/plagubot.plugin@3.3.1?classifier=sources
 - pkg:maven/dev.inmo/plagubot.plugin@3.4.0?classifier=sources
@@ -83,3 +84,5 @@
 - pkg:maven/dev.inmo/plagubot.plugin@8.1.1?classifier=sources
 - pkg:maven/dev.inmo/plagubot.plugin@8.2.0?classifier=sources
 - pkg:maven/dev.inmo/plagubot.plugin@8.3.0?classifier=sources
+- pkg:maven/dev.inmo/plagubot.plugin@8.5.0?classifier=sources
+- pkg:maven/dev.inmo/plagubot.plugin@8.5.1?classifier=sources

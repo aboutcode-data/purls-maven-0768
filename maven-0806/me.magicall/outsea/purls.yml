@@ -16,6 +16,10 @@
 - pkg:maven/me.magicall/outsea@2.0.0?classifier=sources
 - pkg:maven/me.magicall/outsea@2.1.0
 - pkg:maven/me.magicall/outsea@2.1.0?classifier=sources
+- pkg:maven/me.magicall/outsea@2.11.0
+- pkg:maven/me.magicall/outsea@2.11.0?classifier=sources
+- pkg:maven/me.magicall/outsea@2.13.0
+- pkg:maven/me.magicall/outsea@2.13.0?classifier=sources
 - pkg:maven/me.magicall/outsea@2.2.0
 - pkg:maven/me.magicall/outsea@2.2.0?classifier=sources
 - pkg:maven/me.magicall/outsea@2.5.0

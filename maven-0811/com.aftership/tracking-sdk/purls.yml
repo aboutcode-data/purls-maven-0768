@@ -1,0 +1,6 @@
+- pkg:maven/com.aftership/tracking-sdk@5.0.0
+- pkg:maven/com.aftership/tracking-sdk@5.0.0-snapshot
+- pkg:maven/com.aftership/tracking-sdk@5.0.0-snapshot?classifier=sources
+- pkg:maven/com.aftership/tracking-sdk@5.0.0?classifier=sources
+- pkg:maven/com.aftership/tracking-sdk@6.0.0
+- pkg:maven/com.aftership/tracking-sdk@6.0.0?classifier=sources

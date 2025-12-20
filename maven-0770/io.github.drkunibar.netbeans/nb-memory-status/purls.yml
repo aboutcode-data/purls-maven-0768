@@ -1,1 +1,2 @@
 - pkg:maven/io.github.drkunibar.netbeans/nb-memory-status@1.0.0?classifier=sources
+- pkg:maven/io.github.drkunibar.netbeans/nb-memory-status@1.1.0?classifier=sources

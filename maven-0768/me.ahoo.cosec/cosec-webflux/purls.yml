@@ -123,3 +123,4 @@
 - pkg:maven/me.ahoo.cosec/cosec-webflux@2.7.3?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-webflux@2.7.4?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-webflux@2.8.0?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webflux@2.8.2?classifier=sources

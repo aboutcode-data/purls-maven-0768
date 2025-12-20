@@ -30,6 +30,10 @@
 - pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.22.1?classifier=sources
 - pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.22.2
 - pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.22.2?classifier=sources
+- pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.23.0
+- pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.23.0?classifier=sources
+- pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.24.0
+- pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.24.0?classifier=sources
 - pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.5.0
 - pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.5.0?classifier=sources
 - pkg:maven/com.olvind.typo/typo-dsl-zio-jdbc_3@0.6.0

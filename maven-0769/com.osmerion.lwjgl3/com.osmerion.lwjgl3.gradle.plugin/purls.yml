@@ -1,2 +1,3 @@
 - pkg:maven/com.osmerion.lwjgl3/com.osmerion.lwjgl3.gradle.plugin@0.1.0?classifier=sources
 - pkg:maven/com.osmerion.lwjgl3/com.osmerion.lwjgl3.gradle.plugin@0.2.0?classifier=sources
+- pkg:maven/com.osmerion.lwjgl3/com.osmerion.lwjgl3.gradle.plugin@0.3.0?classifier=sources

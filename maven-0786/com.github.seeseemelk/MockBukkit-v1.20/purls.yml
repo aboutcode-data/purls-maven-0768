@@ -109,3 +109,4 @@
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.20@3.88.1?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.20@3.89.0?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.20@3.9.0?classifier=sources
+- pkg:maven/com.github.seeseemelk/MockBukkit-v1.20@3.93.2?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.glassfish.main.extras/command-logger@7.0.16?classifier=sources
+- pkg:maven/org.glassfish.main.extras/command-logger@8.0.0-JDK17-M7?classifier=sources
+- pkg:maven/org.glassfish.main.extras/command-logger@8.0.0-M7?classifier=sources

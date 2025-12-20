@@ -1,2 +1,4 @@
 - pkg:maven/fr.insee.eno/eno-core@1.0.0
 - pkg:maven/fr.insee.eno/eno-core@1.0.0?classifier=sources
+- pkg:maven/fr.insee.eno/eno-core@2.9.11
+- pkg:maven/fr.insee.eno/eno-core@2.9.11?classifier=sources

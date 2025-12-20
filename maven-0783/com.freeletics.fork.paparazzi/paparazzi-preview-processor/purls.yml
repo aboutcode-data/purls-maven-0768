@@ -12,3 +12,4 @@
 - pkg:maven/com.freeletics.fork.paparazzi/paparazzi-preview-processor@1.3.3-fl06?classifier=sources
 - pkg:maven/com.freeletics.fork.paparazzi/paparazzi-preview-processor@1.3.3-fl07?classifier=sources
 - pkg:maven/com.freeletics.fork.paparazzi/paparazzi-preview-processor@1.3.4-fl01?classifier=sources
+- pkg:maven/com.freeletics.fork.paparazzi/paparazzi-preview-processor@1.3.4-fl02?classifier=sources

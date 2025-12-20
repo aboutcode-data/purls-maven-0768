@@ -1,0 +1,2 @@
+- pkg:maven/io.cequence/openai-scala-client-task_2.12@1.1.0.RC.1
+- pkg:maven/io.cequence/openai-scala-client-task_2.12@1.1.0.RC.1?classifier=sources

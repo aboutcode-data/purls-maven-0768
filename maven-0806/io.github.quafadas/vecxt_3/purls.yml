@@ -4,6 +4,10 @@
 - pkg:maven/io.github.quafadas/vecxt_3@0.0.11?classifier=sources
 - pkg:maven/io.github.quafadas/vecxt_3@0.0.12
 - pkg:maven/io.github.quafadas/vecxt_3@0.0.12?classifier=sources
+- pkg:maven/io.github.quafadas/vecxt_3@0.0.15
+- pkg:maven/io.github.quafadas/vecxt_3@0.0.15?classifier=sources
+- pkg:maven/io.github.quafadas/vecxt_3@0.0.17
+- pkg:maven/io.github.quafadas/vecxt_3@0.0.17?classifier=sources
 - pkg:maven/io.github.quafadas/vecxt_3@0.0.3
 - pkg:maven/io.github.quafadas/vecxt_3@0.0.3?classifier=sources
 - pkg:maven/io.github.quafadas/vecxt_3@0.0.5

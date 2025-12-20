@@ -32,6 +32,10 @@
 - pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.0.1-beta-11?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.0.1-beta-12?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.0.1-beta-13?classifier=sources
+- pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.0.1-beta-14?classifier=sources
+- pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.0.1-beta-15?classifier=sources
+- pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.0.1-beta-16?classifier=sources
+- pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.0.1-beta-17?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.0.1-beta-1?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.0.1-beta-2?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.0.1-beta-3?classifier=sources

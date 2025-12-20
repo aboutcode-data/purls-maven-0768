@@ -20,3 +20,5 @@
 - pkg:maven/com.indoorvivants.vcpkg/sn-vcpkg_3@0.0.19?classifier=sources
 - pkg:maven/com.indoorvivants.vcpkg/sn-vcpkg_3@0.0.20
 - pkg:maven/com.indoorvivants.vcpkg/sn-vcpkg_3@0.0.20?classifier=sources
+- pkg:maven/com.indoorvivants.vcpkg/sn-vcpkg_3@0.0.21
+- pkg:maven/com.indoorvivants.vcpkg/sn-vcpkg_3@0.0.21?classifier=sources

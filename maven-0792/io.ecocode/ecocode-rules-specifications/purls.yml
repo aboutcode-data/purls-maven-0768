@@ -19,3 +19,5 @@
 - pkg:maven/io.ecocode/ecocode-rules-specifications@1.5.4
 - pkg:maven/io.ecocode/ecocode-rules-specifications@1.6.0
 - pkg:maven/io.ecocode/ecocode-rules-specifications@1.6.1
+- pkg:maven/io.ecocode/ecocode-rules-specifications@1.6.2
+- pkg:maven/io.ecocode/ecocode-rules-specifications@1.6.3

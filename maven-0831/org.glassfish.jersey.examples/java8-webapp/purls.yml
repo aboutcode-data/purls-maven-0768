@@ -126,6 +126,8 @@
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@2.42?type=war
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@2.43?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@2.43?type=war
+- pkg:maven/org.glassfish.jersey.examples/java8-webapp@2.44?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/java8-webapp@2.44?type=war
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.0.0-M1?type=war
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.0.0-M6?classifier=sources
@@ -145,6 +147,8 @@
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.0.13?type=war
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.0.14?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.0.14?type=war
+- pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.0.15?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.0.15?type=war
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.0.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.0.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.0.1?type=war
@@ -193,5 +197,7 @@
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.1.6?type=war
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.1.7?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.1.7?type=war
+- pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.1.8?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/java8-webapp@3.1.8?type=war
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@4.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/java8-webapp@4.0.0-M1?type=war

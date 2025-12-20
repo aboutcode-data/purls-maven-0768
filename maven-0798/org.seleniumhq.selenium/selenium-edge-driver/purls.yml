@@ -162,6 +162,10 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.21.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.22.0
 - pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.22.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.23.0
+- pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.23.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.23.1
+- pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.23.1?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.3.0
 - pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.3.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-edge-driver@4.4.0

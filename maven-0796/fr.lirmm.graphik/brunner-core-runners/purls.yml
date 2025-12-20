@@ -6,3 +6,5 @@
 - pkg:maven/fr.lirmm.graphik/brunner-core-runners@1.0.2?classifier=sources
 - pkg:maven/fr.lirmm.graphik/brunner-core-runners@1.0.3
 - pkg:maven/fr.lirmm.graphik/brunner-core-runners@1.0.3?classifier=sources
+- pkg:maven/fr.lirmm.graphik/brunner-core-runners@1.0.4
+- pkg:maven/fr.lirmm.graphik/brunner-core-runners@1.0.4?classifier=sources

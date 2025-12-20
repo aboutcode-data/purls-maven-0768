@@ -26,6 +26,8 @@
 - pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.22?classifier=sources
 - pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.23
 - pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.23?classifier=sources
+- pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.24
+- pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.24?classifier=sources
 - pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.5
 - pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.5?classifier=sources
 - pkg:maven/org.bidib.jbidib/bidibwizard-integration@2.0.6

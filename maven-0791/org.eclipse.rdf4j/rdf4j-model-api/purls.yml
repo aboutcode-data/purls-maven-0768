@@ -87,6 +87,8 @@
 - pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@4.3.11?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@4.3.12
 - pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@4.3.12?classifier=sources
+- pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@4.3.13
+- pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@4.3.13?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@4.3.1?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@4.3.2
 - pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@4.3.2?classifier=sources
@@ -114,3 +116,7 @@
 - pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@5.0.0-RC
 - pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@5.0.0-RC?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@5.0.0?classifier=sources
+- pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@5.0.1
+- pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@5.0.1?classifier=sources
+- pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@5.0.2
+- pkg:maven/org.eclipse.rdf4j/rdf4j-model-api@5.0.2?classifier=sources

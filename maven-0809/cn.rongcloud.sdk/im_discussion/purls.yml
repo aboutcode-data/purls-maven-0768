@@ -30,6 +30,8 @@
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.1.9.9?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.1.9?classifier=sources
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.1.9?type=aar
+- pkg:maven/cn.rongcloud.sdk/im_discussion@5.10.0?type=aar
+- pkg:maven/cn.rongcloud.sdk/im_discussion@5.10.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.2.0.1?classifier=sources
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.2.0.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.2.0.2?classifier=sources
@@ -58,6 +60,7 @@
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.4.6?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.5.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.5.3?type=aar
+- pkg:maven/cn.rongcloud.sdk/im_discussion@5.5.4?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.6.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.6.1.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.6.10?type=aar
@@ -72,3 +75,4 @@
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.8.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.8.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_discussion@5.8.2?type=aar
+- pkg:maven/cn.rongcloud.sdk/im_discussion@5.8.3?type=aar

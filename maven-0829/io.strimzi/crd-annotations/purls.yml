@@ -50,3 +50,5 @@
 - pkg:maven/io.strimzi/crd-annotations@0.40.0?classifier=sources
 - pkg:maven/io.strimzi/crd-annotations@0.41.0
 - pkg:maven/io.strimzi/crd-annotations@0.41.0?classifier=sources
+- pkg:maven/io.strimzi/crd-annotations@0.42.0
+- pkg:maven/io.strimzi/crd-annotations@0.42.0?classifier=sources

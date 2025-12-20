@@ -285,6 +285,8 @@
 - pkg:maven/io.camunda/zeebe-atomix-utils@8.2.29?classifier=sources
 - pkg:maven/io.camunda/zeebe-atomix-utils@8.2.2?classifier=sources
 - pkg:maven/io.camunda/zeebe-atomix-utils@8.2.3
+- pkg:maven/io.camunda/zeebe-atomix-utils@8.2.30
+- pkg:maven/io.camunda/zeebe-atomix-utils@8.2.30?classifier=sources
 - pkg:maven/io.camunda/zeebe-atomix-utils@8.2.3?classifier=sources
 - pkg:maven/io.camunda/zeebe-atomix-utils@8.2.4
 - pkg:maven/io.camunda/zeebe-atomix-utils@8.2.4?classifier=sources
@@ -408,3 +410,7 @@
 - pkg:maven/io.camunda/zeebe-atomix-utils@8.6.0-alpha3-rc3
 - pkg:maven/io.camunda/zeebe-atomix-utils@8.6.0-alpha3-rc3?classifier=sources
 - pkg:maven/io.camunda/zeebe-atomix-utils@8.6.0-alpha3?classifier=sources
+- pkg:maven/io.camunda/zeebe-atomix-utils@8.6.0-alpha4-rc1
+- pkg:maven/io.camunda/zeebe-atomix-utils@8.6.0-alpha4-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-atomix-utils@8.6.0-alpha4-rc2
+- pkg:maven/io.camunda/zeebe-atomix-utils@8.6.0-alpha4-rc2?classifier=sources

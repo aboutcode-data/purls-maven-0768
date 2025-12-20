@@ -346,8 +346,16 @@
 - pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.36?classifier=sources
 - pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.37
 - pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.37?classifier=sources
+- pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.39
+- pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.39?classifier=sources
 - pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.3?classifier=sources
 - pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.4
+- pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.40
+- pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.40?classifier=sources
+- pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.41
+- pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.41?classifier=sources
+- pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.42
+- pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.42?classifier=sources
 - pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.4?classifier=sources
 - pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.5
 - pkg:maven/io.cronapp/cronapp-framework-customization@3.0.0-SP.5?classifier=sources

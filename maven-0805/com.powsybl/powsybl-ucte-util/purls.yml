@@ -158,3 +158,5 @@
 - pkg:maven/com.powsybl/powsybl-ucte-util@6.4.0-RC2
 - pkg:maven/com.powsybl/powsybl-ucte-util@6.4.0-RC2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-ucte-util@6.4.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-ucte-util@6.4.1
+- pkg:maven/com.powsybl/powsybl-ucte-util@6.4.1?classifier=sources

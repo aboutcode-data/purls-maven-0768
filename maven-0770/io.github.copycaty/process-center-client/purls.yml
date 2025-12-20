@@ -1,0 +1,2 @@
+- pkg:maven/io.github.copycaty/process-center-client@1.6.0?classifier=sources
+- pkg:maven/io.github.copycaty/process-center-client@1.6.1?classifier=sources

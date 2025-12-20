@@ -28,3 +28,5 @@
 - pkg:maven/com.aliyun/cc5g20220314@2.0.9?classifier=sources
 - pkg:maven/com.aliyun/cc5g20220314@2.1.0
 - pkg:maven/com.aliyun/cc5g20220314@2.1.0?classifier=sources
+- pkg:maven/com.aliyun/cc5g20220314@2.2.0
+- pkg:maven/com.aliyun/cc5g20220314@2.2.0?classifier=sources

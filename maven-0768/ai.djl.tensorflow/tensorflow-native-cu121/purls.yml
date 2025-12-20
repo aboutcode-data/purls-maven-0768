@@ -1,0 +1,2 @@
+- pkg:maven/ai.djl.tensorflow/tensorflow-native-cu121@2.16.1
+- pkg:maven/ai.djl.tensorflow/tensorflow-native-cu121@2.16.1?classifier=sources

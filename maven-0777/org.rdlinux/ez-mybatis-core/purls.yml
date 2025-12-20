@@ -168,3 +168,11 @@
 - pkg:maven/org.rdlinux/ez-mybatis-core@0.8.3.RS?classifier=sources
 - pkg:maven/org.rdlinux/ez-mybatis-core@0.8.4.RS
 - pkg:maven/org.rdlinux/ez-mybatis-core@0.8.4.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-core@0.8.5.RS
+- pkg:maven/org.rdlinux/ez-mybatis-core@0.8.5.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-core@0.8.6.RS
+- pkg:maven/org.rdlinux/ez-mybatis-core@0.8.6.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-core@0.8.7.RS
+- pkg:maven/org.rdlinux/ez-mybatis-core@0.8.7.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-core@0.8.8.RS
+- pkg:maven/org.rdlinux/ez-mybatis-core@0.8.8.RS?classifier=sources

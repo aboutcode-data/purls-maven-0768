@@ -29,6 +29,10 @@
 - pkg:maven/edu.utah.bmi.nlp/rush@2.0.0.0-jdk1.8?classifier=sources
 - pkg:maven/edu.utah.bmi.nlp/rush@2.0.0.0-jdk11
 - pkg:maven/edu.utah.bmi.nlp/rush@2.0.0.0-jdk11?classifier=sources
+- pkg:maven/edu.utah.bmi.nlp/rush@2.0.1.0-jdk11
+- pkg:maven/edu.utah.bmi.nlp/rush@2.0.1.0-jdk11?classifier=sources
+- pkg:maven/edu.utah.bmi.nlp/rush@2.0.1.0-jdk8
+- pkg:maven/edu.utah.bmi.nlp/rush@2.0.1.0-jdk8?classifier=sources
 - pkg:maven/edu.utah.bmi.nlp/rush@2.0?classifier=sources
 - pkg:maven/edu.utah.bmi.nlp/rush@3.0
 - pkg:maven/edu.utah.bmi.nlp/rush@3.0?classifier=sources

@@ -39,3 +39,5 @@
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.3.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.4.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.4.1?classifier=sources
+- pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.5.0?classifier=sources
+- pkg:maven/com.qiyukf.unicorn/unicorn_abroad@9.6.0?classifier=sources

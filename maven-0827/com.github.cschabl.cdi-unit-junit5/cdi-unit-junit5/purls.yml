@@ -6,3 +6,7 @@
 - pkg:maven/com.github.cschabl.cdi-unit-junit5/cdi-unit-junit5@0.3?classifier=sources
 - pkg:maven/com.github.cschabl.cdi-unit-junit5/cdi-unit-junit5@0.4
 - pkg:maven/com.github.cschabl.cdi-unit-junit5/cdi-unit-junit5@0.4?classifier=sources
+- pkg:maven/com.github.cschabl.cdi-unit-junit5/cdi-unit-junit5@1.0
+- pkg:maven/com.github.cschabl.cdi-unit-junit5/cdi-unit-junit5@1.0?classifier=sources
+- pkg:maven/com.github.cschabl.cdi-unit-junit5/cdi-unit-junit5@2.0-EA1
+- pkg:maven/com.github.cschabl.cdi-unit-junit5/cdi-unit-junit5@2.0-EA1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.leshan/leshan-lwm2m-bsserver@2.0.0-M16
+- pkg:maven/org.eclipse.leshan/leshan-lwm2m-bsserver@2.0.0-M16?classifier=sources

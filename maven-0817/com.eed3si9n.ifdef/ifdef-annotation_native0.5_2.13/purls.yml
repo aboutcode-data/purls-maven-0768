@@ -1,0 +1,2 @@
+- pkg:maven/com.eed3si9n.ifdef/ifdef-annotation_native0.5_2.13@0.3.0
+- pkg:maven/com.eed3si9n.ifdef/ifdef-annotation_native0.5_2.13@0.3.0?classifier=sources

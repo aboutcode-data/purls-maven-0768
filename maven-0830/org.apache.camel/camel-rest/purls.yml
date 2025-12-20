@@ -214,3 +214,5 @@
 - pkg:maven/org.apache.camel/camel-rest@4.5.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-rest@4.6.0
 - pkg:maven/org.apache.camel/camel-rest@4.6.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-rest@4.7.0
+- pkg:maven/org.apache.camel/camel-rest@4.7.0?classifier=sources

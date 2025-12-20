@@ -101,3 +101,4 @@
 - pkg:maven/org.neo4j.gds/core-test-utils@2.7.0-alpha02?classifier=sources
 - pkg:maven/org.neo4j.gds/core-test-utils@2.7.0-alpha03?classifier=sources
 - pkg:maven/org.neo4j.gds/core-test-utils@2.7.0?classifier=sources
+- pkg:maven/org.neo4j.gds/core-test-utils@2.8.0?classifier=sources

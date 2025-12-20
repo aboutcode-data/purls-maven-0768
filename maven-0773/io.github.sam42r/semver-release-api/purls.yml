@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sam42r/semver-release-api@v1.3.0
+- pkg:maven/io.github.sam42r/semver-release-api@v1.3.0?classifier=sources

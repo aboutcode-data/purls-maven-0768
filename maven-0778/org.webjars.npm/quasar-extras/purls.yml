@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/quasar-extras@2.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/quasar-extras@2.0.8
 - pkg:maven/org.webjars.npm/quasar-extras@2.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/quasar-extras@2.0.9

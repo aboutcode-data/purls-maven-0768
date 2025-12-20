@@ -56,3 +56,5 @@
 - pkg:maven/org.ikasan/sample-spring-boot-file@3.3.4?classifier=sources
 - pkg:maven/org.ikasan/sample-spring-boot-file@4.0.0
 - pkg:maven/org.ikasan/sample-spring-boot-file@4.0.0?classifier=sources
+- pkg:maven/org.ikasan/sample-spring-boot-file@4.0.1
+- pkg:maven/org.ikasan/sample-spring-boot-file@4.0.1?classifier=sources

@@ -29,4 +29,5 @@
 - pkg:maven/io.provenance.client/pb-grpc-client-kotlin@2.4.6?classifier=sources
 - pkg:maven/io.provenance.client/pb-grpc-client-kotlin@2.4.7?classifier=sources
 - pkg:maven/io.provenance.client/pb-grpc-client-kotlin@2.4.8?classifier=sources
+- pkg:maven/io.provenance.client/pb-grpc-client-kotlin@2.5.0?classifier=sources
 - pkg:maven/io.provenance.client/pb-grpc-client-kotlin@v1.1.0?classifier=sources

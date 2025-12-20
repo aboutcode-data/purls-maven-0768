@@ -34,6 +34,7 @@
 - pkg:maven/org.webjars.npm/jsdom@16.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/jsdom@16.7.0
 - pkg:maven/org.webjars.npm/jsdom@16.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/jsdom@2.0.0
 - pkg:maven/org.webjars.npm/jsdom@20.0.0
 - pkg:maven/org.webjars.npm/jsdom@20.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/jsdom@20.0.3
@@ -45,6 +46,7 @@
 - pkg:maven/org.webjars.npm/jsdom@23.0.0
 - pkg:maven/org.webjars.npm/jsdom@23.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/jsdom@24.0.0
+- pkg:maven/org.webjars.npm/jsdom@24.1.1
 - pkg:maven/org.webjars.npm/jsdom@5.4.3
 - pkg:maven/org.webjars.npm/jsdom@5.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/jsdom@6.5.1

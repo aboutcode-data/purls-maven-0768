@@ -1,0 +1,2 @@
+- pkg:maven/dev.mccue/jstage@2024.07.18?classifier=sources
+- pkg:maven/dev.mccue/jstage@2024.07.19?classifier=sources

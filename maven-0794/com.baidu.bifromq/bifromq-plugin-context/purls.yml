@@ -1,0 +1,4 @@
+- pkg:maven/com.baidu.bifromq/bifromq-plugin-context@3.2.0
+- pkg:maven/com.baidu.bifromq/bifromq-plugin-context@3.2.0?classifier=sources
+- pkg:maven/com.baidu.bifromq/bifromq-plugin-context@3.2.1
+- pkg:maven/com.baidu.bifromq/bifromq-plugin-context@3.2.1?classifier=sources

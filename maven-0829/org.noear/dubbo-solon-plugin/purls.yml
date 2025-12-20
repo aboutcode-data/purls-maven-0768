@@ -1380,6 +1380,7 @@
 - pkg:maven/org.noear/dubbo-solon-plugin@2.8.3?classifier=sources
 - pkg:maven/org.noear/dubbo-solon-plugin@2.8.4
 - pkg:maven/org.noear/dubbo-solon-plugin@2.8.4?classifier=sources
+- pkg:maven/org.noear/dubbo-solon-plugin@2.8.5
 - pkg:maven/org.noear/dubbo-solon-plugin@2.8.5-M3
 - pkg:maven/org.noear/dubbo-solon-plugin@2.8.5-M3?classifier=sources
 - pkg:maven/org.noear/dubbo-solon-plugin@2.8.5-M4
@@ -1388,3 +1389,6 @@
 - pkg:maven/org.noear/dubbo-solon-plugin@2.8.5-M5?classifier=sources
 - pkg:maven/org.noear/dubbo-solon-plugin@2.8.5-RC
 - pkg:maven/org.noear/dubbo-solon-plugin@2.8.5-RC?classifier=sources
+- pkg:maven/org.noear/dubbo-solon-plugin@2.8.5?classifier=sources
+- pkg:maven/org.noear/dubbo-solon-plugin@2.8.6
+- pkg:maven/org.noear/dubbo-solon-plugin@2.8.6?classifier=sources

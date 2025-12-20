@@ -236,3 +236,4 @@
 - pkg:maven/com.netease.cloudmusic.iotsdk/music_audio_base_bridge@0.4.3.20240704122154?classifier=sources
 - pkg:maven/com.netease.cloudmusic.iotsdk/music_audio_base_bridge@0.4.3.20240704141514?classifier=sources
 - pkg:maven/com.netease.cloudmusic.iotsdk/music_audio_base_bridge@0.4.3.20240704143939?classifier=sources
+- pkg:maven/com.netease.cloudmusic.iotsdk/music_audio_base_bridge@0.4.3.20240717113704?classifier=sources

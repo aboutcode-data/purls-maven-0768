@@ -7132,3 +7132,5 @@
 - pkg:maven/org.wso2.identity.apps/myaccount@2.7.22?type=war
 - pkg:maven/org.wso2.identity.apps/myaccount@2.7.23?classifier=sources
 - pkg:maven/org.wso2.identity.apps/myaccount@2.7.23?type=war
+- pkg:maven/org.wso2.identity.apps/myaccount@2.7.60?classifier=sources
+- pkg:maven/org.wso2.identity.apps/myaccount@2.7.60?type=war

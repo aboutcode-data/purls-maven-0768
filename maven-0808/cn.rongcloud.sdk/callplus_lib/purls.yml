@@ -5,3 +5,4 @@
 - pkg:maven/cn.rongcloud.sdk/callplus_lib@2.1.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/callplus_lib@2.1.2.100?type=aar
 - pkg:maven/cn.rongcloud.sdk/callplus_lib@2.1.2?type=aar
+- pkg:maven/cn.rongcloud.sdk/callplus_lib@2.1.4?type=aar

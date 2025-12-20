@@ -26,3 +26,5 @@
 - pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-request-executor-apache-base@1.9.0?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-request-executor-apache-base@1.9.1
 - pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-request-executor-apache-base@1.9.1?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-request-executor-apache-base@2.0.0-RC1
+- pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-request-executor-apache-base@2.0.0-RC1?classifier=sources

@@ -196,6 +196,10 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@24.1.3?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@24.1.6
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@24.1.6?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@24.2.0-beta.0
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@24.2.0-beta.0?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@24.2.0-beta.2
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@24.2.0-beta.2?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@7.0.0.001_M7
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@7.0.0.001_M7?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jackson@7.0.0.003_RC1

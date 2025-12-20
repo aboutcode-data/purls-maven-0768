@@ -55,3 +55,4 @@
 - pkg:maven/com.liferay.blade/com.liferay.blade.cli@5.0.1?classifier=sources
 - pkg:maven/com.liferay.blade/com.liferay.blade.cli@6.0.0?classifier=sources
 - pkg:maven/com.liferay.blade/com.liferay.blade.cli@7.0.0?classifier=sources
+- pkg:maven/com.liferay.blade/com.liferay.blade.cli@7.0.1?classifier=sources

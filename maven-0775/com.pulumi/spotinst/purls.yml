@@ -282,3 +282,6 @@
 - pkg:maven/com.pulumi/spotinst@3.81.0-alpha.1718347054?classifier=sources
 - pkg:maven/com.pulumi/spotinst@3.81.0-alpha.1718433686?classifier=sources
 - pkg:maven/com.pulumi/spotinst@3.81.0-alpha.1718737472?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.84.0-alpha.1722063338?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.84.0-alpha.1722857945?classifier=sources
+- pkg:maven/com.pulumi/spotinst@3.84.0?classifier=sources

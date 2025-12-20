@@ -25,3 +25,4 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering@3.0.0.CR2?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering/wildfly-clustering@3.0.0.CR3?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering/wildfly-clustering@3.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering@3.0.1.Final?classifier=source-release&type=zip

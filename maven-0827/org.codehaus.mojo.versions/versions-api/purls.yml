@@ -14,3 +14,5 @@
 - pkg:maven/org.codehaus.mojo.versions/versions-api@2.16.2?classifier=sources
 - pkg:maven/org.codehaus.mojo.versions/versions-api@2.17.0
 - pkg:maven/org.codehaus.mojo.versions/versions-api@2.17.0?classifier=sources
+- pkg:maven/org.codehaus.mojo.versions/versions-api@2.17.1
+- pkg:maven/org.codehaus.mojo.versions/versions-api@2.17.1?classifier=sources

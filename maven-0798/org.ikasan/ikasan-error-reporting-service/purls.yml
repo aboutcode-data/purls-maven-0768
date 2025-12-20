@@ -118,3 +118,5 @@
 - pkg:maven/org.ikasan/ikasan-error-reporting-service@3.3.4?classifier=sources
 - pkg:maven/org.ikasan/ikasan-error-reporting-service@4.0.0
 - pkg:maven/org.ikasan/ikasan-error-reporting-service@4.0.0?classifier=sources
+- pkg:maven/org.ikasan/ikasan-error-reporting-service@4.0.1
+- pkg:maven/org.ikasan/ikasan-error-reporting-service@4.0.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.pkl-lang/pkl-tools@0.25.3?classifier=sources
 - pkg:maven/org.pkl-lang/pkl-tools@0.26.0?classifier=sources
 - pkg:maven/org.pkl-lang/pkl-tools@0.26.1?classifier=sources
+- pkg:maven/org.pkl-lang/pkl-tools@0.26.2?classifier=sources
+- pkg:maven/org.pkl-lang/pkl-tools@0.26.3?classifier=sources

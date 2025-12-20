@@ -198,6 +198,14 @@
 - pkg:maven/com.hashicorp/cdktf-provider-aws@19.24.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-aws@19.25.0
 - pkg:maven/com.hashicorp/cdktf-provider-aws@19.25.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-aws@19.26.0
+- pkg:maven/com.hashicorp/cdktf-provider-aws@19.26.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-aws@19.27.0
+- pkg:maven/com.hashicorp/cdktf-provider-aws@19.27.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-aws@19.28.0
+- pkg:maven/com.hashicorp/cdktf-provider-aws@19.28.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-aws@19.29.0
+- pkg:maven/com.hashicorp/cdktf-provider-aws@19.29.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-aws@19.3.0
 - pkg:maven/com.hashicorp/cdktf-provider-aws@19.3.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-aws@19.4.0

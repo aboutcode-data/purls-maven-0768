@@ -548,6 +548,8 @@
 - pkg:maven/org.gedcomx/gedcomx-date@3.26.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-date@3.3.0
 - pkg:maven/org.gedcomx/gedcomx-date@3.3.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-date@3.33.0
+- pkg:maven/org.gedcomx/gedcomx-date@3.33.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-date@3.4.0
 - pkg:maven/org.gedcomx/gedcomx-date@3.4.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-date@3.5.0

@@ -1,1 +1,2 @@
 - pkg:maven/org.teavm/teavm-browser-runner@0.10.0?classifier=sources
+- pkg:maven/org.teavm/teavm-browser-runner@0.10.1?classifier=sources

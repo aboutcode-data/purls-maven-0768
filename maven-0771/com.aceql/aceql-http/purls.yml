@@ -16,6 +16,7 @@
 - pkg:maven/com.aceql/aceql-http@11.0?classifier=sources
 - pkg:maven/com.aceql/aceql-http@12.0?classifier=sources
 - pkg:maven/com.aceql/aceql-http@12.2?classifier=sources
+- pkg:maven/com.aceql/aceql-http@12.3?classifier=sources
 - pkg:maven/com.aceql/aceql-http@2.0
 - pkg:maven/com.aceql/aceql-http@2.0?classifier=sources
 - pkg:maven/com.aceql/aceql-http@2.1

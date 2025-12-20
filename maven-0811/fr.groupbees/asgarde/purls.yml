@@ -50,5 +50,11 @@
 - pkg:maven/fr.groupbees/asgarde@0.32.0?classifier=sources
 - pkg:maven/fr.groupbees/asgarde@0.33.0
 - pkg:maven/fr.groupbees/asgarde@0.33.0?classifier=sources
+- pkg:maven/fr.groupbees/asgarde@0.34.0
+- pkg:maven/fr.groupbees/asgarde@0.34.0?classifier=sources
+- pkg:maven/fr.groupbees/asgarde@0.35.0
+- pkg:maven/fr.groupbees/asgarde@0.35.0?classifier=sources
+- pkg:maven/fr.groupbees/asgarde@0.36.0
+- pkg:maven/fr.groupbees/asgarde@0.36.0?classifier=sources
 - pkg:maven/fr.groupbees/asgarde@0.7.0
 - pkg:maven/fr.groupbees/asgarde@0.7.0?classifier=sources

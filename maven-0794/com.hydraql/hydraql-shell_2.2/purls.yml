@@ -1,2 +1,4 @@
 - pkg:maven/com.hydraql/hydraql-shell_2.2@1.0.1
 - pkg:maven/com.hydraql/hydraql-shell_2.2@1.0.1?classifier=sources
+- pkg:maven/com.hydraql/hydraql-shell_2.2@1.0.2
+- pkg:maven/com.hydraql/hydraql-shell_2.2@1.0.2?classifier=sources

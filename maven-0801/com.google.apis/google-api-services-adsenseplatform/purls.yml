@@ -1,0 +1,4 @@
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1-rev20240722-2.0.0
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1-rev20240722-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20240710-2.0.0
+- pkg:maven/com.google.apis/google-api-services-adsenseplatform@v1alpha-rev20240710-2.0.0?classifier=sources

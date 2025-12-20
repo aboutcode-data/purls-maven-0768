@@ -10,3 +10,4 @@
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-mod-schemas@1.3.2?classifier=sources
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-mod-schemas@1.3.3?classifier=sources
 - pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-mod-schemas@1.5.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.laa-crime/crime-commons-mod-schemas@1.6.0?classifier=sources

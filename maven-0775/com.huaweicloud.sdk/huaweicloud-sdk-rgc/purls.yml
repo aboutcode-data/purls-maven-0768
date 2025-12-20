@@ -8,6 +8,14 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-rgc@3.1.103?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-rgc@3.1.104
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-rgc@3.1.104?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-rgc@3.1.105
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-rgc@3.1.105?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-rgc@3.1.106
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-rgc@3.1.106?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-rgc@3.1.107
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-rgc@3.1.107?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-rgc@3.1.108
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-rgc@3.1.108?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-rgc@3.1.71
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-rgc@3.1.71?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-rgc@3.1.72

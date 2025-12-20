@@ -40,6 +40,9 @@
 - pkg:maven/it.unibo.collektive/alchemist-incarnation-collektive@1.0.8?classifier=sources
 - pkg:maven/it.unibo.collektive/alchemist-incarnation-collektive@1.0.9?classifier=sources
 - pkg:maven/it.unibo.collektive/alchemist-incarnation-collektive@10.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/alchemist-incarnation-collektive@10.1.0?classifier=sources
+- pkg:maven/it.unibo.collektive/alchemist-incarnation-collektive@10.1.1?classifier=sources
+- pkg:maven/it.unibo.collektive/alchemist-incarnation-collektive@10.1.2?classifier=sources
 - pkg:maven/it.unibo.collektive/alchemist-incarnation-collektive@3.0.0?classifier=sources
 - pkg:maven/it.unibo.collektive/alchemist-incarnation-collektive@3.0.1?classifier=sources
 - pkg:maven/it.unibo.collektive/alchemist-incarnation-collektive@4.0.0?classifier=sources

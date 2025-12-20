@@ -30,6 +30,12 @@
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@1.0.0?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@1.0.1
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@1.0.1?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@10.0.0
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@10.0.0?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@10.1.0
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@10.1.0?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@10.1.1
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@10.1.1?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@2.0.0
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@2.0.0?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@3.0.0
@@ -100,3 +106,5 @@
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@9.0.0-PREVIEW.try-to-fix-dropping-play-27.2024-04-09T1434.cd295225
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@9.0.0-PREVIEW.try-to-fix-dropping-play-27.2024-04-09T1434.cd295225?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@9.0.0?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@9.0.1
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-secret-supplier-base_2.13@9.0.1?classifier=sources

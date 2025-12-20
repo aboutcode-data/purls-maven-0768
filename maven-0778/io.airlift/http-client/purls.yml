@@ -352,3 +352,17 @@
 - pkg:maven/io.airlift/http-client@249?classifier=sources
 - pkg:maven/io.airlift/http-client@250
 - pkg:maven/io.airlift/http-client@250?classifier=sources
+- pkg:maven/io.airlift/http-client@251
+- pkg:maven/io.airlift/http-client@251?classifier=sources
+- pkg:maven/io.airlift/http-client@252
+- pkg:maven/io.airlift/http-client@252?classifier=sources
+- pkg:maven/io.airlift/http-client@253
+- pkg:maven/io.airlift/http-client@253?classifier=sources
+- pkg:maven/io.airlift/http-client@254
+- pkg:maven/io.airlift/http-client@254?classifier=sources
+- pkg:maven/io.airlift/http-client@255
+- pkg:maven/io.airlift/http-client@255?classifier=sources
+- pkg:maven/io.airlift/http-client@256?classifier=sources
+- pkg:maven/io.airlift/http-client@257?classifier=sources
+- pkg:maven/io.airlift/http-client@258?classifier=sources
+- pkg:maven/io.airlift/http-client@259?classifier=sources

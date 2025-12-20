@@ -45,3 +45,4 @@
 - pkg:maven/io.micronaut.security/micronaut-security-aot@4.7.0?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-aot@4.8.0?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-aot@4.9.0?classifier=sources
+- pkg:maven/io.micronaut.security/micronaut-security-aot@4.9.1?classifier=sources

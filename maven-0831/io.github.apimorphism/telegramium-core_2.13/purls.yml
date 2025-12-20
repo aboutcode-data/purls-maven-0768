@@ -80,3 +80,7 @@
 - pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.75.0?classifier=sources
 - pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.76.0
 - pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.76.0?classifier=sources
+- pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.77.0
+- pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.77.0?classifier=sources
+- pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.78.0
+- pkg:maven/io.github.apimorphism/telegramium-core_2.13@9.78.0?classifier=sources

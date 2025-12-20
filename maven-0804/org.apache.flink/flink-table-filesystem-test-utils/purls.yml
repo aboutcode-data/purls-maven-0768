@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.flink/flink-table-filesystem-test-utils@1.20.0
+- pkg:maven/org.apache.flink/flink-table-filesystem-test-utils@1.20.0?classifier=sources

@@ -137,4 +137,5 @@
 - pkg:maven/com.pulumi/rancher2@6.2.0-alpha.1718259124?classifier=sources
 - pkg:maven/com.pulumi/rancher2@6.2.0-alpha.1718345471?classifier=sources
 - pkg:maven/com.pulumi/rancher2@6.2.0-alpha.1718431930?classifier=sources
+- pkg:maven/com.pulumi/rancher2@6.3.0-alpha.1722061627?classifier=sources
 - pkg:maven/com.pulumi/rancher2@v3.9.0-alpha.1657287258%2Bd72a94df?classifier=sources

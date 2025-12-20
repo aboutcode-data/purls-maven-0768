@@ -31,4 +31,5 @@
 - pkg:maven/wang.harlon.quickjs/wrapper-java@1.0.0-beta?classifier=sources
 - pkg:maven/wang.harlon.quickjs/wrapper-java@1.0.0?classifier=sources
 - pkg:maven/wang.harlon.quickjs/wrapper-java@1.0.1-beta?classifier=sources
+- pkg:maven/wang.harlon.quickjs/wrapper-java@2.0.0?classifier=sources
 - pkg:maven/wang.harlon.quickjs/wrapper-java@v0.18.12?classifier=sources
