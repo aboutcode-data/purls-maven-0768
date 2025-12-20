@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nichetoolkit/mybatis-toolkit-core@1.1.0
+- pkg:maven/io.github.nichetoolkit/mybatis-toolkit-core@1.1.0?classifier=sources

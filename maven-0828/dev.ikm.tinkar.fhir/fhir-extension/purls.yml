@@ -24,3 +24,5 @@
 - pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.70.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.71.0
 - pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.71.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.72.0
+- pkg:maven/dev.ikm.tinkar.fhir/fhir-extension@1.72.0?classifier=sources

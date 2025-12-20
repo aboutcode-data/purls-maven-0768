@@ -38,3 +38,5 @@
 - pkg:maven/io.avaje/avaje-prism-core@1.31?classifier=sources
 - pkg:maven/io.avaje/avaje-prism-core@1.32
 - pkg:maven/io.avaje/avaje-prism-core@1.32?classifier=sources
+- pkg:maven/io.avaje/avaje-prism-core@1.33
+- pkg:maven/io.avaje/avaje-prism-core@1.33?classifier=sources

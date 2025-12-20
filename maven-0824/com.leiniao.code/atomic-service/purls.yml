@@ -2,3 +2,7 @@
 - pkg:maven/com.leiniao.code/atomic-service@2.0.21-beta?type=aar
 - pkg:maven/com.leiniao.code/atomic-service@2.0.22-beta?classifier=sources
 - pkg:maven/com.leiniao.code/atomic-service@2.0.22-beta?type=aar
+- pkg:maven/com.leiniao.code/atomic-service@2.0.23-beta?classifier=sources
+- pkg:maven/com.leiniao.code/atomic-service@2.0.23-beta?type=aar
+- pkg:maven/com.leiniao.code/atomic-service@2.0.24-beta?classifier=sources
+- pkg:maven/com.leiniao.code/atomic-service@2.0.24-beta?type=aar

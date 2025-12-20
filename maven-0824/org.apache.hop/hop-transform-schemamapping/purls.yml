@@ -1,2 +1,4 @@
+- pkg:maven/org.apache.hop/hop-transform-schemamapping@2.10.0?classifier=sources
+- pkg:maven/org.apache.hop/hop-transform-schemamapping@2.10.0?type=zip
 - pkg:maven/org.apache.hop/hop-transform-schemamapping@2.9.0
 - pkg:maven/org.apache.hop/hop-transform-schemamapping@2.9.0?classifier=sources

@@ -1,1 +1,3 @@
 - pkg:maven/org.kompars.webpush/webpush@0.1.0?classifier=sources
+- pkg:maven/org.kompars.webpush/webpush@0.2.0?classifier=sources
+- pkg:maven/org.kompars.webpush/webpush@0.3.0?classifier=sources

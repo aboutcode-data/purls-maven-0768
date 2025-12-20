@@ -1,0 +1,1 @@
+- pkg:maven/org.neo4j.gds/operations-facade-api@2.12.0?classifier=sources

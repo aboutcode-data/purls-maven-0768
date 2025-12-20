@@ -21,3 +21,4 @@
 - pkg:maven/org.wildfly.archetype/wildfly-jakartaee-webapp-archetype@33.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.archetype/wildfly-jakartaee-webapp-archetype@33.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.archetype/wildfly-jakartaee-webapp-archetype@33.0.2.Final?classifier=sources
+- pkg:maven/org.wildfly.archetype/wildfly-jakartaee-webapp-archetype@34.0.0.Final?classifier=sources

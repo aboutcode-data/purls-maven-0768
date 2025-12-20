@@ -1,6 +1,16 @@
+- pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@0.1.5.1
+- pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@0.1.5.1?classifier=sources
+- pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@0.1.5.2
+- pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@0.1.5.2.1
+- pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@0.1.5.2.1?classifier=sources
+- pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@0.1.5.2?classifier=sources
 - pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@1.4.12
 - pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@1.4.12?classifier=sources
 - pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@1.4.13
 - pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@1.4.13?classifier=sources
 - pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@1.5.0
 - pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@1.5.0?classifier=sources
+- pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@1.5.1
+- pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@1.5.1?classifier=sources
+- pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@1.5.2
+- pkg:maven/com.github.yulichang/mybatis-plus-join-adapter-jsqlparser-v46@1.5.2?classifier=sources

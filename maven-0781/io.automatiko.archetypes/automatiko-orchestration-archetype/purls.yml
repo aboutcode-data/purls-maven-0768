@@ -24,6 +24,7 @@
 - pkg:maven/io.automatiko.archetypes/automatiko-orchestration-archetype@0.34.0?classifier=sources
 - pkg:maven/io.automatiko.archetypes/automatiko-orchestration-archetype@0.35.0?classifier=sources
 - pkg:maven/io.automatiko.archetypes/automatiko-orchestration-archetype@0.36.0?classifier=sources
+- pkg:maven/io.automatiko.archetypes/automatiko-orchestration-archetype@0.37.0?classifier=sources
 - pkg:maven/io.automatiko.archetypes/automatiko-orchestration-archetype@0.4.0?classifier=sources
 - pkg:maven/io.automatiko.archetypes/automatiko-orchestration-archetype@0.5.0?classifier=sources
 - pkg:maven/io.automatiko.archetypes/automatiko-orchestration-archetype@0.6.0?classifier=sources

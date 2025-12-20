@@ -70,3 +70,4 @@
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxws-2.0-axis2-1.6@2.6.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxws-2.0-axis2-1.6@2.7.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxws-2.0-axis2-1.6@2.8.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxws-2.0-axis2-1.6@2.9.0-alpha?classifier=sources

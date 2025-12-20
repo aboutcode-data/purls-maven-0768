@@ -7,3 +7,5 @@
 - pkg:maven/org.webjars.npm/altcha@0.8.0
 - pkg:maven/org.webjars.npm/altcha@0.9.0
 - pkg:maven/org.webjars.npm/altcha@1.0.0
+- pkg:maven/org.webjars.npm/altcha@1.0.5
+- pkg:maven/org.webjars.npm/altcha@1.0.6

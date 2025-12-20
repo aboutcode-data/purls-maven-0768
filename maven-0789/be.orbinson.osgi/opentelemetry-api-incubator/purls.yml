@@ -1,0 +1,4 @@
+- pkg:maven/be.orbinson.osgi/opentelemetry-api-incubator@1.43.0.0000
+- pkg:maven/be.orbinson.osgi/opentelemetry-api-incubator@1.43.0.0000?classifier=sources
+- pkg:maven/be.orbinson.osgi/opentelemetry-api-incubator@1.43.0.0001
+- pkg:maven/be.orbinson.osgi/opentelemetry-api-incubator@1.43.0.0001?classifier=sources

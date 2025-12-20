@@ -10,3 +10,5 @@
 - pkg:maven/org.aksw.jenax/jenax-arq-rdfnode-in-dataset@4.9.0-1?classifier=sources
 - pkg:maven/org.aksw.jenax/jenax-arq-rdfnode-in-dataset@5.0.0-1
 - pkg:maven/org.aksw.jenax/jenax-arq-rdfnode-in-dataset@5.0.0-1?classifier=sources
+- pkg:maven/org.aksw.jenax/jenax-arq-rdfnode-in-dataset@5.2.0-1
+- pkg:maven/org.aksw.jenax/jenax-arq-rdfnode-in-dataset@5.2.0-1?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/com.huanshankeji/compose-multiplatform-common@0.1.2?classifier=sources
 - pkg:maven/com.huanshankeji/compose-multiplatform-common@0.2.0?classifier=sources
 - pkg:maven/com.huanshankeji/compose-multiplatform-common@0.3.0?classifier=sources
+- pkg:maven/com.huanshankeji/compose-multiplatform-common@0.4.0?classifier=sources

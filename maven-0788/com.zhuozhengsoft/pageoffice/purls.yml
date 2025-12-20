@@ -34,3 +34,4 @@
 - pkg:maven/com.zhuozhengsoft/pageoffice@6.3.2.1?classifier=sources
 - pkg:maven/com.zhuozhengsoft/pageoffice@6.3.2.2-javax?classifier=sources
 - pkg:maven/com.zhuozhengsoft/pageoffice@6.3.2.2?classifier=sources
+- pkg:maven/com.zhuozhengsoft/pageoffice@6.3.2.3-javax?classifier=sources

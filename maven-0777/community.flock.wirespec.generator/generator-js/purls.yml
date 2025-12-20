@@ -3,6 +3,9 @@
 - pkg:maven/community.flock.wirespec.generator/generator-js@0.10.3?classifier=sources
 - pkg:maven/community.flock.wirespec.generator/generator-js@0.10.4?classifier=sources
 - pkg:maven/community.flock.wirespec.generator/generator-js@0.10.5?classifier=sources
+- pkg:maven/community.flock.wirespec.generator/generator-js@0.10.7?classifier=sources
+- pkg:maven/community.flock.wirespec.generator/generator-js@0.10.8?classifier=sources
+- pkg:maven/community.flock.wirespec.generator/generator-js@0.10.9?classifier=sources
 - pkg:maven/community.flock.wirespec.generator/generator-js@0.9.10?classifier=sources
 - pkg:maven/community.flock.wirespec.generator/generator-js@0.9.15?classifier=sources
 - pkg:maven/community.flock.wirespec.generator/generator-js@0.9.18?classifier=sources

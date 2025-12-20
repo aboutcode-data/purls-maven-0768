@@ -6,3 +6,4 @@
 - pkg:maven/com.aerosync/bank-link-sdk@1.0.5?classifier=sources
 - pkg:maven/com.aerosync/bank-link-sdk@1.0.8?classifier=sources
 - pkg:maven/com.aerosync/bank-link-sdk@1.0.9?classifier=sources
+- pkg:maven/com.aerosync/bank-link-sdk@1.1.0?classifier=sources

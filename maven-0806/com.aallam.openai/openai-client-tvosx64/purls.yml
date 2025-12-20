@@ -31,3 +31,4 @@
 - pkg:maven/com.aallam.openai/openai-client-tvosx64@3.8.0?classifier=sources
 - pkg:maven/com.aallam.openai/openai-client-tvosx64@3.8.1?classifier=sources
 - pkg:maven/com.aallam.openai/openai-client-tvosx64@3.8.2?classifier=sources
+- pkg:maven/com.aallam.openai/openai-client-tvosx64@4.0.0-beta01?classifier=sources

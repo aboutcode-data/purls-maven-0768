@@ -20,6 +20,11 @@
 - pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR28?classifier=sources
 - pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR29?classifier=sources
 - pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR2?classifier=sources
+- pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR30?classifier=sources
+- pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR31?classifier=sources
+- pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR32?classifier=sources
+- pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR33?classifier=sources
+- pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR34?classifier=sources
 - pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR3?classifier=sources
 - pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR4?classifier=sources
 - pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR5?classifier=sources

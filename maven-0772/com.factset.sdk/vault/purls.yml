@@ -27,3 +27,4 @@
 - pkg:maven/com.factset.sdk/vault@1.0.4?classifier=sources
 - pkg:maven/com.factset.sdk/vault@2.0.0?classifier=sources
 - pkg:maven/com.factset.sdk/vault@3.0.0?classifier=sources
+- pkg:maven/com.factset.sdk/vault@3.0.1?classifier=sources

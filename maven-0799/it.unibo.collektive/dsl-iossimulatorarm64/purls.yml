@@ -7,6 +7,11 @@
 - pkg:maven/it.unibo.collektive/dsl-iossimulatorarm64@10.3.0?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-iossimulatorarm64@10.3.1?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-iossimulatorarm64@10.3.2?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-iossimulatorarm64@10.4.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-iossimulatorarm64@10.5.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-iossimulatorarm64@10.5.1?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-iossimulatorarm64@10.5.2?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-iossimulatorarm64@10.5.3?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-iossimulatorarm64@2.0.1?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-iossimulatorarm64@2.1.0?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-iossimulatorarm64@2.1.1?classifier=sources

@@ -58,3 +58,5 @@
 - pkg:maven/us.codecraft/webmagic-core@0.9.1?classifier=sources
 - pkg:maven/us.codecraft/webmagic-core@1.0.0
 - pkg:maven/us.codecraft/webmagic-core@1.0.0?classifier=sources
+- pkg:maven/us.codecraft/webmagic-core@1.0.1
+- pkg:maven/us.codecraft/webmagic-core@1.0.1?classifier=sources

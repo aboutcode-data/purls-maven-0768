@@ -6,3 +6,5 @@
 - pkg:maven/com.authsignal/authsignal-java@0.2.0?classifier=sources
 - pkg:maven/com.authsignal/authsignal-java@0.2.1?classifier=sources
 - pkg:maven/com.authsignal/authsignal-java@0.2.2?classifier=sources
+- pkg:maven/com.authsignal/authsignal-java@0.3.0?classifier=sources
+- pkg:maven/com.authsignal/authsignal-java@1.0.0?classifier=sources

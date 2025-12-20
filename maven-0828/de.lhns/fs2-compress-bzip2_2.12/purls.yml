@@ -14,3 +14,7 @@
 - pkg:maven/de.lhns/fs2-compress-bzip2_2.12@2.0.0?classifier=sources
 - pkg:maven/de.lhns/fs2-compress-bzip2_2.12@2.1.0
 - pkg:maven/de.lhns/fs2-compress-bzip2_2.12@2.1.0?classifier=sources
+- pkg:maven/de.lhns/fs2-compress-bzip2_2.12@2.2.0
+- pkg:maven/de.lhns/fs2-compress-bzip2_2.12@2.2.0?classifier=sources
+- pkg:maven/de.lhns/fs2-compress-bzip2_2.12@2.2.1
+- pkg:maven/de.lhns/fs2-compress-bzip2_2.12@2.2.1?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/io.servicetalk/servicetalk-http-router-jersey3-jakarta9-internal@0.42.47?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-http-router-jersey3-jakarta9-internal@0.42.48?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-http-router-jersey3-jakarta9-internal@0.42.49?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-http-router-jersey3-jakarta9-internal@0.42.50?classifier=sources

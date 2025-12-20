@@ -1,0 +1,2 @@
+- pkg:maven/com.julianpeeters/sbt-avrohugger_sbt2.0.0-M2_3@2.9.0-M2
+- pkg:maven/com.julianpeeters/sbt-avrohugger_sbt2.0.0-M2_3@2.9.0-M2?classifier=sources

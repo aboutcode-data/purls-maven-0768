@@ -290,3 +290,5 @@
 - pkg:maven/io.micronaut/micronaut-graal@4.6.4?classifier=sources
 - pkg:maven/io.micronaut/micronaut-graal@4.6.5?classifier=sources
 - pkg:maven/io.micronaut/micronaut-graal@4.6.6?classifier=sources
+- pkg:maven/io.micronaut/micronaut-graal@4.7.0?classifier=sources
+- pkg:maven/io.micronaut/micronaut-graal@4.7.1?classifier=sources

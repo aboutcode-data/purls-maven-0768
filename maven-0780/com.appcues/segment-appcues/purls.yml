@@ -26,3 +26,5 @@
 - pkg:maven/com.appcues/segment-appcues@4.0.1?classifier=sources
 - pkg:maven/com.appcues/segment-appcues@4.0.3?classifier=sources
 - pkg:maven/com.appcues/segment-appcues@4.1.0?classifier=sources
+- pkg:maven/com.appcues/segment-appcues@4.1.1?classifier=sources
+- pkg:maven/com.appcues/segment-appcues@4.2.0?classifier=sources

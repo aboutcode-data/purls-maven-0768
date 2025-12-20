@@ -1,0 +1,2 @@
+- pkg:maven/com.authlete.http/http-field-parser@1.0
+- pkg:maven/com.authlete.http/http-field-parser@1.0?classifier=sources

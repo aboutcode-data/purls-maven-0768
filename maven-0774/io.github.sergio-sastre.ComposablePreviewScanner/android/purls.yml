@@ -1,1 +1,2 @@
 - pkg:maven/io.github.sergio-sastre.ComposablePreviewScanner/android@0.3.2?classifier=sources
+- pkg:maven/io.github.sergio-sastre.ComposablePreviewScanner/android@0.4.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/ru.d10xa/json-log-viewer_2.12@0.2.4
 - pkg:maven/ru.d10xa/json-log-viewer_2.12@0.2.4?classifier=sources
+- pkg:maven/ru.d10xa/json-log-viewer_2.12@0.2.5
+- pkg:maven/ru.d10xa/json-log-viewer_2.12@0.2.5?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/top.jiangqiang.crawler/J-crawler@4.1.0?classifier=sources
 - pkg:maven/top.jiangqiang.crawler/J-crawler@4.1.1
 - pkg:maven/top.jiangqiang.crawler/J-crawler@4.1.1?classifier=sources
+- pkg:maven/top.jiangqiang.crawler/J-crawler@5.0.0?classifier=sources
+- pkg:maven/top.jiangqiang.crawler/J-crawler@5.0.1?classifier=sources

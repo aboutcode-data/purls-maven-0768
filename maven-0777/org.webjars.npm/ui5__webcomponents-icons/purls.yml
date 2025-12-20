@@ -11,3 +11,4 @@
 - pkg:maven/org.webjars.npm/ui5__webcomponents-icons@1.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/ui5__webcomponents-icons@1.7.1
 - pkg:maven/org.webjars.npm/ui5__webcomponents-icons@1.7.1?classifier=sources
+- pkg:maven/org.webjars.npm/ui5__webcomponents-icons@2.3.0

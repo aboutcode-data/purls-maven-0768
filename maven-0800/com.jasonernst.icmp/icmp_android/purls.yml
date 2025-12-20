@@ -7,3 +7,4 @@
 - pkg:maven/com.jasonernst.icmp/icmp_android@0.0.18?classifier=sources
 - pkg:maven/com.jasonernst.icmp/icmp_android@0.0.19?classifier=sources
 - pkg:maven/com.jasonernst.icmp/icmp_android@0.0.20?classifier=sources
+- pkg:maven/com.jasonernst.icmp/icmp_android@1.0.0?classifier=sources

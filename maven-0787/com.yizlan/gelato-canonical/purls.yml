@@ -1,3 +1,4 @@
 - pkg:maven/com.yizlan/gelato-canonical@2.2.0?classifier=sources
 - pkg:maven/com.yizlan/gelato-canonical@2.3.0?classifier=sources
 - pkg:maven/com.yizlan/gelato-canonical@2.4.0?classifier=sources
+- pkg:maven/com.yizlan/gelato-canonical@2.5.0?classifier=sources

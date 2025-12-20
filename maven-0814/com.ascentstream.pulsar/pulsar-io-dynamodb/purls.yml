@@ -14,7 +14,11 @@
 - pkg:maven/com.ascentstream.pulsar/pulsar-io-dynamodb@2.10.7.2-SNAPSHOT-86382c9?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-io-dynamodb@2.10.7.3
 - pkg:maven/com.ascentstream.pulsar/pulsar-io-dynamodb@2.10.7.3?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/pulsar-io-dynamodb@2.10.7.4
 - pkg:maven/com.ascentstream.pulsar/pulsar-io-dynamodb@2.10.7.4-SNAPSHOT-35e64fa
 - pkg:maven/com.ascentstream.pulsar/pulsar-io-dynamodb@2.10.7.4-SNAPSHOT-35e64fa?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/pulsar-io-dynamodb@2.10.7.4?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-io-dynamodb@3.0.7.0-SNAPSHOT-a030c50
 - pkg:maven/com.ascentstream.pulsar/pulsar-io-dynamodb@3.0.7.0-SNAPSHOT-a030c50?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/pulsar-io-dynamodb@3.0.8.0-SNAPSHOT-16a7bcc
+- pkg:maven/com.ascentstream.pulsar/pulsar-io-dynamodb@3.0.8.0-SNAPSHOT-16a7bcc?classifier=sources

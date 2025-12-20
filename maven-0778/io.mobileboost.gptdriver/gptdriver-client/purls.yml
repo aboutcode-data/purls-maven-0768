@@ -2,3 +2,4 @@
 - pkg:maven/io.mobileboost.gptdriver/gptdriver-client@1.0.10?classifier=sources
 - pkg:maven/io.mobileboost.gptdriver/gptdriver-client@1.0.11?classifier=sources
 - pkg:maven/io.mobileboost.gptdriver/gptdriver-client@1.0.9?classifier=sources
+- pkg:maven/io.mobileboost.gptdriver/gptdriver-client@1.1.3?classifier=sources

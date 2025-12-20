@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda/operate-importer-8_7@8.7.0-alpha1-rc1
+- pkg:maven/io.camunda/operate-importer-8_7@8.7.0-alpha1-rc1?classifier=sources

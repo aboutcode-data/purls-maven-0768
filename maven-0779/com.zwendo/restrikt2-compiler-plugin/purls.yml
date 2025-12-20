@@ -1,0 +1,2 @@
+- pkg:maven/com.zwendo/restrikt2-compiler-plugin@0.1.0?classifier=sources
+- pkg:maven/com.zwendo/restrikt2-compiler-plugin@0.1.1?classifier=sources

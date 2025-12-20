@@ -12,3 +12,6 @@
 - pkg:maven/io.github.osobolev.app-delivery/server-war@6.7?classifier=sources
 - pkg:maven/io.github.osobolev.app-delivery/server-war@6.8?classifier=sources
 - pkg:maven/io.github.osobolev.app-delivery/server-war@6.9?classifier=sources
+- pkg:maven/io.github.osobolev.app-delivery/server-war@7.0?classifier=sources
+- pkg:maven/io.github.osobolev.app-delivery/server-war@7.1?classifier=sources
+- pkg:maven/io.github.osobolev.app-delivery/server-war@7.2?classifier=sources

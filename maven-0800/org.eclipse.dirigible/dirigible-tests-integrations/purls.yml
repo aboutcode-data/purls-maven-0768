@@ -60,6 +60,8 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.6.28
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.6.29
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.6.3
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.6.30
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.6.31
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.6.4
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.6.5
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.6.6

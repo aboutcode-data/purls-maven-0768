@@ -12,6 +12,8 @@
 - pkg:maven/com.github.geirolz/cats-xml-generic_2.13@0.0.15?classifier=sources
 - pkg:maven/com.github.geirolz/cats-xml-generic_2.13@0.0.18
 - pkg:maven/com.github.geirolz/cats-xml-generic_2.13@0.0.18?classifier=sources
+- pkg:maven/com.github.geirolz/cats-xml-generic_2.13@0.0.19
+- pkg:maven/com.github.geirolz/cats-xml-generic_2.13@0.0.19?classifier=sources
 - pkg:maven/com.github.geirolz/cats-xml-generic_2.13@0.0.3
 - pkg:maven/com.github.geirolz/cats-xml-generic_2.13@0.0.3?classifier=sources
 - pkg:maven/com.github.geirolz/cats-xml-generic_2.13@0.0.4

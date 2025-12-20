@@ -47,6 +47,8 @@
 - pkg:maven/com.vmware.singleton/singleton-manager-i18n@0.7.0
 - pkg:maven/com.vmware.singleton/singleton-manager-i18n@0.7.0?classifier=sources
 - pkg:maven/com.vmware.singleton/singleton-manager-i18n@0.7.1
+- pkg:maven/com.vmware.singleton/singleton-manager-i18n@0.7.10
+- pkg:maven/com.vmware.singleton/singleton-manager-i18n@0.7.10?classifier=sources
 - pkg:maven/com.vmware.singleton/singleton-manager-i18n@0.7.1?classifier=sources
 - pkg:maven/com.vmware.singleton/singleton-manager-i18n@0.7.2
 - pkg:maven/com.vmware.singleton/singleton-manager-i18n@0.7.2?classifier=sources
@@ -62,3 +64,5 @@
 - pkg:maven/com.vmware.singleton/singleton-manager-i18n@0.7.7?classifier=sources
 - pkg:maven/com.vmware.singleton/singleton-manager-i18n@0.7.8
 - pkg:maven/com.vmware.singleton/singleton-manager-i18n@0.7.8?classifier=sources
+- pkg:maven/com.vmware.singleton/singleton-manager-i18n@0.7.9
+- pkg:maven/com.vmware.singleton/singleton-manager-i18n@0.7.9?classifier=sources

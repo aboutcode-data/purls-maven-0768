@@ -15,3 +15,4 @@
 - pkg:maven/com.marklogic/marklogic-jena@3.0.6
 - pkg:maven/com.marklogic/marklogic-jena@3.0.6?classifier=sources
 - pkg:maven/com.marklogic/marklogic-jena@4.0.0?classifier=sources
+- pkg:maven/com.marklogic/marklogic-jena@4.1.0?classifier=sources

@@ -13,3 +13,4 @@
 - pkg:maven/com.capacitorjs/toast@5.0.2?classifier=sources
 - pkg:maven/com.capacitorjs/toast@5.0.6?classifier=sources
 - pkg:maven/com.capacitorjs/toast@6.0.0?classifier=sources
+- pkg:maven/com.capacitorjs/toast@6.0.2?classifier=sources

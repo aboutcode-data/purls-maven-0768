@@ -1,0 +1,2 @@
+- pkg:maven/org.openurp.edu.course/openurp-edu-course-static@0.1.0
+- pkg:maven/org.openurp.edu.course/openurp-edu-course-static@0.1.0?classifier=sources

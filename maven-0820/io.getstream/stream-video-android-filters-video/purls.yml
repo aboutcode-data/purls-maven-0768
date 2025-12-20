@@ -10,6 +10,8 @@
 - pkg:maven/io.getstream/stream-video-android-filters-video@1.0.13?classifier=sources
 - pkg:maven/io.getstream/stream-video-android-filters-video@1.0.14?classifier=sources
 - pkg:maven/io.getstream/stream-video-android-filters-video@1.0.15?classifier=sources
+- pkg:maven/io.getstream/stream-video-android-filters-video@1.0.16?classifier=sources
+- pkg:maven/io.getstream/stream-video-android-filters-video@1.0.17?classifier=sources
 - pkg:maven/io.getstream/stream-video-android-filters-video@1.0.1?classifier=sources
 - pkg:maven/io.getstream/stream-video-android-filters-video@1.0.2?classifier=sources
 - pkg:maven/io.getstream/stream-video-android-filters-video@1.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.cowave.commons/archetype-mvc@2.7.3?classifier=sources
+- pkg:maven/com.cowave.commons/archetype-mvc@2.7.4?classifier=sources

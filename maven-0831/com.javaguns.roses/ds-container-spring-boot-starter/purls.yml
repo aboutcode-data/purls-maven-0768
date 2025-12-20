@@ -1,1 +1,2 @@
 - pkg:maven/com.javaguns.roses/ds-container-spring-boot-starter@8.1.8?classifier=sources
+- pkg:maven/com.javaguns.roses/ds-container-spring-boot-starter@8.3.0?classifier=sources

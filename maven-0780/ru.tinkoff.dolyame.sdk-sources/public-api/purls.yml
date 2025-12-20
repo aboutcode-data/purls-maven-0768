@@ -1,1 +1,2 @@
 - pkg:maven/ru.tinkoff.dolyame.sdk-sources/public-api@2.0.7?classifier=sources
+- pkg:maven/ru.tinkoff.dolyame.sdk-sources/public-api@2.0.8?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/io.github.springwolf/springwolf-cloud-stream@1.5.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-cloud-stream@1.6.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-cloud-stream@1.7.0?classifier=sources
+- pkg:maven/io.github.springwolf/springwolf-cloud-stream@1.8.0?classifier=sources

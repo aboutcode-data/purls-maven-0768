@@ -1,0 +1,2 @@
+- pkg:maven/org.aksw.jenax/jenax-norse-terms@5.2.0-1
+- pkg:maven/org.aksw.jenax/jenax-norse-terms@5.2.0-1?classifier=sources

@@ -1,3 +1,7 @@
 - pkg:maven/co.amity.android/amity-sdk@5.35.0?classifier=sources
 - pkg:maven/co.amity.android/amity-sdk@5.35.3?classifier=sources
 - pkg:maven/co.amity.android/amity-sdk@6.43.0?classifier=sources
+- pkg:maven/co.amity.android/amity-sdk@6.44.0?classifier=sources
+- pkg:maven/co.amity.android/amity-sdk@6.45.0-alpha02?classifier=sources
+- pkg:maven/co.amity.android/amity-sdk@6.45.0.-alpha02?classifier=sources
+- pkg:maven/co.amity.android/amity-sdk@6.45.0?classifier=sources

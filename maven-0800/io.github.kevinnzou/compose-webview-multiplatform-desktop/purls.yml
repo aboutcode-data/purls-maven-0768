@@ -17,6 +17,7 @@
 - pkg:maven/io.github.kevinnzou/compose-webview-multiplatform-desktop@1.9.2?classifier=sources
 - pkg:maven/io.github.kevinnzou/compose-webview-multiplatform-desktop@1.9.40-alpha01?classifier=sources
 - pkg:maven/io.github.kevinnzou/compose-webview-multiplatform-desktop@1.9.40-alpha03?classifier=sources
+- pkg:maven/io.github.kevinnzou/compose-webview-multiplatform-desktop@1.9.40-alpha04?classifier=sources
 - pkg:maven/io.github.kevinnzou/compose-webview-multiplatform-desktop@1.9.4?classifier=sources
 - pkg:maven/io.github.kevinnzou/compose-webview-multiplatform-desktop@1.9.6?classifier=sources
 - pkg:maven/io.github.kevinnzou/compose-webview-multiplatform-desktop@1.9.7?classifier=sources

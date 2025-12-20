@@ -48,3 +48,5 @@
 - pkg:maven/tools.dynamia.themes/tools.dynamia.themes.dynamical@5.2.0-beta
 - pkg:maven/tools.dynamia.themes/tools.dynamia.themes.dynamical@5.2.0-beta?classifier=sources
 - pkg:maven/tools.dynamia.themes/tools.dynamia.themes.dynamical@5.2.0?classifier=sources
+- pkg:maven/tools.dynamia.themes/tools.dynamia.themes.dynamical@5.3.0
+- pkg:maven/tools.dynamia.themes/tools.dynamia.themes.dynamical@5.3.0?classifier=sources

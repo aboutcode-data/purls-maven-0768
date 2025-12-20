@@ -443,6 +443,9 @@
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.55.Final
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.55.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.55.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.56.Final
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.56.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss/jboss-ejb-client@4.0.56.Final?classifier=sources
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.6.Final
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.6.Final?classifier=sources
 - pkg:maven/org.jboss/jboss-ejb-client@4.0.7.Final
@@ -477,3 +480,6 @@
 - pkg:maven/org.jboss/jboss-ejb-client@5.0.7.Final
 - pkg:maven/org.jboss/jboss-ejb-client@5.0.7.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss/jboss-ejb-client@5.0.7.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-ejb-client@5.0.8.Final
+- pkg:maven/org.jboss/jboss-ejb-client@5.0.8.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss/jboss-ejb-client@5.0.8.Final?classifier=sources

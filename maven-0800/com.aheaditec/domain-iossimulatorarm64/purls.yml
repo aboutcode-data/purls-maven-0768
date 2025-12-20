@@ -1,0 +1,3 @@
+- pkg:maven/com.aheaditec/domain-iossimulatorarm64@2.0.0?classifier=sources
+- pkg:maven/com.aheaditec/domain-iossimulatorarm64@2.1.0?classifier=sources
+- pkg:maven/com.aheaditec/domain-iossimulatorarm64@2.2.0?classifier=sources

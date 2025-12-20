@@ -64,5 +64,7 @@
 - pkg:maven/fun.fengwk.auto-mapper/auto-mapper-example@0.0.43?classifier=sources
 - pkg:maven/fun.fengwk.auto-mapper/auto-mapper-example@0.0.44
 - pkg:maven/fun.fengwk.auto-mapper/auto-mapper-example@0.0.44?classifier=sources
+- pkg:maven/fun.fengwk.auto-mapper/auto-mapper-example@0.0.45
+- pkg:maven/fun.fengwk.auto-mapper/auto-mapper-example@0.0.45?classifier=sources
 - pkg:maven/fun.fengwk.auto-mapper/auto-mapper-example@0.0.9
 - pkg:maven/fun.fengwk.auto-mapper/auto-mapper-example@0.0.9?classifier=sources

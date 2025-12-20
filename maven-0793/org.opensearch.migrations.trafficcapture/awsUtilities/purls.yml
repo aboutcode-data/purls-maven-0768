@@ -9,3 +9,5 @@
 - pkg:maven/org.opensearch.migrations.trafficcapture/awsUtilities@0.1.0.19?classifier=sources
 - pkg:maven/org.opensearch.migrations.trafficcapture/awsUtilities@0.2.0.0?classifier=sources
 - pkg:maven/org.opensearch.migrations.trafficcapture/awsUtilities@0.2.0.1?classifier=sources
+- pkg:maven/org.opensearch.migrations.trafficcapture/awsUtilities@0.2.0.2?classifier=sources
+- pkg:maven/org.opensearch.migrations.trafficcapture/awsUtilities@0.2.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.redis/redis-sessions-java-demo@0.1.11?classifier=sources
+- pkg:maven/com.redis/redis-sessions-java-demo@0.1.12?classifier=sources

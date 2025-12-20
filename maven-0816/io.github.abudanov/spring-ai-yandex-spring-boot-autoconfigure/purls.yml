@@ -1,0 +1,2 @@
+- pkg:maven/io.github.abudanov/spring-ai-yandex-spring-boot-autoconfigure@0.1.0?classifier=sources
+- pkg:maven/io.github.abudanov/spring-ai-yandex-spring-boot-autoconfigure@0.1.1?classifier=sources

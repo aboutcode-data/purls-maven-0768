@@ -1,0 +1,2 @@
+- pkg:maven/io.scalaland/chimney-engine_native0.5_2.12@1.5.0
+- pkg:maven/io.scalaland/chimney-engine_native0.5_2.12@1.5.0?classifier=sources

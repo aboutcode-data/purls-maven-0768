@@ -100,3 +100,7 @@
 - pkg:maven/com.flowcentraltech.flowcentral/flowcentral-javax@3.0.1?classifier=sources
 - pkg:maven/com.flowcentraltech.flowcentral/flowcentral-javax@3.0.2
 - pkg:maven/com.flowcentraltech.flowcentral/flowcentral-javax@3.0.2?classifier=sources
+- pkg:maven/com.flowcentraltech.flowcentral/flowcentral-javax@3.1.0
+- pkg:maven/com.flowcentraltech.flowcentral/flowcentral-javax@3.1.0?classifier=sources
+- pkg:maven/com.flowcentraltech.flowcentral/flowcentral-javax@3.2.0
+- pkg:maven/com.flowcentraltech.flowcentral/flowcentral-javax@3.2.0?classifier=sources

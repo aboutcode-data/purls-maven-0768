@@ -14,3 +14,7 @@
 - pkg:maven/top.lxyccc/tiny-jdbc-core@1.7.7?classifier=sources
 - pkg:maven/top.lxyccc/tiny-jdbc-core@1.7.8
 - pkg:maven/top.lxyccc/tiny-jdbc-core@1.7.8?classifier=sources
+- pkg:maven/top.lxyccc/tiny-jdbc-core@1.7.9
+- pkg:maven/top.lxyccc/tiny-jdbc-core@1.7.9?classifier=sources
+- pkg:maven/top.lxyccc/tiny-jdbc-core@1.8.0
+- pkg:maven/top.lxyccc/tiny-jdbc-core@1.8.0?classifier=sources

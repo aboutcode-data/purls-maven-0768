@@ -54,3 +54,5 @@
 - pkg:maven/com.inteligr8/common-rest-client@3.0.0-jersey
 - pkg:maven/com.inteligr8/common-rest-client@3.0.0-jersey?classifier=sources
 - pkg:maven/com.inteligr8/common-rest-client@3.0.0?classifier=sources
+- pkg:maven/com.inteligr8/common-rest-client@3.0.1-cxf
+- pkg:maven/com.inteligr8/common-rest-client@3.0.1-cxf?classifier=sources

@@ -11,3 +11,4 @@
 - pkg:maven/com.intershop.gradle.version/gitflow-version-gradle-plugin@1.8.0?classifier=sources
 - pkg:maven/com.intershop.gradle.version/gitflow-version-gradle-plugin@1.9.0?classifier=sources
 - pkg:maven/com.intershop.gradle.version/gitflow-version-gradle-plugin@2.0.0?classifier=sources
+- pkg:maven/com.intershop.gradle.version/gitflow-version-gradle-plugin@2.0.1?classifier=sources

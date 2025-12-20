@@ -64,6 +64,7 @@
 - pkg:maven/fish.payara.distributions/payara-ml@6.2023.7?classifier=sources
 - pkg:maven/fish.payara.distributions/payara-ml@6.2023.8?classifier=sources
 - pkg:maven/fish.payara.distributions/payara-ml@6.2023.9?classifier=sources
+- pkg:maven/fish.payara.distributions/payara-ml@6.2024.10?classifier=sources
 - pkg:maven/fish.payara.distributions/payara-ml@6.2024.1?classifier=sources
 - pkg:maven/fish.payara.distributions/payara-ml@6.2024.2?classifier=sources
 - pkg:maven/fish.payara.distributions/payara-ml@6.2024.3?classifier=sources

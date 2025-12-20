@@ -1,2 +1,8 @@
 - pkg:maven/de.mobiuscode/pdfbox-table@1.1.2
 - pkg:maven/de.mobiuscode/pdfbox-table@1.1.2?classifier=sources
+- pkg:maven/de.mobiuscode/pdfbox-table@1.1.4
+- pkg:maven/de.mobiuscode/pdfbox-table@1.1.4?classifier=sources
+- pkg:maven/de.mobiuscode/pdfbox-table@1.6.0
+- pkg:maven/de.mobiuscode/pdfbox-table@1.6.0?classifier=sources
+- pkg:maven/de.mobiuscode/pdfbox-table@1.6.1
+- pkg:maven/de.mobiuscode/pdfbox-table@1.6.1?classifier=sources

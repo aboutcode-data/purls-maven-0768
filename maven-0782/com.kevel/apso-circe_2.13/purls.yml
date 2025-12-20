@@ -1,0 +1,2 @@
+- pkg:maven/com.kevel/apso-circe_2.13@0.20.0
+- pkg:maven/com.kevel/apso-circe_2.13@0.20.0?classifier=sources

@@ -6,3 +6,11 @@
 - pkg:maven/info.gehrels.voting/singleTransferableVoteElections@3.0?classifier=sources
 - pkg:maven/info.gehrels.voting/singleTransferableVoteElections@4.0
 - pkg:maven/info.gehrels.voting/singleTransferableVoteElections@4.0?classifier=sources
+- pkg:maven/info.gehrels.voting/singleTransferableVoteElections@5.1
+- pkg:maven/info.gehrels.voting/singleTransferableVoteElections@5.1?classifier=sources
+- pkg:maven/info.gehrels.voting/singleTransferableVoteElections@5.2
+- pkg:maven/info.gehrels.voting/singleTransferableVoteElections@5.2?classifier=sources
+- pkg:maven/info.gehrels.voting/singleTransferableVoteElections@6.0
+- pkg:maven/info.gehrels.voting/singleTransferableVoteElections@6.0?classifier=sources
+- pkg:maven/info.gehrels.voting/singleTransferableVoteElections@7.0
+- pkg:maven/info.gehrels.voting/singleTransferableVoteElections@7.0?classifier=sources

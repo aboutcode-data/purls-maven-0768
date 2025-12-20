@@ -46,3 +46,5 @@
 - pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws@4.0.0?classifier=sources
 - pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws@4.1.0
 - pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws@4.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws@4.2.0?classifier=sources
+- pkg:maven/io.quarkiverse.hibernatesearchextras/quarkus-hibernate-search-orm-elasticsearch-aws@5.0.0?classifier=sources

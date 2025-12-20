@@ -38,3 +38,5 @@
 - pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-correlation-count@5.1.2?classifier=sources
 - pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-correlation-count@5.1.3
 - pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-correlation-count@5.1.3?classifier=sources
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-correlation-count@6.0.0
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-correlation-count@6.0.0?classifier=sources

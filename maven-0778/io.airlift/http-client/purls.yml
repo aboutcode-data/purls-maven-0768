@@ -380,3 +380,9 @@
 - pkg:maven/io.airlift/http-client@271?classifier=sources
 - pkg:maven/io.airlift/http-client@272?classifier=sources
 - pkg:maven/io.airlift/http-client@273?classifier=sources
+- pkg:maven/io.airlift/http-client@274?classifier=sources
+- pkg:maven/io.airlift/http-client@275?classifier=sources
+- pkg:maven/io.airlift/http-client@276?classifier=sources
+- pkg:maven/io.airlift/http-client@277?classifier=sources
+- pkg:maven/io.airlift/http-client@278?classifier=sources
+- pkg:maven/io.airlift/http-client@279?classifier=sources

@@ -4,3 +4,6 @@
 - pkg:maven/com.arkivanov.decompose/extensions-compose-experimental-iosx64@3.2.0-alpha06?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-experimental-iosx64@3.2.0-beta01?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-experimental-iosx64@3.2.0-beta02?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-experimental-iosx64@3.2.0-beta03?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-experimental-iosx64@3.2.0?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-experimental-iosx64@3.2.1?classifier=sources

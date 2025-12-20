@@ -14,3 +14,8 @@
 - pkg:maven/io.quarkiverse.roq/quarkus-roq-data@0.0.7?classifier=sources
 - pkg:maven/io.quarkiverse.roq/quarkus-roq-data@0.0.8
 - pkg:maven/io.quarkiverse.roq/quarkus-roq-data@0.0.8?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-data@0.0.9
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-data@0.0.9?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-data@1.0.0.CR2?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-data@1.0.0.CR3?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-data@1.0.0?classifier=sources

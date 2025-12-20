@@ -1,0 +1,6 @@
+- pkg:maven/com.ensono.stacks.modules/stacks-core-commons@0.0.0-PR?classifier=sources
+- pkg:maven/com.ensono.stacks.modules/stacks-core-commons@2.0.14-PR?classifier=sources
+- pkg:maven/com.ensono.stacks.modules/stacks-core-commons@2.0.15-PR?classifier=sources
+- pkg:maven/com.ensono.stacks.modules/stacks-core-commons@2.0.9-PR?classifier=sources
+- pkg:maven/com.ensono.stacks.modules/stacks-core-commons@3.0.1-PR?classifier=sources
+- pkg:maven/com.ensono.stacks.modules/stacks-core-commons@3.0.2?classifier=sources

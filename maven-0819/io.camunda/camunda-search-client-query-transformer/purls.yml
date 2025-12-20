@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda/camunda-search-client-query-transformer@8.7.0-alpha1-rc1
+- pkg:maven/io.camunda/camunda-search-client-query-transformer@8.7.0-alpha1-rc1?classifier=sources

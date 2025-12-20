@@ -1,2 +1,4 @@
 - pkg:maven/org.endpoints4s/play-client_3@6.0.0
 - pkg:maven/org.endpoints4s/play-client_3@6.0.0?classifier=sources
+- pkg:maven/org.endpoints4s/play-client_3@7.0.0
+- pkg:maven/org.endpoints4s/play-client_3@7.0.0?classifier=sources

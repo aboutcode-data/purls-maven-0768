@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/types__yargs@17.0.13?classifier=sources
 - pkg:maven/org.webjars.npm/types__yargs@17.0.32
 - pkg:maven/org.webjars.npm/types__yargs@17.0.32?classifier=sources
+- pkg:maven/org.webjars.npm/types__yargs@17.0.33

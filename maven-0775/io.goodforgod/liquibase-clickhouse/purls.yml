@@ -1,0 +1,1 @@
+- pkg:maven/io.goodforgod/liquibase-clickhouse@0.8.0?classifier=sources

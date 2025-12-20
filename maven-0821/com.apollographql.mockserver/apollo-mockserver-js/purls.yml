@@ -1,2 +1,3 @@
 - pkg:maven/com.apollographql.mockserver/apollo-mockserver-js@0.0.1?classifier=sources
 - pkg:maven/com.apollographql.mockserver/apollo-mockserver-js@0.0.3?classifier=sources
+- pkg:maven/com.apollographql.mockserver/apollo-mockserver-js@0.1.0?classifier=sources

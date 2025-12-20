@@ -16,3 +16,4 @@
 - pkg:maven/no.entur.logging.cloud/micrometer-gcp@2.0.7?classifier=sources
 - pkg:maven/no.entur.logging.cloud/micrometer-gcp@2.0.8?classifier=sources
 - pkg:maven/no.entur.logging.cloud/micrometer-gcp@2.0.9?classifier=sources
+- pkg:maven/no.entur.logging.cloud/micrometer-gcp@3.0.0?classifier=sources

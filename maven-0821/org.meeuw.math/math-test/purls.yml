@@ -1,2 +1,4 @@
 - pkg:maven/org.meeuw.math/math-test@0.12.0
 - pkg:maven/org.meeuw.math/math-test@0.12.0?classifier=sources
+- pkg:maven/org.meeuw.math/math-test@0.13.0
+- pkg:maven/org.meeuw.math/math-test@0.13.0?classifier=sources

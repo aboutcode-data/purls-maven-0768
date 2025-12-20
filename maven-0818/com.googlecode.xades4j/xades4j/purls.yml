@@ -26,3 +26,5 @@
 - pkg:maven/com.googlecode.xades4j/xades4j@2.2.2?classifier=sources
 - pkg:maven/com.googlecode.xades4j/xades4j@2.3.0
 - pkg:maven/com.googlecode.xades4j/xades4j@2.3.0?classifier=sources
+- pkg:maven/com.googlecode.xades4j/xades4j@2.4.0
+- pkg:maven/com.googlecode.xades4j/xades4j@2.4.0?classifier=sources

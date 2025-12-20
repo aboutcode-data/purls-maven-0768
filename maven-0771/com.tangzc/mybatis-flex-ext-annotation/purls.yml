@@ -24,3 +24,7 @@
 - pkg:maven/com.tangzc/mybatis-flex-ext-annotation@1.9.7.035-beta?classifier=sources
 - pkg:maven/com.tangzc/mybatis-flex-ext-annotation@1.9.7.036?classifier=sources
 - pkg:maven/com.tangzc/mybatis-flex-ext-annotation@1.9.7.037?classifier=sources
+- pkg:maven/com.tangzc/mybatis-flex-ext-annotation@1.9.7.038?classifier=sources
+- pkg:maven/com.tangzc/mybatis-flex-ext-annotation@1.9.7.040?classifier=sources
+- pkg:maven/com.tangzc/mybatis-flex-ext-annotation@1.9.7.050?classifier=sources
+- pkg:maven/com.tangzc/mybatis-flex-ext-annotation@1.9.7.051?classifier=sources

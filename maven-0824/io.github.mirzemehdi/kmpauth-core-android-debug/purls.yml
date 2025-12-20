@@ -10,3 +10,4 @@
 - pkg:maven/io.github.mirzemehdi/kmpauth-core-android-debug@2.1.0-alpha01?classifier=sources
 - pkg:maven/io.github.mirzemehdi/kmpauth-core-android-debug@2.1.0-alpha02?classifier=sources
 - pkg:maven/io.github.mirzemehdi/kmpauth-core-android-debug@2.1.0?classifier=sources
+- pkg:maven/io.github.mirzemehdi/kmpauth-core-android-debug@2.2.0?classifier=sources

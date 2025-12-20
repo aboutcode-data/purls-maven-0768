@@ -1,2 +1,4 @@
 - pkg:maven/org.aksw.commons/aksw-commons-models-maven@0.9.8
 - pkg:maven/org.aksw.commons/aksw-commons-models-maven@0.9.8?classifier=sources
+- pkg:maven/org.aksw.commons/aksw-commons-models-maven@0.9.9
+- pkg:maven/org.aksw.commons/aksw-commons-models-maven@0.9.9?classifier=sources
