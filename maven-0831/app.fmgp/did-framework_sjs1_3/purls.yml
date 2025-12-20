@@ -14,3 +14,5 @@
 - pkg:maven/app.fmgp/did-framework_sjs1_3@0.1.0-M20?classifier=sources
 - pkg:maven/app.fmgp/did-framework_sjs1_3@0.1.0-M21
 - pkg:maven/app.fmgp/did-framework_sjs1_3@0.1.0-M21?classifier=sources
+- pkg:maven/app.fmgp/did-framework_sjs1_3@0.1.0-M22
+- pkg:maven/app.fmgp/did-framework_sjs1_3@0.1.0-M22?classifier=sources

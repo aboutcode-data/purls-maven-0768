@@ -76,6 +76,12 @@
 - pkg:maven/com.google.cloud/google-cloud-apigee-registry@0.41.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-apigee-registry@0.42.0
 - pkg:maven/com.google.cloud/google-cloud-apigee-registry@0.42.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-apigee-registry@0.43.0
+- pkg:maven/com.google.cloud/google-cloud-apigee-registry@0.43.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-apigee-registry@0.44.0
+- pkg:maven/com.google.cloud/google-cloud-apigee-registry@0.44.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-apigee-registry@0.45.0
+- pkg:maven/com.google.cloud/google-cloud-apigee-registry@0.45.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-apigee-registry@0.5.0
 - pkg:maven/com.google.cloud/google-cloud-apigee-registry@0.5.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-apigee-registry@0.6.0

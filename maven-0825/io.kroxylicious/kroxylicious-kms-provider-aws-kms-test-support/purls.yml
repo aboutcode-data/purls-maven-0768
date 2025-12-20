@@ -1,0 +1,2 @@
+- pkg:maven/io.kroxylicious/kroxylicious-kms-provider-aws-kms-test-support@0.6.0
+- pkg:maven/io.kroxylicious/kroxylicious-kms-provider-aws-kms-test-support@0.6.0?classifier=sources

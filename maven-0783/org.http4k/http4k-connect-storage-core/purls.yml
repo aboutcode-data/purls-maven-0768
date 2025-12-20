@@ -175,6 +175,8 @@
 - pkg:maven/org.http4k/http4k-connect-storage-core@5.12.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-storage-core@5.12.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-storage-core@5.13.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-core@5.14.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-core@5.15.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-storage-core@5.2.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-storage-core@5.2.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-storage-core@5.2.3.0?classifier=sources

@@ -65,3 +65,4 @@
 - pkg:maven/com.scloudic/rabbit-redisson-spring-boot-starter@3.7.7
 - pkg:maven/com.scloudic/rabbit-redisson-spring-boot-starter@3.7.7?classifier=sources
 - pkg:maven/com.scloudic/rabbit-redisson-spring-boot-starter@3.7.8
+- pkg:maven/com.scloudic/rabbit-redisson-spring-boot-starter@3.7.8?classifier=sources

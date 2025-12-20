@@ -1,0 +1,6 @@
+- pkg:maven/ch.epfl.lamp/gears_native0.5_3@0.2.0
+- pkg:maven/ch.epfl.lamp/gears_native0.5_3@0.2.0-RC3
+- pkg:maven/ch.epfl.lamp/gears_native0.5_3@0.2.0-RC3?classifier=sources
+- pkg:maven/ch.epfl.lamp/gears_native0.5_3@0.2.0-RC4
+- pkg:maven/ch.epfl.lamp/gears_native0.5_3@0.2.0-RC4?classifier=sources
+- pkg:maven/ch.epfl.lamp/gears_native0.5_3@0.2.0?classifier=sources

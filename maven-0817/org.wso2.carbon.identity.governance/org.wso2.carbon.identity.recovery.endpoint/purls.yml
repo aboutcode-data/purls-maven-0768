@@ -762,6 +762,16 @@
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@1.8.8?type=war
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@1.9.11?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@1.9.11?type=war
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@1.9.12?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@1.9.12?type=war
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@1.9.13?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@1.9.13?type=war
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@1.9.14?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@1.9.14?type=war
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@1.9.15?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@1.9.15?type=war
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@1.9.16?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@1.9.16?type=war
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@2.0.0?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@2.0.0?type=war
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.endpoint@2.0.1?classifier=sources

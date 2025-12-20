@@ -1,2 +1,6 @@
 - pkg:maven/io.github.zhaohaoh/redismq-rpc@0.3.6
 - pkg:maven/io.github.zhaohaoh/redismq-rpc@0.3.6?classifier=sources
+- pkg:maven/io.github.zhaohaoh/redismq-rpc@0.3.7
+- pkg:maven/io.github.zhaohaoh/redismq-rpc@0.3.7?classifier=sources
+- pkg:maven/io.github.zhaohaoh/redismq-rpc@0.3.8
+- pkg:maven/io.github.zhaohaoh/redismq-rpc@0.3.8?classifier=sources

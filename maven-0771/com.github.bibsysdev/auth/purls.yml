@@ -137,3 +137,7 @@
 - pkg:maven/com.github.bibsysdev/auth@1.38.3?classifier=sources
 - pkg:maven/com.github.bibsysdev/auth@1.39.0?classifier=sources
 - pkg:maven/com.github.bibsysdev/auth@1.39.1?classifier=sources
+- pkg:maven/com.github.bibsysdev/auth@1.39.2?classifier=sources
+- pkg:maven/com.github.bibsysdev/auth@1.39.3?classifier=sources
+- pkg:maven/com.github.bibsysdev/auth@1.39.4?classifier=sources
+- pkg:maven/com.github.bibsysdev/auth@1.40.0?classifier=sources

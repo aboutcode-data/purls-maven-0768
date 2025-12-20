@@ -31,3 +31,5 @@
 - pkg:maven/io.fluidsonic.raptor/raptor-domain-memory-jvm@0.22.2?classifier=sources
 - pkg:maven/io.fluidsonic.raptor/raptor-domain-memory-jvm@0.23.0?classifier=sources
 - pkg:maven/io.fluidsonic.raptor/raptor-domain-memory-jvm@0.24.0?classifier=sources
+- pkg:maven/io.fluidsonic.raptor/raptor-domain-memory-jvm@0.25.0?classifier=sources
+- pkg:maven/io.fluidsonic.raptor/raptor-domain-memory-jvm@0.25.1?classifier=sources

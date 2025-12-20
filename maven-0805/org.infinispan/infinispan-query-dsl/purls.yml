@@ -322,6 +322,8 @@
 - pkg:maven/org.infinispan/infinispan-query-dsl@15.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-query-dsl@15.0.3.Final
 - pkg:maven/org.infinispan/infinispan-query-dsl@15.0.3.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-query-dsl@15.0.4.Final
+- pkg:maven/org.infinispan/infinispan-query-dsl@15.0.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-query-dsl@6.0.0.Alpha3
 - pkg:maven/org.infinispan/infinispan-query-dsl@6.0.0.Alpha3?classifier=sources
 - pkg:maven/org.infinispan/infinispan-query-dsl@6.0.0.Alpha4

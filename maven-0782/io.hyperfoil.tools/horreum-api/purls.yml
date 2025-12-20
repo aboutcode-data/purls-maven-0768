@@ -33,6 +33,8 @@
 - pkg:maven/io.hyperfoil.tools/horreum-api@0.12.2?classifier=sources
 - pkg:maven/io.hyperfoil.tools/horreum-api@0.13.0
 - pkg:maven/io.hyperfoil.tools/horreum-api@0.13.0?classifier=sources
+- pkg:maven/io.hyperfoil.tools/horreum-api@0.13.1
+- pkg:maven/io.hyperfoil.tools/horreum-api@0.13.1?classifier=sources
 - pkg:maven/io.hyperfoil.tools/horreum-api@0.1?classifier=sources
 - pkg:maven/io.hyperfoil.tools/horreum-api@0.2
 - pkg:maven/io.hyperfoil.tools/horreum-api@0.2?classifier=sources

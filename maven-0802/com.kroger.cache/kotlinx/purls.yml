@@ -1,3 +1,4 @@
 - pkg:maven/com.kroger.cache/kotlinx@2.0.0?classifier=sources
 - pkg:maven/com.kroger.cache/kotlinx@3.0.0?classifier=sources
 - pkg:maven/com.kroger.cache/kotlinx@3.1.0-alpha.1?classifier=sources
+- pkg:maven/com.kroger.cache/kotlinx@3.1.0-alpha.2?classifier=sources

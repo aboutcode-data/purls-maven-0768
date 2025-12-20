@@ -1,2 +1,3 @@
 - pkg:maven/io.github.alejo2075/enzona-sdk@0.9.1?classifier=sources
 - pkg:maven/io.github.alejo2075/enzona-sdk@0.9.5?classifier=sources
+- pkg:maven/io.github.alejo2075/enzona-sdk@1.0?classifier=sources

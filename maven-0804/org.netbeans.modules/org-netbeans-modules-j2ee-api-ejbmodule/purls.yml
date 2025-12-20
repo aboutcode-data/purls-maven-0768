@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-api-ejbmodule@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-api-ejbmodule@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-api-ejbmodule@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-api-ejbmodule@RELEASE220?classifier=sources

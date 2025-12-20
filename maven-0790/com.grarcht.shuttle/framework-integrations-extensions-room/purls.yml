@@ -7,3 +7,4 @@
 - pkg:maven/com.grarcht.shuttle/framework-integrations-extensions-room@2.0.3?classifier=sources
 - pkg:maven/com.grarcht.shuttle/framework-integrations-extensions-room@2.0.4?classifier=sources
 - pkg:maven/com.grarcht.shuttle/framework-integrations-extensions-room@2.1.0?classifier=sources
+- pkg:maven/com.grarcht.shuttle/framework-integrations-extensions-room@3.0.0?classifier=sources

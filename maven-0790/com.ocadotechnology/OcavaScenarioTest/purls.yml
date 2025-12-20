@@ -68,3 +68,7 @@
 - pkg:maven/com.ocadotechnology/OcavaScenarioTest@16.0.84?classifier=sources
 - pkg:maven/com.ocadotechnology/OcavaScenarioTest@16.3.34
 - pkg:maven/com.ocadotechnology/OcavaScenarioTest@16.3.34?classifier=sources
+- pkg:maven/com.ocadotechnology/OcavaScenarioTest@16.4.25
+- pkg:maven/com.ocadotechnology/OcavaScenarioTest@16.4.25?classifier=sources
+- pkg:maven/com.ocadotechnology/OcavaScenarioTest@16.6.21
+- pkg:maven/com.ocadotechnology/OcavaScenarioTest@16.6.21?classifier=sources

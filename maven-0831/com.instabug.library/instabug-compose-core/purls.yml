@@ -1,3 +1,4 @@
+- pkg:maven/com.instabug.library/instabug-compose-core@1.0.0-no-diagnostics?classifier=sources
 - pkg:maven/com.instabug.library/instabug-compose-core@12.1.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-compose-core@12.2.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-compose-core@12.3.0?classifier=sources
@@ -13,3 +14,7 @@
 - pkg:maven/com.instabug.library/instabug-compose-core@12.9.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-compose-core@13.0.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-compose-core@13.0.1?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose-core@13.0.3?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose-core@13.1.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose-core@13.1.1-no-diagnostics?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose-core@13.1.1?classifier=sources

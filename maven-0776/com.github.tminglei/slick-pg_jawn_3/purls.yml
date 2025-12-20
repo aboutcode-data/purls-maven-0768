@@ -4,3 +4,5 @@
 - pkg:maven/com.github.tminglei/slick-pg_jawn_3@0.22.0?classifier=sources
 - pkg:maven/com.github.tminglei/slick-pg_jawn_3@0.22.1
 - pkg:maven/com.github.tminglei/slick-pg_jawn_3@0.22.1?classifier=sources
+- pkg:maven/com.github.tminglei/slick-pg_jawn_3@0.22.2
+- pkg:maven/com.github.tminglei/slick-pg_jawn_3@0.22.2?classifier=sources

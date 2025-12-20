@@ -2,3 +2,5 @@
 - pkg:maven/com.flowingcode.vaadin.addons/error-window-vaadin@3.7.0?classifier=sources
 - pkg:maven/com.flowingcode.vaadin.addons/error-window-vaadin@4.0.0
 - pkg:maven/com.flowingcode.vaadin.addons/error-window-vaadin@4.0.0?classifier=sources
+- pkg:maven/com.flowingcode.vaadin.addons/error-window-vaadin@4.0.1
+- pkg:maven/com.flowingcode.vaadin.addons/error-window-vaadin@4.0.1?classifier=sources

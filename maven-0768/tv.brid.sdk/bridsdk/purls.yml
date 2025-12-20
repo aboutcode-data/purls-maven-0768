@@ -25,6 +25,7 @@
 - pkg:maven/tv.brid.sdk/bridsdk@1.1.61-media3-noproguard?classifier=sources
 - pkg:maven/tv.brid.sdk/bridsdk@1.1.62-media3-noproguard?classifier=sources
 - pkg:maven/tv.brid.sdk/bridsdk@1.1.62-media3?classifier=sources
+- pkg:maven/tv.brid.sdk/bridsdk@1.1.63-media3?classifier=sources
 - pkg:maven/tv.brid.sdk/bridsdk@1.1.6?classifier=sources
 - pkg:maven/tv.brid.sdk/bridsdk@1.1.7?classifier=sources
 - pkg:maven/tv.brid.sdk/bridsdk@1.1.81-SHAPSHOT?classifier=sources

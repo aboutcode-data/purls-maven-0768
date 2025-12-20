@@ -94,3 +94,5 @@
 - pkg:maven/io.holunda.polyflow/polyflow-datapool-core@4.1.3?classifier=sources
 - pkg:maven/io.holunda.polyflow/polyflow-datapool-core@4.1.4
 - pkg:maven/io.holunda.polyflow/polyflow-datapool-core@4.1.4?classifier=sources
+- pkg:maven/io.holunda.polyflow/polyflow-datapool-core@4.1.5
+- pkg:maven/io.holunda.polyflow/polyflow-datapool-core@4.1.5?classifier=sources

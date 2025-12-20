@@ -131,3 +131,4 @@
 - pkg:maven/com.symphony.platformsolutions/symphony-api-client-java@1.3.6?classifier=sources
 - pkg:maven/com.symphony.platformsolutions/symphony-api-client-java@1.3.7?classifier=sources
 - pkg:maven/com.symphony.platformsolutions/symphony-api-client-java@1.3.8?classifier=sources
+- pkg:maven/com.symphony.platformsolutions/symphony-api-client-java@1.3.9?classifier=sources

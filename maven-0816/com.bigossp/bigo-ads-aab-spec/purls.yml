@@ -30,3 +30,11 @@
 - pkg:maven/com.bigossp/bigo-ads-aab-spec@4.7.0.0?type=aar
 - pkg:maven/com.bigossp/bigo-ads-aab-spec@4.7.1.0?classifier=sources
 - pkg:maven/com.bigossp/bigo-ads-aab-spec@4.7.1.0?type=aar
+- pkg:maven/com.bigossp/bigo-ads-aab-spec@4.7.2.0?classifier=sources
+- pkg:maven/com.bigossp/bigo-ads-aab-spec@4.7.2.0?type=aar
+- pkg:maven/com.bigossp/bigo-ads-aab-spec@4.7.3.0?classifier=sources
+- pkg:maven/com.bigossp/bigo-ads-aab-spec@4.7.3.0?type=aar
+- pkg:maven/com.bigossp/bigo-ads-aab-spec@4.7.4.0?classifier=sources
+- pkg:maven/com.bigossp/bigo-ads-aab-spec@4.7.4.0?type=aar
+- pkg:maven/com.bigossp/bigo-ads-aab-spec@4.8.0.0?classifier=sources
+- pkg:maven/com.bigossp/bigo-ads-aab-spec@4.8.0.0?type=aar

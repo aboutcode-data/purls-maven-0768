@@ -1,0 +1,2 @@
+- pkg:maven/int.esa.ccsds.mo/transport-http@10.1
+- pkg:maven/int.esa.ccsds.mo/transport-http@10.1?classifier=sources

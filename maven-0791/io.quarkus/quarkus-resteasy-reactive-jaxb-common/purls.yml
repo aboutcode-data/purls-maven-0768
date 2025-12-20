@@ -30,6 +30,11 @@
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@2.9.2.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.10.0
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.10.0.CR1
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.10.1
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.10.2
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.11.0
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.11.0.CR1
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.11.1
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.9.0
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.9.0.CR1
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive-jaxb-common@3.9.0.CR2

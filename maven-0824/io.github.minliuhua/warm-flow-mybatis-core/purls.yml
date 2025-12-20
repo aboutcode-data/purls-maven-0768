@@ -24,3 +24,5 @@
 - pkg:maven/io.github.minliuhua/warm-flow-mybatis-core@1.1.80?classifier=sources
 - pkg:maven/io.github.minliuhua/warm-flow-mybatis-core@1.1.90
 - pkg:maven/io.github.minliuhua/warm-flow-mybatis-core@1.1.90?classifier=sources
+- pkg:maven/io.github.minliuhua/warm-flow-mybatis-core@1.1.91
+- pkg:maven/io.github.minliuhua/warm-flow-mybatis-core@1.1.91?classifier=sources

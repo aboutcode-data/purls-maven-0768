@@ -1,1 +1,2 @@
 - pkg:maven/dev.ikm.build/parent@1.40.0?classifier=sources
+- pkg:maven/dev.ikm.build/parent@1.46.0?classifier=sources

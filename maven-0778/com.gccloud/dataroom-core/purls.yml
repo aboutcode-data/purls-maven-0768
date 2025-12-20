@@ -80,3 +80,5 @@
 - pkg:maven/com.gccloud/dataroom-core@2.0.1.2024032201.Alpha?classifier=sources
 - pkg:maven/com.gccloud/dataroom-core@3.0.0.2024041901.Alpha
 - pkg:maven/com.gccloud/dataroom-core@3.0.0.2024041901.Alpha?classifier=sources
+- pkg:maven/com.gccloud/dataroom-core@3.0.0.2024051701
+- pkg:maven/com.gccloud/dataroom-core@3.0.0.2024051701?classifier=sources

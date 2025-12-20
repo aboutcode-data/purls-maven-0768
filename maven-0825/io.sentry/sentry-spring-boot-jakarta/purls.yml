@@ -26,6 +26,7 @@
 - pkg:maven/io.sentry/sentry-spring-boot-jakarta@7.0.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-boot-jakarta@7.1.0
 - pkg:maven/io.sentry/sentry-spring-boot-jakarta@7.1.0?classifier=sources
+- pkg:maven/io.sentry/sentry-spring-boot-jakarta@7.10.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-boot-jakarta@7.2.0
 - pkg:maven/io.sentry/sentry-spring-boot-jakarta@7.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-boot-jakarta@7.3.0
@@ -46,3 +47,5 @@
 - pkg:maven/io.sentry/sentry-spring-boot-jakarta@7.9.0-alpha.1
 - pkg:maven/io.sentry/sentry-spring-boot-jakarta@7.9.0-alpha.1?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-boot-jakarta@7.9.0?classifier=sources
+- pkg:maven/io.sentry/sentry-spring-boot-jakarta@8.0.0-alpha.1
+- pkg:maven/io.sentry/sentry-spring-boot-jakarta@8.0.0-alpha.1?classifier=sources

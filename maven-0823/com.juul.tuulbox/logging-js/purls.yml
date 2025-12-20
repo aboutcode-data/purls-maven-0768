@@ -28,3 +28,4 @@
 - pkg:maven/com.juul.tuulbox/logging-js@7.0.1?classifier=sources
 - pkg:maven/com.juul.tuulbox/logging-js@7.1.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/logging-js@7.2.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/logging-js@7.3.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.admin4j/chat-bot@0.0.1?classifier=sources
 - pkg:maven/com.admin4j/chat-bot@0.1.0
 - pkg:maven/com.admin4j/chat-bot@0.1.0?classifier=sources
+- pkg:maven/com.admin4j/chat-bot@0.10.0
+- pkg:maven/com.admin4j/chat-bot@0.10.0?classifier=sources

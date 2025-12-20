@@ -1,0 +1,2 @@
+- pkg:maven/org.aksw.maven.plugins/lsq-maven-plugin@0.0.1
+- pkg:maven/org.aksw.maven.plugins/lsq-maven-plugin@0.0.1?classifier=sources

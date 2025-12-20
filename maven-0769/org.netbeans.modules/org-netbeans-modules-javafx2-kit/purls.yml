@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-kit@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-kit@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-kit@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-kit@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-kit@RELEASE90?classifier=sources

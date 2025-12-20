@@ -15,3 +15,4 @@
 - pkg:maven/com.kizitonwose.calendar/compose@2.5.0-beta01?classifier=sources
 - pkg:maven/com.kizitonwose.calendar/compose@2.5.0?classifier=sources
 - pkg:maven/com.kizitonwose.calendar/compose@2.5.1?classifier=sources
+- pkg:maven/com.kizitonwose.calendar/compose@2.6.0-beta01?classifier=sources

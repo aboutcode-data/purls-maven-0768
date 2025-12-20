@@ -71,6 +71,8 @@
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@7.0.13?classifier=sources
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@7.0.14
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@7.0.14?classifier=sources
+- pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@7.0.15
+- pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@7.0.15?classifier=sources
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@7.0.1?classifier=sources
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@7.0.2
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@7.0.2?classifier=sources
@@ -90,6 +92,8 @@
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@7.0.9?classifier=sources
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@8.0.0-JDK17-M5
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@8.0.0-JDK17-M5?classifier=sources
+- pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@8.0.0-JDK17-M6
+- pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@8.0.0-JDK17-M6?classifier=sources
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@8.0.0-M1
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@8.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@8.0.0-M2
@@ -98,3 +102,5 @@
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@8.0.0-M3?classifier=sources
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@8.0.0-M5
 - pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@8.0.0-M5?classifier=sources
+- pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@8.0.0-M6
+- pkg:maven/org.glassfish.main.grizzly/glassfish-grizzly-extra-all@8.0.0-M6?classifier=sources

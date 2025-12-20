@@ -5,6 +5,7 @@
 - pkg:maven/org.opentcs/opentcs-plantoverview-base@5.14.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-plantoverview-base@5.15.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-plantoverview-base@5.16.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-plantoverview-base@5.17.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-plantoverview-base@5.3.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-plantoverview-base@5.4.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-plantoverview-base@5.5.0?classifier=sources

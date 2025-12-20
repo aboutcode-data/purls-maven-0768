@@ -93,6 +93,8 @@
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.38-PREVIEW.try-out-tool-versions-support.2024-04-26T1649.b33d9ccd
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.38-PREVIEW.try-out-tool-versions-support.2024-04-26T1649.b33d9ccd?classifier=sources
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.38?classifier=sources
+- pkg:maven/com.gu/redirect-resolver_2.13@0.0.39
+- pkg:maven/com.gu/redirect-resolver_2.13@0.0.39?classifier=sources
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.3?classifier=sources
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.4
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.4?classifier=sources

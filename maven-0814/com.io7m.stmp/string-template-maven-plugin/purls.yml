@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.stmp/string-template-maven-plugin@1.2.0
 - pkg:maven/com.io7m.stmp/string-template-maven-plugin@1.2.0?classifier=sources
+- pkg:maven/com.io7m.stmp/string-template-maven-plugin@2.0.0
+- pkg:maven/com.io7m.stmp/string-template-maven-plugin@2.0.0?classifier=sources

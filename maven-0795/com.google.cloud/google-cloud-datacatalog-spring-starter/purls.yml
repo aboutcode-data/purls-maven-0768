@@ -16,6 +16,10 @@
 - pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.10.1-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.10.2-preview
 - pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.10.2-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.10.3-preview
+- pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.10.3-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.10.4-preview
+- pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.10.4-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.2.0-preview
 - pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.2.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.3.0-preview
@@ -70,3 +74,11 @@
 - pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@5.1.2-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@5.2.0-preview
 - pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@5.2.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@5.2.1-preview
+- pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@5.2.1-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@5.3.0-preview
+- pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@5.3.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@5.4.0-preview
+- pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@5.4.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@5.4.1-preview
+- pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@5.4.1-preview?classifier=sources

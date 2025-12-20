@@ -2,3 +2,5 @@
 - pkg:maven/com.mikepenz.hypnoticcanvas/hypnoticcanvas-shaders-iosarm64@0.0.3?classifier=sources
 - pkg:maven/com.mikepenz.hypnoticcanvas/hypnoticcanvas-shaders-iosarm64@0.0.4?classifier=sources
 - pkg:maven/com.mikepenz.hypnoticcanvas/hypnoticcanvas-shaders-iosarm64@0.0.5?classifier=sources
+- pkg:maven/com.mikepenz.hypnoticcanvas/hypnoticcanvas-shaders-iosarm64@0.1.0?classifier=sources
+- pkg:maven/com.mikepenz.hypnoticcanvas/hypnoticcanvas-shaders-iosarm64@0.1.1?classifier=sources

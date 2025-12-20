@@ -10,3 +10,11 @@
 - pkg:maven/blue.strategic.parquet/parquet-floor@1.38?classifier=sources
 - pkg:maven/blue.strategic.parquet/parquet-floor@1.39
 - pkg:maven/blue.strategic.parquet/parquet-floor@1.39?classifier=sources
+- pkg:maven/blue.strategic.parquet/parquet-floor@1.40
+- pkg:maven/blue.strategic.parquet/parquet-floor@1.40?classifier=sources
+- pkg:maven/blue.strategic.parquet/parquet-floor@1.41
+- pkg:maven/blue.strategic.parquet/parquet-floor@1.41?classifier=sources
+- pkg:maven/blue.strategic.parquet/parquet-floor@1.42
+- pkg:maven/blue.strategic.parquet/parquet-floor@1.42?classifier=sources
+- pkg:maven/blue.strategic.parquet/parquet-floor@1.43
+- pkg:maven/blue.strategic.parquet/parquet-floor@1.43?classifier=sources

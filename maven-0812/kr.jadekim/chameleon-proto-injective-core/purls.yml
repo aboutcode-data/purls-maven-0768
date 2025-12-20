@@ -1,1 +1,3 @@
+- pkg:maven/kr.jadekim/chameleon-proto-injective-core@1.12.1-1?classifier=sources
+- pkg:maven/kr.jadekim/chameleon-proto-injective-core@1.12.1-2?classifier=sources
 - pkg:maven/kr.jadekim/chameleon-proto-injective-core@1.12.1?classifier=sources

@@ -25,3 +25,5 @@
 - pkg:maven/is.codion/codion-plugin-tomcat-pool@0.17.41?classifier=sources
 - pkg:maven/is.codion/codion-plugin-tomcat-pool@0.17.42?classifier=sources
 - pkg:maven/is.codion/codion-plugin-tomcat-pool@0.17.43?classifier=sources
+- pkg:maven/is.codion/codion-plugin-tomcat-pool@0.18.0?classifier=sources
+- pkg:maven/is.codion/codion-plugin-tomcat-pool@0.18.1?classifier=sources

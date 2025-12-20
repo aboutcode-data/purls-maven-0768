@@ -8,7 +8,9 @@
 - pkg:maven/com.io7m.ervilla/com.io7m.ervilla.native_exec@0.0.4?classifier=sources
 - pkg:maven/com.io7m.ervilla/com.io7m.ervilla.native_exec@0.0.5
 - pkg:maven/com.io7m.ervilla/com.io7m.ervilla.native_exec@0.0.5?classifier=sources
+- pkg:maven/com.io7m.ervilla/com.io7m.ervilla.native_exec@1.0.0
 - pkg:maven/com.io7m.ervilla/com.io7m.ervilla.native_exec@1.0.0-beta0001
 - pkg:maven/com.io7m.ervilla/com.io7m.ervilla.native_exec@1.0.0-beta0001?classifier=sources
 - pkg:maven/com.io7m.ervilla/com.io7m.ervilla.native_exec@1.0.0-beta0002
 - pkg:maven/com.io7m.ervilla/com.io7m.ervilla.native_exec@1.0.0-beta0002?classifier=sources
+- pkg:maven/com.io7m.ervilla/com.io7m.ervilla.native_exec@1.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/dev.zt64/dearrow-kt-jvm@1.0.0?classifier=sources
+- pkg:maven/dev.zt64/dearrow-kt-jvm@1.1.0?classifier=sources

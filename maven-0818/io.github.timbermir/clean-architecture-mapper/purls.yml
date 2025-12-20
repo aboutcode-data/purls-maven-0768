@@ -1,0 +1,3 @@
+- pkg:maven/io.github.timbermir/clean-architecture-mapper@1.0.0-snapshot?classifier=sources
+- pkg:maven/io.github.timbermir/clean-architecture-mapper@1.0.0-snapshotcentral-portal-snapshot?classifier=sources
+- pkg:maven/io.github.timbermir/clean-architecture-mapper@1.0.0central-portal-snapshot?classifier=sources

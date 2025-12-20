@@ -1,1 +1,2 @@
 - pkg:maven/com.huanshankeji/compose-multiplatform-common-legacy-jvm@0.2.0?classifier=sources
+- pkg:maven/com.huanshankeji/compose-multiplatform-common-legacy-jvm@0.3.0?classifier=sources

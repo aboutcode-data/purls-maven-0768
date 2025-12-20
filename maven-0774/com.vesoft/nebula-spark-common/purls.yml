@@ -16,3 +16,5 @@
 - pkg:maven/com.vesoft/nebula-spark-common@3.7.0-zszq?classifier=sources
 - pkg:maven/com.vesoft/nebula-spark-common@3.8.0
 - pkg:maven/com.vesoft/nebula-spark-common@3.8.0?classifier=sources
+- pkg:maven/com.vesoft/nebula-spark-common@3.8.1
+- pkg:maven/com.vesoft/nebula-spark-common@3.8.1?classifier=sources

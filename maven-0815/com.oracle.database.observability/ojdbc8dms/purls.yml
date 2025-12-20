@@ -30,6 +30,8 @@
 - pkg:maven/com.oracle.database.observability/ojdbc8dms@19.21.0.0?classifier=sources
 - pkg:maven/com.oracle.database.observability/ojdbc8dms@19.22.0.0
 - pkg:maven/com.oracle.database.observability/ojdbc8dms@19.22.0.0?classifier=sources
+- pkg:maven/com.oracle.database.observability/ojdbc8dms@19.23.0.0
+- pkg:maven/com.oracle.database.observability/ojdbc8dms@19.23.0.0?classifier=sources
 - pkg:maven/com.oracle.database.observability/ojdbc8dms@19.7.0.0
 - pkg:maven/com.oracle.database.observability/ojdbc8dms@19.7.0.0?classifier=sources
 - pkg:maven/com.oracle.database.observability/ojdbc8dms@19.8.0.0
@@ -46,6 +48,8 @@
 - pkg:maven/com.oracle.database.observability/ojdbc8dms@21.12.0.0?classifier=sources
 - pkg:maven/com.oracle.database.observability/ojdbc8dms@21.13.0.0
 - pkg:maven/com.oracle.database.observability/ojdbc8dms@21.13.0.0?classifier=sources
+- pkg:maven/com.oracle.database.observability/ojdbc8dms@21.14.0.0
+- pkg:maven/com.oracle.database.observability/ojdbc8dms@21.14.0.0?classifier=sources
 - pkg:maven/com.oracle.database.observability/ojdbc8dms@21.3.0.0
 - pkg:maven/com.oracle.database.observability/ojdbc8dms@21.3.0.0?classifier=sources
 - pkg:maven/com.oracle.database.observability/ojdbc8dms@21.4.0.0

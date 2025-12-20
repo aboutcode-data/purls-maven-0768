@@ -20,3 +20,4 @@
 - pkg:maven/org.litote.kmongo/kmongo-reactor@4.7.2
 - pkg:maven/org.litote.kmongo/kmongo-reactor@4.8.0
 - pkg:maven/org.litote.kmongo/kmongo-reactor@4.9.0
+- pkg:maven/org.litote.kmongo/kmongo-reactor@5.1.0

@@ -40,6 +40,8 @@
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-6a418bd?classifier=sources
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-716431f
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-716431f?classifier=sources
+- pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-7838b1b
+- pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-7838b1b?classifier=sources
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-7a60a22
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-7a60a22?classifier=sources
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-8b93d9c
@@ -62,12 +64,15 @@
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-e3b8e88?classifier=sources
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-f6850f0
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-f6850f0?classifier=sources
+- pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-fc44137
+- pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-fc44137?classifier=sources
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-fdd1d38
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-fdd1d38?classifier=sources
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-fe0b9e5
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-fe0b9e5?classifier=sources
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-fedb51e
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4-fedb51e?classifier=sources
+- pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4.0
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4.0-M1
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4.0-M1?classifier=sources
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4.0-M2
@@ -118,3 +123,4 @@
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4.0-RC9.z.6?classifier=sources
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4.0-RC9.z.7
 - pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4.0-RC9.z.7?classifier=sources
+- pkg:maven/dev.tauri/choam-laws_sjs1_3@0.4.0?classifier=sources

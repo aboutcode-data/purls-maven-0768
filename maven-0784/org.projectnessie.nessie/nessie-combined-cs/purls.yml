@@ -20,3 +20,6 @@
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.81.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.81.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.82.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.83.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.83.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.83.2?classifier=sources

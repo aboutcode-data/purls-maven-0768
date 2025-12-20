@@ -1,0 +1,2 @@
+- pkg:maven/eu.codlab/kotlin-safearea-macosx64@1.16.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-safearea-macosx64@1.17.0?classifier=sources

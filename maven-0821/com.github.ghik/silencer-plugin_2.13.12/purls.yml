@@ -4,3 +4,5 @@
 - pkg:maven/com.github.ghik/silencer-plugin_2.13.12@1.7.15?classifier=sources
 - pkg:maven/com.github.ghik/silencer-plugin_2.13.12@1.7.16
 - pkg:maven/com.github.ghik/silencer-plugin_2.13.12@1.7.16?classifier=sources
+- pkg:maven/com.github.ghik/silencer-plugin_2.13.12@1.7.17
+- pkg:maven/com.github.ghik/silencer-plugin_2.13.12@1.7.17?classifier=sources

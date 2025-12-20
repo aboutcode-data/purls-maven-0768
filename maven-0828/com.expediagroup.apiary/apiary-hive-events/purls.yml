@@ -42,3 +42,5 @@
 - pkg:maven/com.expediagroup.apiary/apiary-hive-events@7.3.7?classifier=sources
 - pkg:maven/com.expediagroup.apiary/apiary-hive-events@7.3.8
 - pkg:maven/com.expediagroup.apiary/apiary-hive-events@7.3.8?classifier=sources
+- pkg:maven/com.expediagroup.apiary/apiary-hive-events@7.3.9
+- pkg:maven/com.expediagroup.apiary/apiary-hive-events@7.3.9?classifier=sources

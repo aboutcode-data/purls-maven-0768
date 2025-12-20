@@ -292,6 +292,8 @@
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.13.3?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.13.4
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.13.4?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.14.0
+- pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.14.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.2.0
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.2.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.2.1

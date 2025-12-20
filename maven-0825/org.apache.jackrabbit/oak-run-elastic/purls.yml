@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-run-elastic@1.60.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-run-elastic@1.62.0
 - pkg:maven/org.apache.jackrabbit/oak-run-elastic@1.62.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-run-elastic@1.64.0
+- pkg:maven/org.apache.jackrabbit/oak-run-elastic@1.64.0?classifier=sources

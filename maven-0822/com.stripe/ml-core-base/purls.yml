@@ -60,3 +60,6 @@
 - pkg:maven/com.stripe/ml-core-base@20.41.1?classifier=sources
 - pkg:maven/com.stripe/ml-core-base@20.42.0?classifier=sources
 - pkg:maven/com.stripe/ml-core-base@20.43.0?classifier=sources
+- pkg:maven/com.stripe/ml-core-base@20.44.0?classifier=sources
+- pkg:maven/com.stripe/ml-core-base@20.44.1?classifier=sources
+- pkg:maven/com.stripe/ml-core-base@20.44.2?classifier=sources

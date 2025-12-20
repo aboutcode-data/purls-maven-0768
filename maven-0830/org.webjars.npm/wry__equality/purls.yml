@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/wry__equality@0.1.9?classifier=sources
 - pkg:maven/org.webjars.npm/wry__equality@0.5.2
 - pkg:maven/org.webjars.npm/wry__equality@0.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/wry__equality@0.5.7

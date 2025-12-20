@@ -1,0 +1,5 @@
+- pkg:maven/io.github.gipo999/smispi@1.0.0-alpha.1?classifier=sources
+- pkg:maven/io.github.gipo999/smispi@1.1.0-dev.10?classifier=sources
+- pkg:maven/io.github.gipo999/smispi@1.1.0-dev.11?classifier=sources
+- pkg:maven/io.github.gipo999/smispi@1.1.0-dev.8?classifier=sources
+- pkg:maven/io.github.gipo999/smispi@1.1.0-dev.9?classifier=sources

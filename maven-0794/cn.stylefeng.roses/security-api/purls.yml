@@ -64,3 +64,4 @@
 - pkg:maven/cn.stylefeng.roses/security-api@8.1.4?classifier=sources
 - pkg:maven/cn.stylefeng.roses/security-api@8.1.5
 - pkg:maven/cn.stylefeng.roses/security-api@8.1.5?classifier=sources
+- pkg:maven/cn.stylefeng.roses/security-api@8.1.7

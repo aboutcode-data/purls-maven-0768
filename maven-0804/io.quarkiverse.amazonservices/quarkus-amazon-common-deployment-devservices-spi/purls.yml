@@ -20,6 +20,8 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-common-deployment-devservices-spi@2.14.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-common-deployment-devservices-spi@2.15.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-common-deployment-devservices-spi@2.15.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-common-deployment-devservices-spi@2.16.0
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-common-deployment-devservices-spi@2.16.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-common-deployment-devservices-spi@2.4.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-common-deployment-devservices-spi@2.4.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-common-deployment-devservices-spi@2.4.1

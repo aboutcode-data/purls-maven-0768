@@ -1,2 +1,3 @@
 - pkg:maven/com.onslip/onslip-360-api@1.29.4?classifier=sources
 - pkg:maven/com.onslip/onslip-360-api@1.29.9?classifier=sources
+- pkg:maven/com.onslip/onslip-360-api@1.33.5?classifier=sources

@@ -48,3 +48,7 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-azure@1.26?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-azure@1.27
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-azure@1.27?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-azure@1.28
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-azure@1.28.1
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-azure@1.28.1?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-azure@1.28?classifier=sources

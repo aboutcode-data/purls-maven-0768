@@ -1,0 +1,3 @@
+- pkg:maven/no.vegvesen.nvdb.reststop/reststop-servlet-api@4.0.0-preview
+- pkg:maven/no.vegvesen.nvdb.reststop/reststop-servlet-api@4.0.0-preview-1
+- pkg:maven/no.vegvesen.nvdb.reststop/reststop-servlet-api@4.0.0-preview-1?classifier=sources

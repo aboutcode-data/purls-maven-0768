@@ -2,3 +2,5 @@
 - pkg:maven/com.ossuminc/riddl-analyses_3@0.43.0?classifier=sources
 - pkg:maven/com.ossuminc/riddl-analyses_3@0.44.0
 - pkg:maven/com.ossuminc/riddl-analyses_3@0.44.0?classifier=sources
+- pkg:maven/com.ossuminc/riddl-analyses_3@0.46.0
+- pkg:maven/com.ossuminc/riddl-analyses_3@0.46.0?classifier=sources

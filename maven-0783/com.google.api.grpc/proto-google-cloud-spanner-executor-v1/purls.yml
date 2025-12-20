@@ -36,3 +36,11 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-executor-v1@6.65.1?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-executor-v1@6.66.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-executor-v1@6.66.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-executor-v1@6.67.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-executor-v1@6.67.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-executor-v1@6.67.1
+- pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-executor-v1@6.67.1?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-executor-v1@6.68.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-executor-v1@6.68.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-executor-v1@6.68.1
+- pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-executor-v1@6.68.1?classifier=sources

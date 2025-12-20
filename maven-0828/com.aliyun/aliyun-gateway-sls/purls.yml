@@ -40,6 +40,8 @@
 - pkg:maven/com.aliyun/aliyun-gateway-sls@0.2.0-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-gateway-sls@0.2.1-beta
 - pkg:maven/com.aliyun/aliyun-gateway-sls@0.2.1-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-gateway-sls@0.2.10-beta
+- pkg:maven/com.aliyun/aliyun-gateway-sls@0.2.10-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-gateway-sls@0.2.2-beta
 - pkg:maven/com.aliyun/aliyun-gateway-sls@0.2.2-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-gateway-sls@0.2.3-beta
@@ -54,3 +56,5 @@
 - pkg:maven/com.aliyun/aliyun-gateway-sls@0.2.7-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-gateway-sls@0.2.8-beta
 - pkg:maven/com.aliyun/aliyun-gateway-sls@0.2.8-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-gateway-sls@0.2.9-beta
+- pkg:maven/com.aliyun/aliyun-gateway-sls@0.2.9-beta?classifier=sources

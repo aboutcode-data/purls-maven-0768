@@ -1,0 +1,2 @@
+- pkg:maven/org.bidib.net.java.timingframework/timingframework-swing@7.4.1
+- pkg:maven/org.bidib.net.java.timingframework/timingframework-swing@7.4.1?classifier=sources

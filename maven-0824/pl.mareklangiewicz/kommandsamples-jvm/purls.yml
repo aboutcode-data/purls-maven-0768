@@ -27,3 +27,7 @@
 - pkg:maven/pl.mareklangiewicz/kommandsamples-jvm@0.0.57?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kommandsamples-jvm@0.0.58?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kommandsamples-jvm@0.0.59?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kommandsamples-jvm@0.0.60?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kommandsamples-jvm@0.0.61?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kommandsamples-jvm@0.0.62?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kommandsamples-jvm@0.0.63?classifier=sources

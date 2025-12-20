@@ -8,3 +8,6 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@2.3.17?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@2.3.18
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@2.3.18?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@2.3.19
+- pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@2.3.19?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@3.2.3?classifier=sources

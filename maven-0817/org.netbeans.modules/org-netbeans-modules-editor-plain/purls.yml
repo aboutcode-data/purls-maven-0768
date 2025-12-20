@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-plain@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-plain@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-plain@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-plain@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-plain@RELEASE90?classifier=sources

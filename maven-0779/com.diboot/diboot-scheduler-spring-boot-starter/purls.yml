@@ -34,3 +34,5 @@
 - pkg:maven/com.diboot/diboot-scheduler-spring-boot-starter@3.3.0-jdk8
 - pkg:maven/com.diboot/diboot-scheduler-spring-boot-starter@3.3.0-jdk8?classifier=sources
 - pkg:maven/com.diboot/diboot-scheduler-spring-boot-starter@3.3.0?classifier=sources
+- pkg:maven/com.diboot/diboot-scheduler-spring-boot-starter@3.3.1
+- pkg:maven/com.diboot/diboot-scheduler-spring-boot-starter@3.3.1?classifier=sources

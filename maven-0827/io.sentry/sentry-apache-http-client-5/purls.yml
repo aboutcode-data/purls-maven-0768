@@ -266,6 +266,7 @@
 - pkg:maven/io.sentry/sentry-apache-http-client-5@7.0.0?classifier=sources
 - pkg:maven/io.sentry/sentry-apache-http-client-5@7.1.0
 - pkg:maven/io.sentry/sentry-apache-http-client-5@7.1.0?classifier=sources
+- pkg:maven/io.sentry/sentry-apache-http-client-5@7.10.0?classifier=sources
 - pkg:maven/io.sentry/sentry-apache-http-client-5@7.2.0
 - pkg:maven/io.sentry/sentry-apache-http-client-5@7.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-apache-http-client-5@7.3.0
@@ -286,3 +287,5 @@
 - pkg:maven/io.sentry/sentry-apache-http-client-5@7.9.0-alpha.1
 - pkg:maven/io.sentry/sentry-apache-http-client-5@7.9.0-alpha.1?classifier=sources
 - pkg:maven/io.sentry/sentry-apache-http-client-5@7.9.0?classifier=sources
+- pkg:maven/io.sentry/sentry-apache-http-client-5@8.0.0-alpha.1
+- pkg:maven/io.sentry/sentry-apache-http-client-5@8.0.0-alpha.1?classifier=sources

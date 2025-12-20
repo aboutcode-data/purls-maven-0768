@@ -110,3 +110,5 @@
 - pkg:maven/io.helidon.integrations.microstream/helidon-integrations-microstream-cache@4.0.7?classifier=sources
 - pkg:maven/io.helidon.integrations.microstream/helidon-integrations-microstream-cache@4.0.8
 - pkg:maven/io.helidon.integrations.microstream/helidon-integrations-microstream-cache@4.0.8?classifier=sources
+- pkg:maven/io.helidon.integrations.microstream/helidon-integrations-microstream-cache@4.0.9
+- pkg:maven/io.helidon.integrations.microstream/helidon-integrations-microstream-cache@4.0.9?classifier=sources

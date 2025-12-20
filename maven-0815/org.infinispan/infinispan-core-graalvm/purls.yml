@@ -26,3 +26,5 @@
 - pkg:maven/org.infinispan/infinispan-core-graalvm@15.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-core-graalvm@15.0.3.Final
 - pkg:maven/org.infinispan/infinispan-core-graalvm@15.0.3.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-core-graalvm@15.0.4.Final
+- pkg:maven/org.infinispan/infinispan-core-graalvm@15.0.4.Final?classifier=sources

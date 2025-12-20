@@ -1,3 +1,5 @@
+- pkg:maven/com.admin4j.framework/oss-spring-boot-starter@0.10.0
+- pkg:maven/com.admin4j.framework/oss-spring-boot-starter@0.10.0?classifier=sources
 - pkg:maven/com.admin4j.framework/oss-spring-boot-starter@0.8.0
 - pkg:maven/com.admin4j.framework/oss-spring-boot-starter@0.8.0?classifier=sources
 - pkg:maven/com.admin4j.framework/oss-spring-boot-starter@0.8.2
@@ -16,3 +18,5 @@
 - pkg:maven/com.admin4j.framework/oss-spring-boot-starter@0.9.5?classifier=sources
 - pkg:maven/com.admin4j.framework/oss-spring-boot-starter@0.9.7
 - pkg:maven/com.admin4j.framework/oss-spring-boot-starter@0.9.7?classifier=sources
+- pkg:maven/com.admin4j.framework/oss-spring-boot-starter@0.9.8
+- pkg:maven/com.admin4j.framework/oss-spring-boot-starter@0.9.8?classifier=sources

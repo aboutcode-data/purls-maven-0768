@@ -32,6 +32,7 @@
 - pkg:maven/org.glassfish.main.batch/batch-databases@7.0.12?classifier=sources
 - pkg:maven/org.glassfish.main.batch/batch-databases@7.0.13?classifier=sources
 - pkg:maven/org.glassfish.main.batch/batch-databases@7.0.14?classifier=sources
+- pkg:maven/org.glassfish.main.batch/batch-databases@7.0.15?classifier=sources
 - pkg:maven/org.glassfish.main.batch/batch-databases@7.0.1?classifier=sources
 - pkg:maven/org.glassfish.main.batch/batch-databases@7.0.2?classifier=sources
 - pkg:maven/org.glassfish.main.batch/batch-databases@7.0.3?classifier=sources
@@ -42,7 +43,9 @@
 - pkg:maven/org.glassfish.main.batch/batch-databases@7.0.8?classifier=sources
 - pkg:maven/org.glassfish.main.batch/batch-databases@7.0.9?classifier=sources
 - pkg:maven/org.glassfish.main.batch/batch-databases@8.0.0-JDK17-M5?classifier=sources
+- pkg:maven/org.glassfish.main.batch/batch-databases@8.0.0-JDK17-M6?classifier=sources
 - pkg:maven/org.glassfish.main.batch/batch-databases@8.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.main.batch/batch-databases@8.0.0-M2?classifier=sources
 - pkg:maven/org.glassfish.main.batch/batch-databases@8.0.0-M3?classifier=sources
 - pkg:maven/org.glassfish.main.batch/batch-databases@8.0.0-M5?classifier=sources
+- pkg:maven/org.glassfish.main.batch/batch-databases@8.0.0-M6?classifier=sources
