@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/data-urls@3.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/data-urls@4.0.0
 - pkg:maven/org.webjars.npm/data-urls@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/data-urls@5.0.0
+- pkg:maven/org.webjars.npm/data-urls@5.0.0?classifier=sources

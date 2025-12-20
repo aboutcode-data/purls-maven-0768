@@ -12,7 +12,11 @@
 - pkg:maven/com.lightbend/scala-fortify_2.12.17@1.0.24?classifier=sources
 - pkg:maven/com.lightbend/scala-fortify_2.12.17@1.0.25
 - pkg:maven/com.lightbend/scala-fortify_2.12.17@1.0.25?classifier=sources
+- pkg:maven/com.lightbend/scala-fortify_2.12.17@1.0.26-RC1
+- pkg:maven/com.lightbend/scala-fortify_2.12.17@1.0.26-RC1?classifier=sources
 - pkg:maven/com.lightbend/scala-fortify_2.12.17@1.1.0-M1
+- pkg:maven/com.lightbend/scala-fortify_2.12.17@1.1.0-M11
+- pkg:maven/com.lightbend/scala-fortify_2.12.17@1.1.0-M11?classifier=sources
 - pkg:maven/com.lightbend/scala-fortify_2.12.17@1.1.0-M1?classifier=sources
 - pkg:maven/com.lightbend/scala-fortify_2.12.17@1.1.0-M2
 - pkg:maven/com.lightbend/scala-fortify_2.12.17@1.1.0-M2?classifier=sources

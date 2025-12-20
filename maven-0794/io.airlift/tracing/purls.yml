@@ -16,3 +16,7 @@
 - pkg:maven/io.airlift/tracing@236?classifier=sources
 - pkg:maven/io.airlift/tracing@237
 - pkg:maven/io.airlift/tracing@237?classifier=sources
+- pkg:maven/io.airlift/tracing@238
+- pkg:maven/io.airlift/tracing@238?classifier=sources
+- pkg:maven/io.airlift/tracing@239
+- pkg:maven/io.airlift/tracing@239?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ai.chalk/chalk-java-jdk17@0.3.3?classifier=sources
+- pkg:maven/ai.chalk/chalk-java-jdk17@0.3.4?classifier=sources

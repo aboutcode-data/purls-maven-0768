@@ -1,3 +1,4 @@
 - pkg:maven/io.github.xs-parser/xs-parser@1.0?classifier=sources
 - pkg:maven/io.github.xs-parser/xs-parser@2.0?classifier=sources
 - pkg:maven/io.github.xs-parser/xs-parser@2.1?classifier=sources
+- pkg:maven/io.github.xs-parser/xs-parser@3.0?classifier=sources

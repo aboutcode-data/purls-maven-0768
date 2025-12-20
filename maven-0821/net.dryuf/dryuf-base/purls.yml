@@ -6,3 +6,5 @@
 - pkg:maven/net.dryuf/dryuf-base@1.7.4?classifier=sources
 - pkg:maven/net.dryuf/dryuf-base@1.8.0
 - pkg:maven/net.dryuf/dryuf-base@1.8.0?classifier=sources
+- pkg:maven/net.dryuf/dryuf-base@1.8.1
+- pkg:maven/net.dryuf/dryuf-base@1.8.1?classifier=sources

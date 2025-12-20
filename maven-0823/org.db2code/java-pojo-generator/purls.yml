@@ -1,0 +1,2 @@
+- pkg:maven/org.db2code/java-pojo-generator@1.0
+- pkg:maven/org.db2code/java-pojo-generator@1.0?classifier=sources

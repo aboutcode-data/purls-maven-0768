@@ -57,3 +57,5 @@
 - pkg:maven/com.kasisoft/com.kasisoft.libs.common@4.3?classifier=sources
 - pkg:maven/com.kasisoft/com.kasisoft.libs.common@4.4
 - pkg:maven/com.kasisoft/com.kasisoft.libs.common@4.4?classifier=sources
+- pkg:maven/com.kasisoft/com.kasisoft.libs.common@5.0
+- pkg:maven/com.kasisoft/com.kasisoft.libs.common@5.0?classifier=sources

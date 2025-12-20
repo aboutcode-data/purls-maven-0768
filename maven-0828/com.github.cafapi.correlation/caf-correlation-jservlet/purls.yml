@@ -1,2 +1,4 @@
 - pkg:maven/com.github.cafapi.correlation/caf-correlation-jservlet@1.0.0-80
 - pkg:maven/com.github.cafapi.correlation/caf-correlation-jservlet@1.0.0-80?classifier=sources
+- pkg:maven/com.github.cafapi.correlation/caf-correlation-jservlet@2.0.0-248
+- pkg:maven/com.github.cafapi.correlation/caf-correlation-jservlet@2.0.0-248?classifier=sources

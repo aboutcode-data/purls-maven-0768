@@ -22,3 +22,5 @@
 - pkg:maven/org.fugerit.java/yaml-doc-maven-plugin@0.6.1?classifier=sources
 - pkg:maven/org.fugerit.java/yaml-doc-maven-plugin@0.7.0
 - pkg:maven/org.fugerit.java/yaml-doc-maven-plugin@0.7.0?classifier=sources
+- pkg:maven/org.fugerit.java/yaml-doc-maven-plugin@1.0.0
+- pkg:maven/org.fugerit.java/yaml-doc-maven-plugin@1.0.0?classifier=sources

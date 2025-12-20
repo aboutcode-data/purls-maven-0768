@@ -234,6 +234,10 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-installer@4.7.2?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-installer@4.8.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper-installer@4.8.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-installer@4.9.0
+- pkg:maven/edu.internet2.middleware.grouper/grouper-installer@4.9.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-installer@4.9.2
+- pkg:maven/edu.internet2.middleware.grouper/grouper-installer@4.9.2?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-installer@5.0.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper-installer@5.0.0?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-installer@5.0.1
@@ -256,3 +260,7 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-installer@5.4.0?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-installer@5.5.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper-installer@5.5.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-installer@5.6.0
+- pkg:maven/edu.internet2.middleware.grouper/grouper-installer@5.6.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-installer@5.6.1
+- pkg:maven/edu.internet2.middleware.grouper/grouper-installer@5.6.1?classifier=sources

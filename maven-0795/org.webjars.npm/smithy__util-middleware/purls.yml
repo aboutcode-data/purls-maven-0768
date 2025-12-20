@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/smithy__util-middleware@2.0.6
+- pkg:maven/org.webjars.npm/smithy__util-middleware@2.0.6?classifier=sources

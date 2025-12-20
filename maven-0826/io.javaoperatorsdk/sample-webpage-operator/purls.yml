@@ -88,3 +88,5 @@
 - pkg:maven/io.javaoperatorsdk/sample-webpage-operator@4.4.4?classifier=sources
 - pkg:maven/io.javaoperatorsdk/sample-webpage-operator@4.5.0
 - pkg:maven/io.javaoperatorsdk/sample-webpage-operator@4.5.0?classifier=sources
+- pkg:maven/io.javaoperatorsdk/sample-webpage-operator@4.6.0
+- pkg:maven/io.javaoperatorsdk/sample-webpage-operator@4.6.0?classifier=sources

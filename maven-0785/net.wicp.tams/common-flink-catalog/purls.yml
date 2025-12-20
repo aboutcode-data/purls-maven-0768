@@ -1,3 +1,5 @@
+- pkg:maven/net.wicp.tams/common-flink-catalog@1.15.1.1
+- pkg:maven/net.wicp.tams/common-flink-catalog@1.15.1.1?classifier=sources
 - pkg:maven/net.wicp.tams/common-flink-catalog@1.17.1.1
 - pkg:maven/net.wicp.tams/common-flink-catalog@1.17.1.1?classifier=sources
 - pkg:maven/net.wicp.tams/common-flink-catalog@3.6.18

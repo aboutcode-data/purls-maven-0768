@@ -56,3 +56,7 @@
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_native0.4_3@6.52.0%2B0.0.6?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_native0.4_3@6.52.1%2B0.0.6
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_native0.4_3@6.52.1%2B0.0.6?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_native0.4_3@6.53.0%2B0.0.6
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_native0.4_3@6.53.0%2B0.0.6?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_native0.4_3@6.54.0%2B0.0.6
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-spanner-v1_native0.4_3@6.54.0%2B0.0.6?classifier=sources

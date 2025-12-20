@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.types/d3-dispatch@1.0.10?classifier=sources
+- pkg:maven/org.mvnpm.at.types/d3-dispatch@1.0.12?classifier=sources

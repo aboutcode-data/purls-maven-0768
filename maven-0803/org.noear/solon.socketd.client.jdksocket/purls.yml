@@ -1094,3 +1094,5 @@
 - pkg:maven/org.noear/solon.socketd.client.jdksocket@2.5.9-M7
 - pkg:maven/org.noear/solon.socketd.client.jdksocket@2.5.9-M7?classifier=sources
 - pkg:maven/org.noear/solon.socketd.client.jdksocket@2.5.9?classifier=sources
+- pkg:maven/org.noear/solon.socketd.client.jdksocket@2.6.0-M1
+- pkg:maven/org.noear/solon.socketd.client.jdksocket@2.6.0-M1?classifier=sources

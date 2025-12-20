@@ -1,0 +1,2 @@
+- pkg:maven/io.altoo/akka-kryo-serialization-pekko-compat_2.13@2.5.2
+- pkg:maven/io.altoo/akka-kryo-serialization-pekko-compat_2.13@2.5.2?classifier=sources

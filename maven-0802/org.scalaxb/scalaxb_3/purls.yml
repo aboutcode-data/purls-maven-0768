@@ -1,0 +1,2 @@
+- pkg:maven/org.scalaxb/scalaxb_3@1.12.0
+- pkg:maven/org.scalaxb/scalaxb_3@1.12.0?classifier=sources

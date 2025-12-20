@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.central.test/refined-bom-child2@1.0.0?classifier=sources
+- pkg:maven/org.sonatype.central.test/refined-bom-child2@1.0.3?classifier=sources

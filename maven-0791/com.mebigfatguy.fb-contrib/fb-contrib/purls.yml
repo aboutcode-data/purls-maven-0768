@@ -107,3 +107,4 @@
 - pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.4.7
 - pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.4.7?classifier=sources
 - pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.6.0?classifier=sources
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.6.1?classifier=sources

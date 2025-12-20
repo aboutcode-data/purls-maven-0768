@@ -1,0 +1,2 @@
+- pkg:maven/com.aayushatharva.brotli4j/native-linux-s390x@1.13.0
+- pkg:maven/com.aayushatharva.brotli4j/native-linux-s390x@1.13.0?classifier=sources

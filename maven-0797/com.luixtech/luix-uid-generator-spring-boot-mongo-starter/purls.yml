@@ -58,3 +58,5 @@
 - pkg:maven/com.luixtech/luix-uid-generator-spring-boot-mongo-starter@1.2.2.8?classifier=sources
 - pkg:maven/com.luixtech/luix-uid-generator-spring-boot-mongo-starter@1.2.2.9
 - pkg:maven/com.luixtech/luix-uid-generator-spring-boot-mongo-starter@1.2.2.9?classifier=sources
+- pkg:maven/com.luixtech/luix-uid-generator-spring-boot-mongo-starter@1.2.3.0
+- pkg:maven/com.luixtech/luix-uid-generator-spring-boot-mongo-starter@1.2.3.0?classifier=sources

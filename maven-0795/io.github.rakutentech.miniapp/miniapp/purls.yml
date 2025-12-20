@@ -30,3 +30,4 @@
 - pkg:maven/io.github.rakutentech.miniapp/miniapp@5.6.0?classifier=sources
 - pkg:maven/io.github.rakutentech.miniapp/miniapp@5.7.0?classifier=sources
 - pkg:maven/io.github.rakutentech.miniapp/miniapp@5.7.1?classifier=sources
+- pkg:maven/io.github.rakutentech.miniapp/miniapp@5.7.2?classifier=sources

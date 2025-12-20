@@ -1,0 +1,2 @@
+- pkg:maven/com.your-rents.services/your-rents-services-common-searchable@0.0.1
+- pkg:maven/com.your-rents.services/your-rents-services-common-searchable@0.0.1?classifier=sources

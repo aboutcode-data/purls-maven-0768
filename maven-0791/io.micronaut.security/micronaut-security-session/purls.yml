@@ -90,3 +90,6 @@
 - pkg:maven/io.micronaut.security/micronaut-security-session@4.0.3?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-session@4.0.4?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-session@4.1.0?classifier=sources
+- pkg:maven/io.micronaut.security/micronaut-security-session@4.2.0?classifier=sources
+- pkg:maven/io.micronaut.security/micronaut-security-session@4.3.0?classifier=sources
+- pkg:maven/io.micronaut.security/micronaut-security-session@4.4.0?classifier=sources

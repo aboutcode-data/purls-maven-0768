@@ -393,7 +393,16 @@
 - pkg:maven/com.yahoo.vespa/tenant-cd-api@8.251.23?classifier=sources
 - pkg:maven/com.yahoo.vespa/tenant-cd-api@8.252.17?classifier=sources
 - pkg:maven/com.yahoo.vespa/tenant-cd-api@8.253.3?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@8.255.38?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@8.256.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@8.258.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@8.259.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/tenant-cd-api@8.26.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@8.260.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@8.261.39?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@8.262.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@8.263.7?classifier=sources
+- pkg:maven/com.yahoo.vespa/tenant-cd-api@8.265.12?classifier=sources
 - pkg:maven/com.yahoo.vespa/tenant-cd-api@8.27.12?classifier=sources
 - pkg:maven/com.yahoo.vespa/tenant-cd-api@8.28.12?classifier=sources
 - pkg:maven/com.yahoo.vespa/tenant-cd-api@8.29.16?classifier=sources

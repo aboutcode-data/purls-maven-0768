@@ -114,3 +114,5 @@
 - pkg:maven/com.googlecode.objectify/objectify@6.0a1?classifier=sources
 - pkg:maven/com.googlecode.objectify/objectify@6.0b1
 - pkg:maven/com.googlecode.objectify/objectify@6.0b1?classifier=sources
+- pkg:maven/com.googlecode.objectify/objectify@6.1.0
+- pkg:maven/com.googlecode.objectify/objectify@6.1.0?classifier=sources

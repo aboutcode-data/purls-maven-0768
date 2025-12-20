@@ -10,3 +10,5 @@
 - pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-protobuf@1.15.1?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-protobuf@1.15.2
 - pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-protobuf@1.15.2?classifier=sources
+- pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-protobuf@2.0.0
+- pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-protobuf@2.0.0?classifier=sources

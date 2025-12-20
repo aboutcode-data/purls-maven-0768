@@ -1,0 +1,2 @@
+- pkg:maven/io.clue2solve/spring-cloud-aws-bedrock-starter@0.0.1
+- pkg:maven/io.clue2solve/spring-cloud-aws-bedrock-starter@0.0.1?classifier=sources

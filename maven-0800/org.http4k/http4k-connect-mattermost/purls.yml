@@ -33,3 +33,7 @@
 - pkg:maven/org.http4k/http4k-connect-mattermost@5.2.5.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-mattermost@5.3.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-mattermost@5.4.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-mattermost@5.5.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-mattermost@5.5.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-mattermost@5.5.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-mattermost@5.6.0.0?classifier=sources

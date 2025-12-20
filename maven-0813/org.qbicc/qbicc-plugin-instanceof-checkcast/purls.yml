@@ -146,6 +146,8 @@
 - pkg:maven/org.qbicc/qbicc-plugin-instanceof-checkcast@0.75.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-instanceof-checkcast@0.76.0
 - pkg:maven/org.qbicc/qbicc-plugin-instanceof-checkcast@0.76.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-instanceof-checkcast@0.77.0
+- pkg:maven/org.qbicc/qbicc-plugin-instanceof-checkcast@0.77.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-instanceof-checkcast@0.8.0
 - pkg:maven/org.qbicc/qbicc-plugin-instanceof-checkcast@0.8.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-instanceof-checkcast@0.9.0

@@ -54,3 +54,5 @@
 - pkg:maven/com.hcl.domino/domino-jnx-console@1.30.1?classifier=sources
 - pkg:maven/com.hcl.domino/domino-jnx-console@1.31.0
 - pkg:maven/com.hcl.domino/domino-jnx-console@1.31.0?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-console@1.32.0
+- pkg:maven/com.hcl.domino/domino-jnx-console@1.32.0?classifier=sources

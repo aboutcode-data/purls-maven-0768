@@ -1,0 +1,2 @@
+- pkg:maven/org.qbicc/qbicc-runtime-wasm@0.77.0
+- pkg:maven/org.qbicc/qbicc-runtime-wasm@0.77.0?classifier=sources

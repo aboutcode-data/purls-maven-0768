@@ -617,6 +617,7 @@
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.0.15?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.0.16?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.0.17?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.0.18?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.0.1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.0.2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.0.3?classifier=sources
@@ -632,6 +633,9 @@
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.1.0-rc4?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.1.0?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.1.10?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.1.11?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.1.12?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.1.13?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.1.1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.1.2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.1.3?classifier=sources
@@ -650,6 +654,12 @@
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.2.3?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.2.4?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.2.5?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.2.6?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.2.7?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.2.8?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.3.0-rc1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.3.0-rc2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.3.0-rc3?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.3.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.3.1?classifier=sources
+- pkg:maven/com.teamscale/teamscale-check-api-test-fixtures@9.3.2?classifier=sources

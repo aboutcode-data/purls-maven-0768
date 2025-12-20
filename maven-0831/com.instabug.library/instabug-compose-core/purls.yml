@@ -1,2 +1,4 @@
 - pkg:maven/com.instabug.library/instabug-compose-core@12.1.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-compose-core@12.2.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose-core@12.3.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose-core@12.3.1?classifier=sources

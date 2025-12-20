@@ -66,6 +66,8 @@
 - pkg:maven/cz.pumpitup.pn5/reporting-allure@0.7.42?classifier=sources
 - pkg:maven/cz.pumpitup.pn5/reporting-allure@0.7.43
 - pkg:maven/cz.pumpitup.pn5/reporting-allure@0.7.43?classifier=sources
+- pkg:maven/cz.pumpitup.pn5/reporting-allure@0.7.44
+- pkg:maven/cz.pumpitup.pn5/reporting-allure@0.7.44?classifier=sources
 - pkg:maven/cz.pumpitup.pn5/reporting-allure@0.7.9
 - pkg:maven/cz.pumpitup.pn5/reporting-allure@0.7.9?classifier=sources
 - pkg:maven/cz.pumpitup.pn5/reporting-allure@0.8.0

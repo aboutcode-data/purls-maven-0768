@@ -22,3 +22,5 @@
 - pkg:maven/com.bucket4j/bucket4j-mysql@8.5.0?classifier=sources
 - pkg:maven/com.bucket4j/bucket4j-mysql@8.6.0
 - pkg:maven/com.bucket4j/bucket4j-mysql@8.6.0?classifier=sources
+- pkg:maven/com.bucket4j/bucket4j-mysql@8.7.0
+- pkg:maven/com.bucket4j/bucket4j-mysql@8.7.0?classifier=sources

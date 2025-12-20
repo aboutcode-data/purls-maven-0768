@@ -1,0 +1,2 @@
+- pkg:maven/dev.flange/flange-example-cloud-helloworld-faas-message-service-api@0.1.0
+- pkg:maven/dev.flange/flange-example-cloud-helloworld-faas-message-service-api@0.1.0?classifier=sources

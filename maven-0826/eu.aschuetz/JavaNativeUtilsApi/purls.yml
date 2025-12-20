@@ -1,1 +1,2 @@
 - pkg:maven/eu.aschuetz/JavaNativeUtilsApi@4.0?classifier=sources
+- pkg:maven/eu.aschuetz/JavaNativeUtilsApi@4.1?classifier=sources

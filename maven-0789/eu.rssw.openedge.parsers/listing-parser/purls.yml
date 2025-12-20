@@ -86,6 +86,8 @@
 - pkg:maven/eu.rssw.openedge.parsers/listing-parser@2.22.3?classifier=sources
 - pkg:maven/eu.rssw.openedge.parsers/listing-parser@2.23.1
 - pkg:maven/eu.rssw.openedge.parsers/listing-parser@2.23.1?classifier=sources
+- pkg:maven/eu.rssw.openedge.parsers/listing-parser@2.24.0
+- pkg:maven/eu.rssw.openedge.parsers/listing-parser@2.24.0?classifier=sources
 - pkg:maven/eu.rssw.openedge.parsers/listing-parser@2.3.0
 - pkg:maven/eu.rssw.openedge.parsers/listing-parser@2.3.0?classifier=sources
 - pkg:maven/eu.rssw.openedge.parsers/listing-parser@2.3.2

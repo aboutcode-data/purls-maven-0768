@@ -130,7 +130,14 @@
 - pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.20.53?classifier=sources
 - pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.20.54?classifier=sources
 - pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.20.55?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.20.56?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.20.57?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.20.58?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.20.59?classifier=sources
 - pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.20.5?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.20.60?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.20.61?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.20.62?classifier=sources
 - pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.20.6?classifier=sources
 - pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.20.7?classifier=sources
 - pkg:maven/com.github.bibsysdev/nva-datamodel-testutils@0.20.8?classifier=sources

@@ -50,3 +50,5 @@
 - pkg:maven/org.drjekyll/sentry-http-interceptors@6.9.2?classifier=sources
 - pkg:maven/org.drjekyll/sentry-http-interceptors@6.9.3
 - pkg:maven/org.drjekyll/sentry-http-interceptors@6.9.3?classifier=sources
+- pkg:maven/org.drjekyll/sentry-http-interceptors@7.0.0
+- pkg:maven/org.drjekyll/sentry-http-interceptors@7.0.0?classifier=sources

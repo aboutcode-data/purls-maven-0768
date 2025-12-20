@@ -12,6 +12,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.console.ssh@1.2.1000
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.console.ssh@1.2.1000?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.console.ssh@1.2.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.console.ssh@1.2.1100
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.console.ssh@1.2.1100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.console.ssh@1.2.200
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.console.ssh@1.2.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.console.ssh@1.2.300

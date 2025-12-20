@@ -9,3 +9,5 @@
 - pkg:maven/com.ucasoft.kcron/kcron-common-mingwx64@0.6.0?classifier=sources
 - pkg:maven/com.ucasoft.kcron/kcron-common-mingwx64@0.6.3?classifier=sources
 - pkg:maven/com.ucasoft.kcron/kcron-common-mingwx64@0.7.2?classifier=sources
+- pkg:maven/com.ucasoft.kcron/kcron-common-mingwx64@0.7.3?classifier=sources
+- pkg:maven/com.ucasoft.kcron/kcron-common-mingwx64@0.8.0?classifier=sources

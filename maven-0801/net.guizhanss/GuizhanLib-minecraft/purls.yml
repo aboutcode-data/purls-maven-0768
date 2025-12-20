@@ -30,3 +30,9 @@
 - pkg:maven/net.guizhanss/GuizhanLib-minecraft@1.3.4?classifier=sources
 - pkg:maven/net.guizhanss/GuizhanLib-minecraft@1.4.0
 - pkg:maven/net.guizhanss/GuizhanLib-minecraft@1.4.0?classifier=sources
+- pkg:maven/net.guizhanss/GuizhanLib-minecraft@1.5.0
+- pkg:maven/net.guizhanss/GuizhanLib-minecraft@1.5.0?classifier=sources
+- pkg:maven/net.guizhanss/GuizhanLib-minecraft@1.6.0
+- pkg:maven/net.guizhanss/GuizhanLib-minecraft@1.6.0?classifier=sources
+- pkg:maven/net.guizhanss/GuizhanLib-minecraft@1.6.1
+- pkg:maven/net.guizhanss/GuizhanLib-minecraft@1.6.1?classifier=sources

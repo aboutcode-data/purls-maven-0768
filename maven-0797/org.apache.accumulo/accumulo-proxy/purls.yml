@@ -6,6 +6,8 @@
 - pkg:maven/org.apache.accumulo/accumulo-proxy@1.10.2?classifier=sources
 - pkg:maven/org.apache.accumulo/accumulo-proxy@1.10.3
 - pkg:maven/org.apache.accumulo/accumulo-proxy@1.10.3?classifier=sources
+- pkg:maven/org.apache.accumulo/accumulo-proxy@1.10.4
+- pkg:maven/org.apache.accumulo/accumulo-proxy@1.10.4?classifier=sources
 - pkg:maven/org.apache.accumulo/accumulo-proxy@1.4.4
 - pkg:maven/org.apache.accumulo/accumulo-proxy@1.4.4?classifier=sources
 - pkg:maven/org.apache.accumulo/accumulo-proxy@1.4.5

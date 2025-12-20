@@ -1,2 +1,3 @@
 - pkg:maven/dev.opensavvy.prepared/compat-gradle-jvm@0.4.0?classifier=sources
 - pkg:maven/dev.opensavvy.prepared/compat-gradle-jvm@0.5.0?classifier=sources
+- pkg:maven/dev.opensavvy.prepared/compat-gradle-jvm@0.6.0?classifier=sources

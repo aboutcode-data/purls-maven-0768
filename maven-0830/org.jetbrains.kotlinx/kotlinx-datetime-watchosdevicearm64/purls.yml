@@ -1,1 +1,2 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-datetime-watchosdevicearm64@0.4.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-datetime-watchosdevicearm64@0.5.0?classifier=sources

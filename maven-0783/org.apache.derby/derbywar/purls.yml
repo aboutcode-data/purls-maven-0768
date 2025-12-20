@@ -10,6 +10,7 @@
 - pkg:maven/org.apache.derby/derbywar@10.15.1.3?type=war
 - pkg:maven/org.apache.derby/derbywar@10.15.2.0?type=war
 - pkg:maven/org.apache.derby/derbywar@10.16.1.1?type=war
+- pkg:maven/org.apache.derby/derbywar@10.17.1.0?type=war
 - pkg:maven/org.apache.derby/derbywar@10.2.1.6?type=war
 - pkg:maven/org.apache.derby/derbywar@10.2.2.0?type=war
 - pkg:maven/org.apache.derby/derbywar@10.3.1.4?type=war

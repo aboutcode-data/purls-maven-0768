@@ -18,3 +18,5 @@
 - pkg:maven/cn.zhxu/web-toys@0.0.9?classifier=sources
 - pkg:maven/cn.zhxu/web-toys@0.1.0
 - pkg:maven/cn.zhxu/web-toys@0.1.0?classifier=sources
+- pkg:maven/cn.zhxu/web-toys@0.1.1
+- pkg:maven/cn.zhxu/web-toys@0.1.1?classifier=sources

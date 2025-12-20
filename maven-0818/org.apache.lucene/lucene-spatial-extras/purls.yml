@@ -128,3 +128,4 @@
 - pkg:maven/org.apache.lucene/lucene-spatial-extras@9.6.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-spatial-extras@9.7.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-spatial-extras@9.8.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-spatial-extras@9.9.0?classifier=sources

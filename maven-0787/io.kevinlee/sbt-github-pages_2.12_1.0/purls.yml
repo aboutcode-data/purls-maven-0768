@@ -1,0 +1,2 @@
+- pkg:maven/io.kevinlee/sbt-github-pages_2.12_1.0@0.13.0
+- pkg:maven/io.kevinlee/sbt-github-pages_2.12_1.0@0.13.0?classifier=sources

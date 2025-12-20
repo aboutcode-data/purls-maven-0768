@@ -38,3 +38,5 @@
 - pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.8.2-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.8.3-preview
 - pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.8.3-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.8.4-preview
+- pkg:maven/com.google.cloud/google-cloud-datacatalog-spring-starter@4.8.4-preview?classifier=sources

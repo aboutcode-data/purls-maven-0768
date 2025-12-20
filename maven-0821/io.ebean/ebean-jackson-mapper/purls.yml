@@ -122,3 +122,7 @@
 - pkg:maven/io.ebean/ebean-jackson-mapper@13.25.0-jakarta
 - pkg:maven/io.ebean/ebean-jackson-mapper@13.25.0-jakarta?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-mapper@13.25.0?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.25.1
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.25.1-jakarta
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.25.1-jakarta?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@13.25.1?classifier=sources

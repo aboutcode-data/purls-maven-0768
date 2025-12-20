@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.streampipes/streampipes-messaging-pulsar@0.93.0
+- pkg:maven/org.apache.streampipes/streampipes-messaging-pulsar@0.93.0?classifier=sources

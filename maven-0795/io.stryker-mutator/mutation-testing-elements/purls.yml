@@ -66,3 +66,7 @@
 - pkg:maven/io.stryker-mutator/mutation-testing-elements@2.0.3?classifier=sources
 - pkg:maven/io.stryker-mutator/mutation-testing-elements@2.0.5
 - pkg:maven/io.stryker-mutator/mutation-testing-elements@2.0.5?classifier=sources
+- pkg:maven/io.stryker-mutator/mutation-testing-elements@3.0.0
+- pkg:maven/io.stryker-mutator/mutation-testing-elements@3.0.0?classifier=sources
+- pkg:maven/io.stryker-mutator/mutation-testing-elements@3.0.1
+- pkg:maven/io.stryker-mutator/mutation-testing-elements@3.0.1?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/io.provenance.explorer/explorer-api-model@5.4.0?classifier=sources
 - pkg:maven/io.provenance.explorer/explorer-api-model@5.5.0?classifier=sources
 - pkg:maven/io.provenance.explorer/explorer-api-model@5.6.0?classifier=sources
+- pkg:maven/io.provenance.explorer/explorer-api-model@5.7.0?classifier=sources
 - pkg:maven/io.provenance.explorer/explorer-api-model@latest?classifier=sources

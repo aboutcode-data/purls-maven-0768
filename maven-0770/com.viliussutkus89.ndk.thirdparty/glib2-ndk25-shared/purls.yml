@@ -1,2 +1,4 @@
 - pkg:maven/com.viliussutkus89.ndk.thirdparty/glib2-ndk25-shared@2.78.1-beta-1?classifier=sources
 - pkg:maven/com.viliussutkus89.ndk.thirdparty/glib2-ndk25-shared@2.78.1-beta-2?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/glib2-ndk25-shared@2.78.1-beta-3?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/glib2-ndk25-shared@2.78.1-beta-4?classifier=sources

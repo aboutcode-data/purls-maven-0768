@@ -18,3 +18,5 @@
 - pkg:maven/cc.uncarbon.framework/helio-starter-rocketmq-aliyun@1.7.3?classifier=sources
 - pkg:maven/cc.uncarbon.framework/helio-starter-rocketmq-aliyun@1.8.0
 - pkg:maven/cc.uncarbon.framework/helio-starter-rocketmq-aliyun@1.8.0?classifier=sources
+- pkg:maven/cc.uncarbon.framework/helio-starter-rocketmq-aliyun@1.9.0
+- pkg:maven/cc.uncarbon.framework/helio-starter-rocketmq-aliyun@1.9.0?classifier=sources

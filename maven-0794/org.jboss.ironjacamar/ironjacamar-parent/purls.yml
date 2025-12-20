@@ -9,6 +9,7 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@1.5.13.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@1.5.14.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@1.5.15.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@1.5.16.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@1.5.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@1.5.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@1.5.3.SP1?classifier=source-release&type=zip
@@ -24,6 +25,9 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@3.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@3.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@3.0.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@3.0.2.SP1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@3.0.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@3.0.4.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@3.0.5.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@3.0.6.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-parent@3.0.7.Final?classifier=source-release&type=zip

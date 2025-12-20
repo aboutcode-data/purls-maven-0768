@@ -1,4 +1,6 @@
 - pkg:maven/edu.uiuc.ncsa.security.crypt8.skin/skin@5.2.8
 - pkg:maven/edu.uiuc.ncsa.security.crypt8.skin/skin@5.2.8?classifier=sources
 - pkg:maven/edu.uiuc.ncsa.security.crypt8.skin/skin@5.4
+- pkg:maven/edu.uiuc.ncsa.security.crypt8.skin/skin@5.4.1
+- pkg:maven/edu.uiuc.ncsa.security.crypt8.skin/skin@5.4.1?classifier=sources
 - pkg:maven/edu.uiuc.ncsa.security.crypt8.skin/skin@5.4?classifier=sources

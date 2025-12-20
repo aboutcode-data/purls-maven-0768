@@ -12,3 +12,7 @@
 - pkg:maven/io.trino/trino-ignite-patched@431?classifier=sources
 - pkg:maven/io.trino/trino-ignite-patched@432
 - pkg:maven/io.trino/trino-ignite-patched@432?classifier=sources
+- pkg:maven/io.trino/trino-ignite-patched@433
+- pkg:maven/io.trino/trino-ignite-patched@433?classifier=sources
+- pkg:maven/io.trino/trino-ignite-patched@434
+- pkg:maven/io.trino/trino-ignite-patched@434?classifier=sources

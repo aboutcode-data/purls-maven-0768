@@ -39,3 +39,5 @@
 - pkg:maven/org.jboss.pnc.causeway/causeway-rest@2.4.4?classifier=sources
 - pkg:maven/org.jboss.pnc.causeway/causeway-rest@2.5.1?classifier=sources
 - pkg:maven/org.jboss.pnc.causeway/causeway-rest@2.5.2?classifier=sources
+- pkg:maven/org.jboss.pnc.causeway/causeway-rest@2.6.4?classifier=sources
+- pkg:maven/org.jboss.pnc.causeway/causeway-rest@2.6.5?classifier=sources

@@ -64,6 +64,8 @@
 - pkg:maven/org.kie/kie-util-maven-support@8.39.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-util-maven-support@8.40.0.Final
 - pkg:maven/org.kie/kie-util-maven-support@8.40.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-util-maven-support@8.40.1.Final
+- pkg:maven/org.kie/kie-util-maven-support@8.40.1.Final?classifier=sources
 - pkg:maven/org.kie/kie-util-maven-support@8.41.0.Final
 - pkg:maven/org.kie/kie-util-maven-support@8.41.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-util-maven-support@8.42.0.Final

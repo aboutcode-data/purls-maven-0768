@@ -1,2 +1,4 @@
 - pkg:maven/org.matheclipse/matheclipse-core@2.0.0
 - pkg:maven/org.matheclipse/matheclipse-core@2.0.0?classifier=sources
+- pkg:maven/org.matheclipse/matheclipse-core@3.0.0
+- pkg:maven/org.matheclipse/matheclipse-core@3.0.0?classifier=sources

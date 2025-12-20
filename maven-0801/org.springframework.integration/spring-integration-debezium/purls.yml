@@ -1,0 +1,1 @@
+- pkg:maven/org.springframework.integration/spring-integration-debezium@6.2.0?classifier=sources

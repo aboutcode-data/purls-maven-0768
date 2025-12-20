@@ -1,0 +1,2 @@
+- pkg:maven/com.unitsvc.kit/unitsvc-poi5@2.0.0
+- pkg:maven/com.unitsvc.kit/unitsvc-poi5@2.0.0?classifier=sources

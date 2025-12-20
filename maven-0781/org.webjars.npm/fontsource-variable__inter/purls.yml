@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/fontsource-variable__inter@5.0.15
+- pkg:maven/org.webjars.npm/fontsource-variable__inter@5.0.15?classifier=sources
 - pkg:maven/org.webjars.npm/fontsource-variable__inter@5.0.5
 - pkg:maven/org.webjars.npm/fontsource-variable__inter@5.0.5?classifier=sources

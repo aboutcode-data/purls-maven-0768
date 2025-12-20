@@ -1,2 +1,5 @@
 - pkg:maven/io.github.dmitriy1892.kmm/mvvm-compose-android-debug@0.0.3?classifier=sources
 - pkg:maven/io.github.dmitriy1892.kmm/mvvm-compose-android-debug@0.0.4?classifier=sources
+- pkg:maven/io.github.dmitriy1892.kmm/mvvm-compose-android-debug@0.0.5?classifier=sources
+- pkg:maven/io.github.dmitriy1892.kmm/mvvm-compose-android-debug@0.0.6?classifier=sources
+- pkg:maven/io.github.dmitriy1892.kmm/mvvm-compose-android-debug@0.0.7?classifier=sources

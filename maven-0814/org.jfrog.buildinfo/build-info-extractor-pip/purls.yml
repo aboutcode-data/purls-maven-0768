@@ -126,3 +126,5 @@
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.41.6?classifier=sources
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.41.7
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.41.7?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.41.8
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-pip@2.41.8?classifier=sources

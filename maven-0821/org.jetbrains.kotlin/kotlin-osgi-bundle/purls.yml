@@ -277,3 +277,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-osgi-bundle@1.9.20-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-osgi-bundle@1.9.20-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-osgi-bundle@1.9.20?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-osgi-bundle@1.9.21?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-osgi-bundle@2.0.0-Beta1?classifier=sources

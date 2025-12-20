@@ -201,6 +201,9 @@
 - pkg:maven/com.qwlabs.doraemon/exceptions@0.2.288?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/exceptions@0.2.289?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/exceptions@0.2.290?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/exceptions@0.2.291?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/exceptions@0.2.292?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/exceptions@0.2.295?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/exceptions@0.2.97?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/exceptions@0.2.98?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/exceptions@0.2.99?classifier=sources

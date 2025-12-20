@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.types/d3@4.13.13?classifier=sources
+- pkg:maven/org.mvnpm.at.types/d3@4.13.15?classifier=sources

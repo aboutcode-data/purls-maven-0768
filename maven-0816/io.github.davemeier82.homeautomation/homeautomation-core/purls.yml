@@ -14,3 +14,5 @@
 - pkg:maven/io.github.davemeier82.homeautomation/homeautomation-core@0.3.0?classifier=sources
 - pkg:maven/io.github.davemeier82.homeautomation/homeautomation-core@0.3.1
 - pkg:maven/io.github.davemeier82.homeautomation/homeautomation-core@0.3.1?classifier=sources
+- pkg:maven/io.github.davemeier82.homeautomation/homeautomation-core@0.4.0
+- pkg:maven/io.github.davemeier82.homeautomation/homeautomation-core@0.4.0?classifier=sources

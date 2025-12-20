@@ -16,3 +16,4 @@
 - pkg:maven/ai.picovoice/picovoice-android@2.2.0?classifier=sources
 - pkg:maven/ai.picovoice/picovoice-android@2.2.1?classifier=sources
 - pkg:maven/ai.picovoice/picovoice-android@3.0.0?classifier=sources
+- pkg:maven/ai.picovoice/picovoice-android@3.0.1?classifier=sources

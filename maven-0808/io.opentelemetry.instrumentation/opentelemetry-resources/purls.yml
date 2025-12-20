@@ -17,3 +17,4 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-resources@1.29.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-resources@1.30.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-resources@1.31.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-resources@1.32.0-alpha?classifier=sources

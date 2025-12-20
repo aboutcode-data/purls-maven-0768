@@ -22,3 +22,5 @@
 - pkg:maven/com.loocme/utils@7.1.6?classifier=sources
 - pkg:maven/com.loocme/utils@7.1.7
 - pkg:maven/com.loocme/utils@7.1.7?classifier=sources
+- pkg:maven/com.loocme/utils@7.1.8
+- pkg:maven/com.loocme/utils@7.1.8?classifier=sources

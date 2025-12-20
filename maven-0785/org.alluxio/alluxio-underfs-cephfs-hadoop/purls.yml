@@ -64,3 +64,9 @@
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@303?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@304
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@304?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@305
+- pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@305?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@306
+- pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@306?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@307
+- pkg:maven/org.alluxio/alluxio-underfs-cephfs-hadoop@307?classifier=sources

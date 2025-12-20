@@ -1,1 +1,2 @@
 - pkg:maven/net.sunshow.toolkit/core-qbean-api@1.3.4?classifier=sources
+- pkg:maven/net.sunshow.toolkit/core-qbean-api@2.1.1?classifier=sources

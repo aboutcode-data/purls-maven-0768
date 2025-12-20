@@ -7,3 +7,5 @@
 - pkg:maven/org.apache.cocoon/cocoon-configuration-api@1.0.4
 - pkg:maven/org.apache.cocoon/cocoon-configuration-api@1.0.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.cocoon/cocoon-configuration-api@1.0.4?classifier=sources
+- pkg:maven/org.apache.cocoon/cocoon-configuration-api@2.3.0
+- pkg:maven/org.apache.cocoon/cocoon-configuration-api@2.3.0?classifier=sources

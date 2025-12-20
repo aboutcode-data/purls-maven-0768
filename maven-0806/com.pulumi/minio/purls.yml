@@ -70,6 +70,14 @@
 - pkg:maven/com.pulumi/minio@0.15.0?classifier=sources
 - pkg:maven/com.pulumi/minio@0.15.1-alpha.1698963958%2B5e742155?classifier=sources
 - pkg:maven/com.pulumi/minio@0.15.1-alpha.1699335840%2Bd66fdb76?classifier=sources
+- pkg:maven/com.pulumi/minio@0.15.1-alpha.1699509040%2Bc191b1ff?classifier=sources
+- pkg:maven/com.pulumi/minio@0.15.1-alpha.1699648939%2B5c9688cc?classifier=sources
+- pkg:maven/com.pulumi/minio@0.15.1-alpha.1699655053%2B9f6dffed?classifier=sources
+- pkg:maven/com.pulumi/minio@0.15.1-alpha.1700082135%2B938543fd?classifier=sources
+- pkg:maven/com.pulumi/minio@0.15.1-alpha.1700113558%2Bfa602d9f?classifier=sources
+- pkg:maven/com.pulumi/minio@0.15.1-alpha.1700199899%2B6feb23bd?classifier=sources
+- pkg:maven/com.pulumi/minio@0.15.1-alpha.1700545243%2Bc36bcae4?classifier=sources
+- pkg:maven/com.pulumi/minio@0.15.1-alpha.1700614521%2Ba85d08b7?classifier=sources
 - pkg:maven/com.pulumi/minio@0.4.2-alpha.1660861611%2Bba05df91?classifier=sources
 - pkg:maven/com.pulumi/minio@0.5.0?classifier=sources
 - pkg:maven/com.pulumi/minio@0.5.1-alpha.1668658056%2B50775b56?classifier=sources

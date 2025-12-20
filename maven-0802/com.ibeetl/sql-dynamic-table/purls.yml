@@ -26,3 +26,5 @@
 - pkg:maven/com.ibeetl/sql-dynamic-table@3.27.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-dynamic-table@3.27.1-RELEASE
 - pkg:maven/com.ibeetl/sql-dynamic-table@3.27.1-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-dynamic-table@3.27.2-RELEASE
+- pkg:maven/com.ibeetl/sql-dynamic-table@3.27.2-RELEASE?classifier=sources

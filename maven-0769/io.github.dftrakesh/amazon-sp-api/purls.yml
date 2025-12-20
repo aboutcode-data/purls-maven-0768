@@ -60,6 +60,12 @@
 - pkg:maven/io.github.dftrakesh/amazon-sp-api@1.38?classifier=sources
 - pkg:maven/io.github.dftrakesh/amazon-sp-api@1.39
 - pkg:maven/io.github.dftrakesh/amazon-sp-api@1.39?classifier=sources
+- pkg:maven/io.github.dftrakesh/amazon-sp-api@1.40
+- pkg:maven/io.github.dftrakesh/amazon-sp-api@1.40?classifier=sources
+- pkg:maven/io.github.dftrakesh/amazon-sp-api@1.41
+- pkg:maven/io.github.dftrakesh/amazon-sp-api@1.41?classifier=sources
+- pkg:maven/io.github.dftrakesh/amazon-sp-api@1.42
+- pkg:maven/io.github.dftrakesh/amazon-sp-api@1.42?classifier=sources
 - pkg:maven/io.github.dftrakesh/amazon-sp-api@1.6
 - pkg:maven/io.github.dftrakesh/amazon-sp-api@1.6?classifier=sources
 - pkg:maven/io.github.dftrakesh/amazon-sp-api@1.7

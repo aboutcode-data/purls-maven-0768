@@ -21,3 +21,4 @@
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-redisson-3.17@1.29.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-redisson-3.17@1.30.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-redisson-3.17@1.31.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-redisson-3.17@1.32.0-alpha?classifier=sources

@@ -354,6 +354,10 @@
 - pkg:maven/io.sentry/sentry-log4j2@6.33.0?classifier=sources
 - pkg:maven/io.sentry/sentry-log4j2@6.33.1
 - pkg:maven/io.sentry/sentry-log4j2@6.33.1?classifier=sources
+- pkg:maven/io.sentry/sentry-log4j2@6.33.2-beta.1
+- pkg:maven/io.sentry/sentry-log4j2@6.33.2-beta.1?classifier=sources
+- pkg:maven/io.sentry/sentry-log4j2@6.34.0
+- pkg:maven/io.sentry/sentry-log4j2@6.34.0?classifier=sources
 - pkg:maven/io.sentry/sentry-log4j2@6.4.0
 - pkg:maven/io.sentry/sentry-log4j2@6.4.0?classifier=sources
 - pkg:maven/io.sentry/sentry-log4j2@6.4.1
@@ -388,5 +392,11 @@
 - pkg:maven/io.sentry/sentry-log4j2@6.9.1?classifier=sources
 - pkg:maven/io.sentry/sentry-log4j2@6.9.2
 - pkg:maven/io.sentry/sentry-log4j2@6.9.2?classifier=sources
+- pkg:maven/io.sentry/sentry-log4j2@7.0.0
 - pkg:maven/io.sentry/sentry-log4j2@7.0.0-beta.1
 - pkg:maven/io.sentry/sentry-log4j2@7.0.0-beta.1?classifier=sources
+- pkg:maven/io.sentry/sentry-log4j2@7.0.0-rc.1
+- pkg:maven/io.sentry/sentry-log4j2@7.0.0-rc.1?classifier=sources
+- pkg:maven/io.sentry/sentry-log4j2@7.0.0-rc.2
+- pkg:maven/io.sentry/sentry-log4j2@7.0.0-rc.2?classifier=sources
+- pkg:maven/io.sentry/sentry-log4j2@7.0.0?classifier=sources

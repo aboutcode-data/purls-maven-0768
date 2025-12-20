@@ -20,3 +20,7 @@
 - pkg:maven/io.gitee.mingbaobaba/athena-security-plugin-jpa@1.2.20?classifier=sources
 - pkg:maven/io.gitee.mingbaobaba/athena-security-plugin-jpa@1.2.21
 - pkg:maven/io.gitee.mingbaobaba/athena-security-plugin-jpa@1.2.21?classifier=sources
+- pkg:maven/io.gitee.mingbaobaba/athena-security-plugin-jpa@1.2.22
+- pkg:maven/io.gitee.mingbaobaba/athena-security-plugin-jpa@1.2.22?classifier=sources
+- pkg:maven/io.gitee.mingbaobaba/athena-security-plugin-jpa@1.2.23
+- pkg:maven/io.gitee.mingbaobaba/athena-security-plugin-jpa@1.2.23?classifier=sources

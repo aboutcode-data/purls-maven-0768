@@ -20,3 +20,5 @@
 - pkg:maven/nl.pvanassen.led/animation-common@1.6.9?classifier=sources
 - pkg:maven/nl.pvanassen.led/animation-common@1.7.0
 - pkg:maven/nl.pvanassen.led/animation-common@1.7.0?classifier=sources
+- pkg:maven/nl.pvanassen.led/animation-common@1.7.1
+- pkg:maven/nl.pvanassen.led/animation-common@1.7.1?classifier=sources

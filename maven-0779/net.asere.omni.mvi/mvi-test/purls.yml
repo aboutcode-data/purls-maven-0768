@@ -7,3 +7,7 @@
 - pkg:maven/net.asere.omni.mvi/mvi-test@1.5.0?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi-test@1.6.0?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi-test@1.6.1?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-test@1.7.0?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-test@1.7.1?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-test@1.7.2?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-test@1.7.3?classifier=sources

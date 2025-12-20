@@ -3,6 +3,7 @@
 - pkg:maven/io.github.bayescom/advance-csj@4.3.0_5416?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@4.3.0_5416_core?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@4.3.0_5516_core?type=aar
+- pkg:maven/io.github.bayescom/advance-csj@4.3.0_5708_core?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@4.3.0_rr1_5416_core?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@4.3.1_5704?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@4.3.1_5704_core?type=aar

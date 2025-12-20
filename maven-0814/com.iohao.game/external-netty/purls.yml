@@ -30,3 +30,5 @@
 - pkg:maven/com.iohao.game/external-netty@17.1.57?classifier=sources
 - pkg:maven/com.iohao.game/external-netty@17.1.58
 - pkg:maven/com.iohao.game/external-netty@17.1.58?classifier=sources
+- pkg:maven/com.iohao.game/external-netty@17.1.59
+- pkg:maven/com.iohao.game/external-netty@17.1.59?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/it.uniroma2.art.semanticturkey/st-dataeu-connector@11.4.2
 - pkg:maven/it.uniroma2.art.semanticturkey/st-dataeu-connector@11.4.2?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-dataeu-connector@11.4?classifier=sources
+- pkg:maven/it.uniroma2.art.semanticturkey/st-dataeu-connector@12.0
+- pkg:maven/it.uniroma2.art.semanticturkey/st-dataeu-connector@12.0?classifier=sources

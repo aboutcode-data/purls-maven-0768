@@ -14,3 +14,5 @@
 - pkg:maven/nl.vroste/zio-kinesis-future_3@0.31.2?classifier=sources
 - pkg:maven/nl.vroste/zio-kinesis-future_3@0.32.0
 - pkg:maven/nl.vroste/zio-kinesis-future_3@0.32.0?classifier=sources
+- pkg:maven/nl.vroste/zio-kinesis-future_3@0.32.1
+- pkg:maven/nl.vroste/zio-kinesis-future_3@0.32.1?classifier=sources

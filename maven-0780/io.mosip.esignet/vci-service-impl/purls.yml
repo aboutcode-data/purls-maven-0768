@@ -1,0 +1,2 @@
+- pkg:maven/io.mosip.esignet/vci-service-impl@1.2.0
+- pkg:maven/io.mosip.esignet/vci-service-impl@1.2.0?classifier=sources

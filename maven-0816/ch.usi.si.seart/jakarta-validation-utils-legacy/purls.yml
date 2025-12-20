@@ -1,2 +1,4 @@
 - pkg:maven/ch.usi.si.seart/jakarta-validation-utils-legacy@0.1.0
 - pkg:maven/ch.usi.si.seart/jakarta-validation-utils-legacy@0.1.0?classifier=sources
+- pkg:maven/ch.usi.si.seart/jakarta-validation-utils-legacy@0.2.0
+- pkg:maven/ch.usi.si.seart/jakarta-validation-utils-legacy@0.2.0?classifier=sources

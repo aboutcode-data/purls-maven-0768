@@ -2,3 +2,5 @@
 - pkg:maven/fr.neolegal/mysql-backup4j@1.2.2?classifier=sources
 - pkg:maven/fr.neolegal/mysql-backup4j@1.2.3
 - pkg:maven/fr.neolegal/mysql-backup4j@1.2.3?classifier=sources
+- pkg:maven/fr.neolegal/mysql-backup4j@1.2.4
+- pkg:maven/fr.neolegal/mysql-backup4j@1.2.4?classifier=sources
