@@ -54,3 +54,9 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartsgovernance@3.1.132?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartsgovernance@3.1.133
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartsgovernance@3.1.133?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartsgovernance@3.1.134
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartsgovernance@3.1.134?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartsgovernance@3.1.135
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartsgovernance@3.1.135?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartsgovernance@3.1.136
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codeartsgovernance@3.1.136?classifier=sources

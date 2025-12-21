@@ -1,1 +1,10 @@
 - pkg:maven/com.teragrep/akv_01@1.0.1?classifier=sources
+- pkg:maven/com.teragrep/akv_01@2.0.0?classifier=sources
+- pkg:maven/com.teragrep/akv_01@3.0.0?classifier=sources
+- pkg:maven/com.teragrep/akv_01@4.0.1?classifier=sources
+- pkg:maven/com.teragrep/akv_01@5.0.0?classifier=sources
+- pkg:maven/com.teragrep/akv_01@6.0.0?classifier=sources
+- pkg:maven/com.teragrep/akv_01@6.1.0?classifier=sources
+- pkg:maven/com.teragrep/akv_01@6.2.0?classifier=sources
+- pkg:maven/com.teragrep/akv_01@6.3.0?classifier=sources
+- pkg:maven/com.teragrep/akv_01@6.3.1?classifier=sources

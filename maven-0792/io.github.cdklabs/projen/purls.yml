@@ -2717,6 +2717,14 @@
 - pkg:maven/io.github.cdklabs/projen@0.91.0
 - pkg:maven/io.github.cdklabs/projen@0.91.0?classifier=sources
 - pkg:maven/io.github.cdklabs/projen@0.91.1
+- pkg:maven/io.github.cdklabs/projen@0.91.10
+- pkg:maven/io.github.cdklabs/projen@0.91.10?classifier=sources
+- pkg:maven/io.github.cdklabs/projen@0.91.11
+- pkg:maven/io.github.cdklabs/projen@0.91.11?classifier=sources
+- pkg:maven/io.github.cdklabs/projen@0.91.12
+- pkg:maven/io.github.cdklabs/projen@0.91.12?classifier=sources
+- pkg:maven/io.github.cdklabs/projen@0.91.13
+- pkg:maven/io.github.cdklabs/projen@0.91.13?classifier=sources
 - pkg:maven/io.github.cdklabs/projen@0.91.1?classifier=sources
 - pkg:maven/io.github.cdklabs/projen@0.91.2
 - pkg:maven/io.github.cdklabs/projen@0.91.2?classifier=sources
@@ -2728,3 +2736,9 @@
 - pkg:maven/io.github.cdklabs/projen@0.91.5?classifier=sources
 - pkg:maven/io.github.cdklabs/projen@0.91.6
 - pkg:maven/io.github.cdklabs/projen@0.91.6?classifier=sources
+- pkg:maven/io.github.cdklabs/projen@0.91.7
+- pkg:maven/io.github.cdklabs/projen@0.91.7?classifier=sources
+- pkg:maven/io.github.cdklabs/projen@0.91.8
+- pkg:maven/io.github.cdklabs/projen@0.91.8?classifier=sources
+- pkg:maven/io.github.cdklabs/projen@0.91.9
+- pkg:maven/io.github.cdklabs/projen@0.91.9?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.jdbc/quarkus-sqlite4j@0.0.1?classifier=sources

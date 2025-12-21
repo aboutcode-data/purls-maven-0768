@@ -1,0 +1,2 @@
+- pkg:maven/com.commercetools/sphere-json-core_3@0.15.5
+- pkg:maven/com.commercetools/sphere-json-core_3@0.15.5?classifier=sources

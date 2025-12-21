@@ -31,3 +31,5 @@
 - pkg:maven/me.magicall/outsea@2.7.0?classifier=sources
 - pkg:maven/me.magicall/outsea@2.8.0
 - pkg:maven/me.magicall/outsea@2.8.0?classifier=sources
+- pkg:maven/me.magicall/outsea@3.0.0?classifier=sources
+- pkg:maven/me.magicall/outsea@3.0.1?classifier=sources

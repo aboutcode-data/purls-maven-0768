@@ -2,3 +2,4 @@
 - pkg:maven/org.icij.datashare/datashare-tasks@15.1.6?classifier=sources
 - pkg:maven/org.icij.datashare/datashare-tasks@15.2.0
 - pkg:maven/org.icij.datashare/datashare-tasks@15.2.0?classifier=sources
+- pkg:maven/org.icij.datashare/datashare-tasks@16.0.5?classifier=sources

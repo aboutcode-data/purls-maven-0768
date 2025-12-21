@@ -9,3 +9,5 @@
 - pkg:maven/cn.sliew/carp-generator@0.0.22?classifier=sources
 - pkg:maven/cn.sliew/carp-generator@0.0.23?classifier=sources
 - pkg:maven/cn.sliew/carp-generator@0.0.24?classifier=sources
+- pkg:maven/cn.sliew/carp-generator@0.0.31?classifier=sources
+- pkg:maven/cn.sliew/carp-generator@0.0.32?classifier=sources

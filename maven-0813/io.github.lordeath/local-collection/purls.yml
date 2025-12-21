@@ -1,0 +1,16 @@
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250125.1?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250125?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250207.1?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250207.2?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250207.3?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250207.4?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250207.5?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250207.6?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250207.7?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250207.8?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250208.1?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250208.2?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250215.1?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250215.2?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250215.3?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250215.4?classifier=sources

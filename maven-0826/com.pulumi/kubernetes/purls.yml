@@ -1,3 +1,6 @@
+- pkg:maven/com.pulumi/kubernetes@0.0.1-alpha.100?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@0.0.1-alpha.101?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@0.0.1-testwindows.signing?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@3.18.3?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@3.19.1?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@3.20.2?classifier=sources
@@ -286,6 +289,7 @@
 - pkg:maven/com.pulumi/kubernetes@4.2.0?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.20.0?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.21.0?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@4.21.1?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.3.0-alpha.1694910654%2B57fa7f7a?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.3.0-alpha.1695161763%2Bd2a3b8c2?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.3.0-alpha.1695324098%2B550b206a?classifier=sources

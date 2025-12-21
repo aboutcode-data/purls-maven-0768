@@ -1,0 +1,2 @@
+- pkg:maven/com.wgtwo.api.v1.grpc/number_portability@1.16.2
+- pkg:maven/com.wgtwo.api.v1.grpc/number_portability@1.16.2?classifier=sources

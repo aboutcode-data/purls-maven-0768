@@ -964,7 +964,12 @@
 - pkg:maven/software.amazon.awssdk/archetype-app-quickstart@2.30.24?classifier=sources
 - pkg:maven/software.amazon.awssdk/archetype-app-quickstart@2.30.25?classifier=sources
 - pkg:maven/software.amazon.awssdk/archetype-app-quickstart@2.30.26?classifier=sources
+- pkg:maven/software.amazon.awssdk/archetype-app-quickstart@2.30.27?classifier=sources
+- pkg:maven/software.amazon.awssdk/archetype-app-quickstart@2.30.28?classifier=sources
+- pkg:maven/software.amazon.awssdk/archetype-app-quickstart@2.30.29?classifier=sources
 - pkg:maven/software.amazon.awssdk/archetype-app-quickstart@2.30.2?classifier=sources
+- pkg:maven/software.amazon.awssdk/archetype-app-quickstart@2.30.30?classifier=sources
+- pkg:maven/software.amazon.awssdk/archetype-app-quickstart@2.30.31?classifier=sources
 - pkg:maven/software.amazon.awssdk/archetype-app-quickstart@2.30.3?classifier=sources
 - pkg:maven/software.amazon.awssdk/archetype-app-quickstart@2.30.4?classifier=sources
 - pkg:maven/software.amazon.awssdk/archetype-app-quickstart@2.30.5?classifier=sources

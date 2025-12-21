@@ -58,3 +58,5 @@
 - pkg:maven/io.github.salamahin/joinwiz_macro_2.11@1.4.12?classifier=sources
 - pkg:maven/io.github.salamahin/joinwiz_macro_2.11@1.4.14
 - pkg:maven/io.github.salamahin/joinwiz_macro_2.11@1.4.14?classifier=sources
+- pkg:maven/io.github.salamahin/joinwiz_macro_2.11@1.4.31
+- pkg:maven/io.github.salamahin/joinwiz_macro_2.11@1.4.31?classifier=sources

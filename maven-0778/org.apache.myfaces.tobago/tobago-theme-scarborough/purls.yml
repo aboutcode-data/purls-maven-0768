@@ -238,6 +238,8 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-scarborough@5.13.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-scarborough@5.14.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-scarborough@5.14.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-scarborough@5.15.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-scarborough@5.15.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-scarborough@5.2.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-scarborough@5.2.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-scarborough@5.3.0
@@ -276,3 +278,5 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-scarborough@6.5.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-scarborough@6.6.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-scarborough@6.6.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-scarborough@6.7.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-scarborough@6.7.0?classifier=sources

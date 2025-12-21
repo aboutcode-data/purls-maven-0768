@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.ignite/ignite-raft-api@3.0.0?classifier=sources

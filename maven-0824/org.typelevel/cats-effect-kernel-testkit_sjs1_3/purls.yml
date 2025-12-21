@@ -214,3 +214,5 @@
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_sjs1_3@3.6-ecf93db?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_sjs1_3@3.6.0-RC1
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_sjs1_3@3.6.0-RC1?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_sjs1_3@3.6.0-RC2
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_sjs1_3@3.6.0-RC2?classifier=sources

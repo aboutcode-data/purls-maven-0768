@@ -2,3 +2,5 @@
 - pkg:maven/com.meta.spatial/meta-spatial-sdk-compose@0.5.3?type=aar
 - pkg:maven/com.meta.spatial/meta-spatial-sdk-compose@0.5.4?classifier=sources
 - pkg:maven/com.meta.spatial/meta-spatial-sdk-compose@0.5.4?type=aar
+- pkg:maven/com.meta.spatial/meta-spatial-sdk-compose@0.5.5?classifier=sources
+- pkg:maven/com.meta.spatial/meta-spatial-sdk-compose@0.5.5?type=aar

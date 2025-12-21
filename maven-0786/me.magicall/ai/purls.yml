@@ -7,3 +7,5 @@
 - pkg:maven/me.magicall/ai@2.7.0?classifier=sources
 - pkg:maven/me.magicall/ai@2.8.0
 - pkg:maven/me.magicall/ai@2.8.0?classifier=sources
+- pkg:maven/me.magicall/ai@3.0.0?classifier=sources
+- pkg:maven/me.magicall/ai@3.0.1?classifier=sources

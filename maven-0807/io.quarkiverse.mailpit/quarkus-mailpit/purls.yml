@@ -31,3 +31,7 @@
 - pkg:maven/io.quarkiverse.mailpit/quarkus-mailpit@1.2.2
 - pkg:maven/io.quarkiverse.mailpit/quarkus-mailpit@1.2.2?classifier=sources
 - pkg:maven/io.quarkiverse.mailpit/quarkus-mailpit@1.3.0?classifier=sources
+- pkg:maven/io.quarkiverse.mailpit/quarkus-mailpit@1.4.0?classifier=sources
+- pkg:maven/io.quarkiverse.mailpit/quarkus-mailpit@1.5.0?classifier=sources
+- pkg:maven/io.quarkiverse.mailpit/quarkus-mailpit@1.6.0?classifier=sources
+- pkg:maven/io.quarkiverse.mailpit/quarkus-mailpit@1.6.1?classifier=sources

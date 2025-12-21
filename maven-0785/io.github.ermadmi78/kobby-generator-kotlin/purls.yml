@@ -45,3 +45,4 @@
 - pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@4.0.3?classifier=sources
 - pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@4.1.0-beta.01?classifier=sources
 - pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@4.1.0?classifier=sources
+- pkg:maven/io.github.ermadmi78/kobby-generator-kotlin@4.1.1?classifier=sources

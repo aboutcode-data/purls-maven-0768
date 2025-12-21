@@ -121,3 +121,14 @@
 - pkg:maven/com.yahoo.vespa/container-llama@8.467.13?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-llama@8.468.7?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-llama@8.469.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.470.28?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.471.25?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.472.109?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.475.11?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.476.30?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.477.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.478.26?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.480.37?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.482.31?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.484.1?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-llama@8.485.42?classifier=sources

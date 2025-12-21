@@ -1,1 +1,2 @@
 - pkg:maven/com.adkhambek.kunkka/retrofit-gen@0.0.2?classifier=sources
+- pkg:maven/com.adkhambek.kunkka/retrofit-gen@0.0.3?classifier=sources

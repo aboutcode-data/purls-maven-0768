@@ -20,3 +20,5 @@
 - pkg:maven/sh.almond/coursier-logger_2.13@0.14.0-RC8?classifier=sources
 - pkg:maven/sh.almond/coursier-logger_2.13@0.14.0-RC9
 - pkg:maven/sh.almond/coursier-logger_2.13@0.14.0-RC9?classifier=sources
+- pkg:maven/sh.almond/coursier-logger_2.13@0.14.1
+- pkg:maven/sh.almond/coursier-logger_2.13@0.14.1?classifier=sources

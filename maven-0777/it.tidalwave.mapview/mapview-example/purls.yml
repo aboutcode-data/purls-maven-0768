@@ -4,3 +4,5 @@
 - pkg:maven/it.tidalwave.mapview/mapview-example@1.0-ALPHA-2?classifier=sources
 - pkg:maven/it.tidalwave.mapview/mapview-example@1.0-ALPHA-3
 - pkg:maven/it.tidalwave.mapview/mapview-example@1.0-ALPHA-3?classifier=sources
+- pkg:maven/it.tidalwave.mapview/mapview-example@1.0-ALPHA-4
+- pkg:maven/it.tidalwave.mapview/mapview-example@1.0-ALPHA-4?classifier=sources

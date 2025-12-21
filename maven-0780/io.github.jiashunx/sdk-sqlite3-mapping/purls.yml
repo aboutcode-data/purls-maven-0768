@@ -1,0 +1,4 @@
+- pkg:maven/io.github.jiashunx/sdk-sqlite3-mapping@1.0.0.RELEASE
+- pkg:maven/io.github.jiashunx/sdk-sqlite3-mapping@1.0.0.RELEASE?classifier=sources
+- pkg:maven/io.github.jiashunx/sdk-sqlite3-mapping@1.1.0.RELEASE
+- pkg:maven/io.github.jiashunx/sdk-sqlite3-mapping@1.1.0.RELEASE?classifier=sources

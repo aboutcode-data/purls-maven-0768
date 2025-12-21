@@ -28,6 +28,7 @@
 - pkg:maven/io.nuov/validator@1.0.34?classifier=sources
 - pkg:maven/io.nuov/validator@1.0.35?classifier=sources
 - pkg:maven/io.nuov/validator@1.0.37?classifier=sources
+- pkg:maven/io.nuov/validator@1.0.38?classifier=sources
 - pkg:maven/io.nuov/validator@1.0.3?classifier=sources
 - pkg:maven/io.nuov/validator@1.0.4?classifier=sources
 - pkg:maven/io.nuov/validator@1.0.5?classifier=sources

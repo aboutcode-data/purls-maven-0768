@@ -120,3 +120,7 @@
 - pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_sjs1_2.12@2.3.8?classifier=sources
 - pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_sjs1_2.12@2.3.9
 - pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_sjs1_2.12@2.3.9?classifier=sources
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_sjs1_2.12@3.0.0
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_sjs1_2.12@3.0.0?classifier=sources
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_sjs1_2.12@3.0.1
+- pkg:maven/dev.zio/izumi-reflect-thirdparty-boopickle-shaded_sjs1_2.12@3.0.1?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/net.portswigger.burp.extensions/montoya-api@2024.11?classifier=sources
 - pkg:maven/net.portswigger.burp.extensions/montoya-api@2024.12?classifier=sources
 - pkg:maven/net.portswigger.burp.extensions/montoya-api@2024.7?classifier=sources
+- pkg:maven/net.portswigger.burp.extensions/montoya-api@2025.2?classifier=sources

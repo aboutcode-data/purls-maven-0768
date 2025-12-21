@@ -24,3 +24,4 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-pulsar@2.60.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-pulsar@2.61.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-pulsar@2.62.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-pulsar@2.63.0?classifier=sources

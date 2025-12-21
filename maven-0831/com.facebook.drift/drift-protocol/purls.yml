@@ -42,3 +42,5 @@
 - pkg:maven/com.facebook.drift/drift-protocol@1.39?classifier=sources
 - pkg:maven/com.facebook.drift/drift-protocol@1.40
 - pkg:maven/com.facebook.drift/drift-protocol@1.40?classifier=sources
+- pkg:maven/com.facebook.drift/drift-protocol@1.41
+- pkg:maven/com.facebook.drift/drift-protocol@1.41?classifier=sources

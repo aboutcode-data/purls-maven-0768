@@ -1,3 +1,4 @@
 - pkg:maven/org.axonframework.extensions.jobrunrpro/axon-jobrunrpro-spring-boot-starter@4.10.0
+- pkg:maven/org.axonframework.extensions.jobrunrpro/axon-jobrunrpro-spring-boot-starter@4.11.0
 - pkg:maven/org.axonframework.extensions.jobrunrpro/axon-jobrunrpro-spring-boot-starter@4.8.0
 - pkg:maven/org.axonframework.extensions.jobrunrpro/axon-jobrunrpro-spring-boot-starter@4.9.0

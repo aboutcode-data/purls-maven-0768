@@ -42,7 +42,11 @@
 - pkg:maven/com.swirlds/swirlds-base@0.57.3?classifier=sources
 - pkg:maven/com.swirlds/swirlds-base@0.57.4?classifier=sources
 - pkg:maven/com.swirlds/swirlds-base@0.57.5?classifier=sources
+- pkg:maven/com.swirlds/swirlds-base@0.58.10?classifier=sources
 - pkg:maven/com.swirlds/swirlds-base@0.58.1?classifier=sources
 - pkg:maven/com.swirlds/swirlds-base@0.58.2?classifier=sources
 - pkg:maven/com.swirlds/swirlds-base@0.58.3?classifier=sources
 - pkg:maven/com.swirlds/swirlds-base@0.58.4?classifier=sources
+- pkg:maven/com.swirlds/swirlds-base@0.58.8?classifier=sources
+- pkg:maven/com.swirlds/swirlds-base@0.58.9?classifier=sources
+- pkg:maven/com.swirlds/swirlds-base@0.59.0?classifier=sources

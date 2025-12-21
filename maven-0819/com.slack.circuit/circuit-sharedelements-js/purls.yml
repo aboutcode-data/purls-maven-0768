@@ -1,0 +1,2 @@
+- pkg:maven/com.slack.circuit/circuit-sharedelements-js@0.26.0?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-sharedelements-js@0.26.1?classifier=sources

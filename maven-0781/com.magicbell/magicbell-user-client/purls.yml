@@ -1,1 +1,2 @@
 - pkg:maven/com.magicbell/magicbell-user-client@0.2.0?classifier=sources
+- pkg:maven/com.magicbell/magicbell-user-client@0.3.0?classifier=sources

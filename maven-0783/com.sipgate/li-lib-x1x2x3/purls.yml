@@ -1,0 +1,2 @@
+- pkg:maven/com.sipgate/li-lib-x1x2x3@1.0.0?classifier=sources
+- pkg:maven/com.sipgate/li-lib-x1x2x3@1.0.1?classifier=sources

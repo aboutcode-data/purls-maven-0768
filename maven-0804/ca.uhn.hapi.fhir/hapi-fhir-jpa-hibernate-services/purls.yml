@@ -1,0 +1,2 @@
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpa-hibernate-services@8.0.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpa-hibernate-services@8.0.0?classifier=sources

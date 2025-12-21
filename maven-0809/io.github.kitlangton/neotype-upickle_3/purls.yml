@@ -1,2 +1,10 @@
 - pkg:maven/io.github.kitlangton/neotype-upickle_3@0.3.10
 - pkg:maven/io.github.kitlangton/neotype-upickle_3@0.3.10?classifier=sources
+- pkg:maven/io.github.kitlangton/neotype-upickle_3@0.3.11
+- pkg:maven/io.github.kitlangton/neotype-upickle_3@0.3.11?classifier=sources
+- pkg:maven/io.github.kitlangton/neotype-upickle_3@0.3.13
+- pkg:maven/io.github.kitlangton/neotype-upickle_3@0.3.13?classifier=sources
+- pkg:maven/io.github.kitlangton/neotype-upickle_3@0.3.14
+- pkg:maven/io.github.kitlangton/neotype-upickle_3@0.3.14?classifier=sources
+- pkg:maven/io.github.kitlangton/neotype-upickle_3@0.3.15
+- pkg:maven/io.github.kitlangton/neotype-upickle_3@0.3.15?classifier=sources

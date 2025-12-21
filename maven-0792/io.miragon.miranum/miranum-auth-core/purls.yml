@@ -1,0 +1,4 @@
+- pkg:maven/io.miragon.miranum/miranum-auth-core@0.10.0
+- pkg:maven/io.miragon.miranum/miranum-auth-core@0.10.0?classifier=sources
+- pkg:maven/io.miragon.miranum/miranum-auth-core@0.9.0
+- pkg:maven/io.miragon.miranum/miranum-auth-core@0.9.0?classifier=sources

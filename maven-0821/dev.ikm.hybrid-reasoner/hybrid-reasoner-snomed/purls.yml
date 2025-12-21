@@ -4,3 +4,5 @@
 - pkg:maven/dev.ikm.hybrid-reasoner/hybrid-reasoner-snomed@1.0.2?classifier=sources
 - pkg:maven/dev.ikm.hybrid-reasoner/hybrid-reasoner-snomed@1.0.3
 - pkg:maven/dev.ikm.hybrid-reasoner/hybrid-reasoner-snomed@1.0.3?classifier=sources
+- pkg:maven/dev.ikm.hybrid-reasoner/hybrid-reasoner-snomed@1.0.7
+- pkg:maven/dev.ikm.hybrid-reasoner/hybrid-reasoner-snomed@1.0.7?classifier=sources

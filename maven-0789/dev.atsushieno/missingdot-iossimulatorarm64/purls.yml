@@ -1,1 +1,2 @@
 - pkg:maven/dev.atsushieno/missingdot-iossimulatorarm64@0.2.0?classifier=sources
+- pkg:maven/dev.atsushieno/missingdot-iossimulatorarm64@0.2.1?classifier=sources

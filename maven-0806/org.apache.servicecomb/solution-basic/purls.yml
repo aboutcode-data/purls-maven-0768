@@ -137,6 +137,8 @@
 - pkg:maven/org.apache.servicecomb/solution-basic@2.8.21?classifier=sources
 - pkg:maven/org.apache.servicecomb/solution-basic@2.8.22
 - pkg:maven/org.apache.servicecomb/solution-basic@2.8.22?classifier=sources
+- pkg:maven/org.apache.servicecomb/solution-basic@2.8.23
+- pkg:maven/org.apache.servicecomb/solution-basic@2.8.23?classifier=sources
 - pkg:maven/org.apache.servicecomb/solution-basic@2.8.2?classifier=sources
 - pkg:maven/org.apache.servicecomb/solution-basic@2.8.3
 - pkg:maven/org.apache.servicecomb/solution-basic@2.8.3?classifier=sources
@@ -174,3 +176,5 @@
 - pkg:maven/org.apache.servicecomb/solution-basic@3.2.3?classifier=sources
 - pkg:maven/org.apache.servicecomb/solution-basic@3.2.4
 - pkg:maven/org.apache.servicecomb/solution-basic@3.2.4?classifier=sources
+- pkg:maven/org.apache.servicecomb/solution-basic@3.2.5
+- pkg:maven/org.apache.servicecomb/solution-basic@3.2.5?classifier=sources

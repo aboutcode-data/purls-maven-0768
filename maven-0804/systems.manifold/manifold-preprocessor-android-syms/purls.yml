@@ -260,3 +260,5 @@
 - pkg:maven/systems.manifold/manifold-preprocessor-android-syms@2024.1.8?classifier=sources
 - pkg:maven/systems.manifold/manifold-preprocessor-android-syms@2024.1.9
 - pkg:maven/systems.manifold/manifold-preprocessor-android-syms@2024.1.9?classifier=sources
+- pkg:maven/systems.manifold/manifold-preprocessor-android-syms@2025.1.0
+- pkg:maven/systems.manifold/manifold-preprocessor-android-syms@2025.1.0?classifier=sources

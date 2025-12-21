@@ -206,3 +206,7 @@
 - pkg:maven/net.imagej/ij@1.54k?classifier=sources
 - pkg:maven/net.imagej/ij@1.54m
 - pkg:maven/net.imagej/ij@1.54m?classifier=sources
+- pkg:maven/net.imagej/ij@1.54n
+- pkg:maven/net.imagej/ij@1.54n?classifier=sources
+- pkg:maven/net.imagej/ij@1.54p
+- pkg:maven/net.imagej/ij@1.54p?classifier=sources

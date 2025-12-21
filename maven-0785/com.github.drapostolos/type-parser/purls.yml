@@ -13,3 +13,4 @@
 - pkg:maven/com.github.drapostolos/type-parser@0.7.0
 - pkg:maven/com.github.drapostolos/type-parser@0.7.0?classifier=sources
 - pkg:maven/com.github.drapostolos/type-parser@0.8.1?classifier=sources
+- pkg:maven/com.github.drapostolos/type-parser@0.9.0?classifier=sources

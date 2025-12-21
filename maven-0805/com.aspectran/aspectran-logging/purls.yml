@@ -1,0 +1,2 @@
+- pkg:maven/com.aspectran/aspectran-logging@8.4.0
+- pkg:maven/com.aspectran/aspectran-logging@8.4.0?classifier=sources

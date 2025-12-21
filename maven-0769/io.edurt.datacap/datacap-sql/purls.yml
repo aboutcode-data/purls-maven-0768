@@ -32,3 +32,5 @@
 - pkg:maven/io.edurt.datacap/datacap-sql@2024.4.0?classifier=sources
 - pkg:maven/io.edurt.datacap/datacap-sql@2024.4.1
 - pkg:maven/io.edurt.datacap/datacap-sql@2024.4.1?classifier=sources
+- pkg:maven/io.edurt.datacap/datacap-sql@2025.1.0
+- pkg:maven/io.edurt.datacap/datacap-sql@2025.1.0?classifier=sources

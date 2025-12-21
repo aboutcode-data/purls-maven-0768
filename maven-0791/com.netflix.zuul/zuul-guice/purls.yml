@@ -20,3 +20,6 @@
 - pkg:maven/com.netflix.zuul/zuul-guice@2.5.9?classifier=sources
 - pkg:maven/com.netflix.zuul/zuul-guice@2.6.0?classifier=sources
 - pkg:maven/com.netflix.zuul/zuul-guice@2.6.1?classifier=sources
+- pkg:maven/com.netflix.zuul/zuul-guice@2.6.2?classifier=sources
+- pkg:maven/com.netflix.zuul/zuul-guice@2.6.3?classifier=sources
+- pkg:maven/com.netflix.zuul/zuul-guice@2.6.4?classifier=sources

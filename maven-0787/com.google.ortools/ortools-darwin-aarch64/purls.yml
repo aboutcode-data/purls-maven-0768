@@ -2,6 +2,8 @@
 - pkg:maven/com.google.ortools/ortools-darwin-aarch64@9.10.4067?classifier=sources
 - pkg:maven/com.google.ortools/ortools-darwin-aarch64@9.11.4210
 - pkg:maven/com.google.ortools/ortools-darwin-aarch64@9.11.4210?classifier=sources
+- pkg:maven/com.google.ortools/ortools-darwin-aarch64@9.12.4544
+- pkg:maven/com.google.ortools/ortools-darwin-aarch64@9.12.4544?classifier=sources
 - pkg:maven/com.google.ortools/ortools-darwin-aarch64@9.4.1874
 - pkg:maven/com.google.ortools/ortools-darwin-aarch64@9.4.1874?classifier=sources
 - pkg:maven/com.google.ortools/ortools-darwin-aarch64@9.5.2237

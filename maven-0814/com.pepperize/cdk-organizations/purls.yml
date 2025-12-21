@@ -2388,6 +2388,14 @@
 - pkg:maven/com.pepperize/cdk-organizations@0.7.983?classifier=sources
 - pkg:maven/com.pepperize/cdk-organizations@0.7.984
 - pkg:maven/com.pepperize/cdk-organizations@0.7.984?classifier=sources
+- pkg:maven/com.pepperize/cdk-organizations@0.7.985
+- pkg:maven/com.pepperize/cdk-organizations@0.7.985?classifier=sources
+- pkg:maven/com.pepperize/cdk-organizations@0.7.986
+- pkg:maven/com.pepperize/cdk-organizations@0.7.986?classifier=sources
+- pkg:maven/com.pepperize/cdk-organizations@0.7.987
+- pkg:maven/com.pepperize/cdk-organizations@0.7.987?classifier=sources
+- pkg:maven/com.pepperize/cdk-organizations@0.7.988
+- pkg:maven/com.pepperize/cdk-organizations@0.7.988?classifier=sources
 - pkg:maven/com.pepperize/cdk-organizations@0.7.98?classifier=sources
 - pkg:maven/com.pepperize/cdk-organizations@0.7.99
 - pkg:maven/com.pepperize/cdk-organizations@0.7.99?classifier=sources

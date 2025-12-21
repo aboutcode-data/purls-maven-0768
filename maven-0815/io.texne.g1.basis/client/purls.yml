@@ -1,0 +1,4 @@
+- pkg:maven/io.texne.g1.basis/client@1.0.0?type=aar
+- pkg:maven/io.texne.g1.basis/client@1.0.1?type=aar
+- pkg:maven/io.texne.g1.basis/client@1.1.0?type=aar
+- pkg:maven/io.texne.g1.basis/client@1.1.1?type=aar

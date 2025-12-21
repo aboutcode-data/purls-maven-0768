@@ -1,1 +1,2 @@
 - pkg:maven/org.hildan.chrome/chrome-devtools-kotlin-watchosdevicearm64@7.0.0-1400418?classifier=sources
+- pkg:maven/org.hildan.chrome/chrome-devtools-kotlin-watchosdevicearm64@7.1.0-1410712?classifier=sources

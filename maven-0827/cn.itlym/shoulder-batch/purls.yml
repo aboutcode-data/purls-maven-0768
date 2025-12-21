@@ -12,6 +12,7 @@
 - pkg:maven/cn.itlym/shoulder-batch@0.8.1
 - pkg:maven/cn.itlym/shoulder-batch@0.8.1?classifier=sources
 - pkg:maven/cn.itlym/shoulder-batch@0.8?classifier=sources
+- pkg:maven/cn.itlym/shoulder-batch@1.0.0
 - pkg:maven/cn.itlym/shoulder-batch@1.0.0-M1
 - pkg:maven/cn.itlym/shoulder-batch@1.0.0-M1.1
 - pkg:maven/cn.itlym/shoulder-batch@1.0.0-M1.1?classifier=sources
@@ -33,4 +34,7 @@
 - pkg:maven/cn.itlym/shoulder-batch@1.0.0-M3.3?classifier=sources
 - pkg:maven/cn.itlym/shoulder-batch@1.0.0-M3?classifier=sources
 - pkg:maven/cn.itlym/shoulder-batch@1.0.0-M4
+- pkg:maven/cn.itlym/shoulder-batch@1.0.0-M4.1
+- pkg:maven/cn.itlym/shoulder-batch@1.0.0-M4.1?classifier=sources
 - pkg:maven/cn.itlym/shoulder-batch@1.0.0-M4?classifier=sources
+- pkg:maven/cn.itlym/shoulder-batch@1.0.0?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/unist-util-stringify-position@2.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/unist-util-stringify-position@3.0.3
 - pkg:maven/org.webjars.npm/unist-util-stringify-position@3.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/unist-util-stringify-position@4.0.0

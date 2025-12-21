@@ -1,0 +1,2 @@
+- pkg:maven/io.inverno.mod/inverno-session@1.13.0
+- pkg:maven/io.inverno.mod/inverno-session@1.13.0?classifier=sources

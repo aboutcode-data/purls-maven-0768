@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.camel.springboot/camel-google-pubsub-lite-starter@4.10.0
+- pkg:maven/org.apache.camel.springboot/camel-google-pubsub-lite-starter@4.10.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-google-pubsub-lite-starter@4.6.0
 - pkg:maven/org.apache.camel.springboot/camel-google-pubsub-lite-starter@4.6.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-google-pubsub-lite-starter@4.7.0

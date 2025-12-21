@@ -262,6 +262,7 @@
 - pkg:maven/org.apache.camel/apache-camel@4.0.5?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@4.0.6?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@4.1.0?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@4.10.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@4.2.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@4.3.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@4.4.0?classifier=src&type=zip

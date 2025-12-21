@@ -16,3 +16,7 @@
 - pkg:maven/com.guizmaii/scala-nimbus-jose-jwt_2.13@2.2.4?classifier=sources
 - pkg:maven/com.guizmaii/scala-nimbus-jose-jwt_2.13@2.2.5
 - pkg:maven/com.guizmaii/scala-nimbus-jose-jwt_2.13@2.2.5?classifier=sources
+- pkg:maven/com.guizmaii/scala-nimbus-jose-jwt_2.13@2.3.0
+- pkg:maven/com.guizmaii/scala-nimbus-jose-jwt_2.13@2.3.0?classifier=sources
+- pkg:maven/com.guizmaii/scala-nimbus-jose-jwt_2.13@2.3.1
+- pkg:maven/com.guizmaii/scala-nimbus-jose-jwt_2.13@2.3.1?classifier=sources

@@ -62,6 +62,14 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-interpreted-dsl-path@5.31.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-interpreted-dsl-path@5.31.1
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-interpreted-dsl-path@5.31.1?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-interpreted-dsl-path@5.32.0
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-interpreted-dsl-path@5.32.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-interpreted-dsl-path@5.32.1
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-interpreted-dsl-path@5.32.1?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-interpreted-dsl-path@5.33.0
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-interpreted-dsl-path@5.33.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-interpreted-dsl-path@5.34.0
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-interpreted-dsl-path@5.34.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-interpreted-dsl-path@5.4.0
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-interpreted-dsl-path@5.4.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-interpreted-dsl-path@5.4.1

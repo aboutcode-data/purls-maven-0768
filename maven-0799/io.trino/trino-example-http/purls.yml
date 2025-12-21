@@ -115,3 +115,6 @@
 - pkg:maven/io.trino/trino-example-http@466?classifier=sources
 - pkg:maven/io.trino/trino-example-http@467?classifier=sources
 - pkg:maven/io.trino/trino-example-http@468?classifier=sources
+- pkg:maven/io.trino/trino-example-http@469?classifier=sources
+- pkg:maven/io.trino/trino-example-http@470?classifier=sources
+- pkg:maven/io.trino/trino-example-http@471?classifier=sources

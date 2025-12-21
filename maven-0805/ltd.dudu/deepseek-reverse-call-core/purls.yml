@@ -1,0 +1,2 @@
+- pkg:maven/ltd.dudu/deepseek-reverse-call-core@1.0.0-alpha2?classifier=sources
+- pkg:maven/ltd.dudu/deepseek-reverse-call-core@1.0.0-alpha?classifier=sources

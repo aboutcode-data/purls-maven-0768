@@ -12,3 +12,4 @@
 - pkg:maven/dev.ikm.owlapi/owlapi-apibinding@4.7.6?classifier=sources
 - pkg:maven/dev.ikm.owlapi/owlapi-apibinding@4.8.0
 - pkg:maven/dev.ikm.owlapi/owlapi-apibinding@4.8.0?classifier=sources
+- pkg:maven/dev.ikm.owlapi/owlapi-apibinding@4.8.2

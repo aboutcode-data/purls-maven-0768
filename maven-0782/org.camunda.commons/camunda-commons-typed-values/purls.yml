@@ -166,3 +166,5 @@
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.23.0-alpha1?classifier=sources
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.23.0-alpha2
 - pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.23.0-alpha2?classifier=sources
+- pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.23.0-alpha3
+- pkg:maven/org.camunda.commons/camunda-commons-typed-values@7.23.0-alpha3?classifier=sources

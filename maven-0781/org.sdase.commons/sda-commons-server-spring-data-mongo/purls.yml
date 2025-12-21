@@ -1278,3 +1278,7 @@
 - pkg:maven/org.sdase.commons/sda-commons-server-spring-data-mongo@7.3.2?classifier=sources
 - pkg:maven/org.sdase.commons/sda-commons-server-spring-data-mongo@7.3.3
 - pkg:maven/org.sdase.commons/sda-commons-server-spring-data-mongo@7.3.3?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-spring-data-mongo@7.3.4
+- pkg:maven/org.sdase.commons/sda-commons-server-spring-data-mongo@7.3.4?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-spring-data-mongo@7.3.5
+- pkg:maven/org.sdase.commons/sda-commons-server-spring-data-mongo@7.3.5?classifier=sources

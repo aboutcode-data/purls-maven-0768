@@ -10,3 +10,7 @@
 - pkg:maven/com.google.apis/google-api-services-forms@v1-rev20220908-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-forms@v1-rev20241112-2.0.0
 - pkg:maven/com.google.apis/google-api-services-forms@v1-rev20241112-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-forms@v1-rev20250121-2.0.0
+- pkg:maven/com.google.apis/google-api-services-forms@v1-rev20250121-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-forms@v1-rev20250211-2.0.0
+- pkg:maven/com.google.apis/google-api-services-forms@v1-rev20250211-2.0.0?classifier=sources

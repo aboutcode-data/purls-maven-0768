@@ -55,3 +55,5 @@
 - pkg:maven/com.diffplug.durian/durian-swt@4.2.2?classifier=sources
 - pkg:maven/com.diffplug.durian/durian-swt@4.3.0?classifier=sources
 - pkg:maven/com.diffplug.durian/durian-swt@4.3.1?classifier=sources
+- pkg:maven/com.diffplug.durian/durian-swt@5.0.0?classifier=sources
+- pkg:maven/com.diffplug.durian/durian-swt@5.0.1?classifier=sources

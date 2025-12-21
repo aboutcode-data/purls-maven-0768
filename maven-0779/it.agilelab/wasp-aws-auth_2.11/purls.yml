@@ -54,3 +54,7 @@
 - pkg:maven/it.agilelab/wasp-aws-auth_2.11@2.35.0-cdp719
 - pkg:maven/it.agilelab/wasp-aws-auth_2.11@2.35.0-cdp719?classifier=sources
 - pkg:maven/it.agilelab/wasp-aws-auth_2.11@2.35.0?classifier=sources
+- pkg:maven/it.agilelab/wasp-aws-auth_2.11@2.36.0
+- pkg:maven/it.agilelab/wasp-aws-auth_2.11@2.36.0-cdp719
+- pkg:maven/it.agilelab/wasp-aws-auth_2.11@2.36.0-cdp719?classifier=sources
+- pkg:maven/it.agilelab/wasp-aws-auth_2.11@2.36.0?classifier=sources

@@ -63,6 +63,8 @@
 - pkg:maven/org.opendaylight.yangtools/yang-test-util@13.0.9?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-test-util@14.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-test-util@14.0.1
+- pkg:maven/org.opendaylight.yangtools/yang-test-util@14.0.10
+- pkg:maven/org.opendaylight.yangtools/yang-test-util@14.0.10?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-test-util@14.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-test-util@14.0.2
 - pkg:maven/org.opendaylight.yangtools/yang-test-util@14.0.2?classifier=sources

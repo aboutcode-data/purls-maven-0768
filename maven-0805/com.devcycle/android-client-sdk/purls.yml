@@ -36,3 +36,4 @@
 - pkg:maven/com.devcycle/android-client-sdk@2.0.7?classifier=sources
 - pkg:maven/com.devcycle/android-client-sdk@2.1.0?classifier=sources
 - pkg:maven/com.devcycle/android-client-sdk@2.1.1?classifier=sources
+- pkg:maven/com.devcycle/android-client-sdk@2.1.2?classifier=sources

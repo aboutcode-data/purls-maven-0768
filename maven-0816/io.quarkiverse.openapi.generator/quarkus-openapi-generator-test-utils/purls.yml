@@ -112,6 +112,7 @@
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-test-utils@2.4.6?classifier=sources
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-test-utils@2.4.7
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-test-utils@2.4.7?classifier=sources
+- pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-test-utils@2.4.8?classifier=sources
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-test-utils@2.5.0
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-test-utils@2.5.0?classifier=sources
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-test-utils@2.6.0-lts?classifier=sources
@@ -122,3 +123,5 @@
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-test-utils@2.7.1?classifier=sources
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-test-utils@2.8.0-lts?classifier=sources
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-test-utils@2.8.0?classifier=sources
+- pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-test-utils@2.8.1-lts?classifier=sources
+- pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-test-utils@2.8.1?classifier=sources

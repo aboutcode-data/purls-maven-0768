@@ -142,6 +142,10 @@
 - pkg:maven/com.google.cloud/google-cloud-domains@1.52.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-domains@1.53.0
 - pkg:maven/com.google.cloud/google-cloud-domains@1.53.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-domains@1.54.0
+- pkg:maven/com.google.cloud/google-cloud-domains@1.54.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-domains@1.55.0
+- pkg:maven/com.google.cloud/google-cloud-domains@1.55.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-domains@1.6.0
 - pkg:maven/com.google.cloud/google-cloud-domains@1.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-domains@1.7.0

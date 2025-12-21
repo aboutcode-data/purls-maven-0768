@@ -1,3 +1,4 @@
 - pkg:maven/org.apache.tsfile/tsfile-parent@1.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.tsfile/tsfile-parent@1.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.tsfile/tsfile-parent@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.tsfile/tsfile-parent@2.0.1?classifier=source-release&type=zip
