@@ -1,0 +1,2 @@
+- pkg:maven/me.gulya.dagger/hilt-android@2.56.2-workaround5?classifier=sources
+- pkg:maven/me.gulya.dagger/hilt-android@2.56.2-workaround5?type=aar

@@ -78,3 +78,6 @@
 - pkg:maven/com.rookmotion.android/rook-sdk@2.1.0?classifier=sources
 - pkg:maven/com.rookmotion.android/rook-sdk@2.1.1-custom?classifier=sources
 - pkg:maven/com.rookmotion.android/rook-sdk@2.2.0-alpha01?classifier=sources
+- pkg:maven/com.rookmotion.android/rook-sdk@2.2.0?classifier=sources
+- pkg:maven/com.rookmotion.android/rook-sdk@2.2.1?classifier=sources
+- pkg:maven/com.rookmotion.android/rook-sdk@2.3.0?classifier=sources

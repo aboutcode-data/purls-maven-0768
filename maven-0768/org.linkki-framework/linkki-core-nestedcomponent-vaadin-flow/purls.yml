@@ -51,3 +51,4 @@
 - pkg:maven/org.linkki-framework/linkki-core-nestedcomponent-vaadin-flow@2.7.3
 - pkg:maven/org.linkki-framework/linkki-core-nestedcomponent-vaadin-flow@2.7.3?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-core-nestedcomponent-vaadin-flow@2.7.4?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-core-nestedcomponent-vaadin-flow@2.7.5?classifier=sources

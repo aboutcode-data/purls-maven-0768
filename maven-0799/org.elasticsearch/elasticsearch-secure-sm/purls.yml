@@ -373,6 +373,7 @@
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.18.4?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.18.5?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.18.6?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.18.7?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.2.0
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.2.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@8.2.1
@@ -442,3 +443,4 @@
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@9.0.4?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@9.0.5?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-secure-sm@9.0.6?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-secure-sm@9.0.7?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/com.gitlab.cdc-java.bench/cdc-bench-support@0.2.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.bench/cdc-bench-support@0.2.3
 - pkg:maven/com.gitlab.cdc-java.bench/cdc-bench-support@0.2.3?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.bench/cdc-bench-support@0.3.0?classifier=sources

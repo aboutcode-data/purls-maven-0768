@@ -294,4 +294,5 @@
 - pkg:maven/org.apache.camel/apache-camel@4.8.6?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@4.8.7?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@4.8.8?classifier=src&type=zip
+- pkg:maven/org.apache.camel/apache-camel@4.8.9?classifier=src&type=zip
 - pkg:maven/org.apache.camel/apache-camel@4.9.0?classifier=src&type=zip

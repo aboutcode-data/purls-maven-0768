@@ -22,6 +22,8 @@
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@15.0.18.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@15.0.19.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@15.0.2.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-quarkus-cli@15.0.20.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-quarkus-cli@15.0.21.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@15.0.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@15.0.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@15.0.5.Final?classifier=sources
@@ -51,6 +53,8 @@
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@15.2.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@15.2.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@15.2.5.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-quarkus-cli@15.2.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@16.0.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@16.0.0.Dev02?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-cli@16.0.0.Dev03?classifier=sources
+- pkg:maven/org.infinispan/infinispan-quarkus-cli@16.0.0.Dev04?classifier=sources

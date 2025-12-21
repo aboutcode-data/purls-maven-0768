@@ -1,5 +1,7 @@
 - pkg:maven/io.github.dbmdz.cudami/cudami@10.0.0-rc.1?classifier=sources
 - pkg:maven/io.github.dbmdz.cudami/cudami@10.0.0?classifier=sources
+- pkg:maven/io.github.dbmdz.cudami/cudami@10.1.0-rc.1?classifier=sources
+- pkg:maven/io.github.dbmdz.cudami/cudami@10.1.0?classifier=sources
 - pkg:maven/io.github.dbmdz.cudami/cudami@9.0.0
 - pkg:maven/io.github.dbmdz.cudami/cudami@9.0.0?classifier=sources
 - pkg:maven/io.github.dbmdz.cudami/cudami@9.0.1

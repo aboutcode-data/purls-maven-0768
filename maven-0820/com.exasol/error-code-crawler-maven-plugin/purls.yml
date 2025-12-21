@@ -51,3 +51,4 @@
 - pkg:maven/com.exasol/error-code-crawler-maven-plugin@2.0.3
 - pkg:maven/com.exasol/error-code-crawler-maven-plugin@2.0.3?classifier=sources
 - pkg:maven/com.exasol/error-code-crawler-maven-plugin@2.0.4?classifier=sources
+- pkg:maven/com.exasol/error-code-crawler-maven-plugin@2.0.5?classifier=sources

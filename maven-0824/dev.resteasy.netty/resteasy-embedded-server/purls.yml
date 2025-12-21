@@ -1,0 +1,1 @@
+- pkg:maven/dev.resteasy.netty/resteasy-embedded-server@1.0.0.Final?classifier=sources

@@ -13,3 +13,4 @@
 - pkg:maven/com.svenjacobs.reveal/reveal-core-desktop@3.2.1?classifier=sources
 - pkg:maven/com.svenjacobs.reveal/reveal-core-desktop@3.2.2?classifier=sources
 - pkg:maven/com.svenjacobs.reveal/reveal-core-desktop@3.3.0?classifier=sources
+- pkg:maven/com.svenjacobs.reveal/reveal-core-desktop@4.0.0?classifier=sources

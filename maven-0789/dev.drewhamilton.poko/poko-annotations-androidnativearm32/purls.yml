@@ -16,3 +16,4 @@
 - pkg:maven/dev.drewhamilton.poko/poko-annotations-androidnativearm32@0.19.1?classifier=sources
 - pkg:maven/dev.drewhamilton.poko/poko-annotations-androidnativearm32@0.19.2?classifier=sources
 - pkg:maven/dev.drewhamilton.poko/poko-annotations-androidnativearm32@0.19.3?classifier=sources
+- pkg:maven/dev.drewhamilton.poko/poko-annotations-androidnativearm32@0.20.0?classifier=sources

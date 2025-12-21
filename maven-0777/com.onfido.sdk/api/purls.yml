@@ -1,1 +1,2 @@
 - pkg:maven/com.onfido.sdk/api@0.1.15?classifier=sources
+- pkg:maven/com.onfido.sdk/api@0.2.1?classifier=sources

@@ -14,6 +14,7 @@
 - pkg:maven/com.github.yingzhuo/spring-turbo-properties@3.4.7-9?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-properties@3.4.7?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-properties@3.4.8?classifier=sources
+- pkg:maven/com.github.yingzhuo/spring-turbo-properties@3.4.9?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-properties@3.5.0-10?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-properties@3.5.0-11?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-properties@3.5.0-12?classifier=sources
@@ -67,4 +68,7 @@
 - pkg:maven/com.github.yingzhuo/spring-turbo-properties@3.5.4-2?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-properties@3.5.4-3?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-properties@3.5.4?classifier=sources
+- pkg:maven/com.github.yingzhuo/spring-turbo-properties@3.5.5-1?classifier=sources
+- pkg:maven/com.github.yingzhuo/spring-turbo-properties@3.5.5-2?classifier=sources
+- pkg:maven/com.github.yingzhuo/spring-turbo-properties@3.5.5-3?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-properties@3.5.5?classifier=sources

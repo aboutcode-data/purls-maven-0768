@@ -111,6 +111,11 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@66.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@66.0.2?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@66.0.3?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@66.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@67.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@67.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@68.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@68.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/file-package-curation-provider@8.0.0?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/org.mvnpm.at.tailwindcss/typography@0.5.13
+- pkg:maven/org.mvnpm.at.tailwindcss/typography@0.5.13?classifier=sources
 - pkg:maven/org.mvnpm.at.tailwindcss/typography@0.5.15?classifier=sources
 - pkg:maven/org.mvnpm.at.tailwindcss/typography@0.5.16?classifier=sources

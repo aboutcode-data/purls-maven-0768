@@ -2,3 +2,5 @@
 - pkg:maven/com.datadoghq/dd-sdk-android-benchmark-internal@2.24.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-benchmark-internal@2.25.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-benchmark-internal@2.26.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-benchmark-internal@2.26.1?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-benchmark-internal@3.0.0?classifier=sources

@@ -27,3 +27,9 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-reaction-observer@1.33.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-reaction-observer@2.0.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-reaction-observer@2.1.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-reaction-observer@2.1.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-reaction-observer@2.2.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-reaction-observer@2.3.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-reaction-observer@2.4.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-reaction-observer@2.5.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-reaction-observer@2.5.1?classifier=sources

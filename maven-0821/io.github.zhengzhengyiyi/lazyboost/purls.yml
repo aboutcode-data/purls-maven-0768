@@ -1,0 +1,4 @@
+- pkg:maven/io.github.zhengzhengyiyi/lazyboost@1.0.2?classifier=sources
+- pkg:maven/io.github.zhengzhengyiyi/lazyboost@1.0.3?classifier=sources
+- pkg:maven/io.github.zhengzhengyiyi/lazyboost@1.0.4?classifier=sources
+- pkg:maven/io.github.zhengzhengyiyi/lazyboost@1.0.5-beta.1-1.21.8?classifier=sources

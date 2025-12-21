@@ -222,6 +222,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.112.2?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.112.3
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.112.3?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.112.4
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.112.4?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.12.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.12.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-logging-v2@0.13.0

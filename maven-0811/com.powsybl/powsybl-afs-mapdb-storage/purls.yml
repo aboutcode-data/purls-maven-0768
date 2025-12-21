@@ -68,3 +68,4 @@
 - pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@6.4.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@6.5.0
 - pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@6.5.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-afs-mapdb-storage@6.6.0?classifier=sources

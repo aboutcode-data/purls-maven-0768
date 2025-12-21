@@ -58,3 +58,5 @@
 - pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@4.25.3?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@4.26.0
 - pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@4.26.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@5.0.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@5.1.0?classifier=sources

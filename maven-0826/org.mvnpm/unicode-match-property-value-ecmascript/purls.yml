@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/unicode-match-property-value-ecmascript@2.1.0?classifier=sources
 - pkg:maven/org.mvnpm/unicode-match-property-value-ecmascript@2.2.0?classifier=sources
+- pkg:maven/org.mvnpm/unicode-match-property-value-ecmascript@2.2.1
+- pkg:maven/org.mvnpm/unicode-match-property-value-ecmascript@2.2.1?classifier=sources

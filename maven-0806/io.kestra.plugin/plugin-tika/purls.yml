@@ -17,3 +17,4 @@
 - pkg:maven/io.kestra.plugin/plugin-tika@0.6.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-tika@0.8.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-tika@0.9.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-tika@1.0.0?classifier=sources

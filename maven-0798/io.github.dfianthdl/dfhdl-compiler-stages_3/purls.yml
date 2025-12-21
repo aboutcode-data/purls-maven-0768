@@ -12,6 +12,8 @@
 - pkg:maven/io.github.dfianthdl/dfhdl-compiler-stages_3@0.11.4?classifier=sources
 - pkg:maven/io.github.dfianthdl/dfhdl-compiler-stages_3@0.12.0
 - pkg:maven/io.github.dfianthdl/dfhdl-compiler-stages_3@0.12.0?classifier=sources
+- pkg:maven/io.github.dfianthdl/dfhdl-compiler-stages_3@0.14.0
+- pkg:maven/io.github.dfianthdl/dfhdl-compiler-stages_3@0.14.0?classifier=sources
 - pkg:maven/io.github.dfianthdl/dfhdl-compiler-stages_3@0.3.2
 - pkg:maven/io.github.dfianthdl/dfhdl-compiler-stages_3@0.3.2?classifier=sources
 - pkg:maven/io.github.dfianthdl/dfhdl-compiler-stages_3@0.3.4

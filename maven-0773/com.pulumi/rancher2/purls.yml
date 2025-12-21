@@ -1,4 +1,6 @@
 - pkg:maven/com.pulumi/rancher2@0.0.1?classifier=sources
+- pkg:maven/com.pulumi/rancher2@10.0.0?classifier=sources
+- pkg:maven/com.pulumi/rancher2@10.1.0?classifier=sources
 - pkg:maven/com.pulumi/rancher2@3.10.0-alpha.1678155746%2Bcc9ad180?classifier=sources
 - pkg:maven/com.pulumi/rancher2@3.10.0-alpha.1679335886%2B664d7eae?classifier=sources
 - pkg:maven/com.pulumi/rancher2@3.10.0-alpha.1679418706%2Be8c268ba?classifier=sources

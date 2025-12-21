@@ -1,0 +1,2 @@
+- pkg:maven/plus.hiver/hiver-module-open@1.0.4?classifier=sources
+- pkg:maven/plus.hiver/hiver-module-open@1.0.5?classifier=sources

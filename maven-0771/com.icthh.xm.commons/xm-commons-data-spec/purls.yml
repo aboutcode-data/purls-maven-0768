@@ -25,3 +25,7 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.50?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.51?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.52?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.54?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.55?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.56?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.57?classifier=sources

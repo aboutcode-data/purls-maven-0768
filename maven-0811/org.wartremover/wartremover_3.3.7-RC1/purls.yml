@@ -1,0 +1,2 @@
+- pkg:maven/org.wartremover/wartremover_3.3.7-RC1@3.4.1
+- pkg:maven/org.wartremover/wartremover_3.3.7-RC1@3.4.1?classifier=sources

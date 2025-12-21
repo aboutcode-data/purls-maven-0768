@@ -1,0 +1,1 @@
+- pkg:maven/com.elharo.docfix/docfix-maven-plugin@1.0?classifier=sources

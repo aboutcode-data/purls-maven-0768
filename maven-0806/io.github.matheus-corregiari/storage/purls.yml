@@ -17,3 +17,4 @@
 - pkg:maven/io.github.matheus-corregiari/storage@1.8.3?classifier=sources
 - pkg:maven/io.github.matheus-corregiari/storage@1.9.0?classifier=sources
 - pkg:maven/io.github.matheus-corregiari/storage@1.9.1?classifier=sources
+- pkg:maven/io.github.matheus-corregiari/storage@2.0.0-rc01?classifier=sources

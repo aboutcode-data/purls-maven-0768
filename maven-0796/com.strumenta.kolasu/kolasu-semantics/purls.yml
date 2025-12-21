@@ -42,5 +42,8 @@
 - pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.87?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.88?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.89?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.90?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.91?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.92?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.7.0-Alpha1?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.7.0-Alpha2?classifier=sources

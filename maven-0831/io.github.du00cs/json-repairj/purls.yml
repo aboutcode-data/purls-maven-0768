@@ -1,0 +1,2 @@
+- pkg:maven/io.github.du00cs/json-repairj@0.0.1?classifier=sources
+- pkg:maven/io.github.du00cs/json-repairj@0.50.0?classifier=sources

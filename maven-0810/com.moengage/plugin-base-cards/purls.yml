@@ -8,3 +8,4 @@
 - pkg:maven/com.moengage/plugin-base-cards@3.0.1?classifier=sources
 - pkg:maven/com.moengage/plugin-base-cards@3.1.0?classifier=sources
 - pkg:maven/com.moengage/plugin-base-cards@4.0.0?classifier=sources
+- pkg:maven/com.moengage/plugin-base-cards@4.0.1?classifier=sources

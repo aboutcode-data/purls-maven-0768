@@ -1,3 +1,6 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-duckdb-pure@4.100.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-duckdb-pure@4.101.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-duckdb-pure@4.101.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-duckdb-pure@4.43.1
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-duckdb-pure@4.43.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-duckdb-pure@4.43.2
@@ -267,4 +270,7 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-duckdb-pure@4.96.5?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-duckdb-pure@4.97.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-duckdb-pure@4.97.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-duckdb-pure@4.97.2?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-duckdb-pure@4.98.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-duckdb-pure@4.99.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-duckdb-pure@release-4.96.3?classifier=sources

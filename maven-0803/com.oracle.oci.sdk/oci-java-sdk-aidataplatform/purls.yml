@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidataplatform@3.73.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aidataplatform@3.73.1?classifier=sources

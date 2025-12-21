@@ -7,3 +7,8 @@
 - pkg:maven/org.ajoberstar/gradle-stutter@0.7.3?classifier=sources
 - pkg:maven/org.ajoberstar/gradle-stutter@1.0.0-rc.2?classifier=sources
 - pkg:maven/org.ajoberstar/gradle-stutter@1.0.0?classifier=sources
+- pkg:maven/org.ajoberstar/gradle-stutter@2.0.0-beta.1?classifier=sources
+- pkg:maven/org.ajoberstar/gradle-stutter@2.0.0-beta.2?classifier=sources
+- pkg:maven/org.ajoberstar/gradle-stutter@2.0.0?classifier=sources
+- pkg:maven/org.ajoberstar/gradle-stutter@2.0.1-rc.2?classifier=sources
+- pkg:maven/org.ajoberstar/gradle-stutter@2.0.1?classifier=sources

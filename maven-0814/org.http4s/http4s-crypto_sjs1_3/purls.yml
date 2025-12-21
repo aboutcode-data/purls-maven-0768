@@ -114,3 +114,5 @@
 - pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.4-M1
 - pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.4-M1?classifier=sources
 - pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.4?classifier=sources
+- pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.5-RC1
+- pkg:maven/org.http4s/http4s-crypto_sjs1_3@0.2.5-RC1?classifier=sources

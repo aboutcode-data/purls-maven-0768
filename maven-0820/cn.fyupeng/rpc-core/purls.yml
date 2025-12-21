@@ -67,3 +67,4 @@
 - pkg:maven/cn.fyupeng/rpc-core@2.2.5
 - pkg:maven/cn.fyupeng/rpc-core@2.2.5?classifier=sources
 - pkg:maven/cn.fyupeng/rpc-core@2.2.6?classifier=sources
+- pkg:maven/cn.fyupeng/rpc-core@2.2.7?classifier=sources

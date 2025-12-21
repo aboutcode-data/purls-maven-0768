@@ -1,1 +1,2 @@
 - pkg:maven/no.elixir/clearinghouse@3.0.7?classifier=sources
+- pkg:maven/no.elixir/clearinghouse@3.0.8?classifier=sources

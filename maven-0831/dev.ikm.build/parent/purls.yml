@@ -18,3 +18,5 @@
 - pkg:maven/dev.ikm.build/parent@1.61.0?classifier=sources
 - pkg:maven/dev.ikm.build/parent@1.62.0?classifier=sources
 - pkg:maven/dev.ikm.build/parent@1.64.0?classifier=sources
+- pkg:maven/dev.ikm.build/parent@1.65.0?classifier=sources
+- pkg:maven/dev.ikm.build/parent@1.66.0?classifier=sources

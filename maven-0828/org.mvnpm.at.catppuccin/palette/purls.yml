@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.catppuccin/palette@1.7.1
+- pkg:maven/org.mvnpm.at.catppuccin/palette@1.7.1?classifier=sources

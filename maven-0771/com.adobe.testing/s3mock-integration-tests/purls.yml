@@ -74,3 +74,4 @@
 - pkg:maven/com.adobe.testing/s3mock-integration-tests@4.5.1
 - pkg:maven/com.adobe.testing/s3mock-integration-tests@4.6.0
 - pkg:maven/com.adobe.testing/s3mock-integration-tests@4.7.0
+- pkg:maven/com.adobe.testing/s3mock-integration-tests@4.8.0

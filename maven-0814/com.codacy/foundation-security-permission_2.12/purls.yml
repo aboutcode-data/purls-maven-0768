@@ -184,3 +184,15 @@
 - pkg:maven/com.codacy/foundation-security-permission_2.12@17.2.0_play_2.7?classifier=sources
 - pkg:maven/com.codacy/foundation-security-permission_2.12@17.2.0_play_2.8
 - pkg:maven/com.codacy/foundation-security-permission_2.12@17.2.0_play_2.8?classifier=sources
+- pkg:maven/com.codacy/foundation-security-permission_2.12@18.0.0_play_2.7
+- pkg:maven/com.codacy/foundation-security-permission_2.12@18.0.0_play_2.7?classifier=sources
+- pkg:maven/com.codacy/foundation-security-permission_2.12@18.0.0_play_2.8
+- pkg:maven/com.codacy/foundation-security-permission_2.12@18.0.0_play_2.8?classifier=sources
+- pkg:maven/com.codacy/foundation-security-permission_2.12@18.0.1_play_2.7
+- pkg:maven/com.codacy/foundation-security-permission_2.12@18.0.1_play_2.7?classifier=sources
+- pkg:maven/com.codacy/foundation-security-permission_2.12@18.0.1_play_2.8
+- pkg:maven/com.codacy/foundation-security-permission_2.12@18.0.1_play_2.8?classifier=sources
+- pkg:maven/com.codacy/foundation-security-permission_2.12@18.0.2_play_2.7
+- pkg:maven/com.codacy/foundation-security-permission_2.12@18.0.2_play_2.7?classifier=sources
+- pkg:maven/com.codacy/foundation-security-permission_2.12@18.0.2_play_2.8
+- pkg:maven/com.codacy/foundation-security-permission_2.12@18.0.2_play_2.8?classifier=sources

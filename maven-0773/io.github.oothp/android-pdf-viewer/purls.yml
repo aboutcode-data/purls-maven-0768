@@ -1,2 +1,4 @@
 - pkg:maven/io.github.oothp/android-pdf-viewer@3.2.0-beta05?classifier=sources
 - pkg:maven/io.github.oothp/android-pdf-viewer@3.2.0-beta05?type=aar
+- pkg:maven/io.github.oothp/android-pdf-viewer@3.2.0-beta06?classifier=sources
+- pkg:maven/io.github.oothp/android-pdf-viewer@3.2.0-beta06?type=aar

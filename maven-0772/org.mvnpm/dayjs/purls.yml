@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/dayjs@1.11.11?classifier=sources
 - pkg:maven/org.mvnpm/dayjs@1.11.13
 - pkg:maven/org.mvnpm/dayjs@1.11.13?classifier=sources
+- pkg:maven/org.mvnpm/dayjs@1.11.18
+- pkg:maven/org.mvnpm/dayjs@1.11.18?classifier=sources

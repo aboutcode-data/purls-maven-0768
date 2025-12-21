@@ -173,3 +173,6 @@
 - pkg:maven/me.ahoo.cosec/cosec-webflux@3.0.0?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-webflux@3.0.2?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-webflux@3.1.0?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webflux@3.2.0?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webflux@3.2.1?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webflux@3.2.2?classifier=sources

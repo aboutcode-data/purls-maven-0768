@@ -50,5 +50,7 @@
 - pkg:maven/io.github.kalin-rudnicki/oxygen-quoted_native0.5_3@0.0.37?classifier=sources
 - pkg:maven/io.github.kalin-rudnicki/oxygen-quoted_native0.5_3@0.0.38
 - pkg:maven/io.github.kalin-rudnicki/oxygen-quoted_native0.5_3@0.0.38?classifier=sources
+- pkg:maven/io.github.kalin-rudnicki/oxygen-quoted_native0.5_3@0.0.39
+- pkg:maven/io.github.kalin-rudnicki/oxygen-quoted_native0.5_3@0.0.39?classifier=sources
 - pkg:maven/io.github.kalin-rudnicki/oxygen-quoted_native0.5_3@23fed45f473f7277e7bf2d3d5acd27dd26240b88
 - pkg:maven/io.github.kalin-rudnicki/oxygen-quoted_native0.5_3@23fed45f473f7277e7bf2d3d5acd27dd26240b88?classifier=sources

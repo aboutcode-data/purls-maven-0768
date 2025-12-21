@@ -1,0 +1,2 @@
+- pkg:maven/com.armanbilge/saslprep_native0.5_3@0.1.2
+- pkg:maven/com.armanbilge/saslprep_native0.5_3@0.1.2?classifier=sources

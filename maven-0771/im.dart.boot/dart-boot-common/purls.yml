@@ -34,3 +34,4 @@
 - pkg:maven/im.dart.boot/dart-boot-common@1.0.3?classifier=sources
 - pkg:maven/im.dart.boot/dart-boot-common@1.0.4
 - pkg:maven/im.dart.boot/dart-boot-common@1.0.4?classifier=sources
+- pkg:maven/im.dart.boot/dart-boot-common@2.0.0?classifier=sources

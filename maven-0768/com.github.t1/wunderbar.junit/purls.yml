@@ -68,4 +68,5 @@
 - pkg:maven/com.github.t1/wunderbar.junit@3.3?classifier=sources
 - pkg:maven/com.github.t1/wunderbar.junit@3.4
 - pkg:maven/com.github.t1/wunderbar.junit@3.4?classifier=sources
+- pkg:maven/com.github.t1/wunderbar.junit@3.5.1?classifier=sources
 - pkg:maven/com.github.t1/wunderbar.junit@3.5?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/org.apache.sshd/sshd-osgi@2.9.2?classifier=sources
 - pkg:maven/org.apache.sshd/sshd-osgi@2.9.3
 - pkg:maven/org.apache.sshd/sshd-osgi@2.9.3?classifier=sources
+- pkg:maven/org.apache.sshd/sshd-osgi@3.0.0-M1
+- pkg:maven/org.apache.sshd/sshd-osgi@3.0.0-M1?classifier=sources

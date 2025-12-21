@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fr0s-t/frostfx@2.2.0?classifier=sources
+- pkg:maven/io.github.fr0s-t/frostfx@3.0.0?classifier=sources

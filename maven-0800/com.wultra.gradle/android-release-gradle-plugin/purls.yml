@@ -1,0 +1,1 @@
+- pkg:maven/com.wultra.gradle/android-release-gradle-plugin@1.0.0?classifier=sources

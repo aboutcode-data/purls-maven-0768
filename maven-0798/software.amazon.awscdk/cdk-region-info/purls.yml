@@ -948,6 +948,10 @@
 - pkg:maven/software.amazon.awscdk/cdk-region-info@2.212.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-region-info@2.213.0
 - pkg:maven/software.amazon.awscdk/cdk-region-info@2.213.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.214.0
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.214.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.215.0
+- pkg:maven/software.amazon.awscdk/cdk-region-info@2.215.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-region-info@2.22.0
 - pkg:maven/software.amazon.awscdk/cdk-region-info@2.22.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-region-info@2.23.0

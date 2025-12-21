@@ -1,3 +1,4 @@
 - pkg:maven/com.ibm.cics/com.ibm.cics.jcicsx@1.000.0-5.6
 - pkg:maven/com.ibm.cics/com.ibm.cics.jcicsx@1.000.0-5.6-PH40587
+- pkg:maven/com.ibm.cics/com.ibm.cics.jcicsx@1.100.0-6.3?classifier=sources
 - pkg:maven/com.ibm.cics/com.ibm.cics.jcicsx@5.6-PH34012

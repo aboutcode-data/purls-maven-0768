@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/raw-body@2.3.3?classifier=sources
 - pkg:maven/org.mvnpm/raw-body@2.5.2?classifier=sources
 - pkg:maven/org.mvnpm/raw-body@3.0.0?classifier=sources
+- pkg:maven/org.mvnpm/raw-body@3.0.1
+- pkg:maven/org.mvnpm/raw-body@3.0.1?classifier=sources
