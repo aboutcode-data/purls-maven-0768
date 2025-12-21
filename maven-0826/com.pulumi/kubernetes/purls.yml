@@ -293,6 +293,7 @@
 - pkg:maven/com.pulumi/kubernetes@4.22.0?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.22.2?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.23.0?classifier=sources
+- pkg:maven/com.pulumi/kubernetes@4.24.0?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.3.0-alpha.1694910654%2B57fa7f7a?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.3.0-alpha.1695161763%2Bd2a3b8c2?classifier=sources
 - pkg:maven/com.pulumi/kubernetes@4.3.0-alpha.1695324098%2B550b206a?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/dev.opensavvy.prepared/runner-kotest-wasm-wasi@2.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.sakaiproject.microsoft/microsoft-api@25.0?classifier=sources
+- pkg:maven/org.sakaiproject.microsoft/microsoft-api@25.1?classifier=sources

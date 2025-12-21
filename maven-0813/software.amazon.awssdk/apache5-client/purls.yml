@@ -130,3 +130,16 @@
 - pkg:maven/software.amazon.awssdk/apache5-client@2.38.0-PREVIEW?classifier=sources
 - pkg:maven/software.amazon.awssdk/apache5-client@2.38.1-PREVIEW?classifier=sources
 - pkg:maven/software.amazon.awssdk/apache5-client@2.38.2-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/apache5-client@2.38.3-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/apache5-client@2.38.4-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/apache5-client@2.38.5-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/apache5-client@2.38.6-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/apache5-client@2.38.7-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/apache5-client@2.38.8-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/apache5-client@2.38.9-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/apache5-client@2.39.0-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/apache5-client@2.39.1-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/apache5-client@2.39.2-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/apache5-client@2.39.3-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/apache5-client@2.39.4-PREVIEW?classifier=sources
+- pkg:maven/software.amazon.awssdk/apache5-client@2.39.5-PREVIEW?classifier=sources

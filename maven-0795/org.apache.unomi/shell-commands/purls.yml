@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.unomi/shell-commands@2.6.1?classifier=sources
 - pkg:maven/org.apache.unomi/shell-commands@2.7.0
 - pkg:maven/org.apache.unomi/shell-commands@2.7.0?classifier=sources
+- pkg:maven/org.apache.unomi/shell-commands@3.0.0
+- pkg:maven/org.apache.unomi/shell-commands@3.0.0?classifier=sources

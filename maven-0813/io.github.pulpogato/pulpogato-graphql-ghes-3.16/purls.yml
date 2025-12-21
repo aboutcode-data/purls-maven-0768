@@ -13,6 +13,10 @@
 - pkg:maven/io.github.pulpogato/pulpogato-graphql-ghes-3.16@0.20.0?classifier=sources
 - pkg:maven/io.github.pulpogato/pulpogato-graphql-ghes-3.16@0.21.0?classifier=sources
 - pkg:maven/io.github.pulpogato/pulpogato-graphql-ghes-3.16@0.22.0?classifier=sources
+- pkg:maven/io.github.pulpogato/pulpogato-graphql-ghes-3.16@0.23.0?classifier=sources
+- pkg:maven/io.github.pulpogato/pulpogato-graphql-ghes-3.16@0.24.0?classifier=sources
+- pkg:maven/io.github.pulpogato/pulpogato-graphql-ghes-3.16@0.25.0?classifier=sources
+- pkg:maven/io.github.pulpogato/pulpogato-graphql-ghes-3.16@0.26.0?classifier=sources
 - pkg:maven/io.github.pulpogato/pulpogato-graphql-ghes-3.16@0.6.0?classifier=sources
 - pkg:maven/io.github.pulpogato/pulpogato-graphql-ghes-3.16@0.7.0?classifier=sources
 - pkg:maven/io.github.pulpogato/pulpogato-graphql-ghes-3.16@0.8.0?classifier=sources

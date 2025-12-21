@@ -70,3 +70,5 @@
 - pkg:maven/org.apache.druid/druid-gcp-common@33.0.0?classifier=sources
 - pkg:maven/org.apache.druid/druid-gcp-common@34.0.0
 - pkg:maven/org.apache.druid/druid-gcp-common@34.0.0?classifier=sources
+- pkg:maven/org.apache.druid/druid-gcp-common@35.0.0
+- pkg:maven/org.apache.druid/druid-gcp-common@35.0.0?classifier=sources

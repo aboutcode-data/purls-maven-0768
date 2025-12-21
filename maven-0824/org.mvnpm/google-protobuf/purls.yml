@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm/google-protobuf@3.21.4?classifier=sources
 - pkg:maven/org.mvnpm/google-protobuf@4.0.0
 - pkg:maven/org.mvnpm/google-protobuf@4.0.0?classifier=sources
+- pkg:maven/org.mvnpm/google-protobuf@4.0.1
+- pkg:maven/org.mvnpm/google-protobuf@4.0.1?classifier=sources

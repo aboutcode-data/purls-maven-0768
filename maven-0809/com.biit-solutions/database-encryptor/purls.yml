@@ -1,1 +1,2 @@
+- pkg:maven/com.biit-solutions/database-encryptor@0.2.44?classifier=sources
 - pkg:maven/com.biit-solutions/database-encryptor@0.3.100?classifier=sources

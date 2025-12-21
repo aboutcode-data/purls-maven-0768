@@ -26,3 +26,4 @@
 - pkg:maven/org.gretty/gretty-runner-jetty@4.1.6?classifier=sources
 - pkg:maven/org.gretty/gretty-runner-jetty@4.1.7?classifier=sources
 - pkg:maven/org.gretty/gretty-runner-jetty@4.1.9?classifier=sources
+- pkg:maven/org.gretty/gretty-runner-jetty@5.0.0?classifier=sources

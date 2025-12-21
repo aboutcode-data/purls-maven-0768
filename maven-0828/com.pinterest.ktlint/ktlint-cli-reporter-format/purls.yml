@@ -12,3 +12,4 @@
 - pkg:maven/com.pinterest.ktlint/ktlint-cli-reporter-format@1.6.0?classifier=sources
 - pkg:maven/com.pinterest.ktlint/ktlint-cli-reporter-format@1.7.0?classifier=sources
 - pkg:maven/com.pinterest.ktlint/ktlint-cli-reporter-format@1.7.1?classifier=sources
+- pkg:maven/com.pinterest.ktlint/ktlint-cli-reporter-format@1.8.0?classifier=sources

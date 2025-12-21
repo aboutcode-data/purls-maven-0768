@@ -4,3 +4,4 @@
 - pkg:maven/com.inmobi.omsdk/inmobi-omsdk@1.4.12.0?type=aar
 - pkg:maven/com.inmobi.omsdk/inmobi-omsdk@1.5.2.0?type=aar
 - pkg:maven/com.inmobi.omsdk/inmobi-omsdk@1.5.5.0?type=aar
+- pkg:maven/com.inmobi.omsdk/inmobi-omsdk@1.5.7.0?type=aar

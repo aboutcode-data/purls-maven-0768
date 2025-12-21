@@ -1,0 +1,3 @@
+- pkg:maven/io.github.atengk/boot2-deploy@1.0.0?classifier=sources
+- pkg:maven/io.github.atengk/boot2-deploy@1.0.2?classifier=sources
+- pkg:maven/io.github.atengk/boot2-deploy@v1.0?classifier=sources

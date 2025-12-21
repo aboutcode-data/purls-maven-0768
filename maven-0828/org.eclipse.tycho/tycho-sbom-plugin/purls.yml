@@ -1,0 +1,1 @@
+- pkg:maven/org.eclipse.tycho/tycho-sbom-plugin@5.0.1?classifier=sources

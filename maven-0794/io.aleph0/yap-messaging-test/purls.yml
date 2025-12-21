@@ -1,5 +1,6 @@
 - pkg:maven/io.aleph0/yap-messaging-test@0.0.0-b10?classifier=sources
 - pkg:maven/io.aleph0/yap-messaging-test@0.0.0-b11?classifier=sources
+- pkg:maven/io.aleph0/yap-messaging-test@0.0.0-b12?classifier=sources
 - pkg:maven/io.aleph0/yap-messaging-test@0.0.0-b4?classifier=sources
 - pkg:maven/io.aleph0/yap-messaging-test@0.0.0-b5?classifier=sources
 - pkg:maven/io.aleph0/yap-messaging-test@0.0.0-b6?classifier=sources

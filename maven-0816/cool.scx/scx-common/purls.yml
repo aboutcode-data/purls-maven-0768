@@ -280,3 +280,5 @@
 - pkg:maven/cool.scx/scx-common@4.0.2?classifier=sources
 - pkg:maven/cool.scx/scx-common@4.0.3?classifier=sources
 - pkg:maven/cool.scx/scx-common@4.1.0?classifier=sources
+- pkg:maven/cool.scx/scx-common@4.2.0?classifier=sources
+- pkg:maven/cool.scx/scx-common@4.3.0?classifier=sources

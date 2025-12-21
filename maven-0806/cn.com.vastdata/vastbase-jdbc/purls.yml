@@ -21,6 +21,8 @@
 - pkg:maven/cn.com.vastdata/vastbase-jdbc@2.13.2v?classifier=sources
 - pkg:maven/cn.com.vastdata/vastbase-jdbc@2.13.3v?classifier=sources
 - pkg:maven/cn.com.vastdata/vastbase-jdbc@2.13.4v?classifier=sources
+- pkg:maven/cn.com.vastdata/vastbase-jdbc@2.13.5v?classifier=sources
+- pkg:maven/cn.com.vastdata/vastbase-jdbc@2.13.6v?classifier=sources
 - pkg:maven/cn.com.vastdata/vastbase-jdbc@2.13p?classifier=sources
 - pkg:maven/cn.com.vastdata/vastbase-jdbc@2.13v?classifier=sources
 - pkg:maven/cn.com.vastdata/vastbase-jdbc@2.3p

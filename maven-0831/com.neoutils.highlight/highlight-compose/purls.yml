@@ -25,3 +25,4 @@
 - pkg:maven/com.neoutils.highlight/highlight-compose@2.3.0-snapshot7?classifier=sources
 - pkg:maven/com.neoutils.highlight/highlight-compose@2.3.0-snapshot8?classifier=sources
 - pkg:maven/com.neoutils.highlight/highlight-compose@2.3.0-snapshot9?classifier=sources
+- pkg:maven/com.neoutils.highlight/highlight-compose@2.3.0?classifier=sources

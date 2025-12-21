@@ -12,6 +12,8 @@
 - pkg:maven/org.onebusaway/onebusaway-gtfs-merge@10.2.0?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-merge@10.3.0?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-merge@11.0.0?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-merge@11.1.0?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-merge@11.2.0?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-merge@2.0.0?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-merge@2.0.1?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-merge@2.0.2?classifier=sources

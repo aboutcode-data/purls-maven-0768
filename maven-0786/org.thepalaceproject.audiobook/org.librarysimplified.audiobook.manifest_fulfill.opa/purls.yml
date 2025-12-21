@@ -48,6 +48,7 @@
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.manifest_fulfill.opa@17.3.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.manifest_fulfill.opa@17.4.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.manifest_fulfill.opa@18.0.0?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.manifest_fulfill.opa@18.1.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.manifest_fulfill.opa@6.10.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.manifest_fulfill.opa@6.10.1?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.manifest_fulfill.opa@6.11.0?classifier=sources

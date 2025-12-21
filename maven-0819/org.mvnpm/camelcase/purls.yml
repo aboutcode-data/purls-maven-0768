@@ -5,3 +5,5 @@
 - pkg:maven/org.mvnpm/camelcase@5.3.1?classifier=sources
 - pkg:maven/org.mvnpm/camelcase@6.3.0?classifier=sources
 - pkg:maven/org.mvnpm/camelcase@8.0.0?classifier=sources
+- pkg:maven/org.mvnpm/camelcase@9.0.0
+- pkg:maven/org.mvnpm/camelcase@9.0.0?classifier=sources

@@ -47,3 +47,4 @@
 - pkg:maven/fr.maif/commons-events@2.5.0-rc2?classifier=sources
 - pkg:maven/fr.maif/commons-events@2.5.0-rc3?classifier=sources
 - pkg:maven/fr.maif/commons-events@2.5.0-rc4?classifier=sources
+- pkg:maven/fr.maif/commons-events@2.5.0?classifier=sources

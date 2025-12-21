@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.batch.extensions/spring-batch-notion@0.1.0
+- pkg:maven/org.springframework.batch.extensions/spring-batch-notion@0.1.0?classifier=sources

@@ -123,3 +123,4 @@
 - pkg:maven/io.trino/trino-tpch@474?classifier=sources
 - pkg:maven/io.trino/trino-tpch@475?classifier=sources
 - pkg:maven/io.trino/trino-tpch@476?classifier=sources
+- pkg:maven/io.trino/trino-tpch@478?classifier=sources

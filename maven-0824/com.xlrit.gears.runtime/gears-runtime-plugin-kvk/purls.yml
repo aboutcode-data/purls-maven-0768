@@ -1,1 +1,3 @@
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-kvk@1.21.4?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-kvk@1.21.5?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-kvk@1.21.6?classifier=sources

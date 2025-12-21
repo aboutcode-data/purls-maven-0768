@@ -60,3 +60,4 @@
 - pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@4.26.0?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@5.0.0?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@5.1.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-frontend@5.2.0?classifier=sources

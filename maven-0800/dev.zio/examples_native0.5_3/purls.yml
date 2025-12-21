@@ -6,3 +6,5 @@
 - pkg:maven/dev.zio/examples_native0.5_3@0.7.2?classifier=sources
 - pkg:maven/dev.zio/examples_native0.5_3@0.7.3
 - pkg:maven/dev.zio/examples_native0.5_3@0.7.3?classifier=sources
+- pkg:maven/dev.zio/examples_native0.5_3@0.7.4
+- pkg:maven/dev.zio/examples_native0.5_3@0.7.4?classifier=sources

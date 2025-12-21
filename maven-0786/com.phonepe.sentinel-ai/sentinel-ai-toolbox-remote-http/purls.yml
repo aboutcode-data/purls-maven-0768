@@ -4,3 +4,4 @@
 - pkg:maven/com.phonepe.sentinel-ai/sentinel-ai-toolbox-remote-http@1.1.0-alpha1?classifier=sources
 - pkg:maven/com.phonepe.sentinel-ai/sentinel-ai-toolbox-remote-http@1.1.0-alpha2?classifier=sources
 - pkg:maven/com.phonepe.sentinel-ai/sentinel-ai-toolbox-remote-http@1.1.0?classifier=sources
+- pkg:maven/com.phonepe.sentinel-ai/sentinel-ai-toolbox-remote-http@1.1.1-alpha1?classifier=sources

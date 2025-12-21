@@ -63,3 +63,5 @@
 - pkg:maven/com.helger.phase4/phase4-dbnalliance-client@3.2.2?classifier=sources
 - pkg:maven/com.helger.phase4/phase4-dbnalliance-client@4.0.0?classifier=sources
 - pkg:maven/com.helger.phase4/phase4-dbnalliance-client@4.0.1?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-dbnalliance-client@4.0.2?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-dbnalliance-client@4.1.0?classifier=sources

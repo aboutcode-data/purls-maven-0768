@@ -1,6 +1,7 @@
 - pkg:maven/at.asitplus.signum/supreme@0.1.1-PRE?classifier=sources
 - pkg:maven/at.asitplus.signum/supreme@0.10.0?classifier=sources
 - pkg:maven/at.asitplus.signum/supreme@0.10.1?classifier=sources
+- pkg:maven/at.asitplus.signum/supreme@0.10.2?classifier=sources
 - pkg:maven/at.asitplus.signum/supreme@0.2.0?classifier=sources
 - pkg:maven/at.asitplus.signum/supreme@0.3.0?classifier=sources
 - pkg:maven/at.asitplus.signum/supreme@0.3.1?classifier=sources

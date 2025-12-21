@@ -127,6 +127,7 @@
 - pkg:maven/me.proton.core/event-manager@34.4.0?classifier=sources
 - pkg:maven/me.proton.core/event-manager@35.0.0?classifier=sources
 - pkg:maven/me.proton.core/event-manager@35.1.0?classifier=sources
+- pkg:maven/me.proton.core/event-manager@35.2.0?classifier=sources
 - pkg:maven/me.proton.core/event-manager@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/event-manager@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/event-manager@5.0.0?classifier=sources

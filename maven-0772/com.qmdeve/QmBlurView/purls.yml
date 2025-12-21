@@ -1,0 +1,6 @@
+- pkg:maven/com.qmdeve/QmBlurView@1.0.4.3?classifier=sources
+- pkg:maven/com.qmdeve/QmBlurView@1.0.4.4?classifier=sources
+- pkg:maven/com.qmdeve/QmBlurView@1.0.4.5-Beta1?classifier=sources
+- pkg:maven/com.qmdeve/QmBlurView@1.0.4.5-Beta2?classifier=sources
+- pkg:maven/com.qmdeve/QmBlurView@1.0.4.5-Beta3?classifier=sources
+- pkg:maven/com.qmdeve/QmBlurView@1.0.4.5?classifier=sources

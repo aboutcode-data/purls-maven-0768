@@ -301,3 +301,4 @@
 - pkg:maven/com.ibm.cloud/usage-reports@0.68.6?classifier=sources
 - pkg:maven/com.ibm.cloud/usage-reports@0.69.0?classifier=sources
 - pkg:maven/com.ibm.cloud/usage-reports@0.70.0?classifier=sources
+- pkg:maven/com.ibm.cloud/usage-reports@0.71.0?classifier=sources

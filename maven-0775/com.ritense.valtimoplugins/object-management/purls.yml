@@ -3,3 +3,4 @@
 - pkg:maven/com.ritense.valtimoplugins/object-management@0.3.0?classifier=sources
 - pkg:maven/com.ritense.valtimoplugins/object-management@0.4.0?classifier=sources
 - pkg:maven/com.ritense.valtimoplugins/object-management@1.0.0?classifier=sources
+- pkg:maven/com.ritense.valtimoplugins/object-management@1.1.0?classifier=sources

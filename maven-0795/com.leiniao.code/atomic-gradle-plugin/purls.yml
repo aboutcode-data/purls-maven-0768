@@ -10,3 +10,5 @@
 - pkg:maven/com.leiniao.code/atomic-gradle-plugin@2.0.25-beta?classifier=sources
 - pkg:maven/com.leiniao.code/atomic-gradle-plugin@2.0.26-beta
 - pkg:maven/com.leiniao.code/atomic-gradle-plugin@2.0.26-beta?classifier=sources
+- pkg:maven/com.leiniao.code/atomic-gradle-plugin@2.1.0-beta
+- pkg:maven/com.leiniao.code/atomic-gradle-plugin@2.1.0-beta?classifier=sources

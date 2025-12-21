@@ -145,3 +145,6 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@3.6.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@4.0.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@4.1.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@4.2.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@4.3.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-amqp@4.4.0?classifier=sources

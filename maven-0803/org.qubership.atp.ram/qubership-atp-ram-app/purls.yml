@@ -4,3 +4,4 @@
 - pkg:maven/org.qubership.atp.ram/qubership-atp-ram-app@2.2.207?classifier=sources
 - pkg:maven/org.qubership.atp.ram/qubership-atp-ram-app@2.2.208?classifier=sources
 - pkg:maven/org.qubership.atp.ram/qubership-atp-ram-app@2.2.209?classifier=sources
+- pkg:maven/org.qubership.atp.ram/qubership-atp-ram-app@2.2.210?classifier=sources

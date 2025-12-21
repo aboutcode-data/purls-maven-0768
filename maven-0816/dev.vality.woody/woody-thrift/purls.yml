@@ -62,3 +62,4 @@
 - pkg:maven/dev.vality.woody/woody-thrift@2.0.8?classifier=sources
 - pkg:maven/dev.vality.woody/woody-thrift@2.0.9
 - pkg:maven/dev.vality.woody/woody-thrift@2.0.9?classifier=sources
+- pkg:maven/dev.vality.woody/woody-thrift@2.1.0?classifier=sources

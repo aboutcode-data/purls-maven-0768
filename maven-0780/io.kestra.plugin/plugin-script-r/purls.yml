@@ -33,3 +33,5 @@
 - pkg:maven/io.kestra.plugin/plugin-script-r@0.24.2?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-script-r@1.0.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-script-r@1.0.1?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-script-r@1.1.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-script-r@1.1.1?classifier=sources

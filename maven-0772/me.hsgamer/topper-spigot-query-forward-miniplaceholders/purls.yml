@@ -7,3 +7,5 @@
 - pkg:maven/me.hsgamer/topper-spigot-query-forward-miniplaceholders@3.9.1?classifier=sources
 - pkg:maven/me.hsgamer/topper-spigot-query-forward-miniplaceholders@4.0.0?classifier=sources
 - pkg:maven/me.hsgamer/topper-spigot-query-forward-miniplaceholders@4.1.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-spigot-query-forward-miniplaceholders@4.2.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-spigot-query-forward-miniplaceholders@4.3.0?classifier=sources

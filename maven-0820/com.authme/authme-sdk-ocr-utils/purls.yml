@@ -62,7 +62,11 @@
 - pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.169?classifier=sources
 - pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.16?classifier=sources
 - pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.177?classifier=sources
+- pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.178?classifier=sources
+- pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.179?classifier=sources
 - pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.17?classifier=sources
+- pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.180?classifier=sources
+- pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.181?classifier=sources
 - pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.18?classifier=sources
 - pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.19?classifier=sources
 - pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.20?classifier=sources

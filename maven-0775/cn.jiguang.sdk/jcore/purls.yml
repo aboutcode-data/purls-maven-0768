@@ -56,3 +56,4 @@
 - pkg:maven/cn.jiguang.sdk/jcore@5.1.0?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore@5.1.1?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore@5.2.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore@5.2.2?classifier=sources

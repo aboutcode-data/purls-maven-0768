@@ -95,6 +95,10 @@
 - pkg:maven/io.scalecube/scalecube-services-security@2.12.7.auth-refactoring.RC5?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-security@2.12.7?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-security@2.13.1
+- pkg:maven/io.scalecube/scalecube-services-security@2.13.10?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-security@2.13.11-rc1?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-security@2.13.11-rc2?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-security@2.13.11?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-security@2.13.1?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-security@2.13.2.allowed-roles.rc2?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-security@2.13.2?classifier=sources
@@ -107,3 +111,5 @@
 - pkg:maven/io.scalecube/scalecube-services-security@2.13.6?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-security@2.13.7?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-security@2.13.8?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-security@2.13.9.jjwt.rc1?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-security@2.13.9?classifier=sources

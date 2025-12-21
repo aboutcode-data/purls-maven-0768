@@ -36,3 +36,4 @@
 - pkg:maven/com.kroegerama.android-kaiteki/lint@5.2.1?classifier=sources
 - pkg:maven/com.kroegerama.android-kaiteki/lint@5.3.0?classifier=sources
 - pkg:maven/com.kroegerama.android-kaiteki/lint@5.3.1?classifier=sources
+- pkg:maven/com.kroegerama.android-kaiteki/lint@5.3.2?classifier=sources

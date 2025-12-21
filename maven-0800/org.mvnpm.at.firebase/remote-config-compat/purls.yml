@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.firebase/remote-config-compat@0.2.20
+- pkg:maven/org.mvnpm.at.firebase/remote-config-compat@0.2.20?classifier=sources

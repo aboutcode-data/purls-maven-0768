@@ -39,6 +39,7 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-nodejs@0.32.2?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-nodejs@0.32.3?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-nodejs@0.33.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-nodejs@0.34.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-nodejs@0.4.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-nodejs@0.4.2?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-nodejs@0.4.3?classifier=sources

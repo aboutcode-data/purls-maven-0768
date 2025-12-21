@@ -173,4 +173,5 @@
 - pkg:maven/fun.fengwk.convention4j/convention4j-oauth2-server@1.1.8?classifier=sources
 - pkg:maven/fun.fengwk.convention4j/convention4j-oauth2-server@1.1.9
 - pkg:maven/fun.fengwk.convention4j/convention4j-oauth2-server@1.1.90?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-oauth2-server@1.1.91?classifier=sources
 - pkg:maven/fun.fengwk.convention4j/convention4j-oauth2-server@1.1.9?classifier=sources

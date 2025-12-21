@@ -16,3 +16,5 @@
 - pkg:maven/org.mvnpm.at.remix-run/router@1.20.0?classifier=sources
 - pkg:maven/org.mvnpm.at.remix-run/router@1.21.0?classifier=sources
 - pkg:maven/org.mvnpm.at.remix-run/router@1.23.0?classifier=sources
+- pkg:maven/org.mvnpm.at.remix-run/router@1.23.1
+- pkg:maven/org.mvnpm.at.remix-run/router@1.23.1?classifier=sources

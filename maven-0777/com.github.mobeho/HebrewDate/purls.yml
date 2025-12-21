@@ -52,3 +52,4 @@
 - pkg:maven/com.github.mobeho/HebrewDate@0.5.2?classifier=sources
 - pkg:maven/com.github.mobeho/HebrewDate@0.5.3
 - pkg:maven/com.github.mobeho/HebrewDate@0.5.3?classifier=sources
+- pkg:maven/com.github.mobeho/HebrewDate@0.5.5?classifier=sources

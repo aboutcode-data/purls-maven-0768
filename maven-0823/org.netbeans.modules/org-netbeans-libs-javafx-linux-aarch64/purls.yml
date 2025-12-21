@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-linux-aarch64@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-linux-aarch64@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-linux-aarch64@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-linux-aarch64@RELEASE280?classifier=sources

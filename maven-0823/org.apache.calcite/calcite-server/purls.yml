@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.calcite/calcite-server@1.39.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-server@1.40.0
 - pkg:maven/org.apache.calcite/calcite-server@1.40.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-server@1.41.0
+- pkg:maven/org.apache.calcite/calcite-server@1.41.0?classifier=sources

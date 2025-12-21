@@ -1,8 +1,11 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-parent@1.15.27.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.security/wildfly-elytron-parent@2.2.12.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.security/wildfly-elytron-parent@2.2.12.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.security/wildfly-elytron-parent@2.2.13.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.security/wildfly-elytron-parent@2.6.5.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.security/wildfly-elytron-parent@2.6.5.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.security/wildfly-elytron-parent@2.6.6.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.security/wildfly-elytron-parent@2.6.7.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.security/wildfly-elytron-parent@2.7.0.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.security/wildfly-elytron-parent@2.7.0.Alpha2?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.security/wildfly-elytron-parent@2.7.0.CR1?classifier=source-release&type=zip

@@ -1,2 +1,6 @@
 - pkg:maven/org.mvnpm.at.mapbox/node-pre-gyp@1.0.11?classifier=sources
 - pkg:maven/org.mvnpm.at.mapbox/node-pre-gyp@2.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.mapbox/node-pre-gyp@2.0.2
+- pkg:maven/org.mvnpm.at.mapbox/node-pre-gyp@2.0.2?classifier=sources
+- pkg:maven/org.mvnpm.at.mapbox/node-pre-gyp@2.0.3
+- pkg:maven/org.mvnpm.at.mapbox/node-pre-gyp@2.0.3?classifier=sources

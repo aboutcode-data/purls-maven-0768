@@ -15,3 +15,4 @@
 - pkg:maven/site.addzero/gradle-script@0.0.672?classifier=sources
 - pkg:maven/site.addzero/gradle-script@2025.10.19?classifier=sources
 - pkg:maven/site.addzero/gradle-script@2025.10.20?classifier=sources
+- pkg:maven/site.addzero/gradle-script@2025.11.29?classifier=sources

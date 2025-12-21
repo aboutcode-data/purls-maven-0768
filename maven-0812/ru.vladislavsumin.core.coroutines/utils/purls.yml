@@ -1,2 +1,4 @@
 - pkg:maven/ru.vladislavsumin.core.coroutines/utils@0.7.0?classifier=sources
 - pkg:maven/ru.vladislavsumin.core.coroutines/utils@0.8.0?classifier=sources
+- pkg:maven/ru.vladislavsumin.core.coroutines/utils@1.0.2?classifier=sources
+- pkg:maven/ru.vladislavsumin.core.coroutines/utils@v0.9.0?classifier=sources

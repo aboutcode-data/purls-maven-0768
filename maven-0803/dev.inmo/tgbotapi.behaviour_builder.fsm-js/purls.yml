@@ -116,6 +116,7 @@
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-js@3.3.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-js@3.3.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-js@30.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-js@30.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-js@4.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-js@4.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm-js@4.1.1?classifier=sources

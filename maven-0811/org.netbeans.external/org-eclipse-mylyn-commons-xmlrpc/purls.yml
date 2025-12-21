@@ -23,3 +23,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-xmlrpc@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-xmlrpc@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-xmlrpc@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-xmlrpc@RELEASE280?classifier=sources

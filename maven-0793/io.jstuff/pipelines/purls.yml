@@ -1,1 +1,4 @@
 - pkg:maven/io.jstuff/pipelines@6.0?classifier=sources
+- pkg:maven/io.jstuff/pipelines@6.1?classifier=sources
+- pkg:maven/io.jstuff/pipelines@6.2?classifier=sources
+- pkg:maven/io.jstuff/pipelines@7.0?classifier=sources

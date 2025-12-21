@@ -290,6 +290,14 @@
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.1.19352.20250131T194709Z-250100?classifier=sources
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.10.22943.20251009T135918Z-250900
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.10.22943.20251009T135918Z-250900?classifier=sources
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.10.22943.20251009T135918Z-251000
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.10.22943.20251009T135918Z-251000?classifier=sources
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.10.23122.20251023T134343Z-250900
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.10.23122.20251023T134343Z-250900?classifier=sources
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.11.23320.20251110T192725Z-251000
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.11.23320.20251110T192725Z-251000?classifier=sources
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.11.23385.20251113T172403Z-251000
+- pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.11.23385.20251113T172403Z-251000?classifier=sources
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.2.19567.20250218T063747Z-250100
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.2.19567.20250218T063747Z-250100?classifier=sources
 - pkg:maven/com.adobe.aem/aem-prerelease-sdk-api@2025.2.19586.20250218T200657Z-250100

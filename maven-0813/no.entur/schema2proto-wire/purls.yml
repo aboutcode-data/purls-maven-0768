@@ -11,6 +11,7 @@
 - pkg:maven/no.entur/schema2proto-wire@1.104.0?classifier=sources
 - pkg:maven/no.entur/schema2proto-wire@1.105.0?classifier=sources
 - pkg:maven/no.entur/schema2proto-wire@1.106.0?classifier=sources
+- pkg:maven/no.entur/schema2proto-wire@1.107.0?classifier=sources
 - pkg:maven/no.entur/schema2proto-wire@1.10?classifier=sources
 - pkg:maven/no.entur/schema2proto-wire@1.11
 - pkg:maven/no.entur/schema2proto-wire@1.11?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.hono/node-server@1.14.2
+- pkg:maven/org.mvnpm.at.hono/node-server@1.14.2?classifier=sources

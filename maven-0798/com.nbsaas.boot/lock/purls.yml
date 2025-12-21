@@ -12,3 +12,4 @@
 - pkg:maven/com.nbsaas.boot/lock@1.1.23-2025?classifier=sources
 - pkg:maven/com.nbsaas.boot/lock@1.1.24-2025?classifier=sources
 - pkg:maven/com.nbsaas.boot/lock@1.1.25-2025?classifier=sources
+- pkg:maven/com.nbsaas.boot/lock@1.1.26-2025?classifier=sources

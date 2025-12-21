@@ -419,10 +419,17 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.10.9-13.1.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.11.0-13.1.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.11.1-13.1.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.11.10-13.1.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.11.11-13.1.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.11.12-13.1.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.11.2-13.1.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.11.3-13.1.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.11.4-13.1.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.11.5-13.1.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.11.6-13.1.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.11.7-13.1.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.11.8-13.1.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.11.9-13.1.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.2.0-13.1.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.2.1-13.1.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js@2025.2.10-13.1.1?classifier=sources

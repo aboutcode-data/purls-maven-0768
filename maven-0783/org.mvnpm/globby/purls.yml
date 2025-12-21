@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm/globby@14.1.0?classifier=sources
 - pkg:maven/org.mvnpm/globby@15.0.0
 - pkg:maven/org.mvnpm/globby@15.0.0?classifier=sources
+- pkg:maven/org.mvnpm/globby@16.0.0
+- pkg:maven/org.mvnpm/globby@16.0.0?classifier=sources

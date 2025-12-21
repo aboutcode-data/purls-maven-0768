@@ -35,6 +35,7 @@
 - pkg:maven/org.immutables/value-annotations@2.11.4?classifier=sources
 - pkg:maven/org.immutables/value-annotations@2.11.5?classifier=sources
 - pkg:maven/org.immutables/value-annotations@2.11.6?classifier=sources
+- pkg:maven/org.immutables/value-annotations@2.11.7?classifier=sources
 - pkg:maven/org.immutables/value-annotations@2.7.0
 - pkg:maven/org.immutables/value-annotations@2.7.0?classifier=sources
 - pkg:maven/org.immutables/value-annotations@2.7.1

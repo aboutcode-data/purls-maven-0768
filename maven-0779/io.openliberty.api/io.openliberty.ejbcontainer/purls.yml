@@ -2,3 +2,4 @@
 - pkg:maven/io.openliberty.api/io.openliberty.ejbcontainer@1.0.104?classifier=sources
 - pkg:maven/io.openliberty.api/io.openliberty.ejbcontainer@1.0.105?classifier=sources
 - pkg:maven/io.openliberty.api/io.openliberty.ejbcontainer@1.0.106?classifier=sources
+- pkg:maven/io.openliberty.api/io.openliberty.ejbcontainer@1.0.107?classifier=sources

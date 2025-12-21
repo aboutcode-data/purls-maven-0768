@@ -1,3 +1,5 @@
 - pkg:maven/io.sentry/sentry-android-distribution@8.24.0-alpha.1?classifier=sources
 - pkg:maven/io.sentry/sentry-android-distribution@8.24.0-alpha.2?classifier=sources
 - pkg:maven/io.sentry/sentry-android-distribution@8.24.0?classifier=sources
+- pkg:maven/io.sentry/sentry-android-distribution@8.25.0?classifier=sources
+- pkg:maven/io.sentry/sentry-android-distribution@8.26.0?classifier=sources

@@ -195,3 +195,4 @@
 - pkg:maven/no.priv.bang.authservice/authservice.web.users.api@3.0.2?classifier=sources
 - pkg:maven/no.priv.bang.authservice/authservice.web.users.api@3.0.3?classifier=sources
 - pkg:maven/no.priv.bang.authservice/authservice.web.users.api@3.0.4?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.web.users.api@3.0.5?classifier=sources

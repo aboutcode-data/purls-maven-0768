@@ -7,3 +7,4 @@
 - pkg:maven/de.joshuagleitze/string-notation@1.4.1?classifier=sources
 - pkg:maven/de.joshuagleitze/string-notation@1.4.2?classifier=sources
 - pkg:maven/de.joshuagleitze/string-notation@1.5.0?classifier=sources
+- pkg:maven/de.joshuagleitze/string-notation@2.0.0?classifier=sources

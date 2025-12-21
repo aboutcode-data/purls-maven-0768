@@ -32,3 +32,4 @@
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@1.0.0?classifier=sources
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@1.1.0
 - pkg:maven/com.github.crabs-hue.commons/commons-retryable@1.1.0?classifier=sources
+- pkg:maven/com.github.crabs-hue.commons/commons-retryable@2.0.0?classifier=sources

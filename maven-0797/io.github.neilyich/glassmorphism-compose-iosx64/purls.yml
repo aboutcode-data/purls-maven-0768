@@ -1,3 +1,4 @@
 - pkg:maven/io.github.neilyich/glassmorphism-compose-iosx64@0.0.1-alpha01?classifier=sources
 - pkg:maven/io.github.neilyich/glassmorphism-compose-iosx64@0.0.1-alpha02?classifier=sources
 - pkg:maven/io.github.neilyich/glassmorphism-compose-iosx64@0.1.0?classifier=sources
+- pkg:maven/io.github.neilyich/glassmorphism-compose-iosx64@1.0.0?classifier=sources

@@ -76,3 +76,5 @@
 - pkg:maven/org.apache.druid.extensions/druid-kinesis-indexing-service@33.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions/druid-kinesis-indexing-service@34.0.0
 - pkg:maven/org.apache.druid.extensions/druid-kinesis-indexing-service@34.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions/druid-kinesis-indexing-service@35.0.0
+- pkg:maven/org.apache.druid.extensions/druid-kinesis-indexing-service@35.0.0?classifier=sources

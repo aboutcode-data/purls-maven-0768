@@ -1,2 +1,4 @@
 - pkg:maven/dev.soundness/stenography-core@0.45.0
 - pkg:maven/dev.soundness/stenography-core@0.45.0?classifier=sources
+- pkg:maven/dev.soundness/stenography-core@0.46.0
+- pkg:maven/dev.soundness/stenography-core@0.46.0?classifier=sources

@@ -6970,6 +6970,10 @@
 - pkg:maven/org.wso2.identity.apps/myaccount@2.2.90?type=war
 - pkg:maven/org.wso2.identity.apps/myaccount@2.2.91?classifier=sources
 - pkg:maven/org.wso2.identity.apps/myaccount@2.2.91?type=war
+- pkg:maven/org.wso2.identity.apps/myaccount@2.25.17?classifier=sources
+- pkg:maven/org.wso2.identity.apps/myaccount@2.25.17?type=war
+- pkg:maven/org.wso2.identity.apps/myaccount@2.25.19?classifier=sources
+- pkg:maven/org.wso2.identity.apps/myaccount@2.25.19?type=war
 - pkg:maven/org.wso2.identity.apps/myaccount@2.3.14?classifier=sources
 - pkg:maven/org.wso2.identity.apps/myaccount@2.3.14?type=war
 - pkg:maven/org.wso2.identity.apps/myaccount@2.3.15?classifier=sources

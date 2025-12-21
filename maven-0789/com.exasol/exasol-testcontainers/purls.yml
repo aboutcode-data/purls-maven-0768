@@ -107,3 +107,4 @@
 - pkg:maven/com.exasol/exasol-testcontainers@7.1.6
 - pkg:maven/com.exasol/exasol-testcontainers@7.1.6?classifier=sources
 - pkg:maven/com.exasol/exasol-testcontainers@7.1.7?classifier=sources
+- pkg:maven/com.exasol/exasol-testcontainers@7.2.0?classifier=sources

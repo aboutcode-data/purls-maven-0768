@@ -18,3 +18,4 @@
 - pkg:maven/io.github.waibozi/google-pay-wrapper@1.1.6-alpha02?classifier=sources
 - pkg:maven/io.github.waibozi/google-pay-wrapper@1.1.6-alpha03?classifier=sources
 - pkg:maven/io.github.waibozi/google-pay-wrapper@1.1.6-alpha04?classifier=sources
+- pkg:maven/io.github.waibozi/google-pay-wrapper@1.1.6?classifier=sources

@@ -57,6 +57,7 @@
 - pkg:maven/io.cucumber/cucumber-jakarta-openejb@7.28.2?classifier=sources
 - pkg:maven/io.cucumber/cucumber-jakarta-openejb@7.29.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-jakarta-openejb@7.30.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-jakarta-openejb@7.31.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-jakarta-openejb@7.5.0
 - pkg:maven/io.cucumber/cucumber-jakarta-openejb@7.5.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-jakarta-openejb@7.6.0

@@ -1,0 +1,2 @@
+- pkg:maven/net.rossonet.waldot/waldot-client@0.3.3?classifier=sources
+- pkg:maven/net.rossonet.waldot/waldot-client@0.4.1?classifier=sources

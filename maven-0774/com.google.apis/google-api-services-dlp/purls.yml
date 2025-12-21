@@ -510,6 +510,8 @@
 - pkg:maven/com.google.apis/google-api-services-dlp@v2-rev20251012-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dlp@v2-rev20251019-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dlp@v2-rev20251019-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dlp@v2-rev20251102-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dlp@v2-rev20251102-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dlp@v2-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-dlp@v2-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dlp@v2-rev21-1.22.0

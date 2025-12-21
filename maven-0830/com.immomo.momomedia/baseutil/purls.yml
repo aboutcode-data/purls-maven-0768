@@ -152,6 +152,7 @@
 - pkg:maven/com.immomo.momomedia/baseutil@2.3.4-20231128173700?type=aar
 - pkg:maven/com.immomo.momomedia/baseutil@2.3.4-20250310122001?classifier=sources
 - pkg:maven/com.immomo.momomedia/baseutil@2.3.4-20250310122001?type=aar
+- pkg:maven/com.immomo.momomedia/baseutil@2.3.4-20251031112721?classifier=sources
 - pkg:maven/com.immomo.momomedia/baseutil@2.4.0-20230310153400?classifier=sources
 - pkg:maven/com.immomo.momomedia/baseutil@2.4.0-20230310153400?type=aar
 - pkg:maven/com.immomo.momomedia/baseutil@2.4.1-20210929000001?classifier=sources
