@@ -1,0 +1,4 @@
+- pkg:maven/com.kevel/apso-specs2_4_2.13@0.24.0
+- pkg:maven/com.kevel/apso-specs2_4_2.13@0.24.0?classifier=sources
+- pkg:maven/com.kevel/apso-specs2_4_2.13@0.24.1
+- pkg:maven/com.kevel/apso-specs2_4_2.13@0.24.1?classifier=sources

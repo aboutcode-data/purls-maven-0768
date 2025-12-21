@@ -36,3 +36,5 @@
 - pkg:maven/org.onebusaway/onebusaway-gtfs-merge@7.0.3?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-merge@7.0.4?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-merge@8.0.0?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-merge@9.0.0?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-merge@9.0.1?classifier=sources

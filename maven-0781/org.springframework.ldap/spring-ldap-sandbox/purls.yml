@@ -32,3 +32,5 @@
 - pkg:maven/org.springframework.ldap/spring-ldap-sandbox@3.2.9?classifier=sources
 - pkg:maven/org.springframework.ldap/spring-ldap-sandbox@3.3.0?classifier=sources
 - pkg:maven/org.springframework.ldap/spring-ldap-sandbox@3.3.1?classifier=sources
+- pkg:maven/org.springframework.ldap/spring-ldap-sandbox@3.3.2?classifier=sources
+- pkg:maven/org.springframework.ldap/spring-ldap-sandbox@4.0.0-M1?classifier=sources

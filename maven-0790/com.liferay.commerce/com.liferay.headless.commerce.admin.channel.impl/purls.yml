@@ -466,6 +466,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.impl@4.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.impl@4.0.1
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.impl@4.0.10
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.impl@4.0.100?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.impl@4.0.10?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.impl@4.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.impl@4.0.11

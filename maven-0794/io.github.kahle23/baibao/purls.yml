@@ -2,3 +2,4 @@
 - pkg:maven/io.github.kahle23/baibao@1.0.0.20240217.beta?classifier=sources
 - pkg:maven/io.github.kahle23/baibao@1.0.0.20240401.beta
 - pkg:maven/io.github.kahle23/baibao@1.0.0.20240401.beta?classifier=sources
+- pkg:maven/io.github.kahle23/baibao@1.0.0.24520b?classifier=sources

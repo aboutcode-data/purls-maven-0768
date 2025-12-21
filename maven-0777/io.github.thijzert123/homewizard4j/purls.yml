@@ -1,0 +1,2 @@
+- pkg:maven/io.github.thijzert123/homewizard4j@1.0.0?classifier=sources
+- pkg:maven/io.github.thijzert123/homewizard4j@2.0.0?classifier=sources

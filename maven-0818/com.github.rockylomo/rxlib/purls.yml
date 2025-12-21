@@ -156,6 +156,7 @@
 - pkg:maven/com.github.rockylomo/rxlib@2.20.11
 - pkg:maven/com.github.rockylomo/rxlib@2.20.11?classifier=sources
 - pkg:maven/com.github.rockylomo/rxlib@2.20.15?classifier=sources
+- pkg:maven/com.github.rockylomo/rxlib@2.20.16?classifier=sources
 - pkg:maven/com.github.rockylomo/rxlib@2.20.1?classifier=sources
 - pkg:maven/com.github.rockylomo/rxlib@2.20.2
 - pkg:maven/com.github.rockylomo/rxlib@2.20.2?classifier=sources
@@ -173,6 +174,9 @@
 - pkg:maven/com.github.rockylomo/rxlib@2.20.8?classifier=sources
 - pkg:maven/com.github.rockylomo/rxlib@2.20.9
 - pkg:maven/com.github.rockylomo/rxlib@2.20.9?classifier=sources
+- pkg:maven/com.github.rockylomo/rxlib@2.21.1?classifier=sources
+- pkg:maven/com.github.rockylomo/rxlib@2.21.2?classifier=sources
+- pkg:maven/com.github.rockylomo/rxlib@2.21.4?classifier=sources
 - pkg:maven/com.github.rockylomo/rxlib@2.2?classifier=sources
 - pkg:maven/com.github.rockylomo/rxlib@2.3
 - pkg:maven/com.github.rockylomo/rxlib@2.3?classifier=sources

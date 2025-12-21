@@ -1,3 +1,4 @@
 - pkg:maven/io.gitee.baoge518/kstry-core@1.1.16?classifier=sources
 - pkg:maven/io.gitee.baoge518/kstry-core@1.1.16_Beta?classifier=sources
 - pkg:maven/io.gitee.baoge518/kstry-core@2.0.0?classifier=sources
+- pkg:maven/io.gitee.baoge518/kstry-core@2.0.1?classifier=sources

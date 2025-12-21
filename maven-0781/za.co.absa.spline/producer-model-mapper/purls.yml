@@ -22,3 +22,4 @@
 - pkg:maven/za.co.absa.spline/producer-model-mapper@0.7.8?classifier=sources
 - pkg:maven/za.co.absa.spline/producer-model-mapper@0.7.9
 - pkg:maven/za.co.absa.spline/producer-model-mapper@0.7.9?classifier=sources
+- pkg:maven/za.co.absa.spline/producer-model-mapper@0.8.1?classifier=sources

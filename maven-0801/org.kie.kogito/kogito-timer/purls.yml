@@ -126,5 +126,7 @@
 - pkg:maven/org.kie.kogito/kogito-timer@1.9.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-timer@10.0.0
 - pkg:maven/org.kie.kogito/kogito-timer@10.0.0?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-timer@10.1.0
+- pkg:maven/org.kie.kogito/kogito-timer@10.1.0?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-timer@2.44.0.Alpha
 - pkg:maven/org.kie.kogito/kogito-timer@2.44.0.Alpha?classifier=sources

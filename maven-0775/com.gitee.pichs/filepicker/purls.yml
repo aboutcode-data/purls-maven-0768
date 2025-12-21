@@ -5,3 +5,15 @@
 - pkg:maven/com.gitee.pichs/filepicker@3.0.1?classifier=sources
 - pkg:maven/com.gitee.pichs/filepicker@3.0.2?classifier=sources
 - pkg:maven/com.gitee.pichs/filepicker@4.0.0?classifier=sources
+- pkg:maven/com.gitee.pichs/filepicker@4.1.0?classifier=sources
+- pkg:maven/com.gitee.pichs/filepicker@4.2.0?classifier=sources
+- pkg:maven/com.gitee.pichs/filepicker@4.3.0?classifier=sources
+- pkg:maven/com.gitee.pichs/filepicker@4.4.0?classifier=sources
+- pkg:maven/com.gitee.pichs/filepicker@4.5.0?classifier=sources
+- pkg:maven/com.gitee.pichs/filepicker@4.6.0?classifier=sources
+- pkg:maven/com.gitee.pichs/filepicker@4.6.1?classifier=sources
+- pkg:maven/com.gitee.pichs/filepicker@5.6.2?classifier=sources
+- pkg:maven/com.gitee.pichs/filepicker@5.6.3?classifier=sources
+- pkg:maven/com.gitee.pichs/filepicker@5.7.0?classifier=sources
+- pkg:maven/com.gitee.pichs/filepicker@5.8.0?classifier=sources
+- pkg:maven/com.gitee.pichs/filepicker@5.9.0?classifier=sources

@@ -64,3 +64,4 @@
 - pkg:maven/io.github.linpeilie/mapstruct-plus@1.4.6?classifier=sources
 - pkg:maven/io.github.linpeilie/mapstruct-plus@1.4.8
 - pkg:maven/io.github.linpeilie/mapstruct-plus@1.4.8?classifier=sources
+- pkg:maven/io.github.linpeilie/mapstruct-plus@1.5.0?classifier=sources

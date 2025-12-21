@@ -114,6 +114,7 @@
 - pkg:maven/io.apicurio/apicurio-registry-client@2.6.1.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-client@2.6.11.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-client@2.6.12.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-client@2.6.13.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-client@2.6.2.Final
 - pkg:maven/io.apicurio/apicurio-registry-client@2.6.2.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-client@2.6.3.Final

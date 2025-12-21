@@ -62,6 +62,9 @@
 - pkg:maven/com.ritense.valtimo/document-generation@12.7.3.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/document-generation@12.8.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/document-generation@12.9.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/document-generation@13.0.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/document-generation@13.0.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/document-generation@13.0.2.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/document-generation@9.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/document-generation@9.10.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/document-generation@9.11.0.RELEASE?classifier=sources

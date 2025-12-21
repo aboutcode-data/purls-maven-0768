@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-integration-test-embed-bge-small-en-v15-and-ollama@1.1.0.CR2?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-integration-test-embed-bge-small-en-v15-and-ollama@1.1.0?classifier=sources

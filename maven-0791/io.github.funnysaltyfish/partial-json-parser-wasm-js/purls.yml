@@ -1,0 +1,2 @@
+- pkg:maven/io.github.funnysaltyfish/partial-json-parser-wasm-js@1.0.3?classifier=sources
+- pkg:maven/io.github.funnysaltyfish/partial-json-parser-wasm-js@unspecified?classifier=sources

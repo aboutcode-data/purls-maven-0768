@@ -1,0 +1,2 @@
+- pkg:maven/com.davidrandoll/automation-engine-spring-starter@0.0.1-beta?classifier=sources
+- pkg:maven/com.davidrandoll/automation-engine-spring-starter@1.0.0?classifier=sources

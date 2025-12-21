@@ -1,2 +1,3 @@
 - pkg:maven/org.verapdf/pdf-model-arlington@1.26.9
 - pkg:maven/org.verapdf/pdf-model-arlington@1.26.9?classifier=sources
+- pkg:maven/org.verapdf/pdf-model-arlington@1.28.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/xyz.block.trailblaze/trailblaze-yaml@0.0.1?classifier=sources
+- pkg:maven/xyz.block.trailblaze/trailblaze-yaml@0.0.2?classifier=sources

@@ -1,3 +1,6 @@
 - pkg:maven/io.availe/codegen-runtime@1.0.0?classifier=sources
 - pkg:maven/io.availe/codegen-runtime@2.0.0?classifier=sources
 - pkg:maven/io.availe/codegen-runtime@3.0.0?classifier=sources
+- pkg:maven/io.availe/codegen-runtime@3.1.0?classifier=sources
+- pkg:maven/io.availe/codegen-runtime@4.0.0?classifier=sources
+- pkg:maven/io.availe/codegen-runtime@5.0.0?classifier=sources

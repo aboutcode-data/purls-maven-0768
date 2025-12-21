@@ -6,3 +6,4 @@
 - pkg:maven/org.springframework.security.kerberos/spring-security-kerberos-core@2.0.1?classifier=sources
 - pkg:maven/org.springframework.security.kerberos/spring-security-kerberos-core@2.1.0?classifier=sources
 - pkg:maven/org.springframework.security.kerberos/spring-security-kerberos-core@2.1.1?classifier=sources
+- pkg:maven/org.springframework.security.kerberos/spring-security-kerberos-core@2.2.0?classifier=sources

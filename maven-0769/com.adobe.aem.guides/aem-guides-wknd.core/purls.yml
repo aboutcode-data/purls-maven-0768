@@ -26,3 +26,5 @@
 - pkg:maven/com.adobe.aem.guides/aem-guides-wknd.core@3.2.0?classifier=sources
 - pkg:maven/com.adobe.aem.guides/aem-guides-wknd.core@4.0.2
 - pkg:maven/com.adobe.aem.guides/aem-guides-wknd.core@4.0.2?classifier=sources
+- pkg:maven/com.adobe.aem.guides/aem-guides-wknd.core@4.0.4
+- pkg:maven/com.adobe.aem.guides/aem-guides-wknd.core@4.0.4?classifier=sources

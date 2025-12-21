@@ -1,0 +1,6 @@
+- pkg:maven/io.github.unkarjedy/sbt-declarative-visualizer_2.12_1.0@0.0.23
+- pkg:maven/io.github.unkarjedy/sbt-declarative-visualizer_2.12_1.0@0.0.23?classifier=sources
+- pkg:maven/io.github.unkarjedy/sbt-declarative-visualizer_2.12_1.0@0.0.24
+- pkg:maven/io.github.unkarjedy/sbt-declarative-visualizer_2.12_1.0@0.0.24?classifier=sources
+- pkg:maven/io.github.unkarjedy/sbt-declarative-visualizer_2.12_1.0@0.0.6
+- pkg:maven/io.github.unkarjedy/sbt-declarative-visualizer_2.12_1.0@0.0.6?classifier=sources

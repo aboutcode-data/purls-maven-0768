@@ -28,3 +28,4 @@
 - pkg:maven/org.mybatis.spring.boot/mybatis-spring-boot-sample-xml@2.0.0?classifier=sources
 - pkg:maven/org.mybatis.spring.boot/mybatis-spring-boot-sample-xml@2.0.1
 - pkg:maven/org.mybatis.spring.boot/mybatis-spring-boot-sample-xml@2.0.1?classifier=sources
+- pkg:maven/org.mybatis.spring.boot/mybatis-spring-boot-sample-xml@3.0.5?classifier=sources

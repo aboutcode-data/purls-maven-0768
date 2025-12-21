@@ -1,2 +1,4 @@
 - pkg:maven/dev.inmo/micro_utils.ksp.variations.generator.test-jvm@0.25.7?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.ksp.variations.generator.test-jvm@0.25.8?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.ksp.variations.generator.test-jvm@0.26.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.ksp.variations.generator.test-jvm@0.26.1?classifier=sources

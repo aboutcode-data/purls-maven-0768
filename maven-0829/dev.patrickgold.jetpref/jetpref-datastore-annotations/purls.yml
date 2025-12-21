@@ -8,3 +8,5 @@
 - pkg:maven/dev.patrickgold.jetpref/jetpref-datastore-annotations@0.2.0-rc01?classifier=sources
 - pkg:maven/dev.patrickgold.jetpref/jetpref-datastore-annotations@0.2.0-rc02?classifier=sources
 - pkg:maven/dev.patrickgold.jetpref/jetpref-datastore-annotations@0.2.0-rc03?classifier=sources
+- pkg:maven/dev.patrickgold.jetpref/jetpref-datastore-annotations@0.2.0-rc04?classifier=sources
+- pkg:maven/dev.patrickgold.jetpref/jetpref-datastore-annotations@0.2.0?classifier=sources

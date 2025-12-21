@@ -1,0 +1,2 @@
+- pkg:maven/org.kie/kie-addons-quarkus-process-dynamic-deployment@10.1.0
+- pkg:maven/org.kie/kie-addons-quarkus-process-dynamic-deployment@10.1.0?classifier=sources

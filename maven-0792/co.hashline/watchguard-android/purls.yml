@@ -1,0 +1,2 @@
+- pkg:maven/co.hashline/watchguard-android@0.0.3?classifier=sources
+- pkg:maven/co.hashline/watchguard-android@unspecified?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.tileverse.rangereader/tileverse-rangereader-s3@1.0-M0?classifier=sources
+- pkg:maven/io.tileverse.rangereader/tileverse-rangereader-s3@1.0-M1?classifier=sources

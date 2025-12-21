@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm/npm-package-arg@12.0.2?classifier=sources
+- pkg:maven/org.mvnpm/npm-package-arg@13.0.0
+- pkg:maven/org.mvnpm/npm-package-arg@13.0.0?classifier=sources

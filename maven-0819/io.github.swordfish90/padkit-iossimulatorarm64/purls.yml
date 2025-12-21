@@ -1,0 +1,2 @@
+- pkg:maven/io.github.swordfish90/padkit-iossimulatorarm64@1.0.0-alpha1?classifier=sources
+- pkg:maven/io.github.swordfish90/padkit-iossimulatorarm64@1.0.0-beta1?classifier=sources

@@ -544,6 +544,8 @@
 - pkg:maven/org.neo4j/neo4j-cypher-compatibility-spec-suite@5.26.7?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-compatibility-spec-suite@5.26.8
 - pkg:maven/org.neo4j/neo4j-cypher-compatibility-spec-suite@5.26.8?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-compatibility-spec-suite@5.26.9
+- pkg:maven/org.neo4j/neo4j-cypher-compatibility-spec-suite@5.26.9?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-compatibility-spec-suite@5.3.0
 - pkg:maven/org.neo4j/neo4j-cypher-compatibility-spec-suite@5.3.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-compatibility-spec-suite@5.4.0

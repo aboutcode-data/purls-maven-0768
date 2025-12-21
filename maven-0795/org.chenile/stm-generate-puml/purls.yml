@@ -8,3 +8,7 @@
 - pkg:maven/org.chenile/stm-generate-puml@2.0.21?classifier=sources
 - pkg:maven/org.chenile/stm-generate-puml@2.0.22?classifier=sources
 - pkg:maven/org.chenile/stm-generate-puml@2.0.25?classifier=sources
+- pkg:maven/org.chenile/stm-generate-puml@2.0.31?classifier=sources
+- pkg:maven/org.chenile/stm-generate-puml@2.0.32?classifier=sources
+- pkg:maven/org.chenile/stm-generate-puml@2.0.34?classifier=sources
+- pkg:maven/org.chenile/stm-generate-puml@2.0.35?classifier=sources

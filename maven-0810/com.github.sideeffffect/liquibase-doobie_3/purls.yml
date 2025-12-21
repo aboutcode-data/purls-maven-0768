@@ -8,3 +8,7 @@
 - pkg:maven/com.github.sideeffffect/liquibase-doobie_3@3.1.0?classifier=sources
 - pkg:maven/com.github.sideeffffect/liquibase-doobie_3@3.2.0
 - pkg:maven/com.github.sideeffffect/liquibase-doobie_3@3.2.0?classifier=sources
+- pkg:maven/com.github.sideeffffect/liquibase-doobie_3@4.1.0
+- pkg:maven/com.github.sideeffffect/liquibase-doobie_3@4.1.0?classifier=sources
+- pkg:maven/com.github.sideeffffect/liquibase-doobie_3@5.0.0
+- pkg:maven/com.github.sideeffffect/liquibase-doobie_3@5.0.0?classifier=sources

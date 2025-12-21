@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm.at.sigstore/tuf@3.1.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sigstore/tuf@3.1.1
 - pkg:maven/org.mvnpm.at.sigstore/tuf@3.1.1?classifier=sources
+- pkg:maven/org.mvnpm.at.sigstore/tuf@4.0.0
+- pkg:maven/org.mvnpm.at.sigstore/tuf@4.0.0?classifier=sources

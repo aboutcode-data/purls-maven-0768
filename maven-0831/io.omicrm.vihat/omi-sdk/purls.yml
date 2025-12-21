@@ -7,3 +7,4 @@
 - pkg:maven/io.omicrm.vihat/omi-sdk@2.3.53?classifier=sources
 - pkg:maven/io.omicrm.vihat/omi-sdk@2.3.54?classifier=sources
 - pkg:maven/io.omicrm.vihat/omi-sdk@2.3.55?classifier=sources
+- pkg:maven/io.omicrm.vihat/omi-sdk@2.3.74?classifier=sources

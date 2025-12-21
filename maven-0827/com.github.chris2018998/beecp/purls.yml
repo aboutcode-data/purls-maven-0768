@@ -142,3 +142,4 @@
 - pkg:maven/com.github.chris2018998/beecp@4.1.9?classifier=sources
 - pkg:maven/com.github.chris2018998/beecp@4.2.0
 - pkg:maven/com.github.chris2018998/beecp@4.2.0?classifier=sources
+- pkg:maven/com.github.chris2018998/beecp@5.0.0?classifier=sources

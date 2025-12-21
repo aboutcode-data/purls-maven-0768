@@ -1,0 +1,2 @@
+- pkg:maven/net.tlabs-data/tablesaw_0.44.4-parquet@0.13.0
+- pkg:maven/net.tlabs-data/tablesaw_0.44.4-parquet@0.13.0?classifier=sources

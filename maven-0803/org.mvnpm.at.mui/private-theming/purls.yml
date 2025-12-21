@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm.at.mui/private-theming@5.15.14?classifier=sources
+- pkg:maven/org.mvnpm.at.mui/private-theming@5.17.1
+- pkg:maven/org.mvnpm.at.mui/private-theming@5.17.1?classifier=sources
 - pkg:maven/org.mvnpm.at.mui/private-theming@6.4.9
 - pkg:maven/org.mvnpm.at.mui/private-theming@6.4.9?classifier=sources

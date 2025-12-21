@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/typeface-titillium-web@0.0.72
 - pkg:maven/org.webjars.npm/typeface-titillium-web@0.0.72?classifier=sources
+- pkg:maven/org.webjars.npm/typeface-titillium-web@1.1.13

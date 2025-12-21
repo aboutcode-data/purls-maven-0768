@@ -19,6 +19,8 @@
 - pkg:maven/ai.superstream/superstream-clients@1.0.204?classifier=sources
 - pkg:maven/ai.superstream/superstream-clients@1.0.205?classifier=sources
 - pkg:maven/ai.superstream/superstream-clients@1.0.206?classifier=sources
+- pkg:maven/ai.superstream/superstream-clients@1.0.207?classifier=sources
+- pkg:maven/ai.superstream/superstream-clients@1.0.208?classifier=sources
 - pkg:maven/ai.superstream/superstream-clients@1.0.2?classifier=sources
 - pkg:maven/ai.superstream/superstream-clients@1.0.3?classifier=sources
 - pkg:maven/ai.superstream/superstream-clients@1.0.4?classifier=sources

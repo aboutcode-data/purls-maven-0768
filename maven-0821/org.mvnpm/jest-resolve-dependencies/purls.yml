@@ -11,3 +11,5 @@
 - pkg:maven/org.mvnpm/jest-resolve-dependencies@30.0.3
 - pkg:maven/org.mvnpm/jest-resolve-dependencies@30.0.3?classifier=sources
 - pkg:maven/org.mvnpm/jest-resolve-dependencies@30.0.4?classifier=sources
+- pkg:maven/org.mvnpm/jest-resolve-dependencies@30.0.5
+- pkg:maven/org.mvnpm/jest-resolve-dependencies@30.0.5?classifier=sources

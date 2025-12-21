@@ -50,3 +50,4 @@
 - pkg:maven/ch.rabanti/nanoxlsx4j@2.5.1?classifier=sources
 - pkg:maven/ch.rabanti/nanoxlsx4j@2.5.2
 - pkg:maven/ch.rabanti/nanoxlsx4j@2.5.2?classifier=sources
+- pkg:maven/ch.rabanti/nanoxlsx4j@2.5.3?classifier=sources

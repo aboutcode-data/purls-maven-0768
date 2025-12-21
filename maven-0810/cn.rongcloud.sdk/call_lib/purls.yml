@@ -99,6 +99,7 @@
 - pkg:maven/cn.rongcloud.sdk/call_lib@5.2.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/call_lib@5.20.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/call_lib@5.22.0?type=aar
+- pkg:maven/cn.rongcloud.sdk/call_lib@5.24.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/call_lib@5.3.4.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/call_lib@5.3.4?type=aar
 - pkg:maven/cn.rongcloud.sdk/call_lib@5.3.5.1?type=aar

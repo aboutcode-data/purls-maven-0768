@@ -1,3 +1,7 @@
+- pkg:maven/com.fastjrun.codeg/sdkg-helper@1.0.0-test?classifier=sources
+- pkg:maven/com.fastjrun.codeg/sdkg-helper@1.0.3-test?classifier=sources
+- pkg:maven/com.fastjrun.codeg/sdkg-helper@1.0.4-test?classifier=sources
+- pkg:maven/com.fastjrun.codeg/sdkg-helper@1.0.5-test?classifier=sources
 - pkg:maven/com.fastjrun.codeg/sdkg-helper@2.0
 - pkg:maven/com.fastjrun.codeg/sdkg-helper@2.0.1
 - pkg:maven/com.fastjrun.codeg/sdkg-helper@2.0.1?classifier=sources
@@ -62,4 +66,5 @@
 - pkg:maven/com.fastjrun.codeg/sdkg-helper@4.5?classifier=sources
 - pkg:maven/com.fastjrun.codeg/sdkg-helper@5.0.1?classifier=sources
 - pkg:maven/com.fastjrun.codeg/sdkg-helper@5.0.2?classifier=sources
+- pkg:maven/com.fastjrun.codeg/sdkg-helper@5.0.3?classifier=sources
 - pkg:maven/com.fastjrun.codeg/sdkg-helper@5.0?classifier=sources

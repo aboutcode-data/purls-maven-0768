@@ -61,6 +61,7 @@
 - pkg:maven/io.provenance/proto-java@1.8.1?classifier=sources
 - pkg:maven/io.provenance/proto-java@1.8.2?classifier=sources
 - pkg:maven/io.provenance/proto-java@1.9.0?classifier=sources
+- pkg:maven/io.provenance/proto-java@512a7ba?classifier=sources
 - pkg:maven/io.provenance/proto-java@HEAD-6ff7c15?classifier=sources
 - pkg:maven/io.provenance/proto-java@HEAD-8ba9174?classifier=sources
 - pkg:maven/io.provenance/proto-java@feature_562-protobuf-bindings-support-2c55e17?classifier=sources

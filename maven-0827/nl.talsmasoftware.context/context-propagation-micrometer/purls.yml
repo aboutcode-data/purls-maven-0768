@@ -8,3 +8,4 @@
 - pkg:maven/nl.talsmasoftware.context/context-propagation-micrometer@1.0.9?classifier=sources
 - pkg:maven/nl.talsmasoftware.context/context-propagation-micrometer@1.1.0
 - pkg:maven/nl.talsmasoftware.context/context-propagation-micrometer@1.1.0?classifier=sources
+- pkg:maven/nl.talsmasoftware.context/context-propagation-micrometer@1.1.1?classifier=sources

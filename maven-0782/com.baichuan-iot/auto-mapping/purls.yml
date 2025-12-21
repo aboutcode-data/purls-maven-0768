@@ -1,0 +1,3 @@
+- pkg:maven/com.baichuan-iot/auto-mapping@0.1.0?classifier=sources
+- pkg:maven/com.baichuan-iot/auto-mapping@1.0.0
+- pkg:maven/com.baichuan-iot/auto-mapping@1.0.0?classifier=sources

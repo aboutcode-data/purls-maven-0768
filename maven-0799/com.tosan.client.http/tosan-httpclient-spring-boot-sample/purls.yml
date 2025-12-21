@@ -70,3 +70,5 @@
 - pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-sample@3.3.3?classifier=sources
 - pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-sample@3.4.0
 - pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-sample@3.4.0?classifier=sources
+- pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-sample@3.5.3?classifier=sources
+- pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-sample@3.5.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.openai/openai-java-spring-boot-starter@2.18.0?classifier=sources
+- pkg:maven/com.openai/openai-java-spring-boot-starter@2.18.1?classifier=sources
+- pkg:maven/com.openai/openai-java-spring-boot-starter@2.18.2?classifier=sources
+- pkg:maven/com.openai/openai-java-spring-boot-starter@2.19.0?classifier=sources
+- pkg:maven/com.openai/openai-java-spring-boot-starter@2.19.1?classifier=sources
+- pkg:maven/com.openai/openai-java-spring-boot-starter@2.19.2?classifier=sources

@@ -181,6 +181,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.api@17.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@17.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@17.2.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.api@18.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.portal.search.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.api@2.0.0?classifier=sources-commercial

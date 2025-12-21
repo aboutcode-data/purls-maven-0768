@@ -1,1 +1,2 @@
 - pkg:maven/com.republicate.kson/essential-kson-macosarm64@2.6?classifier=sources
+- pkg:maven/com.republicate.kson/essential-kson-macosarm64@2.7?classifier=sources

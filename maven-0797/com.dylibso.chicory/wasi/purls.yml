@@ -35,3 +35,5 @@
 - pkg:maven/com.dylibso.chicory/wasi@1.4.0
 - pkg:maven/com.dylibso.chicory/wasi@1.4.0?classifier=sources
 - pkg:maven/com.dylibso.chicory/wasi@1.4.1?classifier=sources
+- pkg:maven/com.dylibso.chicory/wasi@1.5.0?classifier=sources
+- pkg:maven/com.dylibso.chicory/wasi@1.5.1?classifier=sources

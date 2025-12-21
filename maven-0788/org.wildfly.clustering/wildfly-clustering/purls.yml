@@ -68,3 +68,4 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering@7.0.6.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering/wildfly-clustering@7.0.7.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering/wildfly-clustering@7.0.8.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering@7.0.9.CR7?classifier=source-release&type=zip

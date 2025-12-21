@@ -8,6 +8,8 @@
 - pkg:maven/net.sc8s/schevo-circe-example-akka_2.13@0.103.0?classifier=sources
 - pkg:maven/net.sc8s/schevo-circe-example-akka_2.13@0.104.0
 - pkg:maven/net.sc8s/schevo-circe-example-akka_2.13@0.104.0?classifier=sources
+- pkg:maven/net.sc8s/schevo-circe-example-akka_2.13@0.105.0
+- pkg:maven/net.sc8s/schevo-circe-example-akka_2.13@0.105.0?classifier=sources
 - pkg:maven/net.sc8s/schevo-circe-example-akka_2.13@0.30.0
 - pkg:maven/net.sc8s/schevo-circe-example-akka_2.13@0.30.0?classifier=sources
 - pkg:maven/net.sc8s/schevo-circe-example-akka_2.13@0.31.0

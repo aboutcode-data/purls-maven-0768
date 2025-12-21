@@ -14,3 +14,4 @@
 - pkg:maven/org.tweetyproject.lp.asp/beliefdynamics@1.25?classifier=sources
 - pkg:maven/org.tweetyproject.lp.asp/beliefdynamics@1.27
 - pkg:maven/org.tweetyproject.lp.asp/beliefdynamics@1.27?classifier=sources
+- pkg:maven/org.tweetyproject.lp.asp/beliefdynamics@1.29?classifier=sources

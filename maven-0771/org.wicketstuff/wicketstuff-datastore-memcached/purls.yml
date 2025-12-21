@@ -16,6 +16,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@10.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@10.5.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@10.5.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@10.6.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@6.13.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@6.13.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-memcached@6.14.0

@@ -20,3 +20,4 @@
 - pkg:maven/io.github.osobolev.app-delivery/server-http@8.2?classifier=sources
 - pkg:maven/io.github.osobolev.app-delivery/server-http@8.3?classifier=sources
 - pkg:maven/io.github.osobolev.app-delivery/server-http@8.4?classifier=sources
+- pkg:maven/io.github.osobolev.app-delivery/server-http@8.5?classifier=sources

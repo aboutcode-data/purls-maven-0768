@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/zod-to-json-schema@3.24.6
+- pkg:maven/org.mvnpm/zod-to-json-schema@3.24.6?classifier=sources

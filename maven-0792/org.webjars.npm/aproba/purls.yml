@@ -12,3 +12,4 @@
 - pkg:maven/org.webjars.npm/aproba@1.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/aproba@2.0.0
 - pkg:maven/org.webjars.npm/aproba@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/aproba@2.1.0

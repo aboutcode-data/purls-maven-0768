@@ -1,0 +1,2 @@
+- pkg:maven/ru.bartwell.kick/main-runtime-stub-android@1.0.0?classifier=sources
+- pkg:maven/ru.bartwell.kick/main-runtime-stub-android@1.1.0?classifier=sources

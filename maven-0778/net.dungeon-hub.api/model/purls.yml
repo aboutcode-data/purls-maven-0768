@@ -17,6 +17,8 @@
 - pkg:maven/net.dungeon-hub.api/model@0.5.1
 - pkg:maven/net.dungeon-hub.api/model@0.5.10
 - pkg:maven/net.dungeon-hub.api/model@0.5.10?classifier=sources
+- pkg:maven/net.dungeon-hub.api/model@0.5.11
+- pkg:maven/net.dungeon-hub.api/model@0.5.11?classifier=sources
 - pkg:maven/net.dungeon-hub.api/model@0.5.1?classifier=sources
 - pkg:maven/net.dungeon-hub.api/model@0.5.2
 - pkg:maven/net.dungeon-hub.api/model@0.5.2?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.github.tatsunidas/radiomicsj@2.1.4b?classifier=sources
 - pkg:maven/io.github.tatsunidas/radiomicsj@2.1.5?classifier=sources
 - pkg:maven/io.github.tatsunidas/radiomicsj@2.1.6?classifier=sources
+- pkg:maven/io.github.tatsunidas/radiomicsj@2.1.7?classifier=sources
+- pkg:maven/io.github.tatsunidas/radiomicsj@2.1.8?classifier=sources

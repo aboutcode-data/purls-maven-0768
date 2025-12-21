@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm.at.kie-tools/dashbuilder-client@0.30.0?classifier=sources
 - pkg:maven/org.mvnpm.at.kie-tools/dashbuilder-client@0.32.0?classifier=sources
 - pkg:maven/org.mvnpm.at.kie-tools/dashbuilder-client@10.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.kie-tools/dashbuilder-client@10.1.0
+- pkg:maven/org.mvnpm.at.kie-tools/dashbuilder-client@10.1.0?classifier=sources

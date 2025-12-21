@@ -1,3 +1,5 @@
 - pkg:maven/cn.sticki/spel-validator-test@0.4.0-beta?classifier=sources
 - pkg:maven/cn.sticki/spel-validator-test@0.4.1-beta?classifier=sources
 - pkg:maven/cn.sticki/spel-validator-test@0.5.0-beta?classifier=sources
+- pkg:maven/cn.sticki/spel-validator-test@0.5.1-beta?classifier=sources
+- pkg:maven/cn.sticki/spel-validator-test@0.5.2-beta?classifier=sources

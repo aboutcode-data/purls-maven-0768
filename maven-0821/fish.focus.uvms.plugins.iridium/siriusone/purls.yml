@@ -4,3 +4,4 @@
 - pkg:maven/fish.focus.uvms.plugins.iridium/siriusone@3.0.15?type=war
 - pkg:maven/fish.focus.uvms.plugins.iridium/siriusone@3.0.17?classifier=sources
 - pkg:maven/fish.focus.uvms.plugins.iridium/siriusone@3.0.17?type=war
+- pkg:maven/fish.focus.uvms.plugins.iridium/siriusone@3.1.0?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/xyz.thespud/spuds-ski-map@2025.06.01?classifier=sources
 - pkg:maven/xyz.thespud/spuds-ski-map@2025.06.08?classifier=sources
 - pkg:maven/xyz.thespud/spuds-ski-map@2025.06.13?classifier=sources
+- pkg:maven/xyz.thespud/spuds-ski-map@2025.07.05?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/com.mi.ads/columbus-sdk@3.5.1.5?type=aar
 - pkg:maven/com.mi.ads/columbus-sdk@3.5.1.9?type=aar
 - pkg:maven/com.mi.ads/columbus-sdk@3.6.0.4?type=aar
+- pkg:maven/com.mi.ads/columbus-sdk@3.7.0.2?type=aar

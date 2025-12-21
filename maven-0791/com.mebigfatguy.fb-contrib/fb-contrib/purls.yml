@@ -109,6 +109,8 @@
 - pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.6.0?classifier=sources
 - pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.6.10?classifier=sources
 - pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.6.11?classifier=sources
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.6.12
+- pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.6.12?classifier=sources
 - pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.6.1?classifier=sources
 - pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.6.2?classifier=sources
 - pkg:maven/com.mebigfatguy.fb-contrib/fb-contrib@7.6.3?classifier=sources

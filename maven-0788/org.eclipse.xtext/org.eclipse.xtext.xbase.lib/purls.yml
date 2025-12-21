@@ -199,6 +199,7 @@
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xbase.lib@2.4.3
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xbase.lib@2.4.3?classifier=sources
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xbase.lib@2.40.0.M0?classifier=sources
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xbase.lib@2.40.0.M2?classifier=sources
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xbase.lib@2.5.0
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xbase.lib@2.5.0?classifier=sources
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xbase.lib@2.5.1

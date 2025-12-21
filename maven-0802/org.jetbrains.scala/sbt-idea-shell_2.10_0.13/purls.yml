@@ -1,2 +1,4 @@
 - pkg:maven/org.jetbrains.scala/sbt-idea-shell_2.10_0.13@2025.1.4
 - pkg:maven/org.jetbrains.scala/sbt-idea-shell_2.10_0.13@2025.1.4?classifier=sources
+- pkg:maven/org.jetbrains.scala/sbt-idea-shell_2.10_0.13@2025.1.5
+- pkg:maven/org.jetbrains.scala/sbt-idea-shell_2.10_0.13@2025.1.5?classifier=sources

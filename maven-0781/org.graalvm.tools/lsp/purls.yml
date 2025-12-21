@@ -67,6 +67,8 @@
 - pkg:maven/org.graalvm.tools/lsp@21.3.13?classifier=sources
 - pkg:maven/org.graalvm.tools/lsp@21.3.14
 - pkg:maven/org.graalvm.tools/lsp@21.3.14?classifier=sources
+- pkg:maven/org.graalvm.tools/lsp@21.3.15
+- pkg:maven/org.graalvm.tools/lsp@21.3.15?classifier=sources
 - pkg:maven/org.graalvm.tools/lsp@21.3.1?classifier=sources
 - pkg:maven/org.graalvm.tools/lsp@21.3.2
 - pkg:maven/org.graalvm.tools/lsp@21.3.2.1
@@ -130,3 +132,5 @@
 - pkg:maven/org.graalvm.tools/lsp@23.0.7?classifier=sources
 - pkg:maven/org.graalvm.tools/lsp@23.0.8
 - pkg:maven/org.graalvm.tools/lsp@23.0.8?classifier=sources
+- pkg:maven/org.graalvm.tools/lsp@23.0.9
+- pkg:maven/org.graalvm.tools/lsp@23.0.9?classifier=sources

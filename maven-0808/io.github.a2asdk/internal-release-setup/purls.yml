@@ -1,0 +1,2 @@
+- pkg:maven/io.github.a2asdk/internal-release-setup@0.0.3?classifier=sources
+- pkg:maven/io.github.a2asdk/internal-release-setup@0.0.5.Beta1?classifier=sources
