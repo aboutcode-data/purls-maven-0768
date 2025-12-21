@@ -5,3 +5,5 @@
 - pkg:maven/io.github.1c-syntax/bsl-parser@0.26.0?classifier=sources
 - pkg:maven/io.github.1c-syntax/bsl-parser@0.26.1?classifier=sources
 - pkg:maven/io.github.1c-syntax/bsl-parser@0.26.2?classifier=sources
+- pkg:maven/io.github.1c-syntax/bsl-parser@0.27.0-aplha.1?classifier=sources
+- pkg:maven/io.github.1c-syntax/bsl-parser@0.27.0-rc.1?classifier=sources

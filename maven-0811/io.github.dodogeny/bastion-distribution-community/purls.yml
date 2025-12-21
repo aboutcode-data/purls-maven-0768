@@ -1,2 +1,4 @@
 - pkg:maven/io.github.dodogeny/bastion-distribution-community@1.0.0?classifier=src&type=tar.gz
 - pkg:maven/io.github.dodogeny/bastion-distribution-community@1.0.0?classifier=src&type=zip
+- pkg:maven/io.github.dodogeny/bastion-distribution-community@1.1.0?classifier=src&type=tar.gz
+- pkg:maven/io.github.dodogeny/bastion-distribution-community@1.1.0?classifier=src&type=zip

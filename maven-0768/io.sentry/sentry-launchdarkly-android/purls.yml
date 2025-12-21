@@ -1,0 +1,2 @@
+- pkg:maven/io.sentry/sentry-launchdarkly-android@8.27.0?classifier=sources
+- pkg:maven/io.sentry/sentry-launchdarkly-android@8.27.1?classifier=sources

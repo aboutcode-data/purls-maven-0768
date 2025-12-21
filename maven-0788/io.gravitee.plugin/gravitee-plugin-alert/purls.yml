@@ -112,6 +112,7 @@
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-alert@4.0.3?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-alert@4.1.0
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-alert@4.1.0?classifier=sources
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-alert@4.10.0?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-alert@4.2.0
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-alert@4.2.0?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-alert@4.2.1

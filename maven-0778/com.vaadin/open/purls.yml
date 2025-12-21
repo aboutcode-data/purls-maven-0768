@@ -15,4 +15,5 @@
 - pkg:maven/com.vaadin/open@8.5.0.3?classifier=sources
 - pkg:maven/com.vaadin/open@8.5.0.4
 - pkg:maven/com.vaadin/open@8.5.0.4?classifier=sources
+- pkg:maven/com.vaadin/open@8.5.0.5?classifier=sources
 - pkg:maven/com.vaadin/open@8.5.0?classifier=sources

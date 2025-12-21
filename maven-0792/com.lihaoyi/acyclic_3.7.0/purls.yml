@@ -1,2 +1,4 @@
 - pkg:maven/com.lihaoyi/acyclic_3.7.0@0.3.19
 - pkg:maven/com.lihaoyi/acyclic_3.7.0@0.3.19?classifier=sources
+- pkg:maven/com.lihaoyi/acyclic_3.7.0@0.3.20
+- pkg:maven/com.lihaoyi/acyclic_3.7.0@0.3.20?classifier=sources

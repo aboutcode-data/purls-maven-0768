@@ -147,3 +147,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient3@6.9.2?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient3@7.0.0-RC1?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient3@7.0.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient3@7.1.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient3@7.2.0?classifier=sources

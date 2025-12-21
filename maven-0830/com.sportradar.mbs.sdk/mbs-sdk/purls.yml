@@ -1,5 +1,6 @@
 - pkg:maven/com.sportradar.mbs.sdk/mbs-sdk@0.9
 - pkg:maven/com.sportradar.mbs.sdk/mbs-sdk@0.9.1
+- pkg:maven/com.sportradar.mbs.sdk/mbs-sdk@0.9.10?classifier=sources
 - pkg:maven/com.sportradar.mbs.sdk/mbs-sdk@0.9.1?classifier=sources
 - pkg:maven/com.sportradar.mbs.sdk/mbs-sdk@0.9.2
 - pkg:maven/com.sportradar.mbs.sdk/mbs-sdk@0.9.2?classifier=sources

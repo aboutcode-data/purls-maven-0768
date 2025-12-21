@@ -1,1 +1,11 @@
 - pkg:maven/io.github.bzkf/obds-to-fhir@3.0.0-beta.134?classifier=sources
+- pkg:maven/io.github.bzkf/obds-to-fhir@3.0.0-beta.135?classifier=sources
+- pkg:maven/io.github.bzkf/obds-to-fhir@3.0.0-beta.136?classifier=sources
+- pkg:maven/io.github.bzkf/obds-to-fhir@3.0.0-beta.137?classifier=sources
+- pkg:maven/io.github.bzkf/obds-to-fhir@3.0.0-beta.138?classifier=sources
+- pkg:maven/io.github.bzkf/obds-to-fhir@3.0.0-beta.139?classifier=sources
+- pkg:maven/io.github.bzkf/obds-to-fhir@3.0.0-beta.140?classifier=sources
+- pkg:maven/io.github.bzkf/obds-to-fhir@3.0.0-beta.141?classifier=sources
+- pkg:maven/io.github.bzkf/obds-to-fhir@3.0.0-beta.142?classifier=sources
+- pkg:maven/io.github.bzkf/obds-to-fhir@3.0.0-beta.143?classifier=sources
+- pkg:maven/io.github.bzkf/obds-to-fhir@3.0.0-beta.144?classifier=sources

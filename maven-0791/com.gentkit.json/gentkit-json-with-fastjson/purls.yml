@@ -1,0 +1,2 @@
+- pkg:maven/com.gentkit.json/gentkit-json-with-fastjson@1.0.3-jdk8?classifier=sources
+- pkg:maven/com.gentkit.json/gentkit-json-with-fastjson@1.0.4-jdk17?classifier=sources

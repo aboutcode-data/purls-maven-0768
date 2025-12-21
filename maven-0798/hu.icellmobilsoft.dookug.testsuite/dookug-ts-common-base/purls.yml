@@ -6,3 +6,4 @@
 - pkg:maven/hu.icellmobilsoft.dookug.testsuite/dookug-ts-common-base@1.2.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.dookug.testsuite/dookug-ts-common-base@2.0.0
 - pkg:maven/hu.icellmobilsoft.dookug.testsuite/dookug-ts-common-base@2.0.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.dookug.testsuite/dookug-ts-common-base@2.1.0?classifier=sources

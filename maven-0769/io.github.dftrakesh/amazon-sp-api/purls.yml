@@ -152,6 +152,7 @@
 - pkg:maven/io.github.dftrakesh/amazon-sp-api@2.1.42?classifier=sources
 - pkg:maven/io.github.dftrakesh/amazon-sp-api@2.1.43?classifier=sources
 - pkg:maven/io.github.dftrakesh/amazon-sp-api@2.1.44?classifier=sources
+- pkg:maven/io.github.dftrakesh/amazon-sp-api@2.1.45?classifier=sources
 - pkg:maven/io.github.dftrakesh/amazon-sp-api@2.1.4?classifier=sources
 - pkg:maven/io.github.dftrakesh/amazon-sp-api@2.1.5
 - pkg:maven/io.github.dftrakesh/amazon-sp-api@2.1.5?classifier=sources

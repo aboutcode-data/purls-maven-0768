@@ -345,4 +345,6 @@
 - pkg:maven/com.hazelcast/hazelcast-build-utils@5.5.0
 - pkg:maven/com.hazelcast/hazelcast-build-utils@5.5.0?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-build-utils@5.6.0
+- pkg:maven/com.hazelcast/hazelcast-build-utils@5.6.0-BETA-1
+- pkg:maven/com.hazelcast/hazelcast-build-utils@5.6.0-BETA-1?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-build-utils@5.6.0?classifier=sources

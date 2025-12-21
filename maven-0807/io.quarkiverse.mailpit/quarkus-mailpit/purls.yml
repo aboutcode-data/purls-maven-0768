@@ -38,3 +38,4 @@
 - pkg:maven/io.quarkiverse.mailpit/quarkus-mailpit@1.6.2?classifier=sources
 - pkg:maven/io.quarkiverse.mailpit/quarkus-mailpit@1.6.4?classifier=sources
 - pkg:maven/io.quarkiverse.mailpit/quarkus-mailpit@1.7.0?classifier=sources
+- pkg:maven/io.quarkiverse.mailpit/quarkus-mailpit@1.8.0?classifier=sources

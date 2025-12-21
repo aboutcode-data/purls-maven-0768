@@ -1,1 +1,2 @@
 - pkg:maven/io.github.qhsword.agileway.audit.entityloader/agileway-audit-entityloader-mybatis@5.3.3?classifier=sources
+- pkg:maven/io.github.qhsword.agileway.audit.entityloader/agileway-audit-entityloader-mybatis@5.3.4?classifier=sources

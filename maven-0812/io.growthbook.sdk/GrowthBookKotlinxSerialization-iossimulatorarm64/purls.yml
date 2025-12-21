@@ -1,1 +1,2 @@
+- pkg:maven/io.growthbook.sdk/GrowthBookKotlinxSerialization-iossimulatorarm64@1.0.0-k1x?classifier=sources
 - pkg:maven/io.growthbook.sdk/GrowthBookKotlinxSerialization-iossimulatorarm64@1.0.0?classifier=sources

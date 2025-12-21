@@ -1,0 +1,2 @@
+- pkg:maven/com.lihaoyi/mill-runner-autooverride-plugin_3.7.4@1.1.0-RC2-34-12421d
+- pkg:maven/com.lihaoyi/mill-runner-autooverride-plugin_3.7.4@1.1.0-RC2-34-12421d?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wldt/wldt-coap-physical-adapter@0.1.1-alpha-23112025?classifier=sources
+- pkg:maven/io.github.wldt/wldt-coap-physical-adapter@0.1.1?classifier=sources

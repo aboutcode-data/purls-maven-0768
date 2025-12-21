@@ -1,3 +1,4 @@
+- pkg:maven/com.ditto/ditto-kotlin-iossimulatorarm64@5.0.0-dev-weekly.20251201.125?classifier=sources
 - pkg:maven/com.ditto/ditto-kotlin-iossimulatorarm64@5.0.0-experimental-kmp-publishing.22?classifier=sources
 - pkg:maven/com.ditto/ditto-kotlin-iossimulatorarm64@5.0.0-experimental-kmp-publishing.7?classifier=sources
 - pkg:maven/com.ditto/ditto-kotlin-iossimulatorarm64@5.0.0-preview.1?classifier=sources

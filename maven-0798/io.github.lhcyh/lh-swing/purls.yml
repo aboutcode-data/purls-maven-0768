@@ -1,1 +1,2 @@
 - pkg:maven/io.github.lhcyh/lh-swing@1.0.0?classifier=sources
+- pkg:maven/io.github.lhcyh/lh-swing@1.0.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.n1netails/n1netails-kuda@0.2.0?classifier=sources
 - pkg:maven/com.n1netails/n1netails-kuda@0.3.0?classifier=sources
 - pkg:maven/com.n1netails/n1netails-kuda@0.3.1?classifier=sources
+- pkg:maven/com.n1netails/n1netails-kuda@0.3.2?classifier=sources
+- pkg:maven/com.n1netails/n1netails-kuda@0.3.3?classifier=sources

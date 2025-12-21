@@ -13,3 +13,4 @@
 - pkg:maven/eu.unicore.services/use-aip@5.4.0?classifier=sources
 - pkg:maven/eu.unicore.services/use-aip@5.5.0-rc?classifier=sources
 - pkg:maven/eu.unicore.services/use-aip@5.5.0?classifier=sources
+- pkg:maven/eu.unicore.services/use-aip@5.5.1?classifier=sources

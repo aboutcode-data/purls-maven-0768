@@ -4,3 +4,5 @@
 - pkg:maven/com.veeroute.lss.java/studio@7.23.2926?classifier=sources
 - pkg:maven/com.veeroute.lss.java/studio@7.24.2977?classifier=sources
 - pkg:maven/com.veeroute.lss.java/studio@7.24.2983?classifier=sources
+- pkg:maven/com.veeroute.lss.java/studio@7.25.3009?classifier=sources
+- pkg:maven/com.veeroute.lss.java/studio@7.26.3024?classifier=sources

@@ -17,6 +17,7 @@
 - pkg:maven/com.textmagic.sdk/textmagic-java-sdk@2.0.43691?classifier=sources
 - pkg:maven/com.textmagic.sdk/textmagic-java-sdk@2.0.43713?classifier=sources
 - pkg:maven/com.textmagic.sdk/textmagic-java-sdk@2.0.43753?classifier=sources
+- pkg:maven/com.textmagic.sdk/textmagic-java-sdk@2.0.43862?classifier=sources
 - pkg:maven/com.textmagic.sdk/textmagic-java-sdk@2.0.650
 - pkg:maven/com.textmagic.sdk/textmagic-java-sdk@2.0.650?classifier=sources
 - pkg:maven/com.textmagic.sdk/textmagic-java-sdk@2.0.663
@@ -34,3 +35,4 @@
 - pkg:maven/com.textmagic.sdk/textmagic-java-sdk@2.0.951?classifier=sources
 - pkg:maven/com.textmagic.sdk/textmagic-java-sdk@2.0.968
 - pkg:maven/com.textmagic.sdk/textmagic-java-sdk@2.0.968?classifier=sources
+- pkg:maven/com.textmagic.sdk/textmagic-java-sdk@3.0.43863?classifier=sources

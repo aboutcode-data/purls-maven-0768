@@ -11,6 +11,7 @@
 - pkg:maven/dev.bannmann.mandor/core@0.12?classifier=sources
 - pkg:maven/dev.bannmann.mandor/core@0.13?classifier=sources
 - pkg:maven/dev.bannmann.mandor/core@0.14?classifier=sources
+- pkg:maven/dev.bannmann.mandor/core@0.15?classifier=sources
 - pkg:maven/dev.bannmann.mandor/core@0.7?classifier=sources
 - pkg:maven/dev.bannmann.mandor/core@0.8?classifier=sources
 - pkg:maven/dev.bannmann.mandor/core@0.9?classifier=sources

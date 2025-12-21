@@ -1,0 +1,2 @@
+- pkg:maven/com.xtdb/xtdb-main@2.1.0-rc0?classifier=sources
+- pkg:maven/com.xtdb/xtdb-main@2.1.0?classifier=sources

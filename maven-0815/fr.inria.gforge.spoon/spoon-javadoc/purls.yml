@@ -97,6 +97,8 @@
 - pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.2.2-beta-11?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.2.2-beta-12?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.2.2-beta-13?classifier=sources
+- pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.2.2-beta-14?classifier=sources
+- pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.2.2-beta-15?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.2.2-beta-1?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.2.2-beta-2?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-javadoc@11.2.2-beta-3?classifier=sources

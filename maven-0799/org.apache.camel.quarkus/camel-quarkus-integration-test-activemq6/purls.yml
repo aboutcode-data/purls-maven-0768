@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-activemq6@3.30.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-activemq6@3.30.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.avsystem.scex/scex-core_2.13.18@1.141.0
+- pkg:maven/com.avsystem.scex/scex-core_2.13.18@1.141.0?classifier=sources

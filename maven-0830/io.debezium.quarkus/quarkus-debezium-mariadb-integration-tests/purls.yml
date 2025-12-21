@@ -1,1 +1,2 @@
 - pkg:maven/io.debezium.quarkus/quarkus-debezium-mariadb-integration-tests@3.4.0.Alpha2?classifier=sources
+- pkg:maven/io.debezium.quarkus/quarkus-debezium-mariadb-integration-tests@3.4.0.Beta1?classifier=sources

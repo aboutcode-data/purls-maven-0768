@@ -15,3 +15,4 @@
 - pkg:maven/io.hawt/hawtio-war-minimal@4.5.0?classifier=sources
 - pkg:maven/io.hawt/hawtio-war-minimal@4.6.0?classifier=sources
 - pkg:maven/io.hawt/hawtio-war-minimal@4.6.1?classifier=sources
+- pkg:maven/io.hawt/hawtio-war-minimal@4.6.2?classifier=sources

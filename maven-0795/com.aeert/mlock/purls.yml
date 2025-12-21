@@ -38,3 +38,4 @@
 - pkg:maven/com.aeert/mlock@2.8.0.RELEASE
 - pkg:maven/com.aeert/mlock@2.8.0.RELEASE?classifier=sources
 - pkg:maven/com.aeert/mlock@2.8.0?classifier=sources
+- pkg:maven/com.aeert/mlock@2.8.1.RELEASE?classifier=sources

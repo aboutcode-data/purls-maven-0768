@@ -246,3 +246,4 @@
 - pkg:maven/cn.herodotus.oss/rest-sdk-minio@3.5.6.3?classifier=sources
 - pkg:maven/cn.herodotus.oss/rest-sdk-minio@3.5.7.0?classifier=sources
 - pkg:maven/cn.herodotus.oss/rest-sdk-minio@3.5.7.1?classifier=sources
+- pkg:maven/cn.herodotus.oss/rest-sdk-minio@3.5.8.0?classifier=sources

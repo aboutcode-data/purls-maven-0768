@@ -1,0 +1,1 @@
+- pkg:maven/org.arquillian.testcontainers/arquillian-testcontainers@1.0.0.Beta1?classifier=sources

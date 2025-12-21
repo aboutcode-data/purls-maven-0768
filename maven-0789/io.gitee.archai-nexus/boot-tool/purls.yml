@@ -6,3 +6,4 @@
 - pkg:maven/io.gitee.archai-nexus/boot-tool@0.0.1-20251010.1-beta?classifier=sources
 - pkg:maven/io.gitee.archai-nexus/boot-tool@0.0.1-20251013-beta?classifier=sources
 - pkg:maven/io.gitee.archai-nexus/boot-tool@0.0.1-20251014-beta?classifier=sources
+- pkg:maven/io.gitee.archai-nexus/boot-tool@0.0.1-20251130-beta?classifier=sources

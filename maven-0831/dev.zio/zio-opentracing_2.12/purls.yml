@@ -103,6 +103,8 @@
 - pkg:maven/dev.zio/zio-opentracing_2.12@3.1.10?classifier=sources
 - pkg:maven/dev.zio/zio-opentracing_2.12@3.1.11
 - pkg:maven/dev.zio/zio-opentracing_2.12@3.1.11?classifier=sources
+- pkg:maven/dev.zio/zio-opentracing_2.12@3.1.12
+- pkg:maven/dev.zio/zio-opentracing_2.12@3.1.12?classifier=sources
 - pkg:maven/dev.zio/zio-opentracing_2.12@3.1.1?classifier=sources
 - pkg:maven/dev.zio/zio-opentracing_2.12@3.1.2
 - pkg:maven/dev.zio/zio-opentracing_2.12@3.1.2?classifier=sources
@@ -136,3 +138,5 @@
 - pkg:maven/dev.zio/zio-opentracing_2.12@4.0.0-RC7?classifier=sources
 - pkg:maven/dev.zio/zio-opentracing_2.12@4.0.0-RC8
 - pkg:maven/dev.zio/zio-opentracing_2.12@4.0.0-RC8?classifier=sources
+- pkg:maven/dev.zio/zio-opentracing_2.12@4.0.0-RC9
+- pkg:maven/dev.zio/zio-opentracing_2.12@4.0.0-RC9?classifier=sources

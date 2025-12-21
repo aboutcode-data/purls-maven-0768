@@ -49,6 +49,7 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-mtls@3.27.0?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-mtls@3.27.1?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-mtls@3.29.0?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-mtls@3.30.0?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-mtls@3.8.1
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-mtls@3.8.1?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-mtls@3.8.2

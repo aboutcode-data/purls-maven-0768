@@ -173,3 +173,4 @@
 - pkg:maven/org.axonframework/axon-server-connector@5.0.0-RC3?classifier=sources
 - pkg:maven/org.axonframework/axon-server-connector@5.0.0-preview?classifier=sources
 - pkg:maven/org.axonframework/axon-server-connector@5.0.0-rc2?classifier=sources
+- pkg:maven/org.axonframework/axon-server-connector@5.0.0?classifier=sources

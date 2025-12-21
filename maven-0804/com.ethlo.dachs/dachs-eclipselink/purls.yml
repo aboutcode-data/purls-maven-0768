@@ -16,3 +16,4 @@
 - pkg:maven/com.ethlo.dachs/dachs-eclipselink@1.0.0?classifier=sources
 - pkg:maven/com.ethlo.dachs/dachs-eclipselink@1.1.0
 - pkg:maven/com.ethlo.dachs/dachs-eclipselink@1.1.0?classifier=sources
+- pkg:maven/com.ethlo.dachs/dachs-eclipselink@1.2.0?classifier=sources

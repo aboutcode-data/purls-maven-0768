@@ -33,3 +33,6 @@
 - pkg:maven/de.gematik.demis/notification-builder-library@7.3.1?classifier=sources
 - pkg:maven/de.gematik.demis/notification-builder-library@7.4.0?classifier=sources
 - pkg:maven/de.gematik.demis/notification-builder-library@8.0.0?classifier=sources
+- pkg:maven/de.gematik.demis/notification-builder-library@9.0.0?classifier=sources
+- pkg:maven/de.gematik.demis/notification-builder-library@9.0.1?classifier=sources
+- pkg:maven/de.gematik.demis/notification-builder-library@9.0.2?classifier=sources

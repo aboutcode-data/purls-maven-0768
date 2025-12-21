@@ -12,3 +12,4 @@
 - pkg:maven/io.streamnative.stats/otel-metrics-provider@4.17.2.2?classifier=sources
 - pkg:maven/io.streamnative.stats/otel-metrics-provider@4.17.2.3?classifier=sources
 - pkg:maven/io.streamnative.stats/otel-metrics-provider@4.17.2.4?classifier=sources
+- pkg:maven/io.streamnative.stats/otel-metrics-provider@4.17.2.5?classifier=sources

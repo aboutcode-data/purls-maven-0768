@@ -8,3 +8,5 @@
 - pkg:maven/com.github.goodforgod/arangodb-testcontainer@3.0.0?classifier=sources
 - pkg:maven/com.github.goodforgod/arangodb-testcontainer@3.0.1?classifier=sources
 - pkg:maven/com.github.goodforgod/arangodb-testcontainer@4.0.0?classifier=sources
+- pkg:maven/com.github.goodforgod/arangodb-testcontainer@5.0.0?classifier=sources
+- pkg:maven/com.github.goodforgod/arangodb-testcontainer@6.0.0?classifier=sources

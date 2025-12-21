@@ -47,5 +47,7 @@
 - pkg:maven/eu.hansolo/jdktools@21.0.19?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@21.0.1?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@21.0.21?classifier=sources
+- pkg:maven/eu.hansolo/jdktools@21.0.23?classifier=sources
+- pkg:maven/eu.hansolo/jdktools@21.0.25?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@21.0.3?classifier=sources
 - pkg:maven/eu.hansolo/jdktools@21.0.9?classifier=sources

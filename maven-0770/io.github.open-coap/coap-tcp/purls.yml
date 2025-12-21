@@ -31,6 +31,7 @@
 - pkg:maven/io.github.open-coap/coap-tcp@6.27.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-tcp@6.28.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-tcp@6.29.0?classifier=sources
+- pkg:maven/io.github.open-coap/coap-tcp@6.30.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-tcp@6.7.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-tcp@6.8.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-tcp@6.9.0?classifier=sources

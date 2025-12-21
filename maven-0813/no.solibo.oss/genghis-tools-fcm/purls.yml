@@ -3,3 +3,5 @@
 - pkg:maven/no.solibo.oss/genghis-tools-fcm@1.0.2?classifier=sources
 - pkg:maven/no.solibo.oss/genghis-tools-fcm@1.0.3?classifier=sources
 - pkg:maven/no.solibo.oss/genghis-tools-fcm@1.0.4?classifier=sources
+- pkg:maven/no.solibo.oss/genghis-tools-fcm@1.0.5?classifier=sources
+- pkg:maven/no.solibo.oss/genghis-tools-fcm@1.0.6?classifier=sources

@@ -2405,6 +2405,14 @@
 - pkg:maven/com.lihaoyi/mill-contrib-testng@1.1.0-RC1-62-864778?classifier=sources
 - pkg:maven/com.lihaoyi/mill-contrib-testng@1.1.0-RC1?classifier=sources
 - pkg:maven/com.lihaoyi/mill-contrib-testng@1.1.0-RC2
+- pkg:maven/com.lihaoyi/mill-contrib-testng@1.1.0-RC2-20-a8a699
+- pkg:maven/com.lihaoyi/mill-contrib-testng@1.1.0-RC2-20-a8a699?classifier=sources
+- pkg:maven/com.lihaoyi/mill-contrib-testng@1.1.0-RC2-34-12421d
+- pkg:maven/com.lihaoyi/mill-contrib-testng@1.1.0-RC2-34-12421d?classifier=sources
+- pkg:maven/com.lihaoyi/mill-contrib-testng@1.1.0-RC2-40-0576e4
+- pkg:maven/com.lihaoyi/mill-contrib-testng@1.1.0-RC2-40-0576e4?classifier=sources
+- pkg:maven/com.lihaoyi/mill-contrib-testng@1.1.0-RC2-72-c5e504
+- pkg:maven/com.lihaoyi/mill-contrib-testng@1.1.0-RC2-72-c5e504?classifier=sources
 - pkg:maven/com.lihaoyi/mill-contrib-testng@1.1.0-RC2?classifier=sources
 - pkg:maven/com.lihaoyi/mill-contrib-testng@2780582bcfd73c8888a7bfa198351e413b684459-0-278058
 - pkg:maven/com.lihaoyi/mill-contrib-testng@2780582bcfd73c8888a7bfa198351e413b684459-0-278058?classifier=sources

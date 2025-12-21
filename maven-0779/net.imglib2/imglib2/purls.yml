@@ -130,3 +130,4 @@
 - pkg:maven/net.imglib2/imglib2@7.1.4?classifier=sources
 - pkg:maven/net.imglib2/imglib2@7.1.5
 - pkg:maven/net.imglib2/imglib2@7.1.5?classifier=sources
+- pkg:maven/net.imglib2/imglib2@8.0.0?classifier=sources

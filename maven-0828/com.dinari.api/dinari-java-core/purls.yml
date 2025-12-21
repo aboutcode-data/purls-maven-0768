@@ -3,3 +3,4 @@
 - pkg:maven/com.dinari.api/dinari-java-core@0.3.0?classifier=sources
 - pkg:maven/com.dinari.api/dinari-java-core@0.5.0?classifier=sources
 - pkg:maven/com.dinari.api/dinari-java-core@0.6.0?classifier=sources
+- pkg:maven/com.dinari.api/dinari-java-core@0.7.0?classifier=sources

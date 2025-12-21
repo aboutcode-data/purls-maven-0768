@@ -6,3 +6,4 @@
 - pkg:maven/eu.codlab/kotlin-openweathermap-compose@0.1.8?classifier=sources
 - pkg:maven/eu.codlab/kotlin-openweathermap-compose@0.2.0?classifier=sources
 - pkg:maven/eu.codlab/kotlin-openweathermap-compose@0.2.1?classifier=sources
+- pkg:maven/eu.codlab/kotlin-openweathermap-compose@0.3.0?classifier=sources

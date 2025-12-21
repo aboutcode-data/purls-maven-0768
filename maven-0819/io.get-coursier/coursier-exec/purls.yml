@@ -18,6 +18,8 @@
 - pkg:maven/io.get-coursier/coursier-exec@2.1.25-M18?classifier=sources
 - pkg:maven/io.get-coursier/coursier-exec@2.1.25-M19
 - pkg:maven/io.get-coursier/coursier-exec@2.1.25-M19?classifier=sources
+- pkg:maven/io.get-coursier/coursier-exec@2.1.25-M20
+- pkg:maven/io.get-coursier/coursier-exec@2.1.25-M20?classifier=sources
 - pkg:maven/io.get-coursier/coursier-exec@2.1.25-M5
 - pkg:maven/io.get-coursier/coursier-exec@2.1.25-M5?classifier=sources
 - pkg:maven/io.get-coursier/coursier-exec@2.1.25-M6

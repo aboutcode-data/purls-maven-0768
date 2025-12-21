@@ -65,6 +65,16 @@
 - pkg:maven/com.statsig/javacore@0.12.1-rc.2511110014?classifier=sources
 - pkg:maven/com.statsig/javacore@0.12.1-rc.2511121816?classifier=sources
 - pkg:maven/com.statsig/javacore@0.12.1?classifier=sources
+- pkg:maven/com.statsig/javacore@0.12.2-beta.2511190238?classifier=sources
+- pkg:maven/com.statsig/javacore@0.12.2-beta.2511192113?classifier=sources
+- pkg:maven/com.statsig/javacore@0.12.2-beta.2511200035?classifier=sources
+- pkg:maven/com.statsig/javacore@0.12.2-beta.2511210237?classifier=sources
+- pkg:maven/com.statsig/javacore@0.12.2-beta.2511220235?classifier=sources
+- pkg:maven/com.statsig/javacore@0.12.2-beta.2511260239?classifier=sources
+- pkg:maven/com.statsig/javacore@0.12.2-rc.2511190400?classifier=sources
+- pkg:maven/com.statsig/javacore@0.12.2-rc.2511250017?classifier=sources
+- pkg:maven/com.statsig/javacore@0.13.0?classifier=sources
+- pkg:maven/com.statsig/javacore@0.13.1-rc.2512020014?classifier=sources
 - pkg:maven/com.statsig/javacore@0.2.0-beta.250521?classifier=sources
 - pkg:maven/com.statsig/javacore@0.2.0?classifier=sources
 - pkg:maven/com.statsig/javacore@0.2.1-beta.250424?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/io.github.sdj7072/masked4j-core@1.0.0?classifier=sources
+- pkg:maven/io.github.sdj7072/masked4j-core@1.1.0?classifier=sources
+- pkg:maven/io.github.sdj7072/masked4j-core@1.1.1?classifier=sources

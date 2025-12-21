@@ -340,3 +340,13 @@
 - pkg:maven/com.yahoo.vespa/schema-language-server@8.608.33?classifier=sources
 - pkg:maven/com.yahoo.vespa/schema-language-server@8.609.39
 - pkg:maven/com.yahoo.vespa/schema-language-server@8.609.39?classifier=sources
+- pkg:maven/com.yahoo.vespa/schema-language-server@8.610.23
+- pkg:maven/com.yahoo.vespa/schema-language-server@8.610.23?classifier=sources
+- pkg:maven/com.yahoo.vespa/schema-language-server@8.611.13
+- pkg:maven/com.yahoo.vespa/schema-language-server@8.611.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/schema-language-server@8.612.20
+- pkg:maven/com.yahoo.vespa/schema-language-server@8.612.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/schema-language-server@8.613.57
+- pkg:maven/com.yahoo.vespa/schema-language-server@8.613.57?classifier=sources
+- pkg:maven/com.yahoo.vespa/schema-language-server@8.614.22
+- pkg:maven/com.yahoo.vespa/schema-language-server@8.614.22?classifier=sources

@@ -1,1 +1,2 @@
+- pkg:maven/com.tencent.kuikly-open.compose.runtime/runtime@1.7.3-kuikly1?classifier=sources
 - pkg:maven/com.tencent.kuikly-open.compose.runtime/runtime@2.1.0-2.0.21-ohos?classifier=sources

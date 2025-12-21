@@ -1,1 +1,2 @@
 - pkg:maven/no.entur.android.nfc/wrapper-test@2.0.11?classifier=sources
+- pkg:maven/no.entur.android.nfc/wrapper-test@2.0.12?classifier=sources

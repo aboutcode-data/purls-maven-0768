@@ -1,1 +1,2 @@
 - pkg:maven/io.appmetrica.analytics/analytics-id-sync@7.13.0?classifier=sources
+- pkg:maven/io.appmetrica.analytics/analytics-id-sync@7.14.0?classifier=sources

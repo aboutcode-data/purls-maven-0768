@@ -7,3 +7,4 @@
 - pkg:maven/dev.chrisbanes.haze/haze-materials-macosarm64@1.6.8?classifier=sources
 - pkg:maven/dev.chrisbanes.haze/haze-materials-macosarm64@1.6.9?classifier=sources
 - pkg:maven/dev.chrisbanes.haze/haze-materials-macosarm64@1.7.0?classifier=sources
+- pkg:maven/dev.chrisbanes.haze/haze-materials-macosarm64@1.7.1?classifier=sources

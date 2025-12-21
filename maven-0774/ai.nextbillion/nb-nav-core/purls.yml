@@ -5,3 +5,4 @@
 - pkg:maven/ai.nextbillion/nb-nav-core@2.4.2-dev.2?classifier=sources
 - pkg:maven/ai.nextbillion/nb-nav-core@2.4.2-dev.3?classifier=sources
 - pkg:maven/ai.nextbillion/nb-nav-core@2.4.2-dev.4?classifier=sources
+- pkg:maven/ai.nextbillion/nb-nav-core@2.4.2-dev.6?classifier=sources
