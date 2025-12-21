@@ -24,6 +24,7 @@
 - pkg:maven/io.appium/java-client@1.6.2?classifier=sources
 - pkg:maven/io.appium/java-client@1.7.0
 - pkg:maven/io.appium/java-client@1.7.0?classifier=sources
+- pkg:maven/io.appium/java-client@10.0.0?classifier=sources
 - pkg:maven/io.appium/java-client@2.0.0
 - pkg:maven/io.appium/java-client@2.0.0?classifier=sources
 - pkg:maven/io.appium/java-client@2.1.0

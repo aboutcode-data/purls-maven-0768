@@ -46,3 +46,4 @@
 - pkg:maven/com.github.subchen/jetbrick-template-springmvc@2.1.8?classifier=sources
 - pkg:maven/com.github.subchen/jetbrick-template-springmvc@2.1.9
 - pkg:maven/com.github.subchen/jetbrick-template-springmvc@2.1.9?classifier=sources
+- pkg:maven/com.github.subchen/jetbrick-template-springmvc@2.2.0?classifier=sources

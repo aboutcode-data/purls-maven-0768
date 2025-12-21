@@ -139,3 +139,12 @@
 - pkg:maven/io.airlift/tracing@340?classifier=sources
 - pkg:maven/io.airlift/tracing@341?classifier=sources
 - pkg:maven/io.airlift/tracing@342?classifier=sources
+- pkg:maven/io.airlift/tracing@343?classifier=sources
+- pkg:maven/io.airlift/tracing@344?classifier=sources
+- pkg:maven/io.airlift/tracing@345?classifier=sources
+- pkg:maven/io.airlift/tracing@346?classifier=sources
+- pkg:maven/io.airlift/tracing@347?classifier=sources
+- pkg:maven/io.airlift/tracing@348?classifier=sources
+- pkg:maven/io.airlift/tracing@349?classifier=sources
+- pkg:maven/io.airlift/tracing@350?classifier=sources
+- pkg:maven/io.airlift/tracing@351?classifier=sources

@@ -22,3 +22,7 @@
 - pkg:maven/dev.softtest/doozer@0.2.8?classifier=sources
 - pkg:maven/dev.softtest/doozer@0.2.9
 - pkg:maven/dev.softtest/doozer@0.2.9?classifier=sources
+- pkg:maven/dev.softtest/doozer@1.0.0
+- pkg:maven/dev.softtest/doozer@1.0.0?classifier=sources
+- pkg:maven/dev.softtest/doozer@1.0.1
+- pkg:maven/dev.softtest/doozer@1.0.1?classifier=sources

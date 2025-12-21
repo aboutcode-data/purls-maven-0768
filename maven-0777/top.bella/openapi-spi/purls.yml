@@ -3,4 +3,8 @@
 - pkg:maven/top.bella/openapi-spi@1.1.12?classifier=sources
 - pkg:maven/top.bella/openapi-spi@1.1.20?classifier=sources
 - pkg:maven/top.bella/openapi-spi@1.1.21?classifier=sources
+- pkg:maven/top.bella/openapi-spi@1.1.47?classifier=sources
+- pkg:maven/top.bella/openapi-spi@1.1.48?classifier=sources
+- pkg:maven/top.bella/openapi-spi@1.1.49?classifier=sources
+- pkg:maven/top.bella/openapi-spi@1.1.56?classifier=sources
 - pkg:maven/top.bella/openapi-spi@1.1.8?classifier=sources

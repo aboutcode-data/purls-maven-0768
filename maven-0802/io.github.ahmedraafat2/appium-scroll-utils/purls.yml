@@ -6,3 +6,5 @@
 - pkg:maven/io.github.ahmedraafat2/appium-scroll-utils@1.0.64?classifier=sources
 - pkg:maven/io.github.ahmedraafat2/appium-scroll-utils@1.0.65
 - pkg:maven/io.github.ahmedraafat2/appium-scroll-utils@1.0.65?classifier=sources
+- pkg:maven/io.github.ahmedraafat2/appium-scroll-utils@1.0.67
+- pkg:maven/io.github.ahmedraafat2/appium-scroll-utils@1.0.67?classifier=sources

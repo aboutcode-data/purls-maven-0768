@@ -1,2 +1,3 @@
 - pkg:maven/io.gitee.aqnghu/hoodev-core@2.1.11?classifier=sources
 - pkg:maven/io.gitee.aqnghu/hoodev-core@2.1.12?classifier=sources
+- pkg:maven/io.gitee.aqnghu/hoodev-core@2.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.clustering.benchmark/clusterbench-ee10-ejb@13.0.1.CR1?classifier=sources
+- pkg:maven/org.wildfly.clustering.benchmark/clusterbench-ee10-ejb@13.0.1.Final?classifier=sources

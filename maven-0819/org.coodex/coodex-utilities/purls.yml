@@ -39,3 +39,4 @@
 - pkg:maven/org.coodex/coodex-utilities@0.5.3-RC1
 - pkg:maven/org.coodex/coodex-utilities@0.5.3-RC1?classifier=sources
 - pkg:maven/org.coodex/coodex-utilities@0.6.1?classifier=sources
+- pkg:maven/org.coodex/coodex-utilities@0.6.2?classifier=sources

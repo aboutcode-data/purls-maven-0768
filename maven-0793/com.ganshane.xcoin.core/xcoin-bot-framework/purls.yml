@@ -60,3 +60,4 @@
 - pkg:maven/com.ganshane.xcoin.core/xcoin-bot-framework@0.62?classifier=sources
 - pkg:maven/com.ganshane.xcoin.core/xcoin-bot-framework@0.63?classifier=sources
 - pkg:maven/com.ganshane.xcoin.core/xcoin-bot-framework@0.64?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-bot-framework@0.65?classifier=sources

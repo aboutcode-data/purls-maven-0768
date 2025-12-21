@@ -41,4 +41,8 @@
 - pkg:maven/org.mvnpm.at.swc/core@1.13.2?classifier=sources
 - pkg:maven/org.mvnpm.at.swc/core@1.13.3
 - pkg:maven/org.mvnpm.at.swc/core@1.13.3?classifier=sources
+- pkg:maven/org.mvnpm.at.swc/core@1.13.4
+- pkg:maven/org.mvnpm.at.swc/core@1.13.4?classifier=sources
+- pkg:maven/org.mvnpm.at.swc/core@1.13.5
+- pkg:maven/org.mvnpm.at.swc/core@1.13.5?classifier=sources
 - pkg:maven/org.mvnpm.at.swc/core@1.5.3?classifier=sources

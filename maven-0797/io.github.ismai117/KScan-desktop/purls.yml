@@ -21,3 +21,4 @@
 - pkg:maven/io.github.ismai117/KScan-desktop@0.1.0-beta06?classifier=sources
 - pkg:maven/io.github.ismai117/KScan-desktop@0.1.0-beta07?classifier=sources
 - pkg:maven/io.github.ismai117/KScan-desktop@0.1.0-beta08?classifier=sources
+- pkg:maven/io.github.ismai117/KScan-desktop@0.1.0?classifier=sources

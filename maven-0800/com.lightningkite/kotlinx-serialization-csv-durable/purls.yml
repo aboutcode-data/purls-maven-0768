@@ -1,1 +1,2 @@
 - pkg:maven/com.lightningkite/kotlinx-serialization-csv-durable@0.2.11-1-local?classifier=sources
+- pkg:maven/com.lightningkite/kotlinx-serialization-csv-durable@0.2.18?classifier=sources

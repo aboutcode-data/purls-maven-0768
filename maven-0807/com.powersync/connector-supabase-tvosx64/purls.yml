@@ -1,0 +1,2 @@
+- pkg:maven/com.powersync/connector-supabase-tvosx64@1.4.0?classifier=sources
+- pkg:maven/com.powersync/connector-supabase-tvosx64@1.5.0?classifier=sources

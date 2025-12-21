@@ -111,6 +111,7 @@
 - pkg:maven/com.ibeetl/sql-jmh@3.30.8-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-jmh@3.31-RELEASE
 - pkg:maven/com.ibeetl/sql-jmh@3.31-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-jmh@3.35.1-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-jmh@3.4.0-RELEASE
 - pkg:maven/com.ibeetl/sql-jmh@3.4.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-jmh@3.4.1-RELEASE

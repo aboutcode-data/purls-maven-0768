@@ -2,3 +2,4 @@
 - pkg:maven/io.github.edricchan03.androidx.common/common-enums@0.0.2?classifier=sources
 - pkg:maven/io.github.edricchan03.androidx.common/common-enums@0.1.0?classifier=sources
 - pkg:maven/io.github.edricchan03.androidx.common/common-enums@0.2.0?classifier=sources
+- pkg:maven/io.github.edricchan03.androidx.common/common-enums@0.3.0?classifier=sources

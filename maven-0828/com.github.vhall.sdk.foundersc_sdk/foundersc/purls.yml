@@ -430,6 +430,9 @@
 - pkg:maven/com.github.vhall.sdk.foundersc_sdk/foundersc@2.4.2?type=aar
 - pkg:maven/com.github.vhall.sdk.foundersc_sdk/foundersc@2.4.30?classifier=sources
 - pkg:maven/com.github.vhall.sdk.foundersc_sdk/foundersc@2.4.30?type=aar
+- pkg:maven/com.github.vhall.sdk.foundersc_sdk/foundersc@2.4.31?classifier=sources
+- pkg:maven/com.github.vhall.sdk.foundersc_sdk/foundersc@2.4.32?classifier=sources
+- pkg:maven/com.github.vhall.sdk.foundersc_sdk/foundersc@2.4.33?classifier=sources
 - pkg:maven/com.github.vhall.sdk.foundersc_sdk/foundersc@2.4.3?classifier=sources
 - pkg:maven/com.github.vhall.sdk.foundersc_sdk/foundersc@2.4.3?type=aar
 - pkg:maven/com.github.vhall.sdk.foundersc_sdk/foundersc@2.4.4?classifier=sources

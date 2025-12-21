@@ -4,3 +4,4 @@
 - pkg:maven/com.github.gotson.nightmonkeys/imageio-heif@0.6.2?classifier=sources
 - pkg:maven/com.github.gotson.nightmonkeys/imageio-heif@0.6.3?classifier=sources
 - pkg:maven/com.github.gotson.nightmonkeys/imageio-heif@1.0.0?classifier=sources
+- pkg:maven/com.github.gotson.nightmonkeys/imageio-heif@1.1.0?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/software.xdev/brevo-java-client@1.0.3?classifier=sources
 - pkg:maven/software.xdev/brevo-java-client@1.0.4?classifier=sources
 - pkg:maven/software.xdev/brevo-java-client@1.1.0?classifier=sources
+- pkg:maven/software.xdev/brevo-java-client@1.1.1?classifier=sources

@@ -48,3 +48,4 @@
 - pkg:maven/org.redisson/redisson-spring-data-33@3.49.0?classifier=sources
 - pkg:maven/org.redisson/redisson-spring-data-33@3.50.0
 - pkg:maven/org.redisson/redisson-spring-data-33@3.50.0?classifier=sources
+- pkg:maven/org.redisson/redisson-spring-data-33@3.51.0?classifier=sources

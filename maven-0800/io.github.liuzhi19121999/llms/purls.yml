@@ -1,1 +1,2 @@
 - pkg:maven/io.github.liuzhi19121999/llms@1.0?classifier=sources
+- pkg:maven/io.github.liuzhi19121999/llms@1.1?classifier=sources

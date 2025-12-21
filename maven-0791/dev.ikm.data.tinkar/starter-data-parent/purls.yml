@@ -1,0 +1,5 @@
+- pkg:maven/dev.ikm.data.tinkar/starter-data-parent@20250729?classifier=sources
+- pkg:maven/dev.ikm.data.tinkar/starter-data-parent@20250806?classifier=sources
+- pkg:maven/dev.ikm.data.tinkar/starter-data-parent@20250807?classifier=sources
+- pkg:maven/dev.ikm.data.tinkar/starter-data-parent@20250808?classifier=sources
+- pkg:maven/dev.ikm.data.tinkar/starter-data-parent@20250813?classifier=sources

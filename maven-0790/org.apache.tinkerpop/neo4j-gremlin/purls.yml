@@ -142,3 +142,5 @@
 - pkg:maven/org.apache.tinkerpop/neo4j-gremlin@3.7.2?classifier=sources
 - pkg:maven/org.apache.tinkerpop/neo4j-gremlin@3.7.3
 - pkg:maven/org.apache.tinkerpop/neo4j-gremlin@3.7.3?classifier=sources
+- pkg:maven/org.apache.tinkerpop/neo4j-gremlin@3.7.4
+- pkg:maven/org.apache.tinkerpop/neo4j-gremlin@3.7.4?classifier=sources

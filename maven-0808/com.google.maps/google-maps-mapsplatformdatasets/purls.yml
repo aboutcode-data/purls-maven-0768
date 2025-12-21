@@ -90,8 +90,16 @@
 - pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.56.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.57.0
 - pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.57.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.59.0
+- pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.59.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.6.0
 - pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.6.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.60.0
+- pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.60.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.61.0
+- pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.61.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.62.0
+- pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.62.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.7.0
 - pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.7.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-mapsplatformdatasets@0.8.0

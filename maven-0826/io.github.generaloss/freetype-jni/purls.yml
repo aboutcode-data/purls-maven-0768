@@ -1,1 +1,2 @@
 - pkg:maven/io.github.generaloss/freetype-jni@25.4.1?classifier=sources
+- pkg:maven/io.github.generaloss/freetype-jni@25.8.1-2.13.3?classifier=sources

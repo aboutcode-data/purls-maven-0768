@@ -109,6 +109,7 @@
 - pkg:maven/org.webjars.npm/vue__server-renderer@3.5.17
 - pkg:maven/org.webjars.npm/vue__server-renderer@3.5.18
 - pkg:maven/org.webjars.npm/vue__server-renderer@3.5.2
+- pkg:maven/org.webjars.npm/vue__server-renderer@3.5.20
 - pkg:maven/org.webjars.npm/vue__server-renderer@3.5.3
 - pkg:maven/org.webjars.npm/vue__server-renderer@3.5.4
 - pkg:maven/org.webjars.npm/vue__server-renderer@3.5.5

@@ -7,3 +7,4 @@
 - pkg:maven/org.webjars.npm/mui__private-theming@5.15.14
 - pkg:maven/org.webjars.npm/mui__private-theming@5.15.14?classifier=sources
 - pkg:maven/org.webjars.npm/mui__private-theming@5.16.6
+- pkg:maven/org.webjars.npm/mui__private-theming@7.2.0

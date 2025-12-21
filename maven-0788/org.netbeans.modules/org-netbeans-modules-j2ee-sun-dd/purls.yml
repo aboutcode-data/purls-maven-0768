@@ -25,3 +25,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-sun-dd@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-sun-dd@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-sun-dd@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-sun-dd@RELEASE270?classifier=sources

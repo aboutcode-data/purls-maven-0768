@@ -1,1 +1,2 @@
 - pkg:maven/io.matthewnelson.kmp-tor/runtime-ctrl-androidnativex86@2.4.0?classifier=sources
+- pkg:maven/io.matthewnelson.kmp-tor/runtime-ctrl-androidnativex86@2.4.1?classifier=sources

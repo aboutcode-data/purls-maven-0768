@@ -36,6 +36,7 @@
 - pkg:maven/org.infinispan/infinispan-core-graalvm@15.0.16.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-core-graalvm@15.0.17.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-core-graalvm@15.0.18.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-core-graalvm@15.0.19.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-core-graalvm@15.0.2.Final
 - pkg:maven/org.infinispan/infinispan-core-graalvm@15.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-core-graalvm@15.0.3.Final
@@ -94,3 +95,4 @@
 - pkg:maven/org.infinispan/infinispan-core-graalvm@15.2.5.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-core-graalvm@16.0.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-core-graalvm@16.0.0.Dev02?classifier=sources
+- pkg:maven/org.infinispan/infinispan-core-graalvm@16.0.0.Dev03?classifier=sources

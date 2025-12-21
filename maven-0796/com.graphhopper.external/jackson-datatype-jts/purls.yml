@@ -12,3 +12,4 @@
 - pkg:maven/com.graphhopper.external/jackson-datatype-jts@1.0-2.7?classifier=sources
 - pkg:maven/com.graphhopper.external/jackson-datatype-jts@2.14
 - pkg:maven/com.graphhopper.external/jackson-datatype-jts@2.14?classifier=sources
+- pkg:maven/com.graphhopper.external/jackson-datatype-jts@2.19.2?classifier=sources

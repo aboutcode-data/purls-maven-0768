@@ -1,5 +1,6 @@
 - pkg:maven/org.springframework.grpc/spring-grpc-test@0.1.0
 - pkg:maven/org.springframework.grpc/spring-grpc-test@0.1.0?classifier=sources
+- pkg:maven/org.springframework.grpc/spring-grpc-test@0.10.0?classifier=sources
 - pkg:maven/org.springframework.grpc/spring-grpc-test@0.2.0
 - pkg:maven/org.springframework.grpc/spring-grpc-test@0.2.0?classifier=sources
 - pkg:maven/org.springframework.grpc/spring-grpc-test@0.3.0

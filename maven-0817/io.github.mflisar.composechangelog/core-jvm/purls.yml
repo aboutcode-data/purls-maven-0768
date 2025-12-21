@@ -22,3 +22,4 @@
 - pkg:maven/io.github.mflisar.composechangelog/core-jvm@2.0.0-alpha13?classifier=sources
 - pkg:maven/io.github.mflisar.composechangelog/core-jvm@2.0.0?classifier=sources
 - pkg:maven/io.github.mflisar.composechangelog/core-jvm@2.0.1?classifier=sources
+- pkg:maven/io.github.mflisar.composechangelog/core-jvm@3.0.0?classifier=sources

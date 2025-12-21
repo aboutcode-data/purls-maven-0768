@@ -4,3 +4,4 @@
 - pkg:maven/com.cognitect.aws/qapps@870.2.1691.0?classifier=sources
 - pkg:maven/com.cognitect.aws/qapps@871.2.29.35
 - pkg:maven/com.cognitect.aws/qapps@871.2.29.35?classifier=sources
+- pkg:maven/com.cognitect.aws/qapps@871.2.32.25?classifier=sources

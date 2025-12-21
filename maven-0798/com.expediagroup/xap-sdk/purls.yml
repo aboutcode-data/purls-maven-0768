@@ -9,3 +9,4 @@
 - pkg:maven/com.expediagroup/xap-sdk@1.2.9
 - pkg:maven/com.expediagroup/xap-sdk@1.2.9?classifier=sources
 - pkg:maven/com.expediagroup/xap-sdk@2.0.0-alpha?classifier=sources
+- pkg:maven/com.expediagroup/xap-sdk@2.0.0?classifier=sources

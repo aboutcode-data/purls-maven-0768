@@ -1,3 +1,4 @@
+- pkg:maven/com.ritense.valtimo/verzoek@0.1.0-RC-2?classifier=sources
 - pkg:maven/com.ritense.valtimo/verzoek@10.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/verzoek@10.3.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/verzoek@10.4.0.RELEASE?classifier=sources
@@ -42,6 +43,7 @@
 - pkg:maven/com.ritense.valtimo/verzoek@12.13.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/verzoek@12.14.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/verzoek@12.14.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/verzoek@12.15.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/verzoek@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/verzoek@12.2.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/verzoek@12.3.0.RELEASE?classifier=sources
@@ -62,3 +64,6 @@
 - pkg:maven/com.ritense.valtimo/verzoek@13.0.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/verzoek@13.0.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/verzoek@13.0.2.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/verzoek@13.1.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/verzoek@13.1.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/verzoek@13.1.2.RELEASE?classifier=sources

@@ -48,3 +48,4 @@
 - pkg:maven/au.csiro.pathling/utilities@7.1.0?classifier=sources
 - pkg:maven/au.csiro.pathling/utilities@7.2.0
 - pkg:maven/au.csiro.pathling/utilities@7.2.0?classifier=sources
+- pkg:maven/au.csiro.pathling/utilities@8.0.0?classifier=sources

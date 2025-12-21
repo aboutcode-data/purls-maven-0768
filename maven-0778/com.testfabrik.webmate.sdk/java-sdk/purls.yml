@@ -90,3 +90,4 @@
 - pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.60?classifier=sources
 - pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.61?classifier=sources
 - pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.62?classifier=sources
+- pkg:maven/com.testfabrik.webmate.sdk/java-sdk@0.63?classifier=sources

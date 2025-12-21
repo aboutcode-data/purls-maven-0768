@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-impl@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-impl@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-impl@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-impl@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extexecution-impl@RELEASE90?classifier=sources

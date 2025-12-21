@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm.at.babel/register@7.25.9?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/register@7.27.1
 - pkg:maven/org.mvnpm.at.babel/register@7.27.1?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/register@7.28.3
+- pkg:maven/org.mvnpm.at.babel/register@7.28.3?classifier=sources

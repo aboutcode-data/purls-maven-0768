@@ -5,3 +5,4 @@
 - pkg:maven/dev.icerock.moko/permissions-compose-android@0.18.1?classifier=sources
 - pkg:maven/dev.icerock.moko/permissions-compose-android@0.19.0?classifier=sources
 - pkg:maven/dev.icerock.moko/permissions-compose-android@0.19.1?classifier=sources
+- pkg:maven/dev.icerock.moko/permissions-compose-android@0.20.0?classifier=sources

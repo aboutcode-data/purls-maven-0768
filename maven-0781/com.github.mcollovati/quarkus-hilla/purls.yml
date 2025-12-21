@@ -52,4 +52,5 @@
 - pkg:maven/com.github.mcollovati/quarkus-hilla@24.8.0-test1?classifier=sources
 - pkg:maven/com.github.mcollovati/quarkus-hilla@24.8.0?classifier=sources
 - pkg:maven/com.github.mcollovati/quarkus-hilla@24.8.1?classifier=sources
+- pkg:maven/com.github.mcollovati/quarkus-hilla@24.8.2?classifier=sources
 - pkg:maven/com.github.mcollovati/quarkus-hilla@24.9.0-alpha1?classifier=sources

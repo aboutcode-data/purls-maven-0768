@@ -100,3 +100,6 @@
 - pkg:maven/com.oracle.bedrock.coherence/coherence-12.2.1@7.0.5?classifier=sources
 - pkg:maven/com.oracle.bedrock.coherence/coherence-12.2.1@7.0.6
 - pkg:maven/com.oracle.bedrock.coherence/coherence-12.2.1@7.0.6?classifier=sources
+- pkg:maven/com.oracle.bedrock.coherence/coherence-12.2.1@7.0.7?classifier=sources
+- pkg:maven/com.oracle.bedrock.coherence/coherence-12.2.1@7.0.8?classifier=sources
+- pkg:maven/com.oracle.bedrock.coherence/coherence-12.2.1@7.0.9?classifier=sources

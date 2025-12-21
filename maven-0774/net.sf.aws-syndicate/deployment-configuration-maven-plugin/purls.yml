@@ -10,6 +10,7 @@
 - pkg:maven/net.sf.aws-syndicate/deployment-configuration-maven-plugin@1.14.0?classifier=sources
 - pkg:maven/net.sf.aws-syndicate/deployment-configuration-maven-plugin@1.15.0
 - pkg:maven/net.sf.aws-syndicate/deployment-configuration-maven-plugin@1.15.0?classifier=sources
+- pkg:maven/net.sf.aws-syndicate/deployment-configuration-maven-plugin@1.16.0?classifier=sources
 - pkg:maven/net.sf.aws-syndicate/deployment-configuration-maven-plugin@1.2.0
 - pkg:maven/net.sf.aws-syndicate/deployment-configuration-maven-plugin@1.2.0?classifier=sources
 - pkg:maven/net.sf.aws-syndicate/deployment-configuration-maven-plugin@1.3.0

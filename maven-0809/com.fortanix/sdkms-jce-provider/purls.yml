@@ -73,3 +73,4 @@
 - pkg:maven/com.fortanix/sdkms-jce-provider@4.9.2091?classifier=sources
 - pkg:maven/com.fortanix/sdkms-jce-provider@5.0.2817
 - pkg:maven/com.fortanix/sdkms-jce-provider@5.0.2817?classifier=sources
+- pkg:maven/com.fortanix/sdkms-jce-provider@5.1.2830?classifier=sources

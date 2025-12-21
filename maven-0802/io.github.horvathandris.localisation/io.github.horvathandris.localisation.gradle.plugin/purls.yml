@@ -1,0 +1,2 @@
+- pkg:maven/io.github.horvathandris.localisation/io.github.horvathandris.localisation.gradle.plugin@0.0.10?classifier=sources
+- pkg:maven/io.github.horvathandris.localisation/io.github.horvathandris.localisation.gradle.plugin@0.0.8?classifier=sources

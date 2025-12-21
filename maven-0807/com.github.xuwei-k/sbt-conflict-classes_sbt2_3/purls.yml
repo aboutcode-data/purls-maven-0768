@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xuwei-k/sbt-conflict-classes_sbt2_3@0.1.2
+- pkg:maven/com.github.xuwei-k/sbt-conflict-classes_sbt2_3@0.1.2?classifier=sources

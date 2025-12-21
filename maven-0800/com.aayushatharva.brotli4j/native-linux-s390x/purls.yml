@@ -10,3 +10,5 @@
 - pkg:maven/com.aayushatharva.brotli4j/native-linux-s390x@1.17.0?classifier=sources
 - pkg:maven/com.aayushatharva.brotli4j/native-linux-s390x@1.18.0
 - pkg:maven/com.aayushatharva.brotli4j/native-linux-s390x@1.18.0?classifier=sources
+- pkg:maven/com.aayushatharva.brotli4j/native-linux-s390x@1.19.0?classifier=sources
+- pkg:maven/com.aayushatharva.brotli4j/native-linux-s390x@1.20.0?classifier=sources

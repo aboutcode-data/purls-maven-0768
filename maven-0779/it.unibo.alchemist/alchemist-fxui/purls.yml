@@ -339,6 +339,8 @@
 - pkg:maven/it.unibo.alchemist/alchemist-fxui@32.90.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-fxui@32.91.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-fxui@32.92.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-fxui@32.92.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-fxui@32.93.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-fxui@9.3.0-dev1z1%2B0f186c167?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-fxui@9.3.0-dev1z1%2B6808faab9?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-fxui@9.3.0-dev1z1%2B782c1887e?classifier=sources

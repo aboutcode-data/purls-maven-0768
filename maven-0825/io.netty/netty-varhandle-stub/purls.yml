@@ -1,0 +1,1 @@
+- pkg:maven/io.netty/netty-varhandle-stub@4.2.4.Final?classifier=sources

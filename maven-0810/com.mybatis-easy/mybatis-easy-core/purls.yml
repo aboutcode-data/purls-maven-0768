@@ -142,4 +142,14 @@
 - pkg:maven/com.mybatis-easy/mybatis-easy-core@0.9.7?classifier=sources
 - pkg:maven/com.mybatis-easy/mybatis-easy-core@0.9.8?classifier=sources
 - pkg:maven/com.mybatis-easy/mybatis-easy-core@0.9.91?classifier=sources
+- pkg:maven/com.mybatis-easy/mybatis-easy-core@0.9.92?classifier=sources
+- pkg:maven/com.mybatis-easy/mybatis-easy-core@0.9.93?classifier=sources
+- pkg:maven/com.mybatis-easy/mybatis-easy-core@0.9.94?classifier=sources
+- pkg:maven/com.mybatis-easy/mybatis-easy-core@0.9.95?classifier=sources
+- pkg:maven/com.mybatis-easy/mybatis-easy-core@0.9.96?classifier=sources
+- pkg:maven/com.mybatis-easy/mybatis-easy-core@0.9.97?classifier=sources
+- pkg:maven/com.mybatis-easy/mybatis-easy-core@0.9.98?classifier=sources
+- pkg:maven/com.mybatis-easy/mybatis-easy-core@0.9.99?classifier=sources
 - pkg:maven/com.mybatis-easy/mybatis-easy-core@0.9.9?classifier=sources
+- pkg:maven/com.mybatis-easy/mybatis-easy-core@1.0.0?classifier=sources
+- pkg:maven/com.mybatis-easy/mybatis-easy-core@1.0.1?classifier=sources

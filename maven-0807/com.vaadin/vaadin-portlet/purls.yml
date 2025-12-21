@@ -1,9 +1,11 @@
 - pkg:maven/com.vaadin/vaadin-portlet@1.0.0
 - pkg:maven/com.vaadin/vaadin-portlet@1.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-portlet@1.0.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-portlet@2.0.0
 - pkg:maven/com.vaadin/vaadin-portlet@2.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-portlet@2.1.0
 - pkg:maven/com.vaadin/vaadin-portlet@2.1.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-portlet@2.1.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-portlet@7.7.36
 - pkg:maven/com.vaadin/vaadin-portlet@7.7.36?classifier=sources
 - pkg:maven/com.vaadin/vaadin-portlet@7.7.37
@@ -27,6 +29,7 @@
 - pkg:maven/com.vaadin/vaadin-portlet@7.7.46
 - pkg:maven/com.vaadin/vaadin-portlet@7.7.46?classifier=sources
 - pkg:maven/com.vaadin/vaadin-portlet@7.7.47?classifier=sources
+- pkg:maven/com.vaadin/vaadin-portlet@7.7.48?classifier=sources
 - pkg:maven/com.vaadin/vaadin-portlet@8.18.0
 - pkg:maven/com.vaadin/vaadin-portlet@8.18.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-portlet@8.19.0
@@ -73,3 +76,4 @@
 - pkg:maven/com.vaadin/vaadin-portlet@8.27.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-portlet@8.28.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-portlet@8.28.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-portlet@8.28.2?classifier=sources

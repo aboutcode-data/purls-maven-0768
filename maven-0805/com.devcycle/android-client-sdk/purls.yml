@@ -48,3 +48,4 @@
 - pkg:maven/com.devcycle/android-client-sdk@2.5.0?classifier=sources
 - pkg:maven/com.devcycle/android-client-sdk@2.6.0?classifier=sources
 - pkg:maven/com.devcycle/android-client-sdk@2.6.1?classifier=sources
+- pkg:maven/com.devcycle/android-client-sdk@2.6.2?classifier=sources

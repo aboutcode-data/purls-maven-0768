@@ -44,3 +44,8 @@
 - pkg:maven/dev.bannmann.labs/annotations@0.37?classifier=sources
 - pkg:maven/dev.bannmann.labs/annotations@0.38?classifier=sources
 - pkg:maven/dev.bannmann.labs/annotations@0.39?classifier=sources
+- pkg:maven/dev.bannmann.labs/annotations@0.40?classifier=sources
+- pkg:maven/dev.bannmann.labs/annotations@0.41?classifier=sources
+- pkg:maven/dev.bannmann.labs/annotations@0.42?classifier=sources
+- pkg:maven/dev.bannmann.labs/annotations@0.43?classifier=sources
+- pkg:maven/dev.bannmann.labs/annotations@0.44?classifier=sources

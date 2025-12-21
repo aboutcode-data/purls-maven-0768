@@ -7,3 +7,5 @@
 - pkg:maven/eu.aschuetz/JavaNativeUtilsApi@4.6?classifier=sources
 - pkg:maven/eu.aschuetz/JavaNativeUtilsApi@4.7?classifier=sources
 - pkg:maven/eu.aschuetz/JavaNativeUtilsApi@4.8?classifier=sources
+- pkg:maven/eu.aschuetz/JavaNativeUtilsApi@4.9
+- pkg:maven/eu.aschuetz/JavaNativeUtilsApi@4.9?classifier=sources

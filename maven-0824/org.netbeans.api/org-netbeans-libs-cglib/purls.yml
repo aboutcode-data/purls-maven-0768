@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-cglib@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-cglib@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-cglib@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-cglib@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-cglib@RELEASE90?classifier=sources

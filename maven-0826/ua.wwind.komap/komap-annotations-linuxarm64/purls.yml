@@ -1,0 +1,2 @@
+- pkg:maven/ua.wwind.komap/komap-annotations-linuxarm64@1.0.0?classifier=sources
+- pkg:maven/ua.wwind.komap/komap-annotations-linuxarm64@1.0.1?classifier=sources

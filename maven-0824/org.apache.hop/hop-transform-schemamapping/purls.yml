@@ -8,5 +8,7 @@
 - pkg:maven/org.apache.hop/hop-transform-schemamapping@2.13.0?classifier=sources
 - pkg:maven/org.apache.hop/hop-transform-schemamapping@2.14.0
 - pkg:maven/org.apache.hop/hop-transform-schemamapping@2.14.0?classifier=sources
+- pkg:maven/org.apache.hop/hop-transform-schemamapping@2.15.0?classifier=sources
+- pkg:maven/org.apache.hop/hop-transform-schemamapping@2.15.0?type=zip
 - pkg:maven/org.apache.hop/hop-transform-schemamapping@2.9.0
 - pkg:maven/org.apache.hop/hop-transform-schemamapping@2.9.0?classifier=sources

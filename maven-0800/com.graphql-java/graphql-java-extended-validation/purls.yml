@@ -12,6 +12,11 @@
 - pkg:maven/com.graphql-java/graphql-java-extended-validation@0.0.0-2025-07-07T08-13-07-f8c1e76?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-extended-validation@0.0.0-2025-07-07T08-19-08-60cc2bf?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-extended-validation@0.0.0-2025-07-20T20-29-43-9136bda?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-extended-validation@0.0.0-2025-08-04T20-40-42-0681f82?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-extended-validation@0.0.0-2025-08-05T20-23-57-60510b4?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-extended-validation@0.0.0-2025-08-15T22-01-42-c41f21a?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-extended-validation@0.0.0-2025-08-18T22-18-34-eb6b7c1?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-extended-validation@0.0.0-2025-08-19T21-25-17-59b0c03?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-extended-validation@0.0.2
 - pkg:maven/com.graphql-java/graphql-java-extended-validation@0.0.2?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-extended-validation@0.0.3

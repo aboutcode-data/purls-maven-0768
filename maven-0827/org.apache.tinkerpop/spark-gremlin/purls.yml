@@ -136,3 +136,5 @@
 - pkg:maven/org.apache.tinkerpop/spark-gremlin@3.7.2?classifier=sources
 - pkg:maven/org.apache.tinkerpop/spark-gremlin@3.7.3
 - pkg:maven/org.apache.tinkerpop/spark-gremlin@3.7.3?classifier=sources
+- pkg:maven/org.apache.tinkerpop/spark-gremlin@3.7.4
+- pkg:maven/org.apache.tinkerpop/spark-gremlin@3.7.4?classifier=sources

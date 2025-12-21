@@ -1,0 +1,4 @@
+- pkg:maven/com.wiliot/wiliot-advertising@1.11.0?classifier=sources
+- pkg:maven/com.wiliot/wiliot-advertising@1.13.0?classifier=sources
+- pkg:maven/com.wiliot/wiliot-advertising@1.13.1?classifier=sources
+- pkg:maven/com.wiliot/wiliot-advertising@1.13.2?classifier=sources

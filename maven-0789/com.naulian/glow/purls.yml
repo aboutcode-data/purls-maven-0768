@@ -4,3 +4,4 @@
 - pkg:maven/com.naulian/glow@1.8.0-beta01?classifier=sources
 - pkg:maven/com.naulian/glow@1.8.0-beta02?classifier=sources
 - pkg:maven/com.naulian/glow@1.8.0-rc?classifier=sources
+- pkg:maven/com.naulian/glow@1.8.0?classifier=sources

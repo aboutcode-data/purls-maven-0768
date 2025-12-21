@@ -24,3 +24,4 @@
 - pkg:maven/com.cognitect.aws/chime-sdk-messaging@848.2.1413.0?classifier=sources
 - pkg:maven/com.cognitect.aws/chime-sdk-messaging@871.2.29.35
 - pkg:maven/com.cognitect.aws/chime-sdk-messaging@871.2.29.35?classifier=sources
+- pkg:maven/com.cognitect.aws/chime-sdk-messaging@871.2.32.30?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.xenoamess.necrodialysis.flink-connector-pulsar/flink-connector-pulsar@4.2.x1-beta1?classifier=sources
+- pkg:maven/com.xenoamess.necrodialysis.flink-connector-pulsar/flink-connector-pulsar@4.2.x1-beta2?classifier=sources
+- pkg:maven/com.xenoamess.necrodialysis.flink-connector-pulsar/flink-connector-pulsar@4.2.x1-beta3?classifier=sources
+- pkg:maven/com.xenoamess.necrodialysis.flink-connector-pulsar/flink-connector-pulsar@5.0.0-pulsar-2.11.0-beta1?classifier=sources

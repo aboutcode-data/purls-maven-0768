@@ -107,6 +107,10 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@64.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@64.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@65.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@66.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@66.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@66.0.2?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@66.0.3?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dir-package-configuration-provider@8.0.0?classifier=sources
