@@ -1,0 +1,6 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-opentelemetry-tracing_2.13@1.11.18
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-opentelemetry-tracing_2.13@1.11.18?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-opentelemetry-tracing_2.13@1.11.19
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-opentelemetry-tracing_2.13@1.11.19?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-opentelemetry-tracing_2.13@1.11.20
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-opentelemetry-tracing_2.13@1.11.20?classifier=sources

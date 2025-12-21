@@ -67,3 +67,4 @@
 - pkg:maven/com.astralanguage/astra-maven-plugin@1.5.0?classifier=sources
 - pkg:maven/com.astralanguage/astra-maven-plugin@1.5.1?classifier=sources
 - pkg:maven/com.astralanguage/astra-maven-plugin@2.0.0?classifier=sources
+- pkg:maven/com.astralanguage/astra-maven-plugin@2.0.1?classifier=sources

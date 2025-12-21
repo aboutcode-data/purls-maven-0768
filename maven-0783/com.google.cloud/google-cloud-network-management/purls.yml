@@ -138,6 +138,10 @@
 - pkg:maven/com.google.cloud/google-cloud-network-management@1.59.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-network-management@1.6.0
 - pkg:maven/com.google.cloud/google-cloud-network-management@1.6.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-network-management@1.60.0
+- pkg:maven/com.google.cloud/google-cloud-network-management@1.60.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-network-management@1.61.0
+- pkg:maven/com.google.cloud/google-cloud-network-management@1.61.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-network-management@1.7.0
 - pkg:maven/com.google.cloud/google-cloud-network-management@1.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-network-management@1.8.0

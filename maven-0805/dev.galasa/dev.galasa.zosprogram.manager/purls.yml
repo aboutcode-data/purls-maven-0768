@@ -13,3 +13,4 @@
 - pkg:maven/dev.galasa/dev.galasa.zosprogram.manager@0.25.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.zosprogram.manager@0.38.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.zosprogram.manager@0.39.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.zosprogram.manager@0.40.0?classifier=sources

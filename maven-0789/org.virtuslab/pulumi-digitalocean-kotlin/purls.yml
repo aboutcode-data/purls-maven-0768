@@ -33,3 +33,5 @@
 - pkg:maven/org.virtuslab/pulumi-digitalocean-kotlin@4.39.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-digitalocean-kotlin@4.39.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-digitalocean-kotlin@4.40.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-digitalocean-kotlin@4.40.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-digitalocean-kotlin@4.40.2.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.mvnpm/sass@1.81.0?classifier=sources
 - pkg:maven/org.mvnpm/sass@1.83.1?classifier=sources
 - pkg:maven/org.mvnpm/sass@1.85.0?classifier=sources
+- pkg:maven/org.mvnpm/sass@1.86.0?classifier=sources
+- pkg:maven/org.mvnpm/sass@1.86.1?classifier=sources

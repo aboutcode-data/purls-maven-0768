@@ -36,3 +36,5 @@
 - pkg:maven/org.scalameta/mdoc-js-worker_2.12@2.6.3?classifier=sources
 - pkg:maven/org.scalameta/mdoc-js-worker_2.12@2.6.4
 - pkg:maven/org.scalameta/mdoc-js-worker_2.12@2.6.4?classifier=sources
+- pkg:maven/org.scalameta/mdoc-js-worker_2.12@2.6.5
+- pkg:maven/org.scalameta/mdoc-js-worker_2.12@2.6.5?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/com.tencent.devops/devops-boot-starter-schedule-server@0.0.7?classifier=sources
 - pkg:maven/com.tencent.devops/devops-boot-starter-schedule-server@0.0.8?classifier=sources
 - pkg:maven/com.tencent.devops/devops-boot-starter-schedule-server@0.0.9?classifier=sources
+- pkg:maven/com.tencent.devops/devops-boot-starter-schedule-server@1.0.0?classifier=sources

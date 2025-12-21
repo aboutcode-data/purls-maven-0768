@@ -1,1 +1,2 @@
 - pkg:maven/io.github.danfromtitan/test-bundle@1.0.50?classifier=sources
+- pkg:maven/io.github.danfromtitan/test-bundle@1.1.0?classifier=sources

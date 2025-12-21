@@ -38,3 +38,5 @@
 - pkg:maven/com.ibeetl/beetl-spring-boot-starter-classic@3.18.0.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/beetl-spring-boot-starter-classic@3.19.0.RELEASE
 - pkg:maven/com.ibeetl/beetl-spring-boot-starter-classic@3.19.0.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/beetl-spring-boot-starter-classic@3.19.1.RELEASE
+- pkg:maven/com.ibeetl/beetl-spring-boot-starter-classic@3.19.1.RELEASE?classifier=sources

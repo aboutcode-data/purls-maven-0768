@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/jest-resolve-dependencies@26.6.3?classifier=sources
+- pkg:maven/org.mvnpm/jest-resolve-dependencies@29.7.0?classifier=sources

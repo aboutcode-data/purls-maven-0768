@@ -1,0 +1,3 @@
+- pkg:maven/org.mvnpm/autoprefixer@10.4.20?classifier=sources
+- pkg:maven/org.mvnpm/autoprefixer@10.4.21?classifier=sources
+- pkg:maven/org.mvnpm/autoprefixer@6.7.7?classifier=sources

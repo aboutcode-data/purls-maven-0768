@@ -1,3 +1,5 @@
 - pkg:maven/com.factset.sdk/companylogo@0.12.0?classifier=sources
 - pkg:maven/com.factset.sdk/companylogo@0.12.1?classifier=sources
+- pkg:maven/com.factset.sdk/companylogo@0.12.2?classifier=sources
 - pkg:maven/com.factset.sdk/companylogo@0.20.0?classifier=sources
+- pkg:maven/com.factset.sdk/companylogo@0.20.1?classifier=sources

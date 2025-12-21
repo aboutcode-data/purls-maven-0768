@@ -11,3 +11,4 @@
 - pkg:maven/org.webjars.npm/vega-parser@6.1.4
 - pkg:maven/org.webjars.npm/vega-parser@6.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/vega-parser@6.4.0
+- pkg:maven/org.webjars.npm/vega-parser@6.6.0

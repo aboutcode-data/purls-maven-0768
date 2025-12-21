@@ -281,6 +281,8 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-6-8e3dc3a?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-6-a3c2347
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-6-a3c2347?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-6-c8d0364
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-6-c8d0364?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-6-d2d6048
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-6-d2d6048?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-6-e5aa5b6
@@ -293,6 +295,8 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-660-83ca092?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-698-c1f0883
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-698-c1f0883?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-7-00bc26f
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-7-00bc26f?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-7-92d56f2
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-7-92d56f2?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.0-7-e369dd4
@@ -395,6 +399,10 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.29?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.2?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.3
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.30
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.30?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.31
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.31?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.3?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.4
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-aws-http4s_sjs1_3@0.18.4?classifier=sources

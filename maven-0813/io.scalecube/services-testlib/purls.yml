@@ -16,3 +16,5 @@
 - pkg:maven/io.scalecube/services-testlib@2.12.3?classifier=sources
 - pkg:maven/io.scalecube/services-testlib@2.12.5
 - pkg:maven/io.scalecube/services-testlib@2.12.5?classifier=sources
+- pkg:maven/io.scalecube/services-testlib@2.12.6.better-close.rc1
+- pkg:maven/io.scalecube/services-testlib@2.12.6.better-close.rc1?classifier=sources

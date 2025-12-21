@@ -1,2 +1,4 @@
 - pkg:maven/org.openscience.cdk/cdk-rinchi@2.10
 - pkg:maven/org.openscience.cdk/cdk-rinchi@2.10?classifier=sources
+- pkg:maven/org.openscience.cdk/cdk-rinchi@2.11
+- pkg:maven/org.openscience.cdk/cdk-rinchi@2.11?classifier=sources

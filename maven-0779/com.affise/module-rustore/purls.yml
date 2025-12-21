@@ -4,3 +4,5 @@
 - pkg:maven/com.affise/module-rustore@1.6.51?classifier=sources
 - pkg:maven/com.affise/module-rustore@1.6.52?classifier=sources
 - pkg:maven/com.affise/module-rustore@1.6.53?classifier=sources
+- pkg:maven/com.affise/module-rustore@1.6.54?classifier=sources
+- pkg:maven/com.affise/module-rustore@1.6.55?classifier=sources

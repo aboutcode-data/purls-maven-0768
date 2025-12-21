@@ -1,0 +1,5 @@
+- pkg:maven/com.meticha/permissions_compose@0.0.1%2B1?classifier=sources
+- pkg:maven/com.meticha/permissions_compose@0.0.1%2B2?classifier=sources
+- pkg:maven/com.meticha/permissions_compose@0.0.1%2B3?classifier=sources
+- pkg:maven/com.meticha/permissions_compose@0.0.1%2B4?classifier=sources
+- pkg:maven/com.meticha/permissions_compose@0.0.1?classifier=sources

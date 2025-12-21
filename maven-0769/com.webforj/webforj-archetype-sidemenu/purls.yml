@@ -1,1 +1,2 @@
 - pkg:maven/com.webforj/webforj-archetype-sidemenu@24.21?classifier=sources
+- pkg:maven/com.webforj/webforj-archetype-sidemenu@24.22?classifier=sources

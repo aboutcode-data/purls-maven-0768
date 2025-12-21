@@ -78,6 +78,8 @@
 - pkg:maven/io.sundr/resourcecify-annotations@0.20.0?classifier=sources
 - pkg:maven/io.sundr/resourcecify-annotations@0.200.0
 - pkg:maven/io.sundr/resourcecify-annotations@0.200.0?classifier=sources
+- pkg:maven/io.sundr/resourcecify-annotations@0.200.3
+- pkg:maven/io.sundr/resourcecify-annotations@0.200.3?classifier=sources
 - pkg:maven/io.sundr/resourcecify-annotations@0.21.0
 - pkg:maven/io.sundr/resourcecify-annotations@0.21.0?classifier=sources
 - pkg:maven/io.sundr/resourcecify-annotations@0.22.0

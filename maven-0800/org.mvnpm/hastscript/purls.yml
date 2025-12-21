@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm/hastscript@6.0.0?classifier=sources
+- pkg:maven/org.mvnpm/hastscript@7.2.0?classifier=sources
+- pkg:maven/org.mvnpm/hastscript@9.0.1?classifier=sources

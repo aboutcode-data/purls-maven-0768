@@ -14,3 +14,4 @@
 - pkg:maven/io.github.lordeath/local-collection@1.0.20250215.2?classifier=sources
 - pkg:maven/io.github.lordeath/local-collection@1.0.20250215.3?classifier=sources
 - pkg:maven/io.github.lordeath/local-collection@1.0.20250215.4?classifier=sources
+- pkg:maven/io.github.lordeath/local-collection@1.0.20250306.1?classifier=sources

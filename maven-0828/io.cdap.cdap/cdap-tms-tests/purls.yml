@@ -5,6 +5,7 @@
 - pkg:maven/io.cdap.cdap/cdap-tms-tests@6.1.4
 - pkg:maven/io.cdap.cdap/cdap-tms-tests@6.10.0
 - pkg:maven/io.cdap.cdap/cdap-tms-tests@6.10.1
+- pkg:maven/io.cdap.cdap/cdap-tms-tests@6.11.0
 - pkg:maven/io.cdap.cdap/cdap-tms-tests@6.2.0
 - pkg:maven/io.cdap.cdap/cdap-tms-tests@6.2.1
 - pkg:maven/io.cdap.cdap/cdap-tms-tests@6.2.2

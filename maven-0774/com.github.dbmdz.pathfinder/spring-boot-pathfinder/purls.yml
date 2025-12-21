@@ -1,2 +1,4 @@
 - pkg:maven/com.github.dbmdz.pathfinder/spring-boot-pathfinder@2.1.0
 - pkg:maven/com.github.dbmdz.pathfinder/spring-boot-pathfinder@2.1.0?classifier=sources
+- pkg:maven/com.github.dbmdz.pathfinder/spring-boot-pathfinder@3.0.0
+- pkg:maven/com.github.dbmdz.pathfinder/spring-boot-pathfinder@3.0.0?classifier=sources

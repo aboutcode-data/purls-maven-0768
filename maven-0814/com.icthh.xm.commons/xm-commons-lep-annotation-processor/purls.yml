@@ -43,6 +43,7 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@2.3.36
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@2.3.36?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@3.2.13?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@3.2.14?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@3.2.3?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@3.2.7?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@4.0.10?classifier=sources
@@ -59,5 +60,7 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@4.0.24?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@4.0.26?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@4.0.27?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@4.0.28?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@4.0.30?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@4.0.6?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-annotation-processor@4.0.9?classifier=sources

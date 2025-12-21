@@ -170,3 +170,13 @@
 - pkg:maven/com.google.guava/guava-gwt@33.3.1-jre?classifier=sources
 - pkg:maven/com.google.guava/guava-gwt@33.4.0-jre
 - pkg:maven/com.google.guava/guava-gwt@33.4.0-jre?classifier=sources
+- pkg:maven/com.google.guava/guava-gwt@33.4.1-jre
+- pkg:maven/com.google.guava/guava-gwt@33.4.1-jre?classifier=sources
+- pkg:maven/com.google.guava/guava-gwt@33.4.2-jre
+- pkg:maven/com.google.guava/guava-gwt@33.4.2-jre?classifier=sources
+- pkg:maven/com.google.guava/guava-gwt@33.4.3-jre
+- pkg:maven/com.google.guava/guava-gwt@33.4.3-jre?classifier=sources
+- pkg:maven/com.google.guava/guava-gwt@33.4.4-jre
+- pkg:maven/com.google.guava/guava-gwt@33.4.4-jre?classifier=sources
+- pkg:maven/com.google.guava/guava-gwt@33.4.5-jre
+- pkg:maven/com.google.guava/guava-gwt@33.4.5-jre?classifier=sources

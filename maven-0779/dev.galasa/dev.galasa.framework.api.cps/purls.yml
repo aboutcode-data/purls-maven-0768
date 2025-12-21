@@ -20,5 +20,6 @@
 - pkg:maven/dev.galasa/dev.galasa.framework.api.cps@0.37.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.api.cps@0.38.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.api.cps@0.39.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.framework.api.cps@0.40.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.api.cps@0.9.0
 - pkg:maven/dev.galasa/dev.galasa.framework.api.cps@0.9.0?classifier=sources

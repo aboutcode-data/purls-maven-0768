@@ -320,3 +320,5 @@
 - pkg:maven/nl.vpro.media/media-classification@8.4.3?classifier=sources
 - pkg:maven/nl.vpro.media/media-classification@8.5.0
 - pkg:maven/nl.vpro.media/media-classification@8.5.0?classifier=sources
+- pkg:maven/nl.vpro.media/media-classification@8.6.0
+- pkg:maven/nl.vpro.media/media-classification@8.6.0?classifier=sources

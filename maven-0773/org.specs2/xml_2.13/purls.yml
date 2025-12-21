@@ -80,3 +80,5 @@
 - pkg:maven/org.specs2/xml_2.13@4.20.8?classifier=sources
 - pkg:maven/org.specs2/xml_2.13@4.20.9
 - pkg:maven/org.specs2/xml_2.13@4.20.9?classifier=sources
+- pkg:maven/org.specs2/xml_2.13@4.21.0
+- pkg:maven/org.specs2/xml_2.13@4.21.0?classifier=sources

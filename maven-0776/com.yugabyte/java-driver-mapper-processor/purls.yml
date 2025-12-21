@@ -12,6 +12,8 @@
 - pkg:maven/com.yugabyte/java-driver-mapper-processor@4.15.0-yb-2-TESTFIX.0
 - pkg:maven/com.yugabyte/java-driver-mapper-processor@4.15.0-yb-2-TESTFIX.0?classifier=sources
 - pkg:maven/com.yugabyte/java-driver-mapper-processor@4.15.0-yb-2?classifier=sources
+- pkg:maven/com.yugabyte/java-driver-mapper-processor@4.15.0-yb-3
+- pkg:maven/com.yugabyte/java-driver-mapper-processor@4.15.0-yb-3?classifier=sources
 - pkg:maven/com.yugabyte/java-driver-mapper-processor@4.6.0-yb-10
 - pkg:maven/com.yugabyte/java-driver-mapper-processor@4.6.0-yb-10?classifier=sources
 - pkg:maven/com.yugabyte/java-driver-mapper-processor@4.6.0-yb-11

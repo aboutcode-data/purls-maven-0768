@@ -13,3 +13,4 @@
 - pkg:maven/org.virtuslab/pulumi-nomad-kotlin@2.4.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-nomad-kotlin@2.4.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-nomad-kotlin@2.4.2.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-nomad-kotlin@2.4.3.0?classifier=sources

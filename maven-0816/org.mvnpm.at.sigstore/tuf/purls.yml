@@ -1,0 +1,1 @@
+- pkg:maven/org.mvnpm.at.sigstore/tuf@3.1.0?classifier=sources

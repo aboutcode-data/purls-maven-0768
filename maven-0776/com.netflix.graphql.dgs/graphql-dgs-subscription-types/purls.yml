@@ -2,6 +2,7 @@
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-subscription-types@10.0.1?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-subscription-types@10.0.2?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-subscription-types@10.0.3?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-subscription-types@10.0.4?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-subscription-types@4.10.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-subscription-types@4.10.1?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-subscription-types@4.10.2?classifier=sources

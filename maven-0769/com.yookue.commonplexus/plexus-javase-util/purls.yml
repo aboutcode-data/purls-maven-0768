@@ -14,3 +14,5 @@
 - pkg:maven/com.yookue.commonplexus/plexus-javase-util@2.0.2?classifier=sources
 - pkg:maven/com.yookue.commonplexus/plexus-javase-util@2.0.3
 - pkg:maven/com.yookue.commonplexus/plexus-javase-util@2.0.3?classifier=sources
+- pkg:maven/com.yookue.commonplexus/plexus-javase-util@2.0.5
+- pkg:maven/com.yookue.commonplexus/plexus-javase-util@2.0.5?classifier=sources

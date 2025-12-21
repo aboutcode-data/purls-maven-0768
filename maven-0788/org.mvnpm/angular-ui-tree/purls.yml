@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/angular-ui-tree@2.22.2?classifier=sources
+- pkg:maven/org.mvnpm/angular-ui-tree@2.22.6?classifier=sources

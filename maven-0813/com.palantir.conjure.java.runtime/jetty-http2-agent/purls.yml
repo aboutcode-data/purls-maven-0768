@@ -79,6 +79,7 @@
 - pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@8.15.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@8.16.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@8.17.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@8.18.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@8.2.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@8.3.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/jetty-http2-agent@8.4.0?classifier=sources

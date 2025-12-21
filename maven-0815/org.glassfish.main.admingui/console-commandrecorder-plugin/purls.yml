@@ -5,8 +5,11 @@
 - pkg:maven/org.glassfish.main.admingui/console-commandrecorder-plugin@7.0.20?classifier=sources
 - pkg:maven/org.glassfish.main.admingui/console-commandrecorder-plugin@7.0.21?classifier=sources
 - pkg:maven/org.glassfish.main.admingui/console-commandrecorder-plugin@7.0.22?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/console-commandrecorder-plugin@7.0.23?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/console-commandrecorder-plugin@8.0.0-JDK17-M10?classifier=sources
 - pkg:maven/org.glassfish.main.admingui/console-commandrecorder-plugin@8.0.0-JDK17-M7?classifier=sources
 - pkg:maven/org.glassfish.main.admingui/console-commandrecorder-plugin@8.0.0-JDK17-M9?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/console-commandrecorder-plugin@8.0.0-M10?classifier=sources
 - pkg:maven/org.glassfish.main.admingui/console-commandrecorder-plugin@8.0.0-M7?classifier=sources
 - pkg:maven/org.glassfish.main.admingui/console-commandrecorder-plugin@8.0.0-M8?classifier=sources
 - pkg:maven/org.glassfish.main.admingui/console-commandrecorder-plugin@8.0.0-M9?classifier=sources

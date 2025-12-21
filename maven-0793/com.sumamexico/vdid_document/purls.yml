@@ -1,0 +1,4 @@
+- pkg:maven/com.sumamexico/vdid_document@0.0.1-beta?classifier=sources
+- pkg:maven/com.sumamexico/vdid_document@0.0.1?classifier=sources
+- pkg:maven/com.sumamexico/vdid_document@0.0.2-rc1?classifier=sources
+- pkg:maven/com.sumamexico/vdid_document@0.0.2-rc2?classifier=sources

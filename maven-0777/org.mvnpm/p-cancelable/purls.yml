@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/p-cancelable@1.1.0?classifier=sources
+- pkg:maven/org.mvnpm/p-cancelable@4.0.1?classifier=sources

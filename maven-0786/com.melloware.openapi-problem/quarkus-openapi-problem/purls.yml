@@ -1,0 +1,2 @@
+- pkg:maven/com.melloware.openapi-problem/quarkus-openapi-problem@0.0.1
+- pkg:maven/com.melloware.openapi-problem/quarkus-openapi-problem@0.0.1?classifier=sources

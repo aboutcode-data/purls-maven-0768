@@ -36,3 +36,6 @@
 - pkg:maven/org.wildfly.glow/wildfly-glow-arquillian-plugin-tests@1.2.0.Final
 - pkg:maven/org.wildfly.glow/wildfly-glow-arquillian-plugin-tests@1.3.0.Final
 - pkg:maven/org.wildfly.glow/wildfly-glow-arquillian-plugin-tests@1.3.1.Final
+- pkg:maven/org.wildfly.glow/wildfly-glow-arquillian-plugin-tests@1.3.2.Final
+- pkg:maven/org.wildfly.glow/wildfly-glow-arquillian-plugin-tests@1.3.3.Final
+- pkg:maven/org.wildfly.glow/wildfly-glow-arquillian-plugin-tests@1.4.0.Final

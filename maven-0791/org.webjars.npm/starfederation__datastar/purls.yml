@@ -1,7 +1,10 @@
 - pkg:maven/org.webjars.npm/starfederation__datastar@1.0.0-beta.1
+- pkg:maven/org.webjars.npm/starfederation__datastar@1.0.0-beta.10
+- pkg:maven/org.webjars.npm/starfederation__datastar@1.0.0-beta.11
 - pkg:maven/org.webjars.npm/starfederation__datastar@1.0.0-beta.2
 - pkg:maven/org.webjars.npm/starfederation__datastar@1.0.0-beta.3
 - pkg:maven/org.webjars.npm/starfederation__datastar@1.0.0-beta.5
 - pkg:maven/org.webjars.npm/starfederation__datastar@1.0.0-beta.6
 - pkg:maven/org.webjars.npm/starfederation__datastar@1.0.0-beta.7
 - pkg:maven/org.webjars.npm/starfederation__datastar@1.0.0-beta.8
+- pkg:maven/org.webjars.npm/starfederation__datastar@1.0.0-beta.9

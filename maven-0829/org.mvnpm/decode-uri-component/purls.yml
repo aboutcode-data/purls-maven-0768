@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/decode-uri-component@0.2.2?classifier=sources
+- pkg:maven/org.mvnpm/decode-uri-component@0.4.1?classifier=sources

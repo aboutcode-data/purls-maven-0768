@@ -10,3 +10,5 @@
 - pkg:maven/jakarta.enterprise/jakarta.enterprise.cdi-el-api@4.1.0.RC1
 - pkg:maven/jakarta.enterprise/jakarta.enterprise.cdi-el-api@4.1.0.RC1?classifier=sources
 - pkg:maven/jakarta.enterprise/jakarta.enterprise.cdi-el-api@4.1.0?classifier=sources
+- pkg:maven/jakarta.enterprise/jakarta.enterprise.cdi-el-api@5.0.0.Alpha1
+- pkg:maven/jakarta.enterprise/jakarta.enterprise.cdi-el-api@5.0.0.Alpha1?classifier=sources

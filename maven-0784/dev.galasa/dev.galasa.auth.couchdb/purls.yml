@@ -5,3 +5,4 @@
 - pkg:maven/dev.galasa/dev.galasa.auth.couchdb@0.37.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.auth.couchdb@0.38.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.auth.couchdb@0.39.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.auth.couchdb@0.40.0?classifier=sources

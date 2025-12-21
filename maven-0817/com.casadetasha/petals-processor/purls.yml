@@ -1,3 +1,6 @@
 - pkg:maven/com.casadetasha/petals-processor@1.6.3-alpha-1?classifier=sources
 - pkg:maven/com.casadetasha/petals-processor@1.6.4-beta?classifier=sources
 - pkg:maven/com.casadetasha/petals-processor@1.6.5-beta?classifier=sources
+- pkg:maven/com.casadetasha/petals-processor@2.0.60-0-R1?classifier=sources
+- pkg:maven/com.casadetasha/petals-processor@2.0.60-0-alpha2?classifier=sources
+- pkg:maven/com.casadetasha/petals-processor@2.0.60-0alpha?classifier=sources

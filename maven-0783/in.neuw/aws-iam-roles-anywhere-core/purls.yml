@@ -1,0 +1,2 @@
+- pkg:maven/in.neuw/aws-iam-roles-anywhere-core@0.1?classifier=sources
+- pkg:maven/in.neuw/aws-iam-roles-anywhere-core@0.2?classifier=sources

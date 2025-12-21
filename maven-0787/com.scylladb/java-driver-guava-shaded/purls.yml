@@ -1,0 +1,2 @@
+- pkg:maven/com.scylladb/java-driver-guava-shaded@4.19.0.0
+- pkg:maven/com.scylladb/java-driver-guava-shaded@4.19.0.0?classifier=sources

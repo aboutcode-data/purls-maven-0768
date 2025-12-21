@@ -1,2 +1,4 @@
 - pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-svs@5.0.0
 - pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-svs@5.0.0?classifier=sources
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-svs@5.1-20250314
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-svs@5.1-20250314?classifier=sources

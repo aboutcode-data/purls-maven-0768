@@ -36,3 +36,4 @@
 - pkg:maven/org.cryptomator/jfuse-mac@0.6.3?classifier=sources
 - pkg:maven/org.cryptomator/jfuse-mac@0.7.0
 - pkg:maven/org.cryptomator/jfuse-mac@0.7.0?classifier=sources
+- pkg:maven/org.cryptomator/jfuse-mac@0.7.1?classifier=sources

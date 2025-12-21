@@ -1,1 +1,2 @@
 - pkg:maven/com.ioki/passenger-api-test-jvm@0.3.0?classifier=sources
+- pkg:maven/com.ioki/passenger-api-test-jvm@0.4.0?classifier=sources

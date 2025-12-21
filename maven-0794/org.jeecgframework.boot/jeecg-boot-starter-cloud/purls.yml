@@ -40,3 +40,4 @@
 - pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-cloud@3.7.2?classifier=sources
 - pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-cloud@3.7.3
 - pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-cloud@3.7.3?classifier=sources
+- pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-cloud@3.7.4

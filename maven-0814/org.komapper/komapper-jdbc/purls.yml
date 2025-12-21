@@ -63,3 +63,5 @@
 - pkg:maven/org.komapper/komapper-jdbc@5.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-jdbc@5.1.0?classifier=sources
 - pkg:maven/org.komapper/komapper-jdbc@5.2.0?classifier=sources
+- pkg:maven/org.komapper/komapper-jdbc@5.2.1?classifier=sources
+- pkg:maven/org.komapper/komapper-jdbc@RELEASE_VERSION?classifier=sources

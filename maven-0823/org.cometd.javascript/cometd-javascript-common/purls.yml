@@ -180,3 +180,4 @@
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@8.0.4?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@8.0.5?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-common@8.0.6?type=war
+- pkg:maven/org.cometd.javascript/cometd-javascript-common@8.0.7?type=war

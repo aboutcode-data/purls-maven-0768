@@ -1,2 +1,3 @@
 - pkg:maven/org.mvnpm/prettier@2.8.8?classifier=sources
 - pkg:maven/org.mvnpm/prettier@3.4.2?classifier=sources
+- pkg:maven/org.mvnpm/prettier@3.5.3?classifier=sources

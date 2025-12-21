@@ -1,0 +1,1 @@
+- pkg:maven/org.opensearch/opensearch-geospatial@3.0.0.0-alpha1?classifier=sources

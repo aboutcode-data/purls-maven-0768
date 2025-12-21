@@ -1,0 +1,8 @@
+- pkg:maven/com.magine/http4s-aws_native0.4_3@6.0-aa02b8b
+- pkg:maven/com.magine/http4s-aws_native0.4_3@6.0-aa02b8b?classifier=sources
+- pkg:maven/com.magine/http4s-aws_native0.4_3@6.0.0
+- pkg:maven/com.magine/http4s-aws_native0.4_3@6.0.0-1-a2a3f02
+- pkg:maven/com.magine/http4s-aws_native0.4_3@6.0.0-1-a2a3f02?classifier=sources
+- pkg:maven/com.magine/http4s-aws_native0.4_3@6.0.0-2-6aa4710
+- pkg:maven/com.magine/http4s-aws_native0.4_3@6.0.0-2-6aa4710?classifier=sources
+- pkg:maven/com.magine/http4s-aws_native0.4_3@6.0.0?classifier=sources

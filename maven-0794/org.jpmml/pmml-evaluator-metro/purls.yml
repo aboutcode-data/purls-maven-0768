@@ -17,3 +17,4 @@
 - pkg:maven/org.jpmml/pmml-evaluator-metro@1.6.9
 - pkg:maven/org.jpmml/pmml-evaluator-metro@1.7.0
 - pkg:maven/org.jpmml/pmml-evaluator-metro@1.7.1
+- pkg:maven/org.jpmml/pmml-evaluator-metro@1.7.2

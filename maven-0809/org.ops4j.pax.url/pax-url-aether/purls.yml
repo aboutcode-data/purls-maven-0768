@@ -120,3 +120,5 @@
 - pkg:maven/org.ops4j.pax.url/pax-url-aether@2.6.8?classifier=sources
 - pkg:maven/org.ops4j.pax.url/pax-url-aether@2.6.9
 - pkg:maven/org.ops4j.pax.url/pax-url-aether@2.6.9?classifier=sources
+- pkg:maven/org.ops4j.pax.url/pax-url-aether@3.0.0
+- pkg:maven/org.ops4j.pax.url/pax-url-aether@3.0.0?classifier=sources

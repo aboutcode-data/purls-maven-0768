@@ -22,3 +22,4 @@
 - pkg:maven/com.tink/link@2.8.0?classifier=sources
 - pkg:maven/com.tink/link@2.9.0?classifier=sources
 - pkg:maven/com.tink/link@3.0.0?classifier=sources
+- pkg:maven/com.tink/link@3.0.1?classifier=sources

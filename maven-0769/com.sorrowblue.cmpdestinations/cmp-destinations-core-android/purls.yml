@@ -1,0 +1,5 @@
+- pkg:maven/com.sorrowblue.cmpdestinations/cmp-destinations-core-android@0.0.0?classifier=sources
+- pkg:maven/com.sorrowblue.cmpdestinations/cmp-destinations-core-android@0.1.0?classifier=sources
+- pkg:maven/com.sorrowblue.cmpdestinations/cmp-destinations-core-android@0.1.1?classifier=sources
+- pkg:maven/com.sorrowblue.cmpdestinations/cmp-destinations-core-android@0.1.2?classifier=sources
+- pkg:maven/com.sorrowblue.cmpdestinations/cmp-destinations-core-android@kotlin.Unit?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.typelevel/shapeless3-deriving_native0.5_3@3.4.3
 - pkg:maven/org.typelevel/shapeless3-deriving_native0.5_3@3.4.3?classifier=sources
+- pkg:maven/org.typelevel/shapeless3-deriving_native0.5_3@3.5.0
+- pkg:maven/org.typelevel/shapeless3-deriving_native0.5_3@3.5.0?classifier=sources

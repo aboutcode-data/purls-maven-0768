@@ -1,1 +1,2 @@
 - pkg:maven/de.jonasbroeckmann.kzip/kzip-jvm@1.0.0?classifier=sources
+- pkg:maven/de.jonasbroeckmann.kzip/kzip-jvm@1.1.0?classifier=sources

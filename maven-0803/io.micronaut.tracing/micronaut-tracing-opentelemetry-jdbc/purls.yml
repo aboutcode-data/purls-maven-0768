@@ -1,1 +1,2 @@
 - pkg:maven/io.micronaut.tracing/micronaut-tracing-opentelemetry-jdbc@6.9.0?classifier=sources
+- pkg:maven/io.micronaut.tracing/micronaut-tracing-opentelemetry-jdbc@7.0.0?classifier=sources

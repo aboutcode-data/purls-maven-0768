@@ -1,1 +1,2 @@
 - pkg:maven/com.inomera.telco.commons/lock-provider-hazelcast-4x@2.0.0?classifier=sources
+- pkg:maven/com.inomera.telco.commons/lock-provider-hazelcast-4x@3.0.0?classifier=sources

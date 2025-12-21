@@ -6,3 +6,9 @@
 - pkg:maven/io.github.mohammedamehry/UltimateAds@2.4.0?classifier=sources
 - pkg:maven/io.github.mohammedamehry/UltimateAds@2.5.0?classifier=sources
 - pkg:maven/io.github.mohammedamehry/UltimateAds@2.6.0?classifier=sources
+- pkg:maven/io.github.mohammedamehry/UltimateAds@3.0.0?classifier=sources
+- pkg:maven/io.github.mohammedamehry/UltimateAds@3.1.0?classifier=sources
+- pkg:maven/io.github.mohammedamehry/UltimateAds@3.2.0?classifier=sources
+- pkg:maven/io.github.mohammedamehry/UltimateAds@4.0.0?classifier=sources
+- pkg:maven/io.github.mohammedamehry/UltimateAds@4.1.0?classifier=sources
+- pkg:maven/io.github.mohammedamehry/UltimateAds@4.2.0?classifier=sources

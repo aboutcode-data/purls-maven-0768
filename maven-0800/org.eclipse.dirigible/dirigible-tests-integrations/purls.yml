@@ -85,9 +85,17 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@10.6.9
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.1.0
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.1.1
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.11.0
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.2.0
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.2.1
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.2.3
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.2.4
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.2.5
 - pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.2.6
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.3.0
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.6.1
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.7.0
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.8.0
+- pkg:maven/org.eclipse.dirigible/dirigible-tests-integrations@11.9.0

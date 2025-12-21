@@ -2,5 +2,7 @@
 - pkg:maven/org.wso2.carbon.identity.local.auth.smsotp/org.wso2.carbon.identity.local.auth.smsotp.event.handler@1.0.10?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.local.auth.smsotp/org.wso2.carbon.identity.local.auth.smsotp.event.handler@1.0.19
 - pkg:maven/org.wso2.carbon.identity.local.auth.smsotp/org.wso2.carbon.identity.local.auth.smsotp.event.handler@1.0.19?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.local.auth.smsotp/org.wso2.carbon.identity.local.auth.smsotp.event.handler@1.0.23
+- pkg:maven/org.wso2.carbon.identity.local.auth.smsotp/org.wso2.carbon.identity.local.auth.smsotp.event.handler@1.0.23?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.local.auth.smsotp/org.wso2.carbon.identity.local.auth.smsotp.event.handler@1.0.7
 - pkg:maven/org.wso2.carbon.identity.local.auth.smsotp/org.wso2.carbon.identity.local.auth.smsotp.event.handler@1.0.7?classifier=sources

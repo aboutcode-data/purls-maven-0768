@@ -301,6 +301,8 @@
 - pkg:maven/com.pulumi/oci@2.23.0?classifier=sources
 - pkg:maven/com.pulumi/oci@2.24.0?classifier=sources
 - pkg:maven/com.pulumi/oci@2.25.0?classifier=sources
+- pkg:maven/com.pulumi/oci@2.26.0?classifier=sources
+- pkg:maven/com.pulumi/oci@2.27.0?classifier=sources
 - pkg:maven/com.pulumi/oci@2.5.0-alpha.1722062014?classifier=sources
 - pkg:maven/com.pulumi/oci@2.5.0-alpha.1722606028?classifier=sources
 - pkg:maven/com.pulumi/oci@2.5.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/dev.ikm.jpms/eclipse-collections-api@11.1.0-r8?classifier=sources
 - pkg:maven/dev.ikm.jpms/eclipse-collections-api@11.1.0-r9
 - pkg:maven/dev.ikm.jpms/eclipse-collections-api@11.1.0-r9?classifier=sources
+- pkg:maven/dev.ikm.jpms/eclipse-collections-api@12.0.0.M3-r1
+- pkg:maven/dev.ikm.jpms/eclipse-collections-api@12.0.0.M3-r1?classifier=sources

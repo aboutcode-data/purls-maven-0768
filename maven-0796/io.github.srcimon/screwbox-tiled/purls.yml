@@ -68,6 +68,10 @@
 - pkg:maven/io.github.srcimon/screwbox-tiled@2.14.0?classifier=sources
 - pkg:maven/io.github.srcimon/screwbox-tiled@2.15.0
 - pkg:maven/io.github.srcimon/screwbox-tiled@2.15.0?classifier=sources
+- pkg:maven/io.github.srcimon/screwbox-tiled@2.16.0
+- pkg:maven/io.github.srcimon/screwbox-tiled@2.16.0?classifier=sources
+- pkg:maven/io.github.srcimon/screwbox-tiled@2.17.0
+- pkg:maven/io.github.srcimon/screwbox-tiled@2.17.0?classifier=sources
 - pkg:maven/io.github.srcimon/screwbox-tiled@2.2.0
 - pkg:maven/io.github.srcimon/screwbox-tiled@2.2.0?classifier=sources
 - pkg:maven/io.github.srcimon/screwbox-tiled@2.3.0

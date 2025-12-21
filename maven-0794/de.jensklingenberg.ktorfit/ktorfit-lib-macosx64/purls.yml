@@ -50,3 +50,4 @@
 - pkg:maven/de.jensklingenberg.ktorfit/ktorfit-lib-macosx64@2.2.0?classifier=sources
 - pkg:maven/de.jensklingenberg.ktorfit/ktorfit-lib-macosx64@2.3.0?classifier=sources
 - pkg:maven/de.jensklingenberg.ktorfit/ktorfit-lib-macosx64@2.4.0?classifier=sources
+- pkg:maven/de.jensklingenberg.ktorfit/ktorfit-lib-macosx64@2.4.1?classifier=sources

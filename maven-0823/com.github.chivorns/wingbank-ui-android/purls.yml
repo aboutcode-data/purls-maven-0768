@@ -23,6 +23,10 @@
 - pkg:maven/com.github.chivorns/wingbank-ui-android@2.0.0-beta1?classifier=sources
 - pkg:maven/com.github.chivorns/wingbank-ui-android@2.0.0-beta2?classifier=sources
 - pkg:maven/com.github.chivorns/wingbank-ui-android@2.0.0?classifier=sources
+- pkg:maven/com.github.chivorns/wingbank-ui-android@2.0.10?classifier=sources
+- pkg:maven/com.github.chivorns/wingbank-ui-android@2.0.11-SNAPSHOT-01?classifier=sources
+- pkg:maven/com.github.chivorns/wingbank-ui-android@2.0.11-SNAPSHOT-02?classifier=sources
+- pkg:maven/com.github.chivorns/wingbank-ui-android@2.0.11-SNAPSHOT-03?classifier=sources
 - pkg:maven/com.github.chivorns/wingbank-ui-android@2.0.1?classifier=sources
 - pkg:maven/com.github.chivorns/wingbank-ui-android@2.0.2?classifier=sources
 - pkg:maven/com.github.chivorns/wingbank-ui-android@2.0.3?classifier=sources
@@ -31,3 +35,4 @@
 - pkg:maven/com.github.chivorns/wingbank-ui-android@2.0.6?classifier=sources
 - pkg:maven/com.github.chivorns/wingbank-ui-android@2.0.7?classifier=sources
 - pkg:maven/com.github.chivorns/wingbank-ui-android@2.0.8?classifier=sources
+- pkg:maven/com.github.chivorns/wingbank-ui-android@2.0.9?classifier=sources

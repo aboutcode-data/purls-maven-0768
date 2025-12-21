@@ -1,0 +1,6 @@
+- pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-junit@4.7.0-alpha.1
+- pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-junit@4.7.0-alpha.1?classifier=sources
+- pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-junit@4.7.0-alpha.2
+- pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-junit@4.7.0-alpha.2?classifier=sources
+- pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-junit@4.7.0-alpha.3
+- pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-junit@4.7.0-alpha.3?classifier=sources

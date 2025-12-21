@@ -42,3 +42,5 @@
 - pkg:maven/io.cequence/ws-client-play_3@0.6.4?classifier=sources
 - pkg:maven/io.cequence/ws-client-play_3@0.6.5
 - pkg:maven/io.cequence/ws-client-play_3@0.6.5?classifier=sources
+- pkg:maven/io.cequence/ws-client-play_3@0.7.0
+- pkg:maven/io.cequence/ws-client-play_3@0.7.0?classifier=sources

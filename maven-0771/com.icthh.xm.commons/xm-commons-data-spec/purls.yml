@@ -5,3 +5,5 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.24?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.26?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.27?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.28?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.30?classifier=sources
