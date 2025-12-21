@@ -44,3 +44,5 @@
 - pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-demos@0.52.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-demos@0.52.3
 - pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-demos@0.52.3?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-demos@0.53.0
+- pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-demos@0.53.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.agoston/spring-data-mongodb-encrypt@2.9.2
+- pkg:maven/io.github.agoston/spring-data-mongodb-encrypt@2.9.2?classifier=sources

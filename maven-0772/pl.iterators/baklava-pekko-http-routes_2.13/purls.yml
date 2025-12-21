@@ -10,3 +10,5 @@
 - pkg:maven/pl.iterators/baklava-pekko-http-routes_2.13@0.5.0?classifier=sources
 - pkg:maven/pl.iterators/baklava-pekko-http-routes_2.13@0.6.0
 - pkg:maven/pl.iterators/baklava-pekko-http-routes_2.13@0.6.0?classifier=sources
+- pkg:maven/pl.iterators/baklava-pekko-http-routes_2.13@1.0.0
+- pkg:maven/pl.iterators/baklava-pekko-http-routes_2.13@1.0.0?classifier=sources

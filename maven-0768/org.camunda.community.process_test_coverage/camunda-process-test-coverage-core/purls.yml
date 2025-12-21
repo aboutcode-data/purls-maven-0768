@@ -20,3 +20,5 @@
 - pkg:maven/org.camunda.community.process_test_coverage/camunda-process-test-coverage-core@2.7.0?classifier=sources
 - pkg:maven/org.camunda.community.process_test_coverage/camunda-process-test-coverage-core@2.8.0
 - pkg:maven/org.camunda.community.process_test_coverage/camunda-process-test-coverage-core@2.8.0?classifier=sources
+- pkg:maven/org.camunda.community.process_test_coverage/camunda-process-test-coverage-core@2.8.1
+- pkg:maven/org.camunda.community.process_test_coverage/camunda-process-test-coverage-core@2.8.1?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/net.gini.android/gini-bank-api-lib@3.2.2?classifier=sources
 - pkg:maven/net.gini.android/gini-bank-api-lib@3.3.0?classifier=sources
 - pkg:maven/net.gini.android/gini-bank-api-lib@3.3.1?classifier=sources
+- pkg:maven/net.gini.android/gini-bank-api-lib@3.4.0?classifier=sources
+- pkg:maven/net.gini.android/gini-bank-api-lib@3.5.0?classifier=sources

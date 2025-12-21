@@ -102,6 +102,7 @@
 - pkg:maven/me.proton.core/observability-dagger@30.4.3?classifier=sources
 - pkg:maven/me.proton.core/observability-dagger@30.4.4?classifier=sources
 - pkg:maven/me.proton.core/observability-dagger@31.0.0?classifier=sources
+- pkg:maven/me.proton.core/observability-dagger@32.0.0?classifier=sources
 - pkg:maven/me.proton.core/observability-dagger@9.10.0?classifier=sources
 - pkg:maven/me.proton.core/observability-dagger@9.10.1?classifier=sources
 - pkg:maven/me.proton.core/observability-dagger@9.11.0?classifier=sources

@@ -7,6 +7,7 @@
 - pkg:maven/cz.o2.proxima/proxima-io-serialization@0.12.0?classifier=sources
 - pkg:maven/cz.o2.proxima/proxima-io-serialization@0.13.0?classifier=sources
 - pkg:maven/cz.o2.proxima/proxima-io-serialization@0.14.0?classifier=sources
+- pkg:maven/cz.o2.proxima/proxima-io-serialization@0.15.0?classifier=sources
 - pkg:maven/cz.o2.proxima/proxima-io-serialization@0.7.0
 - pkg:maven/cz.o2.proxima/proxima-io-serialization@0.7.0-jdk11
 - pkg:maven/cz.o2.proxima/proxima-io-serialization@0.7.0-jdk11?classifier=sources

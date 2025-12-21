@@ -1,3 +1,4 @@
 - pkg:maven/org.androidaudioplugin/androidaudioplugin-lv2@0.2.7?classifier=sources
 - pkg:maven/org.androidaudioplugin/androidaudioplugin-lv2@0.3.0?classifier=sources
 - pkg:maven/org.androidaudioplugin/androidaudioplugin-lv2@0.4.0?classifier=sources
+- pkg:maven/org.androidaudioplugin/androidaudioplugin-lv2@0.4.1?classifier=sources

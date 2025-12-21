@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.zodiacstack/zodiac-lock-redis-spring-boot-starter@1.7.1
+- pkg:maven/com.gitee.zodiacstack/zodiac-lock-redis-spring-boot-starter@1.7.1?classifier=sources

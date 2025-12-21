@@ -105,6 +105,8 @@
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.44?classifier=sources
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.45
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.45?classifier=sources
+- pkg:maven/com.gu/redirect-resolver_2.13@0.0.46
+- pkg:maven/com.gu/redirect-resolver_2.13@0.0.46?classifier=sources
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.4?classifier=sources
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.5
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.5?classifier=sources

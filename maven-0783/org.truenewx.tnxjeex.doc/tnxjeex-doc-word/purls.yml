@@ -5,3 +5,4 @@
 - pkg:maven/org.truenewx.tnxjeex.doc/tnxjeex-doc-word@2.6.1
 - pkg:maven/org.truenewx.tnxjeex.doc/tnxjeex-doc-word@2.6.1?classifier=sources
 - pkg:maven/org.truenewx.tnxjeex.doc/tnxjeex-doc-word@2.6.2
+- pkg:maven/org.truenewx.tnxjeex.doc/tnxjeex-doc-word@3.0.0

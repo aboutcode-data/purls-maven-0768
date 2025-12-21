@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.cdc-java.office/cdc-office-ss-access@0.62.0
+- pkg:maven/com.gitlab.cdc-java.office/cdc-office-ss-access@0.62.0?classifier=sources

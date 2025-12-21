@@ -1,0 +1,6 @@
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3.6.4@0.4.13
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3.6.4@0.4.13?classifier=sources
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3.6.4@0.5.3
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3.6.4@0.5.3?classifier=sources
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3.6.4@0.5.4
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3.6.4@0.5.4?classifier=sources

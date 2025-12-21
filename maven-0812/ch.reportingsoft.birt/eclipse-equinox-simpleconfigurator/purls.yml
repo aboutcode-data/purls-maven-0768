@@ -1,0 +1,2 @@
+- pkg:maven/ch.reportingsoft.birt/eclipse-equinox-simpleconfigurator@1.5.300
+- pkg:maven/ch.reportingsoft.birt/eclipse-equinox-simpleconfigurator@1.5.300?classifier=sources

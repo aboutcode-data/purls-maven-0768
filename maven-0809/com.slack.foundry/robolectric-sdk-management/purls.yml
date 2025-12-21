@@ -24,3 +24,4 @@
 - pkg:maven/com.slack.foundry/robolectric-sdk-management@0.25.2?classifier=sources
 - pkg:maven/com.slack.foundry/robolectric-sdk-management@0.25.3?classifier=sources
 - pkg:maven/com.slack.foundry/robolectric-sdk-management@0.25.4?classifier=sources
+- pkg:maven/com.slack.foundry/robolectric-sdk-management@0.26.0?classifier=sources

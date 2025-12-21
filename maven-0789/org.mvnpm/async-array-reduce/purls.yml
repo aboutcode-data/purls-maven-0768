@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/async-array-reduce@0.1.0?classifier=sources
+- pkg:maven/org.mvnpm/async-array-reduce@0.2.1?classifier=sources

@@ -9,3 +9,7 @@
 - pkg:maven/me.kpavlov.aimocks/ai-mocks-openai@0.1.7?classifier=sources
 - pkg:maven/me.kpavlov.aimocks/ai-mocks-openai@0.1.8?classifier=sources
 - pkg:maven/me.kpavlov.aimocks/ai-mocks-openai@0.1.9?classifier=sources
+- pkg:maven/me.kpavlov.aimocks/ai-mocks-openai@0.2.0?classifier=sources
+- pkg:maven/me.kpavlov.aimocks/ai-mocks-openai@0.2.1?classifier=sources
+- pkg:maven/me.kpavlov.aimocks/ai-mocks-openai@0.3.0?classifier=sources
+- pkg:maven/me.kpavlov.aimocks/ai-mocks-openai@0.3.1?classifier=sources

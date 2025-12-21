@@ -10,3 +10,4 @@
 - pkg:maven/dev.sergiobelda.navigation.compose.extended/navigation-compose-extended-annotation-desktop@0.8.4?classifier=sources
 - pkg:maven/dev.sergiobelda.navigation.compose.extended/navigation-compose-extended-annotation-desktop@0.8.5?classifier=sources
 - pkg:maven/dev.sergiobelda.navigation.compose.extended/navigation-compose-extended-annotation-desktop@1.0.0?classifier=sources
+- pkg:maven/dev.sergiobelda.navigation.compose.extended/navigation-compose-extended-annotation-desktop@1.1.0?classifier=sources

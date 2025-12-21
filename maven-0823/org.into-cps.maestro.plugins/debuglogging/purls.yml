@@ -44,3 +44,5 @@
 - pkg:maven/org.into-cps.maestro.plugins/debuglogging@3.1.0?classifier=sources
 - pkg:maven/org.into-cps.maestro.plugins/debuglogging@3.1.1
 - pkg:maven/org.into-cps.maestro.plugins/debuglogging@3.1.1?classifier=sources
+- pkg:maven/org.into-cps.maestro.plugins/debuglogging@4.0.0
+- pkg:maven/org.into-cps.maestro.plugins/debuglogging@4.0.0?classifier=sources

@@ -22,6 +22,8 @@
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.10%2B1.18.1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.10%2B1.18.2
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.10%2B1.18.2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.10%2B1.19.0
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.10%2B1.19.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.11%2B1.15.0
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.11%2B1.15.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.11%2B1.16.0
@@ -34,6 +36,8 @@
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.11%2B1.18.1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.11%2B1.18.2
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.11%2B1.18.2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.11%2B1.19.0
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.11%2B1.19.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.12%2B1.15.0
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.12%2B1.15.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.12%2B1.16.0
@@ -46,6 +50,8 @@
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.12%2B1.18.1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.12%2B1.18.2
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.12%2B1.18.2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.12%2B1.19.0
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.12%2B1.19.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.13%2B1.15.0
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.13%2B1.15.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.13%2B1.16.0
@@ -58,6 +64,8 @@
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.13%2B1.18.1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.13%2B1.18.2
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.13%2B1.18.2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.13%2B1.19.0
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.13%2B1.19.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.14%2B1.15.0
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.14%2B1.15.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.14%2B1.16.0
@@ -70,6 +78,8 @@
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.14%2B1.18.1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.14%2B1.18.2
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.14%2B1.18.2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.14%2B1.19.0
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.14%2B1.19.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.15%2B1.15.0
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.15%2B1.15.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.15%2B1.16.0
@@ -82,6 +92,8 @@
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.15%2B1.18.1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.15%2B1.18.2
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.15%2B1.18.2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.15%2B1.19.0
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.15%2B1.19.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.16%2B1.15.0
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.16%2B1.15.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.16%2B1.16.0
@@ -94,6 +106,8 @@
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.16%2B1.18.1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.16%2B1.18.2
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.16%2B1.18.2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.16%2B1.19.0
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.16%2B1.19.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.2%2B1.15.0
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.2%2B1.15.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.2%2B1.16.0
@@ -112,6 +126,8 @@
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.3%2B1.18.1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.3%2B1.18.2
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.3%2B1.18.2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.3%2B1.19.0
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.3%2B1.19.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.4%2B1.15.0
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.4%2B1.15.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.4%2B1.16.0
@@ -124,6 +140,8 @@
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.4%2B1.18.1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.4%2B1.18.2
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.4%2B1.18.2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.4%2B1.19.0
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.4%2B1.19.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.5%2B1.15.0
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.5%2B1.15.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.5%2B1.16.0
@@ -136,6 +154,8 @@
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.5%2B1.18.1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.5%2B1.18.2
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.5%2B1.18.2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.5%2B1.19.0
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.5%2B1.19.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.6%2B1.15.0
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.6%2B1.15.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.6%2B1.16.0
@@ -148,6 +168,8 @@
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.6%2B1.18.1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.6%2B1.18.2
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.6%2B1.18.2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.6%2B1.19.0
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.6%2B1.19.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.7%2B1.15.0
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.7%2B1.15.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.7%2B1.16.0
@@ -160,6 +182,8 @@
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.7%2B1.18.1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.7%2B1.18.2
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.7%2B1.18.2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.7%2B1.19.0
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.7%2B1.19.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.8%2B1.15.0
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.8%2B1.15.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.8%2B1.16.0
@@ -172,6 +196,8 @@
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.8%2B1.18.1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.8%2B1.18.2
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.8%2B1.18.2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.8%2B1.19.0
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.8%2B1.19.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.9%2B1.15.0
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.9%2B1.15.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.9%2B1.16.0
@@ -184,3 +210,5 @@
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.9%2B1.18.1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.9%2B1.18.2
 - pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.9%2B1.18.2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.9%2B1.19.0
+- pkg:maven/org.scala-js/scalajs-scalalib_2.13@2.13.9%2B1.19.0?classifier=sources

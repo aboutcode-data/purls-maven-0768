@@ -106,6 +106,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.osgi.debug.impl@4.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.osgi.debug.impl@4.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.osgi.debug.impl@4.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.osgi.debug.impl@4.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.osgi.debug.impl@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.osgi.debug.impl@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.osgi.debug.impl@4.0.2

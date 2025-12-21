@@ -15,6 +15,8 @@
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.103.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.103.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.103.2?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.103.3?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.103.4?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.72.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.72.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-combined-cs@0.72.2?classifier=sources

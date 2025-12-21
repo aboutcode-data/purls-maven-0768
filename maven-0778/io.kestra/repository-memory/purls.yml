@@ -56,6 +56,7 @@
 - pkg:maven/io.kestra/repository-memory@0.15.34?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.15.35?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.15.36?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.15.37?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.15.3?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.15.4?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.15.5?classifier=sources
@@ -73,6 +74,7 @@
 - pkg:maven/io.kestra/repository-memory@0.16.16?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.16.17?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.16.18?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.16.19?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.16.1?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.16.2?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.16.3?classifier=sources
@@ -99,6 +101,7 @@
 - pkg:maven/io.kestra/repository-memory@0.17.22?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.17.23?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.17.24?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.17.25?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.17.2?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.17.3?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.17.4?classifier=sources
@@ -115,6 +118,8 @@
 - pkg:maven/io.kestra/repository-memory@0.18.14?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.18.15?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.18.16?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.18.17?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.18.18?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.18.1?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.18.2?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.18.3?classifier=sources
@@ -137,6 +142,9 @@
 - pkg:maven/io.kestra/repository-memory@0.19.19?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.19.1?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.19.20?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.19.21?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.19.22?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.19.23?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.19.2?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.19.3?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.19.4?classifier=sources
@@ -175,6 +183,9 @@
 - pkg:maven/io.kestra/repository-memory@0.20.19?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.20.1?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.20.20?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.20.21?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.20.22?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.20.23?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.20.2?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.20.3?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.20.4?classifier=sources
@@ -184,6 +195,11 @@
 - pkg:maven/io.kestra/repository-memory@0.20.8?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.20.9?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.21.0?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.21.10?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.21.11?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.21.12?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.21.13?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.21.14?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.21.1?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.21.2?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.21.3?classifier=sources
@@ -191,6 +207,12 @@
 - pkg:maven/io.kestra/repository-memory@0.21.5?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.21.6?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.21.7?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.21.8?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.21.9?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.22.0?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.22.1?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.22.2?classifier=sources
+- pkg:maven/io.kestra/repository-memory@0.22.3?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.3.0?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.3.1?classifier=sources
 - pkg:maven/io.kestra/repository-memory@0.3.2?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/net.guizhanss/guizhanlib-minecraft@2.0.0?classifier=sources
 - pkg:maven/net.guizhanss/guizhanlib-minecraft@2.1.0?classifier=sources
 - pkg:maven/net.guizhanss/guizhanlib-minecraft@2.2.0?classifier=sources
+- pkg:maven/net.guizhanss/guizhanlib-minecraft@2.3.0?classifier=sources

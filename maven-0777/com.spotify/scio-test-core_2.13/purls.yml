@@ -8,6 +8,10 @@
 - pkg:maven/com.spotify/scio-test-core_2.13@0.14.13?classifier=sources
 - pkg:maven/com.spotify/scio-test-core_2.13@0.14.14
 - pkg:maven/com.spotify/scio-test-core_2.13@0.14.14?classifier=sources
+- pkg:maven/com.spotify/scio-test-core_2.13@0.14.15
+- pkg:maven/com.spotify/scio-test-core_2.13@0.14.15?classifier=sources
+- pkg:maven/com.spotify/scio-test-core_2.13@0.14.16
+- pkg:maven/com.spotify/scio-test-core_2.13@0.14.16?classifier=sources
 - pkg:maven/com.spotify/scio-test-core_2.13@0.14.4
 - pkg:maven/com.spotify/scio-test-core_2.13@0.14.4?classifier=sources
 - pkg:maven/com.spotify/scio-test-core_2.13@0.14.5

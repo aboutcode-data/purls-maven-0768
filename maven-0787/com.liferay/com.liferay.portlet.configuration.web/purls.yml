@@ -415,6 +415,8 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@2.0.7
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@2.0.70?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@2.0.71?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.web@2.0.72?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.web@2.0.73?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@2.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@2.0.8
@@ -620,6 +622,8 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@3.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@3.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@3.0.7
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.web@3.0.70?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.web@3.0.71?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@3.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@3.0.8
@@ -780,6 +784,8 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@4.0.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@4.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@4.0.56?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.web@4.0.57?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.web@4.0.58?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@4.0.6
@@ -997,5 +1003,6 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@5.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@5.0.9
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@5.0.90?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.web@5.0.91?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.web@5.0.9?classifier=sources-commercial

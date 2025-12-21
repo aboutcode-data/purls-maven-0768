@@ -3,3 +3,4 @@
 - pkg:maven/org.webjars.npm/npmcli__installed-package-contents@1.0.7
 - pkg:maven/org.webjars.npm/npmcli__installed-package-contents@1.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/npmcli__installed-package-contents@2.1.0
+- pkg:maven/org.webjars.npm/npmcli__installed-package-contents@3.0.0

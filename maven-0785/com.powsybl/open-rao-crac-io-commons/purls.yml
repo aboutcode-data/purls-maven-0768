@@ -14,3 +14,5 @@
 - pkg:maven/com.powsybl/open-rao-crac-io-commons@6.2.2?classifier=sources
 - pkg:maven/com.powsybl/open-rao-crac-io-commons@6.3.0
 - pkg:maven/com.powsybl/open-rao-crac-io-commons@6.3.0?classifier=sources
+- pkg:maven/com.powsybl/open-rao-crac-io-commons@6.4.0
+- pkg:maven/com.powsybl/open-rao-crac-io-commons@6.4.0?classifier=sources

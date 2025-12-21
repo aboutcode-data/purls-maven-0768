@@ -60,3 +60,5 @@
 - pkg:maven/com.gitlab.cdc-java.rdb/cdc-rdb-api@0.52.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.rdb/cdc-rdb-api@0.52.3
 - pkg:maven/com.gitlab.cdc-java.rdb/cdc-rdb-api@0.52.3?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.rdb/cdc-rdb-api@0.52.4
+- pkg:maven/com.gitlab.cdc-java.rdb/cdc-rdb-api@0.52.4?classifier=sources

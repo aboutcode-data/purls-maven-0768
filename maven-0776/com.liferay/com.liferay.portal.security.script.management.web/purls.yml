@@ -11,6 +11,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.script.management.web@1.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.script.management.web@1.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.script.management.web@1.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.script.management.web@1.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.script.management.web@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.script.management.web@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.script.management.web@1.0.4?classifier=sources

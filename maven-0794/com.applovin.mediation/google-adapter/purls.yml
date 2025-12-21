@@ -116,3 +116,5 @@
 - pkg:maven/com.applovin.mediation/google-adapter@23.6.0.3?classifier=sources
 - pkg:maven/com.applovin.mediation/google-adapter@24.0.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/google-adapter@24.1.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/google-adapter@24.2.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/google-adapter@24.2.0.1?classifier=sources

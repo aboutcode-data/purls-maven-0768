@@ -1,0 +1,2 @@
+- pkg:maven/io.github.weihubeats/event-bus-rocketmq-apache@0.0.1
+- pkg:maven/io.github.weihubeats/event-bus-rocketmq-apache@0.0.1?classifier=sources

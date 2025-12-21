@@ -7,3 +7,9 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.27?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.28?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.30?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.31?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.32?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.33?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.35?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.36?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-data-spec@4.0.37?classifier=sources

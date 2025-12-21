@@ -205,6 +205,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.25
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.25?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.26?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.27?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.web@4.0.3

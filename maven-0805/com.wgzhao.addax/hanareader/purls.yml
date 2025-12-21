@@ -3,3 +3,5 @@
 - pkg:maven/com.wgzhao.addax/hanareader@4.2.4?classifier=sources
 - pkg:maven/com.wgzhao.addax/hanareader@4.3.0?classifier=sources
 - pkg:maven/com.wgzhao.addax/hanareader@5.0.0?classifier=sources
+- pkg:maven/com.wgzhao.addax/hanareader@5.1.0?classifier=sources
+- pkg:maven/com.wgzhao.addax/hanareader@5.1.1?classifier=sources

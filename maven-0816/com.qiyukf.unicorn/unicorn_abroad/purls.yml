@@ -1,4 +1,5 @@
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@10.2.0?classifier=sources
+- pkg:maven/com.qiyukf.unicorn/unicorn_abroad@10.3.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@7.10.0?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@7.10.0?type=aar
 - pkg:maven/com.qiyukf.unicorn/unicorn_abroad@7.11.0?classifier=sources

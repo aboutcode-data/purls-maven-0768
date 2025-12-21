@@ -13,3 +13,4 @@
 - pkg:maven/net.sf.robocode/robocode.api@1.9.5.2?classifier=sources
 - pkg:maven/net.sf.robocode/robocode.api@1.9.5.3?classifier=sources
 - pkg:maven/net.sf.robocode/robocode.api@1.9.5.4?classifier=sources
+- pkg:maven/net.sf.robocode/robocode.api@1.9.5.5?classifier=sources

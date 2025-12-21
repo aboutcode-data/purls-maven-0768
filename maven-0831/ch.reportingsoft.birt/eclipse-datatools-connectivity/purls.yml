@@ -1,0 +1,2 @@
+- pkg:maven/ch.reportingsoft.birt/eclipse-datatools-connectivity@1.15.0
+- pkg:maven/ch.reportingsoft.birt/eclipse-datatools-connectivity@1.15.0?classifier=sources

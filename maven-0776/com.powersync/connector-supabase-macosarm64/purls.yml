@@ -1,0 +1,2 @@
+- pkg:maven/com.powersync/connector-supabase-macosarm64@1.0.0-BETA29?classifier=sources
+- pkg:maven/com.powersync/connector-supabase-macosarm64@1.0.0-BETA30?classifier=sources

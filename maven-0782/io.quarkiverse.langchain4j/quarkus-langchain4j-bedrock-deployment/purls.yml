@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-bedrock-deployment@0.26.2?classifier=sources

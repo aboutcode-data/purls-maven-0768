@@ -8,3 +8,4 @@
 - pkg:maven/io.github.mscheong01/krotoDC-core@1.0.7?classifier=sources
 - pkg:maven/io.github.mscheong01/krotoDC-core@1.1.0?classifier=sources
 - pkg:maven/io.github.mscheong01/krotoDC-core@1.1.1?classifier=sources
+- pkg:maven/io.github.mscheong01/krotoDC-core@1.2.0?classifier=sources

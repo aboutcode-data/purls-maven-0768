@@ -167,6 +167,8 @@
 - pkg:maven/org.openurp.base/openurp-base-static@0.4.46?classifier=sources
 - pkg:maven/org.openurp.base/openurp-base-static@0.4.47
 - pkg:maven/org.openurp.base/openurp-base-static@0.4.47?classifier=sources
+- pkg:maven/org.openurp.base/openurp-base-static@0.4.48
+- pkg:maven/org.openurp.base/openurp-base-static@0.4.48?classifier=sources
 - pkg:maven/org.openurp.base/openurp-base-static@0.4.4?classifier=sources
 - pkg:maven/org.openurp.base/openurp-base-static@0.4.5
 - pkg:maven/org.openurp.base/openurp-base-static@0.4.5?classifier=sources

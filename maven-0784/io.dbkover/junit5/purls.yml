@@ -8,3 +8,4 @@
 - pkg:maven/io.dbkover/junit5@0.5.2?classifier=sources
 - pkg:maven/io.dbkover/junit5@0.5.3?classifier=sources
 - pkg:maven/io.dbkover/junit5@0.6.0?classifier=sources
+- pkg:maven/io.dbkover/junit5@0.7.0?classifier=sources

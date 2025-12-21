@@ -20,6 +20,7 @@
 - pkg:maven/org.sonarsource.sonarlint.omnisharp/sonarlint-omnisharp-plugin@1.26.0.100277?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.omnisharp/sonarlint-omnisharp-plugin@1.27.0.100294?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.omnisharp/sonarlint-omnisharp-plugin@1.28.0.100328?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.omnisharp/sonarlint-omnisharp-plugin@1.29.0.100353?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.omnisharp/sonarlint-omnisharp-plugin@1.3.0.45903?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.omnisharp/sonarlint-omnisharp-plugin@1.4.0.50839?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.omnisharp/sonarlint-omnisharp-plugin@1.5.0.56800?classifier=sources

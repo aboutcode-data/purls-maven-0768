@@ -164,6 +164,10 @@
 - pkg:maven/io.ebean/ebean-jackson-mapper@14.10.0-javax
 - pkg:maven/io.ebean/ebean-jackson-mapper@14.10.0-javax?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-mapper@14.10.0?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@14.11.0
+- pkg:maven/io.ebean/ebean-jackson-mapper@14.11.0-javax
+- pkg:maven/io.ebean/ebean-jackson-mapper@14.11.0-javax?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@14.11.0?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-mapper@14.3.0
 - pkg:maven/io.ebean/ebean-jackson-mapper@14.3.0-javax
 - pkg:maven/io.ebean/ebean-jackson-mapper@14.3.0-javax?classifier=sources
@@ -222,6 +226,8 @@
 - pkg:maven/io.ebean/ebean-jackson-mapper@15.1.0?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-mapper@15.10.0
 - pkg:maven/io.ebean/ebean-jackson-mapper@15.10.0?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@15.11.0
+- pkg:maven/io.ebean/ebean-jackson-mapper@15.11.0?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-mapper@15.3.0
 - pkg:maven/io.ebean/ebean-jackson-mapper@15.3.0?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-mapper@15.3.1
@@ -246,3 +252,11 @@
 - pkg:maven/io.ebean/ebean-jackson-mapper@15.8.2?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-mapper@15.9.0
 - pkg:maven/io.ebean/ebean-jackson-mapper@15.9.0?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@16.0.0-beta1
+- pkg:maven/io.ebean/ebean-jackson-mapper@16.0.0-beta1?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@16.0.0-rc1
+- pkg:maven/io.ebean/ebean-jackson-mapper@16.0.0-rc1?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@17.0.0-RC1
+- pkg:maven/io.ebean/ebean-jackson-mapper@17.0.0-RC1?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@17.0.0-beta1
+- pkg:maven/io.ebean/ebean-jackson-mapper@17.0.0-beta1?classifier=sources

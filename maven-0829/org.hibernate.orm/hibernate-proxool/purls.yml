@@ -100,6 +100,8 @@
 - pkg:maven/org.hibernate.orm/hibernate-proxool@6.6.1.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-proxool@6.6.10.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-proxool@6.6.11.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-proxool@6.6.12.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-proxool@6.6.13.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-proxool@6.6.2.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-proxool@6.6.3.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-proxool@6.6.4.Final?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.lihaoyi/os-zip@0.11.3-M4
+- pkg:maven/com.lihaoyi/os-zip@0.11.3-M4?classifier=sources
+- pkg:maven/com.lihaoyi/os-zip@0.11.5-M5
+- pkg:maven/com.lihaoyi/os-zip@0.11.5-M5?classifier=sources

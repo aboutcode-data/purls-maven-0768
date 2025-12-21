@@ -1,0 +1,1 @@
+- pkg:maven/software.amazon.distro.opentelemetry/aws-opentelemetry-xray-udp-span-exporter@0.0.1?classifier=sources

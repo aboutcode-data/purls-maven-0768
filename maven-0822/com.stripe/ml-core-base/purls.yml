@@ -88,6 +88,7 @@
 - pkg:maven/com.stripe/ml-core-base@21.0.0?classifier=sources
 - pkg:maven/com.stripe/ml-core-base@21.0.1?classifier=sources
 - pkg:maven/com.stripe/ml-core-base@21.1.0?classifier=sources
+- pkg:maven/com.stripe/ml-core-base@21.10.0?classifier=sources
 - pkg:maven/com.stripe/ml-core-base@21.2.0?classifier=sources
 - pkg:maven/com.stripe/ml-core-base@21.2.1?classifier=sources
 - pkg:maven/com.stripe/ml-core-base@21.3.0?classifier=sources
@@ -100,3 +101,6 @@
 - pkg:maven/com.stripe/ml-core-base@21.5.1?classifier=sources
 - pkg:maven/com.stripe/ml-core-base@21.6.0?classifier=sources
 - pkg:maven/com.stripe/ml-core-base@21.7.0?classifier=sources
+- pkg:maven/com.stripe/ml-core-base@21.7.1?classifier=sources
+- pkg:maven/com.stripe/ml-core-base@21.8.0?classifier=sources
+- pkg:maven/com.stripe/ml-core-base@21.9.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/net.sc8s/akka-components-lagom_2.13@0.100.0
 - pkg:maven/net.sc8s/akka-components-lagom_2.13@0.100.0?classifier=sources
+- pkg:maven/net.sc8s/akka-components-lagom_2.13@0.101.0
+- pkg:maven/net.sc8s/akka-components-lagom_2.13@0.101.0?classifier=sources
 - pkg:maven/net.sc8s/akka-components-lagom_2.13@0.40.0
 - pkg:maven/net.sc8s/akka-components-lagom_2.13@0.40.0?classifier=sources
 - pkg:maven/net.sc8s/akka-components-lagom_2.13@0.41.0

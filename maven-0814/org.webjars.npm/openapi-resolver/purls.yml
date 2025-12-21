@@ -3,3 +3,4 @@
 - pkg:maven/org.webjars.npm/openapi-resolver@4.1.35
 - pkg:maven/org.webjars.npm/openapi-resolver@4.1.35?classifier=sources
 - pkg:maven/org.webjars.npm/openapi-resolver@4.1.53
+- pkg:maven/org.webjars.npm/openapi-resolver@4.1.69

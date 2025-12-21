@@ -91,6 +91,7 @@
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@1.0.52?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@1.0.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@1.0.54?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@1.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.18
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.18?classifier=sources-commercial
@@ -208,6 +209,7 @@
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.59?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.60?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.61?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@2.0.62?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@3.0.0
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@3.0.0?classifier=sources-commercial
@@ -356,6 +358,7 @@
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@3.0.65?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@3.0.66?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@3.0.67?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@3.0.68?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@3.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@3.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.opener.onedrive.web@3.0.7

@@ -82,3 +82,4 @@
 - pkg:maven/me.proton.core/configuration-dagger-content-resolver@30.4.3?classifier=sources
 - pkg:maven/me.proton.core/configuration-dagger-content-resolver@30.4.4?classifier=sources
 - pkg:maven/me.proton.core/configuration-dagger-content-resolver@31.0.0?classifier=sources
+- pkg:maven/me.proton.core/configuration-dagger-content-resolver@32.0.0?classifier=sources

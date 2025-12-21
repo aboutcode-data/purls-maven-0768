@@ -1,0 +1,2 @@
+- pkg:maven/eu.ostrzyciel.jelly/jelly-core-patch_3@2.10.2
+- pkg:maven/eu.ostrzyciel.jelly/jelly-core-patch_3@2.10.2?classifier=sources

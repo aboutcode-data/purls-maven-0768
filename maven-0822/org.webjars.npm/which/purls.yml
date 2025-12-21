@@ -13,3 +13,4 @@
 - pkg:maven/org.webjars.npm/which@2.0.2
 - pkg:maven/org.webjars.npm/which@2.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/which@4.0.0
+- pkg:maven/org.webjars.npm/which@5.0.0

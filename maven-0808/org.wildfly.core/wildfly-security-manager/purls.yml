@@ -342,6 +342,8 @@
 - pkg:maven/org.wildfly.core/wildfly-security-manager@28.0.0.Beta5?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-security-manager@28.0.0.Beta6
 - pkg:maven/org.wildfly.core/wildfly-security-manager@28.0.0.Beta6?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-security-manager@28.0.0.Final
+- pkg:maven/org.wildfly.core/wildfly-security-manager@28.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-security-manager@3.0.0.Alpha14
 - pkg:maven/org.wildfly.core/wildfly-security-manager@3.0.0.Alpha14?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-security-manager@3.0.0.Alpha15

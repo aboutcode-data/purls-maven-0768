@@ -9,4 +9,6 @@
 - pkg:maven/com.sportradar.mbs.sdk/mbs-sdk@0.9.4?classifier=sources
 - pkg:maven/com.sportradar.mbs.sdk/mbs-sdk@0.9.5
 - pkg:maven/com.sportradar.mbs.sdk/mbs-sdk@0.9.5?classifier=sources
+- pkg:maven/com.sportradar.mbs.sdk/mbs-sdk@0.9.6
+- pkg:maven/com.sportradar.mbs.sdk/mbs-sdk@0.9.6?classifier=sources
 - pkg:maven/com.sportradar.mbs.sdk/mbs-sdk@0.9?classifier=sources

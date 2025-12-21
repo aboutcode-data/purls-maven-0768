@@ -14,6 +14,8 @@
 - pkg:maven/io.alapierre.commons/io-utils@1.16?classifier=sources
 - pkg:maven/io.alapierre.commons/io-utils@1.17
 - pkg:maven/io.alapierre.commons/io-utils@1.17?classifier=sources
+- pkg:maven/io.alapierre.commons/io-utils@1.18
+- pkg:maven/io.alapierre.commons/io-utils@1.18?classifier=sources
 - pkg:maven/io.alapierre.commons/io-utils@1.2
 - pkg:maven/io.alapierre.commons/io-utils@1.2?classifier=sources
 - pkg:maven/io.alapierre.commons/io-utils@1.3

@@ -2,3 +2,6 @@
 - pkg:maven/org.apache.ozhera/ozhera-tspandata@2.2.2-incubating?classifier=sources
 - pkg:maven/org.apache.ozhera/ozhera-tspandata@2.2.3-incubating
 - pkg:maven/org.apache.ozhera/ozhera-tspandata@2.2.3-incubating?classifier=sources
+- pkg:maven/org.apache.ozhera/ozhera-tspandata@2.2.5-incubating
+- pkg:maven/org.apache.ozhera/ozhera-tspandata@2.2.5-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.ozhera/ozhera-tspandata@2.2.5-incubating?classifier=sources

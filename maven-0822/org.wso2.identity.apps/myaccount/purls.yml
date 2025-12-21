@@ -6942,6 +6942,8 @@
 - pkg:maven/org.wso2.identity.apps/myaccount@2.17.31?type=war
 - pkg:maven/org.wso2.identity.apps/myaccount@2.17.32?classifier=sources
 - pkg:maven/org.wso2.identity.apps/myaccount@2.17.32?type=war
+- pkg:maven/org.wso2.identity.apps/myaccount@2.19.4?classifier=sources
+- pkg:maven/org.wso2.identity.apps/myaccount@2.19.4?type=war
 - pkg:maven/org.wso2.identity.apps/myaccount@2.2.77?classifier=sources
 - pkg:maven/org.wso2.identity.apps/myaccount@2.2.77?type=war
 - pkg:maven/org.wso2.identity.apps/myaccount@2.2.78?classifier=sources

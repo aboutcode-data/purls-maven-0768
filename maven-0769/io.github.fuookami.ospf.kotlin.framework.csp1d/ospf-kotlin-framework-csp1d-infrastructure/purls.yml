@@ -4,3 +4,5 @@
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.csp1d/ospf-kotlin-framework-csp1d-infrastructure@1.0.38?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.csp1d/ospf-kotlin-framework-csp1d-infrastructure@1.0.39
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.csp1d/ospf-kotlin-framework-csp1d-infrastructure@1.0.39?classifier=sources
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.csp1d/ospf-kotlin-framework-csp1d-infrastructure@1.0.40
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.csp1d/ospf-kotlin-framework-csp1d-infrastructure@1.0.40?classifier=sources

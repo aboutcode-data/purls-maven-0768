@@ -8,3 +8,4 @@
 - pkg:maven/org.asciidoctor/asciidoctorj-diagram-plantuml@1.2024.0?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-diagram-plantuml@1.2024.3?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-diagram-plantuml@1.2024.5?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-diagram-plantuml@1.2025.2?classifier=sources

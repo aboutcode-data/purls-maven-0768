@@ -288,6 +288,7 @@
 - pkg:maven/com.zepben/evolve-sdk@0.25.0-SNAPSHOT9
 - pkg:maven/com.zepben/evolve-sdk@0.25.0-SNAPSHOT9?classifier=sources
 - pkg:maven/com.zepben/evolve-sdk@0.25.0?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.26.0
 - pkg:maven/com.zepben/evolve-sdk@0.26.0-SNAPSHOT1
 - pkg:maven/com.zepben/evolve-sdk@0.26.0-SNAPSHOT1?classifier=sources
 - pkg:maven/com.zepben/evolve-sdk@0.26.0-SNAPSHOT2
@@ -296,6 +297,15 @@
 - pkg:maven/com.zepben/evolve-sdk@0.26.0-SNAPSHOT3?classifier=sources
 - pkg:maven/com.zepben/evolve-sdk@0.26.0-SNAPSHOT4
 - pkg:maven/com.zepben/evolve-sdk@0.26.0-SNAPSHOT4?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.26.0-SNAPSHOT5
+- pkg:maven/com.zepben/evolve-sdk@0.26.0-SNAPSHOT5?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.26.0?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.26.1
+- pkg:maven/com.zepben/evolve-sdk@0.26.1-SNAPSHOT1
+- pkg:maven/com.zepben/evolve-sdk@0.26.1-SNAPSHOT1?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.26.1?classifier=sources
+- pkg:maven/com.zepben/evolve-sdk@0.27.0-SNAPSHOT1
+- pkg:maven/com.zepben/evolve-sdk@0.27.0-SNAPSHOT1?classifier=sources
 - pkg:maven/com.zepben/evolve-sdk@0.3.0
 - pkg:maven/com.zepben/evolve-sdk@0.3.0?classifier=sources
 - pkg:maven/com.zepben/evolve-sdk@0.4.0

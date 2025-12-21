@@ -1,4 +1,10 @@
 - pkg:maven/org.mvnpm.at.swc/core@1.11.13?classifier=sources
 - pkg:maven/org.mvnpm.at.swc/core@1.11.15?classifier=sources
 - pkg:maven/org.mvnpm.at.swc/core@1.11.16?classifier=sources
+- pkg:maven/org.mvnpm.at.swc/core@1.11.18?classifier=sources
+- pkg:maven/org.mvnpm.at.swc/core@1.11.20?classifier=sources
+- pkg:maven/org.mvnpm.at.swc/core@1.11.21
+- pkg:maven/org.mvnpm.at.swc/core@1.11.21?classifier=sources
+- pkg:maven/org.mvnpm.at.swc/core@1.11.22
+- pkg:maven/org.mvnpm.at.swc/core@1.11.22?classifier=sources
 - pkg:maven/org.mvnpm.at.swc/core@1.5.3?classifier=sources

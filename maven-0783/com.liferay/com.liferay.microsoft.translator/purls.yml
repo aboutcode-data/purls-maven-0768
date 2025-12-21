@@ -136,6 +136,7 @@
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@2.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@2.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@2.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microsoft.translator@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@2.0.3
@@ -218,6 +219,7 @@
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@3.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@3.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microsoft.translator@3.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@3.0.3
@@ -297,6 +299,7 @@
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@4.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@4.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@4.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microsoft.translator@4.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.microsoft.translator@4.0.3

@@ -255,6 +255,8 @@
 - pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.5.1
 - pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.5.10
 - pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.5.10?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.5.11
+- pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.5.11?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.5.1?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.5.2
 - pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.5.2?classifier=sources
@@ -310,5 +312,9 @@
 - pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.6.0.Beta9
 - pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.6.0.Beta9?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.6.0?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.6.1
+- pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.6.1?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.6.2
+- pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.6.2?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.7.0.Beta0
 - pkg:maven/io.quarkus.qe/quarkus-test-service-kafka@1.7.0.Beta0?classifier=sources

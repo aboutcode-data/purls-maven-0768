@@ -4,3 +4,5 @@
 - pkg:maven/com.rubensousa.carioca/report-android-allure-gradle-plugin@1.0.0-alpha04?classifier=sources
 - pkg:maven/com.rubensousa.carioca/report-android-allure-gradle-plugin@1.0.0-alpha05?classifier=sources
 - pkg:maven/com.rubensousa.carioca/report-android-allure-gradle-plugin@1.0.0-beta01?classifier=sources
+- pkg:maven/com.rubensousa.carioca/report-android-allure-gradle-plugin@1.0.0-rc01?classifier=sources
+- pkg:maven/com.rubensousa.carioca/report-android-allure-gradle-plugin@1.0.0?classifier=sources

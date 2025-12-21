@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/micromark-extension-gfm-task-list-item@0.3.3?classifier=sources
 - pkg:maven/org.mvnpm/micromark-extension-gfm-task-list-item@2.1.0?classifier=sources

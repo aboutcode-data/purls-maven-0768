@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars.npm/sigstore__verify@1.2.1
+- pkg:maven/org.webjars.npm/sigstore__verify@2.1.0

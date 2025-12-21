@@ -585,6 +585,12 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-html5@17.2.0-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-html5@17.2.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-html5@17.2.0?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-html5@17.2.1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-html5@17.2.1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-html5@17.2.2
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-html5@17.2.2?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-html5@17.3.0-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-html5@17.3.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-html5@6.4
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-html5@6.4-milestone-3
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-html5@6.4-milestone-3?classifier=sources

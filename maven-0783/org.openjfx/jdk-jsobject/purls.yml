@@ -1,0 +1,2 @@
+- pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B12
+- pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B12?classifier=sources

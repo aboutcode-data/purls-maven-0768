@@ -8,5 +8,7 @@
 - pkg:maven/io.delta/delta-kernel-defaults@3.2.1?classifier=sources
 - pkg:maven/io.delta/delta-kernel-defaults@3.3.0
 - pkg:maven/io.delta/delta-kernel-defaults@3.3.0?classifier=sources
+- pkg:maven/io.delta/delta-kernel-defaults@3.3.1
+- pkg:maven/io.delta/delta-kernel-defaults@3.3.1?classifier=sources
 - pkg:maven/io.delta/delta-kernel-defaults@4.0.0rc1
 - pkg:maven/io.delta/delta-kernel-defaults@4.0.0rc1?classifier=sources

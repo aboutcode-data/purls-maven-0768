@@ -8,3 +8,5 @@
 - pkg:maven/io.hawt/hawtio-war-minimal@4.2.0?type=war
 - pkg:maven/io.hawt/hawtio-war-minimal@4.3.0?classifier=sources
 - pkg:maven/io.hawt/hawtio-war-minimal@4.3.0?type=war
+- pkg:maven/io.hawt/hawtio-war-minimal@4.4.0?classifier=sources
+- pkg:maven/io.hawt/hawtio-war-minimal@4.4.0?type=war

@@ -81,3 +81,4 @@
 - pkg:maven/com.softicar.platform/platform-common@49.1.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common@49.2.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common@50.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common@52.0.0?classifier=sources

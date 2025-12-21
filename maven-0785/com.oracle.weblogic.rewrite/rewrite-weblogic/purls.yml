@@ -4,3 +4,5 @@
 - pkg:maven/com.oracle.weblogic.rewrite/rewrite-weblogic@0.4.5?classifier=sources
 - pkg:maven/com.oracle.weblogic.rewrite/rewrite-weblogic@0.4.8
 - pkg:maven/com.oracle.weblogic.rewrite/rewrite-weblogic@0.4.8?classifier=sources
+- pkg:maven/com.oracle.weblogic.rewrite/rewrite-weblogic@0.6.0
+- pkg:maven/com.oracle.weblogic.rewrite/rewrite-weblogic@0.6.0?classifier=sources

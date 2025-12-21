@@ -308,6 +308,8 @@
 - pkg:maven/com.contrastsecurity/contrast-agent@6.15.2?classifier=sources
 - pkg:maven/com.contrastsecurity/contrast-agent@6.15.3
 - pkg:maven/com.contrastsecurity/contrast-agent@6.15.3?classifier=sources
+- pkg:maven/com.contrastsecurity/contrast-agent@6.16.0
+- pkg:maven/com.contrastsecurity/contrast-agent@6.16.0?classifier=sources
 - pkg:maven/com.contrastsecurity/contrast-agent@6.2.0
 - pkg:maven/com.contrastsecurity/contrast-agent@6.2.0?classifier=sources
 - pkg:maven/com.contrastsecurity/contrast-agent@6.2.1

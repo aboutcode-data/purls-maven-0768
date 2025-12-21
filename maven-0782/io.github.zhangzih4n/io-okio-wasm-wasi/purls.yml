@@ -1,0 +1,9 @@
+- pkg:maven/io.github.zhangzih4n/io-okio-wasm-wasi@0.1.0?classifier=sources
+- pkg:maven/io.github.zhangzih4n/io-okio-wasm-wasi@0.1.1?classifier=sources
+- pkg:maven/io.github.zhangzih4n/io-okio-wasm-wasi@0.3.0?classifier=sources
+- pkg:maven/io.github.zhangzih4n/io-okio-wasm-wasi@0.4.0?classifier=sources
+- pkg:maven/io.github.zhangzih4n/io-okio-wasm-wasi@0.5.0?classifier=sources
+- pkg:maven/io.github.zhangzih4n/io-okio-wasm-wasi@0.6.0?classifier=sources
+- pkg:maven/io.github.zhangzih4n/io-okio-wasm-wasi@0.7.0?classifier=sources
+- pkg:maven/io.github.zhangzih4n/io-okio-wasm-wasi@0.7.1?classifier=sources
+- pkg:maven/io.github.zhangzih4n/io-okio-wasm-wasi@0.7.2?classifier=sources
