@@ -15,6 +15,14 @@
 - pkg:maven/de.fraunhofer.aisec/cpg-language-java@10.1.0?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg-language-java@10.2.0?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg-language-java@10.3.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-java@10.3.1?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-java@10.3.2?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-java@10.4.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-java@10.5.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-java@10.5.1?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-java@10.6.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-java@10.6.1?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-java@10.6.2?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg-language-java@7.0.0
 - pkg:maven/de.fraunhofer.aisec/cpg-language-java@7.0.0?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg-language-java@7.1.0

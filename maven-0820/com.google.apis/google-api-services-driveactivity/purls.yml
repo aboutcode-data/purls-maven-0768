@@ -184,6 +184,8 @@
 - pkg:maven/com.google.apis/google-api-services-driveactivity@v2-rev20230704-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-driveactivity@v2-rev20250329-2.0.0
 - pkg:maven/com.google.apis/google-api-services-driveactivity@v2-rev20250329-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-driveactivity@v2-rev20250517-2.0.0
+- pkg:maven/com.google.apis/google-api-services-driveactivity@v2-rev20250517-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-driveactivity@v2-rev4-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-driveactivity@v2-rev4-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-driveactivity@v2-rev4-1.22.0

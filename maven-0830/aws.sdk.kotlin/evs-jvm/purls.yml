@@ -1,0 +1,6 @@
+- pkg:maven/aws.sdk.kotlin/evs-jvm@1.4.100?classifier=sources
+- pkg:maven/aws.sdk.kotlin/evs-jvm@1.4.101?classifier=sources
+- pkg:maven/aws.sdk.kotlin/evs-jvm@1.4.102?classifier=sources
+- pkg:maven/aws.sdk.kotlin/evs-jvm@1.4.103?classifier=sources
+- pkg:maven/aws.sdk.kotlin/evs-jvm@1.4.98?classifier=sources
+- pkg:maven/aws.sdk.kotlin/evs-jvm@1.4.99?classifier=sources

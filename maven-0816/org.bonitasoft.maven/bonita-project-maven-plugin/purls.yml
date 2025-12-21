@@ -34,3 +34,5 @@
 - pkg:maven/org.bonitasoft.maven/bonita-project-maven-plugin@1.0.4?classifier=sources
 - pkg:maven/org.bonitasoft.maven/bonita-project-maven-plugin@2.0.0
 - pkg:maven/org.bonitasoft.maven/bonita-project-maven-plugin@2.0.0?classifier=sources
+- pkg:maven/org.bonitasoft.maven/bonita-project-maven-plugin@2.1.0
+- pkg:maven/org.bonitasoft.maven/bonita-project-maven-plugin@2.1.0?classifier=sources

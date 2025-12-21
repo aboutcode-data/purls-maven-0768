@@ -1,0 +1,2 @@
+- pkg:maven/com.nvidia.cuvs/cuvs-java@25.06.0
+- pkg:maven/com.nvidia.cuvs/cuvs-java@25.06.0?classifier=sources

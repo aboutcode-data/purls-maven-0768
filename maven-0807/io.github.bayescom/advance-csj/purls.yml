@@ -28,3 +28,5 @@
 - pkg:maven/io.github.bayescom/advance-csj@5.1.4_6415_core?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@5.1.5_6817?type=aar
 - pkg:maven/io.github.bayescom/advance-csj@5.1.5_6817_core?type=aar
+- pkg:maven/io.github.bayescom/advance-csj@5.1.6_6840?type=aar
+- pkg:maven/io.github.bayescom/advance-csj@5.1.6_6840_core?type=aar

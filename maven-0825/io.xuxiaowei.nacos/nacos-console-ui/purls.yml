@@ -39,3 +39,4 @@
 - pkg:maven/io.xuxiaowei.nacos/nacos-console-ui@3.0.0-ALPHA.2-page-size-100?classifier=sources
 - pkg:maven/io.xuxiaowei.nacos/nacos-console-ui@3.0.0-ALPHA.2?classifier=sources
 - pkg:maven/io.xuxiaowei.nacos/nacos-console-ui@3.0.0?classifier=sources
+- pkg:maven/io.xuxiaowei.nacos/nacos-console-ui@3.0.1?classifier=sources

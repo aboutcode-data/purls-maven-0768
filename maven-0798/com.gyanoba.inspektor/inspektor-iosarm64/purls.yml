@@ -7,3 +7,4 @@
 - pkg:maven/com.gyanoba.inspektor/inspektor-iosarm64@0.3.4?classifier=sources
 - pkg:maven/com.gyanoba.inspektor/inspektor-iosarm64@0.3.6?classifier=sources
 - pkg:maven/com.gyanoba.inspektor/inspektor-iosarm64@0.3.7?classifier=sources
+- pkg:maven/com.gyanoba.inspektor/inspektor-iosarm64@0.3.8?classifier=sources

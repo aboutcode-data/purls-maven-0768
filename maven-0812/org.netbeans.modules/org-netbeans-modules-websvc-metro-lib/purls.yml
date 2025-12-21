@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-metro-lib@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-metro-lib@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-metro-lib@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-metro-lib@RELEASE260?classifier=sources

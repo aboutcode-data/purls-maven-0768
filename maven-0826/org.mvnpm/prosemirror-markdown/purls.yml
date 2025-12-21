@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/prosemirror-markdown@1.13.2
+- pkg:maven/org.mvnpm/prosemirror-markdown@1.13.2?classifier=sources

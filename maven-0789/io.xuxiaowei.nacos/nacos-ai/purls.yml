@@ -1,1 +1,2 @@
 - pkg:maven/io.xuxiaowei.nacos/nacos-ai@3.0.0?classifier=sources
+- pkg:maven/io.xuxiaowei.nacos/nacos-ai@3.0.1?classifier=sources

@@ -1,5 +1,6 @@
 - pkg:maven/de.averbis.textanalysis/core-typesystems-bom@4.10.0
 - pkg:maven/de.averbis.textanalysis/core-typesystems-bom@4.10.1
 - pkg:maven/de.averbis.textanalysis/core-typesystems-bom@4.11.0
+- pkg:maven/de.averbis.textanalysis/core-typesystems-bom@4.12.0
 - pkg:maven/de.averbis.textanalysis/core-typesystems-bom@4.8.0
 - pkg:maven/de.averbis.textanalysis/core-typesystems-bom@4.9.0

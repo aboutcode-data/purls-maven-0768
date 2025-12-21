@@ -1,1 +1,2 @@
 - pkg:maven/com.dayanruben.spatialk/geojson-iosarm64@0.4.0?classifier=sources
+- pkg:maven/com.dayanruben.spatialk/geojson-iosarm64@0.5.0?classifier=sources

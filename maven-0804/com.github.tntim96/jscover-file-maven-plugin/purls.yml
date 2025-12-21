@@ -65,6 +65,8 @@
 - pkg:maven/com.github.tntim96/jscover-file-maven-plugin@2.0.18?classifier=sources
 - pkg:maven/com.github.tntim96/jscover-file-maven-plugin@2.0.1?classifier=sources
 - pkg:maven/com.github.tntim96/jscover-file-maven-plugin@2.0.2
+- pkg:maven/com.github.tntim96/jscover-file-maven-plugin@2.0.20
+- pkg:maven/com.github.tntim96/jscover-file-maven-plugin@2.0.20?classifier=sources
 - pkg:maven/com.github.tntim96/jscover-file-maven-plugin@2.0.2?classifier=sources
 - pkg:maven/com.github.tntim96/jscover-file-maven-plugin@2.0.3
 - pkg:maven/com.github.tntim96/jscover-file-maven-plugin@2.0.3?classifier=sources

@@ -22,3 +22,4 @@
 - pkg:maven/net.seidengarn/keepass-http-java-client@1.5.3?classifier=sources
 - pkg:maven/net.seidengarn/keepass-http-java-client@1.5.4
 - pkg:maven/net.seidengarn/keepass-http-java-client@1.5.4?classifier=sources
+- pkg:maven/net.seidengarn/keepass-http-java-client@1.5.5?classifier=sources

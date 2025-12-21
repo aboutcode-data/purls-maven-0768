@@ -21,3 +21,4 @@
 - pkg:maven/com.amplitude/evaluation-core-jvm@2.2.0-alpha.1?classifier=sources
 - pkg:maven/com.amplitude/evaluation-core-jvm@2.2.0-alpha.2?classifier=sources
 - pkg:maven/com.amplitude/evaluation-core-jvm@2.2.0-alpha.3?classifier=sources
+- pkg:maven/com.amplitude/evaluation-core-jvm@2.2.0-alpha.4?classifier=sources

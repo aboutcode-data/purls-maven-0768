@@ -15,3 +15,5 @@
 - pkg:maven/dev.ikm.elk/elk-parent@0.37.7?classifier=sources
 - pkg:maven/dev.ikm.elk/elk-parent@0.37.8?classifier=sources
 - pkg:maven/dev.ikm.elk/elk-parent@0.37.9?classifier=sources
+- pkg:maven/dev.ikm.elk/elk-parent@0.38.0?classifier=sources
+- pkg:maven/dev.ikm.elk/elk-parent@0.38.1?classifier=sources

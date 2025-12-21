@@ -11,3 +11,5 @@
 - pkg:maven/org.dromara.warm/warm-flow-jpa-sb-starter@1.6.8?classifier=sources
 - pkg:maven/org.dromara.warm/warm-flow-jpa-sb-starter@1.6.9?classifier=sources
 - pkg:maven/org.dromara.warm/warm-flow-jpa-sb-starter@1.7.0?classifier=sources
+- pkg:maven/org.dromara.warm/warm-flow-jpa-sb-starter@1.7.2?classifier=sources
+- pkg:maven/org.dromara.warm/warm-flow-jpa-sb-starter@1.7.3?classifier=sources

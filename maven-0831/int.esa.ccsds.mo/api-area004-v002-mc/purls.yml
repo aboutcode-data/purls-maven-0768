@@ -8,3 +8,5 @@
 - pkg:maven/int.esa.ccsds.mo/api-area004-v002-mc@11.3?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/api-area004-v002-mc@12.0
 - pkg:maven/int.esa.ccsds.mo/api-area004-v002-mc@12.0?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/api-area004-v002-mc@12.1
+- pkg:maven/int.esa.ccsds.mo/api-area004-v002-mc@12.1?classifier=sources

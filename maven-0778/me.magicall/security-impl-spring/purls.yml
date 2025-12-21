@@ -1,0 +1,2 @@
+- pkg:maven/me.magicall/security-impl-spring@4.0.0?classifier=sources
+- pkg:maven/me.magicall/security-impl-spring@4.0.1?classifier=sources

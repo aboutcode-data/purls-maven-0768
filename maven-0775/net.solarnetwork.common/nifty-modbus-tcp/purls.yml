@@ -7,6 +7,7 @@
 - pkg:maven/net.solarnetwork.common/nifty-modbus-tcp@0.15.0?classifier=sources
 - pkg:maven/net.solarnetwork.common/nifty-modbus-tcp@0.16.0?classifier=sources
 - pkg:maven/net.solarnetwork.common/nifty-modbus-tcp@0.17.0?classifier=sources
+- pkg:maven/net.solarnetwork.common/nifty-modbus-tcp@0.18.0?classifier=sources
 - pkg:maven/net.solarnetwork.common/nifty-modbus-tcp@0.2.0?classifier=sources
 - pkg:maven/net.solarnetwork.common/nifty-modbus-tcp@0.3.0?classifier=sources
 - pkg:maven/net.solarnetwork.common/nifty-modbus-tcp@0.4.0?classifier=sources

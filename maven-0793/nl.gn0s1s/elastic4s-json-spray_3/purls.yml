@@ -1,0 +1,4 @@
+- pkg:maven/nl.gn0s1s/elastic4s-json-spray_3@8.18.1
+- pkg:maven/nl.gn0s1s/elastic4s-json-spray_3@8.18.1?classifier=sources
+- pkg:maven/nl.gn0s1s/elastic4s-json-spray_3@9.0.0-RC2
+- pkg:maven/nl.gn0s1s/elastic4s-json-spray_3@9.0.0-RC2?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-logic@3.0.10?classifier=sources
 - pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-logic@3.0.11
 - pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-logic@3.0.11?classifier=sources
+- pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-logic@3.0.12
+- pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-logic@3.0.12?classifier=sources
 - pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-logic@3.0.6
 - pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-logic@3.0.6?classifier=sources
 - pkg:maven/org.apache.syncope.ext.opensearch/syncope-ext-opensearch-logic@3.0.7

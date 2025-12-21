@@ -1,5 +1,6 @@
 - pkg:maven/io.github.morecup/jimmer-core-kotlin@0.1.0-0.9.81?classifier=sources
 - pkg:maven/io.github.morecup/jimmer-core-kotlin@0.1.9.81?classifier=sources
 - pkg:maven/io.github.morecup/jimmer-core-kotlin@0.2.0-0.9.81?classifier=sources
+- pkg:maven/io.github.morecup/jimmer-core-kotlin@0.2.1-0.9.81?classifier=sources
 - pkg:maven/io.github.morecup/jimmer-core-kotlin@0.2.9.81?classifier=sources
 - pkg:maven/io.github.morecup/jimmer-core-kotlin@0.3.0-0.9.81?classifier=sources

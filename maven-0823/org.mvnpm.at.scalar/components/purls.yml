@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.scalar/components@0.13.50
 - pkg:maven/org.mvnpm.at.scalar/components@0.13.50?classifier=sources
+- pkg:maven/org.mvnpm.at.scalar/components@0.14.7
+- pkg:maven/org.mvnpm.at.scalar/components@0.14.7?classifier=sources

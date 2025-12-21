@@ -159,8 +159,11 @@
 - pkg:maven/com.codenameone/java-runtime@7.0.180?classifier=sources
 - pkg:maven/com.codenameone/java-runtime@7.0.181
 - pkg:maven/com.codenameone/java-runtime@7.0.181?classifier=sources
+- pkg:maven/com.codenameone/java-runtime@7.0.182
+- pkg:maven/com.codenameone/java-runtime@7.0.182?classifier=sources
 - pkg:maven/com.codenameone/java-runtime@7.0.18?classifier=sources
 - pkg:maven/com.codenameone/java-runtime@7.0.19
+- pkg:maven/com.codenameone/java-runtime@7.0.193?classifier=sources
 - pkg:maven/com.codenameone/java-runtime@7.0.19?classifier=sources
 - pkg:maven/com.codenameone/java-runtime@7.0.20
 - pkg:maven/com.codenameone/java-runtime@7.0.20?classifier=sources

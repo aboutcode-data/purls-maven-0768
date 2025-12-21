@@ -24,6 +24,7 @@
 - pkg:maven/org.flywaydb/flyway-database-ignite@10.17.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-ignite@10.18.0
 - pkg:maven/org.flywaydb/flyway-database-ignite@10.18.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-ignite@10.20.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-ignite@10.3.0
 - pkg:maven/org.flywaydb/flyway-database-ignite@10.3.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-ignite@10.4.0

@@ -678,6 +678,7 @@
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.15
+- pkg:maven/com.liferay/com.liferay.layout.impl@6.0.150?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.impl@6.0.16

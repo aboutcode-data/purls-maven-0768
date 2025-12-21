@@ -8,3 +8,5 @@
 - pkg:maven/io.github.jjba23/zzspec_2.13@0.9.4?classifier=sources
 - pkg:maven/io.github.jjba23/zzspec_2.13@1.0.2
 - pkg:maven/io.github.jjba23/zzspec_2.13@1.0.2?classifier=sources
+- pkg:maven/io.github.jjba23/zzspec_2.13@1.0.9
+- pkg:maven/io.github.jjba23/zzspec_2.13@1.0.9?classifier=sources

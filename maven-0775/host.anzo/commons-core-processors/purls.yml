@@ -7,3 +7,10 @@
 - pkg:maven/host.anzo/commons-core-processors@1.47?classifier=sources
 - pkg:maven/host.anzo/commons-core-processors@1.48?classifier=sources
 - pkg:maven/host.anzo/commons-core-processors@1.49?classifier=sources
+- pkg:maven/host.anzo/commons-core-processors@1.50?classifier=sources
+- pkg:maven/host.anzo/commons-core-processors@1.51?classifier=sources
+- pkg:maven/host.anzo/commons-core-processors@1.52?classifier=sources
+- pkg:maven/host.anzo/commons-core-processors@1.53?classifier=sources
+- pkg:maven/host.anzo/commons-core-processors@1.54?classifier=sources
+- pkg:maven/host.anzo/commons-core-processors@1.55?classifier=sources
+- pkg:maven/host.anzo/commons-core-processors@1.56?classifier=sources

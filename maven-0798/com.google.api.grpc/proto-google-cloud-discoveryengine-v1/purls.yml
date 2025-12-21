@@ -78,3 +78,9 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-discoveryengine-v1@0.56.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-discoveryengine-v1@0.57.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-discoveryengine-v1@0.57.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-discoveryengine-v1@0.58.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-discoveryengine-v1@0.58.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-discoveryengine-v1@0.59.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-discoveryengine-v1@0.59.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-discoveryengine-v1@0.60.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-discoveryengine-v1@0.60.0?classifier=sources

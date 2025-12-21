@@ -16,6 +16,13 @@
 - pkg:maven/com.helger.peppol/peppol-mlr@10.3.1?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-mlr@10.3.2
 - pkg:maven/com.helger.peppol/peppol-mlr@10.3.2?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-mlr@10.4.0?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-mlr@10.4.1?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-mlr@10.4.2?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-mlr@10.4.3?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-mlr@10.5.0?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-mlr@10.5.1?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-mlr@11.0.0?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-mlr@9.1.2
 - pkg:maven/com.helger.peppol/peppol-mlr@9.1.2?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-mlr@9.1.3

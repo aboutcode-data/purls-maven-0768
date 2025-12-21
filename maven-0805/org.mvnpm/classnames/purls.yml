@@ -1,3 +1,7 @@
+- pkg:maven/org.mvnpm/classnames@2.1.5
+- pkg:maven/org.mvnpm/classnames@2.1.5?classifier=sources
+- pkg:maven/org.mvnpm/classnames@2.2.6
+- pkg:maven/org.mvnpm/classnames@2.2.6?classifier=sources
 - pkg:maven/org.mvnpm/classnames@2.3.1?classifier=sources
 - pkg:maven/org.mvnpm/classnames@2.3.2?classifier=sources
 - pkg:maven/org.mvnpm/classnames@2.3.3?classifier=sources

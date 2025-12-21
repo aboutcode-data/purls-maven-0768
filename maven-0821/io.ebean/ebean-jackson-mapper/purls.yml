@@ -253,6 +253,7 @@
 - pkg:maven/io.ebean/ebean-jackson-mapper@15.9.0
 - pkg:maven/io.ebean/ebean-jackson-mapper@15.9.0?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-mapper@16.0.0-RC2?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@16.0.0-RC3?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-mapper@16.0.0-beta1
 - pkg:maven/io.ebean/ebean-jackson-mapper@16.0.0-beta1?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-mapper@16.0.0-rc1
@@ -260,5 +261,6 @@
 - pkg:maven/io.ebean/ebean-jackson-mapper@17.0.0-RC1
 - pkg:maven/io.ebean/ebean-jackson-mapper@17.0.0-RC1?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-mapper@17.0.0-RC2?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-mapper@17.0.0-RC3?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-mapper@17.0.0-beta1
 - pkg:maven/io.ebean/ebean-jackson-mapper@17.0.0-beta1?classifier=sources

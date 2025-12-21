@@ -1,1 +1,3 @@
 - pkg:maven/org.webjars.npm/scalar__use-codemirror@0.11.95
+- pkg:maven/org.webjars.npm/scalar__use-codemirror@0.12.6
+- pkg:maven/org.webjars.npm/scalar__use-codemirror@0.12.8

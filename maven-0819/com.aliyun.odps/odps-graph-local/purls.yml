@@ -172,3 +172,7 @@
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.51.9-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.52.0-public
 - pkg:maven/com.aliyun.odps/odps-graph-local@0.52.0-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-graph-local@0.52.1-public
+- pkg:maven/com.aliyun.odps/odps-graph-local@0.52.1-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-graph-local@0.52.2-public
+- pkg:maven/com.aliyun.odps/odps-graph-local@0.52.2-public?classifier=sources

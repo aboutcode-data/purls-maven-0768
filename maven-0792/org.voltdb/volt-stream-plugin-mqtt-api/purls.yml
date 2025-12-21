@@ -1,0 +1,2 @@
+- pkg:maven/org.voltdb/volt-stream-plugin-mqtt-api@1.4.0
+- pkg:maven/org.voltdb/volt-stream-plugin-mqtt-api@1.4.0?classifier=sources

@@ -187,3 +187,9 @@
 - pkg:maven/br.com.jarch/jarch-template@25.1.0?type=war
 - pkg:maven/br.com.jarch/jarch-template@25.2.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-template@25.2.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@25.3.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@25.3.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@25.4.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@25.4.0?type=war
+- pkg:maven/br.com.jarch/jarch-template@25.5.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-template@25.5.0?type=war

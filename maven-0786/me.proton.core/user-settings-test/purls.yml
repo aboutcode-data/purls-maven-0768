@@ -55,3 +55,5 @@
 - pkg:maven/me.proton.core/user-settings-test@32.0.0?classifier=sources
 - pkg:maven/me.proton.core/user-settings-test@32.0.1?classifier=sources
 - pkg:maven/me.proton.core/user-settings-test@32.0.2?classifier=sources
+- pkg:maven/me.proton.core/user-settings-test@32.1.0?classifier=sources
+- pkg:maven/me.proton.core/user-settings-test@32.2.0?classifier=sources

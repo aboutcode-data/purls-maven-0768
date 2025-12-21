@@ -12,6 +12,8 @@
 - pkg:maven/org.glassfish.jersey.examples/configured-client@2.45?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/configured-client@2.46
 - pkg:maven/org.glassfish.jersey.examples/configured-client@2.46?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/configured-client@2.47
+- pkg:maven/org.glassfish.jersey.examples/configured-client@2.47?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/configured-client@3.0.11
 - pkg:maven/org.glassfish.jersey.examples/configured-client@3.0.11?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/configured-client@3.0.12

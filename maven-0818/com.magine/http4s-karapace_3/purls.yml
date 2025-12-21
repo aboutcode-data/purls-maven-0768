@@ -17,6 +17,12 @@
 - pkg:maven/com.magine/http4s-karapace_3@2.1.0-18-215b60c?classifier=sources
 - pkg:maven/com.magine/http4s-karapace_3@2.1.0-21-29842fa
 - pkg:maven/com.magine/http4s-karapace_3@2.1.0-21-29842fa?classifier=sources
+- pkg:maven/com.magine/http4s-karapace_3@2.1.0-23-3302e3b
+- pkg:maven/com.magine/http4s-karapace_3@2.1.0-23-3302e3b?classifier=sources
+- pkg:maven/com.magine/http4s-karapace_3@2.1.0-25-74eeb4e
+- pkg:maven/com.magine/http4s-karapace_3@2.1.0-25-74eeb4e?classifier=sources
+- pkg:maven/com.magine/http4s-karapace_3@2.1.0-27-aa456f3
+- pkg:maven/com.magine/http4s-karapace_3@2.1.0-27-aa456f3?classifier=sources
 - pkg:maven/com.magine/http4s-karapace_3@2.1.0-3-43b06ec
 - pkg:maven/com.magine/http4s-karapace_3@2.1.0-3-43b06ec?classifier=sources
 - pkg:maven/com.magine/http4s-karapace_3@2.1.0-4-bccdb06

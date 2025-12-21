@@ -1,1 +1,2 @@
 - pkg:maven/com.walmartlabs.concord.plugins/opentelemetry@2.7.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/opentelemetry@2.8.0?classifier=sources

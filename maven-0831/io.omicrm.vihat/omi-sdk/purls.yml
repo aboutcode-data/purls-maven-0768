@@ -1,3 +1,9 @@
 - pkg:maven/io.omicrm.vihat/omi-sdk@2.3.33?classifier=sources
 - pkg:maven/io.omicrm.vihat/omi-sdk@2.3.34?classifier=sources
 - pkg:maven/io.omicrm.vihat/omi-sdk@2.3.35?classifier=sources
+- pkg:maven/io.omicrm.vihat/omi-sdk@2.3.36?classifier=sources
+- pkg:maven/io.omicrm.vihat/omi-sdk@2.3.48?classifier=sources
+- pkg:maven/io.omicrm.vihat/omi-sdk@2.3.52?classifier=sources
+- pkg:maven/io.omicrm.vihat/omi-sdk@2.3.53?classifier=sources
+- pkg:maven/io.omicrm.vihat/omi-sdk@2.3.54?classifier=sources
+- pkg:maven/io.omicrm.vihat/omi-sdk@2.3.55?classifier=sources

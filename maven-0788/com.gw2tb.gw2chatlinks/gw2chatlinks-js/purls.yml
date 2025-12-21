@@ -5,3 +5,5 @@
 - pkg:maven/com.gw2tb.gw2chatlinks/gw2chatlinks-js@0.5.0?classifier=sources
 - pkg:maven/com.gw2tb.gw2chatlinks/gw2chatlinks-js@0.6.0?classifier=sources
 - pkg:maven/com.gw2tb.gw2chatlinks/gw2chatlinks-js@1.0.0?classifier=sources
+- pkg:maven/com.gw2tb.gw2chatlinks/gw2chatlinks-js@1.1.0?classifier=sources
+- pkg:maven/com.gw2tb.gw2chatlinks/gw2chatlinks-js@2.0.0?classifier=sources

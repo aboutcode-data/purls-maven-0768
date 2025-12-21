@@ -62,3 +62,5 @@
 - pkg:maven/org.nervos.ckb/ckb-mercury-sdk@2.1.1?classifier=sources
 - pkg:maven/org.nervos.ckb/ckb-mercury-sdk@3.0.0-alpha?classifier=sources
 - pkg:maven/org.nervos.ckb/ckb-mercury-sdk@3.0.1?classifier=sources
+- pkg:maven/org.nervos.ckb/ckb-mercury-sdk@4.0.0-alpha?classifier=sources
+- pkg:maven/org.nervos.ckb/ckb-mercury-sdk@4.0.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/de.fraunhofer.iem/testCore@4.0.0?classifier=sources
 - pkg:maven/de.fraunhofer.iem/testCore@4.1.0
 - pkg:maven/de.fraunhofer.iem/testCore@4.1.0?classifier=sources
+- pkg:maven/de.fraunhofer.iem/testCore@4.2.0
+- pkg:maven/de.fraunhofer.iem/testCore@4.2.0?classifier=sources

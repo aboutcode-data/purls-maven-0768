@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-macros@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-macros@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-macros@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-macros@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-macros@RELEASE90?classifier=sources

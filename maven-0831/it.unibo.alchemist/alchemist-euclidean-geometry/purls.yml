@@ -323,6 +323,8 @@
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@42.1.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@42.1.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@42.2.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@42.2.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@42.2.2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@9.3.0-dev197%2B283eea26e?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@9.3.0-dev198%2Bb6c1cfaa1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-euclidean-geometry@9.3.0-dev1bc%2Bfd2c3a1c0?classifier=sources

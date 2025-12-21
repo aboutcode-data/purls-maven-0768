@@ -26,5 +26,9 @@
 - pkg:maven/fr.insee.eno/eno-core@2.12.7?classifier=sources
 - pkg:maven/fr.insee.eno/eno-core@2.13.0
 - pkg:maven/fr.insee.eno/eno-core@2.13.0?classifier=sources
+- pkg:maven/fr.insee.eno/eno-core@2.15.0
+- pkg:maven/fr.insee.eno/eno-core@2.15.0?classifier=sources
+- pkg:maven/fr.insee.eno/eno-core@2.15.1
+- pkg:maven/fr.insee.eno/eno-core@2.15.1?classifier=sources
 - pkg:maven/fr.insee.eno/eno-core@2.9.11
 - pkg:maven/fr.insee.eno/eno-core@2.9.11?classifier=sources

@@ -23,3 +23,11 @@
 - pkg:maven/org.mvnpm.at.swagger-api/apidom-core@1.0.0-beta.37?classifier=sources
 - pkg:maven/org.mvnpm.at.swagger-api/apidom-core@1.0.0-beta.38
 - pkg:maven/org.mvnpm.at.swagger-api/apidom-core@1.0.0-beta.38?classifier=sources
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-core@1.0.0-beta.39
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-core@1.0.0-beta.39?classifier=sources
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-core@1.0.0-beta.40
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-core@1.0.0-beta.40?classifier=sources
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-core@1.0.0-beta.41
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-core@1.0.0-beta.41?classifier=sources
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-core@1.0.0-beta.42
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-core@1.0.0-beta.42?classifier=sources

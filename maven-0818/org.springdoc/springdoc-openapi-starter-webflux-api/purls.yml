@@ -58,3 +58,4 @@
 - pkg:maven/org.springdoc/springdoc-openapi-starter-webflux-api@2.8.6?classifier=sources
 - pkg:maven/org.springdoc/springdoc-openapi-starter-webflux-api@2.8.7?classifier=sources
 - pkg:maven/org.springdoc/springdoc-openapi-starter-webflux-api@2.8.8?classifier=sources
+- pkg:maven/org.springdoc/springdoc-openapi-starter-webflux-api@2.8.9?classifier=sources

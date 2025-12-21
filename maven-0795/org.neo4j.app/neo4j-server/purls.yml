@@ -182,6 +182,8 @@
 - pkg:maven/org.neo4j.app/neo4j-server@2025.03.0?classifier=sources
 - pkg:maven/org.neo4j.app/neo4j-server@2025.04.0
 - pkg:maven/org.neo4j.app/neo4j-server@2025.04.0?classifier=sources
+- pkg:maven/org.neo4j.app/neo4j-server@2025.05.0
+- pkg:maven/org.neo4j.app/neo4j-server@2025.05.0?classifier=sources
 - pkg:maven/org.neo4j.app/neo4j-server@3.0.0
 - pkg:maven/org.neo4j.app/neo4j-server@3.0.0-M01
 - pkg:maven/org.neo4j.app/neo4j-server@3.0.0-M01?classifier=sources
@@ -745,6 +747,8 @@
 - pkg:maven/org.neo4j.app/neo4j-server@4.4.42?classifier=sources
 - pkg:maven/org.neo4j.app/neo4j-server@4.4.43
 - pkg:maven/org.neo4j.app/neo4j-server@4.4.43?classifier=sources
+- pkg:maven/org.neo4j.app/neo4j-server@4.4.44
+- pkg:maven/org.neo4j.app/neo4j-server@4.4.44?classifier=sources
 - pkg:maven/org.neo4j.app/neo4j-server@4.4.4?classifier=sources
 - pkg:maven/org.neo4j.app/neo4j-server@4.4.5
 - pkg:maven/org.neo4j.app/neo4j-server@4.4.5?classifier=sources
@@ -814,6 +818,8 @@
 - pkg:maven/org.neo4j.app/neo4j-server@5.26.5?classifier=sources
 - pkg:maven/org.neo4j.app/neo4j-server@5.26.6
 - pkg:maven/org.neo4j.app/neo4j-server@5.26.6?classifier=sources
+- pkg:maven/org.neo4j.app/neo4j-server@5.26.7
+- pkg:maven/org.neo4j.app/neo4j-server@5.26.7?classifier=sources
 - pkg:maven/org.neo4j.app/neo4j-server@5.3.0
 - pkg:maven/org.neo4j.app/neo4j-server@5.3.0?classifier=sources
 - pkg:maven/org.neo4j.app/neo4j-server@5.4.0

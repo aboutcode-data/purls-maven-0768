@@ -1,1 +1,9 @@
+- pkg:maven/org.mvnpm.at.ant-design/react-slick@0.25.6
+- pkg:maven/org.mvnpm.at.ant-design/react-slick@0.25.6?classifier=sources
+- pkg:maven/org.mvnpm.at.ant-design/react-slick@0.26.3
+- pkg:maven/org.mvnpm.at.ant-design/react-slick@0.26.3?classifier=sources
+- pkg:maven/org.mvnpm.at.ant-design/react-slick@0.27.14
+- pkg:maven/org.mvnpm.at.ant-design/react-slick@0.27.14?classifier=sources
+- pkg:maven/org.mvnpm.at.ant-design/react-slick@1.0.2
+- pkg:maven/org.mvnpm.at.ant-design/react-slick@1.0.2?classifier=sources
 - pkg:maven/org.mvnpm.at.ant-design/react-slick@1.1.2?classifier=sources

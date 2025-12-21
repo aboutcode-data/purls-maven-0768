@@ -3,3 +3,4 @@
 - pkg:maven/org.odpi.egeria/config-metadata-server-sample@5.1?classifier=sources
 - pkg:maven/org.odpi.egeria/config-metadata-server-sample@5.2.1?classifier=sources
 - pkg:maven/org.odpi.egeria/config-metadata-server-sample@5.2?classifier=sources
+- pkg:maven/org.odpi.egeria/config-metadata-server-sample@5.3?classifier=sources

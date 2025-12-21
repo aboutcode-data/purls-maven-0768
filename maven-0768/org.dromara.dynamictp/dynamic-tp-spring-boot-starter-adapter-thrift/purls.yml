@@ -1,0 +1,2 @@
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-spring-boot-starter-adapter-thrift@1.2.2-x?classifier=sources
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-spring-boot-starter-adapter-thrift@1.2.2?classifier=sources

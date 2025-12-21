@@ -19,3 +19,5 @@
 - pkg:maven/de.codecentric.mule.modules/data-weave-caller@1.1.1?classifier=sources
 - pkg:maven/de.codecentric.mule.modules/data-weave-caller@1.1.2
 - pkg:maven/de.codecentric.mule.modules/data-weave-caller@1.1.2?classifier=sources
+- pkg:maven/de.codecentric.mule.modules/data-weave-caller@1.2.0
+- pkg:maven/de.codecentric.mule.modules/data-weave-caller@1.2.0?classifier=sources

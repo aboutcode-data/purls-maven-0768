@@ -6,6 +6,7 @@
 - pkg:maven/io.spinnaker.rosco/rosco-integration@1.21.1?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-integration@1.22.0?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-integration@1.22.1?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-integration@1.22.2?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-integration@1.23.0?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-integration@1.23.1?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-integration@1.24.0?classifier=sources
@@ -20,10 +21,17 @@
 - pkg:maven/io.spinnaker.rosco/rosco-integration@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-integration@2025.0.1?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-integration@2025.0.2?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-integration@2025.0.3?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-integration@main-10?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-integration@main-11?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-integration@main-12?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-integration@main-13?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-integration@main-14?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-integration@main-15?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-integration@main-16?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-integration@main-17?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-integration@main-18?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-integration@main-19?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-integration@main-5?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-integration@main-6?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-integration@main-7?classifier=sources

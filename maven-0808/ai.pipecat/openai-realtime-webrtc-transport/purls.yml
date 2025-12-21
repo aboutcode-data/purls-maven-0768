@@ -1,2 +1,5 @@
 - pkg:maven/ai.pipecat/openai-realtime-webrtc-transport@0.3.3?classifier=sources
 - pkg:maven/ai.pipecat/openai-realtime-webrtc-transport@0.3.4?classifier=sources
+- pkg:maven/ai.pipecat/openai-realtime-webrtc-transport@0.3.5?classifier=sources
+- pkg:maven/ai.pipecat/openai-realtime-webrtc-transport@0.3.6?classifier=sources
+- pkg:maven/ai.pipecat/openai-realtime-webrtc-transport@0.3.7?classifier=sources

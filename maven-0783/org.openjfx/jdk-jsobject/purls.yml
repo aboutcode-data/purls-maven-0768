@@ -4,3 +4,5 @@
 - pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B14?classifier=sources
 - pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B17
 - pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B17?classifier=sources
+- pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B18
+- pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B18?classifier=sources

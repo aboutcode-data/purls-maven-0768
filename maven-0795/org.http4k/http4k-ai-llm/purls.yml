@@ -1,0 +1,2 @@
+- pkg:maven/org.http4k/http4k-ai-llm@6.11.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-ai-llm@6.12.0.0?classifier=sources

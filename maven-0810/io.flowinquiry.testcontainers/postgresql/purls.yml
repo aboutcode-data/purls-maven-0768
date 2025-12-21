@@ -1,0 +1,1 @@
+- pkg:maven/io.flowinquiry.testcontainers/postgresql@0.9.0?classifier=sources

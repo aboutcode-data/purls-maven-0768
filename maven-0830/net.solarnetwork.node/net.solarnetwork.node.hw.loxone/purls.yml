@@ -4,3 +4,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.loxone@2.0.4?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.loxone@3.0.1
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.loxone@3.0.1?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.loxone@3.1.1
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.loxone@3.1.1?classifier=sources

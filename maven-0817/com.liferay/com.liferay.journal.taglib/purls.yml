@@ -282,3 +282,4 @@
 - pkg:maven/com.liferay/com.liferay.journal.taglib@6.2.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.taglib@6.2.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.taglib@6.2.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.taglib@7.0.0?classifier=sources

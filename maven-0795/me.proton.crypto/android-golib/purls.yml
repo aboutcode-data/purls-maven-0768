@@ -1,1 +1,2 @@
 - pkg:maven/me.proton.crypto/android-golib@2.8.2?classifier=sources
+- pkg:maven/me.proton.crypto/android-golib@2.9.0?classifier=sources

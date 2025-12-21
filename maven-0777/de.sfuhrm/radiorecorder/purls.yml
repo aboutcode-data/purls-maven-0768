@@ -14,6 +14,7 @@
 - pkg:maven/de.sfuhrm/radiorecorder@1.13.1?classifier=sources
 - pkg:maven/de.sfuhrm/radiorecorder@1.13.2?classifier=sources
 - pkg:maven/de.sfuhrm/radiorecorder@1.13.3?classifier=sources
+- pkg:maven/de.sfuhrm/radiorecorder@1.13.4?classifier=sources
 - pkg:maven/de.sfuhrm/radiorecorder@1.4.0
 - pkg:maven/de.sfuhrm/radiorecorder@1.4.0?classifier=sources
 - pkg:maven/de.sfuhrm/radiorecorder@1.5.0

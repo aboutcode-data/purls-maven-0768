@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm.at.sindresorhus/is@5.6.0
 - pkg:maven/org.mvnpm.at.sindresorhus/is@5.6.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sindresorhus/is@7.0.1?classifier=sources
+- pkg:maven/org.mvnpm.at.sindresorhus/is@7.0.2
+- pkg:maven/org.mvnpm.at.sindresorhus/is@7.0.2?classifier=sources

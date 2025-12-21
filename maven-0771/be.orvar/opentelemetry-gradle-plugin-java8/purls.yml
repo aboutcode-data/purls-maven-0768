@@ -1,0 +1,1 @@
+- pkg:maven/be.orvar/opentelemetry-gradle-plugin-java8@1.14.0-java8?classifier=sources

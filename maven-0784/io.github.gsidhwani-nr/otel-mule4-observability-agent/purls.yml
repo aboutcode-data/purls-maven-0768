@@ -1,0 +1,2 @@
+- pkg:maven/io.github.gsidhwani-nr/otel-mule4-observability-agent@1.4.16?classifier=sources
+- pkg:maven/io.github.gsidhwani-nr/otel-mule4-observability-agent@1.4.17?classifier=sources

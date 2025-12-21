@@ -148,3 +148,5 @@
 - pkg:maven/io.zipkin.reporter2/zipkin-reporter-spring-beans@3.4.3?classifier=sources
 - pkg:maven/io.zipkin.reporter2/zipkin-reporter-spring-beans@3.5.0
 - pkg:maven/io.zipkin.reporter2/zipkin-reporter-spring-beans@3.5.0?classifier=sources
+- pkg:maven/io.zipkin.reporter2/zipkin-reporter-spring-beans@3.5.1
+- pkg:maven/io.zipkin.reporter2/zipkin-reporter-spring-beans@3.5.1?classifier=sources

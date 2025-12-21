@@ -87,9 +87,13 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/clearly-defined-package-curation-provider@58.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/clearly-defined-package-curation-provider@58.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/clearly-defined-package-curation-provider@59.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/clearly-defined-package-curation-provider@59.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/clearly-defined-package-curation-provider@59.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/clearly-defined-package-curation-provider@59.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/clearly-defined-package-curation-provider@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/clearly-defined-package-curation-provider@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/clearly-defined-package-curation-provider@6.1.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/clearly-defined-package-curation-provider@60.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/clearly-defined-package-curation-provider@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/clearly-defined-package-curation-provider@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/clearly-defined-package-curation-provider@8.0.0?classifier=sources

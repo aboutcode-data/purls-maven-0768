@@ -56,6 +56,8 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-pulsar@4.26.0-RC4?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-pulsar@4.26.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-pulsar@4.27.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-pulsar@4.28.0-RC1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-pulsar@4.28.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-pulsar@4.7.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-pulsar@4.7.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-pulsar@4.8.0

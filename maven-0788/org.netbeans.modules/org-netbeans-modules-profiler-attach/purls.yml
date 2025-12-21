@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-attach@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-attach@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-attach@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-attach@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-attach@RELEASE90?classifier=sources

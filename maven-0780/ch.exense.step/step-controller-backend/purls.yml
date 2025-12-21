@@ -86,3 +86,7 @@
 - pkg:maven/ch.exense.step/step-controller-backend@3.27.1?classifier=sources
 - pkg:maven/ch.exense.step/step-controller-backend@3.27.2
 - pkg:maven/ch.exense.step/step-controller-backend@3.27.2?classifier=sources
+- pkg:maven/ch.exense.step/step-controller-backend@3.27.3
+- pkg:maven/ch.exense.step/step-controller-backend@3.27.3?classifier=sources
+- pkg:maven/ch.exense.step/step-controller-backend@3.27.4
+- pkg:maven/ch.exense.step/step-controller-backend@3.27.4?classifier=sources

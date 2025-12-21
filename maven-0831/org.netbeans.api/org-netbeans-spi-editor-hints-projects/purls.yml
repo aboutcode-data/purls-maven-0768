@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-editor-hints-projects@RELEASE90?classifier=sources

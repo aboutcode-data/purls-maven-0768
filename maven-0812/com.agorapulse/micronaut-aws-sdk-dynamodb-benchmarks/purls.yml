@@ -119,3 +119,4 @@
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@3.3.9?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@3.4.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@3.4.1?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-aws-sdk-dynamodb-benchmarks@3.4.2?classifier=sources

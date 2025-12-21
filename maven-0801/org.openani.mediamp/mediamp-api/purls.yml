@@ -12,6 +12,7 @@
 - pkg:maven/org.openani.mediamp/mediamp-api@0.0.26?classifier=sources
 - pkg:maven/org.openani.mediamp/mediamp-api@0.0.27?classifier=sources
 - pkg:maven/org.openani.mediamp/mediamp-api@0.0.28?classifier=sources
+- pkg:maven/org.openani.mediamp/mediamp-api@0.0.29?classifier=sources
 - pkg:maven/org.openani.mediamp/mediamp-api@0.0.4?classifier=sources
 - pkg:maven/org.openani.mediamp/mediamp-api@0.0.6?classifier=sources
 - pkg:maven/org.openani.mediamp/mediamp-api@0.0.9?classifier=sources

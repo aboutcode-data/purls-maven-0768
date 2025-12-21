@@ -10,3 +10,5 @@
 - pkg:maven/org.sim0mq/sim0mq@2.1.4?classifier=sources
 - pkg:maven/org.sim0mq/sim0mq@2.1.5
 - pkg:maven/org.sim0mq/sim0mq@2.1.5?classifier=sources
+- pkg:maven/org.sim0mq/sim0mq@2.2.0
+- pkg:maven/org.sim0mq/sim0mq@2.2.0?classifier=sources

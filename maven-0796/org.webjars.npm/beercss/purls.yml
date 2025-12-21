@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/beercss@3.11.1
+- pkg:maven/org.webjars.npm/beercss@3.11.11
+- pkg:maven/org.webjars.npm/beercss@3.11.15
 - pkg:maven/org.webjars.npm/beercss@3.4.0
 - pkg:maven/org.webjars.npm/beercss@3.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/beercss@3.4.13

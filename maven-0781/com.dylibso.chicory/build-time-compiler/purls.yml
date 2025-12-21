@@ -1,0 +1,2 @@
+- pkg:maven/com.dylibso.chicory/build-time-compiler@1.4.0
+- pkg:maven/com.dylibso.chicory/build-time-compiler@1.4.0?classifier=sources

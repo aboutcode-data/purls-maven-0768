@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.cloud.diesel/diesel-i18n-plugin_2.12_1.0@0.7.0
+- pkg:maven/com.ibm.cloud.diesel/diesel-i18n-plugin_2.12_1.0@0.7.0?classifier=sources

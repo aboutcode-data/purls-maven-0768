@@ -10,3 +10,7 @@
 - pkg:maven/de.gematik.demis/notification-builder-library@5.7.0?classifier=sources
 - pkg:maven/de.gematik.demis/notification-builder-library@5.8.0
 - pkg:maven/de.gematik.demis/notification-builder-library@5.8.0?classifier=sources
+- pkg:maven/de.gematik.demis/notification-builder-library@6.0.0
+- pkg:maven/de.gematik.demis/notification-builder-library@6.0.0?classifier=sources
+- pkg:maven/de.gematik.demis/notification-builder-library@6.1.0
+- pkg:maven/de.gematik.demis/notification-builder-library@6.1.0?classifier=sources

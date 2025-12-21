@@ -700,6 +700,7 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.102?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.103?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.104?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.105?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.control.menu.web@6.0.11

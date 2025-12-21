@@ -22,3 +22,5 @@
 - pkg:maven/com.alibaba.nacos/nacos-logback-adapter-12@3.0.0-BETA
 - pkg:maven/com.alibaba.nacos/nacos-logback-adapter-12@3.0.0-BETA?classifier=sources
 - pkg:maven/com.alibaba.nacos/nacos-logback-adapter-12@3.0.0?classifier=sources
+- pkg:maven/com.alibaba.nacos/nacos-logback-adapter-12@3.0.1
+- pkg:maven/com.alibaba.nacos/nacos-logback-adapter-12@3.0.1?classifier=sources

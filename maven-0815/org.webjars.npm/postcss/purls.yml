@@ -147,3 +147,4 @@
 - pkg:maven/org.webjars.npm/postcss@8.4.6?classifier=sources
 - pkg:maven/org.webjars.npm/postcss@8.5.1
 - pkg:maven/org.webjars.npm/postcss@8.5.3
+- pkg:maven/org.webjars.npm/postcss@8.5.4

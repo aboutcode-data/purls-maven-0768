@@ -1,4 +1,6 @@
 - pkg:maven/org.mvnpm/babel-plugin-formatjs@10.4.0?classifier=sources
+- pkg:maven/org.mvnpm/babel-plugin-formatjs@10.5.36
+- pkg:maven/org.mvnpm/babel-plugin-formatjs@10.5.36?classifier=sources
 - pkg:maven/org.mvnpm/babel-plugin-formatjs@10.5.37?classifier=sources
 - pkg:maven/org.mvnpm/babel-plugin-formatjs@10.5.38
 - pkg:maven/org.mvnpm/babel-plugin-formatjs@10.5.38?classifier=sources

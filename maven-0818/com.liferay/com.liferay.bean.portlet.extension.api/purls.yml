@@ -57,3 +57,4 @@
 - pkg:maven/com.liferay/com.liferay.bean.portlet.extension.api@2.0.7
 - pkg:maven/com.liferay/com.liferay.bean.portlet.extension.api@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bean.portlet.extension.api@2.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bean.portlet.extension.api@3.0.0?classifier=sources

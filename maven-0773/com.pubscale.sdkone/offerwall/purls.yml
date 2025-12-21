@@ -7,6 +7,7 @@
 - pkg:maven/com.pubscale.sdkone/offerwall@0.02-rc6?classifier=sources
 - pkg:maven/com.pubscale.sdkone/offerwall@1.0.0?classifier=sources
 - pkg:maven/com.pubscale.sdkone/offerwall@1.0.10?classifier=sources
+- pkg:maven/com.pubscale.sdkone/offerwall@1.0.11?classifier=sources
 - pkg:maven/com.pubscale.sdkone/offerwall@1.0.1?classifier=sources
 - pkg:maven/com.pubscale.sdkone/offerwall@1.0.2?classifier=sources
 - pkg:maven/com.pubscale.sdkone/offerwall@1.0.3?classifier=sources

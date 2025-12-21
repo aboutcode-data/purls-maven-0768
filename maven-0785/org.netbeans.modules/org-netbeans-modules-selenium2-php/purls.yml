@@ -25,3 +25,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-php@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-php@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-php@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-php@RELEASE260?classifier=sources

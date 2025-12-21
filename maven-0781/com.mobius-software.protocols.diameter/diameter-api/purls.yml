@@ -61,6 +61,8 @@
 - pkg:maven/com.mobius-software.protocols.diameter/diameter-api@10.0.0-25?classifier=sources
 - pkg:maven/com.mobius-software.protocols.diameter/diameter-api@10.0.0-26-java11?classifier=sources
 - pkg:maven/com.mobius-software.protocols.diameter/diameter-api@10.0.0-26?classifier=sources
+- pkg:maven/com.mobius-software.protocols.diameter/diameter-api@10.0.0-27-java11?classifier=sources
+- pkg:maven/com.mobius-software.protocols.diameter/diameter-api@10.0.0-27?classifier=sources
 - pkg:maven/com.mobius-software.protocols.diameter/diameter-api@10.0.0-2?classifier=sources
 - pkg:maven/com.mobius-software.protocols.diameter/diameter-api@10.0.0-3
 - pkg:maven/com.mobius-software.protocols.diameter/diameter-api@10.0.0-3?classifier=sources

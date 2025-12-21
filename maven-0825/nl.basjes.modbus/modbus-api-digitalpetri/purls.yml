@@ -1,2 +1,7 @@
 - pkg:maven/nl.basjes.modbus/modbus-api-digitalpetri@0.2.0?classifier=sources
 - pkg:maven/nl.basjes.modbus/modbus-api-digitalpetri@0.3.0?classifier=sources
+- pkg:maven/nl.basjes.modbus/modbus-api-digitalpetri@0.4.0?classifier=sources
+- pkg:maven/nl.basjes.modbus/modbus-api-digitalpetri@0.5.0?classifier=sources
+- pkg:maven/nl.basjes.modbus/modbus-api-digitalpetri@0.5.1?classifier=sources
+- pkg:maven/nl.basjes.modbus/modbus-api-digitalpetri@0.6.0?classifier=sources
+- pkg:maven/nl.basjes.modbus/modbus-api-digitalpetri@0.7.0?classifier=sources

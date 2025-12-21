@@ -1,0 +1,2 @@
+- pkg:maven/net.scrayos/open-match-client@5.2.0?classifier=sources
+- pkg:maven/net.scrayos/open-match-client@5.2.1?classifier=sources

@@ -86,3 +86,5 @@
 - pkg:maven/com.bloomscorp/bmx-nverse@0.0.9?classifier=sources
 - pkg:maven/com.bloomscorp/bmx-nverse@3.4.0.1
 - pkg:maven/com.bloomscorp/bmx-nverse@3.4.0.1?classifier=sources
+- pkg:maven/com.bloomscorp/bmx-nverse@3.4.0.2
+- pkg:maven/com.bloomscorp/bmx-nverse@3.4.0.2?classifier=sources

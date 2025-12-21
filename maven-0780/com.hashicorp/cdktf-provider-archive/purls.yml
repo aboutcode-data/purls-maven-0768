@@ -1028,6 +1028,10 @@
 - pkg:maven/com.hashicorp/cdktf-provider-archive@10.2.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-archive@10.3.0
 - pkg:maven/com.hashicorp/cdktf-provider-archive@10.3.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-archive@10.3.1
+- pkg:maven/com.hashicorp/cdktf-provider-archive@10.3.1?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-archive@11.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-archive@11.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-archive@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-archive@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-archive@2.0.1
