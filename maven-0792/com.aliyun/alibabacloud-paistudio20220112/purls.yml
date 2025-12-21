@@ -26,3 +26,6 @@
 - pkg:maven/com.aliyun/alibabacloud-paistudio20220112@2.0.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-paistudio20220112@2.0.3
 - pkg:maven/com.aliyun/alibabacloud-paistudio20220112@2.0.3?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-paistudio20220112@2.0.4
+- pkg:maven/com.aliyun/alibabacloud-paistudio20220112@2.0.4?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-paistudio20220112@2.0.5?classifier=sources

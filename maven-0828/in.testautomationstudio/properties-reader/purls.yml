@@ -1,1 +1,2 @@
 - pkg:maven/in.testautomationstudio/properties-reader@1.0.0?classifier=sources
+- pkg:maven/in.testautomationstudio/properties-reader@1.0.1?classifier=sources

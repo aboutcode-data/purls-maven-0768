@@ -1,0 +1,4 @@
+- pkg:maven/com.enos-iot/subscription-common@2.4.10
+- pkg:maven/com.enos-iot/subscription-common@2.4.10?classifier=sources
+- pkg:maven/com.enos-iot/subscription-common@2.4.11
+- pkg:maven/com.enos-iot/subscription-common@2.4.11?classifier=sources

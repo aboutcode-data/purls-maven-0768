@@ -3,4 +3,6 @@
 - pkg:maven/com.schibsted.pulse/unicorn-android@1.1.7?classifier=sources
 - pkg:maven/com.schibsted.pulse/unicorn-android@1.2.0-alpha06?classifier=sources
 - pkg:maven/com.schibsted.pulse/unicorn-android@1.2.0-alpha07?classifier=sources
+- pkg:maven/com.schibsted.pulse/unicorn-android@1.2.0-alpha10?classifier=sources
+- pkg:maven/com.schibsted.pulse/unicorn-android@1.2.0-alpha13?classifier=sources
 - pkg:maven/com.schibsted.pulse/unicorn-android@1.2.0?classifier=sources

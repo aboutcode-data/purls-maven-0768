@@ -1,3 +1,4 @@
 - pkg:maven/io.github.zj565061763.kmp/compose-utils-android@2025.01.00?classifier=sources
 - pkg:maven/io.github.zj565061763.kmp/compose-utils-android@2025.02.00?classifier=sources
 - pkg:maven/io.github.zj565061763.kmp/compose-utils-android@2025.02.01?classifier=sources
+- pkg:maven/io.github.zj565061763.kmp/compose-utils-android@2025.06.01?classifier=sources

@@ -140,6 +140,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-gkehub-v1beta@0.7.2?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-gkehub-v1beta@0.70.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-gkehub-v1beta@0.70.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-gkehub-v1beta@0.72.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-gkehub-v1beta@0.72.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-gkehub-v1beta@0.73.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-gkehub-v1beta@0.73.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-gkehub-v1beta@0.8.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-gkehub-v1beta@0.8.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-gkehub-v1beta@0.8.1

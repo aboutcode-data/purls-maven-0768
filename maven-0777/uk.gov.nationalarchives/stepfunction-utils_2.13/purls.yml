@@ -352,6 +352,14 @@
 - pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.276?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.277
 - pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.277?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.279
+- pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.279?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.280
+- pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.280?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.281
+- pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.281?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.282
+- pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.282?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.55
 - pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.55?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/stepfunction-utils_2.13@0.1.56

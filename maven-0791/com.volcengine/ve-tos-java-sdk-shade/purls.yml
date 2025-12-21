@@ -2,3 +2,5 @@
 - pkg:maven/com.volcengine/ve-tos-java-sdk-shade@2.9.2?classifier=sources
 - pkg:maven/com.volcengine/ve-tos-java-sdk-shade@2.9.3
 - pkg:maven/com.volcengine/ve-tos-java-sdk-shade@2.9.3?classifier=sources
+- pkg:maven/com.volcengine/ve-tos-java-sdk-shade@2.9.4
+- pkg:maven/com.volcengine/ve-tos-java-sdk-shade@2.9.4?classifier=sources

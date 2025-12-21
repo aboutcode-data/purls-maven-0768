@@ -103,3 +103,4 @@
 - pkg:maven/org.webjars.npm/tinymce@7.7.1
 - pkg:maven/org.webjars.npm/tinymce@7.7.2
 - pkg:maven/org.webjars.npm/tinymce@7.9.0
+- pkg:maven/org.webjars.npm/tinymce@7.9.1

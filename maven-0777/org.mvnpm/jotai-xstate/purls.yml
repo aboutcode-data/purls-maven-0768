@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/jotai-xstate@0.6.1
+- pkg:maven/org.mvnpm/jotai-xstate@0.6.1?classifier=sources

@@ -892,6 +892,12 @@
 - pkg:maven/org.cdk8s/cdk8s-jenkins@0.0.502?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-jenkins@0.0.503
 - pkg:maven/org.cdk8s/cdk8s-jenkins@0.0.503?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-jenkins@0.0.504
+- pkg:maven/org.cdk8s/cdk8s-jenkins@0.0.504?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-jenkins@0.0.505
+- pkg:maven/org.cdk8s/cdk8s-jenkins@0.0.505?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-jenkins@0.0.506
+- pkg:maven/org.cdk8s/cdk8s-jenkins@0.0.506?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-jenkins@0.0.50?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-jenkins@0.0.51
 - pkg:maven/org.cdk8s/cdk8s-jenkins@0.0.51?classifier=sources

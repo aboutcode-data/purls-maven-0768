@@ -87,3 +87,4 @@
 - pkg:maven/org.jpmml/pmml-model-moxy@1.7.2?classifier=sources
 - pkg:maven/org.jpmml/pmml-model-moxy@1.7.3
 - pkg:maven/org.jpmml/pmml-model-moxy@1.7.3?classifier=sources
+- pkg:maven/org.jpmml/pmml-model-moxy@1.7.4?classifier=sources

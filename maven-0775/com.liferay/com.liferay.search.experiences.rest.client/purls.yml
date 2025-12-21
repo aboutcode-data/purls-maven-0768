@@ -102,6 +102,7 @@
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.client@3.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.client@3.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.client@3.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.search.experiences.rest.client@3.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.client@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.client@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.client@3.0.4

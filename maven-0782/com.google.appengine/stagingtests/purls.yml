@@ -16,3 +16,5 @@
 - pkg:maven/com.google.appengine/stagingtests@2.0.34
 - pkg:maven/com.google.appengine/stagingtests@2.0.35
 - pkg:maven/com.google.appengine/stagingtests@2.0.36
+- pkg:maven/com.google.appengine/stagingtests@2.0.37
+- pkg:maven/com.google.appengine/stagingtests@2.0.38

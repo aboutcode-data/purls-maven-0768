@@ -8,3 +8,5 @@
 - pkg:maven/io.github.zakolenko/fs2-kinesis-firehose-core_2.13@0.0.8?classifier=sources
 - pkg:maven/io.github.zakolenko/fs2-kinesis-firehose-core_2.13@0.0.9
 - pkg:maven/io.github.zakolenko/fs2-kinesis-firehose-core_2.13@0.0.9?classifier=sources
+- pkg:maven/io.github.zakolenko/fs2-kinesis-firehose-core_2.13@1.0.0-test-v2
+- pkg:maven/io.github.zakolenko/fs2-kinesis-firehose-core_2.13@1.0.0-test-v2?classifier=sources

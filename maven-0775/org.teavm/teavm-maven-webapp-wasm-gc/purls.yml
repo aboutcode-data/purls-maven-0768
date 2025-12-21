@@ -1,3 +1,4 @@
 - pkg:maven/org.teavm/teavm-maven-webapp-wasm-gc@0.11.0?classifier=sources
 - pkg:maven/org.teavm/teavm-maven-webapp-wasm-gc@0.12.0?classifier=sources
 - pkg:maven/org.teavm/teavm-maven-webapp-wasm-gc@0.12.1?classifier=sources
+- pkg:maven/org.teavm/teavm-maven-webapp-wasm-gc@0.12.2?classifier=sources

@@ -86,6 +86,10 @@
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1-rev20250522-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1-rev20250529-2.0.0
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1-rev20250529-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-alloydb@v1-rev20250605-2.0.0
+- pkg:maven/com.google.apis/google-api-services-alloydb@v1-rev20250605-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-alloydb@v1-rev20250612-2.0.0
+- pkg:maven/com.google.apis/google-api-services-alloydb@v1-rev20250612-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1alpha-rev20230821-2.0.0
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1alpha-rev20230821-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1alpha-rev20230918-2.0.0
@@ -182,6 +186,10 @@
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1alpha-rev20250522-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1alpha-rev20250529-2.0.0
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1alpha-rev20250529-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-alloydb@v1alpha-rev20250605-2.0.0
+- pkg:maven/com.google.apis/google-api-services-alloydb@v1alpha-rev20250605-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-alloydb@v1alpha-rev20250612-2.0.0
+- pkg:maven/com.google.apis/google-api-services-alloydb@v1alpha-rev20250612-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1beta-rev20230821-2.0.0
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1beta-rev20230821-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1beta-rev20230918-2.0.0
@@ -278,3 +286,7 @@
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1beta-rev20250522-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1beta-rev20250529-2.0.0
 - pkg:maven/com.google.apis/google-api-services-alloydb@v1beta-rev20250529-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-alloydb@v1beta-rev20250605-2.0.0
+- pkg:maven/com.google.apis/google-api-services-alloydb@v1beta-rev20250605-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-alloydb@v1beta-rev20250612-2.0.0
+- pkg:maven/com.google.apis/google-api-services-alloydb@v1beta-rev20250612-2.0.0?classifier=sources

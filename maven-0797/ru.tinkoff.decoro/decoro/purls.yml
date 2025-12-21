@@ -36,3 +36,4 @@
 - pkg:maven/ru.tinkoff.decoro/decoro@1.5.1?type=aar
 - pkg:maven/ru.tinkoff.decoro/decoro@1.5.2?classifier=sources
 - pkg:maven/ru.tinkoff.decoro/decoro@1.6.0?classifier=sources
+- pkg:maven/ru.tinkoff.decoro/decoro@1.7.0?classifier=sources

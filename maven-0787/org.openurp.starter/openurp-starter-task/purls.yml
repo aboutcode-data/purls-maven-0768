@@ -36,3 +36,5 @@
 - pkg:maven/org.openurp.starter/openurp-starter-task@0.3.56?classifier=sources
 - pkg:maven/org.openurp.starter/openurp-starter-task@0.3.57
 - pkg:maven/org.openurp.starter/openurp-starter-task@0.3.57?classifier=sources
+- pkg:maven/org.openurp.starter/openurp-starter-task@0.3.58
+- pkg:maven/org.openurp.starter/openurp-starter-task@0.3.58?classifier=sources

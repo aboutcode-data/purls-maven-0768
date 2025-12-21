@@ -75,3 +75,4 @@
 - pkg:maven/com.networknt/request-transformer@2.2.1
 - pkg:maven/com.networknt/request-transformer@2.2.1?classifier=sources
 - pkg:maven/com.networknt/request-transformer@2.2.2?classifier=sources
+- pkg:maven/com.networknt/request-transformer@2.3.0?classifier=sources

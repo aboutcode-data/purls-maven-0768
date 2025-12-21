@@ -21,6 +21,8 @@
 - pkg:maven/org.mvnpm/swiper@11.1.8?classifier=sources
 - pkg:maven/org.mvnpm/swiper@11.1.9?classifier=sources
 - pkg:maven/org.mvnpm/swiper@11.2.0?classifier=sources
+- pkg:maven/org.mvnpm/swiper@11.2.10
+- pkg:maven/org.mvnpm/swiper@11.2.10?classifier=sources
 - pkg:maven/org.mvnpm/swiper@11.2.1?classifier=sources
 - pkg:maven/org.mvnpm/swiper@11.2.2?classifier=sources
 - pkg:maven/org.mvnpm/swiper@11.2.3?classifier=sources
@@ -31,4 +33,6 @@
 - pkg:maven/org.mvnpm/swiper@11.2.7?classifier=sources
 - pkg:maven/org.mvnpm/swiper@11.2.8
 - pkg:maven/org.mvnpm/swiper@11.2.8?classifier=sources
+- pkg:maven/org.mvnpm/swiper@11.2.9
+- pkg:maven/org.mvnpm/swiper@11.2.9?classifier=sources
 - pkg:maven/org.mvnpm/swiper@5.3.0?classifier=sources

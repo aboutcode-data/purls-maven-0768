@@ -23,3 +23,6 @@
 - pkg:maven/org.icij.datashare/datashare-tasks@17.0.1?classifier=sources
 - pkg:maven/org.icij.datashare/datashare-tasks@18.0.0
 - pkg:maven/org.icij.datashare/datashare-tasks@18.0.0?classifier=sources
+- pkg:maven/org.icij.datashare/datashare-tasks@18.0.1?classifier=sources
+- pkg:maven/org.icij.datashare/datashare-tasks@18.0.2?classifier=sources
+- pkg:maven/org.icij.datashare/datashare-tasks@18.0.3?classifier=sources

@@ -6,3 +6,12 @@
 - pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B17?classifier=sources
 - pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B18
 - pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B18?classifier=sources
+- pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B20
+- pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B20?classifier=sources
+- pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B21
+- pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B21?classifier=sources
+- pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B22?classifier=sources
+- pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B22b
+- pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B22b?classifier=sources
+- pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B23
+- pkg:maven/org.openjfx/jdk-jsobject@25-ea%2B23?classifier=sources

@@ -1,1 +1,4 @@
 - pkg:maven/software.amazon.lambda/powertools-parameters-secrets@2.0.0-RC1?classifier=sources
+- pkg:maven/software.amazon.lambda/powertools-parameters-secrets@2.0.0?classifier=sources
+- pkg:maven/software.amazon.lambda/powertools-parameters-secrets@2.1.0?classifier=sources
+- pkg:maven/software.amazon.lambda/powertools-parameters-secrets@2.1.1?classifier=sources

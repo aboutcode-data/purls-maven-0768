@@ -6,3 +6,5 @@
 - pkg:maven/com.dawex.sigourney/sigourney-verifiable-credentials-core@2.0.4?classifier=sources
 - pkg:maven/com.dawex.sigourney/sigourney-verifiable-credentials-core@2.0.5?classifier=sources
 - pkg:maven/com.dawex.sigourney/sigourney-verifiable-credentials-core@2.1.0?classifier=sources
+- pkg:maven/com.dawex.sigourney/sigourney-verifiable-credentials-core@2.1.8?classifier=sources
+- pkg:maven/com.dawex.sigourney/sigourney-verifiable-credentials-core@2.1.9?classifier=sources

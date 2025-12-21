@@ -14,3 +14,5 @@
 - pkg:maven/io.openapiprocessor/openapi-processor-core-parser-swagger@2025.1?classifier=sources
 - pkg:maven/io.openapiprocessor/openapi-processor-core-parser-swagger@2025.2?classifier=sources
 - pkg:maven/io.openapiprocessor/openapi-processor-core-parser-swagger@2025.3?classifier=sources
+- pkg:maven/io.openapiprocessor/openapi-processor-core-parser-swagger@2025.4.1?classifier=sources
+- pkg:maven/io.openapiprocessor/openapi-processor-core-parser-swagger@2025.4?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm.at.carbon/motion@11.26.0?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/motion@11.28.0
 - pkg:maven/org.mvnpm.at.carbon/motion@11.28.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/motion@11.30.0
+- pkg:maven/org.mvnpm.at.carbon/motion@11.30.0?classifier=sources

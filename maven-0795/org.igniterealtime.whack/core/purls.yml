@@ -3,3 +3,4 @@
 - pkg:maven/org.igniterealtime.whack/core@2.0.1
 - pkg:maven/org.igniterealtime.whack/core@2.0.1?classifier=sources
 - pkg:maven/org.igniterealtime.whack/core@3.0.0?classifier=sources
+- pkg:maven/org.igniterealtime.whack/core@3.1.0?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/com.apple.itunes.storekit/app-store-server-library@3.2.0?classifier=sources
 - pkg:maven/com.apple.itunes.storekit/app-store-server-library@3.3.0?classifier=sources
 - pkg:maven/com.apple.itunes.storekit/app-store-server-library@3.4.0?classifier=sources
+- pkg:maven/com.apple.itunes.storekit/app-store-server-library@3.5.0?classifier=sources

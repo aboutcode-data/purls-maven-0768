@@ -336,3 +336,7 @@
 - pkg:maven/cn.herodotus.engine/rest-sdk-protect@3.4.6.0?classifier=sources
 - pkg:maven/cn.herodotus.engine/rest-sdk-protect@3.5.0.0?classifier=sources
 - pkg:maven/cn.herodotus.engine/rest-sdk-protect@3.5.0.1?classifier=sources
+- pkg:maven/cn.herodotus.engine/rest-sdk-protect@3.5.1.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/rest-sdk-protect@3.5.2.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/rest-sdk-protect@3.5.3.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/rest-sdk-protect@3.5.3.1?classifier=sources

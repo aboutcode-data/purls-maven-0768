@@ -6,3 +6,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.yaskawa.pvitl@4.0.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.yaskawa.pvitl@4.1.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.yaskawa.pvitl@4.1.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.yaskawa.pvitl@5.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.yaskawa.pvitl@5.0.0?classifier=sources

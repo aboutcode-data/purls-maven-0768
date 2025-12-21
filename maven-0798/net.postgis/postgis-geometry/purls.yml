@@ -9,3 +9,4 @@
 - pkg:maven/net.postgis/postgis-geometry@2024.1.0
 - pkg:maven/net.postgis/postgis-geometry@2024.1.0?classifier=sources
 - pkg:maven/net.postgis/postgis-geometry@2025.1.0?classifier=sources
+- pkg:maven/net.postgis/postgis-geometry@2025.1.1?classifier=sources

@@ -70,6 +70,8 @@
 - pkg:maven/com.smartling.api/smartling-strings-api@1.18.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-strings-api@1.19.0
 - pkg:maven/com.smartling.api/smartling-strings-api@1.19.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-strings-api@1.19.2
+- pkg:maven/com.smartling.api/smartling-strings-api@1.19.2?classifier=sources
 - pkg:maven/com.smartling.api/smartling-strings-api@1.2.0
 - pkg:maven/com.smartling.api/smartling-strings-api@1.2.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-strings-api@1.4.0

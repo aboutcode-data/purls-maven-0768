@@ -1,3 +1,4 @@
 - pkg:maven/com.datomic/ion-dev@1.0.312
 - pkg:maven/com.datomic/ion-dev@1.0.316
 - pkg:maven/com.datomic/ion-dev@1.0.325
+- pkg:maven/com.datomic/ion-dev@1.0.326

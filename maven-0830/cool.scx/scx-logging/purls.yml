@@ -246,3 +246,8 @@
 - pkg:maven/cool.scx/scx-logging@3.7.9?classifier=sources
 - pkg:maven/cool.scx/scx-logging@3.8.0?classifier=sources
 - pkg:maven/cool.scx/scx-logging@3.8.1?classifier=sources
+- pkg:maven/cool.scx/scx-logging@3.8.2?classifier=sources
+- pkg:maven/cool.scx/scx-logging@3.8.3?classifier=sources
+- pkg:maven/cool.scx/scx-logging@3.8.4?classifier=sources
+- pkg:maven/cool.scx/scx-logging@3.8.5?classifier=sources
+- pkg:maven/cool.scx/scx-logging@4.0.0?classifier=sources

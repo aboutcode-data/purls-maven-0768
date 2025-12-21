@@ -50,3 +50,4 @@
 - pkg:maven/cn.jiguang.sdk.plugin/fcm@5.6.0?classifier=sources
 - pkg:maven/cn.jiguang.sdk.plugin/fcm@5.6.1?classifier=sources
 - pkg:maven/cn.jiguang.sdk.plugin/fcm@5.7.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk.plugin/fcm@5.7.3?classifier=sources

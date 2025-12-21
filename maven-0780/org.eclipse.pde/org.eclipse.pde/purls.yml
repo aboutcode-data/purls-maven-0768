@@ -36,6 +36,7 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.300
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.3000
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.3000?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.3100
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.4
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.400
 - pkg:maven/org.eclipse.pde/org.eclipse.pde@3.13.500

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.camel.karaf/camel-neo4j@4.10.3
 - pkg:maven/org.apache.camel.karaf/camel-neo4j@4.10.3?classifier=sources
+- pkg:maven/org.apache.camel.karaf/camel-neo4j@4.10.5
+- pkg:maven/org.apache.camel.karaf/camel-neo4j@4.10.5?classifier=sources

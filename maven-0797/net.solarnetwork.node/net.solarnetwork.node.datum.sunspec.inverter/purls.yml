@@ -10,3 +10,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.sunspec.inverter@4.2.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.sunspec.inverter@4.3.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.sunspec.inverter@4.3.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.sunspec.inverter@5.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.sunspec.inverter@5.0.0?classifier=sources

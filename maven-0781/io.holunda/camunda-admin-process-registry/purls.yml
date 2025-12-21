@@ -14,3 +14,5 @@
 - pkg:maven/io.holunda/camunda-admin-process-registry@0.23.0?classifier=sources
 - pkg:maven/io.holunda/camunda-admin-process-registry@2025.05.1
 - pkg:maven/io.holunda/camunda-admin-process-registry@2025.05.1?classifier=sources
+- pkg:maven/io.holunda/camunda-admin-process-registry@2025.06.1
+- pkg:maven/io.holunda/camunda-admin-process-registry@2025.06.1?classifier=sources

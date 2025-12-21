@@ -12,3 +12,4 @@
 - pkg:maven/org.aksw.jenax/jenax-reprogen-shacl@5.0.0-1?classifier=sources
 - pkg:maven/org.aksw.jenax/jenax-reprogen-shacl@5.2.0-1
 - pkg:maven/org.aksw.jenax/jenax-reprogen-shacl@5.2.0-1?classifier=sources
+- pkg:maven/org.aksw.jenax/jenax-reprogen-shacl@5.4.0-1?classifier=sources

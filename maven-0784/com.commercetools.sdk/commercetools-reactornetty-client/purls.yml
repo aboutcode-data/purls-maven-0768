@@ -77,3 +77,4 @@
 - pkg:maven/com.commercetools.sdk/commercetools-reactornetty-client@18.1.0-RC.1?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-reactornetty-client@18.1.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-reactornetty-client@18.2.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-reactornetty-client@18.3.0?classifier=sources

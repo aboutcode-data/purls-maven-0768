@@ -35,3 +35,4 @@
 - pkg:maven/com.mapxus.map/component-kit@0.1.17?classifier=sources
 - pkg:maven/com.mapxus.map/component-kit@0.1.7?classifier=sources
 - pkg:maven/com.mapxus.map/component-kit@0.2.0?classifier=sources
+- pkg:maven/com.mapxus.map/component-kit@0.2.1?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/nl.teslanet.mule.connectors/mule-coap-connector@3.0.0?classifier=sources
 - pkg:maven/nl.teslanet.mule.connectors/mule-coap-connector@3.0.1?classifier=sources
 - pkg:maven/nl.teslanet.mule.connectors/mule-coap-connector@3.1.0?classifier=sources
+- pkg:maven/nl.teslanet.mule.connectors/mule-coap-connector@3.2.0?classifier=sources

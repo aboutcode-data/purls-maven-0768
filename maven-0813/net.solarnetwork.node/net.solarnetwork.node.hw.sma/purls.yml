@@ -2,3 +2,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.sma@2.0.1?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.sma@3.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.sma@3.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.sma@4.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.sma@4.0.0?classifier=sources

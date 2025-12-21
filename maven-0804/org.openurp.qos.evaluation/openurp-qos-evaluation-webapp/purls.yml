@@ -1,2 +1,3 @@
 - pkg:maven/org.openurp.qos.evaluation/openurp-qos-evaluation-webapp@0.0.20?classifier=sources
 - pkg:maven/org.openurp.qos.evaluation/openurp-qos-evaluation-webapp@0.0.21?classifier=sources
+- pkg:maven/org.openurp.qos.evaluation/openurp-qos-evaluation-webapp@0.0.23?classifier=sources

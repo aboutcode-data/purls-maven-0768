@@ -24,6 +24,14 @@
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.17?classifier=sources
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.18
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.18?classifier=sources
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.19
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.19-rc1
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.19-rc1?classifier=sources
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.19-rc2
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.19-rc2?classifier=sources
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.19?classifier=sources
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.20?classifier=sources
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.21?classifier=sources
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.7
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.7-rc1
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.6.7-rc1?classifier=sources
@@ -72,6 +80,13 @@
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.7.4?classifier=sources
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.7.5
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.7.5?classifier=sources
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.7.6
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.7.6-rc1
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.7.6-rc1?classifier=sources
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.7.6-rc2
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.7.6-rc2?classifier=sources
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.7.6?classifier=sources
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.7.7?classifier=sources
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.8.0-alpha1-rc1
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.8.0-alpha1-rc1?classifier=sources
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.8.0-alpha2
@@ -94,3 +109,7 @@
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.8.0-alpha5-rc2
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.8.0-alpha5-rc2?classifier=sources
 - pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.8.0-alpha5?classifier=sources
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.8.0-alpha6-rc1?classifier=sources
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.8.0-alpha6-rc2?classifier=sources
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.8.0-alpha6-rc3?classifier=sources
+- pkg:maven/io.camunda/spring-boot-starter-camunda-test@8.8.0-alpha6?classifier=sources

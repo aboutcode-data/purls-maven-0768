@@ -1,1 +1,4 @@
+- pkg:maven/com.ubs-hainer/filebridge-jdbc-driver@3.25.21-XHLP-4331?classifier=sources
 - pkg:maven/com.ubs-hainer/filebridge-jdbc-driver@3.25.21?classifier=sources
+- pkg:maven/com.ubs-hainer/filebridge-jdbc-driver@3.25.23?classifier=sources
+- pkg:maven/com.ubs-hainer/filebridge-jdbc-driver@3.25.25?classifier=sources

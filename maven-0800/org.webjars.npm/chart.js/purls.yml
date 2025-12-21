@@ -109,3 +109,4 @@
 - pkg:maven/org.webjars.npm/chart.js@4.4.7
 - pkg:maven/org.webjars.npm/chart.js@4.4.8
 - pkg:maven/org.webjars.npm/chart.js@4.4.9
+- pkg:maven/org.webjars.npm/chart.js@4.5.0

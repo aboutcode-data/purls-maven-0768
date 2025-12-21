@@ -137,3 +137,7 @@
 - pkg:maven/org.membrane-soa/service-proxy-annot@6.0.3?classifier=sources
 - pkg:maven/org.membrane-soa/service-proxy-annot@6.0.5
 - pkg:maven/org.membrane-soa/service-proxy-annot@6.0.5?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-annot@6.1.0
+- pkg:maven/org.membrane-soa/service-proxy-annot@6.1.0?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-annot@6.2.0
+- pkg:maven/org.membrane-soa/service-proxy-annot@6.2.0?classifier=sources

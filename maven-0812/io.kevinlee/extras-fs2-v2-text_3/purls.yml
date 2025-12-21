@@ -34,3 +34,5 @@
 - pkg:maven/io.kevinlee/extras-fs2-v2-text_3@0.43.0?classifier=sources
 - pkg:maven/io.kevinlee/extras-fs2-v2-text_3@0.44.0
 - pkg:maven/io.kevinlee/extras-fs2-v2-text_3@0.44.0?classifier=sources
+- pkg:maven/io.kevinlee/extras-fs2-v2-text_3@0.45.0
+- pkg:maven/io.kevinlee/extras-fs2-v2-text_3@0.45.0?classifier=sources

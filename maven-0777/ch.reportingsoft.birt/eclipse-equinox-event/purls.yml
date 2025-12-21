@@ -2,3 +2,5 @@
 - pkg:maven/ch.reportingsoft.birt/eclipse-equinox-event@1.7.100?classifier=sources
 - pkg:maven/ch.reportingsoft.birt/eclipse-equinox-event@1.7.200
 - pkg:maven/ch.reportingsoft.birt/eclipse-equinox-event@1.7.200?classifier=sources
+- pkg:maven/ch.reportingsoft.birt/eclipse-equinox-event@1.7.300
+- pkg:maven/ch.reportingsoft.birt/eclipse-equinox-event@1.7.300?classifier=sources

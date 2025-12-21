@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.stoplight/mosaic-code-editor@1.53.4
+- pkg:maven/org.mvnpm.at.stoplight/mosaic-code-editor@1.53.4?classifier=sources

@@ -6,6 +6,8 @@
 - pkg:maven/io.github.jjba23/zzspec_2.13@0.9.3?classifier=sources
 - pkg:maven/io.github.jjba23/zzspec_2.13@0.9.4
 - pkg:maven/io.github.jjba23/zzspec_2.13@0.9.4?classifier=sources
+- pkg:maven/io.github.jjba23/zzspec_2.13@1.0.12
+- pkg:maven/io.github.jjba23/zzspec_2.13@1.0.12?classifier=sources
 - pkg:maven/io.github.jjba23/zzspec_2.13@1.0.2
 - pkg:maven/io.github.jjba23/zzspec_2.13@1.0.2?classifier=sources
 - pkg:maven/io.github.jjba23/zzspec_2.13@1.0.9

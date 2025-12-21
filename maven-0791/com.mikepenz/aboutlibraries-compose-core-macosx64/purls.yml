@@ -22,3 +22,5 @@
 - pkg:maven/com.mikepenz/aboutlibraries-compose-core-macosx64@12.2.0?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-compose-core-macosx64@12.2.1?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-compose-core-macosx64@12.2.2?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-core-macosx64@12.2.3?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-core-macosx64@12.2.4?classifier=sources

@@ -43,4 +43,5 @@
 - pkg:maven/org.komapper/komapper-tx-core@5.2.0?classifier=sources
 - pkg:maven/org.komapper/komapper-tx-core@5.2.1?classifier=sources
 - pkg:maven/org.komapper/komapper-tx-core@5.3.0?classifier=sources
+- pkg:maven/org.komapper/komapper-tx-core@5.4.0?classifier=sources
 - pkg:maven/org.komapper/komapper-tx-core@RELEASE_VERSION?classifier=sources

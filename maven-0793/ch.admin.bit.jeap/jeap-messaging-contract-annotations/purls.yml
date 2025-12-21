@@ -33,3 +33,14 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotations@8.39.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotations@8.40.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotations@8.41.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotations@8.42.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotations@8.43.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotations@8.44.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotations@8.45.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotations@8.46.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotations@8.47.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotations@8.47.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotations@8.48.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotations@8.49.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotations@8.49.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotations@8.50.0?classifier=sources

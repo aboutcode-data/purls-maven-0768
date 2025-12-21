@@ -1,0 +1,5 @@
+- pkg:maven/org.eclipse.apoapsis.ortserver.shared/api-mappings@0.12.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.shared/api-mappings@0.14.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.shared/api-mappings@0.15.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.shared/api-mappings@0.16.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.shared/api-mappings@0.17.0?classifier=sources

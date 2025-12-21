@@ -78,3 +78,4 @@
 - pkg:maven/org.eclipse.californium/cf-cli-tcp-netty@4.0.0-M2?classifier=sources
 - pkg:maven/org.eclipse.californium/cf-cli-tcp-netty@4.0.0-M3
 - pkg:maven/org.eclipse.californium/cf-cli-tcp-netty@4.0.0-M3?classifier=sources
+- pkg:maven/org.eclipse.californium/cf-cli-tcp-netty@4.0.0-M5?classifier=sources

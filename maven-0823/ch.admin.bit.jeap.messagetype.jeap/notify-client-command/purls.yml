@@ -1,0 +1,2 @@
+- pkg:maven/ch.admin.bit.jeap.messagetype.jeap/notify-client-command@1.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap.messagetype.jeap/notify-client-command@1.0.1?classifier=sources

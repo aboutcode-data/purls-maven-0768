@@ -20,3 +20,5 @@
 - pkg:maven/cn.toint/toint-tool@1.0.8?classifier=sources
 - pkg:maven/cn.toint/toint-tool@1.0.9?classifier=sources
 - pkg:maven/cn.toint/toint-tool@1.1.0?classifier=sources
+- pkg:maven/cn.toint/toint-tool@1.1.1?classifier=sources
+- pkg:maven/cn.toint/toint-tool@1.1.2?classifier=sources

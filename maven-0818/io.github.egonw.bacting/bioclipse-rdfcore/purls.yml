@@ -54,3 +54,4 @@
 - pkg:maven/io.github.egonw.bacting/bioclipse-rdfcore@2.8.1.3?classifier=sources
 - pkg:maven/io.github.egonw.bacting/bioclipse-rdfcore@2.8.1.4
 - pkg:maven/io.github.egonw.bacting/bioclipse-rdfcore@2.8.1.4?classifier=sources
+- pkg:maven/io.github.egonw.bacting/bioclipse-rdfcore@2.8.1.5?classifier=sources

@@ -23,6 +23,7 @@
 - pkg:maven/com.helger.peppol/peppol-mlr@10.5.0?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-mlr@10.5.1?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-mlr@11.0.0?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-mlr@11.0.1?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-mlr@9.1.2
 - pkg:maven/com.helger.peppol/peppol-mlr@9.1.2?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-mlr@9.1.3

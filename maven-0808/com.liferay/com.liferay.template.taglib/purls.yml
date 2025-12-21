@@ -66,3 +66,4 @@
 - pkg:maven/com.liferay/com.liferay.template.taglib@1.1.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.template.taglib@1.1.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.template.taglib@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.template.taglib@2.0.1?classifier=sources

@@ -81,6 +81,8 @@
 - pkg:maven/com.suchtool/nicelog-spring-boot-starter@1.2.43?classifier=sources
 - pkg:maven/com.suchtool/nicelog-spring-boot-starter@1.2.44?classifier=sources
 - pkg:maven/com.suchtool/nicelog-spring-boot-starter@1.2.45?classifier=sources
+- pkg:maven/com.suchtool/nicelog-spring-boot-starter@1.2.46?classifier=sources
+- pkg:maven/com.suchtool/nicelog-spring-boot-starter@1.2.47?classifier=sources
 - pkg:maven/com.suchtool/nicelog-spring-boot-starter@1.2.4?classifier=sources
 - pkg:maven/com.suchtool/nicelog-spring-boot-starter@1.2.5
 - pkg:maven/com.suchtool/nicelog-spring-boot-starter@1.2.5?classifier=sources
