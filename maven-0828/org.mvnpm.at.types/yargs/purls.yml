@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm.at.types/yargs@16.0.9
 - pkg:maven/org.mvnpm.at.types/yargs@16.0.9?classifier=sources
 - pkg:maven/org.mvnpm.at.types/yargs@17.0.33?classifier=sources
+- pkg:maven/org.mvnpm.at.types/yargs@17.0.34
+- pkg:maven/org.mvnpm.at.types/yargs@17.0.34?classifier=sources

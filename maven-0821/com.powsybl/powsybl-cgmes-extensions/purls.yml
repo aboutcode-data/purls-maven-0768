@@ -160,3 +160,5 @@
 - pkg:maven/com.powsybl/powsybl-cgmes-extensions@6.8.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-cgmes-extensions@6.8.1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-cgmes-extensions@7.0.0-RC1?classifier=sources
+- pkg:maven/com.powsybl/powsybl-cgmes-extensions@7.0.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-cgmes-extensions@7.0.1?classifier=sources

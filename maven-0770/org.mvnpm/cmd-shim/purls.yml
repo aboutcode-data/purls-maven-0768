@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/cmd-shim@7.0.0
+- pkg:maven/org.mvnpm/cmd-shim@7.0.0?classifier=sources

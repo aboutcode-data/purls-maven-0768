@@ -223,6 +223,8 @@
 - pkg:maven/com.google.gerrit/gerrit-war@3.12.2?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@3.13.0-rc0?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@3.13.0-rc1?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@3.13.0-rc2?type=war
+- pkg:maven/com.google.gerrit/gerrit-war@3.13.0-rc3?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@3.2.0-rc0?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@3.2.0-rc1?type=war
 - pkg:maven/com.google.gerrit/gerrit-war@3.2.0-rc2?type=war

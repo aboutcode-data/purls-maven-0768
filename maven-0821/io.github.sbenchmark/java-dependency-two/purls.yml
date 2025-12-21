@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sbenchmark/java-dependency-two@1.0.0
+- pkg:maven/io.github.sbenchmark/java-dependency-two@1.0.0?classifier=sources

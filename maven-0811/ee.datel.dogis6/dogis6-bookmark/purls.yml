@@ -26,3 +26,4 @@
 - pkg:maven/ee.datel.dogis6/dogis6-bookmark@1.7.2?classifier=sources
 - pkg:maven/ee.datel.dogis6/dogis6-bookmark@1.8.0?classifier=sources
 - pkg:maven/ee.datel.dogis6/dogis6-bookmark@1.9.0?classifier=sources
+- pkg:maven/ee.datel.dogis6/dogis6-bookmark@1.9.1?classifier=sources

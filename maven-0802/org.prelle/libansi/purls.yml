@@ -1,3 +1,4 @@
 - pkg:maven/org.prelle/libansi@0.1.0
 - pkg:maven/org.prelle/libansi@0.1.0?classifier=sources
 - pkg:maven/org.prelle/libansi@0.2.0?classifier=sources
+- pkg:maven/org.prelle/libansi@0.2.3?classifier=sources

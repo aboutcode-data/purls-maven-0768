@@ -237,3 +237,5 @@
 - pkg:maven/cn.herodotus.oss/dialect-autoconfigure@3.5.6.0?classifier=sources
 - pkg:maven/cn.herodotus.oss/dialect-autoconfigure@3.5.6.1?classifier=sources
 - pkg:maven/cn.herodotus.oss/dialect-autoconfigure@3.5.6.2?classifier=sources
+- pkg:maven/cn.herodotus.oss/dialect-autoconfigure@3.5.6.3?classifier=sources
+- pkg:maven/cn.herodotus.oss/dialect-autoconfigure@3.5.7.0?classifier=sources

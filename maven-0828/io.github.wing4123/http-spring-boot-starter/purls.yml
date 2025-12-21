@@ -11,3 +11,4 @@
 - pkg:maven/io.github.wing4123/http-spring-boot-starter@0.1.2
 - pkg:maven/io.github.wing4123/http-spring-boot-starter@0.1.2?classifier=sources
 - pkg:maven/io.github.wing4123/http-spring-boot-starter@0.2.0?classifier=sources
+- pkg:maven/io.github.wing4123/http-spring-boot-starter@0.2.1?classifier=sources

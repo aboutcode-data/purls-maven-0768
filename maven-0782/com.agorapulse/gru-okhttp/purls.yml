@@ -10,3 +10,4 @@
 - pkg:maven/com.agorapulse/gru-okhttp@2.1.2?classifier=sources
 - pkg:maven/com.agorapulse/gru-okhttp@2.2.0?classifier=sources
 - pkg:maven/com.agorapulse/gru-okhttp@2.2.2?classifier=sources
+- pkg:maven/com.agorapulse/gru-okhttp@3.0.0-rc1?classifier=sources

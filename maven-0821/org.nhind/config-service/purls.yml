@@ -41,3 +41,4 @@
 - pkg:maven/org.nhind/config-service@8.0.7
 - pkg:maven/org.nhind/config-service@8.0.7?classifier=sources
 - pkg:maven/org.nhind/config-service@8.1.0?classifier=sources
+- pkg:maven/org.nhind/config-service@8.1.1?classifier=sources

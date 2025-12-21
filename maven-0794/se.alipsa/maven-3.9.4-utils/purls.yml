@@ -2,3 +2,4 @@
 - pkg:maven/se.alipsa/maven-3.9.4-utils@1.0.3?classifier=sources
 - pkg:maven/se.alipsa/maven-3.9.4-utils@1.1.0
 - pkg:maven/se.alipsa/maven-3.9.4-utils@1.1.0?classifier=sources
+- pkg:maven/se.alipsa/maven-3.9.4-utils@1.1.1?classifier=sources

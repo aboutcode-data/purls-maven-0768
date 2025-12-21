@@ -102,3 +102,5 @@
 - pkg:maven/com.couchbase.lite/couchbase-lite-android@3.2.4?type=aar
 - pkg:maven/com.couchbase.lite/couchbase-lite-android@3.3.0?classifier=sources
 - pkg:maven/com.couchbase.lite/couchbase-lite-android@3.3.0?type=aar
+- pkg:maven/com.couchbase.lite/couchbase-lite-android@4.0.0?classifier=sources
+- pkg:maven/com.couchbase.lite/couchbase-lite-android@4.0.0?type=aar

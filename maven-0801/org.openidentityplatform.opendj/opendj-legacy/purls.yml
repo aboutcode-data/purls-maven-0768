@@ -67,3 +67,4 @@
 - pkg:maven/org.openidentityplatform.opendj/opendj-legacy@4.9.3?classifier=sources
 - pkg:maven/org.openidentityplatform.opendj/opendj-legacy@4.9.4
 - pkg:maven/org.openidentityplatform.opendj/opendj-legacy@4.9.4?classifier=sources
+- pkg:maven/org.openidentityplatform.opendj/opendj-legacy@5.0.1?classifier=sources

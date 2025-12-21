@@ -4,3 +4,4 @@
 - pkg:maven/org.qubership.atp.tdm/qubership-atp-tdm-rest-openapi-specifications@1.2.91?classifier=sources
 - pkg:maven/org.qubership.atp.tdm/qubership-atp-tdm-rest-openapi-specifications@1.2.93?classifier=sources
 - pkg:maven/org.qubership.atp.tdm/qubership-atp-tdm-rest-openapi-specifications@1.2.94?classifier=sources
+- pkg:maven/org.qubership.atp.tdm/qubership-atp-tdm-rest-openapi-specifications@1.2.95?classifier=sources

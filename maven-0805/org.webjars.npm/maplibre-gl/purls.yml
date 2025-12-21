@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars.npm/maplibre-gl@3.0.0-pre.4
 - pkg:maven/org.webjars.npm/maplibre-gl@3.0.0-pre.4?classifier=sources
 - pkg:maven/org.webjars.npm/maplibre-gl@5.6.1
+- pkg:maven/org.webjars.npm/maplibre-gl@5.9.0

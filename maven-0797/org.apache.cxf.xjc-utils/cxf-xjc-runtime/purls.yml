@@ -46,3 +46,5 @@
 - pkg:maven/org.apache.cxf.xjc-utils/cxf-xjc-runtime@4.0.2?classifier=sources
 - pkg:maven/org.apache.cxf.xjc-utils/cxf-xjc-runtime@4.1.0
 - pkg:maven/org.apache.cxf.xjc-utils/cxf-xjc-runtime@4.1.0?classifier=sources
+- pkg:maven/org.apache.cxf.xjc-utils/cxf-xjc-runtime@4.1.1
+- pkg:maven/org.apache.cxf.xjc-utils/cxf-xjc-runtime@4.1.1?classifier=sources

@@ -21,4 +21,5 @@
 - pkg:maven/site.addzero/tool-pinyin@0.0.639?classifier=sources
 - pkg:maven/site.addzero/tool-pinyin@0.0.640?classifier=sources
 - pkg:maven/site.addzero/tool-pinyin@0.0.641?classifier=sources
+- pkg:maven/site.addzero/tool-pinyin@0.0.643?classifier=sources
 - pkg:maven/site.addzero/tool-pinyin@2025.10.07?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.hapi/catbox@12.1.1
+- pkg:maven/org.mvnpm.at.hapi/catbox@12.1.1?classifier=sources

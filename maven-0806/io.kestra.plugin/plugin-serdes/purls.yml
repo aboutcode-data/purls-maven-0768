@@ -43,3 +43,4 @@
 - pkg:maven/io.kestra.plugin/plugin-serdes@0.8.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-serdes@0.9.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-serdes@1.0.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-serdes@1.0.1?classifier=sources

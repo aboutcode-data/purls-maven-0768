@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shenyu/shenyu-plugin-mcp-server@2.7.0.2
+- pkg:maven/org.apache.shenyu/shenyu-plugin-mcp-server@2.7.0.2?classifier=sources

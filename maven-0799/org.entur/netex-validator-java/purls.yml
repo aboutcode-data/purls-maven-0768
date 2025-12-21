@@ -60,6 +60,8 @@
 - pkg:maven/org.entur/netex-validator-java@10.4.0?classifier=sources
 - pkg:maven/org.entur/netex-validator-java@10.4.10?classifier=sources
 - pkg:maven/org.entur/netex-validator-java@10.4.11?classifier=sources
+- pkg:maven/org.entur/netex-validator-java@10.4.12?classifier=sources
+- pkg:maven/org.entur/netex-validator-java@10.4.13?classifier=sources
 - pkg:maven/org.entur/netex-validator-java@10.4.1?classifier=sources
 - pkg:maven/org.entur/netex-validator-java@10.4.2?classifier=sources
 - pkg:maven/org.entur/netex-validator-java@10.4.3?classifier=sources
@@ -69,6 +71,10 @@
 - pkg:maven/org.entur/netex-validator-java@10.4.7?classifier=sources
 - pkg:maven/org.entur/netex-validator-java@10.4.8?classifier=sources
 - pkg:maven/org.entur/netex-validator-java@10.4.9?classifier=sources
+- pkg:maven/org.entur/netex-validator-java@11.0.0?classifier=sources
+- pkg:maven/org.entur/netex-validator-java@11.0.1?classifier=sources
+- pkg:maven/org.entur/netex-validator-java@11.0.2?classifier=sources
+- pkg:maven/org.entur/netex-validator-java@11.0.3?classifier=sources
 - pkg:maven/org.entur/netex-validator-java@2.0.0
 - pkg:maven/org.entur/netex-validator-java@2.0.0?classifier=sources
 - pkg:maven/org.entur/netex-validator-java@2.0.1

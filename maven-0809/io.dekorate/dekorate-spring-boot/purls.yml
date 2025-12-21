@@ -285,3 +285,4 @@
 - pkg:maven/io.dekorate/dekorate-spring-boot@4.1.5
 - pkg:maven/io.dekorate/dekorate-spring-boot@4.1.5?classifier=sources
 - pkg:maven/io.dekorate/dekorate-spring-boot@4.1.6?classifier=sources
+- pkg:maven/io.dekorate/dekorate-spring-boot@4.1.7?classifier=sources

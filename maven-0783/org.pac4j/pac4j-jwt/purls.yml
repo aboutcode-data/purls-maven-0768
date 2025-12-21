@@ -245,3 +245,4 @@
 - pkg:maven/org.pac4j/pac4j-jwt@6.2.0?classifier=sources
 - pkg:maven/org.pac4j/pac4j-jwt@6.2.1?classifier=sources
 - pkg:maven/org.pac4j/pac4j-jwt@6.2.2?classifier=sources
+- pkg:maven/org.pac4j/pac4j-jwt@6.3.0?classifier=sources

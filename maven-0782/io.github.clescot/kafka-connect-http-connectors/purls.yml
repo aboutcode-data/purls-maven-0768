@@ -632,6 +632,7 @@
 - pkg:maven/io.github.clescot/kafka-connect-http-connectors@0.7.9?type=zip
 - pkg:maven/io.github.clescot/kafka-connect-http-connectors@0.8.0?classifier=sources
 - pkg:maven/io.github.clescot/kafka-connect-http-connectors@0.8.0?type=zip
+- pkg:maven/io.github.clescot/kafka-connect-http-connectors@0.8.102?classifier=sources
 - pkg:maven/io.github.clescot/kafka-connect-http-connectors@0.8.10?classifier=sources
 - pkg:maven/io.github.clescot/kafka-connect-http-connectors@0.8.10?type=zip
 - pkg:maven/io.github.clescot/kafka-connect-http-connectors@0.8.11?classifier=sources
@@ -756,5 +757,7 @@
 - pkg:maven/io.github.clescot/kafka-connect-http-connectors@0.8.92?classifier=sources
 - pkg:maven/io.github.clescot/kafka-connect-http-connectors@0.8.94?classifier=sources
 - pkg:maven/io.github.clescot/kafka-connect-http-connectors@0.8.95?classifier=sources
+- pkg:maven/io.github.clescot/kafka-connect-http-connectors@0.8.96?classifier=sources
+- pkg:maven/io.github.clescot/kafka-connect-http-connectors@0.8.97?classifier=sources
 - pkg:maven/io.github.clescot/kafka-connect-http-connectors@0.8.9?classifier=sources
 - pkg:maven/io.github.clescot/kafka-connect-http-connectors@0.8.9?type=zip

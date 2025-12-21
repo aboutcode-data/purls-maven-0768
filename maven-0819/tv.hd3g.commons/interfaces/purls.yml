@@ -104,6 +104,7 @@
 - pkg:maven/tv.hd3g.commons/interfaces@21.2.0?classifier=sources
 - pkg:maven/tv.hd3g.commons/interfaces@22.0.0
 - pkg:maven/tv.hd3g.commons/interfaces@22.0.0?classifier=sources
+- pkg:maven/tv.hd3g.commons/interfaces@23.0.0?classifier=sources
 - pkg:maven/tv.hd3g.commons/interfaces@3.0.0
 - pkg:maven/tv.hd3g.commons/interfaces@3.0.0?classifier=sources
 - pkg:maven/tv.hd3g.commons/interfaces@3.1.0

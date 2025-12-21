@@ -20,6 +20,7 @@
 - pkg:maven/io.camunda/camunda-search-client-query-transformer@8.7.0-alpha3-rc6
 - pkg:maven/io.camunda/camunda-search-client-query-transformer@8.7.0-alpha3-rc6?classifier=sources
 - pkg:maven/io.camunda/camunda-search-client-query-transformer@8.7.0-alpha3?classifier=sources
+- pkg:maven/io.camunda/camunda-search-client-query-transformer@8.8.0
 - pkg:maven/io.camunda/camunda-search-client-query-transformer@8.8.0-alpha1
 - pkg:maven/io.camunda/camunda-search-client-query-transformer@8.8.0-alpha1-rc1
 - pkg:maven/io.camunda/camunda-search-client-query-transformer@8.8.0-alpha1-rc1?classifier=sources
@@ -68,3 +69,8 @@
 - pkg:maven/io.camunda/camunda-search-client-query-transformer@8.8.0-rc2?classifier=sources
 - pkg:maven/io.camunda/camunda-search-client-query-transformer@8.8.0-rc3
 - pkg:maven/io.camunda/camunda-search-client-query-transformer@8.8.0-rc3?classifier=sources
+- pkg:maven/io.camunda/camunda-search-client-query-transformer@8.8.0-rc4
+- pkg:maven/io.camunda/camunda-search-client-query-transformer@8.8.0-rc4?classifier=sources
+- pkg:maven/io.camunda/camunda-search-client-query-transformer@8.8.0?classifier=sources
+- pkg:maven/io.camunda/camunda-search-client-query-transformer@8.8.1
+- pkg:maven/io.camunda/camunda-search-client-query-transformer@8.8.1?classifier=sources

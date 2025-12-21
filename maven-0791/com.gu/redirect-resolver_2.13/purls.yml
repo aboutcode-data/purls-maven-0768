@@ -123,6 +123,8 @@
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.51-PREVIEW.updatenonaws.2025-08-05T1432.9e2e8e88
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.51-PREVIEW.updatenonaws.2025-08-05T1432.9e2e8e88?classifier=sources
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.51?classifier=sources
+- pkg:maven/com.gu/redirect-resolver_2.13@0.0.52
+- pkg:maven/com.gu/redirect-resolver_2.13@0.0.52?classifier=sources
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.5?classifier=sources
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.6
 - pkg:maven/com.gu/redirect-resolver_2.13@0.0.6?classifier=sources

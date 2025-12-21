@@ -22,3 +22,4 @@
 - pkg:maven/com.ctrip.flight.mmkv/mmkv-kotlin-iossimulatorarm64@1.2.8?classifier=sources
 - pkg:maven/com.ctrip.flight.mmkv/mmkv-kotlin-iossimulatorarm64@1.2.9?classifier=sources
 - pkg:maven/com.ctrip.flight.mmkv/mmkv-kotlin-iossimulatorarm64@1.3.0?classifier=sources
+- pkg:maven/com.ctrip.flight.mmkv/mmkv-kotlin-iossimulatorarm64@1.3.1?classifier=sources

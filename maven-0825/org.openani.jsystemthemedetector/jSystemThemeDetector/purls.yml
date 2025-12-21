@@ -1,1 +1,2 @@
 - pkg:maven/org.openani.jsystemthemedetector/jSystemThemeDetector@3.8?classifier=sources
+- pkg:maven/org.openani.jsystemthemedetector/jSystemThemeDetector@3.9?classifier=sources

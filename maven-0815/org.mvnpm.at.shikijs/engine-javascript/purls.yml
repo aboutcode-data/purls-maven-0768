@@ -1,5 +1,9 @@
 - pkg:maven/org.mvnpm.at.shikijs/engine-javascript@3.12.0
 - pkg:maven/org.mvnpm.at.shikijs/engine-javascript@3.12.0?classifier=sources
+- pkg:maven/org.mvnpm.at.shikijs/engine-javascript@3.13.0
+- pkg:maven/org.mvnpm.at.shikijs/engine-javascript@3.13.0?classifier=sources
+- pkg:maven/org.mvnpm.at.shikijs/engine-javascript@3.14.0
+- pkg:maven/org.mvnpm.at.shikijs/engine-javascript@3.14.0?classifier=sources
 - pkg:maven/org.mvnpm.at.shikijs/engine-javascript@3.2.2
 - pkg:maven/org.mvnpm.at.shikijs/engine-javascript@3.2.2?classifier=sources
 - pkg:maven/org.mvnpm.at.shikijs/engine-javascript@3.3.0

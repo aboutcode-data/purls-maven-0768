@@ -52,3 +52,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock-oak@4.0.0-1.62.0
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock-oak@4.0.0-1.62.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock-oak@4.0.0-1.62.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock-oak@4.1.0-1.86.0
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock-oak@4.1.0-1.86.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock-oak@4.1.0-1.86.0?classifier=sources

@@ -62,3 +62,4 @@
 - pkg:maven/be.personify.iam/personify-provisioning@1.5.4.RELEASE?classifier=sources
 - pkg:maven/be.personify.iam/personify-provisioning@1.5.5.RELEASE
 - pkg:maven/be.personify.iam/personify-provisioning@1.5.5.RELEASE?classifier=sources
+- pkg:maven/be.personify.iam/personify-provisioning@1.5.6.RELEASE?classifier=sources

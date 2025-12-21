@@ -108,6 +108,7 @@
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@2.10.16?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@2.10.17?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@2.10.18?classifier=sources
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@2.10.19?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@2.10.1?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@2.10.2
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@2.10.2?classifier=sources
@@ -453,6 +454,7 @@
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@3.4.16?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@3.4.17?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@3.4.18?classifier=sources
+- pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@3.4.19?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@3.4.1?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@3.4.2
 - pkg:maven/com.codingapi.springboot/springboot-starter-data-fast@3.4.2?classifier=sources

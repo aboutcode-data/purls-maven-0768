@@ -47,4 +47,5 @@
 - pkg:maven/it.uniroma2.art.sheet2rdf/sheet2rdf-core@6.0.7?classifier=sources
 - pkg:maven/it.uniroma2.art.sheet2rdf/sheet2rdf-core@6.0.8
 - pkg:maven/it.uniroma2.art.sheet2rdf/sheet2rdf-core@6.0.8?classifier=sources
+- pkg:maven/it.uniroma2.art.sheet2rdf/sheet2rdf-core@6.0.9?classifier=sources
 - pkg:maven/it.uniroma2.art.sheet2rdf/sheet2rdf-core@6.0?classifier=sources

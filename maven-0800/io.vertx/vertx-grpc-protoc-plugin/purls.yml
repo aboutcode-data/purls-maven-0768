@@ -122,6 +122,7 @@
 - pkg:maven/io.vertx/vertx-grpc-protoc-plugin@4.5.2
 - pkg:maven/io.vertx/vertx-grpc-protoc-plugin@4.5.20?classifier=sources
 - pkg:maven/io.vertx/vertx-grpc-protoc-plugin@4.5.21?classifier=sources
+- pkg:maven/io.vertx/vertx-grpc-protoc-plugin@4.5.22?classifier=sources
 - pkg:maven/io.vertx/vertx-grpc-protoc-plugin@4.5.2?classifier=sources
 - pkg:maven/io.vertx/vertx-grpc-protoc-plugin@4.5.3
 - pkg:maven/io.vertx/vertx-grpc-protoc-plugin@4.5.3?classifier=sources
@@ -157,3 +158,4 @@
 - pkg:maven/io.vertx/vertx-grpc-protoc-plugin@5.0.2?classifier=sources
 - pkg:maven/io.vertx/vertx-grpc-protoc-plugin@5.0.3?classifier=sources
 - pkg:maven/io.vertx/vertx-grpc-protoc-plugin@5.0.4?classifier=sources
+- pkg:maven/io.vertx/vertx-grpc-protoc-plugin@5.0.5?classifier=sources

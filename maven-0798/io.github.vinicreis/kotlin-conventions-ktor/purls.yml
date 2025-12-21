@@ -32,3 +32,4 @@
 - pkg:maven/io.github.vinicreis/kotlin-conventions-ktor@0.0.7-rc.4?classifier=sources
 - pkg:maven/io.github.vinicreis/kotlin-conventions-ktor@0.0.7?classifier=sources
 - pkg:maven/io.github.vinicreis/kotlin-conventions-ktor@0.1.0-alpha0?classifier=sources
+- pkg:maven/io.github.vinicreis/kotlin-conventions-ktor@0.1.0-alpha1?classifier=sources

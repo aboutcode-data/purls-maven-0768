@@ -32,6 +32,8 @@
 - pkg:maven/com.lsnju/tp-base-log@2.7.3
 - pkg:maven/com.lsnju/tp-base-log@2.7.30?classifier=sources
 - pkg:maven/com.lsnju/tp-base-log@2.7.31?classifier=sources
+- pkg:maven/com.lsnju/tp-base-log@2.7.32?classifier=sources
+- pkg:maven/com.lsnju/tp-base-log@2.7.33?classifier=sources
 - pkg:maven/com.lsnju/tp-base-log@2.7.3?classifier=sources
 - pkg:maven/com.lsnju/tp-base-log@2.7.4
 - pkg:maven/com.lsnju/tp-base-log@2.7.4?classifier=sources

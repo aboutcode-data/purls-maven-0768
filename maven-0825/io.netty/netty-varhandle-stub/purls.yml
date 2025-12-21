@@ -1,3 +1,4 @@
 - pkg:maven/io.netty/netty-varhandle-stub@4.2.4.Final?classifier=sources
 - pkg:maven/io.netty/netty-varhandle-stub@4.2.5.Final?classifier=sources
 - pkg:maven/io.netty/netty-varhandle-stub@4.2.6.Final?classifier=sources
+- pkg:maven/io.netty/netty-varhandle-stub@4.2.7.Final?classifier=sources

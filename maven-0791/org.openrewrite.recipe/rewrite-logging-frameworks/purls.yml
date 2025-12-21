@@ -89,6 +89,8 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-logging-frameworks@3.14.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-logging-frameworks@3.15.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-logging-frameworks@3.16.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-logging-frameworks@3.17.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-logging-frameworks@3.18.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-logging-frameworks@3.2.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-logging-frameworks@3.3.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-logging-frameworks@3.4.0?classifier=sources

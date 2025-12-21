@@ -9,3 +9,6 @@
 - pkg:maven/com.gruelbox/transactionoutbox-testing@6.0.585
 - pkg:maven/com.gruelbox/transactionoutbox-testing@6.0.585?classifier=sources
 - pkg:maven/com.gruelbox/transactionoutbox-testing@6.0.609?classifier=sources
+- pkg:maven/com.gruelbox/transactionoutbox-testing@6.1.645?classifier=sources
+- pkg:maven/com.gruelbox/transactionoutbox-testing@6.1.652?classifier=sources
+- pkg:maven/com.gruelbox/transactionoutbox-testing@6.1.653?classifier=sources

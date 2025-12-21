@@ -9,3 +9,5 @@
 - pkg:maven/org.mvnpm.at.testing-library/jest-dom@6.8.0?classifier=sources
 - pkg:maven/org.mvnpm.at.testing-library/jest-dom@6.9.0
 - pkg:maven/org.mvnpm.at.testing-library/jest-dom@6.9.0?classifier=sources
+- pkg:maven/org.mvnpm.at.testing-library/jest-dom@6.9.1
+- pkg:maven/org.mvnpm.at.testing-library/jest-dom@6.9.1?classifier=sources

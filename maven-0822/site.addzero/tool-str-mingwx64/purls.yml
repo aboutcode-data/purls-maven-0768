@@ -1,0 +1,4 @@
+- pkg:maven/site.addzero/tool-str-mingwx64@0.0.667?classifier=sources
+- pkg:maven/site.addzero/tool-str-mingwx64@0.0.672?classifier=sources
+- pkg:maven/site.addzero/tool-str-mingwx64@0.0.673?classifier=sources
+- pkg:maven/site.addzero/tool-str-mingwx64@2025.09.30?classifier=sources

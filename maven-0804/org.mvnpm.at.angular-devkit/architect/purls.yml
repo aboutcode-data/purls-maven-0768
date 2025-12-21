@@ -63,3 +63,11 @@
 - pkg:maven/org.mvnpm.at.angular-devkit/architect@0.2003.4?classifier=sources
 - pkg:maven/org.mvnpm.at.angular-devkit/architect@0.2003.5
 - pkg:maven/org.mvnpm.at.angular-devkit/architect@0.2003.5?classifier=sources
+- pkg:maven/org.mvnpm.at.angular-devkit/architect@0.2003.6
+- pkg:maven/org.mvnpm.at.angular-devkit/architect@0.2003.6?classifier=sources
+- pkg:maven/org.mvnpm.at.angular-devkit/architect@0.2003.7
+- pkg:maven/org.mvnpm.at.angular-devkit/architect@0.2003.7?classifier=sources
+- pkg:maven/org.mvnpm.at.angular-devkit/architect@0.2003.8
+- pkg:maven/org.mvnpm.at.angular-devkit/architect@0.2003.8?classifier=sources
+- pkg:maven/org.mvnpm.at.angular-devkit/architect@0.2003.9
+- pkg:maven/org.mvnpm.at.angular-devkit/architect@0.2003.9?classifier=sources

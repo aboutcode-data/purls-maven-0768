@@ -30,3 +30,5 @@
 - pkg:maven/org.openmole/mgo_3@3.66?classifier=sources
 - pkg:maven/org.openmole/mgo_3@3.67
 - pkg:maven/org.openmole/mgo_3@3.67?classifier=sources
+- pkg:maven/org.openmole/mgo_3@3.68
+- pkg:maven/org.openmole/mgo_3@3.68?classifier=sources

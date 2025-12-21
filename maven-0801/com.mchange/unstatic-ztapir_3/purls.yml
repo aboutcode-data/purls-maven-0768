@@ -28,3 +28,5 @@
 - pkg:maven/com.mchange/unstatic-ztapir_3@0.3.2?classifier=sources
 - pkg:maven/com.mchange/unstatic-ztapir_3@0.3.3
 - pkg:maven/com.mchange/unstatic-ztapir_3@0.3.3?classifier=sources
+- pkg:maven/com.mchange/unstatic-ztapir_3@0.4.0
+- pkg:maven/com.mchange/unstatic-ztapir_3@0.4.0?classifier=sources

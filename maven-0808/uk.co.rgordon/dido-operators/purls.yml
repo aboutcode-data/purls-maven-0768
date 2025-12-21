@@ -1,2 +1,3 @@
 - pkg:maven/uk.co.rgordon/dido-operators@1.0.0
 - pkg:maven/uk.co.rgordon/dido-operators@1.0.0?classifier=sources
+- pkg:maven/uk.co.rgordon/dido-operators@2.0.0?classifier=sources

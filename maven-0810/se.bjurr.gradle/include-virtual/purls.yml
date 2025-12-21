@@ -1,0 +1,2 @@
+- pkg:maven/se.bjurr.gradle/include-virtual@0.0.0?classifier=sources
+- pkg:maven/se.bjurr.gradle/include-virtual@1.0.0?classifier=sources

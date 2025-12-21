@@ -1,3 +1,8 @@
+- pkg:maven/eu.maveniverse.maven.mimir/daemon-protocol@0.10.0?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mimir/daemon-protocol@0.10.1?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mimir/daemon-protocol@0.10.2?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mimir/daemon-protocol@0.10.3?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mimir/daemon-protocol@0.10.4?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mimir/daemon-protocol@0.5.0
 - pkg:maven/eu.maveniverse.maven.mimir/daemon-protocol@0.5.0?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mimir/daemon-protocol@0.6.0
@@ -24,3 +29,4 @@
 - pkg:maven/eu.maveniverse.maven.mimir/daemon-protocol@0.9.1?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mimir/daemon-protocol@0.9.2?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mimir/daemon-protocol@0.9.3?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mimir/daemon-protocol@0.9.4?classifier=sources

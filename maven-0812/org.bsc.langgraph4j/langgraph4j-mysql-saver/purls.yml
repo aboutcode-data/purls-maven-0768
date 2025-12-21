@@ -1,0 +1,2 @@
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-mysql-saver@1.7.1?classifier=sources
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-mysql-saver@1.7.2?classifier=sources

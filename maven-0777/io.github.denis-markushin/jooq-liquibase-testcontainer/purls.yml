@@ -3,3 +3,4 @@
 - pkg:maven/io.github.denis-markushin/jooq-liquibase-testcontainer@0.0.6?classifier=sources
 - pkg:maven/io.github.denis-markushin/jooq-liquibase-testcontainer@0.0.7?classifier=sources
 - pkg:maven/io.github.denis-markushin/jooq-liquibase-testcontainer@0.0.8?classifier=sources
+- pkg:maven/io.github.denis-markushin/jooq-liquibase-testcontainer@1.0.1?classifier=sources

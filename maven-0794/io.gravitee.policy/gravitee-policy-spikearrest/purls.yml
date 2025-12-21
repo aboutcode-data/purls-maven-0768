@@ -21,3 +21,4 @@
 - pkg:maven/io.gravitee.policy/gravitee-policy-spikearrest@3.0.0?classifier=sources
 - pkg:maven/io.gravitee.policy/gravitee-policy-spikearrest@4.0.1?classifier=sources
 - pkg:maven/io.gravitee.policy/gravitee-policy-spikearrest@4.1.0?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-spikearrest@4.1.1?classifier=sources

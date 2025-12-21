@@ -4,4 +4,5 @@
 - pkg:maven/dev.nextftc/ftc@1.0.0-beta.4?classifier=sources
 - pkg:maven/dev.nextftc/ftc@1.0.0-beta.5?classifier=sources
 - pkg:maven/dev.nextftc/ftc@1.0.0?classifier=sources
+- pkg:maven/dev.nextftc/ftc@1.0.1?classifier=sources
 - pkg:maven/dev.nextftc/ftc@unspecified?classifier=sources

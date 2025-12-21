@@ -6,3 +6,5 @@
 - pkg:maven/io.github.binance/binance-derivatives-trading-coin-futures@2.0.0?classifier=sources
 - pkg:maven/io.github.binance/binance-derivatives-trading-coin-futures@2.0.1?classifier=sources
 - pkg:maven/io.github.binance/binance-derivatives-trading-coin-futures@3.0.0?classifier=sources
+- pkg:maven/io.github.binance/binance-derivatives-trading-coin-futures@4.0.0?classifier=sources
+- pkg:maven/io.github.binance/binance-derivatives-trading-coin-futures@4.0.1?classifier=sources

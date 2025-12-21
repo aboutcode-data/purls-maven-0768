@@ -175,3 +175,5 @@
 - pkg:maven/org.testcontainers/testcontainers@1.9.0?classifier=sources
 - pkg:maven/org.testcontainers/testcontainers@1.9.1
 - pkg:maven/org.testcontainers/testcontainers@1.9.1?classifier=sources
+- pkg:maven/org.testcontainers/testcontainers@2.0.0?classifier=sources
+- pkg:maven/org.testcontainers/testcontainers@2.0.1?classifier=sources

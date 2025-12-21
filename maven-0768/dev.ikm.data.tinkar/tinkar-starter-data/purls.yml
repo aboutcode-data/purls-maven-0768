@@ -5,3 +5,5 @@
 - pkg:maven/dev.ikm.data.tinkar/tinkar-starter-data@20250813?classifier=sources
 - pkg:maven/dev.ikm.data.tinkar/tinkar-starter-data@20250827?classifier=sources
 - pkg:maven/dev.ikm.data.tinkar/tinkar-starter-data@20250915?classifier=sources
+- pkg:maven/dev.ikm.data.tinkar/tinkar-starter-data@20251008?classifier=sources
+- pkg:maven/dev.ikm.data.tinkar/tinkar-starter-data@20251009?classifier=sources

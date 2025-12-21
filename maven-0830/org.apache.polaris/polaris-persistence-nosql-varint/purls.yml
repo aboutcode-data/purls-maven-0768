@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.polaris/polaris-persistence-nosql-varint@1.2.0-incubating?classifier=sources

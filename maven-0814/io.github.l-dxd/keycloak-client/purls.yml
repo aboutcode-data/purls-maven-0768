@@ -16,3 +16,4 @@
 - pkg:maven/io.github.l-dxd/keycloak-client@0.0.7?classifier=sources
 - pkg:maven/io.github.l-dxd/keycloak-client@0.0.8?classifier=sources
 - pkg:maven/io.github.l-dxd/keycloak-client@0.0.9?classifier=sources
+- pkg:maven/io.github.l-dxd/keycloak-client@1.0.0?classifier=sources

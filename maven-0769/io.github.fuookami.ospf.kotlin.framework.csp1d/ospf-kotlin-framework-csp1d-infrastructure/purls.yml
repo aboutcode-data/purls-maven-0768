@@ -24,3 +24,4 @@
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.csp1d/ospf-kotlin-framework-csp1d-infrastructure@1.0.55?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.csp1d/ospf-kotlin-framework-csp1d-infrastructure@1.0.56?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.csp1d/ospf-kotlin-framework-csp1d-infrastructure@1.0.57?classifier=sources
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.csp1d/ospf-kotlin-framework-csp1d-infrastructure@1.0.58?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/io.github.scala-ts/sbt-scala-ts-python_2.12_1.0@0.7.0?classifier=sources
 - pkg:maven/io.github.scala-ts/sbt-scala-ts-python_2.12_1.0@0.7.1
 - pkg:maven/io.github.scala-ts/sbt-scala-ts-python_2.12_1.0@0.7.1?classifier=sources
+- pkg:maven/io.github.scala-ts/sbt-scala-ts-python_2.12_1.0@0.8.0
+- pkg:maven/io.github.scala-ts/sbt-scala-ts-python_2.12_1.0@0.8.0?classifier=sources

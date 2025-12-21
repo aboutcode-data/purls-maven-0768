@@ -17,3 +17,4 @@
 - pkg:maven/org.graalvm.python/python-embedding@24.2.2
 - pkg:maven/org.graalvm.python/python-embedding@24.2.2?classifier=sources
 - pkg:maven/org.graalvm.python/python-embedding@25.0.0?classifier=sources
+- pkg:maven/org.graalvm.python/python-embedding@25.0.1?classifier=sources

@@ -1,5 +1,8 @@
 - pkg:maven/io.bitdrift/capture-plugin@0.1.0?classifier=sources
 - pkg:maven/io.bitdrift/capture-plugin@0.18.0?classifier=sources
+- pkg:maven/io.bitdrift/capture-plugin@0.18.10?classifier=sources
+- pkg:maven/io.bitdrift/capture-plugin@0.18.11?classifier=sources
+- pkg:maven/io.bitdrift/capture-plugin@0.18.12?classifier=sources
 - pkg:maven/io.bitdrift/capture-plugin@0.18.1?classifier=sources
 - pkg:maven/io.bitdrift/capture-plugin@0.18.2?classifier=sources
 - pkg:maven/io.bitdrift/capture-plugin@0.18.3?classifier=sources

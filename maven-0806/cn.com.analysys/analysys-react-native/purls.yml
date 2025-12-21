@@ -24,6 +24,8 @@
 - pkg:maven/cn.com.analysys/analysys-react-native@4.5.17.8?type=aar
 - pkg:maven/cn.com.analysys/analysys-react-native@4.5.18?classifier=sources
 - pkg:maven/cn.com.analysys/analysys-react-native@4.5.18?type=aar
+- pkg:maven/cn.com.analysys/analysys-react-native@4.5.19?classifier=sources
+- pkg:maven/cn.com.analysys/analysys-react-native@4.5.19?type=aar
 - pkg:maven/cn.com.analysys/analysys-react-native@4.5.7?classifier=sources
 - pkg:maven/cn.com.analysys/analysys-react-native@4.5.7?type=aar
 - pkg:maven/cn.com.analysys/analysys-react-native@4.5.8?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.debezium.quarkus/quarkus-debezium-mongodb-integration-tests@3.4.0.Alpha1?classifier=sources

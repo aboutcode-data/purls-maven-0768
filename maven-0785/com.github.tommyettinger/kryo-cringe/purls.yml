@@ -4,3 +4,4 @@
 - pkg:maven/com.github.tommyettinger/kryo-cringe@0.2.0.1?classifier=sources
 - pkg:maven/com.github.tommyettinger/kryo-cringe@0.2.1.1?classifier=sources
 - pkg:maven/com.github.tommyettinger/kryo-cringe@0.2.2.1?classifier=sources
+- pkg:maven/com.github.tommyettinger/kryo-cringe@0.3.0.1?classifier=sources

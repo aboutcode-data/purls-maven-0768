@@ -294,3 +294,6 @@
 - pkg:maven/com.pushwoosh/pushwoosh@6.6.8?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh@6.6.9?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh@6.7.28-alpha?classifier=sources
+- pkg:maven/com.pushwoosh/pushwoosh@6.7.39?classifier=sources
+- pkg:maven/com.pushwoosh/pushwoosh@6.7.40?classifier=sources
+- pkg:maven/com.pushwoosh/pushwoosh@6.7.41?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/eu.michael-simons.maven/native-image-config-transformer@0.0.1?classifier=sources
+- pkg:maven/eu.michael-simons.maven/native-image-config-transformer@1.0.0?classifier=sources

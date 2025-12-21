@@ -1,0 +1,2 @@
+- pkg:maven/xyz.block.bittycity/outie-jooq-provider@0.0.1.1?classifier=sources
+- pkg:maven/xyz.block.bittycity/outie-jooq-provider@0.0.1?classifier=sources

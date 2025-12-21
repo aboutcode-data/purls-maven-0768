@@ -10,3 +10,6 @@
 - pkg:maven/com.gitlab.cdc-java.bench/cdc-bench-support@0.2.3?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.bench/cdc-bench-support@0.3.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.bench/cdc-bench-support@0.4.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.bench/cdc-bench-support@0.5.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.bench/cdc-bench-support@0.5.1?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.bench/cdc-bench-support@0.6.0?classifier=sources

@@ -61,6 +61,8 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-manager@4.34.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-manager@4.35.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-manager@4.36.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-manager@4.37.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-manager@4.38.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-manager@4.6.0
 - pkg:maven/org.seleniumhq.selenium/selenium-manager@4.6.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-manager@4.7.0

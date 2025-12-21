@@ -110,3 +110,9 @@
 - pkg:maven/org.mvnpm/zudoku@0.61.4?classifier=sources
 - pkg:maven/org.mvnpm/zudoku@0.61.5
 - pkg:maven/org.mvnpm/zudoku@0.61.5?classifier=sources
+- pkg:maven/org.mvnpm/zudoku@0.62.0
+- pkg:maven/org.mvnpm/zudoku@0.62.0?classifier=sources
+- pkg:maven/org.mvnpm/zudoku@0.63.0
+- pkg:maven/org.mvnpm/zudoku@0.63.0?classifier=sources
+- pkg:maven/org.mvnpm/zudoku@0.63.1
+- pkg:maven/org.mvnpm/zudoku@0.63.1?classifier=sources

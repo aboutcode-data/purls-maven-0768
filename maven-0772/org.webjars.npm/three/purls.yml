@@ -76,6 +76,7 @@
 - pkg:maven/org.webjars.npm/three@0.164.1
 - pkg:maven/org.webjars.npm/three@0.167.1
 - pkg:maven/org.webjars.npm/three@0.169.0
+- pkg:maven/org.webjars.npm/three@0.181.0
 - pkg:maven/org.webjars.npm/three@0.77.0
 - pkg:maven/org.webjars.npm/three@0.77.0?classifier=sources
 - pkg:maven/org.webjars.npm/three@0.82.1
