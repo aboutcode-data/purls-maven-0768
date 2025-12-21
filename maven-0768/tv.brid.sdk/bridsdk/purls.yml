@@ -42,3 +42,4 @@
 - pkg:maven/tv.brid.sdk/bridsdk@1.3.5?classifier=sources
 - pkg:maven/tv.brid.sdk/bridsdk@1.3.6?classifier=sources
 - pkg:maven/tv.brid.sdk/bridsdk@1.3?classifier=sources
+- pkg:maven/tv.brid.sdk/bridsdk@1.4.0?classifier=sources

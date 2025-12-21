@@ -4,6 +4,10 @@
 - pkg:maven/io.github.jwharm.javagi/adw@0.11.0?classifier=sources
 - pkg:maven/io.github.jwharm.javagi/adw@0.11.1?classifier=sources
 - pkg:maven/io.github.jwharm.javagi/adw@0.11.2?classifier=sources
+- pkg:maven/io.github.jwharm.javagi/adw@0.12.0?classifier=sources
+- pkg:maven/io.github.jwharm.javagi/adw@0.12.1-RC1?classifier=sources
+- pkg:maven/io.github.jwharm.javagi/adw@0.12.1?classifier=sources
+- pkg:maven/io.github.jwharm.javagi/adw@0.12.2?classifier=sources
 - pkg:maven/io.github.jwharm.javagi/adw@0.7.1?classifier=sources
 - pkg:maven/io.github.jwharm.javagi/adw@0.7.2?classifier=sources
 - pkg:maven/io.github.jwharm.javagi/adw@0.7?classifier=sources

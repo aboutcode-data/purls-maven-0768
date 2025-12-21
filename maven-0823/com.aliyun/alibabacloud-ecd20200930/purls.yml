@@ -99,6 +99,8 @@
 - pkg:maven/com.aliyun/alibabacloud-ecd20200930@4.0.3
 - pkg:maven/com.aliyun/alibabacloud-ecd20200930@4.0.30
 - pkg:maven/com.aliyun/alibabacloud-ecd20200930@4.0.30?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ecd20200930@4.0.31
+- pkg:maven/com.aliyun/alibabacloud-ecd20200930@4.0.31?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ecd20200930@4.0.3?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ecd20200930@4.0.4
 - pkg:maven/com.aliyun/alibabacloud-ecd20200930@4.0.4?classifier=sources

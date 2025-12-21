@@ -40,7 +40,10 @@
 - pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR46?classifier=sources
 - pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR47?classifier=sources
 - pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR48?classifier=sources
+- pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR49?classifier=sources
 - pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR4?classifier=sources
+- pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR50?classifier=sources
+- pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR51?classifier=sources
 - pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR5?classifier=sources
 - pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR6?classifier=sources
 - pkg:maven/io.github.flynndi/quarkus-jimmer@0.0.1.CR7?classifier=sources

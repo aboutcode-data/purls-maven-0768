@@ -5,3 +5,4 @@
 - pkg:maven/org.kotools/types-internal-js@4.5.2?classifier=sources
 - pkg:maven/org.kotools/types-internal-js@4.5.3?classifier=sources
 - pkg:maven/org.kotools/types-internal-js@5.0.0?classifier=sources
+- pkg:maven/org.kotools/types-internal-js@5.0.1?classifier=sources

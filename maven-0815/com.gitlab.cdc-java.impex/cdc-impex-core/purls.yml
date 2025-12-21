@@ -88,6 +88,8 @@
 - pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-core@0.55.1?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-core@0.56.0
 - pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-core@0.56.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-core@0.57.0
+- pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-core@0.57.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-core@0.6.0
 - pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-core@0.6.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-core@0.7.0

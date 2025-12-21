@@ -457,3 +457,5 @@
 - pkg:maven/io.airlift/http-server@330?classifier=sources
 - pkg:maven/io.airlift/http-server@331?classifier=sources
 - pkg:maven/io.airlift/http-server@332?classifier=sources
+- pkg:maven/io.airlift/http-server@333?classifier=sources
+- pkg:maven/io.airlift/http-server@334?classifier=sources

@@ -132,3 +132,4 @@
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@8.0.0.Alpha2?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@8.0.0.Alpha3
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@8.0.0.Alpha3?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-base@8.0.0.Beta1?classifier=sources

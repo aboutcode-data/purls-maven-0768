@@ -161,6 +161,7 @@
 - pkg:maven/com.liferay/com.liferay.social.bookmark.twitter@4.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmark.twitter@4.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmark.twitter@4.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.bookmark.twitter@4.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmark.twitter@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.bookmark.twitter@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.bookmark.twitter@4.0.3

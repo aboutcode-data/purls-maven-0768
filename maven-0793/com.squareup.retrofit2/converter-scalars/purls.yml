@@ -12,6 +12,7 @@
 - pkg:maven/com.squareup.retrofit2/converter-scalars@2.1.0?classifier=sources
 - pkg:maven/com.squareup.retrofit2/converter-scalars@2.10.0?classifier=sources
 - pkg:maven/com.squareup.retrofit2/converter-scalars@2.11.0?classifier=sources
+- pkg:maven/com.squareup.retrofit2/converter-scalars@2.12.0?classifier=sources
 - pkg:maven/com.squareup.retrofit2/converter-scalars@2.2.0
 - pkg:maven/com.squareup.retrofit2/converter-scalars@2.2.0?classifier=sources
 - pkg:maven/com.squareup.retrofit2/converter-scalars@2.3.0
@@ -44,3 +45,4 @@
 - pkg:maven/com.squareup.retrofit2/converter-scalars@2.8.2?classifier=sources
 - pkg:maven/com.squareup.retrofit2/converter-scalars@2.9.0
 - pkg:maven/com.squareup.retrofit2/converter-scalars@2.9.0?classifier=sources
+- pkg:maven/com.squareup.retrofit2/converter-scalars@3.0.0?classifier=sources

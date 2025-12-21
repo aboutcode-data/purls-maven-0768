@@ -44,3 +44,5 @@
 - pkg:maven/com.heanbian/heanbian-util@21.8?classifier=sources
 - pkg:maven/com.heanbian/heanbian-util@21.9
 - pkg:maven/com.heanbian/heanbian-util@21.9?classifier=sources
+- pkg:maven/com.heanbian/heanbian-util@22.0
+- pkg:maven/com.heanbian/heanbian-util@22.0?classifier=sources

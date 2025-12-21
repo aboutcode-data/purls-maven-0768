@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.brave/brave-instrumentation-jersey-server-jakarta@6.2.0
+- pkg:maven/io.zipkin.brave/brave-instrumentation-jersey-server-jakarta@6.2.0?classifier=sources

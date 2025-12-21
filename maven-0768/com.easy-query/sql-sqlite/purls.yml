@@ -857,6 +857,12 @@
 - pkg:maven/com.easy-query/sql-sqlite@2.8.12?classifier=sources
 - pkg:maven/com.easy-query/sql-sqlite@2.8.13
 - pkg:maven/com.easy-query/sql-sqlite@2.8.13?classifier=sources
+- pkg:maven/com.easy-query/sql-sqlite@2.8.14
+- pkg:maven/com.easy-query/sql-sqlite@2.8.14?classifier=sources
+- pkg:maven/com.easy-query/sql-sqlite@2.8.16
+- pkg:maven/com.easy-query/sql-sqlite@2.8.16?classifier=sources
+- pkg:maven/com.easy-query/sql-sqlite@2.8.17
+- pkg:maven/com.easy-query/sql-sqlite@2.8.17?classifier=sources
 - pkg:maven/com.easy-query/sql-sqlite@2.8.1?classifier=sources
 - pkg:maven/com.easy-query/sql-sqlite@2.8.2
 - pkg:maven/com.easy-query/sql-sqlite@2.8.2?classifier=sources

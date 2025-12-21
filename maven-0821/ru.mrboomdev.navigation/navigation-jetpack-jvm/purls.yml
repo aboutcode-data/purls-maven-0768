@@ -1,0 +1,2 @@
+- pkg:maven/ru.mrboomdev.navigation/navigation-jetpack-jvm@1.0.0?classifier=sources
+- pkg:maven/ru.mrboomdev.navigation/navigation-jetpack-jvm@1.0.1?classifier=sources

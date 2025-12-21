@@ -96,6 +96,8 @@
 - pkg:maven/org.apache.activemq/artemis-cdi-client@2.4.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-cdi-client@2.40.0
 - pkg:maven/org.apache.activemq/artemis-cdi-client@2.40.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-cdi-client@2.41.0
+- pkg:maven/org.apache.activemq/artemis-cdi-client@2.41.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-cdi-client@2.5.0
 - pkg:maven/org.apache.activemq/artemis-cdi-client@2.5.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-cdi-client@2.6.0

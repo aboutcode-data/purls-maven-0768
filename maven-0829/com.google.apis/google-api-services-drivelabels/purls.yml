@@ -18,6 +18,8 @@
 - pkg:maven/com.google.apis/google-api-services-drivelabels@v2-rev20230731-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drivelabels@v2-rev20231218-2.0.0
 - pkg:maven/com.google.apis/google-api-services-drivelabels@v2-rev20231218-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drivelabels@v2-rev20250331-2.0.0
+- pkg:maven/com.google.apis/google-api-services-drivelabels@v2-rev20250331-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drivelabels@v2beta-rev20220726-2.0.0
 - pkg:maven/com.google.apis/google-api-services-drivelabels@v2beta-rev20220726-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drivelabels@v2beta-rev20220802-2.0.0
@@ -40,3 +42,5 @@
 - pkg:maven/com.google.apis/google-api-services-drivelabels@v2beta-rev20230731-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-drivelabels@v2beta-rev20231218-2.0.0
 - pkg:maven/com.google.apis/google-api-services-drivelabels@v2beta-rev20231218-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-drivelabels@v2beta-rev20250331-2.0.0
+- pkg:maven/com.google.apis/google-api-services-drivelabels@v2beta-rev20250331-2.0.0?classifier=sources

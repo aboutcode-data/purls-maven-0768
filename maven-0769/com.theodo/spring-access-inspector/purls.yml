@@ -3,6 +3,7 @@
 - pkg:maven/com.theodo/spring-access-inspector@1.2.0?classifier=sources
 - pkg:maven/com.theodo/spring-access-inspector@1.2.1?classifier=sources
 - pkg:maven/com.theodo/spring-access-inspector@1.2.2?classifier=sources
+- pkg:maven/com.theodo/spring-access-inspector@1.2.4?classifier=sources
 - pkg:maven/com.theodo/spring-access-inspector@2.0.1?classifier=sources
 - pkg:maven/com.theodo/spring-access-inspector@2.0.2?classifier=sources
 - pkg:maven/com.theodo/spring-access-inspector@2.0.3?classifier=sources
@@ -10,3 +11,5 @@
 - pkg:maven/com.theodo/spring-access-inspector@2.2.0?classifier=sources
 - pkg:maven/com.theodo/spring-access-inspector@2.2.1?classifier=sources
 - pkg:maven/com.theodo/spring-access-inspector@2.2.2?classifier=sources
+- pkg:maven/com.theodo/spring-access-inspector@2.2.3?classifier=sources
+- pkg:maven/com.theodo/spring-access-inspector@2.2.4?classifier=sources

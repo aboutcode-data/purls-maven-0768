@@ -1,2 +1,4 @@
 - pkg:maven/io.sundr.tests/buildalbe-duplicates@0.200.3
 - pkg:maven/io.sundr.tests/buildalbe-duplicates@0.200.3?classifier=sources
+- pkg:maven/io.sundr.tests/buildalbe-duplicates@0.200.4
+- pkg:maven/io.sundr.tests/buildalbe-duplicates@0.200.4?classifier=sources

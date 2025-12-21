@@ -48,3 +48,5 @@
 - pkg:maven/io.imunity/unity-rest-api@4.0.6?classifier=sources
 - pkg:maven/io.imunity/unity-rest-api@4.1.0
 - pkg:maven/io.imunity/unity-rest-api@4.1.0?classifier=sources
+- pkg:maven/io.imunity/unity-rest-api@4.1.1
+- pkg:maven/io.imunity/unity-rest-api@4.1.1?classifier=sources

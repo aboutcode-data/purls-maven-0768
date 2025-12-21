@@ -30,3 +30,4 @@
 - pkg:maven/io.pinecone/pinecone-client@3.1.0?classifier=sources
 - pkg:maven/io.pinecone/pinecone-client@4.0.0?classifier=sources
 - pkg:maven/io.pinecone/pinecone-client@4.0.1?classifier=sources
+- pkg:maven/io.pinecone/pinecone-client@5.0.0-rc.1?classifier=sources

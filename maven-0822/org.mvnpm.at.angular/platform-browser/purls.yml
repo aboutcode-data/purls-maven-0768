@@ -55,6 +55,10 @@
 - pkg:maven/org.mvnpm.at.angular/platform-browser@19.1.7?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/platform-browser@19.1.8?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.0?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.10
+- pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.10?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.11
+- pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.11?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.1?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.3?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.4?classifier=sources
@@ -62,3 +66,7 @@
 - pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.6?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.7
 - pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.7?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.8
+- pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.8?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.9
+- pkg:maven/org.mvnpm.at.angular/platform-browser@19.2.9?classifier=sources

@@ -237,6 +237,7 @@
 - pkg:maven/org.jooq/jooq-scala_2.13@3.18.29?classifier=sources
 - pkg:maven/org.jooq/jooq-scala_2.13@3.18.2?classifier=sources
 - pkg:maven/org.jooq/jooq-scala_2.13@3.18.3
+- pkg:maven/org.jooq/jooq-scala_2.13@3.18.30?classifier=sources
 - pkg:maven/org.jooq/jooq-scala_2.13@3.18.3?classifier=sources
 - pkg:maven/org.jooq/jooq-scala_2.13@3.18.4
 - pkg:maven/org.jooq/jooq-scala_2.13@3.18.4?classifier=sources
@@ -281,6 +282,7 @@
 - pkg:maven/org.jooq/jooq-scala_2.13@3.19.21?classifier=sources
 - pkg:maven/org.jooq/jooq-scala_2.13@3.19.22
 - pkg:maven/org.jooq/jooq-scala_2.13@3.19.22?classifier=sources
+- pkg:maven/org.jooq/jooq-scala_2.13@3.19.23?classifier=sources
 - pkg:maven/org.jooq/jooq-scala_2.13@3.19.2?classifier=sources
 - pkg:maven/org.jooq/jooq-scala_2.13@3.19.3
 - pkg:maven/org.jooq/jooq-scala_2.13@3.19.3?classifier=sources

@@ -35,6 +35,7 @@
 - pkg:maven/io.telereso.kmp/core-iosx64@0.1.8?classifier=sources
 - pkg:maven/io.telereso.kmp/core-iosx64@0.1.9?classifier=sources
 - pkg:maven/io.telereso.kmp/core-iosx64@0.10.0-alpha.1?classifier=sources
+- pkg:maven/io.telereso.kmp/core-iosx64@0.10.0?classifier=sources
 - pkg:maven/io.telereso.kmp/core-iosx64@0.2.0?classifier=sources
 - pkg:maven/io.telereso.kmp/core-iosx64@0.20.0-wasm.1?classifier=sources
 - pkg:maven/io.telereso.kmp/core-iosx64@0.3.0?classifier=sources

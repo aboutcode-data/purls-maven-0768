@@ -1,0 +1,2 @@
+- pkg:maven/io.cequence/openai-scala-google-gemini-client_2.13@1.2.0
+- pkg:maven/io.cequence/openai-scala-google-gemini-client_2.13@1.2.0?classifier=sources

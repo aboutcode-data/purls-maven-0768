@@ -46,3 +46,6 @@
 - pkg:maven/io.arrow-kt/suspendapp-js@0.4.1-alpha.5?classifier=sources
 - pkg:maven/io.arrow-kt/suspendapp-js@0.5.0?classifier=sources
 - pkg:maven/io.arrow-kt/suspendapp-js@0.5.1-alpha.1?classifier=sources
+- pkg:maven/io.arrow-kt/suspendapp-js@2.1.0?classifier=sources
+- pkg:maven/io.arrow-kt/suspendapp-js@2.1.1?classifier=sources
+- pkg:maven/io.arrow-kt/suspendapp-js@2.1.2?classifier=sources

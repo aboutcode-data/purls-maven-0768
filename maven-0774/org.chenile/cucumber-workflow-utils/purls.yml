@@ -2,6 +2,10 @@
 - pkg:maven/org.chenile/cucumber-workflow-utils@2.0.12?classifier=sources
 - pkg:maven/org.chenile/cucumber-workflow-utils@2.0.13?classifier=sources
 - pkg:maven/org.chenile/cucumber-workflow-utils@2.0.16?classifier=sources
+- pkg:maven/org.chenile/cucumber-workflow-utils@2.0.17?classifier=sources
+- pkg:maven/org.chenile/cucumber-workflow-utils@2.0.20?classifier=sources
+- pkg:maven/org.chenile/cucumber-workflow-utils@2.0.21?classifier=sources
+- pkg:maven/org.chenile/cucumber-workflow-utils@2.0.22?classifier=sources
 - pkg:maven/org.chenile/cucumber-workflow-utils@2.0.7?classifier=sources
 - pkg:maven/org.chenile/cucumber-workflow-utils@2.0.8?classifier=sources
 - pkg:maven/org.chenile/cucumber-workflow-utils@2.0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.ai/spring-ai-model-chat-memory-repository-neo4j@1.0.0-RC1
+- pkg:maven/org.springframework.ai/spring-ai-model-chat-memory-repository-neo4j@1.0.0-RC1?classifier=sources

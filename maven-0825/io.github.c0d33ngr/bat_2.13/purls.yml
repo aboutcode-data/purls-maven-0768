@@ -1,0 +1,2 @@
+- pkg:maven/io.github.c0d33ngr/bat_2.13@1.0.0
+- pkg:maven/io.github.c0d33ngr/bat_2.13@1.0.0?classifier=sources

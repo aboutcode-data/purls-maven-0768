@@ -47,6 +47,7 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@11.0.0-rc2?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@11.0.0-rc3?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@11.0.0-rc4?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@11.0.0?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@5.16.33?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@6.0.0?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-archetype@6.0.1?classifier=sources

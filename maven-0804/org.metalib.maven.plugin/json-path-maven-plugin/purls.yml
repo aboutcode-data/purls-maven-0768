@@ -1,0 +1,4 @@
+- pkg:maven/org.metalib.maven.plugin/json-path-maven-plugin@0.0.2?classifier=sources
+- pkg:maven/org.metalib.maven.plugin/json-path-maven-plugin@0.0.3?classifier=sources
+- pkg:maven/org.metalib.maven.plugin/json-path-maven-plugin@0.0.4?classifier=sources
+- pkg:maven/org.metalib.maven.plugin/json-path-maven-plugin@0.0.5?classifier=sources

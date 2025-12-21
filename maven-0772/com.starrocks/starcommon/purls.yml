@@ -114,3 +114,7 @@
 - pkg:maven/com.starrocks/starcommon@3.4-rc5?classifier=sources
 - pkg:maven/com.starrocks/starcommon@3.4-rc6
 - pkg:maven/com.starrocks/starcommon@3.4-rc6?classifier=sources
+- pkg:maven/com.starrocks/starcommon@3.4.0
+- pkg:maven/com.starrocks/starcommon@3.4.0?classifier=sources
+- pkg:maven/com.starrocks/starcommon@3.5-rc1
+- pkg:maven/com.starrocks/starcommon@3.5-rc1?classifier=sources

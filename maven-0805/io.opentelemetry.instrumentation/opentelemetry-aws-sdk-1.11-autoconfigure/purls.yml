@@ -53,6 +53,7 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-sdk-1.11-autoconfigure@2.13.3-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-sdk-1.11-autoconfigure@2.14.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-sdk-1.11-autoconfigure@2.15.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-sdk-1.11-autoconfigure@2.16.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-sdk-1.11-autoconfigure@2.2.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-sdk-1.11-autoconfigure@2.3.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-sdk-1.11-autoconfigure@2.4.0-alpha?classifier=sources

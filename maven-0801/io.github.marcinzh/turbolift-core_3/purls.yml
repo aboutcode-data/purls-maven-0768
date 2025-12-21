@@ -8,6 +8,10 @@
 - pkg:maven/io.github.marcinzh/turbolift-core_3@0.106.0?classifier=sources
 - pkg:maven/io.github.marcinzh/turbolift-core_3@0.108.0
 - pkg:maven/io.github.marcinzh/turbolift-core_3@0.108.0?classifier=sources
+- pkg:maven/io.github.marcinzh/turbolift-core_3@0.110.0
+- pkg:maven/io.github.marcinzh/turbolift-core_3@0.110.0?classifier=sources
+- pkg:maven/io.github.marcinzh/turbolift-core_3@0.112.0
+- pkg:maven/io.github.marcinzh/turbolift-core_3@0.112.0?classifier=sources
 - pkg:maven/io.github.marcinzh/turbolift-core_3@0.25.0
 - pkg:maven/io.github.marcinzh/turbolift-core_3@0.25.0?classifier=sources
 - pkg:maven/io.github.marcinzh/turbolift-core_3@0.27.0

@@ -1,0 +1,2 @@
+- pkg:maven/io.cequence/openai-scala-perplexity-sonar-client_2.12@1.2.0
+- pkg:maven/io.cequence/openai-scala-perplexity-sonar-client_2.12@1.2.0?classifier=sources

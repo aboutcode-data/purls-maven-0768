@@ -12,3 +12,4 @@
 - pkg:maven/org.uitnet.testing.smartfwk/smart-testauto-mongodb-connector@6.1.2?classifier=sources
 - pkg:maven/org.uitnet.testing.smartfwk/smart-testauto-mongodb-connector@7.0.0
 - pkg:maven/org.uitnet.testing.smartfwk/smart-testauto-mongodb-connector@7.0.0?classifier=sources
+- pkg:maven/org.uitnet.testing.smartfwk/smart-testauto-mongodb-connector@8.0.0?classifier=sources

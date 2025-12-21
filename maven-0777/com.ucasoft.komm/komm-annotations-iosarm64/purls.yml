@@ -1,1 +1,3 @@
 - pkg:maven/com.ucasoft.komm/komm-annotations-iosarm64@0.22.8?classifier=sources
+- pkg:maven/com.ucasoft.komm/komm-annotations-iosarm64@0.24.3?classifier=sources
+- pkg:maven/com.ucasoft.komm/komm-annotations-iosarm64@0.25.0?classifier=sources

@@ -47,4 +47,5 @@
 - pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.26?classifier=sources
 - pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.27?classifier=sources
 - pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.28?classifier=sources
+- pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.32?classifier=sources
 - pkg:maven/com.authme/authme-sdk-ocr-utils@2.8.0-rc.9?classifier=sources

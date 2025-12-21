@@ -43,3 +43,9 @@
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-wasm-js@1.0.0-ALPHA-40-kotlin-2.1.20-RC3?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-wasm-js@1.0.0-ALPHA-40?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-wasm-js@1.0.0-ALPHA-41?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-wasm-js@1.0.0-ALPHA-42-kotlin-2.1.21-RC2?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-wasm-js@1.0.0-ALPHA-42-kotlin-2.1.21-RC?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-wasm-js@1.0.0-ALPHA-42-kotlin-2.2.0-Beta1?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-wasm-js@1.0.0-ALPHA-42?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-wasm-js@1.0.0-ALPHA-43-kotlin-2.2.0-RC?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-wasm-js@1.0.0-ALPHA-43?classifier=sources

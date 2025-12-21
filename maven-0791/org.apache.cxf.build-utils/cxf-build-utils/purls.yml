@@ -18,3 +18,4 @@
 - pkg:maven/org.apache.cxf.build-utils/cxf-build-utils@4.0.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.cxf.build-utils/cxf-build-utils@4.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.cxf.build-utils/cxf-build-utils@4.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.cxf.build-utils/cxf-build-utils@4.1.1?classifier=source-release&type=zip

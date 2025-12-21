@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.juggle/resize-observer@3.4.0
+- pkg:maven/org.mvnpm.at.juggle/resize-observer@3.4.0?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/io.github.dbmdz.cudami/cudami@9.3.1-RC1
 - pkg:maven/io.github.dbmdz.cudami/cudami@9.3.1-RC1?classifier=sources
 - pkg:maven/io.github.dbmdz.cudami/cudami@9.3.1?classifier=sources
+- pkg:maven/io.github.dbmdz.cudami/cudami@9.3.2-rc.2?classifier=sources
+- pkg:maven/io.github.dbmdz.cudami/cudami@9.3.2?classifier=sources

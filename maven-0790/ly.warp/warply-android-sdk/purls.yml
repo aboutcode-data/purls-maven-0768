@@ -212,6 +212,7 @@
 - pkg:maven/ly.warp/warply-android-sdk@4.5.5.4eu1?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.5.4m1?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.5.4m2?classifier=sources
+- pkg:maven/ly.warp/warply-android-sdk@4.5.5.4p10?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.5.4p1?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.5.4p2?classifier=sources
 - pkg:maven/ly.warp/warply-android-sdk@4.5.5.4p3?classifier=sources

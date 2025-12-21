@@ -28,3 +28,5 @@
 - pkg:maven/com.tunjid.tiler/tiler-macosarm64@1.1.0?classifier=sources
 - pkg:maven/com.tunjid.tiler/tiler-macosarm64@1.2.0-alpha01?classifier=sources
 - pkg:maven/com.tunjid.tiler/tiler-macosarm64@1.2.0-beta01?classifier=sources
+- pkg:maven/com.tunjid.tiler/tiler-macosarm64@1.2.0-rc01?classifier=sources
+- pkg:maven/com.tunjid.tiler/tiler-macosarm64@1.2.0?classifier=sources

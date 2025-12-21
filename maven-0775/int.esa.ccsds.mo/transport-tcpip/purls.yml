@@ -10,5 +10,7 @@
 - pkg:maven/int.esa.ccsds.mo/transport-tcpip@11.2?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/transport-tcpip@11.3
 - pkg:maven/int.esa.ccsds.mo/transport-tcpip@11.3?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/transport-tcpip@12.0
+- pkg:maven/int.esa.ccsds.mo/transport-tcpip@12.0?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/transport-tcpip@9.0
 - pkg:maven/int.esa.ccsds.mo/transport-tcpip@9.0?classifier=sources

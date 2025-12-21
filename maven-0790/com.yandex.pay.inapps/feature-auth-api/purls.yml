@@ -1,1 +1,2 @@
 - pkg:maven/com.yandex.pay.inapps/feature-auth-api@1.0.0-alpha?classifier=sources
+- pkg:maven/com.yandex.pay.inapps/feature-auth-api@1.0.1?classifier=sources

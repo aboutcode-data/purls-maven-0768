@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.babel/plugin-proposal-export-default-from@7.27.1
+- pkg:maven/org.mvnpm.at.babel/plugin-proposal-export-default-from@7.27.1?classifier=sources

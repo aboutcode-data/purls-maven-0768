@@ -36,3 +36,7 @@
 - pkg:maven/org.mvnpm/terser@5.38.1?classifier=sources
 - pkg:maven/org.mvnpm/terser@5.38.2?classifier=sources
 - pkg:maven/org.mvnpm/terser@5.39.0?classifier=sources
+- pkg:maven/org.mvnpm/terser@5.39.1
+- pkg:maven/org.mvnpm/terser@5.39.1?classifier=sources
+- pkg:maven/org.mvnpm/terser@5.39.2
+- pkg:maven/org.mvnpm/terser@5.39.2?classifier=sources

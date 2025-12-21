@@ -26,3 +26,4 @@
 - pkg:maven/org.webjars.npm/diff@5.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/diff@5.2.0
 - pkg:maven/org.webjars.npm/diff@5.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/diff@7.0.0

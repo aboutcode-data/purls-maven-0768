@@ -92,3 +92,5 @@
 - pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@6.0.3?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@6.1.0
 - pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@6.1.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@6.2.0
+- pkg:maven/io.zipkin.brave/brave-instrumentation-dubbo@6.2.0?classifier=sources

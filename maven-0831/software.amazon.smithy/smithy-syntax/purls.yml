@@ -26,3 +26,4 @@
 - pkg:maven/software.amazon.smithy/smithy-syntax@1.55.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-syntax@1.56.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-syntax@1.57.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-syntax@1.57.1?classifier=sources

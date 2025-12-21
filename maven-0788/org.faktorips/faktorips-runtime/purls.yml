@@ -345,6 +345,9 @@
 - pkg:maven/org.faktorips/faktorips-runtime@25.7.0.a20250225-01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime@25.7.0.a20250331-01
 - pkg:maven/org.faktorips/faktorips-runtime@25.7.0.a20250331-01?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime@25.7.0.a20250430-01
+- pkg:maven/org.faktorips/faktorips-runtime@25.7.0.a20250430-01?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime@25.7.0.a20250507-02?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime@3.13.0
 - pkg:maven/org.faktorips/faktorips-runtime@3.13.0?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime@3.13.1

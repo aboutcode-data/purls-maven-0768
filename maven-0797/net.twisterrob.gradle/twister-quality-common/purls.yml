@@ -9,5 +9,6 @@
 - pkg:maven/net.twisterrob.gradle/twister-quality-common@0.15?classifier=sources
 - pkg:maven/net.twisterrob.gradle/twister-quality-common@0.16?classifier=sources
 - pkg:maven/net.twisterrob.gradle/twister-quality-common@0.17?classifier=sources
+- pkg:maven/net.twisterrob.gradle/twister-quality-common@0.18?classifier=sources
 - pkg:maven/net.twisterrob.gradle/twister-quality-common@0.9
 - pkg:maven/net.twisterrob.gradle/twister-quality-common@0.9?classifier=sources

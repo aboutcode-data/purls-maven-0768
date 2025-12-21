@@ -1,1 +1,2 @@
 - pkg:maven/org.springframework.ai/spring-ai-starter-vector-store-hanadb@1.0.0-M7
+- pkg:maven/org.springframework.ai/spring-ai-starter-vector-store-hanadb@1.0.0-M8

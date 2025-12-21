@@ -4,3 +4,4 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring@13.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring@14.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring@15.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-spring@16.0.0.Final?classifier=source-release&type=zip

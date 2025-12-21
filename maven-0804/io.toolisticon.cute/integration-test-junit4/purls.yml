@@ -17,3 +17,4 @@
 - pkg:maven/io.toolisticon.cute/integration-test-junit4@1.5.1
 - pkg:maven/io.toolisticon.cute/integration-test-junit4@1.6.0
 - pkg:maven/io.toolisticon.cute/integration-test-junit4@1.7.0
+- pkg:maven/io.toolisticon.cute/integration-test-junit4@1.8.0

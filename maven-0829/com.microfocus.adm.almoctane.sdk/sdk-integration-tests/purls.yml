@@ -23,3 +23,4 @@
 - pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-integration-tests@24.1.4
 - pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-integration-tests@24.1.5
 - pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-integration-tests@24.3
+- pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-integration-tests@25.2

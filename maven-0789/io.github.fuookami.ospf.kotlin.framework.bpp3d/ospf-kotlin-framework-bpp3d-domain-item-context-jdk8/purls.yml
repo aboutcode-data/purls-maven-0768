@@ -10,3 +10,7 @@
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.bpp3d/ospf-kotlin-framework-bpp3d-domain-item-context-jdk8@1.0.39?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.bpp3d/ospf-kotlin-framework-bpp3d-domain-item-context-jdk8@1.0.40
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.bpp3d/ospf-kotlin-framework-bpp3d-domain-item-context-jdk8@1.0.40?classifier=sources
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.bpp3d/ospf-kotlin-framework-bpp3d-domain-item-context-jdk8@1.0.42?classifier=sources
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.bpp3d/ospf-kotlin-framework-bpp3d-domain-item-context-jdk8@1.0.43?classifier=sources
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.bpp3d/ospf-kotlin-framework-bpp3d-domain-item-context-jdk8@1.0.44?classifier=sources
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.bpp3d/ospf-kotlin-framework-bpp3d-domain-item-context-jdk8@1.0.45?classifier=sources

@@ -26,3 +26,4 @@
 - pkg:maven/com.dua3.meja/meja-ui@8.0.1?classifier=sources
 - pkg:maven/com.dua3.meja/meja-ui@8.0.2?classifier=sources
 - pkg:maven/com.dua3.meja/meja-ui@8.0.3?classifier=sources
+- pkg:maven/com.dua3.meja/meja-ui@8.0.4?classifier=sources

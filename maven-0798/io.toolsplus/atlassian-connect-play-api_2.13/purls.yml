@@ -22,3 +22,5 @@
 - pkg:maven/io.toolsplus/atlassian-connect-play-api_2.13@0.7.0?classifier=sources
 - pkg:maven/io.toolsplus/atlassian-connect-play-api_2.13@0.8.0
 - pkg:maven/io.toolsplus/atlassian-connect-play-api_2.13@0.8.0?classifier=sources
+- pkg:maven/io.toolsplus/atlassian-connect-play-api_2.13@0.8.1
+- pkg:maven/io.toolsplus/atlassian-connect-play-api_2.13@0.8.1?classifier=sources

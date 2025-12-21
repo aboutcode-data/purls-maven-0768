@@ -124,3 +124,4 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.302?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.303?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.304?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-base@3.305?classifier=sources

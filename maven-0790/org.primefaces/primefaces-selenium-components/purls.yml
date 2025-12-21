@@ -80,3 +80,5 @@
 - pkg:maven/org.primefaces/primefaces-selenium-components@15.0.2?classifier=sources
 - pkg:maven/org.primefaces/primefaces-selenium-components@15.0.3
 - pkg:maven/org.primefaces/primefaces-selenium-components@15.0.3?classifier=sources
+- pkg:maven/org.primefaces/primefaces-selenium-components@15.0.4
+- pkg:maven/org.primefaces/primefaces-selenium-components@15.0.4?classifier=sources

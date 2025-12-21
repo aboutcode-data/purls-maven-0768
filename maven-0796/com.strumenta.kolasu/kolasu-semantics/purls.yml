@@ -33,3 +33,5 @@
 - pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.79?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.80?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.81?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.82?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-semantics@1.5.83?classifier=sources

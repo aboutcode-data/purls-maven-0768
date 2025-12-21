@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.pass/nihms-token-refresh@1.14.1
 - pkg:maven/org.eclipse.pass/nihms-token-refresh@1.15.0
 - pkg:maven/org.eclipse.pass/nihms-token-refresh@2.0.0
+- pkg:maven/org.eclipse.pass/nihms-token-refresh@2.1.0
+- pkg:maven/org.eclipse.pass/nihms-token-refresh@2.1.1

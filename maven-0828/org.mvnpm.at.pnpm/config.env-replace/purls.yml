@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.pnpm/config.env-replace@1.1.0?classifier=sources
 - pkg:maven/org.mvnpm.at.pnpm/config.env-replace@3.0.1?classifier=sources
+- pkg:maven/org.mvnpm.at.pnpm/config.env-replace@3.0.2
+- pkg:maven/org.mvnpm.at.pnpm/config.env-replace@3.0.2?classifier=sources

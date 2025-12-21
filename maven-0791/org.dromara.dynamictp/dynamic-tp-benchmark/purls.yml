@@ -1,0 +1,4 @@
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-benchmark@1.2.1-beta-x?classifier=sources
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-benchmark@1.2.1-beta?classifier=sources
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-benchmark@1.2.1-x?classifier=sources
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-benchmark@1.2.1?classifier=sources

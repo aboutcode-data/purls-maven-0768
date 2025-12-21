@@ -3,6 +3,7 @@
 - pkg:maven/com.tradplusad/tradplus-google-ima@48.10.1.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-google-ima@48.10.2.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-google-ima@48.10.3.11.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-google-ima@48.14.1.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-google-ima@48.9.3.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-google-ima@48.9.3.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-google-ima@48.9.3.20.1?type=aar

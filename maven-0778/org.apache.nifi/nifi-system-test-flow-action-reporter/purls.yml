@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/nifi-system-test-flow-action-reporter@2.4.0
+- pkg:maven/org.apache.nifi/nifi-system-test-flow-action-reporter@2.4.0?classifier=sources
