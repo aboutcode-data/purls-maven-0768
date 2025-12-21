@@ -7,3 +7,5 @@
 - pkg:maven/com.ubs-hainer/filebridge-jdbc-driver@3.25.31?classifier=sources
 - pkg:maven/com.ubs-hainer/filebridge-jdbc-driver@3.25.33?classifier=sources
 - pkg:maven/com.ubs-hainer/filebridge-jdbc-driver@3.25.35?classifier=sources
+- pkg:maven/com.ubs-hainer/filebridge-jdbc-driver@3.25.37?classifier=sources
+- pkg:maven/com.ubs-hainer/filebridge-jdbc-driver@3.25.39?classifier=sources

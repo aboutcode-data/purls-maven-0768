@@ -36,6 +36,8 @@
 - pkg:maven/org.specs2/specs2-matcher_sjs1_3@4.20.9?classifier=sources
 - pkg:maven/org.specs2/specs2-matcher_sjs1_3@4.21.0
 - pkg:maven/org.specs2/specs2-matcher_sjs1_3@4.21.0?classifier=sources
+- pkg:maven/org.specs2/specs2-matcher_sjs1_3@4.22.0
+- pkg:maven/org.specs2/specs2-matcher_sjs1_3@4.22.0?classifier=sources
 - pkg:maven/org.specs2/specs2-matcher_sjs1_3@5.0.0
 - pkg:maven/org.specs2/specs2-matcher_sjs1_3@5.0.0-RC-01
 - pkg:maven/org.specs2/specs2-matcher_sjs1_3@5.0.0-RC-01?classifier=sources

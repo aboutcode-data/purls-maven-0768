@@ -24,3 +24,4 @@
 - pkg:maven/it.bz.opendatahub.alpinebits/examples-inventory@2.1.2?type=war
 - pkg:maven/it.bz.opendatahub.alpinebits/examples-inventory@3.0.0?classifier=sources
 - pkg:maven/it.bz.opendatahub.alpinebits/examples-inventory@3.0.0?type=war
+- pkg:maven/it.bz.opendatahub.alpinebits/examples-inventory@4.0.1?classifier=sources

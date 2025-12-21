@@ -52,3 +52,4 @@
 - pkg:maven/org.comixedproject/comixed-adaptors@2.3.8?classifier=sources
 - pkg:maven/org.comixedproject/comixed-adaptors@2.3.9
 - pkg:maven/org.comixedproject/comixed-adaptors@2.3.9?classifier=sources
+- pkg:maven/org.comixedproject/comixed-adaptors@3.0.0?classifier=sources

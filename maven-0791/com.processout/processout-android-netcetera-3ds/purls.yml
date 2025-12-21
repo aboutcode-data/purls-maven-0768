@@ -2,3 +2,4 @@
 - pkg:maven/com.processout/processout-android-netcetera-3ds@4.34.0?classifier=sources
 - pkg:maven/com.processout/processout-android-netcetera-3ds@4.35.0?classifier=sources
 - pkg:maven/com.processout/processout-android-netcetera-3ds@4.36.0?classifier=sources
+- pkg:maven/com.processout/processout-android-netcetera-3ds@4.36.1?classifier=sources

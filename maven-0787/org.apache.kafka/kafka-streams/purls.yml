@@ -105,4 +105,5 @@
 - pkg:maven/org.apache.kafka/kafka-streams@3.9.0?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-streams@3.9.1?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-streams@4.0.0?classifier=sources
+- pkg:maven/org.apache.kafka/kafka-streams@4.0.1?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-streams@4.1.0?classifier=sources

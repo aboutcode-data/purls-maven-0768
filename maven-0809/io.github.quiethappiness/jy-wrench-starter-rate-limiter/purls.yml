@@ -3,3 +3,5 @@
 - pkg:maven/io.github.quiethappiness/jy-wrench-starter-rate-limiter@1.0.3?classifier=sources
 - pkg:maven/io.github.quiethappiness/jy-wrench-starter-rate-limiter@1.0.4?classifier=sources
 - pkg:maven/io.github.quiethappiness/jy-wrench-starter-rate-limiter@1.1.0?classifier=sources
+- pkg:maven/io.github.quiethappiness/jy-wrench-starter-rate-limiter@1.2.0?classifier=sources
+- pkg:maven/io.github.quiethappiness/jy-wrench-starter-rate-limiter@1.2.1?classifier=sources

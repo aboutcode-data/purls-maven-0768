@@ -1,2 +1,3 @@
 - pkg:maven/org.qubership.atp.environments/env-scripts@1.5.91?classifier=sources
 - pkg:maven/org.qubership.atp.environments/env-scripts@1.5.92?classifier=sources
+- pkg:maven/org.qubership.atp.environments/env-scripts@1.5.93?classifier=sources

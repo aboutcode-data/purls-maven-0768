@@ -13,3 +13,4 @@
 - pkg:maven/com.worldline-solutions/sdk-client-android@4.0.0?classifier=sources
 - pkg:maven/com.worldline-solutions/sdk-client-android@4.0.1?classifier=sources
 - pkg:maven/com.worldline-solutions/sdk-client-android@4.1.0?classifier=sources
+- pkg:maven/com.worldline-solutions/sdk-client-android@4.1.1?classifier=sources

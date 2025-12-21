@@ -2,3 +2,4 @@
 - pkg:maven/org.somda.sdc/common-model@5.0.0?classifier=sources
 - pkg:maven/org.somda.sdc/common-model@6.0.0?classifier=sources
 - pkg:maven/org.somda.sdc/common-model@6.0.1?classifier=sources
+- pkg:maven/org.somda.sdc/common-model@7.0.0-alpha.2?classifier=sources

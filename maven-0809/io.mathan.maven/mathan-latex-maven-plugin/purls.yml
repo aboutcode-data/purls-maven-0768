@@ -8,3 +8,4 @@
 - pkg:maven/io.mathan.maven/mathan-latex-maven-plugin@1.0.2?classifier=sources
 - pkg:maven/io.mathan.maven/mathan-latex-maven-plugin@1.0.4
 - pkg:maven/io.mathan.maven/mathan-latex-maven-plugin@1.0.4?classifier=sources
+- pkg:maven/io.mathan.maven/mathan-latex-maven-plugin@1.0.5?classifier=sources

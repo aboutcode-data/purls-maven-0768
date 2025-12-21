@@ -1,0 +1,5 @@
+- pkg:maven/net.lsafer.compose-simpleform/compose-simpleform-wasm-js@0.0.7-RC.0?classifier=sources
+- pkg:maven/net.lsafer.compose-simpleform/compose-simpleform-wasm-js@0.0.7-rc.1?classifier=sources
+- pkg:maven/net.lsafer.compose-simpleform/compose-simpleform-wasm-js@0.0.7-rc.2?classifier=sources
+- pkg:maven/net.lsafer.compose-simpleform/compose-simpleform-wasm-js@0.0.7-rc.3?classifier=sources
+- pkg:maven/net.lsafer.compose-simpleform/compose-simpleform-wasm-js@0.0.7-rc.4?classifier=sources

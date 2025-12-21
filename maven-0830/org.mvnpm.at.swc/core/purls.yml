@@ -36,8 +36,12 @@
 - pkg:maven/org.mvnpm.at.swc/core@1.13.0
 - pkg:maven/org.mvnpm.at.swc/core@1.13.0?classifier=sources
 - pkg:maven/org.mvnpm.at.swc/core@1.13.1
+- pkg:maven/org.mvnpm.at.swc/core@1.13.19
+- pkg:maven/org.mvnpm.at.swc/core@1.13.19?classifier=sources
 - pkg:maven/org.mvnpm.at.swc/core@1.13.1?classifier=sources
 - pkg:maven/org.mvnpm.at.swc/core@1.13.2
+- pkg:maven/org.mvnpm.at.swc/core@1.13.20
+- pkg:maven/org.mvnpm.at.swc/core@1.13.20?classifier=sources
 - pkg:maven/org.mvnpm.at.swc/core@1.13.2?classifier=sources
 - pkg:maven/org.mvnpm.at.swc/core@1.13.3
 - pkg:maven/org.mvnpm.at.swc/core@1.13.3?classifier=sources

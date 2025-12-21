@@ -160,3 +160,4 @@
 - pkg:maven/org.axonframework/axon-modelling@5.0.0-M2.1?classifier=sources
 - pkg:maven/org.axonframework/axon-modelling@5.0.0-M2?classifier=sources
 - pkg:maven/org.axonframework/axon-modelling@5.0.0-M3?classifier=sources
+- pkg:maven/org.axonframework/axon-modelling@5.0.0-preview?classifier=sources

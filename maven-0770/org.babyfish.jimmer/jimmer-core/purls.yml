@@ -560,6 +560,7 @@
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.9.109?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.9.10?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.9.110?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-core@0.9.111?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.9.11?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.9.12?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-core@0.9.13?classifier=sources

@@ -394,3 +394,7 @@
 - pkg:maven/software.amazon.awsconstructs/lambdasecretsmanager@2.92.1?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdasecretsmanager@2.92.2
 - pkg:maven/software.amazon.awsconstructs/lambdasecretsmanager@2.92.2?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdasecretsmanager@2.93.0
+- pkg:maven/software.amazon.awsconstructs/lambdasecretsmanager@2.93.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdasecretsmanager@2.94.0
+- pkg:maven/software.amazon.awsconstructs/lambdasecretsmanager@2.94.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/dev.icerock.moko/resources-wasm-js@0.25.0?classifier=sources
+- pkg:maven/dev.icerock.moko/resources-wasm-js@0.25.1?classifier=sources

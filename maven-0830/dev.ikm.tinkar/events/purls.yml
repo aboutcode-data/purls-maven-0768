@@ -10,3 +10,4 @@
 - pkg:maven/dev.ikm.tinkar/events@1.122.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/events@1.123.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/events@1.124.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/events@1.125.0?classifier=sources

@@ -10,6 +10,10 @@
 - pkg:maven/it.unimi.dsi/fastutil-core@8.5.15?classifier=sources
 - pkg:maven/it.unimi.dsi/fastutil-core@8.5.16
 - pkg:maven/it.unimi.dsi/fastutil-core@8.5.16?classifier=sources
+- pkg:maven/it.unimi.dsi/fastutil-core@8.5.17
+- pkg:maven/it.unimi.dsi/fastutil-core@8.5.17?classifier=sources
+- pkg:maven/it.unimi.dsi/fastutil-core@8.5.18
+- pkg:maven/it.unimi.dsi/fastutil-core@8.5.18?classifier=sources
 - pkg:maven/it.unimi.dsi/fastutil-core@8.5.3
 - pkg:maven/it.unimi.dsi/fastutil-core@8.5.3?classifier=sources
 - pkg:maven/it.unimi.dsi/fastutil-core@8.5.4

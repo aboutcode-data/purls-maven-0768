@@ -1,3 +1,5 @@
 - pkg:maven/com.codbex.hyperion/codbex-hyperion-components-ui-menu-help@2.56.0?classifier=sources
 - pkg:maven/com.codbex.hyperion/codbex-hyperion-components-ui-menu-help@2.57.0?classifier=sources
 - pkg:maven/com.codbex.hyperion/codbex-hyperion-components-ui-menu-help@2.58.0?classifier=sources
+- pkg:maven/com.codbex.hyperion/codbex-hyperion-components-ui-menu-help@2.59.0?classifier=sources
+- pkg:maven/com.codbex.hyperion/codbex-hyperion-components-ui-menu-help@2.60.0?classifier=sources

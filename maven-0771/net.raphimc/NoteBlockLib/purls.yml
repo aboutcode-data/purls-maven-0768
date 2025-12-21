@@ -7,3 +7,4 @@
 - pkg:maven/net.raphimc/NoteBlockLib@2.1.4?classifier=sources
 - pkg:maven/net.raphimc/NoteBlockLib@3.0.0?classifier=sources
 - pkg:maven/net.raphimc/NoteBlockLib@3.1.0?classifier=sources
+- pkg:maven/net.raphimc/NoteBlockLib@3.1.1?classifier=sources

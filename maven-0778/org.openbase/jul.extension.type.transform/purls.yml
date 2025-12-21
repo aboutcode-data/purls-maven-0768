@@ -16,3 +16,4 @@
 - pkg:maven/org.openbase/jul.extension.type.transform@3.4.0?classifier=sources
 - pkg:maven/org.openbase/jul.extension.type.transform@3.5.0?classifier=sources
 - pkg:maven/org.openbase/jul.extension.type.transform@3.6.0?classifier=sources
+- pkg:maven/org.openbase/jul.extension.type.transform@3.7.2?classifier=sources

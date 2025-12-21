@@ -11,3 +11,8 @@
 - pkg:maven/com.aspectran/aspectran-logging@8.5.1?classifier=sources
 - pkg:maven/com.aspectran/aspectran-logging@8.5.2?classifier=sources
 - pkg:maven/com.aspectran/aspectran-logging@8.5.3?classifier=sources
+- pkg:maven/com.aspectran/aspectran-logging@9.0.0?classifier=sources
+- pkg:maven/com.aspectran/aspectran-logging@9.0.1?classifier=sources
+- pkg:maven/com.aspectran/aspectran-logging@9.0.2?classifier=sources
+- pkg:maven/com.aspectran/aspectran-logging@9.0.3?classifier=sources
+- pkg:maven/com.aspectran/aspectran-logging@9.1.0?classifier=sources

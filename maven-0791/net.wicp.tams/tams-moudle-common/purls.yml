@@ -1,3 +1,4 @@
 - pkg:maven/net.wicp.tams/tams-moudle-common@2.0.0
 - pkg:maven/net.wicp.tams/tams-moudle-common@2.0.0?classifier=sources
 - pkg:maven/net.wicp.tams/tams-moudle-common@3.0.0?classifier=sources
+- pkg:maven/net.wicp.tams/tams-moudle-common@3.0.1?classifier=sources

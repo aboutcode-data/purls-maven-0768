@@ -84,3 +84,9 @@
 - pkg:maven/com.malliina/primitives_sjs1_2.13@3.8.2?classifier=sources
 - pkg:maven/com.malliina/primitives_sjs1_2.13@3.8.3
 - pkg:maven/com.malliina/primitives_sjs1_2.13@3.8.3?classifier=sources
+- pkg:maven/com.malliina/primitives_sjs1_2.13@3.8.4
+- pkg:maven/com.malliina/primitives_sjs1_2.13@3.8.4?classifier=sources
+- pkg:maven/com.malliina/primitives_sjs1_2.13@6.10.0
+- pkg:maven/com.malliina/primitives_sjs1_2.13@6.10.0?classifier=sources
+- pkg:maven/com.malliina/primitives_sjs1_2.13@6.10.1
+- pkg:maven/com.malliina/primitives_sjs1_2.13@6.10.1?classifier=sources

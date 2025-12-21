@@ -20,3 +20,4 @@
 - pkg:maven/io.openremote/openremote-container@1.7.0?classifier=sources
 - pkg:maven/io.openremote/openremote-container@1.8.0?classifier=sources
 - pkg:maven/io.openremote/openremote-container@1.8.1?classifier=sources
+- pkg:maven/io.openremote/openremote-container@1.9.0?classifier=sources

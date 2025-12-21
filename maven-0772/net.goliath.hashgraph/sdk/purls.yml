@@ -1,0 +1,2 @@
+- pkg:maven/net.goliath.hashgraph/sdk@2.62.0
+- pkg:maven/net.goliath.hashgraph/sdk@2.62.0?classifier=sources

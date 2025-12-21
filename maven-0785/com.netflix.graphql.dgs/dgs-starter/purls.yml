@@ -11,3 +11,4 @@
 - pkg:maven/com.netflix.graphql.dgs/dgs-starter@10.2.3?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/dgs-starter@10.2.4?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/dgs-starter@10.3.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/dgs-starter@10.4.0?classifier=sources

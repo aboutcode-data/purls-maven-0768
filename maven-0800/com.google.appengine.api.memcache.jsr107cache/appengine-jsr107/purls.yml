@@ -64,3 +64,4 @@
 - pkg:maven/com.google.appengine.api.memcache.jsr107cache/appengine-jsr107@2.0.8?classifier=sources
 - pkg:maven/com.google.appengine.api.memcache.jsr107cache/appengine-jsr107@2.0.9
 - pkg:maven/com.google.appengine.api.memcache.jsr107cache/appengine-jsr107@2.0.9?classifier=sources
+- pkg:maven/com.google.appengine.api.memcache.jsr107cache/appengine-jsr107@3.0.0-beta?classifier=sources

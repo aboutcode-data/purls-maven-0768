@@ -9,3 +9,4 @@
 - pkg:maven/cool.scx/scx-ffm-platform@1.0.8?classifier=sources
 - pkg:maven/cool.scx/scx-ffm-platform@1.0.9?classifier=sources
 - pkg:maven/cool.scx/scx-ffm-platform@1.1.0?classifier=sources
+- pkg:maven/cool.scx/scx-ffm-platform@2.0.0?classifier=sources

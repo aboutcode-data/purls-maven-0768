@@ -54,3 +54,5 @@
 - pkg:maven/se.jguru.shared.json.spi.jackson/jguru-shared-json-spi-jackson@2.2.0?classifier=sources
 - pkg:maven/se.jguru.shared.json.spi.jackson/jguru-shared-json-spi-jackson@3.0.0
 - pkg:maven/se.jguru.shared.json.spi.jackson/jguru-shared-json-spi-jackson@3.0.0?classifier=sources
+- pkg:maven/se.jguru.shared.json.spi.jackson/jguru-shared-json-spi-jackson@3.0.1
+- pkg:maven/se.jguru.shared.json.spi.jackson/jguru-shared-json-spi-jackson@3.0.1?classifier=sources

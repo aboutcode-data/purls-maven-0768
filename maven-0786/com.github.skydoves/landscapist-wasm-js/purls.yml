@@ -14,3 +14,5 @@
 - pkg:maven/com.github.skydoves/landscapist-wasm-js@2.5.0?classifier=sources
 - pkg:maven/com.github.skydoves/landscapist-wasm-js@2.5.1?classifier=sources
 - pkg:maven/com.github.skydoves/landscapist-wasm-js@2.5.2?classifier=sources
+- pkg:maven/com.github.skydoves/landscapist-wasm-js@2.6.0?classifier=sources
+- pkg:maven/com.github.skydoves/landscapist-wasm-js@2.6.1?classifier=sources

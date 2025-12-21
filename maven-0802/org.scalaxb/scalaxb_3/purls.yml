@@ -6,3 +6,5 @@
 - pkg:maven/org.scalaxb/scalaxb_3@1.12.2?classifier=sources
 - pkg:maven/org.scalaxb/scalaxb_3@1.12.3
 - pkg:maven/org.scalaxb/scalaxb_3@1.12.3?classifier=sources
+- pkg:maven/org.scalaxb/scalaxb_3@1.12.4
+- pkg:maven/org.scalaxb/scalaxb_3@1.12.4?classifier=sources

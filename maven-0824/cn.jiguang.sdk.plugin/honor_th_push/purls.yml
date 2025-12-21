@@ -1,1 +1,2 @@
+- pkg:maven/cn.jiguang.sdk.plugin/honor_th_push@5.9.0?classifier=sources
 - pkg:maven/cn.jiguang.sdk.plugin/honor_th_push@t.1.0.0.3?classifier=sources

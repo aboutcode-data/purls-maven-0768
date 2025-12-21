@@ -16,3 +16,4 @@
 - pkg:maven/com.github.skjolber.xml-log-filter/xml-log-filter-jax-rs@1.0.7?classifier=sources
 - pkg:maven/com.github.skjolber.xml-log-filter/xml-log-filter-jax-rs@1.0.8
 - pkg:maven/com.github.skjolber.xml-log-filter/xml-log-filter-jax-rs@1.0.8?classifier=sources
+- pkg:maven/com.github.skjolber.xml-log-filter/xml-log-filter-jax-rs@2.0.0?classifier=sources

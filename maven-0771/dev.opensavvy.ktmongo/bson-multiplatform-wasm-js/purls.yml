@@ -1,1 +1,2 @@
 - pkg:maven/dev.opensavvy.ktmongo/bson-multiplatform-wasm-js@0.22.0?classifier=sources
+- pkg:maven/dev.opensavvy.ktmongo/bson-multiplatform-wasm-js@0.23.0?classifier=sources

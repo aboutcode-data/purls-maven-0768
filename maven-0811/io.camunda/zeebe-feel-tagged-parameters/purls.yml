@@ -6,3 +6,9 @@
 - pkg:maven/io.camunda/zeebe-feel-tagged-parameters@8.8.0-alpha8-rc3
 - pkg:maven/io.camunda/zeebe-feel-tagged-parameters@8.8.0-alpha8-rc3?classifier=sources
 - pkg:maven/io.camunda/zeebe-feel-tagged-parameters@8.8.0-alpha8?classifier=sources
+- pkg:maven/io.camunda/zeebe-feel-tagged-parameters@8.8.0-rc1
+- pkg:maven/io.camunda/zeebe-feel-tagged-parameters@8.8.0-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-feel-tagged-parameters@8.8.0-rc2
+- pkg:maven/io.camunda/zeebe-feel-tagged-parameters@8.8.0-rc2?classifier=sources
+- pkg:maven/io.camunda/zeebe-feel-tagged-parameters@8.8.0-rc3
+- pkg:maven/io.camunda/zeebe-feel-tagged-parameters@8.8.0-rc3?classifier=sources

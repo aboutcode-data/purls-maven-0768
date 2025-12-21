@@ -6,3 +6,4 @@
 - pkg:maven/cn.enaium/fabric-orm-jimmer@1.0.2%2Bjimmer.0.9.107?classifier=sources
 - pkg:maven/cn.enaium/fabric-orm-jimmer@1.0.2%2Bjimmer.0.9.109?classifier=sources
 - pkg:maven/cn.enaium/fabric-orm-jimmer@1.0.2%2Bjimmer.0.9.110?classifier=sources
+- pkg:maven/cn.enaium/fabric-orm-jimmer@1.0.2%2Bjimmer.0.9.111?classifier=sources

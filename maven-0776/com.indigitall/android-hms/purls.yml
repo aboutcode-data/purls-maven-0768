@@ -7,3 +7,5 @@
 - pkg:maven/com.indigitall/android-hms@5.22.1?classifier=sources
 - pkg:maven/com.indigitall/android-hms@5.23.0?classifier=sources
 - pkg:maven/com.indigitall/android-hms@5.24.0?classifier=sources
+- pkg:maven/com.indigitall/android-hms@5.24.1?classifier=sources
+- pkg:maven/com.indigitall/android-hms@5.24.2?classifier=sources

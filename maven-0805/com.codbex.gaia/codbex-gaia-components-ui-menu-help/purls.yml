@@ -1,3 +1,6 @@
 - pkg:maven/com.codbex.gaia/codbex-gaia-components-ui-menu-help@2.65.0?classifier=sources
 - pkg:maven/com.codbex.gaia/codbex-gaia-components-ui-menu-help@2.66.0?classifier=sources
 - pkg:maven/com.codbex.gaia/codbex-gaia-components-ui-menu-help@2.67.0?classifier=sources
+- pkg:maven/com.codbex.gaia/codbex-gaia-components-ui-menu-help@2.68.0?classifier=sources
+- pkg:maven/com.codbex.gaia/codbex-gaia-components-ui-menu-help@2.69.0?classifier=sources
+- pkg:maven/com.codbex.gaia/codbex-gaia-components-ui-menu-help@2.70.0?classifier=sources

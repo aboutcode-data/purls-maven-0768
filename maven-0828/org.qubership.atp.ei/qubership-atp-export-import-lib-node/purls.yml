@@ -3,3 +3,4 @@
 - pkg:maven/org.qubership.atp.ei/qubership-atp-export-import-lib-node@0.2.42?classifier=sources
 - pkg:maven/org.qubership.atp.ei/qubership-atp-export-import-lib-node@0.2.43?classifier=sources
 - pkg:maven/org.qubership.atp.ei/qubership-atp-export-import-lib-node@0.2.44?classifier=sources
+- pkg:maven/org.qubership.atp.ei/qubership-atp-export-import-lib-node@0.2.45?classifier=sources

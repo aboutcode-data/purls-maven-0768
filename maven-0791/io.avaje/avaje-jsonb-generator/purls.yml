@@ -206,3 +206,4 @@
 - pkg:maven/io.avaje/avaje-jsonb-generator@3.7-RC3?classifier=sources
 - pkg:maven/io.avaje/avaje-jsonb-generator@3.7?classifier=sources
 - pkg:maven/io.avaje/avaje-jsonb-generator@3.8-RC1?classifier=sources
+- pkg:maven/io.avaje/avaje-jsonb-generator@3.8-RC2?classifier=sources

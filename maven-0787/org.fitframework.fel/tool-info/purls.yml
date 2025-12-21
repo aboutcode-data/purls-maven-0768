@@ -5,3 +5,5 @@
 - pkg:maven/org.fitframework.fel/tool-info@3.5.0-M6?classifier=sources
 - pkg:maven/org.fitframework.fel/tool-info@3.5.0?classifier=sources
 - pkg:maven/org.fitframework.fel/tool-info@3.5.1?classifier=sources
+- pkg:maven/org.fitframework.fel/tool-info@3.5.2?classifier=sources
+- pkg:maven/org.fitframework.fel/tool-info@3.5.3?classifier=sources

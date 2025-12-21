@@ -14,3 +14,4 @@
 - pkg:maven/com.merkle.oss.magnolia/magnolia-appbuilder@1.6.6?classifier=sources
 - pkg:maven/com.merkle.oss.magnolia/magnolia-appbuilder@1.6.7?classifier=sources
 - pkg:maven/com.merkle.oss.magnolia/magnolia-appbuilder@1.6.8?classifier=sources
+- pkg:maven/com.merkle.oss.magnolia/magnolia-appbuilder@1.6.9?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/org.mvnpm/d3@3.5.17?classifier=sources
+- pkg:maven/org.mvnpm/d3@5.16.0
+- pkg:maven/org.mvnpm/d3@5.16.0?classifier=sources
 - pkg:maven/org.mvnpm/d3@7.0.0?classifier=sources
 - pkg:maven/org.mvnpm/d3@7.4.0?classifier=sources
 - pkg:maven/org.mvnpm/d3@7.6.0?classifier=sources

@@ -27,3 +27,4 @@
 - pkg:maven/chat.dim/Crypto@1.2.0
 - pkg:maven/chat.dim/Crypto@1.2.0?classifier=sources
 - pkg:maven/chat.dim/Crypto@2.0.0?classifier=sources
+- pkg:maven/chat.dim/Crypto@2.1.0?classifier=sources

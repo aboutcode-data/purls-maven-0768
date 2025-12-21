@@ -84,3 +84,4 @@
 - pkg:maven/com.datadoghq/dd-sdk-android-sqldelight@2.8.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-sqldelight@2.9.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-sqldelight@3.0.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-sqldelight@3.1.0?classifier=sources

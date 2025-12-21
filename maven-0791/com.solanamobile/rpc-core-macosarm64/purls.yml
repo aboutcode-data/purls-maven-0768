@@ -1,3 +1,4 @@
+- pkg:maven/com.solanamobile/rpc-core-macosarm64@0.2.10?classifier=sources
 - pkg:maven/com.solanamobile/rpc-core-macosarm64@0.2.2-test?classifier=sources
 - pkg:maven/com.solanamobile/rpc-core-macosarm64@0.2.2?classifier=sources
 - pkg:maven/com.solanamobile/rpc-core-macosarm64@0.2.3?classifier=sources

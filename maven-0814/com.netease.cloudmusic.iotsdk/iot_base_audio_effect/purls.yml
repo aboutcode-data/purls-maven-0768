@@ -489,3 +489,9 @@
 - pkg:maven/com.netease.cloudmusic.iotsdk/iot_base_audio_effect@0.4.5.20250911105136?classifier=sources
 - pkg:maven/com.netease.cloudmusic.iotsdk/iot_base_audio_effect@0.4.5.20250911150350?classifier=sources
 - pkg:maven/com.netease.cloudmusic.iotsdk/iot_base_audio_effect@0.4.5.20250911162139?classifier=sources
+- pkg:maven/com.netease.cloudmusic.iotsdk/iot_base_audio_effect@0.4.5.20250917112629?classifier=sources
+- pkg:maven/com.netease.cloudmusic.iotsdk/iot_base_audio_effect@0.4.5.20250917160854?classifier=sources
+- pkg:maven/com.netease.cloudmusic.iotsdk/iot_base_audio_effect@0.4.5.20250918110115?classifier=sources
+- pkg:maven/com.netease.cloudmusic.iotsdk/iot_base_audio_effect@0.4.5.20250919100723?classifier=sources
+- pkg:maven/com.netease.cloudmusic.iotsdk/iot_base_audio_effect@0.4.5.20250923141154?classifier=sources
+- pkg:maven/com.netease.cloudmusic.iotsdk/iot_base_audio_effect@0.4.5.20250928135645?classifier=sources

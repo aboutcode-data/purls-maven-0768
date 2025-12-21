@@ -1,1 +1,4 @@
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-parametermanager@6.4.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-parametermanager@7.3.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-parametermanager@7.3.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-parametermanager@7.3.2

@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.knox/gateway-provider-security-authc-anon@1.6.1?classifier=sources
 - pkg:maven/org.apache.knox/gateway-provider-security-authc-anon@2.0.0
 - pkg:maven/org.apache.knox/gateway-provider-security-authc-anon@2.0.0?classifier=sources
+- pkg:maven/org.apache.knox/gateway-provider-security-authc-anon@2.1.0
+- pkg:maven/org.apache.knox/gateway-provider-security-authc-anon@2.1.0?classifier=sources

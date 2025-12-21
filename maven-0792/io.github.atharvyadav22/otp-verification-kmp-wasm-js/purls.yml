@@ -1,1 +1,2 @@
 - pkg:maven/io.github.atharvyadav22/otp-verification-kmp-wasm-js@1.1.0?classifier=sources
+- pkg:maven/io.github.atharvyadav22/otp-verification-kmp-wasm-js@1.2.0?classifier=sources

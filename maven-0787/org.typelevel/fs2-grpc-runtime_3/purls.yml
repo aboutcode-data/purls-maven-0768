@@ -26,6 +26,8 @@
 - pkg:maven/org.typelevel/fs2-grpc-runtime_3@2.1.8?classifier=sources
 - pkg:maven/org.typelevel/fs2-grpc-runtime_3@2.1.9
 - pkg:maven/org.typelevel/fs2-grpc-runtime_3@2.1.9?classifier=sources
+- pkg:maven/org.typelevel/fs2-grpc-runtime_3@2.10.0
+- pkg:maven/org.typelevel/fs2-grpc-runtime_3@2.10.0?classifier=sources
 - pkg:maven/org.typelevel/fs2-grpc-runtime_3@2.2.0
 - pkg:maven/org.typelevel/fs2-grpc-runtime_3@2.2.0?classifier=sources
 - pkg:maven/org.typelevel/fs2-grpc-runtime_3@2.2.1
@@ -156,3 +158,5 @@
 - pkg:maven/org.typelevel/fs2-grpc-runtime_3@2.8.3?classifier=sources
 - pkg:maven/org.typelevel/fs2-grpc-runtime_3@2.8.4
 - pkg:maven/org.typelevel/fs2-grpc-runtime_3@2.8.4?classifier=sources
+- pkg:maven/org.typelevel/fs2-grpc-runtime_3@2.9.0
+- pkg:maven/org.typelevel/fs2-grpc-runtime_3@2.9.0?classifier=sources

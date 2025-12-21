@@ -283,3 +283,4 @@
 - pkg:maven/com.gitee.l0km/sql2java-velocity@5.6.0-alpha8?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-velocity@5.6.0-alpha?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-velocity@5.6.0?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-velocity@5.6.1?classifier=sources

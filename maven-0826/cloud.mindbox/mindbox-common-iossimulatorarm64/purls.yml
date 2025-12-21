@@ -1,1 +1,2 @@
 - pkg:maven/cloud.mindbox/mindbox-common-iossimulatorarm64@1.0.4?classifier=sources
+- pkg:maven/cloud.mindbox/mindbox-common-iossimulatorarm64@2.14.1?classifier=sources

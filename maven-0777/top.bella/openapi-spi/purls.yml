@@ -21,4 +21,7 @@
 - pkg:maven/top.bella/openapi-spi@1.1.74?classifier=sources
 - pkg:maven/top.bella/openapi-spi@1.1.75?classifier=sources
 - pkg:maven/top.bella/openapi-spi@1.1.76?classifier=sources
+- pkg:maven/top.bella/openapi-spi@1.1.81?classifier=sources
 - pkg:maven/top.bella/openapi-spi@1.1.8?classifier=sources
+- pkg:maven/top.bella/openapi-spi@1.2.0?classifier=sources
+- pkg:maven/top.bella/openapi-spi@1.2.1?classifier=sources

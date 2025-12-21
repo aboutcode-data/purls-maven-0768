@@ -2,3 +2,5 @@
 - pkg:maven/io.bitbucket.seamlabsweb/admoresdk@1.4.0?type=aar
 - pkg:maven/io.bitbucket.seamlabsweb/admoresdk@1.4.4?classifier=sources
 - pkg:maven/io.bitbucket.seamlabsweb/admoresdk@1.4.4?type=aar
+- pkg:maven/io.bitbucket.seamlabsweb/admoresdk@1.4.5?classifier=sources
+- pkg:maven/io.bitbucket.seamlabsweb/admoresdk@1.4.5?type=aar

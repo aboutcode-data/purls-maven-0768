@@ -1,1 +1,2 @@
 - pkg:maven/software.amazon.app.platform/di-common-public-iossimulatorarm64@0.0.6?classifier=sources
+- pkg:maven/software.amazon.app.platform/di-common-public-iossimulatorarm64@0.0.7?classifier=sources
